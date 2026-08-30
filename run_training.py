@@ -8,7 +8,9 @@ SCRIPT_DIR = Path(__file__).parent.absolute()
 
 # Primary model: train10/weights/best.pt (Now inside Fine-tuning)
 MODEL_PATH = SCRIPT_DIR / "train10" / "weights" / "best.pt"
-DATA_YAML = SCRIPT_DIR / "concentrix.yaml"
+DATA_YAML = SCRIPT_DIR / "configs" / "concentrix.yaml"
+if not DATA_YAML.exists():
+    DATA_YAML = SCRIPT_DIR / "concentrix.yaml"
 
 # Code: ultralytics folder (Should be moved into Fine-tuning)
 YOLOV8_LIB = SCRIPT_DIR
