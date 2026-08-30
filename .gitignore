@@ -5,15 +5,18 @@ __pycache__/
 *.pyd
 .pytest_cache/
 
+# Large Datasets & Annotations Cache
+ultralytics/dataset/
+labels.cache
+*.cache
+
 # Large Model Weights (>100MB limit on GitHub)
 *.pt
 *.pth
 *.onnx
 
-# Large Processed Data Arrays & Caches
+# Large Processed Data Arrays
 *.npy
-*.cache
-labels.cache
 
 # Operating System
 .DS_Store
