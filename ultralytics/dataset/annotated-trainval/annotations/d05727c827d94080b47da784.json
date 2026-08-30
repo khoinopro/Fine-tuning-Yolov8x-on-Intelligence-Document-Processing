@@ -1,0 +1,234 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.776924685785439,
+        0.36182370820668697,
+        0.8361341881007043,
+        0.3756838905775076
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/14/00"
+    },
+    {
+      "bbox": [
+        0.3848617650492237,
+        0.156790273556231,
+        0.5616901435853534,
+        0.19900303951367782
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "25 N.E. 52nd Street\nP.O. Box 18716\nOklahoma City, OK 73154"
+    },
+    {
+      "bbox": [
+        0.38646202186855516,
+        0.8762164133738601,
+        0.6929112027705359,
+        0.8924984802431611
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Oklahoma Grocers Education Foundation"
+    },
+    {
+      "bbox": [
+        0.38646202186855516,
+        0.8763815039018297,
+        0.6937480520492442,
+        0.924459574468085
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Oklahoma Grocers Education Foundation\nP.O. Box 18716\nOklahoma City, OK 73154"
+    },
+    {
+      "bbox": [
+        0.15602503988482042,
+        0.7736996960486323,
+        0.2624421183703646,
+        0.7887756838905775
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "73-1377411"
+    },
+    {
+      "bbox": [
+        0.11441836258220164,
+        0.40328267477203644,
+        0.5143028284244974,
+        0.4387607350317944
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris\nc/oSchnake, Turnbo, Brookey & Associates"
+    },
+    {
+      "bbox": [
+        0.1120179773532044,
+        0.4031529174707547,
+        0.5136824390054088,
+        0.4756474164133738
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris\nc/oSchnake, Turnbo, Brookey & Associates\n401 S. Boston, Suite 300\nTulsa, OK 74103"
+    },
+    {
+      "bbox": [
+        0.7129144130121794,
+        0.6447999999999999,
+        0.7289169812054943,
+        0.6610820668693009
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7129144130121794,
+        0.6447999999999999,
+        0.8089298221720689,
+        0.6616851063829787
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 1,000.00"
+    },
+    {
+      "bbox": [
+        0.7145146698315109,
+        0.6441969604863221,
+        0.8065294369430717,
+        0.6616851063829787
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2217741935483871,
+        0.5896656534954408,
+        0.5274193548387097,
+        0.6103343465045593
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "OGEF Golf Luncheon Sponsorship"
+    },
+    {
+      "bbox": [
+        0.7129032258064516,
+        0.5896656534954408,
+        0.8056451612903226,
+        0.6103343465045593
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 1,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2217741935483871,
+        0.556838905775076,
+        0.333653546830616,
+        0.5738601823708207
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7121142846025137,
+        0.5553993920972644,
+        0.830533289233044,
+        0.5704753799392097
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount Due"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 299,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ykcm0010",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2217741935483871,
+          0.556838905775076,
+          0.8354838709677419,
+          0.6656534954407295
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2217741935483871,
+            "right": 0.5274193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7129032258064516,
+            "right": 0.8056451612903226
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5738601823708207,
+            "row_type": "header",
+            "top": 0.556838905775076
+          },
+          {
+            "bottom": 0.5896656534954408,
+            "row_type": "gap",
+            "top": 0.5738601823708207
+          },
+          {
+            "bottom": 0.6103343465045593,
+            "row_type": "data",
+            "top": 0.5896656534954408
+          },
+          {
+            "bottom": 0.643161094224924,
+            "row_type": "gap",
+            "top": 0.6103343465045593
+          },
+          {
+            "bottom": 0.6656534954407295,
+            "row_type": "footer",
+            "top": 0.643161094224924
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

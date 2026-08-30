@@ -1,0 +1,260 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.9003943863614048,
+        0.050312668660002946,
+        0.9635964525954189,
+        0.06288869605522011
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "40386429"
+    },
+    {
+      "bbox": [
+        0.9148997786118344,
+        0.08952028348038589,
+        0.9615242537025003,
+        0.10209631087560306
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/15/01"
+    },
+    {
+      "bbox": [
+        0.9026446305398018,
+        0.0693870983900294,
+        0.9656809208623824,
+        0.08438971477373342
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "00-37390"
+    },
+    {
+      "bbox": [
+        0.4372579337941209,
+        0.8104910747161183,
+        0.6310085302820003,
+        0.824546634746067
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Washington Inventory Service"
+    },
+    {
+      "bbox": [
+        0.43687648537851154,
+        0.8108358714897954,
+        0.6496583203182669,
+        0.865973548518547
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Washington Inventory Service\n9265 Sky Park Court, Suite 100\nP.O. Box 939080\nSan Diego, CA 92193-9090"
+    },
+    {
+      "bbox": [
+        0.21346045335892344,
+        0.04513430443844293,
+        0.537759580100668,
+        0.06362846237258583
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Washington Inventory Service"
+    },
+    {
+      "bbox": [
+        0.2093160555730864,
+        0.046258064798485724,
+        0.538434953120447,
+        0.10283607719296878
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Washington Inventory Service\nDept L-2079\nColumbus, OH 43260"
+    },
+    {
+      "bbox": [
+        0.2041355583407902,
+        0.141303925695986,
+        0.26422932623542655,
+        0.15314018677383748
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "9006448"
+    },
+    {
+      "bbox": [
+        0.2032258064516129,
+        0.17163434470798034,
+        0.5688425634944455,
+        0.18347060578583183
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJREYNOLDS TOBACCO COMPANY - DORAL SPIKE"
+    },
+    {
+      "bbox": [
+        0.20517165778724944,
+        0.17127986799601916,
+        0.5708286023139955,
+        0.23303494904933478
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJ REYNOLDS TOBACCO COMPANY - DORAL SPIKE\nATTN: DON FITZGERALD\n401 NORTH MAIN STREET\nWINSTON SALEM, NC 27106"
+    },
+    {
+      "bbox": [
+        0.17201647550055352,
+        0.2700506692095668,
+        0.49735170168875736,
+        0.2855857618742468
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 15 DAYS FROM INVOICE DATE"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.20241935483870968,
+        0.3540587219343696,
+        0.3903225806451613,
+        0.3690270581462291
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Spreadsheet billing 3/15/01"
+    },
+    {
+      "bbox": [
+        0.8911290322580645,
+        0.3540587219343696,
+        0.9620967741935483,
+        0.3690270581462291
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "131,688.10"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.40306665206096576,
+        0.30638141752640263,
+        0.5232541878502386,
+        0.3204369775563512
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.850661612931361,
+        0.30638141752640263,
+        0.930441270308723,
+        0.3204369775563512
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1137,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gnjd0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1686,
+        2362
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08548387096774193,
+          0.29015544041450775,
+          0.9620967741935483,
+          0.8065630397236615
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.20241935483870968,
+            "right": 0.3903225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8911290322580645,
+            "right": 0.9620967741935483
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3223949337938975,
+            "row_type": "header",
+            "top": 0.29015544041450775
+          },
+          {
+            "bottom": 0.3540587219343696,
+            "row_type": "gap",
+            "top": 0.3223949337938975
+          },
+          {
+            "bottom": 0.3690270581462291,
+            "row_type": "data",
+            "top": 0.3540587219343696
+          },
+          {
+            "bottom": 0.3828439838802533,
+            "row_type": "gap",
+            "top": 0.3690270581462291
+          },
+          {
+            "bottom": 0.39896373056994816,
+            "row_type": "gap-with-text",
+            "top": 0.3828439838802533
+          },
+          {
+            "bottom": 0.6499712147380541,
+            "row_type": "gap",
+            "top": 0.39896373056994816
+          },
+          {
+            "bottom": 0.7265400115141047,
+            "row_type": "gap-with-text",
+            "top": 0.6499712147380541
+          },
+          {
+            "bottom": 0.8065630397236615,
+            "row_type": "gap",
+            "top": 0.7265400115141047
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

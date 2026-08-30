@@ -1,0 +1,324 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.12045577471747941,
+        0.8911290322580645,
+        0.13532685801593364
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "J99-1455"
+    },
+    {
+      "bbox": [
+        0.6465157692768918,
+        0.12045577471747941,
+        0.7114456169804534,
+        0.13607041218085636
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10-25-99"
+    },
+    {
+      "bbox": [
+        0.2400771965195246,
+        0.869535228592121,
+        0.5890064755965944,
+        0.8828962335824065
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 117 Atlantic Beach, New York 11509"
+    },
+    {
+      "bbox": [
+        0.1282258064516129,
+        0.23050179112604083,
+        0.2420955750089939,
+        0.24314221192972693
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "See Factor, Inc."
+    },
+    {
+      "bbox": [
+        0.13406020090548953,
+        0.22917132758606967,
+        0.3200113922532678,
+        0.2899861243198578
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "See Factor, Inc.\n37-11 30th Street\nLong Island City, NY 11101\nAttn: Ada"
+    },
+    {
+      "bbox": [
+        0.8241935483870968,
+        0.9153199741435035,
+        0.8951612903225806,
+        0.9308338720103426
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "197.50"
+    },
+    {
+      "bbox": [
+        0.8264642043410482,
+        0.9178432793337741,
+        0.8943548387096775,
+        0.9308338720103426
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "197.50"
+    },
+    {
+      "bbox": [
+        0.1836587120757885,
+        0.5661421366338587,
+        0.26621237558460253,
+        0.5802696657673903
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 15 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.4744667097608274,
+        0.32903225806451614,
+        0.48933419521654814
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Pick up at See Factor"
+    },
+    {
+      "bbox": [
+        0.8467741935483871,
+        0.4744667097608274,
+        0.8959677419354839,
+        0.48933419521654814
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "47.50"
+    },
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.48933419521654814,
+        0.32903225806451614,
+        0.5048480930833872
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Air freight from New York to Orlando"
+    },
+    {
+      "bbox": [
+        0.8467741935483871,
+        0.48933419521654814,
+        0.8959677419354839,
+        0.5048480930833872
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "60.00"
+    },
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.5048480930833872,
+        0.32903225806451614,
+        0.5203619909502263
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Special 9AM delivery in Orlando"
+    },
+    {
+      "bbox": [
+        0.8467741935483871,
+        0.5048480930833872,
+        0.8959677419354839,
+        0.5203619909502263
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "65.00"
+    },
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.5203619909502263,
+        0.32903225806451614,
+        0.5358758888170653
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Handling"
+    },
+    {
+      "bbox": [
+        0.8467741935483871,
+        0.5203619909502263,
+        0.8959677419354839,
+        0.5358758888170653
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "25.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.35005907508286194,
+        0.21459148396939054,
+        0.36645617772835554
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7922279840555104,
+        0.35082173101986164,
+        0.8850114416475973,
+        0.3653121938228559
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 290,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "srgk0014",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07741935483870968,
+          0.3438914027149321,
+          0.9266129032258065,
+          0.9508726567550096
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07741935483870968,
+            "right": 0.32903225806451614
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8467741935483871,
+            "right": 0.8959677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3684550743374273,
+            "row_type": "header",
+            "top": 0.3438914027149321
+          },
+          {
+            "bottom": 0.39819004524886875,
+            "row_type": "gap",
+            "top": 0.3684550743374273
+          },
+          {
+            "bottom": 0.45895281189398834,
+            "row_type": "gap-with-text",
+            "top": 0.39819004524886875
+          },
+          {
+            "bottom": 0.4744667097608274,
+            "row_type": "gap",
+            "top": 0.45895281189398834
+          },
+          {
+            "bottom": 0.48933419521654814,
+            "row_type": "data",
+            "top": 0.4744667097608274
+          },
+          {
+            "bottom": 0.5048480930833872,
+            "row_type": "data",
+            "top": 0.48933419521654814
+          },
+          {
+            "bottom": 0.5203619909502263,
+            "row_type": "data",
+            "top": 0.5048480930833872
+          },
+          {
+            "bottom": 0.5358758888170653,
+            "row_type": "data",
+            "top": 0.5203619909502263
+          },
+          {
+            "bottom": 0.5513897866839044,
+            "row_type": "gap",
+            "top": 0.5358758888170653
+          },
+          {
+            "bottom": 0.5966386554621849,
+            "row_type": "gap-with-text",
+            "top": 0.5513897866839044
+          },
+          {
+            "bottom": 0.751131221719457,
+            "row_type": "gap",
+            "top": 0.5966386554621849
+          },
+          {
+            "bottom": 0.8636069812540401,
+            "row_type": "gap-with-text",
+            "top": 0.751131221719457
+          },
+          {
+            "bottom": 0.9508726567550096,
+            "row_type": "footer",
+            "top": 0.8636069812540401
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

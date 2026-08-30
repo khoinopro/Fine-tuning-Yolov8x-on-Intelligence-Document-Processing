@@ -1,0 +1,278 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.1415943503501107,
+        0.06308229426433914,
+        0.21999122229536974,
+        0.0785436408977556
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/10/18"
+    },
+    {
+      "bbox": [
+        0.40958365750992476,
+        0.043910224438902745,
+        0.46638139126618383,
+        0.059990024937655866
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KOFO"
+    },
+    {
+      "bbox": [
+        0.40958365750992476,
+        0.04597334788029925,
+        0.46638139126618383,
+        0.06019778678304239
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "KOFO"
+    },
+    {
+      "bbox": [
+        0.14079438226903662,
+        0.15337655860349125,
+        0.3519859556725916,
+        0.17131172069825437
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "John Hall for Kansas"
+    },
+    {
+      "bbox": [
+        0.13999441418796257,
+        0.15213965087281797,
+        0.35038601951044346,
+        0.22140648379052372
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "John Hall for Kansas\nPO BOX 185\nPomona, KS 66076"
+    },
+    {
+      "bbox": [
+        0.8055678576415903,
+        0.18986533665835412,
+        0.8766129032258064,
+        0.2047082294264339
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "230.85"
+    },
+    {
+      "bbox": [
+        0.8047678895605163,
+        0.19001995012468825,
+        0.8759650487761086,
+        0.20548129675810473
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "230.85"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.041935483870967745,
+        0.4669576059850374,
+        0.12419354838709677,
+        0.486284289276808
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "9/11/18"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.4669576059850374,
+        0.23548387096774193,
+        0.486284289276808
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11/6/18"
+    },
+    {
+      "bbox": [
+        0.8838709677419355,
+        0.4669576059850374,
+        0.9290322580645162,
+        0.486284289276808
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.35"
+    },
+    {
+      "bbox": [
+        0.04479821254014802,
+        0.5208927680798005,
+        0.11199553135037005,
+        0.5369725685785536
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "#4549"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.0679972868912961,
+        0.41637406483790523,
+        0.12159514832325892,
+        0.4491521197007481
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Start\nDate"
+    },
+    {
+      "bbox": [
+        0.1615935523769625,
+        0.3798852867830424,
+        0.2583896901869252,
+        0.3965835411471322
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "End Date"
+    },
+    {
+      "bbox": [
+        0.8943643146408122,
+        0.37926683291770574,
+        0.9423623995052567,
+        0.3953466334164588
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.05999760608055539,
+        0.45100748129675805,
+        0.12639495680970333,
+        0.4658503740648379
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Cart #"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 37,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "55517828-1f71-4880-b866-2b6bd73c6ce7",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ],
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.036290322580645164,
+          0.3790523690773067,
+          0.9612903225806452,
+          0.9295511221945137
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.041935483870967745,
+            "right": 0.12419354838709677
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.1596774193548387,
+            "right": 0.23548387096774193
+          },
+          {
+            "column_type": "",
+            "left": 0.27741935483870966,
+            "right": 0.31209677419354837
+          },
+          {
+            "column_type": "",
+            "left": 0.38064516129032255,
+            "right": 0.40403225806451615
+          },
+          {
+            "column_type": "",
+            "left": 0.4838709677419355,
+            "right": 0.5088709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.5838709677419355,
+            "right": 0.6
+          },
+          {
+            "column_type": "",
+            "left": 0.6282258064516129,
+            "right": 0.6443548387096775
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.8838709677419355,
+            "right": 0.9290322580645162
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4669576059850374,
+            "row_type": "header",
+            "top": 0.3790523690773067
+          },
+          {
+            "bottom": 0.486284289276808,
+            "row_type": "data",
+            "top": 0.4669576059850374
+          },
+          {
+            "bottom": 0.5386533665835411,
+            "row_type": "up-merge",
+            "top": 0.486284289276808
+          },
+          {
+            "bottom": 0.9295511221945137,
+            "row_type": "gap",
+            "top": 0.5386533665835411
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

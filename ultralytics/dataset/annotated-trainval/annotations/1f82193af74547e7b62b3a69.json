@@ -1,0 +1,267 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7290408419028652,
+        0.226120864390984,
+        0.7923758347782794,
+        0.24155028807883938
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "711-16"
+    },
+    {
+      "bbox": [
+        0.640234167110165,
+        0.2761334791033428,
+        0.8051857348640272,
+        0.2915065791339673
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 20, 2007"
+    },
+    {
+      "bbox": [
+        0.12598156191522603,
+        0.7251829133292027,
+        0.31874023588387784,
+        0.7422084842951121
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Bellomy Research, Inc."
+    },
+    {
+      "bbox": [
+        0.12666998575082836,
+        0.7244201398009763,
+        0.3545382753351989,
+        0.7727291569850527
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Bellomy Research, Inc.\n175 Sunnynoll Court\nWinston-Salem, NC 27106"
+    },
+    {
+      "bbox": [
+        0.30369505434545374,
+        0.8484802865975918,
+        0.4034680693177354,
+        0.864036322143024
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "56-1173448"
+    },
+    {
+      "bbox": [
+        0.12598156191522603,
+        0.343171664781611,
+        0.4109890298545898,
+        0.3793510030841684
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Mitch Stiles\nR. J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.1252931380796237,
+        0.34423175986163185,
+        0.4090650108322956,
+        0.4272354214257886
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Mitch Stiles\nR. J. Reynolds Tobacco Company\nBowman Gray Technical Center\nReynolds Boulevard\nWinston-Salem, NC 27106"
+    },
+    {
+      "bbox": [
+        0.6526257961510069,
+        0.6661254640412045,
+        0.6657058490274511,
+        0.6820869368217447
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6532258064516129,
+        0.6650613658558353,
+        0.724221875053649,
+        0.6826189859144293
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$18,820"
+    },
+    {
+      "bbox": [
+        0.6508064516129032,
+        0.66559341494852,
+        0.7228450273824444,
+        0.6820869368217447
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$18,820"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.5648379052369077,
+        0.2887096774193548,
+        0.577930174563591
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Recruiting"
+    },
+    {
+      "bbox": [
+        0.646774193548387,
+        0.5648379052369077,
+        0.7258064516129032,
+        0.577930174563591
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ 10,260"
+    },
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.5910224438902744,
+        0.2887096774193548,
+        0.6028678304239401
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Compensation"
+    },
+    {
+      "bbox": [
+        0.646774193548387,
+        0.5910224438902744,
+        0.7258064516129032,
+        0.6028678304239401
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6,400"
+    },
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.614713216957606,
+        0.2887096774193548,
+        0.6302992518703242
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "On-site Supervision"
+    },
+    {
+      "bbox": [
+        0.646774193548387,
+        0.614713216957606,
+        0.7258064516129032,
+        0.6302992518703242
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2,160"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 374,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "szjm0228",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12580645161290321,
+          0.5648379052369077,
+          0.7258064516129032,
+          0.683291770573566
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12580645161290321,
+            "right": 0.2887096774193548
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.646774193548387,
+            "right": 0.7258064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.577930174563591,
+            "row_type": "data",
+            "top": 0.5648379052369077
+          },
+          {
+            "bottom": 0.5910224438902744,
+            "row_type": "gap",
+            "top": 0.577930174563591
+          },
+          {
+            "bottom": 0.6028678304239401,
+            "row_type": "data",
+            "top": 0.5910224438902744
+          },
+          {
+            "bottom": 0.614713216957606,
+            "row_type": "gap",
+            "top": 0.6028678304239401
+          },
+          {
+            "bottom": 0.6302992518703242,
+            "row_type": "data",
+            "top": 0.614713216957606
+          },
+          {
+            "bottom": 0.6645885286783042,
+            "row_type": "gap",
+            "top": 0.6302992518703242
+          },
+          {
+            "bottom": 0.683291770573566,
+            "row_type": "footer",
+            "top": 0.6645885286783042
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

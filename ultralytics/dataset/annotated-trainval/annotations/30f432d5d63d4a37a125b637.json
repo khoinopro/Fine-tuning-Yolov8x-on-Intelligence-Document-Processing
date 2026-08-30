@@ -1,0 +1,442 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8250517287756833,
+        0.01795475113122172,
+        0.9098776097167333,
+        0.04039819004524887
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "22515"
+    },
+    {
+      "bbox": [
+        0.8418568561319291,
+        0.23597672915319973,
+        0.9330846903515488,
+        0.2532902391725921
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "07/27/99"
+    },
+    {
+      "bbox": [
+        0.10810230237276906,
+        0.23794831365835034,
+        0.2017909644291689,
+        0.25206691299806777
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "CONTRACT"
+    },
+    {
+      "bbox": [
+        0.16885151772227858,
+        0.07438396897220427,
+        0.46014039189720457,
+        0.08720879120879121
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "37-11 30TH STREET, LONG ISLAND CITY, N.Y. 11101"
+    },
+    {
+      "bbox": [
+        0.7530297543917731,
+        0.07117776341305752,
+        0.8106473338989013,
+        0.0846438267614738
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "22515"
+    },
+    {
+      "bbox": [
+        0.1320402863705022,
+        0.08656755009696185,
+        0.28248618841689255,
+        0.11635423400129283
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS\nPHILIP MORRIS"
+    },
+    {
+      "bbox": [
+        0.1328405305303234,
+        0.08471159603830447,
+        0.4185276955865009,
+        0.16159276018099547
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRI (718)784-4200\nPHILIP MORRIS\n120 PARK AVE / 121h FLOOR\nATTN: EVETT ROBINSON\nNEW YORK N.Y. 10017-5592"
+    },
+    {
+      "bbox": [
+        0.5945814107471705,
+        0.10003361344537816,
+        0.7450273127935608,
+        0.11606464124111182
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "PHILIP MORRIS"
+    },
+    {
+      "bbox": [
+        0.5937811665873493,
+        0.09947194989346358,
+        0.7447047496790757,
+        0.14748545572074984
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "PHILIP MORRIS\n116th STREET\nNYC"
+    },
+    {
+      "bbox": [
+        0.869865401725672,
+        0.7991467356173239,
+        0.9386863994702973,
+        0.8132540400775695
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "404.32"
+    },
+    {
+      "bbox": [
+        0.8922722382006663,
+        0.8446748545572075,
+        0.9386863994702973,
+        0.8607058823529411
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.8690651575658508,
+        0.9062340012928248,
+        0.9386863994702973,
+        0.9209825468648998
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "404.32"
+    },
+    {
+      "bbox": [
+        0.8682649134060295,
+        0.9062340012928248,
+        0.9386863994702973,
+        0.9216237879767292
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "404.32"
+    },
+    {
+      "bbox": [
+        0.614587514742701,
+        0.23725921137685846,
+        0.7546302427114155,
+        0.2532902391725921
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "UPON RECEIPT"
+    },
+    {
+      "bbox": [
+        0.8690651575658508,
+        0.7997879767291531,
+        0.9386863994702973,
+        0.8138952811893988
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "404.32"
+    },
+    {
+      "bbox": [
+        0.8922722382006663,
+        0.8453160956690368,
+        0.9386863994702973,
+        0.8600646412411118
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.8690651575658508,
+        0.9070355526826115,
+        0.9378861553104761,
+        0.9217840982546864
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "404.32"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.26370967741935486,
+        0.29928894634776987,
+        0.5604838709677419,
+        0.31351001939237233
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "TELEPHONE CHARGES"
+    },
+    {
+      "bbox": [
+        0.7612903225806451,
+        0.29928894634776987,
+        0.8330645161290322,
+        0.31351001939237233
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "67.65"
+    },
+    {
+      "bbox": [
+        0.8725806451612903,
+        0.29928894634776987,
+        0.9483870967741935,
+        0.31351001939237233
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "67.65"
+    },
+    {
+      "bbox": [
+        0.26370967741935486,
+        0.32967032967032966,
+        0.5604838709677419,
+        0.3438914027149321
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "TELEPHONE CHARGES"
+    },
+    {
+      "bbox": [
+        0.7612903225806451,
+        0.32967032967032966,
+        0.8330645161290322,
+        0.3438914027149321
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "230.27"
+    },
+    {
+      "bbox": [
+        0.8725806451612903,
+        0.32967032967032966,
+        0.9483870967741935,
+        0.3438914027149321
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "230.27"
+    },
+    {
+      "bbox": [
+        0.26370967741935486,
+        0.36005171299288946,
+        0.5604838709677419,
+        0.3762120232708468
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "TELEPONE / SKY TEL CHARGES"
+    },
+    {
+      "bbox": [
+        0.7612903225806451,
+        0.36005171299288946,
+        0.8330645161290322,
+        0.3762120232708468
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "106.40"
+    },
+    {
+      "bbox": [
+        0.8725806451612903,
+        0.36005171299288946,
+        0.9483870967741935,
+        0.3762120232708468
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "106.40"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.41772745142667966,
+        0.2568170652876535,
+        0.5257604130025451,
+        0.26964188752424045
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7818385441453373,
+        0.26130575307045895,
+        0.8162490430176499,
+        0.2844214608920491
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT\nPRICE"
+    },
+    {
+      "bbox": [
+        0.8418568561319291,
+        0.2600232708468002,
+        0.9098776097167333,
+        0.2837491919844861
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXTENDED\nPRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 447,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xhxy0009",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07338709677419354,
+          0.2572721396250808,
+          0.9483870967741935,
+          0.9230769230769231
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.26370967741935486,
+            "right": 0.5604838709677419
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.7612903225806451,
+            "right": 0.8330645161290322
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8725806451612903,
+            "right": 0.9483870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2844214608920491,
+            "row_type": "header",
+            "top": 0.2572721396250808
+          },
+          {
+            "bottom": 0.29928894634776987,
+            "row_type": "gap",
+            "top": 0.2844214608920491
+          },
+          {
+            "bottom": 0.31351001939237233,
+            "row_type": "data",
+            "top": 0.29928894634776987
+          },
+          {
+            "bottom": 0.32967032967032966,
+            "row_type": "gap",
+            "top": 0.31351001939237233
+          },
+          {
+            "bottom": 0.3438914027149321,
+            "row_type": "data",
+            "top": 0.32967032967032966
+          },
+          {
+            "bottom": 0.36005171299288946,
+            "row_type": "gap",
+            "top": 0.3438914027149321
+          },
+          {
+            "bottom": 0.3762120232708468,
+            "row_type": "data",
+            "top": 0.36005171299288946
+          },
+          {
+            "bottom": 0.40530058177117,
+            "row_type": "gap",
+            "top": 0.3762120232708468
+          },
+          {
+            "bottom": 0.42081447963800905,
+            "row_type": "gap-with-text",
+            "top": 0.40530058177117
+          },
+          {
+            "bottom": 0.7937944408532643,
+            "row_type": "gap",
+            "top": 0.42081447963800905
+          },
+          {
+            "bottom": 0.9230769230769231,
+            "row_type": "footer",
+            "top": 0.7937944408532643
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

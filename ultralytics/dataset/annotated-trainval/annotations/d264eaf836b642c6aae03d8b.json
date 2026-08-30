@@ -1,0 +1,298 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7155799588194921,
+        0.09791051006844122,
+        0.7717254632807138,
+        0.11068144616432486
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "27429"
+    },
+    {
+      "bbox": [
+        0.7177817433081675,
+        0.11238423764377602,
+        0.8003486616334934,
+        0.12600656947938524
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/31/20"
+    },
+    {
+      "bbox": [
+        0.7188826355525051,
+        0.1447372757533479,
+        0.7695236787920384,
+        0.15665681610950596
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "14124"
+    },
+    {
+      "bbox": [
+        0.3918412997409937,
+        0.02372118484277112,
+        0.5696648614708422,
+        0.03710236603612919
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Truth Broadcasting"
+    },
+    {
+      "bbox": [
+        0.3721705517620281,
+        0.022504713825193114,
+        0.5995643983988699,
+        0.06568943494921232
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Truth Broadcasting\n4405 Providence Lane\nWinston-Salem, NC 27106"
+    },
+    {
+      "bbox": [
+        0.719949376030139,
+        0.12955416337205766,
+        0.7600777019072287,
+        0.1398941670214707
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "4073"
+    },
+    {
+      "bbox": [
+        0.13061376658033122,
+        0.19037771425095798,
+        0.3383368652382074,
+        0.20254242442673803
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Friends of Jim Oneill"
+    },
+    {
+      "bbox": [
+        0.9119358763048426,
+        0.7596861504774649,
+        0.971734950160898,
+        0.7718508606532449
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1029.4"
+    },
+    {
+      "bbox": [
+        0.9119358763048426,
+        0.8229426433915212,
+        0.9709481202417393,
+        0.8344991180585123
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1029.4"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03387096774193549,
+        0.3385286783042394,
+        0.11290322580645161,
+        0.35286783042394015
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/31/20"
+    },
+    {
+      "bbox": [
+        0.2564516129032258,
+        0.3385286783042394,
+        0.5241935483870968,
+        0.35286783042394015
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Friends of Jim Oneill 10/28"
+    },
+    {
+      "bbox": [
+        0.7362903225806452,
+        0.3385286783042394,
+        0.7895161290322581,
+        0.35286783042394015
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "23.53"
+    },
+    {
+      "bbox": [
+        0.03387096774193549,
+        0.35286783042394015,
+        0.11290322580645161,
+        0.3690773067331671
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "10/31/20"
+    },
+    {
+      "bbox": [
+        0.2564516129032258,
+        0.35286783042394015,
+        0.5241935483870968,
+        0.3690773067331671
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Friends of Jim Oneill 10/28"
+    },
+    {
+      "bbox": [
+        0.7362903225806452,
+        0.35286783042394015,
+        0.7895161290322581,
+        0.3690773067331671
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "23.53"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.029724090597117364,
+        0.3107594449998352,
+        0.11229100892244337,
+        0.3235303810957188
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Run Date"
+    },
+    {
+      "bbox": [
+        0.40402745367192855,
+        0.3107594449998352,
+        0.5141166781056966,
+        0.32523317257517
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7144790665751544,
+        0.3107594449998352,
+        0.7596156485929993,
+        0.32523317257517
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 841,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "9a8389fc-7925-47f5-abf7-f76600a6673d",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03387096774193549,
+          0.3023690773067332,
+          0.9790322580645161,
+          0.8466334164588528
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.03387096774193549,
+            "right": 0.11290322580645161
+          },
+          {
+            "column_type": "",
+            "left": 0.1282258064516129,
+            "right": 0.18225806451612903
+          },
+          {
+            "column_type": "",
+            "left": 0.20887096774193548,
+            "right": 0.25
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2564516129032258,
+            "right": 0.5241935483870968
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7362903225806452,
+            "right": 0.7895161290322581
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3385286783042394,
+            "row_type": "header",
+            "top": 0.3023690773067332
+          },
+          {
+            "bottom": 0.35286783042394015,
+            "row_type": "data",
+            "top": 0.3385286783042394
+          },
+          {
+            "bottom": 0.3690773067331671,
+            "row_type": "data",
+            "top": 0.35286783042394015
+          },
+          {
+            "bottom": 0.7512468827930174,
+            "row_type": "gap",
+            "top": 0.3690773067331671
+          },
+          {
+            "bottom": 0.8466334164588528,
+            "row_type": "footer",
+            "top": 0.7512468827930174
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

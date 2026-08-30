@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.18879246713348094,
+        0.18399002493765587,
+        0.24559020088974007,
+        0.19635910224438902
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/20/00"
+    },
+    {
+      "bbox": [
+        0.14079438226903662,
+        0.2118204488778055,
+        0.25998962634907336,
+        0.2248079800498753
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Dr. Carlos Alvarez"
+    },
+    {
+      "bbox": [
+        0.1415943503501107,
+        0.2396508728179551,
+        0.6959722305344426,
+        0.25387531172069827
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Instituto de las Clinicas Cardiovasculares, Paraguay 3128, 1425 Buenos Aires, Argentina"
+    },
+    {
+      "bbox": [
+        0.43951612903225806,
+        0.15615960099750623,
+        0.5263789973467393,
+        0.1672917705735661
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-R80-470"
+    },
+    {
+      "bbox": [
+        0.14879406307977736,
+        0.10792019950124687,
+        0.27438905180840667,
+        0.12090773067331671
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.14079438226903662,
+        0.2680997506234414,
+        0.3967841682127396,
+        0.2804688279301746
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "4201 Commerce Road, Gate C, Door 17"
+    },
+    {
+      "bbox": [
+        0.7903684641011829,
+        0.7540498753117207,
+        0.80156801723622,
+        0.7676558603491271
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7911290322580645,
+        0.755286783042394,
+        0.8663654318032198,
+        0.7676558603491271
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$41,000.00"
+    },
+    {
+      "bbox": [
+        0.7929328817548805,
+        0.7553916521411964,
+        0.8655746382697873,
+        0.766222718084045
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$41,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.29274193548387095,
+        0.4800498753117207,
+        0.521774193548387,
+        0.5081047381546134
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Expert consulting services for\nDr. Carlos Alvarez"
+    },
+    {
+      "bbox": [
+        0.29274193548387095,
+        0.523067331670823,
+        0.521774193548387,
+        0.5523690773067331
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Expenses incurred due to consulting\nby Dr. Alvarez"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2975881261595547,
+        0.39302743142144636,
+        0.3647854449697767,
+        0.4047780548628429
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 490,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "pkgm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14838709677419354,
+          0.39089775561097256,
+          0.8725806451612903,
+          0.7718204488778054
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.29274193548387095,
+            "right": 0.521774193548387
+          },
+          {
+            "column_type": "",
+            "left": 0.592741935483871,
+            "right": 0.667741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4170822942643391,
+            "row_type": "header",
+            "top": 0.39089775561097256
+          },
+          {
+            "bottom": 0.4339152119700748,
+            "row_type": "gap",
+            "top": 0.4170822942643391
+          },
+          {
+            "bottom": 0.4644638403990025,
+            "row_type": "gap-with-text",
+            "top": 0.4339152119700748
+          },
+          {
+            "bottom": 0.4800498753117207,
+            "row_type": "gap",
+            "top": 0.4644638403990025
+          },
+          {
+            "bottom": 0.5081047381546134,
+            "row_type": "data",
+            "top": 0.4800498753117207
+          },
+          {
+            "bottom": 0.523067331670823,
+            "row_type": "gap",
+            "top": 0.5081047381546134
+          },
+          {
+            "bottom": 0.5523690773067331,
+            "row_type": "data",
+            "top": 0.523067331670823
+          },
+          {
+            "bottom": 0.566708229426434,
+            "row_type": "gap",
+            "top": 0.5523690773067331
+          },
+          {
+            "bottom": 0.5822942643391521,
+            "row_type": "gap-with-text",
+            "top": 0.566708229426434
+          },
+          {
+            "bottom": 0.7381546134663342,
+            "row_type": "gap",
+            "top": 0.5822942643391521
+          },
+          {
+            "bottom": 0.7718204488778054,
+            "row_type": "footer",
+            "top": 0.7381546134663342
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

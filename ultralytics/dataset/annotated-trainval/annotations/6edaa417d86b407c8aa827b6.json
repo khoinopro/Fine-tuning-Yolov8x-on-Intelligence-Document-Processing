@@ -1,0 +1,276 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8119307009618962,
+        0.17581047381546136,
+        0.8684035712387735,
+        0.1899327073065967
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "2015-2"
+    },
+    {
+      "bbox": [
+        0.7970133390019664,
+        0.13995829893165457,
+        0.8801243556358612,
+        0.15396911411118974
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "4/21/2015"
+    },
+    {
+      "bbox": [
+        0.10239859392040501,
+        0.1597958307042031,
+        0.4043432444944152,
+        0.17265772151133588
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "6400 Perkins Road \u2022 Baton Rouge, LA 70808"
+    },
+    {
+      "bbox": [
+        0.34395431437961316,
+        0.6503416090335777,
+        0.6861986501567732,
+        0.6643430040591249
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "Pennington Biomedical Research Foundation"
+    },
+    {
+      "bbox": [
+        0.1693548387096774,
+        0.20199501246882792,
+        0.2578572567359303,
+        0.21458275198257598
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 1,
+      "text": "58-1767810"
+    },
+    {
+      "bbox": [
+        0.0873731200510177,
+        0.26980184710192046,
+        0.27384014455014083,
+        0.28463682788025185
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "The Coca-Cola Company"
+    },
+    {
+      "bbox": [
+        0.8012754424190892,
+        0.592949697693701,
+        0.8183238560875804,
+        0.6077846784720323
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8069361119264289,
+        0.5946932144245342,
+        0.8993038210129138,
+        0.6086088440708285
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$17,000.00"
+    },
+    {
+      "bbox": [
+        0.806060910040707,
+        0.5937738632924972,
+        0.8988323099272144,
+        0.608232046853095
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$17,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08951612903225807,
+        0.43017456359102246,
+        0.17096774193548386,
+        0.46384039900249374
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "4/21/2015"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.43017456359102246,
+        0.6862903225806452,
+        0.46384039900249374
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "Grant: To provide for tavel in supportofsharing knowledge and\nresearch related to ISCOLE and active, healthy lifestyles"
+    },
+    {
+      "bbox": [
+        0.8137096774193548,
+        0.43017456359102246,
+        0.8991935483870968,
+        0.46384039900249374
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "$17,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.08951612903225807,
+        0.39775561097256856,
+        0.1304050542635016,
+        0.4080829810037437
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.39775561097256856,
+        0.2476821069502186,
+        0.4087599226251718
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Item"
+    },
+    {
+      "bbox": [
+        0.8078113138121505,
+        0.39775561097256856,
+        0.8752018590127268,
+        0.4101138058680278
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 992,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gtfj0233",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ],
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.08951612903225807,
+          0.39775561097256856,
+          0.910483870967742,
+          0.6115960099750624
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.08951612903225807,
+            "right": 0.17096774193548386
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.20725806451612902,
+            "right": 0.6862903225806452
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8137096774193548,
+            "right": 0.8991935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41209476309226933,
+            "row_type": "header",
+            "top": 0.39775561097256856
+          },
+          {
+            "bottom": 0.43017456359102246,
+            "row_type": "gap",
+            "top": 0.41209476309226933
+          },
+          {
+            "bottom": 0.46384039900249374,
+            "row_type": "data",
+            "top": 0.43017456359102246
+          },
+          {
+            "bottom": 0.5031172069825436,
+            "row_type": "gap",
+            "top": 0.46384039900249374
+          },
+          {
+            "bottom": 0.5174563591022444,
+            "row_type": "subsection-header",
+            "top": 0.5031172069825436
+          },
+          {
+            "bottom": 0.5392768079800498,
+            "row_type": "gap",
+            "top": 0.5174563591022444
+          },
+          {
+            "bottom": 0.5542394014962594,
+            "row_type": "subsection-header",
+            "top": 0.5392768079800498
+          },
+          {
+            "bottom": 0.5910224438902744,
+            "row_type": "gap",
+            "top": 0.5542394014962594
+          },
+          {
+            "bottom": 0.6115960099750624,
+            "row_type": "footer",
+            "top": 0.5910224438902744
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

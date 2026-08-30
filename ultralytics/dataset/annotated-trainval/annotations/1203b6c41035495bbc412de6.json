@@ -1,0 +1,494 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.14399425459333293,
+        0.2640798004987531,
+        0.30798771121351765,
+        0.28263341645885287
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "September 30, 1999"
+    },
+    {
+      "bbox": [
+        0.7375705707502942,
+        0.10204488778054863,
+        0.9119636124244418,
+        0.11596009975062344
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PricewaterhouseCoopers LLP"
+    },
+    {
+      "bbox": [
+        0.7383705388313683,
+        0.10204488778054863,
+        0.9095637081812197,
+        0.1397705735660848
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PricewaterhouseCoopers LLP\n1177 Avenue of the Americas\nNew York NY 10036"
+    },
+    {
+      "bbox": [
+        0.3207872005107028,
+        0.6427281795511222,
+        0.6479741456699982,
+        0.6600448877805486
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PRICEWATERHOUSECOOPERS LLP"
+    },
+    {
+      "bbox": [
+        0.32238713667285096,
+        0.6427281795511222,
+        0.6479741456699982,
+        0.7342593516209476
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PRICEWATERHOUSECOOPERS LLP\nAttention: Ted Martens\n1177 Avenue of the Americas\nSuite 448\nNew York, New York, 10036"
+    },
+    {
+      "bbox": [
+        0.6016129032258064,
+        0.8101745635910225,
+        0.6999720709398128,
+        0.8266832917705735
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-4008324"
+    },
+    {
+      "bbox": [
+        0.144794222674407,
+        0.30273316708229425,
+        0.3743850619426656,
+        0.3373665835411471
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ronald Milstein\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.144794222674407,
+        0.30273316708229425,
+        0.37598499810481373,
+        0.3744738154613466
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ronald Milstein\nLorillard Tobacco Company\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.40958365750992476,
+        0.19625763715710726,
+        0.6415744010214056,
+        0.212955891521197
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 1,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.8207672511819977,
+        0.5290872817955112,
+        0.8319668043170347,
+        0.5445486284289277
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8199672831009237,
+        0.5303241895261845,
+        0.901564027370479,
+        0.545785536159601
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$8,634.75"
+    },
+    {
+      "bbox": [
+        0.8207672511819977,
+        0.5309426433915212,
+        0.902363995451553,
+        0.545785536159601
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$8,634.75"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.3110972568578554,
+        0.27741935483870966,
+        0.3478802992518703
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "June 16, 1999"
+    },
+    {
+      "bbox": [
+        0.2967741935483871,
+        0.3110972568578554,
+        0.7637096774193548,
+        0.3478802992518703
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "Professional Services Rendered from March 1999 to May\n31, 1999"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.3110972568578554,
+        0.9193548387096774,
+        0.3478802992518703
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "$8,974.50"
+    },
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.3478802992518703,
+        0.27741935483870966,
+        0.3721945137157107
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "July 19, 1999"
+    },
+    {
+      "bbox": [
+        0.2967741935483871,
+        0.3478802992518703,
+        0.7637096774193548,
+        0.3721945137157107
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "Credit Adjustment Per July 19, 1999 Memo"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.3478802992518703,
+        0.9193548387096774,
+        0.3721945137157107
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "(477.88)"
+    },
+    {
+      "bbox": [
+        0.2967741935483871,
+        0.3721945137157107,
+        0.7637096774193548,
+        0.38965087281795513
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "Invoice Paid"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.3721945137157107,
+        0.9193548387096774,
+        0.38965087281795513
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "(8,974.50)"
+    },
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.38965087281795513,
+        0.27741935483870966,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "August 20, 1999"
+    },
+    {
+      "bbox": [
+        0.2967741935483871,
+        0.38965087281795513,
+        0.7637096774193548,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "Professional Service Rendered from June 1 to June 31,\n1999"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.38965087281795513,
+        0.9193548387096774,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "3,819.97"
+    },
+    {
+      "bbox": [
+        0.2967741935483871,
+        0.42830423940149626,
+        0.7637096774193548,
+        0.4513715710723192
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "Invoice Paid"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.42830423940149626,
+        0.9193548387096774,
+        0.4513715710723192
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "(3,819.97"
+    },
+    {
+      "bbox": [
+        0.2967741935483871,
+        0.4513715710723192,
+        0.7637096774193548,
+        0.47194513715710723
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "Prior Balance Due"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.4513715710723192,
+        0.9193548387096774,
+        0.47194513715710723
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "(477.88)"
+    },
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.4906483790523691,
+        0.27741935483870966,
+        0.5324189526184538
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 7,
+      "page": 1,
+      "text": "September 30, 1999"
+    },
+    {
+      "bbox": [
+        0.2967741935483871,
+        0.4906483790523691,
+        0.7637096774193548,
+        0.5324189526184538
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 1,
+      "text": "Professional Service Rendered from July 1 to August 31,\n1999"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.4906483790523691,
+        0.9193548387096774,
+        0.5324189526184538
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 1,
+      "text": "8.634.75"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.27057356608478805,
+        0.15753631272087643,
+        0.28638392520892897
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.2967741935483871,
+        0.27057356608478805,
+        0.4008424369515281,
+        0.28585741964973355
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.8445697930124648,
+        0.27826062575179245,
+        0.9193548387096774,
+        0.2938302830446374
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1058,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rmwj0226",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ],
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.10967741935483871,
+          0.27057356608478805,
+          0.9193548387096774,
+          0.5542394014962594
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.10967741935483871,
+            "right": 0.27741935483870966
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2967741935483871,
+            "right": 0.7637096774193548
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8290322580645161,
+            "right": 0.9193548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3110972568578554,
+            "row_type": "header",
+            "top": 0.27057356608478805
+          },
+          {
+            "bottom": 0.3478802992518703,
+            "row_type": "data",
+            "top": 0.3110972568578554
+          },
+          {
+            "bottom": 0.3721945137157107,
+            "row_type": "data",
+            "top": 0.3478802992518703
+          },
+          {
+            "bottom": 0.38965087281795513,
+            "row_type": "data",
+            "top": 0.3721945137157107
+          },
+          {
+            "bottom": 0.42830423940149626,
+            "row_type": "data",
+            "top": 0.38965087281795513
+          },
+          {
+            "bottom": 0.4513715710723192,
+            "row_type": "data",
+            "top": 0.42830423940149626
+          },
+          {
+            "bottom": 0.47194513715710723,
+            "row_type": "data",
+            "top": 0.4513715710723192
+          },
+          {
+            "bottom": 0.4906483790523691,
+            "row_type": "gap",
+            "top": 0.47194513715710723
+          },
+          {
+            "bottom": 0.5324189526184538,
+            "row_type": "data",
+            "top": 0.4906483790523691
+          },
+          {
+            "bottom": 0.5542394014962594,
+            "row_type": "footer",
+            "top": 0.5324189526184538
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

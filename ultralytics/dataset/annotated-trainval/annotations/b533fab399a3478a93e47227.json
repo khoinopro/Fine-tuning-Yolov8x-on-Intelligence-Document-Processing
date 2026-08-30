@@ -1,0 +1,216 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.13402893249085468,
+        0.21706535162308366,
+        0.2844695710009976,
+        0.23201759674676403
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "September 30, 1999"
+    },
+    {
+      "bbox": [
+        0.13266129032258064,
+        0.24954781516763067,
+        0.3911456601263718,
+        0.2815146840527403
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. John Malecker\nThe Tobacco Industry Testing Lab"
+    },
+    {
+      "bbox": [
+        0.13278367158671586,
+        0.24957495172865365,
+        0.38917241995000595,
+        0.31323732388864295
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. John Malecker\nThe Tobacco Industry Testing Lab\n1875 I Street , NW\nWashington, DC 20006"
+    },
+    {
+      "bbox": [
+        0.7398944130362487,
+        0.7228637125310293,
+        0.750835550382441,
+        0.7367847683358351
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7392105919521117,
+        0.7228637125310293,
+        0.7973353841037578,
+        0.7362691736763978
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 00.00"
+    },
+    {
+      "bbox": [
+        0.7385267708679748,
+        0.722348117871592,
+        0.7980192051878948,
+        0.7362691736763978
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 00.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.6237082066869301,
+        0.2846774193548387,
+        0.6395136778115501
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Professional Fees"
+    },
+    {
+      "bbox": [
+        0.7387096774193549,
+        0.6237082066869301,
+        0.7540322580645161,
+        0.6395136778115501
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7540322580645161,
+        0.6237082066869301,
+        0.8153225806451613,
+        0.6395136778115501
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "00.00"
+    },
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.6899696048632219,
+        0.2846774193548387,
+        0.7051671732522796
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Mileage and Parking"
+    },
+    {
+      "bbox": [
+        0.7540322580645161,
+        0.6899696048632219,
+        0.8153225806451613,
+        0.7051671732522796
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "None"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 637,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sygb0065",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13064516129032258,
+          0.6237082066869301,
+          0.8153225806451613,
+          0.7379939209726444
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13064516129032258,
+            "right": 0.2846774193548387
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.7387096774193549,
+            "right": 0.7540322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7540322580645161,
+            "right": 0.8153225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6395136778115501,
+            "row_type": "data",
+            "top": 0.6237082066869301
+          },
+          {
+            "bottom": 0.6534954407294833,
+            "row_type": "gap-with-text",
+            "top": 0.6395136778115501
+          },
+          {
+            "bottom": 0.6735562310030395,
+            "row_type": "subsection-header",
+            "top": 0.6534954407294833
+          },
+          {
+            "bottom": 0.6899696048632219,
+            "row_type": "gap",
+            "top": 0.6735562310030395
+          },
+          {
+            "bottom": 0.7051671732522796,
+            "row_type": "data",
+            "top": 0.6899696048632219
+          },
+          {
+            "bottom": 0.7197568389057751,
+            "row_type": "gap",
+            "top": 0.7051671732522796
+          },
+          {
+            "bottom": 0.7379939209726444,
+            "row_type": "footer",
+            "top": 0.7197568389057751
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

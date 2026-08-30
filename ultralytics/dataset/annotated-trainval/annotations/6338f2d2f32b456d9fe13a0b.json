@@ -1,0 +1,249 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8277351947853401,
+        0.11545463388874219,
+        0.8949232811218746,
+        0.12924026181575618
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59221-2"
+    },
+    {
+      "bbox": [
+        0.7974454837319843,
+        0.13139426617935213,
+        0.9257637141943823,
+        0.14388749148820856
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 30, 2003"
+    },
+    {
+      "bbox": [
+        0.4394761712832345,
+        0.22617045817757334,
+        0.4906933190643633,
+        0.23823288261371056
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "008092"
+    },
+    {
+      "bbox": [
+        0.14920144548475545,
+        0.7694129460690975,
+        0.38501983750931856,
+        0.7932980298910898
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Regents of The University of California\nCashier's Office"
+    },
+    {
+      "bbox": [
+        0.1502027974678746,
+        0.7693078846344327,
+        0.3853230008283612,
+        0.820707142473704
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Regents of The University of California\nCashier's Office\nOne Shields Ave.\nDavis, California 95616"
+    },
+    {
+      "bbox": [
+        0.3006470821278078,
+        0.2143789751085792,
+        0.3924586119548123,
+        0.22480017528746846
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "94-6036494W"
+    },
+    {
+      "bbox": [
+        0.15034711122847494,
+        0.11674703650689976,
+        0.3810996372531306,
+        0.1430258897427702
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA, INC.\nATTENTION RESEARCH CENTER"
+    },
+    {
+      "bbox": [
+        0.14979638920932303,
+        0.11649413057115501,
+        0.3829444637862108,
+        0.18460411745460986
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA, INC.\nATTENTION RESEARCH CENTER\n615 MAURY STREET\nRICHMOND, VA 23224\nATTN: RICHARD IZAC, PH,D."
+    },
+    {
+      "bbox": [
+        0.8613292379536074,
+        0.6565405300240414,
+        0.8728944003557978,
+        0.6707569588237746
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8618799599727593,
+        0.6565405300240414,
+        0.949444761017915,
+        0.6707569588237746
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$30,030.75"
+    },
+    {
+      "bbox": [
+        0.8225806451612904,
+        0.15724231854250337,
+        0.8954740031410265,
+        0.17034700315457413
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$30,030.75"
+    },
+    {
+      "bbox": [
+        0.8607785159344554,
+        0.6574021317694798,
+        0.948894038998763,
+        0.6720493614419322
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$30,030.75"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14758064516129032,
+        0.3192429022082019,
+        0.3185483870967742,
+        0.3337539432176656
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Total Amount of Award:"
+    },
+    {
+      "bbox": [
+        0.667741935483871,
+        0.3192429022082019,
+        0.7564516129032258,
+        0.3337539432176656
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$198,470.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.21787399306097463,
+        0.29274447949526816,
+        0.36867324153330855,
+        0.30705321955655873
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Services"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 844,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ngcj0179",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1751,
+        2239
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14758064516129032,
+          0.29274447949526816,
+          0.957258064516129,
+          0.6763406940063091
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14758064516129032,
+            "right": 0.3185483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.667741935483871,
+            "right": 0.7564516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.305993690851735,
+            "row_type": "header",
+            "top": 0.29274447949526816
+          },
+          {
+            "bottom": 0.3192429022082019,
+            "row_type": "gap",
+            "top": 0.305993690851735
+          },
+          {
+            "bottom": 0.3337539432176656,
+            "row_type": "data",
+            "top": 0.3192429022082019
+          },
+          {
+            "bottom": 0.4794952681388013,
+            "row_type": "gap",
+            "top": 0.3337539432176656
+          },
+          {
+            "bottom": 0.6555205047318612,
+            "row_type": "gap-with-text",
+            "top": 0.4794952681388013
+          },
+          {
+            "bottom": 0.6763406940063091,
+            "row_type": "footer",
+            "top": 0.6555205047318612
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

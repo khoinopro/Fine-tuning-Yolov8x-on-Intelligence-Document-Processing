@@ -1,0 +1,267 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7675285552905736,
+        0.09629262415441961,
+        0.8147295092255554,
+        0.11234139484682289
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "8124"
+    },
+    {
+      "bbox": [
+        0.8044684322831681,
+        0.16194668607788754,
+        0.8653508221413331,
+        0.1755638248471994
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/11 /99"
+    },
+    {
+      "bbox": [
+        0.8017321450985314,
+        0.17653647761643598,
+        0.8653508221413331,
+        0.19015361638574782
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "114-3-98"
+    },
+    {
+      "bbox": [
+        0.8017321450985314,
+        0.19209892192422096,
+        0.8653508221413331,
+        0.20425708153967798
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "AB99-02"
+    },
+    {
+      "bbox": [
+        0.06977532320823397,
+        0.0330701941540431,
+        0.2551587799673654,
+        0.048146312077209805
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Wolf/Altschul/Callahan Inc."
+    },
+    {
+      "bbox": [
+        0.07045939500439312,
+        0.03161121500018826,
+        0.6813355089745199,
+        0.05006154034165801
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Wof/Altschul/Callahan Inc. Marketing Research 60 Madison Ave. NY, NY 10010-1600"
+    },
+    {
+      "bbox": [
+        0.21616668758629345,
+        0.16243301246250583,
+        0.3693987699259445,
+        0.18966729000112953
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Amy Robinson Brown\nRJR"
+    },
+    {
+      "bbox": [
+        0.21685075938245263,
+        0.16194668607788754,
+        0.5103175599347308,
+        0.2368409493091028
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Amy Robinson Brown\nRJR\nBowman Gray Technical Ctr - Bldg. 611-12\nReynold Blvd. & Shore Flair\nWinston Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.8037843604870089,
+        0.46590067646431305,
+        0.8154135810217146,
+        0.48000414161824323
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8064516129032258,
+        0.4668733292335496,
+        0.8899774068030627,
+        0.48000414161824323
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$35,000.00"
+    },
+    {
+      "bbox": [
+        0.8048387096774193,
+        0.4673596556181679,
+        0.8892933350069034,
+        0.48000414161824323
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$35,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2467741935483871,
+        0.37327981651376146,
+        0.37338709677419357,
+        0.38876146788990823
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Estimated Charges"
+    },
+    {
+      "bbox": [
+        0.7798387096774193,
+        0.37327981651376146,
+        0.8895161290322581,
+        0.38876146788990823
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$70,265.\u00b110%"
+    },
+    {
+      "bbox": [
+        0.2467741935483871,
+        0.39621559633027525,
+        0.37338709677419357,
+        0.41227064220183485
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Progress Billing"
+    },
+    {
+      "bbox": [
+        0.7798387096774193,
+        0.39621559633027525,
+        0.8895161290322581,
+        0.41227064220183485
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "35,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8164651447029553,
+        0.35206422018348627,
+        0.8740364049063687,
+        0.3653139430337206
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Charges"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 220,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nrmh0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1663,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2129032258064516,
+          0.35206422018348627,
+          0.8895161290322581,
+          0.4833715596330275
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2467741935483871,
+            "right": 0.37338709677419357
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7798387096774193,
+            "right": 0.8895161290322581
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.36353211009174313,
+            "row_type": "header",
+            "top": 0.35206422018348627
+          },
+          {
+            "bottom": 0.37327981651376146,
+            "row_type": "gap",
+            "top": 0.36353211009174313
+          },
+          {
+            "bottom": 0.38876146788990823,
+            "row_type": "data",
+            "top": 0.37327981651376146
+          },
+          {
+            "bottom": 0.39621559633027525,
+            "row_type": "gap",
+            "top": 0.38876146788990823
+          },
+          {
+            "bottom": 0.41227064220183485,
+            "row_type": "data",
+            "top": 0.39621559633027525
+          },
+          {
+            "bottom": 0.46674311926605505,
+            "row_type": "gap",
+            "top": 0.41227064220183485
+          },
+          {
+            "bottom": 0.4833715596330275,
+            "row_type": "footer",
+            "top": 0.46674311926605505
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

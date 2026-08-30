@@ -1,0 +1,355 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.9056451612903226,
+        0.1238930504260354,
+        0.9644718966225395,
+        0.13760453426765196
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "990312"
+    },
+    {
+      "bbox": [
+        0.8483870967741935,
+        0.13760453426765196,
+        0.9617358061356671,
+        0.1513160181092685
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 12, 1999"
+    },
+    {
+      "bbox": [
+        0.26608479984834604,
+        0.056804718772411486,
+        0.5732109569997789,
+        0.07149559431700067
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "China American Cigarette Co., Ltd."
+    },
+    {
+      "bbox": [
+        0.2654007772266279,
+        0.05704913550119487,
+        0.5709697376598012,
+        0.11214034999036405
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "China American Cigarette Co., Ltd.\nHua Chang Road, Huli Industrial District,\nXiamen, S.E.Z, 361006"
+    },
+    {
+      "bbox": [
+        0.19221035670278983,
+        0.20763104103019372,
+        0.32354270007266756,
+        0.22183222072329656
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Mellisa Clark"
+    },
+    {
+      "bbox": [
+        0.6245126536286374,
+        0.20958982443613894,
+        0.8023585352753467,
+        0.2223219165747829
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "RJR Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.6191343650235387,
+        0.2100160546859645,
+        0.8406638020915611,
+        0.27863693949570806
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "RJR Tobacco Company\nR & D Department\n950 Reynolds Boulevard\nBuilding 611-9, Winston-Salem,\nUSA"
+    },
+    {
+      "bbox": [
+        0.8858092951249567,
+        0.6253416023480126,
+        0.9213784714542984,
+        0.6375839986351703
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "USD"
+    },
+    {
+      "bbox": [
+        0.8851252725032385,
+        0.6253416023480126,
+        0.9521594894316137,
+        0.6385633903381429
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "USD6.00"
+    },
+    {
+      "bbox": [
+        0.8858092951249567,
+        0.62436221064504,
+        0.9528435120533316,
+        0.6385633903381429
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "USD6.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15725806451612903,
+        0.3435334872979215,
+        0.17338709677419356,
+        0.35623556581986143
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.3435334872979215,
+        0.2306451612903226,
+        0.35623556581986143
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "cartons"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.3435334872979215,
+        0.5556451612903226,
+        0.35623556581986143
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Winston King Size Cigarettes (1,200 sticks)"
+    },
+    {
+      "bbox": [
+        0.7741935483870968,
+        0.3435334872979215,
+        0.842741935483871,
+        0.35623556581986143
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "USD1.00"
+    },
+    {
+      "bbox": [
+        0.882258064516129,
+        0.3435334872979215,
+        0.9524193548387097,
+        0.35623556581986143
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "USD6.00"
+    },
+    {
+      "bbox": [
+        0.33108184981930133,
+        0.512503347056264,
+        0.38251907375184047,
+        0.5265107775211701
+      ],
+      "fieldtype": "line_item_weight",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2.15kg"
+    },
+    {
+      "bbox": [
+        0.48177118190335966,
+        0.5109469658934966,
+        0.5375552134921697,
+        0.527548364963015
+      ],
+      "fieldtype": "line_item_weight",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.104kg"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1448935885423638,
+        0.3185393446463835,
+        0.23690101726676482,
+        0.3356595374368243
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.15068933208405838,
+        0.320549670314958,
+        0.23472761343862936,
+        0.335594688221709
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.4412009771114978,
+        0.3221060514777253,
+        0.5556451612903226,
+        0.33429561200923785
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7505487886494445,
+        0.3204387990762125,
+        0.842741935483871,
+        0.33429561200923785
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT PRICE"
+    },
+    {
+      "bbox": [
+        0.8693615312541829,
+        0.3215872577568029,
+        0.941083857582653,
+        0.3345571007798641
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 277,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "frnc0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1696,
+        2369
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13790322580645162,
+          0.3204387990762125,
+          0.9637096774193549,
+          0.6420323325635104
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.15725806451612903,
+            "right": 0.17338709677419356
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.17338709677419356,
+            "right": 0.2306451612903226
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.25161290322580643,
+            "right": 0.5556451612903226
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.7741935483870968,
+            "right": 0.842741935483871
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.882258064516129,
+            "right": 0.9524193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.33429561200923785,
+            "row_type": "header",
+            "top": 0.3204387990762125
+          },
+          {
+            "bottom": 0.3435334872979215,
+            "row_type": "gap",
+            "top": 0.33429561200923785
+          },
+          {
+            "bottom": 0.35623556581986143,
+            "row_type": "data",
+            "top": 0.3435334872979215
+          },
+          {
+            "bottom": 0.42782909930715934,
+            "row_type": "gap",
+            "top": 0.35623556581986143
+          },
+          {
+            "bottom": 0.5254041570438799,
+            "row_type": "subsection-header",
+            "top": 0.42782909930715934
+          },
+          {
+            "bottom": 0.539838337182448,
+            "row_type": "gap",
+            "top": 0.5254041570438799
+          },
+          {
+            "bottom": 0.6420323325635104,
+            "row_type": "footer",
+            "top": 0.539838337182448
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8399261350460805,
+        0.21803094389488262,
+        0.8971178913184819,
+        0.23669814582181958
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4766"
+    },
+    {
+      "bbox": [
+        0.7962953106733207,
+        0.5011995655411379,
+        0.8523078554761879,
+        0.5154221955807088
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/9/99"
+    },
+    {
+      "bbox": [
+        0.1304721333964569,
+        0.5012127957389668,
+        0.16812517289395507,
+        0.5124339775827964
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "9901"
+    },
+    {
+      "bbox": [
+        0.2856284976244898,
+        0.27744922334666766,
+        0.6891381612895688,
+        0.2958438779438568
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1556 Third Avenue, New York NY 10128"
+    },
+    {
+      "bbox": [
+        0.10768282433993816,
+        0.365398691116392,
+        0.317741935483871,
+        0.39581931647880786
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.10768282433993816,
+        0.36325826601188427,
+        0.3147203971468104,
+        0.42544979572791414
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company\nPO Box 10529\nGreensboro NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.7698536481468469,
+        0.6177626017402729,
+        0.7798124174717345,
+        0.630404939553225
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7693943487847469,
+        0.6173675286836181,
+        0.828557972588289,
+        0.6313063536668516
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$32,500"
+    },
+    {
+      "bbox": [
+        0.7693295023929054,
+        0.6173675286836181,
+        0.828557972588289,
+        0.630404939553225
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$32,500"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2693548387096774,
+        0.5671732522796352,
+        0.5362903225806451,
+        0.5835866261398176
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Maverick Ultra 100mm Product Test"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.44307992643382516,
+        0.49893923413803704,
+        0.558666001170331,
+        0.5174211807043447
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 489,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rkkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05725806451612903,
+          0.4717325227963526,
+          0.8959677419354839,
+          0.7063829787234043
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2693548387096774,
+            "right": 0.5362903225806451
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5191489361702127,
+            "row_type": "header",
+            "top": 0.4717325227963526
+          },
+          {
+            "bottom": 0.5671732522796352,
+            "row_type": "gap",
+            "top": 0.5191489361702127
+          },
+          {
+            "bottom": 0.5835866261398176,
+            "row_type": "data",
+            "top": 0.5671732522796352
+          },
+          {
+            "bottom": 0.5963525835866261,
+            "row_type": "gap",
+            "top": 0.5835866261398176
+          },
+          {
+            "bottom": 0.6121580547112462,
+            "row_type": "gap-with-text",
+            "top": 0.5963525835866261
+          },
+          {
+            "bottom": 0.7063829787234043,
+            "row_type": "footer",
+            "top": 0.6121580547112462
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

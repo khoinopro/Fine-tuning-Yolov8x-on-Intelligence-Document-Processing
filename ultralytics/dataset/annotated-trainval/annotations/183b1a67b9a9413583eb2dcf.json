@@ -1,0 +1,230 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7534818067754077,
+        0.18258823529411766,
+        0.8246706398996235,
+        0.19639215686274508
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "729578"
+    },
+    {
+      "bbox": [
+        0.7326850690087828,
+        0.19734345351043645,
+        0.8246706398996235,
+        0.21145098039215685
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "01/15/01"
+    },
+    {
+      "bbox": [
+        0.7878764115432872,
+        0.22713725490196077,
+        0.8246706398996235,
+        0.23908918406072105
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "006"
+    },
+    {
+      "bbox": [
+        0.053591593475533245,
+        0.920470588235294,
+        0.4239335006273526,
+        0.9336470588235294
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KENNEDY COVINGTON LOBDELL & HICKMAN, L.L.P."
+    },
+    {
+      "bbox": [
+        0.7542816813048933,
+        0.2125237191650854,
+        0.8246706398996235,
+        0.22431372549019607
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "004390"
+    },
+    {
+      "bbox": [
+        0.07438833124215809,
+        0.18164705882352944,
+        0.45832810539523205,
+        0.24062745098039218
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Linda R. Alpert\nFirst Vice President and Associate\nGeneral Counsel\nSalomon Smith Barney Inc."
+    },
+    {
+      "bbox": [
+        0.07358845671267251,
+        0.18227450980392157,
+        0.45832810539523205,
+        0.2688627450980392
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Linda R. Alpert\nFirst Vice President and Associate\nGeneral Counsel\nSalomon Smith Barney Inc.\n7 World Trade Center, 31st Floor\nNew York, NY 10048"
+    },
+    {
+      "bbox": [
+        0.7566813048933501,
+        0.6552156862745098,
+        0.767879548306148,
+        0.6721568627450981
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8102728983688833,
+        0.6131764705882353,
+        0.8574654956085319,
+        0.6269803921568627
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$.40"
+    },
+    {
+      "bbox": [
+        0.7558814303638645,
+        0.6561568627450981,
+        0.8574654956085319,
+        0.6712156862745098
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$4,673.75"
+    },
+    {
+      "bbox": [
+        0.0575909661229611,
+        0.8928627450980392,
+        0.6079046424090339,
+        0.9085490196078431
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "DUE AND PAYYBLE UPON RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05806451612903226,
+        0.5382669196710942,
+        0.19435483870967743,
+        0.5547122074636306
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Copy Charges"
+    },
+    {
+      "bbox": [
+        0.5435483870967742,
+        0.5382669196710942,
+        0.5935483870967742,
+        0.5547122074636306
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$.40"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1077,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qpkj0225",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1835,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.035483870967741936,
+          0.5123339658444023,
+          0.8701612903225806,
+          0.681214421252372
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05806451612903226,
+            "right": 0.19435483870967743
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5435483870967742,
+            "right": 0.5935483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5249841872232764,
+            "row_type": "gap-with-text",
+            "top": 0.5123339658444023
+          },
+          {
+            "bottom": 0.5382669196710942,
+            "row_type": "gap",
+            "top": 0.5249841872232764
+          },
+          {
+            "bottom": 0.5547122074636306,
+            "row_type": "data",
+            "top": 0.5382669196710942
+          },
+          {
+            "bottom": 0.5667299177735611,
+            "row_type": "gap",
+            "top": 0.5547122074636306
+          },
+          {
+            "bottom": 0.5850727387729285,
+            "row_type": "subsection-header",
+            "top": 0.5667299177735611
+          },
+          {
+            "bottom": 0.6103731815306768,
+            "row_type": "gap",
+            "top": 0.5850727387729285
+          },
+          {
+            "bottom": 0.681214421252372,
+            "row_type": "footer",
+            "top": 0.6103731815306768
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6389075587246891,
+        0.650391804346862,
+        0.6491683867555995,
+        0.6625536023143237
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8906398730830247,
+        0.6033309339510321,
+        0.9620967741935483,
+        0.6170790533925106
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,160.00"
+    },
+    {
+      "bbox": [
+        0.8913239282850856,
+        0.6493342566975175,
+        0.9610975588952765,
+        0.660967280840307
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1,160.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.02338709677419355,
+        0.3778054862842893,
+        0.035483870967741936,
+        0.39276807980049877
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.05403225806451613,
+        0.3778054862842893,
+        0.09838709677419355,
+        0.39276807980049877
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5/18/20"
+    },
+    {
+      "bbox": [
+        0.125,
+        0.3778054862842893,
+        0.1693548387096774,
+        0.39276807980049877
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6/14/20"
+    },
+    {
+      "bbox": [
+        0.18306451612903227,
+        0.3778054862842893,
+        0.3419354838709677,
+        0.39276807980049877
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Targeted Display Tile Ads"
+    },
+    {
+      "bbox": [
+        0.6129032258064516,
+        0.3778054862842893,
+        0.625,
+        0.39276807980049877
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.739516129032258,
+        0.3778054862842893,
+        0.8,
+        0.39276807980049877
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,160.00"
+    },
+    {
+      "bbox": [
+        0.8564516129032258,
+        0.3778054862842893,
+        0.9209677419354839,
+        0.39276807980049877
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,160.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.02052165606182085,
+        0.35692233165376575,
+        0.0410433121236417,
+        0.3669690343225384
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "No"
+    },
+    {
+      "bbox": [
+        0.05472441616485559,
+        0.3637963913745049,
+        0.09838709677419355,
+        0.37595818934196656
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "START"
+    },
+    {
+      "bbox": [
+        0.13407481960389622,
+        0.3643251651991772,
+        0.1648573036966275,
+        0.37595818934196656
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "END"
+    },
+    {
+      "bbox": [
+        0.2613090871871855,
+        0.34740440280966534,
+        0.3419354838709677,
+        0.3754294155172943
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVENTORY\nTYPE"
+    },
+    {
+      "bbox": [
+        0.5663977073062554,
+        0.35586478400442123,
+        0.5958120809948653,
+        0.36749780814721067
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.739516129032258,
+        0.35533601017974903,
+        0.773666433530646,
+        0.3669690343225384
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.8372835673222906,
+        0.35692233165376575,
+        0.8824312106582965,
+        0.36749780814721067
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 175,
+    "currency": "usd",
+    "document_type": "sales_order",
+    "language": "eng",
+    "original_filename": "9224788f-0450-4f17-a26c-8bfc22d0794d",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.01935483870967742,
+          0.34538653366583544,
+          0.9209677419354839,
+          0.44825436408977554
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.02338709677419355,
+            "right": 0.035483870967741936
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.05403225806451613,
+            "right": 0.09838709677419355
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.125,
+            "right": 0.1693548387096774
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.18306451612903227,
+            "right": 0.3419354838709677
+          },
+          {
+            "column_type": "",
+            "left": 0.41854838709677417,
+            "right": 0.5056451612903226
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6129032258064516,
+            "right": 0.625
+          },
+          {
+            "column_type": "",
+            "left": 0.6596774193548387,
+            "right": 0.7120967741935483
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.739516129032258,
+            "right": 0.8
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8564516129032258,
+            "right": 0.9209677419354839
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3778054862842893,
+            "row_type": "header",
+            "top": 0.34538653366583544
+          },
+          {
+            "bottom": 0.39276807980049877,
+            "row_type": "data",
+            "top": 0.3778054862842893
+          },
+          {
+            "bottom": 0.44825436408977554,
+            "row_type": "up-merge",
+            "top": 0.39276807980049877
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

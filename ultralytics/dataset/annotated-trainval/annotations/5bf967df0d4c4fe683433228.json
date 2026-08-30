@@ -1,0 +1,254 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7335122224800804,
+        0.2866699812923558,
+        0.8216078749903303,
+        0.30706073309976184
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "045-8715000"
+    },
+    {
+      "bbox": [
+        0.7344395451380831,
+        0.25308521360956937,
+        0.7974974858822619,
+        0.2722765094283045
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02/04/99"
+    },
+    {
+      "bbox": [
+        0.30508915448286533,
+        0.4653889236043266,
+        0.3774203218070704,
+        0.4857796754117326
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "000000761"
+    },
+    {
+      "bbox": [
+        0.7316575771640752,
+        0.32145420496381316,
+        0.8197532296743251,
+        0.3406455007825483
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "AZTUCS25-01"
+    },
+    {
+      "bbox": [
+        0.39747690582330736,
+        0.11243596137280681,
+        0.47226471353235605,
+        0.12667784981336236
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "TUCSON DIVISION"
+    },
+    {
+      "bbox": [
+        0.3934186526918086,
+        0.12742742288918107,
+        0.4838597224794954,
+        0.15815991899774826
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "441 East 25th Street\nTucson, AZ 85713"
+    },
+    {
+      "bbox": [
+        0.31109408916711934,
+        0.2780916111287422,
+        0.36675013211338814,
+        0.29458221879675384
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0035022"
+    },
+    {
+      "bbox": [
+        0.7372106679744898,
+        0.35904550331716306,
+        0.769096942579123,
+        0.3740369648335374
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0038"
+    },
+    {
+      "bbox": [
+        0.31109408916711934,
+        0.2953317918725726,
+        0.4426974407171507,
+        0.32906258028441465
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LEO BURNETT USA\nPHILIP MORRIS **"
+    },
+    {
+      "bbox": [
+        0.31051433871976236,
+        0.32906258028441465,
+        0.5029914872422753,
+        0.39802330325973617
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "ATTN: ERIC HANKINS\n35 WEST WACKER DRIVE\nACCTNG DEPT 4TH PLOOR\nCHICAGO IL, 60601-0000"
+    },
+    {
+      "bbox": [
+        0.7920550594098299,
+        0.7698115488658174,
+        0.8558276086190962,
+        0.7878013026854664
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,834.89"
+    },
+    {
+      "bbox": [
+        0.7920550594098299,
+        0.7722101918584992,
+        0.8569871095138102,
+        0.7879512264506922
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,834.89"
+    },
+    {
+      "bbox": [
+        0.7346597651214902,
+        0.4086672500864238,
+        0.8227818331197491,
+        0.42590743083025423
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.29274193548387095,
+        0.5860271115745568,
+        0.5403225806451613,
+        0.6402502606882169
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MARKET: 045 TUCSON\nPERMANENT BULLETIN\nTOTAL FACES"
+    },
+    {
+      "bbox": [
+        0.5403225806451613,
+        0.5860271115745568,
+        0.55,
+        0.6402502606882169
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7895161290322581,
+        0.5860271115745568,
+        0.8588709677419355,
+        0.6402502606882169
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "3,402.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 355,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gpyx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2205,
+        1707
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.29274193548387095,
+          0.5860271115745568,
+          0.8588709677419355,
+          0.7956204379562044
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.29274193548387095,
+            "right": 0.5403225806451613
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.5403225806451613,
+            "right": 0.55
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7895161290322581,
+            "right": 0.8588709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6402502606882169,
+            "row_type": "data",
+            "top": 0.5860271115745568
+          },
+          {
+            "bottom": 0.7695516162669447,
+            "row_type": "gap-with-text",
+            "top": 0.6402502606882169
+          },
+          {
+            "bottom": 0.7914494264859229,
+            "row_type": "footer",
+            "top": 0.7695516162669447
+          },
+          {
+            "bottom": 0.7956204379562044,
+            "row_type": "footer",
+            "top": 0.7914494264859229
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

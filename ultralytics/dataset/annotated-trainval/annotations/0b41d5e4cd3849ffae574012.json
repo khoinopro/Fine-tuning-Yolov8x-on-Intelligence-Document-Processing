@@ -1,0 +1,237 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.19195612759617284,
+        0.1046289983721286,
+        0.2619729118423178,
+        0.11409013120365089
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "03/04/2022"
+    },
+    {
+      "bbox": [
+        0.3697515572549231,
+        0.03561838242455442,
+        0.6254308255694975,
+        0.053984110862215294
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Key Broadcasting, Inc."
+    },
+    {
+      "bbox": [
+        0.19274283303714076,
+        0.15471734865665826,
+        0.31782899815104027,
+        0.16640463038971517
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Pendleton for Mayor"
+    },
+    {
+      "bbox": [
+        0.19195612759617284,
+        0.15471734865665826,
+        0.40200648033460784,
+        0.2064753106173389
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Pendleton for Mayor\n4044 Fort Campbell Blvd PMB 205\nHopkinsville KY 42240"
+    },
+    {
+      "bbox": [
+        0.6458851670346635,
+        0.15471734865665826,
+        0.770184626707595,
+        0.16640463038971517
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Pendleton for Mayor"
+    },
+    {
+      "bbox": [
+        0.6450984615936955,
+        0.15471734865665826,
+        0.8543621088911627,
+        0.20703184784272258
+      ],
+      "fieldtype": "customer_other_address",
+      "page": 0,
+      "text": "Pendleton for Mayor\n4044 Fort Campbell Blvd PMB 205\nHopkinsville KY 42240"
+    },
+    {
+      "bbox": [
+        0.6450984615936955,
+        0.3534011381186259,
+        0.6545389268853106,
+        0.36620149430245014
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6443117561527276,
+        0.34060078193480164,
+        0.6946609043746746,
+        0.3511749892170913
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$325.00"
+    },
+    {
+      "bbox": [
+        0.6435250507117597,
+        0.35395767534400957,
+        0.6954476098156425,
+        0.3639753454009155
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$325.00"
+    }
+  ],
+  "line_item_extractions": [],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.11564569982228445,
+        0.4363251847007917,
+        0.1471139174610013,
+        0.4463428547576976
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.22971798876263305,
+        0.435768647475408,
+        0.29580124580393846,
+        0.4463428547576976
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Start Date"
+    },
+    {
+      "bbox": [
+        0.3225492307968478,
+        0.4363251847007917,
+        0.38312554975137775,
+        0.4463428547576976
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "End Date"
+    },
+    {
+      "bbox": [
+        0.8779632721202002,
+        0.435768647475408,
+        0.9353927693108585,
+        0.44689939198308126
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Subtotal"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 849,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "cbc44630-9915-4077-8c76-88e87aea47c4",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1654,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0467741935483871,
+          0.4295493439817456,
+          0.9548387096774194,
+          0.4569309754706218
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.0467741935483871,
+            "right": 0.09838709677419355
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.11290322580645161,
+            "right": 0.14838709677419354
+          },
+          {
+            "column_type": "",
+            "left": 0.16129032258064516,
+            "right": 0.2129032258064516
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.22741935483870968,
+            "right": 0.2967741935483871
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.32016129032258067,
+            "right": 0.38387096774193546
+          },
+          {
+            "column_type": "",
+            "left": 0.39919354838709675,
+            "right": 0.47096774193548385
+          },
+          {
+            "column_type": "",
+            "left": 0.4790322580645161,
+            "right": 0.5443548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.557258064516129,
+            "right": 0.5766129032258065
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8766129032258064,
+            "right": 0.9346774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4569309754706218,
+            "row_type": "header",
+            "top": 0.4295493439817456
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

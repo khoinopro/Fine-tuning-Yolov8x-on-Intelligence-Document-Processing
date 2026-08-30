@@ -1,0 +1,732 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.9193548387096774,
+        0.11155251050267172,
+        0.9592306594347703,
+        0.12837392081656668
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/5/2019"
+    },
+    {
+      "bbox": [
+        0.9216271767056808,
+        0.1084538296553753,
+        0.9612817584927206,
+        0.12350456519938656
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "8/5/2019"
+    },
+    {
+      "bbox": [
+        0.5599500428204397,
+        0.15404870497988,
+        0.6105438195832144,
+        0.1699847779088331
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KNCQ-FM"
+    },
+    {
+      "bbox": [
+        0.5592663431344562,
+        0.1518353615175254,
+        0.6105438195832144,
+        0.16600075967659483
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "KNCQ-FM"
+    },
+    {
+      "bbox": [
+        0.07862546388809592,
+        0.1513926928250545,
+        0.17160862118184414,
+        0.1699847779088331
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "The Justin Company"
+    },
+    {
+      "bbox": [
+        0.08067656294604625,
+        0.15006468674764173,
+        0.172976020553811,
+        0.16688609706153668
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "The Justin Company"
+    },
+    {
+      "bbox": [
+        0.7967741935483871,
+        0.15095002413258354,
+        0.8258064516129032,
+        0.16688609706153668
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 1,
+      "text": "Misfit"
+    },
+    {
+      "bbox": [
+        0.7958264344847275,
+        0.15404870497988,
+        0.8211233228661148,
+        0.16909944052389128
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Misfit"
+    },
+    {
+      "bbox": [
+        0.3151855552383671,
+        0.26117452855784257,
+        0.36988153011704256,
+        0.2771106014867956
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Otilia Bretan"
+    },
+    {
+      "bbox": [
+        0.3158692549243506,
+        0.25541983555572056,
+        0.3719326291749929,
+        0.27312658325455735
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 1,
+      "text": "Otilia Bretan"
+    },
+    {
+      "bbox": [
+        0.7958264344847275,
+        0.1522780302099963,
+        0.9305152726234656,
+        0.2337290696246455
+      ],
+      "fieldtype": "customer_other_address",
+      "page": 0,
+      "text": "Misfit\n1631 Alhambra Blvd Suite 120\n\nSacramento, CA 95816"
+    },
+    {
+      "bbox": [
+        0.7965101341707108,
+        0.1518353615175254,
+        0.9318826719954326,
+        0.23240106354723275
+      ],
+      "fieldtype": "customer_other_address",
+      "page": 1,
+      "text": "Misfit\n1631 Alhambra Blvd Suite 120\n\nSacramento, CA 95816"
+    },
+    {
+      "bbox": [
+        0.3220225520982016,
+        0.5856506801390265,
+        0.33159434770196977,
+        0.6042427652228052
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.22356979731658577,
+        0.5856506801390265,
+        0.27074507564944333,
+        0.6015867530679797
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$5,172.00"
+    },
+    {
+      "bbox": [
+        0.3213388524122181,
+        0.5865360175239683,
+        0.36851413074507566,
+        0.6024720904529215
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$4,396.20"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.025,
+        0.49373695198329853,
+        0.03790322580645161,
+        0.524008350730689
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6"
+    },
+    {
+      "bbox": [
+        0.19193548387096773,
+        0.49373695198329853,
+        0.21370967741935484,
+        0.524008350730689
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "RT6\n0"
+    },
+    {
+      "bbox": [
+        0.2911290322580645,
+        0.49373695198329853,
+        0.325,
+        0.524008350730689
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$38.25"
+    },
+    {
+      "bbox": [
+        0.7669354838709678,
+        0.49373695198329853,
+        0.7806451612903226,
+        0.524008350730689
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7"
+    },
+    {
+      "bbox": [
+        0.025,
+        0.5605427974947808,
+        0.03790322580645161,
+        0.5918580375782881
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "7"
+    },
+    {
+      "bbox": [
+        0.19193548387096773,
+        0.5605427974947808,
+        0.21370967741935484,
+        0.5918580375782881
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "RT6\n0"
+    },
+    {
+      "bbox": [
+        0.2911290322580645,
+        0.5605427974947808,
+        0.325,
+        0.5918580375782881
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$38.25"
+    },
+    {
+      "bbox": [
+        0.7669354838709678,
+        0.5605427974947808,
+        0.7806451612903226,
+        0.5918580375782881
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "70"
+    },
+    {
+      "bbox": [
+        0.025,
+        0.6263048016701461,
+        0.03790322580645161,
+        0.6597077244258872
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "8"
+    },
+    {
+      "bbox": [
+        0.19193548387096773,
+        0.6263048016701461,
+        0.21370967741935484,
+        0.6597077244258872
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "RT6\n0"
+    },
+    {
+      "bbox": [
+        0.2911290322580645,
+        0.6263048016701461,
+        0.325,
+        0.6597077244258872
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$38.25"
+    },
+    {
+      "bbox": [
+        0.7669354838709678,
+        0.6263048016701461,
+        0.7806451612903226,
+        0.6597077244258872
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "15"
+    },
+    {
+      "bbox": [
+        0.025,
+        0.697286012526096,
+        0.03790322580645161,
+        0.7275574112734864
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "9"
+    },
+    {
+      "bbox": [
+        0.19193548387096773,
+        0.697286012526096,
+        0.21370967741935484,
+        0.7275574112734864
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "WK\nD60"
+    },
+    {
+      "bbox": [
+        0.2911290322580645,
+        0.697286012526096,
+        0.325,
+        0.7275574112734864
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$15.30"
+    },
+    {
+      "bbox": [
+        0.7669354838709678,
+        0.697286012526096,
+        0.7806451612903226,
+        0.7275574112734864
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "24"
+    },
+    {
+      "bbox": [
+        0.025,
+        0.7651356993736952,
+        0.03790322580645161,
+        0.7964509394572025
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.19193548387096773,
+        0.7651356993736952,
+        0.21370967741935484,
+        0.7964509394572025
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "WK\nD60"
+    },
+    {
+      "bbox": [
+        0.2911290322580645,
+        0.7651356993736952,
+        0.325,
+        0.7964509394572025
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$21.25"
+    },
+    {
+      "bbox": [
+        0.7669354838709678,
+        0.7651356993736952,
+        0.7806451612903226,
+        0.7964509394572025
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "24"
+    },
+    {
+      "bbox": [
+        0.02661290322580645,
+        0.4342579873139721,
+        0.06370967741935483,
+        0.4501940602429252
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "Line No"
+    },
+    {
+      "bbox": [
+        0.18064516129032257,
+        0.4192072517699608,
+        0.22016129032258064,
+        0.4484233854730415
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "Daypart\nCode"
+    },
+    {
+      "bbox": [
+        0.27741935483870966,
+        0.43160197515914656,
+        0.31693548387096776,
+        0.44930872285798334
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "STN Net"
+    },
+    {
+      "bbox": [
+        0.7564516129032258,
+        0.41743657700007714,
+        0.785483870967742,
+        0.451079397627867
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "Total\nSpots"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.025,
+        0.43470065600644303,
+        0.06153297173850985,
+        0.4532927410902216
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line No"
+    },
+    {
+      "bbox": [
+        0.18118041678561234,
+        0.42230593261725724,
+        0.2187838995147017,
+        0.4532927410902216
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Daypart\nCode"
+    },
+    {
+      "bbox": [
+        0.274847273765344,
+        0.4355859933913848,
+        0.316552954610334,
+        0.451522066320338
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "STN Net"
+    },
+    {
+      "bbox": [
+        0.7541207536397374,
+        0.4196499204624317,
+        0.7848872395089923,
+        0.45240740370527976
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 326,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "6873e4e7-4874-4d14-abb7-bc2d4fc10f0f",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ],
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.025,
+          0.4133611691022965,
+          0.9814516129032258,
+          0.8173277661795407
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.025,
+            "right": 0.03790322580645161
+          },
+          {
+            "column_type": "",
+            "left": 0.05806451612903226,
+            "right": 0.17258064516129032
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.19193548387096773,
+            "right": 0.21370967741935484
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.2911290322580645,
+            "right": 0.325
+          },
+          {
+            "column_type": "",
+            "left": 0.3419354838709677,
+            "right": 0.3564516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.3870967741935484,
+            "right": 0.4
+          },
+          {
+            "column_type": "",
+            "left": 0.4120967741935484,
+            "right": 0.425
+          },
+          {
+            "column_type": "",
+            "left": 0.4411290322580645,
+            "right": 0.45403225806451614
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7669354838709678,
+            "right": 0.7806451612903226
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4759916492693111,
+            "row_type": "header",
+            "top": 0.4133611691022965
+          },
+          {
+            "bottom": 0.49373695198329853,
+            "row_type": "subsection-header",
+            "top": 0.4759916492693111
+          },
+          {
+            "bottom": 0.524008350730689,
+            "row_type": "data",
+            "top": 0.49373695198329853
+          },
+          {
+            "bottom": 0.5605427974947808,
+            "row_type": "up-merge",
+            "top": 0.524008350730689
+          },
+          {
+            "bottom": 0.5918580375782881,
+            "row_type": "data",
+            "top": 0.5605427974947808
+          },
+          {
+            "bottom": 0.6263048016701461,
+            "row_type": "up-merge",
+            "top": 0.5918580375782881
+          },
+          {
+            "bottom": 0.6597077244258872,
+            "row_type": "data",
+            "top": 0.6263048016701461
+          },
+          {
+            "bottom": 0.697286012526096,
+            "row_type": "up-merge",
+            "top": 0.6597077244258872
+          },
+          {
+            "bottom": 0.7275574112734864,
+            "row_type": "data",
+            "top": 0.697286012526096
+          },
+          {
+            "bottom": 0.7651356993736952,
+            "row_type": "up-merge",
+            "top": 0.7275574112734864
+          },
+          {
+            "bottom": 0.7964509394572025,
+            "row_type": "data",
+            "top": 0.7651356993736952
+          },
+          {
+            "bottom": 0.8173277661795407,
+            "row_type": "up-merge",
+            "top": 0.7964509394572025
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      },
+      "1": {
+        "bbox": [
+          0.02661290322580645,
+          0.407098121085595,
+          0.9830645161290322,
+          0.6043841336116911
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.02661290322580645,
+            "right": 0.06370967741935483
+          },
+          {
+            "column_type": "",
+            "left": 0.06370967741935483,
+            "right": 0.10403225806451613
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.18064516129032257,
+            "right": 0.22016129032258064
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.27741935483870966,
+            "right": 0.31693548387096776
+          },
+          {
+            "column_type": "",
+            "left": 0.3467741935483871,
+            "right": 0.36612903225806454
+          },
+          {
+            "column_type": "",
+            "left": 0.38548387096774195,
+            "right": 0.39919354838709675
+          },
+          {
+            "column_type": "",
+            "left": 0.4088709677419355,
+            "right": 0.4274193548387097
+          },
+          {
+            "column_type": "",
+            "left": 0.43629032258064515,
+            "right": 0.45483870967741935
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7564516129032258,
+            "right": 0.785483870967742
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.47286012526096033,
+            "row_type": "data",
+            "top": 0.407098121085595
+          },
+          {
+            "bottom": 0.49164926931106473,
+            "row_type": "subsection-header",
+            "top": 0.47286012526096033
+          },
+          {
+            "bottom": 0.5062630480167014,
+            "row_type": "up-merge",
+            "top": 0.49164926931106473
+          },
+          {
+            "bottom": 0.6043841336116911,
+            "row_type": "footer",
+            "top": 0.5062630480167014
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

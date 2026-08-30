@@ -1,0 +1,213 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7377154468594652,
+        0.2603128542280662,
+        0.8366595304619182,
+        0.27155746996146
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "5339-1061969"
+    },
+    {
+      "bbox": [
+        0.552195290104866,
+        0.106823849467241,
+        0.5987572118001379,
+        0.1169440036272954
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/17/21"
+    },
+    {
+      "bbox": [
+        0.07057041256939657,
+        0.025300385400136027,
+        0.20370840741681484,
+        0.03991838585354795
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Skyview Networks"
+    },
+    {
+      "bbox": [
+        0.06984288254290795,
+        0.04048061664021764,
+        0.3317536920788128,
+        0.06802992518703242
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "14605 North Airport Drive, Suite 370\nScottsdale, Arizona 85260"
+    },
+    {
+      "bbox": [
+        0.4372455459196633,
+        0.5858444797098163,
+        0.8119235095613049,
+        0.5965268646565405
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Skyview Networks, 14605 N Airport Drive, #370, Scottsdale, AZ 85260"
+    },
+    {
+      "bbox": [
+        0.13022787474146377,
+        0.22489231466787576,
+        0.3841358539859937,
+        0.23782362276127864
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Skyview - Youngkin for Govemor - SSN"
+    },
+    {
+      "bbox": [
+        0.15932907580100875,
+        0.47873951484924054,
+        0.17024202619833811,
+        0.48998413058263435
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.16005660582749737,
+        0.47873951484924054,
+        0.2000707572843717,
+        0.4894218997959647
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$25.50"
+    },
+    {
+      "bbox": [
+        0.16005660582749737,
+        0.47930174563591027,
+        0.20079828731086033,
+        0.4894218997959647
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$25.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.23870967741935484,
+        0.3054862842892768,
+        0.27903225806451615,
+        0.3260598503740648
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$30.00"
+    },
+    {
+      "bbox": [
+        0.3217741935483871,
+        0.3054862842892768,
+        0.36129032258064514,
+        0.3260598503740648
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$25.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.21533686255093878,
+        0.2936396280175326,
+        0.2779525459877366,
+        0.30387371692967174
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross Rate"
+    },
+    {
+      "bbox": [
+        0.29780629927257496,
+        0.2948204844304717,
+        0.3482042883802414,
+        0.3050545733426109
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Net Rate"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 525,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "faa2ae3e-d581-4880-bfa8-3525995c5490",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07419354838709677,
+          0.2880299251870324,
+          0.9032258064516129,
+          0.3260598503740648
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.07983870967741935,
+            "right": 0.1935483870967742
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.23870967741935484,
+            "right": 0.27903225806451615
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.3217741935483871,
+            "right": 0.36129032258064514
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3054862842892768,
+            "row_type": "header",
+            "top": 0.2880299251870324
+          },
+          {
+            "bottom": 0.3260598503740648,
+            "row_type": "data",
+            "top": 0.3054862842892768
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

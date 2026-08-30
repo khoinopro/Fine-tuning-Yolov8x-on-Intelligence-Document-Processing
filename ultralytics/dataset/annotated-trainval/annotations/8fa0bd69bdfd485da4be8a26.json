@@ -1,0 +1,243 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7196415003108378,
+        0.10703114030746709,
+        0.743905275033962,
+        0.12201549995051249
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "17761"
+    },
+    {
+      "bbox": [
+        0.7185386014597868,
+        0.144135268947389,
+        0.7524193548387097,
+        0.15911962859043438
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/22/20"
+    },
+    {
+      "bbox": [
+        0.04790407694271853,
+        0.16404943757417373,
+        0.12842369563367095,
+        0.17944281643502114
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "StateNets Platinum"
+    },
+    {
+      "bbox": [
+        0.04722458648963032,
+        0.16404943757417373,
+        0.13861605242999406,
+        0.23793765610624126
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin\n2601 Northwind Drive\nRichmond VA 23233"
+    },
+    {
+      "bbox": [
+        0.07780165687859959,
+        0.6522394528753341,
+        0.20554586205918232,
+        0.6676328317361815
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Learfield Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.07780165687859959,
+        0.6509200204015473,
+        0.3930852271115272,
+        0.6685124533853728
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Learfield Communications, Inc., 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.8608125532453778,
+        0.45309849396827734,
+        0.8696357440537864,
+        0.46950993548208897
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3391413966982109,
+        0.45309849396827734,
+        0.38932329442103564,
+        0.4716505582882383
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$37,400.00"
+    },
+    {
+      "bbox": [
+        0.860574658836213,
+        0.4530051493335092,
+        0.9101774619116522,
+        0.47191701479112175
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$31,790.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.8830645161290323,
+        0.35073068893528186,
+        0.9096774193548387,
+        0.3674321503131524
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "37,400"
+    },
+    {
+      "bbox": [
+        0.9274193548387096,
+        0.35073068893528186,
+        0.9379032258064516,
+        0.3674321503131524
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "68"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8779541752741141,
+        0.3155857131790183,
+        0.8986482996980771,
+        0.3269775877035292
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    },
+    {
+      "bbox": [
+        0.9155366081360242,
+        0.29649662613794603,
+        0.9409880025425076,
+        0.3272854762041917
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nUnits"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "4779355d-49ae-409a-b4c9-ab8a564b8296",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03870967741935484,
+          0.29331941544885176,
+          0.9443548387096774,
+          0.47494780793319413
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.08790322580645162,
+            "right": 0.10967741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.13064516129032258,
+            "right": 0.15806451612903225
+          },
+          {
+            "column_type": "",
+            "left": 0.19596774193548386,
+            "right": 0.2032258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.2411290322580645,
+            "right": 0.24919354838709679
+          },
+          {
+            "column_type": "",
+            "left": 0.2870967741935484,
+            "right": 0.29435483870967744
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8830645161290323,
+            "right": 0.9096774193548387
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.9274193548387096,
+            "right": 0.9379032258064516
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3288100208768267,
+            "row_type": "header",
+            "top": 0.29331941544885176
+          },
+          {
+            "bottom": 0.35073068893528186,
+            "row_type": "down-merge",
+            "top": 0.3288100208768267
+          },
+          {
+            "bottom": 0.3674321503131524,
+            "row_type": "data",
+            "top": 0.35073068893528186
+          },
+          {
+            "bottom": 0.47494780793319413,
+            "row_type": "footer",
+            "top": 0.3674321503131524
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.43251772695495855,
+        0.31318820642548956,
+        0.48618196344751824,
+        0.3261861359411719
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "127608"
+    },
+    {
+      "bbox": [
+        0.5534624987516229,
+        0.3343012474730018,
+        0.6119324877659044,
+        0.3472991769886842
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/28/18"
+    },
+    {
+      "bbox": [
+        0.39647458304204536,
+        0.25012418013334453,
+        0.5278318186357734,
+        0.2649789567226958
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Buying Time Media"
+    },
+    {
+      "bbox": [
+        0.39567362428842506,
+        0.24950523110878822,
+        0.5863018076500549,
+        0.30582959234341184
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Buving Time Media\n650 Massachusetts Ave NW\nWashington, DC 20001"
+    },
+    {
+      "bbox": [
+        0.39647458304204536,
+        0.22907991329843022,
+        0.5150164785778488,
+        0.2433157408632252
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Kier for Congress"
+    },
+    {
+      "bbox": [
+        0.84581244382303,
+        0.5444688378605783,
+        0.8834575052431838,
+        0.5562288693271481
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "17.00"
+    },
+    {
+      "bbox": [
+        0.8474143613302706,
+        0.5450877868851347,
+        0.8834575052431838,
+        0.5574667673762608
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "17.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.40523690773067333,
+        0.1935483870967742,
+        0.4164588528678304
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10p News"
+    },
+    {
+      "bbox": [
+        0.2306451612903226,
+        0.40523690773067333,
+        0.2830645161290323,
+        0.4164588528678304
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "05/28/18"
+    },
+    {
+      "bbox": [
+        0.4798387096774194,
+        0.40523690773067333,
+        0.5193548387096775,
+        0.4164588528678304
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "100.00"
+    },
+    {
+      "bbox": [
+        0.5564516129032258,
+        0.40523690773067333,
+        0.5903225806451613,
+        0.4164588528678304
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "85.00"
+    },
+    {
+      "bbox": [
+        0.7290322580645161,
+        0.40523690773067333,
+        0.7419354838709677,
+        0.4164588528678304
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7774193548387097,
+        0.40523690773067333,
+        0.7862903225806451,
+        0.4164588528678304
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.853225806451613,
+        0.40523690773067333,
+        0.8838709677419355,
+        0.4164588528678304
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "17.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.13295915310096873,
+        0.37865925460326183,
+        0.20023968840507342,
+        0.3997035214381761
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PROGRAM\nNAME"
+    },
+    {
+      "bbox": [
+        0.24028762608608809,
+        0.3908319313454192,
+        0.2747288524917607,
+        0.40073511573832016
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.45574553080994706,
+        0.37969084890340576,
+        0.5214241486068111,
+        0.4013540647628764
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS\nRATE PAID"
+    },
+    {
+      "bbox": [
+        0.529433736143014,
+        0.37845295085429315,
+        0.5887046839109158,
+        0.40011616671376377
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET RATE\nPAID"
+    },
+    {
+      "bbox": [
+        0.7048437031858583,
+        0.3792782036278181,
+        0.7673184859682413,
+        0.40094141948728873
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NUMBER\nOF SPOTS"
+    },
+    {
+      "bbox": [
+        0.7769299910116848,
+        0.3895940332963066,
+        0.8834575052431838,
+        0.40011616671376377
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "REBATE AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 169,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "306906fe-9007-4c5d-8a80-062fa271244b",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11048387096774194,
+          0.3628428927680798,
+          0.8935483870967742,
+          0.5604738154613467
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13951612903225807,
+            "right": 0.1935483870967742
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.2306451612903226,
+            "right": 0.2830645161290323
+          },
+          {
+            "column_type": "",
+            "left": 0.3346774193548387,
+            "right": 0.35161290322580646
+          },
+          {
+            "column_type": "",
+            "left": 0.4153225806451613,
+            "right": 0.432258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.4798387096774194,
+            "right": 0.5193548387096775
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.5564516129032258,
+            "right": 0.5903225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.6612903225806451,
+            "right": 0.6951612903225807
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7290322580645161,
+            "right": 0.7419354838709677
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.7774193548387097,
+            "right": 0.7862903225806451
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.853225806451613,
+            "right": 0.8838709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40523690773067333,
+            "row_type": "header",
+            "top": 0.3628428927680798
+          },
+          {
+            "bottom": 0.4164588528678304,
+            "row_type": "data",
+            "top": 0.40523690773067333
+          },
+          {
+            "bottom": 0.5442643391521197,
+            "row_type": "gap-with-text",
+            "top": 0.4164588528678304
+          },
+          {
+            "bottom": 0.5604738154613467,
+            "row_type": "footer",
+            "top": 0.5442643391521197
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

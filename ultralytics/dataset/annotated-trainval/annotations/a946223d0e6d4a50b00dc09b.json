@@ -1,0 +1,710 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7634877277743432,
+        0.15308321213291212,
+        0.8122111148711173,
+        0.16907101498654153
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "056760"
+    },
+    {
+      "bbox": [
+        0.7611675664840205,
+        0.2610008813949106,
+        0.8802691793872462,
+        0.27898715960524373
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 31, 1999"
+    },
+    {
+      "bbox": [
+        0.12312321164531091,
+        0.035972556420666164,
+        0.28553450196789154,
+        0.06694892444957315
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "50 Cambridge Street\nBurlington, Massachusetts 01803-4610"
+    },
+    {
+      "bbox": [
+        0.03449306923650926,
+        0.7430331437212895,
+        0.17292935955908992,
+        0.7869996015687705
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Post Office Box 4088\nBoston, MA 02211"
+    },
+    {
+      "bbox": [
+        0.7630237143977996,
+        0.1818612574600345,
+        0.7962793595590898,
+        0.19585058495696026
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LORI"
+    },
+    {
+      "bbox": [
+        0.06233500472038022,
+        0.17386735603321982,
+        0.4397479079461867,
+        0.2127215849843587
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt. Planning/Info\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.06233500472038022,
+        0.17086964299816432,
+        0.4382011337526383,
+        0.2957743527921441
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt. Planning/Info\nLorillard Tobacco Company\n714 Green Valley Road\nPO Box 10529\nGreensboro NC\n27404-0529"
+    },
+    {
+      "bbox": [
+        0.8484056451612902,
+        0.7919957899605296,
+        0.8576862903225806,
+        0.8069843551358071
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.887075,
+        0.7310422915810675,
+        0.926517741935484,
+        0.7460308567563451
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8491790322580645,
+        0.7909965522821777,
+        0.9257443548387096,
+        0.8089828304925109
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$54,884.48"
+    },
+    {
+      "bbox": [
+        0.8484056451612902,
+        0.7929950276388814,
+        0.9280645161290322,
+        0.807983592814159
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$54,884.48"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.035483870967741936,
+        0.424400417101147,
+        0.3717741935483871,
+        0.44525547445255476
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Deceased"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.424400417101147,
+        0.6282258064516129,
+        0.44525547445255476
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12,473.00"
+    },
+    {
+      "bbox": [
+        0.6346774193548387,
+        0.424400417101147,
+        0.6693548387096774,
+        0.44525547445255476
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "EACH"
+    },
+    {
+      "bbox": [
+        0.7370967741935484,
+        0.424400417101147,
+        0.7935483870967742,
+        0.44525547445255476
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$0.0601"
+    },
+    {
+      "bbox": [
+        0.8459677419354839,
+        0.424400417101147,
+        0.9266129032258065,
+        0.44525547445255476
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$750.00"
+    },
+    {
+      "bbox": [
+        0.035483870967741936,
+        0.44525547445255476,
+        0.3717741935483871,
+        0.4640250260688217
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "ADI, DMA, SMSA Codes added: Flat fee for one"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.44525547445255476,
+        0.6282258064516129,
+        0.4640250260688217
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.6346774193548387,
+        0.44525547445255476,
+        0.6693548387096774,
+        0.4640250260688217
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "EACH"
+    },
+    {
+      "bbox": [
+        0.7370967741935484,
+        0.44525547445255476,
+        0.7935483870967742,
+        0.4640250260688217
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$0.0000"
+    },
+    {
+      "bbox": [
+        0.8459677419354839,
+        0.44525547445255476,
+        0.9266129032258065,
+        0.4640250260688217
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.035483870967741936,
+        0.5255474452554745,
+        0.3717741935483871,
+        0.5516162669447341
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Overlay Input & Setup"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.5255474452554745,
+        0.6282258064516129,
+        0.5516162669447341
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "5,966,781.00"
+    },
+    {
+      "bbox": [
+        0.6346774193548387,
+        0.5255474452554745,
+        0.6693548387096774,
+        0.5516162669447341
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "EACH"
+    },
+    {
+      "bbox": [
+        0.7370967741935484,
+        0.5255474452554745,
+        0.7935483870967742,
+        0.5516162669447341
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$0.0010"
+    },
+    {
+      "bbox": [
+        0.8459677419354839,
+        0.5255474452554745,
+        0.9266129032258065,
+        0.5516162669447341
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$5,966.78"
+    },
+    {
+      "bbox": [
+        0.035483870967741936,
+        0.5516162669447341,
+        0.3717741935483871,
+        0.570385818561001
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Exact YOB, new and chanaged"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.5516162669447341,
+        0.6282258064516129,
+        0.570385818561001
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "2,914,031.00"
+    },
+    {
+      "bbox": [
+        0.6346774193548387,
+        0.5516162669447341,
+        0.6693548387096774,
+        0.570385818561001
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "EACH"
+    },
+    {
+      "bbox": [
+        0.7370967741935484,
+        0.5516162669447341,
+        0.7935483870967742,
+        0.570385818561001
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$0.0080"
+    },
+    {
+      "bbox": [
+        0.8459677419354839,
+        0.5516162669447341,
+        0.9266129032258065,
+        0.570385818561001
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$23,312.25"
+    },
+    {
+      "bbox": [
+        0.035483870967741936,
+        0.570385818561001,
+        0.3717741935483871,
+        0.5954118873826904
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Estimated YoB"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.570385818561001,
+        0.6282258064516129,
+        0.5954118873826904
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "345,942.00"
+    },
+    {
+      "bbox": [
+        0.6346774193548387,
+        0.570385818561001,
+        0.6693548387096774,
+        0.5954118873826904
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "EACH"
+    },
+    {
+      "bbox": [
+        0.7370967741935484,
+        0.570385818561001,
+        0.7935483870967742,
+        0.5954118873826904
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$0.0040"
+    },
+    {
+      "bbox": [
+        0.8459677419354839,
+        0.570385818561001,
+        0.9266129032258065,
+        0.5954118873826904
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$1,383.77"
+    },
+    {
+      "bbox": [
+        0.035483870967741936,
+        0.5954118873826904,
+        0.3717741935483871,
+        0.6141814389989573
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Phones new and changed"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.5954118873826904,
+        0.6282258064516129,
+        0.6141814389989573
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "415,633.00"
+    },
+    {
+      "bbox": [
+        0.6346774193548387,
+        0.5954118873826904,
+        0.6693548387096774,
+        0.6141814389989573
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "EACH"
+    },
+    {
+      "bbox": [
+        0.7370967741935484,
+        0.5954118873826904,
+        0.7935483870967742,
+        0.6141814389989573
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$0.0170"
+    },
+    {
+      "bbox": [
+        0.8459677419354839,
+        0.5954118873826904,
+        0.9266129032258065,
+        0.6141814389989573
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$7,065.76"
+    },
+    {
+      "bbox": [
+        0.035483870967741936,
+        0.6141814389989573,
+        0.3717741935483871,
+        0.6329509906152242
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Phones verified"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.6141814389989573,
+        0.6282258064516129,
+        0.6329509906152242
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "1,930,108.00"
+    },
+    {
+      "bbox": [
+        0.6346774193548387,
+        0.6141814389989573,
+        0.6693548387096774,
+        0.6329509906152242
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "EACH"
+    },
+    {
+      "bbox": [
+        0.7370967741935484,
+        0.6141814389989573,
+        0.7935483870967742,
+        0.6329509906152242
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$0.0085"
+    },
+    {
+      "bbox": [
+        0.8459677419354839,
+        0.6141814389989573,
+        0.9266129032258065,
+        0.6329509906152242
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$16,405.92"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.542414517662549,
+        0.3660062565172054,
+        0.6143035731348129,
+        0.3855803856261146
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.6490885999762308,
+        0.36684105873064676,
+        0.682134375475578,
+        0.3840812394744771
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT"
+    },
+    {
+      "bbox": [
+        0.7421965209371307,
+        0.36714090626109813,
+        0.8193033304356073,
+        0.3843810870049285
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT PRICE"
+    },
+    {
+      "bbox": [
+        0.8540883572770253,
+        0.3656417601094607,
+        0.9335141685649296,
+        0.38477580813347234
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 177,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xqhx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2208,
+        1709
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016935483870967744,
+          0.3660062565172054,
+          0.9556451612903226,
+          0.6976016684045881
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.035483870967741936,
+            "right": 0.3717741935483871
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.5330645161290323,
+            "right": 0.6282258064516129
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.6346774193548387,
+            "right": 0.6693548387096774
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7370967741935484,
+            "right": 0.7935483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8459677419354839,
+            "right": 0.9266129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.38477580813347234,
+            "row_type": "header",
+            "top": 0.3660062565172054
+          },
+          {
+            "bottom": 0.424400417101147,
+            "row_type": "gap",
+            "top": 0.38477580813347234
+          },
+          {
+            "bottom": 0.44525547445255476,
+            "row_type": "data",
+            "top": 0.424400417101147
+          },
+          {
+            "bottom": 0.4640250260688217,
+            "row_type": "data",
+            "top": 0.44525547445255476
+          },
+          {
+            "bottom": 0.5255474452554745,
+            "row_type": "gap-with-text",
+            "top": 0.4640250260688217
+          },
+          {
+            "bottom": 0.5516162669447341,
+            "row_type": "data",
+            "top": 0.5255474452554745
+          },
+          {
+            "bottom": 0.570385818561001,
+            "row_type": "data",
+            "top": 0.5516162669447341
+          },
+          {
+            "bottom": 0.5954118873826904,
+            "row_type": "data",
+            "top": 0.570385818561001
+          },
+          {
+            "bottom": 0.6141814389989573,
+            "row_type": "data",
+            "top": 0.5954118873826904
+          },
+          {
+            "bottom": 0.6329509906152242,
+            "row_type": "data",
+            "top": 0.6141814389989573
+          },
+          {
+            "bottom": 0.6976016684045881,
+            "row_type": "footer",
+            "top": 0.6329509906152242
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

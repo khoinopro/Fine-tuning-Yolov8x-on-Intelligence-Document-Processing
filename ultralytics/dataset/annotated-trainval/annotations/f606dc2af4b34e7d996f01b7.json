@@ -1,0 +1,161 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8363131858995677,
+        0.2820302787121776,
+        0.8882835882939807,
+        0.29801371315473246
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4705"
+    },
+    {
+      "bbox": [
+        0.7946000997672098,
+        0.5202350113721887,
+        0.8445190389092118,
+        0.5326092831986827
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/9/99"
+    },
+    {
+      "bbox": [
+        0.12855836381775856,
+        0.5197194167127513,
+        0.16685234452943132,
+        0.5315780938798083
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "1903"
+    },
+    {
+      "bbox": [
+        0.2837857499168607,
+        0.33823009659083825,
+        0.6879240106418357,
+        0.35627590967114214
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1556 Third Avenue, New York NY 10128"
+    },
+    {
+      "bbox": [
+        0.10599226804123711,
+        0.40525740231768115,
+        0.3145576987030263,
+        0.43464629790560466
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Donald Day\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.10599226804123711,
+        0.40469597933781115,
+        0.3178616788026104,
+        0.4650663828124026
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Donald Day\nLorillard Tobacco Company\nPO Box 10529\nGreensboro NC 27404-0529"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.29435483870967744,
+        0.6030395136778115,
+        0.521774193548387,
+        0.617629179331307
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Old Gold Smoker Profile Study"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.442204274352488,
+        0.5196213990092802,
+        0.5560390449263195,
+        0.5348029979744615
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 489,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hngm0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.056451612903225805,
+          0.49240121580547114,
+          0.8911290322580645,
+          0.7787234042553192
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.29435483870967744,
+            "right": 0.521774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.539209726443769,
+            "row_type": "header",
+            "top": 0.49240121580547114
+          },
+          {
+            "bottom": 0.6030395136778115,
+            "row_type": "gap",
+            "top": 0.539209726443769
+          },
+          {
+            "bottom": 0.617629179331307,
+            "row_type": "data",
+            "top": 0.6030395136778115
+          },
+          {
+            "bottom": 0.6498480243161094,
+            "row_type": "gap",
+            "top": 0.617629179331307
+          },
+          {
+            "bottom": 0.7787234042553192,
+            "row_type": "footer",
+            "top": 0.6498480243161094
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

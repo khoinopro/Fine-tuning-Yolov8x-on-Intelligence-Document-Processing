@@ -1,0 +1,227 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6875781786790225,
+        0.31169331747500106,
+        0.7498876869681648,
+        0.3248028721201709
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "529864"
+    },
+    {
+      "bbox": [
+        0.7571791112113693,
+        0.22389091585791543,
+        0.8312203925107152,
+        0.23998511245269513
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/24/01"
+    },
+    {
+      "bbox": [
+        0.2272868260771487,
+        0.7195357833655707,
+        0.4777661854274758,
+        0.7531001347762094
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "University of Rochester\nSponsored Programs Accounting"
+    },
+    {
+      "bbox": [
+        0.22914222873900292,
+        0.7190454165014757,
+        0.4752911329962474,
+        0.801209029928936
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "University of Rochester\nSponsored Programs Accounting\nSuite 260, Towne House\n1325 Mt. Hope Avenue\nRochester, New York 14620"
+    },
+    {
+      "bbox": [
+        0.30335833521317396,
+        0.1759331415773138,
+        0.6568125422964134,
+        0.2053019490616228
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Suite 260 - Towne House \u20221325 Mt. Hope Avenue\nRochester, New York 14620 \u2022 (716) 275-6446"
+    },
+    {
+      "bbox": [
+        0.057621813670200764,
+        0.2742554883240945,
+        0.21615441010602301,
+        0.32417569364096877
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Richard lzac, PhD\nPhillip Morris USA\nResearch Center"
+    },
+    {
+      "bbox": [
+        0.059372885179336796,
+        0.27434474252235586,
+        0.2572078539842497,
+        0.36053707433582755
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Richard lzac, PhD\nPhillip Morris USA\nResearch Center\nPO Box 26583\nRichmond, VA 23261"
+    },
+    {
+      "bbox": [
+        0.7263901421159487,
+        0.6020605534283346,
+        0.7393779607489285,
+        0.6174442144915441
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7282455447778029,
+        0.6027598107493897,
+        0.8247264831942253,
+        0.619541986454709
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$64,884.00"
+    },
+    {
+      "bbox": [
+        0.7288743514549967,
+        0.6039214801698519,
+        0.8256541845251524,
+        0.6188427291336541
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$64,884.00"
+    },
+    {
+      "bbox": [
+        0.2759699977441913,
+        0.6892105723195606,
+        0.3330447778028423,
+        0.7020543503391963
+      ],
+      "fieldtype": "payment_reference",
+      "page": 0,
+      "text": "529864"
+    },
+    {
+      "bbox": [
+        0.44550530115046244,
+        0.6899098296406156,
+        0.5445606812542296,
+        0.7041521223023612
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "within 30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22580645161290322,
+        0.5689969604863222,
+        0.5862903225806452,
+        0.5860182370820669
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "22.5% of budgeted amount per agreement"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.23040027483659553,
+        0.5349654200255496,
+        0.4383401455224538,
+        0.5529910576626581
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "First Quarterly Payment"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 182,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mrcl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.22580645161290322,
+          0.5337386018237082,
+          0.8282258064516129,
+          0.6218844984802432
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.22580645161290322,
+            "right": 0.5862903225806452
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5501519756838906,
+            "row_type": "header",
+            "top": 0.5337386018237082
+          },
+          {
+            "bottom": 0.5689969604863222,
+            "row_type": "gap",
+            "top": 0.5501519756838906
+          },
+          {
+            "bottom": 0.5860182370820669,
+            "row_type": "data",
+            "top": 0.5689969604863222
+          },
+          {
+            "bottom": 0.6030395136778115,
+            "row_type": "gap",
+            "top": 0.5860182370820669
+          },
+          {
+            "bottom": 0.6218844984802432,
+            "row_type": "footer",
+            "top": 0.6030395136778115
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

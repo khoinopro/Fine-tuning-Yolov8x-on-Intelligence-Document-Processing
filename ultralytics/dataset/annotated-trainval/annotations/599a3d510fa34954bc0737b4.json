@@ -1,0 +1,305 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8376808280678416,
+        0.17994253614360145,
+        0.8869159461257068,
+        0.19180121331065828
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "98-1740"
+    },
+    {
+      "bbox": [
+        0.7357914865314267,
+        0.1804581308030387,
+        0.7836589624210176,
+        0.19180121331065828
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/16/99"
+    },
+    {
+      "bbox": [
+        0.6147551546391752,
+        0.4021638343610576,
+        0.698865147988028,
+        0.415053700846989
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "PMO-09499B"
+    },
+    {
+      "bbox": [
+        0.058124792151646155,
+        0.9358043068786148,
+        0.20241104090455603,
+        0.9497253626834208
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Schlesinger Associates, Inc."
+    },
+    {
+      "bbox": [
+        0.05779301064547215,
+        0.9370787089756314,
+        0.5607332889923512,
+        0.9512721466617325
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Schlesinger Associates, Inc. Executive Plaza, Suite 400, 10 Parsonage Road, Edison, NJ 08837"
+    },
+    {
+      "bbox": [
+        0.8137470901230462,
+        0.9352887122191778,
+        0.9313643165946125,
+        0.9492097680239835
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "SASMktRes@aol.com"
+    },
+    {
+      "bbox": [
+        0.10941137346192219,
+        0.24748543652988164,
+        0.3111385932823412,
+        0.2614064923346875
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "The Greenfield Consulting Group"
+    },
+    {
+      "bbox": [
+        0.1100951945460592,
+        0.2488462091249288,
+        0.30910515798923877,
+        0.299044902473607
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "The Greenfield Consulting Group\nRobert Boccardi\n274 Riverside Avenue\nWestport, CT 06880"
+    },
+    {
+      "bbox": [
+        0.846570502161623,
+        0.9022906540151935,
+        0.8575116395078151,
+        0.9126025472039385
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8459677419354839,
+        0.9028062486746307,
+        0.9087982208180911,
+        0.9141493311822503
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,200.00"
+    },
+    {
+      "bbox": [
+        0.8459677419354839,
+        0.9012594646963189,
+        0.9094820419022281,
+        0.9146649258416876
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,200.00"
+    },
+    {
+      "bbox": [
+        0.44585134685733285,
+        0.4001014557233087,
+        0.5176525606917193,
+        0.4145381061875517
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.47477203647416416,
+        0.16129032258064516,
+        0.4869300911854103
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Facility rental"
+    },
+    {
+      "bbox": [
+        0.8563877088249675,
+        0.4742232887057248,
+        0.906299877461186,
+        0.48742467911023024
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,000.00"
+    },
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.4869300911854103,
+        0.16129032258064516,
+        0.49969604863221884
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Recruiting"
+    },
+    {
+      "bbox": [
+        0.8555120567436303,
+        0.4869300911854103,
+        0.9064516129032258,
+        0.49996599999451047
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "200.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3292451558599936,
+        0.4286784918101808,
+        0.442204274352488,
+        0.4425399517349115
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7705738048539252,
+        0.42933856133040604,
+        0.8406259713608984,
+        0.44121981269446103
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 794,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jppv0069",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07741935483870968,
+          0.4267477203647416,
+          0.9241935483870968,
+          0.9258358662613981
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07741935483870968,
+            "right": 0.16129032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8282258064516129,
+            "right": 0.9064516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4492401215805471,
+            "row_type": "header",
+            "top": 0.4267477203647416
+          },
+          {
+            "bottom": 0.4613981762917933,
+            "row_type": "subsection-header",
+            "top": 0.4492401215805471
+          },
+          {
+            "bottom": 0.47477203647416416,
+            "row_type": "gap",
+            "top": 0.4613981762917933
+          },
+          {
+            "bottom": 0.4869300911854103,
+            "row_type": "data",
+            "top": 0.47477203647416416
+          },
+          {
+            "bottom": 0.49969604863221884,
+            "row_type": "data",
+            "top": 0.4869300911854103
+          },
+          {
+            "bottom": 0.6595744680851063,
+            "row_type": "gap",
+            "top": 0.49969604863221884
+          },
+          {
+            "bottom": 0.7574468085106383,
+            "row_type": "gap-with-text",
+            "top": 0.6595744680851063
+          },
+          {
+            "bottom": 0.8188449848024316,
+            "row_type": "gap",
+            "top": 0.7574468085106383
+          },
+          {
+            "bottom": 0.8808510638297873,
+            "row_type": "gap-with-text",
+            "top": 0.8188449848024316
+          },
+          {
+            "bottom": 0.9258358662613981,
+            "row_type": "footer",
+            "top": 0.8808510638297873
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

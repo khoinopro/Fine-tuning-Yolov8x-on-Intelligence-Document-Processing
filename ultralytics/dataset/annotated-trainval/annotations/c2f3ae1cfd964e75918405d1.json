@@ -1,0 +1,166 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4611143534238823,
+        0.10416137054434926,
+        0.5171172007640068,
+        0.1156739430781984
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "WKMIJS"
+    },
+    {
+      "bbox": [
+        0.6742160971986417,
+        0.09429345122962145,
+        0.776766765704584,
+        0.10580602376347058
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "AUG 27 1999"
+    },
+    {
+      "bbox": [
+        0.21164712436332767,
+        0.10470958828405637,
+        0.29456043081494054,
+        0.1156739430781984
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "441003001"
+    },
+    {
+      "bbox": [
+        0.17164509054895302,
+        0.13458547993409925,
+        0.33245432055477636,
+        0.1447294832826748
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.17164509054895302,
+        0.13337843527101317,
+        0.4443862301924165,
+        0.183652942801879
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\nRADTKE FALK\nATITN GERRY NIXON 804-274-2003\nR AND D B2\nRICHMOND VA 23234"
+    },
+    {
+      "bbox": [
+        0.6960353883701189,
+        0.40595523625310864,
+        0.7353101124787775,
+        0.41637137330754354
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.6967626980758347,
+        0.4054070185134015,
+        0.7345828027730616,
+        0.41637137330754354
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08790322580645162,
+        0.23161094224924011,
+        0.1717741935483871,
+        0.2413373860182371
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "06 SEP 99"
+    },
+    {
+      "bbox": [
+        0.09527757144878325,
+        0.24148991434097816,
+        0.2952877405206565,
+        0.2809615915998895
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "OMNI HOTELS\nOMNI RICHMOND HOTEL\n100 SOUTH 12TH STREET\nRICHMOND VA 23219"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 699,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jtfc0062",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08790322580645162,
+          0.23161094224924011,
+          0.7403225806451613,
+          0.4188449848024316
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.08790322580645162,
+            "right": 0.1717741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2413373860182371,
+            "row_type": "data",
+            "top": 0.23161094224924011
+          },
+          {
+            "bottom": 0.34772036474164136,
+            "row_type": "up-merge",
+            "top": 0.2413373860182371
+          },
+          {
+            "bottom": 0.3945288753799392,
+            "row_type": "gap",
+            "top": 0.34772036474164136
+          },
+          {
+            "bottom": 0.4188449848024316,
+            "row_type": "footer",
+            "top": 0.3945288753799392
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

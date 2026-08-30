@@ -1,0 +1,539 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8371459337983987,
+        0.3052964509541197,
+        0.8809182702061581,
+        0.31594070122510326
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "23183"
+    },
+    {
+      "bbox": [
+        0.8179955366200041,
+        0.31932750812950716,
+        0.8816022129625295,
+        0.3294879288427187
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "03/07/01"
+    },
+    {
+      "bbox": [
+        0.7995290821979806,
+        0.33239090618935063,
+        0.8822861557189007,
+        0.34400281557587814
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "2110-12507"
+    },
+    {
+      "bbox": [
+        0.8575019752042423,
+        0.34568902774452226,
+        0.8830760249009324,
+        0.3570437768310211
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "PA"
+    },
+    {
+      "bbox": [
+        0.1607265477472416,
+        0.2332058468460946,
+        0.35428234780030277,
+        0.24772073357925403
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Walt Klein & Associates, Inc."
+    },
+    {
+      "bbox": [
+        0.16141049050361284,
+        0.23465733551941054,
+        0.3925831421570922,
+        0.2752990183722569
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Walt Klein & Associates, Inc.\n725 Highland Oaks Drive, Suite 200\nWinston-Salem, NC 27103"
+    },
+    {
+      "bbox": [
+        0.15935866223449913,
+        0.30384496228080377,
+        0.3857437145933798,
+        0.3449704746914221
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Frank Lester / Ron Cole\nRJR - Grassroots Tactical Actions\nR.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.16141049050361284,
+        0.30481262139634774,
+        0.38437582908063733,
+        0.3710972708111091
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Frank Lester / Ron Cole\nRJR - Grassroots Tactical Actions\nR.J. Reynolds Tobacco Company\nP.O. Box 2959\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.8200473648891178,
+        0.6817158469007206,
+        0.8337262200165425,
+        0.69623073363388
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8426174758493687,
+        0.6817158469007206,
+        0.8966489536026967,
+        0.694295415402792
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "767.08"
+    },
+    {
+      "bbox": [
+        0.8433014186057399,
+        0.6821996764584924,
+        0.8980168391154392,
+        0.695746904076108
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "767.08"
+    },
+    {
+      "bbox": [
+        0.35359840504393153,
+        0.7102617908092673,
+        0.4876511852926947,
+        0.7242928479846549
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET DUE IN 6 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.5031374786081004,
+        0.4104838709677419,
+        0.5173987450085568
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Majestic proofs"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.5031374786081004,
+        0.8991935483870968,
+        0.5173987450085568
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 20.00"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.5173987450085568,
+        0.4104838709677419,
+        0.5310895607529948
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Copy 200 10-page booklets"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.5173987450085568,
+        0.8991935483870968,
+        0.5310895607529948
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$ 56.26"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.5310895607529948,
+        0.4104838709677419,
+        0.5447803764974329
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Purchase 200 binder covers & spines"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.5310895607529948,
+        0.8991935483870968,
+        0.5447803764974329
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$ 74.76"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.5447803764974329,
+        0.4104838709677419,
+        0.558471192241871
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Overnight shipping"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.5447803764974329,
+        0.8991935483870968,
+        0.558471192241871
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$ 61.06"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.5858528237307473,
+        0.4104838709677419,
+        0.5995436394751854
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Account management"
+    },
+    {
+      "bbox": [
+        0.6959677419354838,
+        0.5858528237307473,
+        0.7298387096774194,
+        0.5995436394751854
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "2.00"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.5858528237307473,
+        0.8991935483870968,
+        0.5995436394751854
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$ 200.00"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.5995436394751854,
+        0.4104838709677419,
+        0.6132344552196235
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Layout/design"
+    },
+    {
+      "bbox": [
+        0.6959677419354838,
+        0.5995436394751854,
+        0.7298387096774194,
+        0.6132344552196235
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "2.75"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.5995436394751854,
+        0.8991935483870968,
+        0.6132344552196235
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$ 165.00"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.6132344552196235,
+        0.4104838709677419,
+        0.6269252709640616
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Print services supervision"
+    },
+    {
+      "bbox": [
+        0.6959677419354838,
+        0.6132344552196235,
+        0.7298387096774194,
+        0.6269252709640616
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.6132344552196235,
+        0.8991935483870968,
+        0.6269252709640616
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$ 50.00"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.6269252709640616,
+        0.4104838709677419,
+        0.6406160867084997
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Booklet assembly"
+    },
+    {
+      "bbox": [
+        0.6959677419354838,
+        0.6269252709640616,
+        0.7298387096774194,
+        0.6406160867084997
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "4.00"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.6269252709640616,
+        0.8991935483870968,
+        0.6406160867084997
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "$ 140.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.47689946163295405,
+        0.25740392534470125,
+        0.49115801483171706
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6326882360100832,
+        0.47942273920773154,
+        0.7326054534297094,
+        0.49245967334408214
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hours Billed"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.47942273920773154,
+        0.8931866957112518,
+        0.49115801483171706
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 286,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qljf0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1656,
+        2341
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1596774193548387,
+          0.4757558471192242,
+          0.8991935483870968,
+          0.6976611523103251
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1596774193548387,
+            "right": 0.4104838709677419
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6959677419354838,
+            "right": 0.7298387096774194
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8290322580645161,
+            "right": 0.8991935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.49115801483171706,
+            "row_type": "header",
+            "top": 0.4757558471192242
+          },
+          {
+            "bottom": 0.5031374786081004,
+            "row_type": "gap",
+            "top": 0.49115801483171706
+          },
+          {
+            "bottom": 0.5173987450085568,
+            "row_type": "data",
+            "top": 0.5031374786081004
+          },
+          {
+            "bottom": 0.5310895607529948,
+            "row_type": "data",
+            "top": 0.5173987450085568
+          },
+          {
+            "bottom": 0.5447803764974329,
+            "row_type": "data",
+            "top": 0.5310895607529948
+          },
+          {
+            "bottom": 0.558471192241871,
+            "row_type": "data",
+            "top": 0.5447803764974329
+          },
+          {
+            "bottom": 0.5710211066742726,
+            "row_type": "gap-with-text",
+            "top": 0.558471192241871
+          },
+          {
+            "bottom": 0.5858528237307473,
+            "row_type": "gap",
+            "top": 0.5710211066742726
+          },
+          {
+            "bottom": 0.5995436394751854,
+            "row_type": "data",
+            "top": 0.5858528237307473
+          },
+          {
+            "bottom": 0.6132344552196235,
+            "row_type": "data",
+            "top": 0.5995436394751854
+          },
+          {
+            "bottom": 0.6269252709640616,
+            "row_type": "data",
+            "top": 0.6132344552196235
+          },
+          {
+            "bottom": 0.6406160867084997,
+            "row_type": "data",
+            "top": 0.6269252709640616
+          },
+          {
+            "bottom": 0.6543069024529378,
+            "row_type": "gap-with-text",
+            "top": 0.6406160867084997
+          },
+          {
+            "bottom": 0.6816885339418141,
+            "row_type": "gap",
+            "top": 0.6543069024529378
+          },
+          {
+            "bottom": 0.6976611523103251,
+            "row_type": "footer",
+            "top": 0.6816885339418141
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

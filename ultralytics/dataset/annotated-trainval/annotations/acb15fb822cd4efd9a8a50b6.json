@@ -1,0 +1,279 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.9141942053741541,
+        0.06924996181068283,
+        0.9613987254451087,
+        0.08248892509801924
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/25/2022"
+    },
+    {
+      "bbox": [
+        0.5507194008278037,
+        0.11100361525535923,
+        0.6050045989094014,
+        0.12424257854269564
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WGEM-EM"
+    },
+    {
+      "bbox": [
+        0.5522928848301688,
+        0.11100361525535923,
+        0.631753826949609,
+        0.18941901318804422
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WGEM-FM\nPO Box 80\nQuincy, IL 62306"
+    },
+    {
+      "bbox": [
+        0.06923329610406675,
+        0.10693008809002495,
+        0.16600256224952367,
+        0.12220581496002851
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Irvin For Illinois 2022"
+    },
+    {
+      "bbox": [
+        0.21399382432166086,
+        0.5377055858241254,
+        0.2218612443334866,
+        0.5519629309027955
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.21320708232047828,
+        0.5366872040327919,
+        0.26198508639379803,
+        0.552981312694129
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,300.00"
+    },
+    {
+      "bbox": [
+        0.21320708232047828,
+        0.5377055858241254,
+        0.26277182839498064,
+        0.5519629309027955
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,300.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22661290322580646,
+        0.38413361169102295,
+        0.2620967741935484,
+        0.40083507306889354
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$60.00"
+    },
+    {
+      "bbox": [
+        0.7580645161290323,
+        0.38413361169102295,
+        0.7725806451612903,
+        0.40083507306889354
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.22661290322580646,
+        0.40083507306889354,
+        0.2620967741935484,
+        0.42066805845511485
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$35.00"
+    },
+    {
+      "bbox": [
+        0.7580645161290323,
+        0.40083507306889354,
+        0.7725806451612903,
+        0.42066805845511485
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.22661290322580646,
+        0.42066805845511485,
+        0.2620967741935484,
+        0.4394572025052192
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$35.00"
+    },
+    {
+      "bbox": [
+        0.7580645161290323,
+        0.42066805845511485,
+        0.7725806451612903,
+        0.4394572025052192
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "10"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.22172100511758955,
+        0.31535071775765927,
+        0.2533954344201024,
+        0.3447478185655766
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "STN\nGross"
+    },
+    {
+      "bbox": [
+        0.7477919613593239,
+        0.31445989652105566,
+        0.778777816111782,
+        0.3447478185655766
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 326,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "6f6239ae-0d9a-4c9c-a8d4-6dd5663b53da",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016935483870967744,
+          0.3068893528183716,
+          0.9774193548387097,
+          0.5626304801670147
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.049193548387096775,
+            "right": 0.16693548387096774
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.22661290322580646,
+            "right": 0.2620967741935484
+          },
+          {
+            "column_type": "",
+            "left": 0.33225806451612905,
+            "right": 0.34758064516129034
+          },
+          {
+            "column_type": "",
+            "left": 0.38064516129032255,
+            "right": 0.3919354838709677
+          },
+          {
+            "column_type": "",
+            "left": 0.4080645161290323,
+            "right": 0.41774193548387095
+          },
+          {
+            "column_type": "",
+            "left": 0.4346774193548387,
+            "right": 0.4459677419354839
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7580645161290323,
+            "right": 0.7725806451612903
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3653444676409186,
+            "row_type": "header",
+            "top": 0.3068893528183716
+          },
+          {
+            "bottom": 0.38413361169102295,
+            "row_type": "subsection-header",
+            "top": 0.3653444676409186
+          },
+          {
+            "bottom": 0.40083507306889354,
+            "row_type": "data",
+            "top": 0.38413361169102295
+          },
+          {
+            "bottom": 0.42066805845511485,
+            "row_type": "data",
+            "top": 0.40083507306889354
+          },
+          {
+            "bottom": 0.4394572025052192,
+            "row_type": "data",
+            "top": 0.42066805845511485
+          },
+          {
+            "bottom": 0.5626304801670147,
+            "row_type": "footer",
+            "top": 0.4394572025052192
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

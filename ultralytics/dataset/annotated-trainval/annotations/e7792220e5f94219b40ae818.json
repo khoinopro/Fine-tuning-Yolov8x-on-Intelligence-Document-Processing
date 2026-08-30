@@ -1,0 +1,276 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2215889343852991,
+        0.1760299625468165,
+        0.262386897033856,
+        0.1873158551810237
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/22/99"
+    },
+    {
+      "bbox": [
+        0.19359033256766206,
+        0.20155805243445693,
+        0.2775861380205733,
+        0.21270411985018728
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Fisher Scientific"
+    },
+    {
+      "bbox": [
+        0.5407729951063618,
+        0.15232958801498128,
+        0.6239688405073405,
+        0.16223720349563045
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-7R5-631-55"
+    },
+    {
+      "bbox": [
+        0.16399181064616,
+        0.10650686641697878,
+        0.329583541396185,
+        0.11951061173533083
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.16399181064616,
+        0.2526441947565543,
+        0.44077798861480083,
+        0.2631710362047441
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "2000 Bells Rd., Gate S, Door 104, Richmond, VA 23234"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.19193548387096773,
+        0.41760299625468167,
+        0.20403225806451614,
+        0.4556803995006242
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.24596774193548387,
+        0.41760299625468167,
+        0.29596774193548386,
+        0.4556803995006242
+      ],
+      "fieldtype": "line_item_weight",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "100 KG"
+    },
+    {
+      "bbox": [
+        0.3088709677419355,
+        0.41760299625468167,
+        0.557258064516129,
+        0.4556803995006242
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Propyl Amine Silica Gel, 150 A pore size,\n14X40 mesh"
+    },
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.41760299625468167,
+        0.7564516129032258,
+        0.4556803995006242
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20,000"
+    },
+    {
+      "bbox": [
+        0.832258064516129,
+        0.41760299625468167,
+        0.8951612903225806,
+        0.4556803995006242
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20,000"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.16805662159653373,
+        0.38927552574784235,
+        0.23020256966891767,
+        0.40215347384686917
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.253835535837289,
+        0.3913088859740045,
+        0.2879720425249366,
+        0.4007979003627611
+      ],
+      "fieldtype": "line_item_weight",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "U of M"
+    },
+    {
+      "bbox": [
+        0.4210168891024346,
+        0.39063109923195044,
+        0.5006687380402788,
+        0.40215347384686917
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6923583525170688,
+        0.38588659203757214,
+        0.7606313658923638,
+        0.3974089666524908
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT PRICE"
+    },
+    {
+      "bbox": [
+        0.7938925775367383,
+        0.3899533124898964,
+        0.8691679512582174,
+        0.40215347384686917
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1054,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "hswl0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1706,
+        2205
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1685483870967741,
+          0.3863920099875156,
+          0.8951612903225806,
+          0.7521847690387016
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.19193548387096773,
+            "right": 0.20403225806451614
+          },
+          {
+            "column_type": "line_item_weight",
+            "left": 0.24596774193548387,
+            "right": 0.29596774193548386
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3088709677419355,
+            "right": 0.557258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7080645161290322,
+            "right": 0.7564516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.832258064516129,
+            "right": 0.8951612903225806
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4107365792759051,
+            "row_type": "header",
+            "top": 0.3863920099875156
+          },
+          {
+            "bottom": 0.41760299625468167,
+            "row_type": "gap",
+            "top": 0.4107365792759051
+          },
+          {
+            "bottom": 0.4556803995006242,
+            "row_type": "data",
+            "top": 0.41760299625468167
+          },
+          {
+            "bottom": 0.49001248439450684,
+            "row_type": "gap",
+            "top": 0.4556803995006242
+          },
+          {
+            "bottom": 0.6054931335830213,
+            "row_type": "gap-with-text",
+            "top": 0.49001248439450684
+          },
+          {
+            "bottom": 0.7153558052434457,
+            "row_type": "gap",
+            "top": 0.6054931335830213
+          },
+          {
+            "bottom": 0.7521847690387016,
+            "row_type": "footer",
+            "top": 0.7153558052434457
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

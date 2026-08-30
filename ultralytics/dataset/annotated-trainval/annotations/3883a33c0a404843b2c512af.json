@@ -1,0 +1,207 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8024166318732187,
+        0.5617376509952929,
+        0.8766201644671157,
+        0.5758021890772982
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/10/01"
+    },
+    {
+      "bbox": [
+        0.3222761268538857,
+        0.34598763681733113,
+        0.7282130992793218,
+        0.3617399194691771
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "RENSSELAER POLYTECHNIC INSTITUTE"
+    },
+    {
+      "bbox": [
+        0.31883769709243454,
+        0.3455048053016536,
+        0.7289789165340663,
+        0.39315097597801224
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "RENSSELAER POLYTECHNIC INSTITUTE\nP.O. BOX 2000\nTROY, NY 12181-2000"
+    },
+    {
+      "bbox": [
+        0.12876495361882115,
+        0.6036499744796688,
+        0.18841877393940493,
+        0.6188396756082346
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "J90123"
+    },
+    {
+      "bbox": [
+        0.08002341750322219,
+        0.451190381670731,
+        0.24589013741899177,
+        0.46806782736913743
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris, Inc."
+    },
+    {
+      "bbox": [
+        0.08002341750322219,
+        0.4497658376052148,
+        0.29826910160291903,
+        0.5282640503601203
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris, Inc.\nMohammad R. Hajaligol\nResearch Center\n4201 Commerece Road\nRichmond VA 23234"
+    },
+    {
+      "bbox": [
+        0.7420353259389693,
+        0.7735495945102931,
+        0.824968685896854,
+        0.7898644586854194
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "47,349.00"
+    },
+    {
+      "bbox": [
+        0.7413078403253036,
+        0.7729870129870131,
+        0.8242412002831884,
+        0.7893018771621392
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "47,349.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3064516129032258,
+        0.727386150966937,
+        0.6217741935483871,
+        0.7891453524641298
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Interaction of Small Molecules\nwith Heterogeneous Surfaces\nCatalytic Behavior and Reaction\nMechanism"
+    },
+    {
+      "bbox": [
+        0.739516129032258,
+        0.727386150966937,
+        0.825,
+        0.7891453524641298
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "47,349.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.44141631327329617,
+        0.6836878497629167,
+        0.5286175171931831,
+        0.6979672502981163
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.8029512317148711,
+        0.6856574222505305,
+        0.8653287352488048,
+        0.69993682278573
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 509,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gklv0162",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03306451612903226,
+          0.6650031191515907,
+          0.9395161290322581,
+          0.9600748596381784
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.3064516129032258,
+            "right": 0.6217741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.739516129032258,
+            "right": 0.825
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.7099189020586401,
+            "row_type": "header",
+            "top": 0.6650031191515907
+          },
+          {
+            "bottom": 0.727386150966937,
+            "row_type": "subsection-header",
+            "top": 0.7099189020586401
+          },
+          {
+            "bottom": 0.7891453524641298,
+            "row_type": "data",
+            "top": 0.727386150966937
+          },
+          {
+            "bottom": 0.9600748596381784,
+            "row_type": "gap-with-text",
+            "top": 0.7891453524641298
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

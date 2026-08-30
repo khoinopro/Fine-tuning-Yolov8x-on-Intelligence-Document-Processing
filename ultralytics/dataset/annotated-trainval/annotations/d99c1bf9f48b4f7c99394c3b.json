@@ -1,0 +1,308 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8070421142558813,
+        0.12116474496775455,
+        0.8425299403565948,
+        0.13293783759620034
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1070"
+    },
+    {
+      "bbox": [
+        0.7005786359537407,
+        0.12018365391538406,
+        0.7513629388220032,
+        0.13293783759620034
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/6/99"
+    },
+    {
+      "bbox": [
+        0.43870295369330314,
+        0.341910231751113,
+        0.498665142622095,
+        0.35466441543192934
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "10/20/99"
+    },
+    {
+      "bbox": [
+        0.1333852774130266,
+        0.052488371301820796,
+        0.4454334034710247,
+        0.06720473708737804
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "APE TRAVEL CORPORATE SERVICES, iNC."
+    },
+    {
+      "bbox": [
+        0.11354078239954726,
+        0.054825676455997535,
+        0.44458740096208266,
+        0.09851795263559969
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "APE TRAVEL CORPORATE SERVICES, INC.\n07 NORTH ASHLAND\nCHICAGO, IL 60622"
+    },
+    {
+      "bbox": [
+        0.12359553228179533,
+        0.19131275521224406,
+        0.341417361451692,
+        0.2040669388930603
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "CARDENAS/FERNANDEZ MIAMI"
+    },
+    {
+      "bbox": [
+        0.12175995506968944,
+        0.19024509730231146,
+        0.34199030843237127,
+        0.24527276309262055
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "CARDENAS/FERNANDEZ MIAMI\n1221 BRICKELL AVE.\nSUITE 1700\nMIAMI, FLA. 33131"
+    },
+    {
+      "bbox": [
+        0.7844033286399089,
+        0.838342304250577,
+        0.7948049328418422,
+        0.8525681245099491
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7837914695692069,
+        0.8393233953029475,
+        0.852319685487826,
+        0.8532643826761473
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$3,771.30"
+    },
+    {
+      "bbox": [
+        0.7838709677419354,
+        0.8388328497767623,
+        0.8529315445585282,
+        0.8532643826761473
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$3,771.30"
+    },
+    {
+      "bbox": [
+        0.30654139442168044,
+        0.3409291406987426,
+        0.3542664019364331,
+        0.35417386990574407
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 14"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08387096774193549,
+        0.3872010342598578,
+        0.23548387096774193,
+        0.5636716224951519
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "ORTIZ/LUIS\nALAGO/MICHAEL\nRIOS/RAMON\nGONZALEZ/ESTEBAN\nMORALES/HECTOR\nREYES/MIGUEL A\nNAVARRO/MANOLO\nFEIJO/ELLIOT\nGERENA/JOSE\nAYALA/LUIS\nROMAN/OSVALDO\nAYALA/LUIS C\nAYALA/BRAULIO J"
+    },
+    {
+      "bbox": [
+        0.6112903225806452,
+        0.3872010342598578,
+        0.632258064516129,
+        0.5636716224951519
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "13"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.3872010342598578,
+        0.7379032258064516,
+        0.5636716224951519
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "290.10"
+    },
+    {
+      "bbox": [
+        0.7967741935483871,
+        0.3872010342598578,
+        0.8685483870967742,
+        0.5636716224951519
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3,771.30"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.17749835418038185,
+        0.36929658576717406,
+        0.30407504937458857,
+        0.38095551507316217
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PASSENGER NAME"
+    },
+    {
+      "bbox": [
+        0.5581013824884793,
+        0.3656772124485076,
+        0.5886543778801844,
+        0.37955335667088397
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.6721658986175115,
+        0.3664934562262944,
+        0.7149400921658987,
+        0.37955335667088397
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.7821566820276498,
+        0.3648609686707207,
+        0.8422442396313364,
+        0.3811858442264577
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 45,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tzxg0012",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08387096774193549,
+          0.36199095022624433,
+          0.8685483870967742,
+          0.8636069812540401
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_person_name",
+            "left": 0.08387096774193549,
+            "right": 0.23548387096774193
+          },
+          {
+            "column_type": "",
+            "left": 0.4,
+            "right": 0.5
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6112903225806452,
+            "right": 0.632258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6879032258064516,
+            "right": 0.7379032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7967741935483871,
+            "right": 0.8685483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3872010342598578,
+            "row_type": "header",
+            "top": 0.36199095022624433
+          },
+          {
+            "bottom": 0.5636716224951519,
+            "row_type": "data",
+            "top": 0.3872010342598578
+          },
+          {
+            "bottom": 0.7407886231415644,
+            "row_type": "gap-with-text",
+            "top": 0.5636716224951519
+          },
+          {
+            "bottom": 0.8157724628312863,
+            "row_type": "gap",
+            "top": 0.7407886231415644
+          },
+          {
+            "bottom": 0.8636069812540401,
+            "row_type": "footer",
+            "top": 0.8157724628312863
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

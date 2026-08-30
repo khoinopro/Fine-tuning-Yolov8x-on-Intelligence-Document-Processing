@@ -1,0 +1,261 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.849826237127689,
+        0.1761628421464509,
+        0.8865893439652048,
+        0.1840951277215256
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "43165"
+    },
+    {
+      "bbox": [
+        0.6591710551563865,
+        0.1761628421464509,
+        0.7160256273585911,
+        0.18442563962048705
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10-31-20"
+    },
+    {
+      "bbox": [
+        0.07438116964799692,
+        0.06676340359021216,
+        0.38302027588853593,
+        0.09320435550712786
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY"
+    },
+    {
+      "bbox": [
+        0.07438116964799692,
+        0.06577186789332781,
+        0.41679103682067237,
+        0.12427247400950381
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY\nP.O. BOX 8439\nHOT SPRINGS VILLAGE AR 71910"
+    },
+    {
+      "bbox": [
+        0.12396861607999488,
+        0.175501818348528,
+        0.33984499925377903,
+        0.1840951277215256
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "CECILIA DYER FOR CIRCUIT JUDGE"
+    },
+    {
+      "bbox": [
+        0.12354113809351214,
+        0.17583233024748943,
+        0.3394175212672963,
+        0.215493758122863
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "CECILIA DYER FOR CIRCUIT JUDGE\n3001 E. GRAND SERVICE ROAD\nHOT SPRINGS, AR 71901"
+    },
+    {
+      "bbox": [
+        0.6724228727373516,
+        0.2055784011540196,
+        0.9284821866405133,
+        0.2148327343249401
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "CECILIA DYER FOR CIRCUIT JUDGE(3115)"
+    },
+    {
+      "bbox": [
+        0.836574419546724,
+        0.7605078795102879,
+        0.8493987591412063,
+        0.775380914963553
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8955663816813423,
+        0.761168903308211,
+        0.978497111058994,
+        0.7743142144638404
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1843.50"
+    },
+    {
+      "bbox": [
+        0.8968488156407904,
+        0.7608383914092494,
+        0.9793520670319594,
+        0.7743142144638404
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1843.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03959629149484904,
+        0.36783042394014964,
+        0.07508016246259099,
+        0.38154613466334164
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "131"
+    },
+    {
+      "bbox": [
+        0.20491887214001034,
+        0.36783042394014964,
+        0.26540274310775225,
+        0.38154613466334164
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "13.50"
+    },
+    {
+      "bbox": [
+        0.8387096774193549,
+        0.36783042394014964,
+        0.85,
+        0.38154613466334164
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.896774193548387,
+        0.36783042394014964,
+        0.9871769366561393,
+        0.38154613466334164
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1768.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.03959629149484904,
+        0.28553615960099754,
+        0.08720550924247915,
+        0.3050624827414149
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TAGS"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1093,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ad867d71-417a-4015-852d-c9f15b5ffbcb",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03959629149484904,
+          0.28553615960099754,
+          0.9871769366561393,
+          0.7250623441396509
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.03959629149484904,
+            "right": 0.07508016246259099
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.20491887214001034,
+            "right": 0.26540274310775225
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.8387096774193549,
+            "right": 0.85
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.896774193548387,
+            "right": 0.9871769366561393
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3584788029925187,
+            "row_type": "header",
+            "top": 0.28553615960099754
+          },
+          {
+            "bottom": 0.36783042394014964,
+            "row_type": "gap",
+            "top": 0.3584788029925187
+          },
+          {
+            "bottom": 0.38154613466334164,
+            "row_type": "data",
+            "top": 0.36783042394014964
+          },
+          {
+            "bottom": 0.38840399002493764,
+            "row_type": "gap",
+            "top": 0.38154613466334164
+          },
+          {
+            "bottom": 0.7144638403990025,
+            "row_type": "up-merge",
+            "top": 0.38840399002493764
+          },
+          {
+            "bottom": 0.7250623441396509,
+            "row_type": "gap",
+            "top": 0.7144638403990025
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

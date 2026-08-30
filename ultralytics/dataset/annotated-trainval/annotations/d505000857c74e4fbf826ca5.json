@@ -1,0 +1,240 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7100385828297598,
+        0.31517554292762434,
+        0.8607406493895455,
+        0.3288313290163429
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0000000790538"
+    },
+    {
+      "bbox": [
+        0.7111526357199055,
+        0.3590014998839002,
+        0.803402832415421,
+        0.37456514872279756
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/26/01"
+    },
+    {
+      "bbox": [
+        0.30359952793076317,
+        0.294152963055161,
+        0.6435483870967742,
+        0.31367781155015195
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHILIP MORRIS INCORPORATED"
+    },
+    {
+      "bbox": [
+        0.40686467348544453,
+        0.3128293416618379,
+        0.5383556254917388,
+        0.3206111660812866
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "RICHMOND, VIRGINIA 23261"
+    },
+    {
+      "bbox": [
+        0.07706464997992238,
+        0.35780565858361335,
+        0.40073617989559635,
+        0.37191864279688813
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "COUNCIL FOR TOB RESEARCH USA"
+    },
+    {
+      "bbox": [
+        0.7324940991345397,
+        0.581561678280133,
+        0.8626081825334382,
+        0.5960877505297707
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "329,121.00-"
+    },
+    {
+      "bbox": [
+        0.7331825334382376,
+        0.5825992548693929,
+        0.8619197482297404,
+        0.5971253271190305
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "329,121.00-"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07903225806451612,
+        0.40486322188449847,
+        0.17016129032258065,
+        0.4182370820668693
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/26/01"
+    },
+    {
+      "bbox": [
+        0.45725806451612905,
+        0.40486322188449847,
+        0.5733870967741935,
+        0.4182370820668693
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "329,121.00"
+    },
+    {
+      "bbox": [
+        0.7314516129032258,
+        0.40486322188449847,
+        0.85,
+        0.4182370820668693
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "329,121.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10940390408907524,
+        0.3817629179331307,
+        0.14490583323056322,
+        0.39209726443769
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.4781892496608587,
+        0.38031364257081185,
+        0.5187628829654164,
+        0.39209726443769
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS"
+    },
+    {
+      "bbox": [
+        0.7737971494512077,
+        0.37976741112726314,
+        0.804227374429626,
+        0.39209726443769
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 356,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hnvm0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07903225806451612,
+          0.3817629179331307,
+          0.8653225806451613,
+          0.6
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.07903225806451612,
+            "right": 0.17016129032258065
+          },
+          {
+            "column_type": "",
+            "left": 0.22096774193548388,
+            "right": 0.307258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.33064516129032256,
+            "right": 0.42258064516129035
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.45725806451612905,
+            "right": 0.5733870967741935
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7314516129032258,
+            "right": 0.85
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39209726443769,
+            "row_type": "header",
+            "top": 0.3817629179331307
+          },
+          {
+            "bottom": 0.40486322188449847,
+            "row_type": "gap",
+            "top": 0.39209726443769
+          },
+          {
+            "bottom": 0.4182370820668693,
+            "row_type": "data",
+            "top": 0.40486322188449847
+          },
+          {
+            "bottom": 0.5829787234042553,
+            "row_type": "gap",
+            "top": 0.4182370820668693
+          },
+          {
+            "bottom": 0.6,
+            "row_type": "footer",
+            "top": 0.5829787234042553
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

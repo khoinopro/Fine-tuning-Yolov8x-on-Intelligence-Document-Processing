@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2032258064516129,
+        0.10646897331646936,
+        0.2575028483942178,
+        0.1191569856806082
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "215296"
+    },
+    {
+      "bbox": [
+        0.40206164956570956,
+        0.048545438610618157,
+        0.5995238798257918,
+        0.06253778683397535
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.5783486434522538,
+        0.40325813209502126,
+        0.5886762977996155,
+        0.4159461444591601
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5774193548387097,
+        0.402706479383537,
+        0.6533962650430819,
+        0.417601102593613
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$10,005.00"
+    },
+    {
+      "bbox": [
+        0.5766129032258065,
+        0.40325813209502126,
+        0.654084775332906,
+        0.41704944988212866
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$10,005.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1346774193548387,
+        0.16548157724628312,
+        0.25806451612903225,
+        0.18034906270200388
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Media Training"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.16548157724628312,
+        0.657258064516129,
+        0.18034906270200388
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$2,786.00"
+    },
+    {
+      "bbox": [
+        0.1346774193548387,
+        0.24046541693600518,
+        0.25806451612903225,
+        0.2553329023917259
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "NAAG"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.24046541693600518,
+        0.657258064516129,
+        0.2553329023917259
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$3,667.00"
+    },
+    {
+      "bbox": [
+        0.1346774193548387,
+        0.3587588881706529,
+        0.25806451612903225,
+        0.37297996121525534
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "OUT-OF-POCKET"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.3587588881706529,
+        0.657258064516129,
+        0.37297996121525534
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$3,552.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1346774193548387,
+        0.1363930187459599,
+        0.2231561108240447,
+        0.14909923568344122
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "STAFF TIME"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 897,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jkbd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1346774193548387,
+          0.1363930187459599,
+          0.657258064516129,
+          0.42081447963800905
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1346774193548387,
+            "right": 0.25806451612903225
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5854838709677419,
+            "right": 0.657258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.15061409179056237,
+            "row_type": "header",
+            "top": 0.1363930187459599
+          },
+          {
+            "bottom": 0.16548157724628312,
+            "row_type": "gap",
+            "top": 0.15061409179056237
+          },
+          {
+            "bottom": 0.18034906270200388,
+            "row_type": "data",
+            "top": 0.16548157724628312
+          },
+          {
+            "bottom": 0.22495151906916613,
+            "row_type": "up-merge",
+            "top": 0.18034906270200388
+          },
+          {
+            "bottom": 0.24046541693600518,
+            "row_type": "gap",
+            "top": 0.22495151906916613
+          },
+          {
+            "bottom": 0.2553329023917259,
+            "row_type": "data",
+            "top": 0.24046541693600518
+          },
+          {
+            "bottom": 0.31351001939237233,
+            "row_type": "up-merge",
+            "top": 0.2553329023917259
+          },
+          {
+            "bottom": 0.3290239172592114,
+            "row_type": "gap",
+            "top": 0.31351001939237233
+          },
+          {
+            "bottom": 0.34324499030381384,
+            "row_type": "gap-with-text",
+            "top": 0.3290239172592114
+          },
+          {
+            "bottom": 0.3587588881706529,
+            "row_type": "gap",
+            "top": 0.34324499030381384
+          },
+          {
+            "bottom": 0.37297996121525534,
+            "row_type": "data",
+            "top": 0.3587588881706529
+          },
+          {
+            "bottom": 0.4040077569489334,
+            "row_type": "gap",
+            "top": 0.37297996121525534
+          },
+          {
+            "bottom": 0.42081447963800905,
+            "row_type": "footer",
+            "top": 0.4040077569489334
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

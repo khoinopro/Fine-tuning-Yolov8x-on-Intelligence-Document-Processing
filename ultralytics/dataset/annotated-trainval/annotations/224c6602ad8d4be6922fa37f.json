@@ -1,0 +1,285 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3896905218867646,
+        0.27303082544589236,
+        0.45487684850274357,
+        0.28637730434338704
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "030472"
+    },
+    {
+      "bbox": [
+        0.596508144484634,
+        0.2718093458564719,
+        0.7208560936000591,
+        0.2871399602803868
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "May 1, 2003"
+    },
+    {
+      "bbox": [
+        0.2350514258999533,
+        0.017541086550993085,
+        0.7337030338820404,
+        0.03775146888148511
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "DELAWARE FILM & TAPE VAULT CO."
+    },
+    {
+      "bbox": [
+        0.2332373903508772,
+        0.018092473230479186,
+        0.7380150855970572,
+        0.09266269634546347
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DELAWARE FILM & TAPE VAULT CO.\n(Div. of Ken-Del Productions Inc. - Federal ID 51-0094775)\nFirst State Production Center - 1500 First State Blvd.\nWilmington, DE 19804-3596"
+    },
+    {
+      "bbox": [
+        0.6076126940774096,
+        0.043852716377482705,
+        0.7032258064516129,
+        0.058177117000646414
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "51-0094775"
+    },
+    {
+      "bbox": [
+        0.08906461455180728,
+        0.27219067382497175,
+        0.12418708939248543,
+        0.28637730434338704
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "BOZ"
+    },
+    {
+      "bbox": [
+        0.13663566225252857,
+        0.16167558531293022,
+        0.2671202362017909,
+        0.17539894496181596
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "BOZELL, INC."
+    },
+    {
+      "bbox": [
+        0.1367961233729485,
+        0.1600909752515128,
+        0.4028645833333333,
+        0.2423294899355091
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "BOZELL, INC.\nEva Friedman\nBilling Dept.\n40 West 23rd Street\nNew York, NY 10010-5201"
+    },
+    {
+      "bbox": [
+        0.8469002908586042,
+        0.5708636469564694,
+        0.8587949578650451,
+        0.5847539360761163
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8479198337448705,
+        0.5705912883462803,
+        0.9145299689809404,
+        0.5844815774659271
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$60.48"
+    },
+    {
+      "bbox": [
+        0.8469002908586042,
+        0.5703189297360911,
+        0.9141901213521849,
+        0.5850262946863054
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$60.48"
+    },
+    {
+      "bbox": [
+        0.2759562745494328,
+        0.3023180573099623,
+        0.36601589616962943,
+        0.3145741947684743
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09274193548387097,
+        0.4369747899159664,
+        0.1282258064516129,
+        0.45184227537168714
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "336"
+    },
+    {
+      "bbox": [
+        0.16129032258064516,
+        0.4369747899159664,
+        0.33145161290322583,
+        0.45184227537168714
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "For April, 2003"
+    },
+    {
+      "bbox": [
+        0.8451612903225807,
+        0.4369747899159664,
+        0.9137096774193548,
+        0.45184227537168714
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$60.48"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04514272071307301,
+        0.3519808428475042,
+        0.12106456918505944,
+        0.36349423490326366
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CANS /UNITS"
+    },
+    {
+      "bbox": [
+        0.37186396415111134,
+        0.34878068510809784,
+        0.4545004006291361,
+        0.36454023453415635
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8451612903225807,
+        0.34970911441499675,
+        0.900802472410866,
+        0.3645765998707175
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 129,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fkhd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.02661290322580645,
+          0.34970911441499675,
+          0.9395161290322581,
+          0.6153846153846154
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.09274193548387097,
+            "right": 0.1282258064516129
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.16129032258064516,
+            "right": 0.33145161290322583
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8451612903225807,
+            "right": 0.9137096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3645765998707175,
+            "row_type": "header",
+            "top": 0.34970911441499675
+          },
+          {
+            "bottom": 0.4369747899159664,
+            "row_type": "gap-with-text",
+            "top": 0.3645765998707175
+          },
+          {
+            "bottom": 0.45184227537168714,
+            "row_type": "data",
+            "top": 0.4369747899159664
+          },
+          {
+            "bottom": 0.5675500969618616,
+            "row_type": "gap-with-text",
+            "top": 0.45184227537168714
+          },
+          {
+            "bottom": 0.6153846153846154,
+            "row_type": "footer",
+            "top": 0.5675500969618616
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

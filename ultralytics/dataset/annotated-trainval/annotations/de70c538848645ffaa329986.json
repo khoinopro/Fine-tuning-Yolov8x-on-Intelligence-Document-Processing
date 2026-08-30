@@ -1,0 +1,198 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6183753266702575,
+        0.14286284289276807,
+        0.7415704111556646,
+        0.1577057356608479
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 9, 1999"
+    },
+    {
+      "bbox": [
+        0.12159514832325892,
+        0.14286284289276807,
+        0.2967881580784807,
+        0.17378553615960102
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "92 Grandview Avenue\nGreat Neck, NY 11020"
+    },
+    {
+      "bbox": [
+        0.334386657888962,
+        0.7978054862842893,
+        0.4183833064017396,
+        0.8101745635910225
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "11-267-1554"
+    },
+    {
+      "bbox": [
+        0.4295828595367766,
+        0.2535660847880299,
+        0.6287749117242205,
+        0.2863441396508728
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Malaika Dowdell\nPhilip Morris Incorporated"
+    },
+    {
+      "bbox": [
+        0.4287828914557025,
+        0.2525312020189718,
+        0.6295535803455508,
+        0.31726683291770574
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Malaika Dowdel1\nPhilip Morris Incorporated\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7663694216689608,
+        0.706428927680798,
+        0.77996887904722,
+        0.7194164588528678
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7655694535878868,
+        0.7061197007481297,
+        0.8783649530193308,
+        0.721581047381546
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 3,662.42"
+    },
+    {
+      "bbox": [
+        0.7663694216689608,
+        0.705501246882793,
+        0.8783649530193308,
+        0.721581047381546
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 3,662.42"
+    },
+    {
+      "bbox": [
+        0.32558700899714726,
+        0.7705935162094762,
+        0.3919843597262952,
+        0.7829625935162096
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.23709677419354838,
+        0.4557356608478803,
+        0.4774193548387097,
+        0.5679551122194514
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Travel and lodging expenses\nassociated with Philip Morris\nYSP (Parents) advertising focus\nroup meetings."
+    },
+    {
+      "bbox": [
+        0.6153225806451613,
+        0.4557356608478803,
+        0.7233870967741935,
+        0.5679551122194514
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$3,662. 42"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 615,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yrnx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.23709677419354838,
+          0.4307980049875312,
+          0.8838709677419355,
+          0.7263092269326683
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.23709677419354838,
+            "right": 0.4774193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6153225806451613,
+            "right": 0.7233870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4470074812967581,
+            "row_type": "subsection-header",
+            "top": 0.4307980049875312
+          },
+          {
+            "bottom": 0.4557356608478803,
+            "row_type": "gap",
+            "top": 0.4470074812967581
+          },
+          {
+            "bottom": 0.5679551122194514,
+            "row_type": "data",
+            "top": 0.4557356608478803
+          },
+          {
+            "bottom": 0.7038653366583542,
+            "row_type": "gap",
+            "top": 0.5679551122194514
+          },
+          {
+            "bottom": 0.7263092269326683,
+            "row_type": "footer",
+            "top": 0.7038653366583542
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8166276511072615,
+        0.17659778858677289,
+        0.888441640526242,
+        0.19208033443547626
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "6/2/1999"
+    },
+    {
+      "bbox": [
+        0.11781739897870569,
+        0.9334219394146117,
+        0.5380451774600619,
+        0.9502504599569425
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1000 North Point Circle \u00b7 Alpharetta, Georgia 30022"
+    },
+    {
+      "bbox": [
+        0.2938373363803304,
+        0.8100127887708529,
+        0.5753106597027482,
+        0.8302070134216498
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "GGP/ NORTH POINT INC."
+    },
+    {
+      "bbox": [
+        0.296215984183055,
+        0.8108983388258394,
+        0.5745177771018399,
+        0.8750830682011985
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "GGP/ NORTH POINT INC.\nP O BOX 71432\nCHICAGO, IL 60694-1432"
+    },
+    {
+      "bbox": [
+        0.15662289120901415,
+        0.44754234093908196,
+        0.22706899511525194,
+        0.4620650313747861
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "000216"
+    },
+    {
+      "bbox": [
+        0.1224257533904521,
+        0.19449948222433616,
+        0.3064063548543159,
+        0.21035650677913426
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "SMOKING LOUNGE"
+    },
+    {
+      "bbox": [
+        0.1224257533904521,
+        0.19498331178210815,
+        0.41241748209185825,
+        0.28255646173883664
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "SMOKING LOUNGE\nLARRY SASSO\nP O BOX 2959\n4TH FLOOR, REYNOLDS BLDG\nWINSTON-SALEM, NC 27102"
+    },
+    {
+      "bbox": [
+        0.5539028294782262,
+        0.5486097696799821,
+        0.6458772111835798,
+        0.5676820929612904
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,263.08"
+    },
+    {
+      "bbox": [
+        0.5560454609298189,
+        0.5496303776289698,
+        0.6475806451612903,
+        0.5676820929612904
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,263.08"
+    },
+    {
+      "bbox": [
+        0.5485220906097351,
+        0.6894571198250722,
+        0.7995290821979806,
+        0.7044558361160036
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "PAYMENT DUE UPON THE"
+    },
+    {
+      "bbox": [
+        0.12037392512133839,
+        0.7078426430204076,
+        0.2058667696677435,
+        0.7218737001957949
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.31129032258064515,
+        0.5019965772960638,
+        0.4790322580645161,
+        0.5236737022247575
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1998 LIABILITY"
+    },
+    {
+      "bbox": [
+        0.5483870967741935,
+        0.5019965772960638,
+        0.6524193548387097,
+        0.5236737022247575
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "11,214.95"
+    },
+    {
+      "bbox": [
+        0.31129032258064515,
+        0.5236737022247575,
+        0.4790322580645161,
+        0.5453508271534512
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "YTD PAID"
+    },
+    {
+      "bbox": [
+        0.5483870967741935,
+        0.5236737022247575,
+        0.6524193548387097,
+        0.5453508271534512
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "13,478.03"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 753,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rhmj0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1654,
+        2340
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.3040322580645161,
+          0.5019965772960638,
+          0.6967741935483871,
+          0.5727324586423275
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.31129032258064515,
+            "right": 0.4790322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5483870967741935,
+            "right": 0.6524193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5236737022247575,
+            "row_type": "data",
+            "top": 0.5019965772960638
+          },
+          {
+            "bottom": 0.5453508271534512,
+            "row_type": "data",
+            "top": 0.5236737022247575
+          },
+          {
+            "bottom": 0.5727324586423275,
+            "row_type": "footer",
+            "top": 0.5453508271534512
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

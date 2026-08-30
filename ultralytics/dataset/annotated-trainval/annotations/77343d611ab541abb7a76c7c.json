@@ -1,0 +1,188 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.33886307854137443,
+        0.3193303711673034,
+        0.3957408056724326,
+        0.3332113847927934
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "34166"
+    },
+    {
+      "bbox": [
+        0.5271203443976936,
+        0.3199338934988464,
+        0.5735838398005298,
+        0.3332113847927934
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "4851"
+    },
+    {
+      "bbox": [
+        0.31563133083995637,
+        0.36157693437531657,
+        0.37491234221598874,
+        0.3754579480008066
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "06196"
+    },
+    {
+      "bbox": [
+        0.5399378603708899,
+        0.36278397903840265,
+        0.6985546205391928,
+        0.3766649926638927
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "LRL-YSPP-P6307"
+    },
+    {
+      "bbox": [
+        0.6128374824684432,
+        0.17743556547365552,
+        0.7938848955898394,
+        0.18950601210451642
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "GERALD & CULLEN RAPP, INC."
+    },
+    {
+      "bbox": [
+        0.8067024115630356,
+        0.06200607902735562,
+        0.906839255103631,
+        0.09475300605225821
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "108 East 35 St.\nNew York 10016"
+    },
+    {
+      "bbox": [
+        0.15701457067165342,
+        0.21653040606639948,
+        0.22670981377590774,
+        0.23222198668651867
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Bozell"
+    },
+    {
+      "bbox": [
+        0.1530090969300296,
+        0.21561571714927427,
+        0.374111247467664,
+        0.2611910586005849
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Bozell\n40 West 23rd St.\nNew York, NY 10010"
+    },
+    {
+      "bbox": [
+        0.09853465404394576,
+        0.3625828102998166,
+        0.20748353981611342,
+        0.37706734625684973
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Lorillard"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09758064516129032,
+        0.40303951367781155,
+        0.7080645161290322,
+        0.4340425531914894
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "F/C illustration for Lorillard Tobacco Company's Youth\nSmoking Prevention ad."
+    },
+    {
+      "bbox": [
+        0.8193548387096774,
+        0.40303951367781155,
+        0.910483870967742,
+        0.4340425531914894
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$5000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 445,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kfgp0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04032258064516129,
+          0.38054711246200607,
+          0.9443548387096774,
+          0.6291793313069909
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.09758064516129032,
+            "right": 0.7080645161290322
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8193548387096774,
+            "right": 0.910483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40303951367781155,
+            "row_type": "gap",
+            "top": 0.38054711246200607
+          },
+          {
+            "bottom": 0.4340425531914894,
+            "row_type": "data",
+            "top": 0.40303951367781155
+          },
+          {
+            "bottom": 0.6291793313069909,
+            "row_type": "gap-with-text",
+            "top": 0.4340425531914894
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

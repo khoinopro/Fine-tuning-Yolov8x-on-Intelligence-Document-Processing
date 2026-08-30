@@ -1,0 +1,232 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6386888925839707,
+        0.3691657761570734,
+        0.7337400232790157,
+        0.3815400479835675
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4841661031"
+    },
+    {
+      "bbox": [
+        0.100521699368141,
+        0.3686501814976362,
+        0.16821998669770535,
+        0.38102445332413026
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/20/99"
+    },
+    {
+      "bbox": [
+        0.7884457100099768,
+        0.36968137081651065,
+        0.854776355171267,
+        0.382571237302442
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "6/04/99"
+    },
+    {
+      "bbox": [
+        0.4514511970874414,
+        0.3966611542761061,
+        0.6068750519769731,
+        0.40525309263587733
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O.BOX 662,SEATTLE,WA 98111"
+    },
+    {
+      "bbox": [
+        0.22002545716635405,
+        0.3694533494701638,
+        0.29564733277275207,
+        0.3809092672831921
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "34637788"
+    },
+    {
+      "bbox": [
+        0.11894295007438482,
+        0.39436997071350044,
+        0.39735439865304406,
+        0.405663874267922
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DUKE UNIV N66"
+    },
+    {
+      "bbox": [
+        0.1195997397925994,
+        0.39320928163688934,
+        0.40994384494700187,
+        0.44836533471717693
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DUKE UNIV N66\nBRYAN CTR\n725 BR0AD ST\nDURHAM NC 27705"
+    },
+    {
+      "bbox": [
+        0.8212003677659604,
+        0.7013885681026598,
+        0.8288005562691159,
+        0.7102669044077567
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8158802358137515,
+        0.4167090104489056,
+        0.869841574186156,
+        0.42759213237128263
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$38.00"
+    },
+    {
+      "bbox": [
+        0.8200603394904871,
+        0.701102170157334,
+        0.8652814610842626,
+        0.7102669044077567
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$38.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.5945288753799393,
+        0.15483870967741936,
+        0.6054711246200608
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4841661031"
+    },
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.5945288753799393,
+        0.7491935483870967,
+        0.6054711246200608
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "58.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.4844984802431611,
+        0.7491935483870967,
+        0.5945288753799393
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "HARCE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 400,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zypl0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07258064516129033,
+          0.4844984802431611,
+          0.8862903225806451,
+          0.7179331306990882
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.07741935483870968,
+            "right": 0.15483870967741936
+          },
+          {
+            "column_type": "",
+            "left": 0.2161290322580645,
+            "right": 0.317741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.603225806451613,
+            "right": 0.6241935483870967
+          },
+          {
+            "column_type": "",
+            "left": 0.6427419354838709,
+            "right": 0.6685483870967742
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7080645161290322,
+            "right": 0.7491935483870967
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5945288753799393,
+            "row_type": "header",
+            "top": 0.4844984802431611
+          },
+          {
+            "bottom": 0.6054711246200608,
+            "row_type": "data",
+            "top": 0.5945288753799393
+          },
+          {
+            "bottom": 0.6948328267477204,
+            "row_type": "up-merge",
+            "top": 0.6054711246200608
+          },
+          {
+            "bottom": 0.7179331306990882,
+            "row_type": "footer",
+            "top": 0.6948328267477204
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

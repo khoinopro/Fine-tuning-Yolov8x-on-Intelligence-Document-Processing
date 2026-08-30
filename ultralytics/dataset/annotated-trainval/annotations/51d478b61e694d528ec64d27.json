@@ -1,0 +1,233 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.19523540055987926,
+        0.18326968188948378,
+        0.2565200638309602,
+        0.1952017078320176
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "803500"
+    },
+    {
+      "bbox": [
+        0.696018649003569,
+        0.1860772174053741,
+        0.8308449081999472,
+        0.20011489498482563
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "April 21, 2000"
+    },
+    {
+      "bbox": [
+        0.37033443847725334,
+        0.8314984495693779,
+        0.5182931255174344,
+        0.8441323593908843
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ARNOLD & PORTER"
+    },
+    {
+      "bbox": [
+        0.3125517559645199,
+        0.8289232080792184,
+        0.5708228368926467,
+        0.8736114823077327
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "ARNOLD & PORTER\n555 Twelfth Street, N.W.\nWashington, D.C. 20004-1202"
+    },
+    {
+      "bbox": [
+        0.08142102591358609,
+        0.10949388244224763,
+        0.3540322580645161,
+        0.12411118293471235
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Companies Inc."
+    },
+    {
+      "bbox": [
+        0.6478664135762913,
+        0.5168205033567402,
+        0.6574968606617467,
+        0.5294544131782466
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.696894144193156,
+        0.5175223872357128,
+        0.7835681679622561,
+        0.528752529299274
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "30,458.96"
+    },
+    {
+      "bbox": [
+        0.696894144193156,
+        0.5175223872357128,
+        0.7835681679622561,
+        0.528752529299274
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "30,458.96"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11774193548387096,
+        0.30058177117000645,
+        0.5943548387096774,
+        0.3141564318034906
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For Legal Services Rendered through March 31, 2000"
+    },
+    {
+      "bbox": [
+        0.6459677419354839,
+        0.30058177117000645,
+        0.660483870967742,
+        0.3141564318034906
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6959677419354838,
+        0.30058177117000645,
+        0.7887096774193548,
+        0.3141564318034906
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "29,876.55"
+    },
+    {
+      "bbox": [
+        0.11774193548387096,
+        0.3270846800258565,
+        0.5943548387096774,
+        0.34195216548157725
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Disburgements Recorded through March 31, 2000 :"
+    },
+    {
+      "bbox": [
+        0.723158999880762,
+        0.48765333835045577,
+        0.7809416823934956,
+        0.5009891320509348
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "582.41"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 851,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mhbw0021",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11774193548387096,
+          0.30058177117000645,
+          0.7887096774193548,
+          0.5307045895281189
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11774193548387096,
+            "right": 0.5943548387096774
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.6459677419354839,
+            "right": 0.660483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6959677419354838,
+            "right": 0.7887096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3141564318034906,
+            "row_type": "data",
+            "top": 0.30058177117000645
+          },
+          {
+            "bottom": 0.3270846800258565,
+            "row_type": "gap",
+            "top": 0.3141564318034906
+          },
+          {
+            "bottom": 0.34195216548157725,
+            "row_type": "data",
+            "top": 0.3270846800258565
+          },
+          {
+            "bottom": 0.5009696186166774,
+            "row_type": "up-merge",
+            "top": 0.34195216548157725
+          },
+          {
+            "bottom": 0.5145442792501616,
+            "row_type": "gap",
+            "top": 0.5009696186166774
+          },
+          {
+            "bottom": 0.5307045895281189,
+            "row_type": "footer",
+            "top": 0.5145442792501616
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

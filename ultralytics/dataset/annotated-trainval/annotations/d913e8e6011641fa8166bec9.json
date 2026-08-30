@@ -1,0 +1,378 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7924969934917937,
+        0.2005028045102077,
+        0.8385602362761745,
+        0.21491665170751031
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "03950"
+    },
+    {
+      "bbox": [
+        0.7441709111488398,
+        0.2269783005278298,
+        0.8583956741652518,
+        0.24342600346462903
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 31, 1999"
+    },
+    {
+      "bbox": [
+        0.3731421547821166,
+        0.13018268445966202,
+        0.5772796406338427,
+        0.14912583996031328
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "E.Morris Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.21613787492925865,
+        0.8996893506429195,
+        0.4815223542727787,
+        0.9144922832860389
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "820 North Orleans Suite 402 Chicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.05094970288624787,
+        0.22141791579306658,
+        0.2640165181097906,
+        0.23465389523166943
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA(MEDIA)"
+    },
+    {
+      "bbox": [
+        0.049246604414261465,
+        0.21919235921793467,
+        0.2651652242328875,
+        0.27248361198630777
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA(MEDIA)\n120 PARK AVENUE\nNEW YORK, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.57112381508206,
+        0.8572984913211837,
+        0.5846057937181666,
+        0.8700834853566808
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5718966645444256,
+        0.8565539232635071,
+        0.6449937217034523,
+        0.8717282556503607
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$3,457.36"
+    },
+    {
+      "bbox": [
+        0.5725806451612904,
+        0.8560056664989475,
+        0.6448006818777865,
+        0.8722765124149209
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$3,457.36"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04838709677419355,
+        0.4059469941822883,
+        0.2701612903225806,
+        0.42210730446024564
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "AIRFARE/RAIL"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.4059469941822883,
+        0.7879032258064517,
+        0.42210730446024564
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5,060.54"
+    },
+    {
+      "bbox": [
+        0.08186795174403357,
+        0.3471937269891234,
+        0.1586644374508261,
+        0.35881041379762607
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0044-9901"
+    },
+    {
+      "bbox": [
+        0.04838709677419355,
+        0.42210730446024564,
+        0.2701612903225806,
+        0.4363283775048481
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "GROUND TRANSPORTATION"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.42210730446024564,
+        0.7879032258064517,
+        0.4363283775048481
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "918.60"
+    },
+    {
+      "bbox": [
+        0.04838709677419355,
+        0.4363283775048481,
+        0.2701612903225806,
+        0.44990303813833227
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "LODGING"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.4363283775048481,
+        0.7879032258064517,
+        0.44990303813833227
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1,397.93"
+    },
+    {
+      "bbox": [
+        0.04838709677419355,
+        0.44990303813833227,
+        0.2701612903225806,
+        0.4667097608274079
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "MEALS"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.44990303813833227,
+        0.7879032258064517,
+        0.4667097608274079
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "230.93"
+    },
+    {
+      "bbox": [
+        0.04838709677419355,
+        0.4667097608274079,
+        0.2701612903225806,
+        0.48028442146089206
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "TELEPHONE"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.4667097608274079,
+        0.7879032258064517,
+        0.48028442146089206
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "80.26"
+    },
+    {
+      "bbox": [
+        0.04838709677419355,
+        0.48028442146089206,
+        0.2701612903225806,
+        0.4951519069166128
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "MISCELLANEOUS"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.48028442146089206,
+        0.7879032258064517,
+        0.4951519069166128
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "6.32"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7129032258064516,
+        0.3160956690368455,
+        0.7795567794387621,
+        0.345830639948287
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BILLING\nTO DATE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 81,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sgfl0024",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04838709677419355,
+          0.3160956690368455,
+          0.7879032258064517,
+          0.5300581771170007
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04838709677419355,
+            "right": 0.2701612903225806
+          },
+          {
+            "column_type": "",
+            "left": 0.5983870967741935,
+            "right": 0.6629032258064517
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7161290322580646,
+            "right": 0.7879032258064517
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.345830639948287,
+            "row_type": "header",
+            "top": 0.3160956690368455
+          },
+          {
+            "bottom": 0.3742727860374919,
+            "row_type": "subsection-header",
+            "top": 0.345830639948287
+          },
+          {
+            "bottom": 0.4059469941822883,
+            "row_type": "gap",
+            "top": 0.3742727860374919
+          },
+          {
+            "bottom": 0.42210730446024564,
+            "row_type": "data",
+            "top": 0.4059469941822883
+          },
+          {
+            "bottom": 0.4363283775048481,
+            "row_type": "data",
+            "top": 0.42210730446024564
+          },
+          {
+            "bottom": 0.44990303813833227,
+            "row_type": "data",
+            "top": 0.4363283775048481
+          },
+          {
+            "bottom": 0.4667097608274079,
+            "row_type": "data",
+            "top": 0.44990303813833227
+          },
+          {
+            "bottom": 0.48028442146089206,
+            "row_type": "data",
+            "top": 0.4667097608274079
+          },
+          {
+            "bottom": 0.4951519069166128,
+            "row_type": "data",
+            "top": 0.48028442146089206
+          },
+          {
+            "bottom": 0.5087265675500969,
+            "row_type": "gap",
+            "top": 0.4951519069166128
+          },
+          {
+            "bottom": 0.5300581771170007,
+            "row_type": "footer",
+            "top": 0.5087265675500969
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

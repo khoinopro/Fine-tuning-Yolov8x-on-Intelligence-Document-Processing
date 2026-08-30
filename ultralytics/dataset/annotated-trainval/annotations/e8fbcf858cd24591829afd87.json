@@ -1,0 +1,266 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7442934782608696,
+        0.21161424920461067,
+        0.7894021739130435,
+        0.22506649976529497
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "6783"
+    },
+    {
+      "bbox": [
+        0.6482556100981767,
+        0.22868825953163305,
+        0.7806714586255259,
+        0.24317529859698536
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 20, 2002"
+    },
+    {
+      "bbox": [
+        0.42707748948106594,
+        0.0589829447660773,
+        0.8519723001402524,
+        0.08692223439211391
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Target Research Group Inc."
+    },
+    {
+      "bbox": [
+        0.4261396279726867,
+        0.05887925357870804,
+        0.8543312926771839,
+        0.10658321598080635
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Target Research Group Inc.\n515 Airport Executive Park, Nanuel, NY 10954"
+    },
+    {
+      "bbox": [
+        0.20589936886395513,
+        0.2447274813539874,
+        0.48892005610098177,
+        0.27784071350336415
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Carol Mitchell\nR.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.205171809256662,
+        0.24378930613993988,
+        0.4883847421709442,
+        0.30991915714807283
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Carol Mitchell\nR.J. Reynolds Tobacco Company\nP.O. Box 2959\nWinston-Salem, NC 27102-2959"
+    },
+    {
+      "bbox": [
+        0.7559344319775596,
+        0.46513743284827624,
+        0.769758064516129,
+        0.4806592604182966
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7564516129032258,
+        0.46513743284827624,
+        0.8279628330995792,
+        0.4811766546706306
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$34,000"
+    },
+    {
+      "bbox": [
+        0.7544793127629734,
+        0.46462003859594225,
+        0.8279628330995792,
+        0.4816940489229646
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$34,000"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.6683878370625359,
+        0.41774193548387095,
+        0.685025817555938
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Sample/Data Processing"
+    },
+    {
+      "bbox": [
+        0.5983870967741935,
+        0.6683878370625359,
+        0.6620967741935484,
+        0.685025817555938
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$2,000"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.6919104991394148,
+        0.41774193548387095,
+        0.7108433734939759
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Fieldwork/Programming"
+    },
+    {
+      "bbox": [
+        0.5983870967741935,
+        0.6919104991394148,
+        0.6620967741935484,
+        0.7108433734939759
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "30,000"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.7188755020080321,
+        0.41774193548387095,
+        0.7349397590361446
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Administration/Analysis"
+    },
+    {
+      "bbox": [
+        0.5983870967741935,
+        0.7188755020080321,
+        0.6620967741935484,
+        0.7349397590361446
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2,000"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 242,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yxvj0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1674,
+        2354
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.20725806451612902,
+          0.6442914515203672,
+          0.6620967741935484,
+          0.7624784853700516
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.20725806451612902,
+            "right": 0.41774193548387095
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5983870967741935,
+            "right": 0.6620967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6586345381526104,
+            "row_type": "subsection-header",
+            "top": 0.6442914515203672
+          },
+          {
+            "bottom": 0.6683878370625359,
+            "row_type": "gap",
+            "top": 0.6586345381526104
+          },
+          {
+            "bottom": 0.685025817555938,
+            "row_type": "data",
+            "top": 0.6683878370625359
+          },
+          {
+            "bottom": 0.6919104991394148,
+            "row_type": "gap",
+            "top": 0.685025817555938
+          },
+          {
+            "bottom": 0.7108433734939759,
+            "row_type": "data",
+            "top": 0.6919104991394148
+          },
+          {
+            "bottom": 0.7188755020080321,
+            "row_type": "gap",
+            "top": 0.7108433734939759
+          },
+          {
+            "bottom": 0.7349397590361446,
+            "row_type": "data",
+            "top": 0.7188755020080321
+          },
+          {
+            "bottom": 0.7452667814113597,
+            "row_type": "gap",
+            "top": 0.7349397590361446
+          },
+          {
+            "bottom": 0.7624784853700516,
+            "row_type": "footer",
+            "top": 0.7452667814113597
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.783101412608054,
+        0.18100558659217877,
+        0.8499323564551268,
+        0.2092928191851751
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "11713"
+    },
+    {
+      "bbox": [
+        0.777597687820648,
+        0.4534677749012127,
+        0.8310624428983064,
+        0.46981877640005454
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/19/00"
+    },
+    {
+      "bbox": [
+        0.22014899149624007,
+        0.2561656901485216,
+        0.4387254901960784,
+        0.2714266248807739
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "876 N. LIBERTY STREET \u2022 WINSTON-SALEM, NC 27101"
+    },
+    {
+      "bbox": [
+        0.20127907793941952,
+        0.3401008311759095,
+        0.3939094454986296,
+        0.36081209974110917
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "SPORTS MARKETING ENTERPRISE"
+    },
+    {
+      "bbox": [
+        0.19892033874481693,
+        0.34333570944806757,
+        0.3941727731431722,
+        0.42512603896988693
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "SPORTS MARKETING ENTERPRISE\nP.O. BOX 2959\nW/S, NC 27102-2959"
+    },
+    {
+      "bbox": [
+        0.7903225806451613,
+        0.5631284916201117,
+        0.85,
+        0.5864559204251261
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "280 80"
+    },
+    {
+      "bbox": [
+        0.7903225806451613,
+        0.5631284916201117,
+        0.8516129032258064,
+        0.5853658536585366
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "280 80"
+    },
+    {
+      "bbox": [
+        0.40818780602760685,
+        0.4585897477421513,
+        0.4581163606784055,
+        0.47800095419168115
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET# 10"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.225,
+        0.48156424581005586,
+        0.24193548387096775,
+        0.5162011173184358
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "18"
+    },
+    {
+      "bbox": [
+        0.36451612903225805,
+        0.48156424581005586,
+        0.5137096774193548,
+        0.5162011173184358
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "3# COLOR LOGOS \"NWCS\""
+    },
+    {
+      "bbox": [
+        0.6790322580645162,
+        0.48156424581005586,
+        0.6943548387096774,
+        0.5162011173184358
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ea"
+    },
+    {
+      "bbox": [
+        0.7193548387096774,
+        0.48156424581005586,
+        0.7653225806451613,
+        0.5162011173184358
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "15  60"
+    },
+    {
+      "bbox": [
+        0.7911290322580645,
+        0.48156424581005586,
+        0.8516129032258064,
+        0.5162011173184358
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "280  80"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 394,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xxlv0189",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2398,
+        1733
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.21129032258064517,
+          0.48156424581005586,
+          0.8516129032258064,
+          0.829050279329609
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.225,
+            "right": 0.24193548387096775
+          },
+          {
+            "column_type": "",
+            "left": 0.2862903225806452,
+            "right": 0.3524193548387097
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.36451612903225805,
+            "right": 0.5137096774193548
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.6790322580645162,
+            "right": 0.6943548387096774
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7193548387096774,
+            "right": 0.7653225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7911290322580645,
+            "right": 0.8516129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5162011173184358,
+            "row_type": "data",
+            "top": 0.48156424581005586
+          },
+          {
+            "bottom": 0.5318435754189944,
+            "row_type": "gap",
+            "top": 0.5162011173184358
+          },
+          {
+            "bottom": 0.5553072625698324,
+            "row_type": "gap-with-text",
+            "top": 0.5318435754189944
+          },
+          {
+            "bottom": 0.829050279329609,
+            "row_type": "footer",
+            "top": 0.5553072625698324
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

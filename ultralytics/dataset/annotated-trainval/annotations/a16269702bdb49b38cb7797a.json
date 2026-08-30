@@ -1,0 +1,615 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5281756539881238,
+        0.07386338563250439,
+        0.6273009950248756,
+        0.08904365128715334
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/15/2018"
+    },
+    {
+      "bbox": [
+        0.16281094527363182,
+        0.32483521950006217,
+        0.2004353233830846,
+        0.3362765825146126
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "4744"
+    },
+    {
+      "bbox": [
+        0.1060323383084577,
+        0.08954110185300337,
+        0.40771144278606963,
+        0.1039671682626539
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Post Office Drawer P Durango, CO 81302"
+    },
+    {
+      "bbox": [
+        0.1324526560744664,
+        0.1522776416029141,
+        0.3358830845771144,
+        0.1681382912573063
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Screen Stratagies Media"
+    },
+    {
+      "bbox": [
+        0.13271144278606964,
+        0.1522198731501057,
+        0.3372512437810945,
+        0.20892923765700785
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Screen Stratagies Media\n11150 Fairfax Blvd, Suite 505\nFairfax, VA 22030"
+    },
+    {
+      "bbox": [
+        0.7969527363184079,
+        0.8372093023255814,
+        0.8099502487562189,
+        0.849645566471832
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7985094687851068,
+        0.8372093023255814,
+        0.8612562189054725,
+        0.8501430170376819
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$712.86"
+    },
+    {
+      "bbox": [
+        0.7991935483870968,
+        0.8379971998347181,
+        0.8605721393034826,
+        0.850640467603532
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$712.86"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07338709677419354,
+        0.4868035190615836,
+        0.12580645161290321,
+        0.506158357771261
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "KRSJ"
+    },
+    {
+      "bbox": [
+        0.17016129032258065,
+        0.4868035190615836,
+        0.29435483870967744,
+        0.506158357771261
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/17/18-10/23/18"
+    },
+    {
+      "bbox": [
+        0.6717741935483871,
+        0.4868035190615836,
+        0.7306451612903225,
+        0.506158357771261
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$19.41"
+    },
+    {
+      "bbox": [
+        0.7362903225806452,
+        0.4868035190615836,
+        0.7645161290322581,
+        0.506158357771261
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.8016129032258065,
+        0.4868035190615836,
+        0.8330645161290322,
+        0.506158357771261
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.4868035190615836,
+        0.9330645161290323,
+        0.506158357771261
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$194.10"
+    },
+    {
+      "bbox": [
+        0.07338709677419354,
+        0.506158357771261,
+        0.12580645161290321,
+        0.5272727272727272
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "KRSJ"
+    },
+    {
+      "bbox": [
+        0.6717741935483871,
+        0.506158357771261,
+        0.7306451612903225,
+        0.5272727272727272
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$19.41"
+    },
+    {
+      "bbox": [
+        0.7362903225806452,
+        0.506158357771261,
+        0.7645161290322581,
+        0.5272727272727272
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.8016129032258065,
+        0.506158357771261,
+        0.8330645161290322,
+        0.5272727272727272
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.506158357771261,
+        0.9330645161290323,
+        0.5272727272727272
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$194.10"
+    },
+    {
+      "bbox": [
+        0.07338709677419354,
+        0.5272727272727272,
+        0.12580645161290321,
+        0.547800586510264
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "KRSJ"
+    },
+    {
+      "bbox": [
+        0.6717741935483871,
+        0.5272727272727272,
+        0.7306451612903225,
+        0.547800586510264
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$19.41"
+    },
+    {
+      "bbox": [
+        0.7362903225806452,
+        0.5272727272727272,
+        0.7645161290322581,
+        0.547800586510264
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.8016129032258065,
+        0.5272727272727272,
+        0.8330645161290322,
+        0.547800586510264
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.5272727272727272,
+        0.9330645161290323,
+        0.547800586510264
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$194.10"
+    },
+    {
+      "bbox": [
+        0.07338709677419354,
+        0.547800586510264,
+        0.12580645161290321,
+        0.5683284457478006
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "KRSJ"
+    },
+    {
+      "bbox": [
+        0.6717741935483871,
+        0.547800586510264,
+        0.7306451612903225,
+        0.5683284457478006
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$10.88"
+    },
+    {
+      "bbox": [
+        0.7362903225806452,
+        0.547800586510264,
+        0.7645161290322581,
+        0.5683284457478006
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "12"
+    },
+    {
+      "bbox": [
+        0.8016129032258065,
+        0.547800586510264,
+        0.8330645161290322,
+        0.5683284457478006
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "12"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.547800586510264,
+        0.9330645161290323,
+        0.5683284457478006
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$130.56"
+    },
+    {
+      "bbox": [
+        0.07338709677419354,
+        0.5683284457478006,
+        0.12580645161290321,
+        0.5900293255131965
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "KRSJ"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.5683284457478006,
+        0.9330645161290323,
+        0.5900293255131965
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.07338709677419354,
+        0.5900293255131965,
+        0.12580645161290321,
+        0.6093841642228739
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "KRSJ"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.5900293255131965,
+        0.9330645161290323,
+        0.6093841642228739
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.07338709677419354,
+        0.6093841642228739,
+        0.12580645161290321,
+        0.6304985337243402
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "KRSJ"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.6093841642228739,
+        0.9330645161290323,
+        0.6304985337243402
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09801396244583534,
+        0.46728580540857134,
+        0.14639303482587065,
+        0.479044894913568
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "station"
+    },
+    {
+      "bbox": [
+        0.1899995987802921,
+        0.4667883548427214,
+        0.2722636815920398,
+        0.479044894913568
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "dates to run"
+    },
+    {
+      "bbox": [
+        0.685455785588188,
+        0.46728580540857145,
+        0.7196517412935324,
+        0.479542345479418
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "rate"
+    },
+    {
+      "bbox": [
+        0.748603755416466,
+        0.4652960031451713,
+        0.783955223880597,
+        0.480537246611118
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "#/wk"
+    },
+    {
+      "bbox": [
+        0.8125581768576472,
+        0.46181384918422114,
+        0.8503109452736317,
+        0.48401940057206816
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CM\ntotal#"
+    },
+    {
+      "bbox": [
+        0.8737261274273794,
+        0.4662909042768713,
+        0.9187189054726369,
+        0.48003979604526803
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 29,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "084fc411-5d25-4f3a-b70f-cfaad34c274b",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07338709677419354,
+          0.45982404692082113,
+          0.9330645161290323,
+          0.8563049853372434
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07338709677419354,
+            "right": 0.12580645161290321
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.17016129032258065,
+            "right": 0.29435483870967744
+          },
+          {
+            "column_type": "",
+            "left": 0.29435483870967744,
+            "right": 0.3209677419354839
+          },
+          {
+            "column_type": "",
+            "left": 0.3346774193548387,
+            "right": 0.40080645161290324
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6717741935483871,
+            "right": 0.7306451612903225
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7362903225806452,
+            "right": 0.7645161290322581
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8016129032258065,
+            "right": 0.8330645161290322
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8620967741935484,
+            "right": 0.9330645161290323
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4868035190615836,
+            "row_type": "header",
+            "top": 0.45982404692082113
+          },
+          {
+            "bottom": 0.506158357771261,
+            "row_type": "data",
+            "top": 0.4868035190615836
+          },
+          {
+            "bottom": 0.5272727272727272,
+            "row_type": "data",
+            "top": 0.506158357771261
+          },
+          {
+            "bottom": 0.547800586510264,
+            "row_type": "data",
+            "top": 0.5272727272727272
+          },
+          {
+            "bottom": 0.5683284457478006,
+            "row_type": "data",
+            "top": 0.547800586510264
+          },
+          {
+            "bottom": 0.5900293255131965,
+            "row_type": "data",
+            "top": 0.5683284457478006
+          },
+          {
+            "bottom": 0.6093841642228739,
+            "row_type": "data",
+            "top": 0.5900293255131965
+          },
+          {
+            "bottom": 0.6304985337243402,
+            "row_type": "data",
+            "top": 0.6093841642228739
+          },
+          {
+            "bottom": 0.832258064516129,
+            "row_type": "gap-with-text",
+            "top": 0.6304985337243402
+          },
+          {
+            "bottom": 0.8563049853372434,
+            "row_type": "footer",
+            "top": 0.832258064516129
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

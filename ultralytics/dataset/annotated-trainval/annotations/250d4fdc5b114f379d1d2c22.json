@@ -1,0 +1,177 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7741935483870968,
+        0.2003747173603728,
+        0.900582713698658,
+        0.21729825789607382
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2232-002068-2"
+    },
+    {
+      "bbox": [
+        0.15140989952082407,
+        0.31274702651742764,
+        0.2686869522075411,
+        0.3269628005674165
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 16, 1999"
+    },
+    {
+      "bbox": [
+        0.5919354838709677,
+        0.813608631584008,
+        0.6931598667825989,
+        0.830423940149626
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-4008324"
+    },
+    {
+      "bbox": [
+        0.147909091977937,
+        0.4034572063711125,
+        0.3789623898084839,
+        0.43730428744251454
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Ronald Milstein\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.15053469763510227,
+        0.4042845840547732,
+        0.3789623898084839,
+        0.47453607662105685
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Ronald Milstein\nLorillard Tobacco Company\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.6931598667825989,
+        0.621733280595407,
+        0.7054126931827036,
+        0.6379798795096799
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6940350686683207,
+        0.6237641054596912,
+        0.7771792478118887,
+        0.6393337627525361
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$8,974.50"
+    },
+    {
+      "bbox": [
+        0.6931598667825989,
+        0.6237641054596912,
+        0.7771792478118887,
+        0.6393337627525361
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$8,974.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15,
+        0.587281795511222,
+        0.442741935483871,
+        0.6022443890274314
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For Professional Services Rendered:"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.587281795511222,
+        0.7814516129032258,
+        0.6022443890274314
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$8,974.50"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 882,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fxkj0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15,
+          0.587281795511222,
+          0.7814516129032258,
+          0.6477556109725686
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15,
+            "right": 0.442741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6919354838709677,
+            "right": 0.7814516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6022443890274314,
+            "row_type": "data",
+            "top": 0.587281795511222
+          },
+          {
+            "bottom": 0.6240648379052369,
+            "row_type": "gap",
+            "top": 0.6022443890274314
+          },
+          {
+            "bottom": 0.6477556109725686,
+            "row_type": "footer",
+            "top": 0.6240648379052369
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

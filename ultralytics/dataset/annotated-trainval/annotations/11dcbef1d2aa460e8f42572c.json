@@ -1,0 +1,320 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8705260057992027,
+        0.1451696717745444,
+        0.9090091518666183,
+        0.15854936502565448
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "721989"
+    },
+    {
+      "bbox": [
+        0.8709398030687447,
+        0.16069011594583207,
+        0.9288714208046394,
+        0.17514018465703096
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/25/1999"
+    },
+    {
+      "bbox": [
+        0.39771090068865533,
+        0.1784851079698085,
+        0.4668150447021868,
+        0.19239998895096297
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "AZPHOE06-50"
+    },
+    {
+      "bbox": [
+        0.6993173855261569,
+        0.1467752349646776,
+        0.7742146913132778,
+        0.16015492821578767
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "300428 222-Z"
+    },
+    {
+      "bbox": [
+        0.757145553944666,
+        0.08629902146966004,
+        0.911491935483871,
+        0.10074909018085891
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 66338, SATON ROUGE, LA 7O896"
+    },
+    {
+      "bbox": [
+        0.704748474688897,
+        0.1622956791359653,
+        0.7676456596592969,
+        0.17621056011711977
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "13255 001"
+    },
+    {
+      "bbox": [
+        0.3968833061495711,
+        0.1458386564370999,
+        0.5061257853086868,
+        0.16028872514829878
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS INC"
+    },
+    {
+      "bbox": [
+        0.8783881539205026,
+        0.7761560054968958,
+        0.9280438262655551,
+        0.7906060742080947
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,291.66"
+    },
+    {
+      "bbox": [
+        0.8779743566509606,
+        0.7761560054968958,
+        0.9284576235350973,
+        0.7916764496681835
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,291.66"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3209677419354839,
+        0.22627737226277372,
+        0.55,
+        0.25651720542231493
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PHOENIX, AZ\nMCDOWELL 1.3 MI E/O PIMA RD - E/F"
+    },
+    {
+      "bbox": [
+        0.6314516129032258,
+        0.22627737226277372,
+        0.6596774193548387,
+        0.25651720542231493
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1813"
+    },
+    {
+      "bbox": [
+        0.6806451612903226,
+        0.22627737226277372,
+        0.7016129032258065,
+        0.25651720542231493
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "ILL"
+    },
+    {
+      "bbox": [
+        0.7346774193548387,
+        0.22627737226277372,
+        0.7846774193548387,
+        0.25651720542231493
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,750.00"
+    },
+    {
+      "bbox": [
+        0.8758064516129033,
+        0.22627737226277372,
+        0.9290322580645162,
+        0.25651720542231493
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,291.66"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.40735102941621065,
+        0.19711429478170198,
+        0.5001284880732836,
+        0.21210575629807618
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MARKET/LOCATION"
+    },
+    {
+      "bbox": [
+        0.6182747830818998,
+        0.19805126112647534,
+        0.6552408017655773,
+        0.2127215849843587
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PANEL"
+    },
+    {
+      "bbox": [
+        0.6726365752637785,
+        0.19805126112647534,
+        0.6936564682407715,
+        0.2130427226428496
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ILL"
+    },
+    {
+      "bbox": [
+        0.7255487196541404,
+        0.19524036209215517,
+        0.7603402666505427,
+        0.21585362167716973
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS"
+    },
+    {
+      "bbox": [
+        0.8758064516129033,
+        0.19603753910323254,
+        0.9290322580645162,
+        0.2127215849843587
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1068,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gnyx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1809
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2967741935483871,
+          0.19603753910323254,
+          0.9411290322580645,
+          0.7935349322210636
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.3209677419354839,
+            "right": 0.55
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6314516129032258,
+            "right": 0.6596774193548387
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.6806451612903226,
+            "right": 0.7016129032258065
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7346774193548387,
+            "right": 0.7846774193548387
+          },
+          {
+            "column_type": "",
+            "left": 0.8201612903225807,
+            "right": 0.8596774193548387
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8758064516129033,
+            "right": 0.9290322580645162
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2127215849843587,
+            "row_type": "header",
+            "top": 0.19603753910323254
+          },
+          {
+            "bottom": 0.22627737226277372,
+            "row_type": "gap",
+            "top": 0.2127215849843587
+          },
+          {
+            "bottom": 0.25651720542231493,
+            "row_type": "data",
+            "top": 0.22627737226277372
+          },
+          {
+            "bottom": 0.7111574556830031,
+            "row_type": "gap",
+            "top": 0.25651720542231493
+          },
+          {
+            "bottom": 0.7758081334723671,
+            "row_type": "gap-with-text",
+            "top": 0.7111574556830031
+          },
+          {
+            "bottom": 0.7935349322210636,
+            "row_type": "footer",
+            "top": 0.7758081334723671
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

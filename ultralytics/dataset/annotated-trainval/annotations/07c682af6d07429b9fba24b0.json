@@ -1,0 +1,274 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6669354838709678,
+        0.32405602732428784,
+        0.7565919743339098,
+        0.33882117005609
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "000100718"
+    },
+    {
+      "bbox": [
+        0.4030346893250119,
+        0.33882117005609,
+        0.5153896282928541,
+        0.3551405383386081
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 13, 2000"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.0699401497822204,
+        0.7802998972353811,
+        0.09848024316109423
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Bethune-DuBois Institute, Inc."
+    },
+    {
+      "bbox": [
+        0.24429468381081282,
+        0.06908968436459195,
+        0.7838709677419354,
+        0.11812114185441669
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Bethune-DuBois Institute, Inc.\n8401 Colesville Road, Suite 400 \u2726 Silver Spring, MD 20910-3363"
+    },
+    {
+      "bbox": [
+        0.5160899964144855,
+        0.7872152414376585,
+        0.72051470035341,
+        0.8029290384899025
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Bethune Dubois Institute, Inc."
+    },
+    {
+      "bbox": [
+        0.5943548387096774,
+        0.8024316109422492,
+        0.660729503471439,
+        0.8136370757998307
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "52-1583644"
+    },
+    {
+      "bbox": [
+        0.4009731308118405,
+        0.37262557578416317,
+        0.6088709677419355,
+        0.42531212132604934
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. George L. Knox Ill\nVP Corporate Affairs\nPhillip Morris Company"
+    },
+    {
+      "bbox": [
+        0.40200391006842623,
+        0.37329053343257146,
+        0.6308369050304534,
+        0.4573308682981857
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. George L. Knox III\nVP Corporate Affairs\nPhillip Morris Company\n120 Park Avenue, 17th Floor\nNew York, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.8205002882422237,
+        0.7526337229342273,
+        0.8339004185778378,
+        0.7689530912167455
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8201612903225807,
+        0.7526337229342273,
+        0.8988395117427375,
+        0.7696048632218845
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,000.00"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.7526337229342273,
+        0.8998702909993231,
+        0.7689530912167455
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3435483870967742,
+        0.6091185410334347,
+        0.3596774193548387,
+        0.6443768996960486
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.442741935483871,
+        0.6091185410334347,
+        0.7653225806451613,
+        0.6443768996960486
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Pledged Contribution toward Bethune-\nDuBois Institute's 2000 programs"
+    },
+    {
+      "bbox": [
+        0.8137096774193548,
+        0.6091185410334347,
+        0.896774193548387,
+        0.6443768996960486
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$5,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3020183221796125,
+        0.5474759502397142,
+        0.40715780635135473,
+        0.5637953185222323
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.6050674236158108,
+        0.5466988374643561,
+        0.660729503471439,
+        0.5622410929715163
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM"
+    },
+    {
+      "bbox": [
+        0.8235926260119808,
+        0.5482530630150722,
+        0.9101780835651803,
+        0.5630182057468743
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 898,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zryx0074",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2717741935483871,
+          0.541033434650456,
+          0.9379032258064516,
+          0.7762917933130699
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.3435483870967742,
+            "right": 0.3596774193548387
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.442741935483871,
+            "right": 0.7653225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8137096774193548,
+            "right": 0.896774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5610942249240122,
+            "row_type": "header",
+            "top": 0.541033434650456
+          },
+          {
+            "bottom": 0.6091185410334347,
+            "row_type": "gap",
+            "top": 0.5610942249240122
+          },
+          {
+            "bottom": 0.6443768996960486,
+            "row_type": "data",
+            "top": 0.6091185410334347
+          },
+          {
+            "bottom": 0.7507598784194529,
+            "row_type": "gap",
+            "top": 0.6443768996960486
+          },
+          {
+            "bottom": 0.7762917933130699,
+            "row_type": "footer",
+            "top": 0.7507598784194529
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

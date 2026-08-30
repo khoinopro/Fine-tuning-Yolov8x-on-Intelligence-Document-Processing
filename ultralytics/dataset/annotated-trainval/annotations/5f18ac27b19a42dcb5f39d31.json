@@ -1,0 +1,236 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2608418615510331,
+        0.3720364741641337,
+        0.3184511070469668,
+        0.38715136778115505
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "100182"
+    },
+    {
+      "bbox": [
+        0.14642349896883147,
+        0.3057410334346505,
+        0.2808450717926767,
+        0.32322917933130696
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 13, 2000"
+    },
+    {
+      "bbox": [
+        0.14242285692050274,
+        0.6662079027355623,
+        0.3248521343242928,
+        0.6849021276595745
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Tip Nunn's Events, Inc."
+    },
+    {
+      "bbox": [
+        0.141622728510837,
+        0.667770344723719,
+        0.49036513882603217,
+        0.7164109422492402
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Tip Nunn's Events, Inc. (Tax ID 84-1060640)\n2801 Youngfeld, Suite 210\nGolden, Colorado 80401"
+    },
+    {
+      "bbox": [
+        0.05440873185727071,
+        0.9456596127385599,
+        0.5866868677731203,
+        0.9558176291793312
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DENVER: 2801 YOUNGFIELD SUITE 210 GOLDEN, COLORADO 80401"
+    },
+    {
+      "bbox": [
+        0.3870967741935484,
+        0.6690723404255319,
+        0.48247743102844465,
+        0.6829422492401216
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "84-1060640"
+    },
+    {
+      "bbox": [
+        0.26004173314136736,
+        0.3390589665653495,
+        0.40566510370053305,
+        0.35654711246200604
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.7057132573251877,
+        0.585551367781155,
+        0.7177151834701739,
+        0.6006273556231003
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7040322580645161,
+        0.5835866261398176,
+        0.792927253978754,
+        0.601823708206687
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$12,500.00"
+    },
+    {
+      "bbox": [
+        0.7040322580645161,
+        0.5849483282674772,
+        0.792927253978754,
+        0.6012303951367781
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$12,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14516129032258066,
+        0.4534954407294833,
+        0.16048387096774194,
+        0.46869300911854106
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1."
+    },
+    {
+      "bbox": [
+        0.20080645161290323,
+        0.4534954407294833,
+        0.29838709677419356,
+        0.46869300911854106
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Speaker Fee"
+    },
+    {
+      "bbox": [
+        0.707258064516129,
+        0.4534954407294833,
+        0.8008064516129032,
+        0.46869300911854106
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$12,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 621,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pmkv0076",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14516129032258066,
+          0.4534954407294833,
+          0.8008064516129032,
+          0.6048632218844985
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.14516129032258066,
+            "right": 0.16048387096774194
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.20080645161290323,
+            "right": 0.29838709677419356
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.707258064516129,
+            "right": 0.8008064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.46869300911854106,
+            "row_type": "data",
+            "top": 0.4534954407294833
+          },
+          {
+            "bottom": 0.4857142857142857,
+            "row_type": "gap",
+            "top": 0.46869300911854106
+          },
+          {
+            "bottom": 0.5203647416413374,
+            "row_type": "gap-with-text",
+            "top": 0.4857142857142857
+          },
+          {
+            "bottom": 0.5355623100303951,
+            "row_type": "gap",
+            "top": 0.5203647416413374
+          },
+          {
+            "bottom": 0.5519756838905775,
+            "row_type": "gap-with-text",
+            "top": 0.5355623100303951
+          },
+          {
+            "bottom": 0.5817629179331307,
+            "row_type": "gap",
+            "top": 0.5519756838905775
+          },
+          {
+            "bottom": 0.6048632218844985,
+            "row_type": "footer",
+            "top": 0.5817629179331307
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

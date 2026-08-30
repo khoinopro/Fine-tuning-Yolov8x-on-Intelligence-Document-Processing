@@ -1,0 +1,200 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5503780397789614,
+        0.2578952618453865,
+        0.6095756777784428,
+        0.2721197007481297
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "A-2439"
+    },
+    {
+      "bbox": [
+        0.5495780716978873,
+        0.16450872817955114,
+        0.6935723262912202,
+        0.1824438902743142
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 25, 1999"
+    },
+    {
+      "bbox": [
+        0.5527779440221836,
+        0.33551122194513716,
+        0.6319747840485168,
+        0.34849875311720696
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "CP040409"
+    },
+    {
+      "bbox": [
+        0.11199553135037005,
+        0.16450872817955114,
+        0.2935882857541844,
+        0.19543142144638403
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Department L 997\nColumbus, Ohio 43260"
+    },
+    {
+      "bbox": [
+        0.39339873628200867,
+        0.8320781379883625,
+        0.44674093781177254,
+        0.839980604045442
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "31-4379427"
+    },
+    {
+      "bbox": [
+        0.1135954675125182,
+        0.2711920199501247,
+        0.34638617910507313,
+        0.2880299251870324
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Research Center"
+    },
+    {
+      "bbox": [
+        0.1135954675125182,
+        0.27057356608478805,
+        0.34638617910507313,
+        0.33303740648379054
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Research Center\n4201 Commerce Road\nGate C, Door 17\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.5540027669528377,
+        0.25859169680318433,
+        0.6082652838675874,
+        0.27348441247460126
+      ],
+      "fieldtype": "payment_reference",
+      "page": 0,
+      "text": "A-2439"
+    },
+    {
+      "bbox": [
+        0.6512740140044287,
+        0.18940149625935163,
+        0.8732651565024837,
+        0.20238902743142145
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "UPON OFFER ACCEPTANCE"
+    },
+    {
+      "bbox": [
+        0.3239870728349991,
+        0.8155087281795511,
+        0.39038442356414704,
+        0.8232394014962593
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "0189-1600016"
+    },
+    {
+      "bbox": [
+        0.4443822690366469,
+        0.8074688279301746,
+        0.49598021026592454,
+        0.8155087281795511
+      ],
+      "fieldtype": "bank_num",
+      "page": 0,
+      "text": "044000024"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.4376558603491272,
+        0.7032258064516129,
+        0.4706982543640898
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Study Authorization: Determine the Deliveries of Nitrosamines in Mainstream\nSmoke."
+    },
+    {
+      "bbox": [
+        0.7338709677419355,
+        0.4376558603491272,
+        0.8161290322580645,
+        0.4706982543640898
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$15,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 319,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "flwh0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11612903225806452,
+          0.4376558603491272,
+          0.9040322580645161,
+          0.4706982543640898
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11612903225806452,
+            "right": 0.7032258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7338709677419355,
+            "right": 0.8161290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4706982543640898,
+            "row_type": "data",
+            "top": 0.4376558603491272
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

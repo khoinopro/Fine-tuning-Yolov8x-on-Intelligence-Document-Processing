@@ -1,0 +1,167 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21935483870967742,
+        0.16803020767778476,
+        0.2709677419354839,
+        0.17809943360604152
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/29/2000"
+    },
+    {
+      "bbox": [
+        0.18225806451612903,
+        0.19320327249842667,
+        0.3064516129032258,
+        0.20327249842668346
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Labstat International Inc."
+    },
+    {
+      "bbox": [
+        0.18306451612903227,
+        0.21900566393958465,
+        0.4596774193548387,
+        0.22970421648835745
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "262 Manitou Drive, Kitchener, Ontario, Canada N2C IL3"
+    },
+    {
+      "bbox": [
+        0.5653225806451613,
+        0.14033983637507866,
+        0.5951612903225807,
+        0.1554436752674638
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "232"
+    },
+    {
+      "bbox": [
+        0.1532258064516129,
+        0.09754562617998741,
+        0.32016129032258067,
+        0.11013215859030837
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.18306451612903227,
+        0.24417872876022656,
+        0.37338709677419357,
+        0.2555066079295154
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PM USA, RD&E Tower, Richmond VA"
+    },
+    {
+      "bbox": [
+        0.47258064516129034,
+        0.24543738200125864,
+        0.5653225806451613,
+        0.2561359345500315
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "RD&E Tower - T3"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.33306451612903226,
+        0.41409691629955947,
+        0.5951612903225807,
+        0.47828823159219636
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Conduct analyses to measure mainstream\nAnd sidestream smoke constituents as\nDescribed in the attached quote."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.4096774193548387,
+        0.38624921334172435,
+        0.48951612903225805,
+        0.3975770925110132
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1096,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "trhm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1741,
+        2232
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15725806451612903,
+          0.3826305852737571,
+          0.8637096774193549,
+          0.47828823159219636
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.33306451612903226,
+            "right": 0.5951612903225807
+          },
+          {
+            "column_type": "",
+            "left": 0.6185483870967742,
+            "right": 0.6935483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4027690371302706,
+            "row_type": "header",
+            "top": 0.3826305852737571
+          },
+          {
+            "bottom": 0.41409691629955947,
+            "row_type": "gap",
+            "top": 0.4027690371302706
+          },
+          {
+            "bottom": 0.47828823159219636,
+            "row_type": "data",
+            "top": 0.41409691629955947
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

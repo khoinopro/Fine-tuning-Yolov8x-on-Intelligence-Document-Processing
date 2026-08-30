@@ -1,0 +1,272 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8572133837274033,
+        0.1116946953075339,
+        0.8988618306054346,
+        0.12808237953542329
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "721989"
+    },
+    {
+      "bbox": [
+        0.8565292549295361,
+        0.12561925685204975,
+        0.9192694263467346,
+        0.14529391259516605
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/25/1999"
+    },
+    {
+      "bbox": [
+        0.3297500805719141,
+        0.14347773868772648,
+        0.40722429683775624,
+        0.16010297441927912
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "AZPHOE06-50"
+    },
+    {
+      "bbox": [
+        0.6649731915267645,
+        0.10897043444637454,
+        0.7491210336644106,
+        0.1271321735207703
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "300428 222-Z"
+    },
+    {
+      "bbox": [
+        0.7279130409305323,
+        0.046312434639709174,
+        0.900313497993027,
+        0.06629034762154451
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 66338, SATOR ROUGE, LA 70896"
+    },
+    {
+      "bbox": [
+        0.6711303507075679,
+        0.1280402604744901,
+        0.7402391546162403,
+        0.1440926769773512
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "13255 001"
+    },
+    {
+      "bbox": [
+        0.33180246696551524,
+        0.10987852140009434,
+        0.45403225806451614,
+        0.1284796573875803
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS INC"
+    },
+    {
+      "bbox": [
+        0.8626864141103395,
+        0.787311388875056,
+        0.9215214907269053,
+        0.8045650409957321
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,291.66"
+    },
+    {
+      "bbox": [
+        0.8620022853124725,
+        0.7864033019213363,
+        0.920837361929038,
+        0.8054731279494518
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,291.66"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.24758064516129033,
+        0.19164882226980726,
+        0.4980398745519714,
+        0.22805139186295506
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PHOENIX, AZ\nMCDOWELL 1.3 MI E/O PIMA RD - E/F"
+    },
+    {
+      "bbox": [
+        0.7983870967741935,
+        0.19164882226980726,
+        0.8443548387096774,
+        0.22805139186295506
+      ],
+      "fieldtype": "line_item_discount_amount",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "459.34"
+    },
+    {
+      "bbox": [
+        0.8596774193548387,
+        0.19164882226980726,
+        0.9185483870967742,
+        0.22805139186295506
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,291.66"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3433308059795405,
+        0.1650809797509304,
+        0.44580454941539954,
+        0.18368165402537284
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MARKET / LOCATION"
+    },
+    {
+      "bbox": [
+        0.7724943468647618,
+        0.16624352189308306,
+        0.8364309560170499,
+        0.18135656974106754
+      ],
+      "fieldtype": "line_item_discount_amount",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "COMMISSION"
+    },
+    {
+      "bbox": [
+        0.8596774193548387,
+        0.16381156316916484,
+        0.9257670400380552,
+        0.18135656974106754
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1152,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xpwh0080",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.21820116487455207,
+          0.16381156316916484,
+          0.9351366487455198,
+          0.8072805139186295
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.24758064516129033,
+            "right": 0.4980398745519714
+          },
+          {
+            "column_type": "",
+            "left": 0.5811043906810037,
+            "right": 0.6193548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.6427419354838709,
+            "right": 0.6693548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.7032258064516129,
+            "right": 0.7612903225806451
+          },
+          {
+            "column_type": "line_item_discount_amount",
+            "left": 0.7983870967741935,
+            "right": 0.8443548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8596774193548387,
+            "right": 0.9185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.18094218415417557,
+            "row_type": "header",
+            "top": 0.16381156316916484
+          },
+          {
+            "bottom": 0.19164882226980726,
+            "row_type": "gap",
+            "top": 0.18094218415417557
+          },
+          {
+            "bottom": 0.22805139186295506,
+            "row_type": "data",
+            "top": 0.19164882226980726
+          },
+          {
+            "bottom": 0.7141327623126338,
+            "row_type": "gap",
+            "top": 0.22805139186295506
+          },
+          {
+            "bottom": 0.7494646680942184,
+            "row_type": "gap-with-text",
+            "top": 0.7141327623126338
+          },
+          {
+            "bottom": 0.8072805139186295,
+            "row_type": "footer",
+            "top": 0.7494646680942184
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

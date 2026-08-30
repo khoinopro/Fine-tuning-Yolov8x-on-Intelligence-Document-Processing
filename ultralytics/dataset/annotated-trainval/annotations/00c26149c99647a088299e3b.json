@@ -1,0 +1,159 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.1727931055119995,
+        0.17193017456359103,
+        0.23359067967362895,
+        0.18306234413965086
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 8, 1999"
+    },
+    {
+      "bbox": [
+        0.1703932012687773,
+        0.19790523690773068,
+        0.26798930715981406,
+        0.20903740648379052
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Dr. Yoshio Harada"
+    },
+    {
+      "bbox": [
+        0.1703932012687773,
+        0.222643391521197,
+        0.601575996967702,
+        0.23377556109725686
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Harada and Associates, 8-10-8 Sumiyoshi Yarnate, Higashinada-Ku, Kobe, 658 Japan"
+    },
+    {
+      "bbox": [
+        0.5783769226165539,
+        0.14657356608478803,
+        0.6495740818321463,
+        0.1577057356608479
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R6-470"
+    },
+    {
+      "bbox": [
+        0.1703932012687773,
+        0.10204488778054863,
+        0.3375865302132583,
+        0.1144139650872818
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.4295828595367766,
+        0.38885286783042394,
+        0.5103796357252579,
+        0.3999850374064838
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.408354114713217,
+        0.5887096774193549,
+        0.4800498753117207
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Consulting services of Dr. Yoshio Harada to\nSAB as per attached amendment dated\nJune 4, 1999"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 490,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "szcm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.16532258064516128,
+          0.38403990024937656,
+          0.9129032258064517,
+          0.7593516209476309
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.31370967741935485,
+            "right": 0.5887096774193549
+          },
+          {
+            "column_type": "",
+            "left": 0.6419354838709678,
+            "right": 0.6983870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.408354114713217,
+            "row_type": "data",
+            "top": 0.38403990024937656
+          },
+          {
+            "bottom": 0.4800498753117207,
+            "row_type": "data",
+            "top": 0.408354114713217
+          },
+          {
+            "bottom": 0.5168329177057357,
+            "row_type": "gap",
+            "top": 0.4800498753117207
+          },
+          {
+            "bottom": 0.5542394014962594,
+            "row_type": "gap-with-text",
+            "top": 0.5168329177057357
+          },
+          {
+            "bottom": 0.7400249376558603,
+            "row_type": "gap",
+            "top": 0.5542394014962594
+          },
+          {
+            "bottom": 0.7593516209476309,
+            "row_type": "gap-with-text",
+            "top": 0.7400249376558603
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

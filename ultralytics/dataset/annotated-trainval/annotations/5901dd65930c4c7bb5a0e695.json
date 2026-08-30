@@ -1,0 +1,274 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8900803177790387,
+        0.03787556480626954,
+        0.9338404120651271,
+        0.05546064846632325
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "60s"
+    },
+    {
+      "bbox": [
+        0.8121873499498014,
+        0.9020809742921786,
+        0.8804530970360993,
+        0.9135789136083676
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/11/2020"
+    },
+    {
+      "bbox": [
+        0.02713125845737483,
+        0.8804377944028816,
+        0.1693548387096774,
+        0.9156079617229892
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Mary Wittemyer\nBlueWest Media"
+    },
+    {
+      "bbox": [
+        0.026256056571653058,
+        0.8804377944028816,
+        0.2783141996595224,
+        0.9311639972684214
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Mary Wittemyer\nBlueWest Media\n5130 E. 18th Ave., Denver, CO 80220"
+    },
+    {
+      "bbox": [
+        0.026256056571653058,
+        0.9561889240154208,
+        0.20654764503033743,
+        0.9683632127031502
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "mary@bluewestmedia.com"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.028225806451612902,
+        0.321072319201995,
+        0.11451612903225807,
+        0.33728179551122195
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Goldbergs"
+    },
+    {
+      "bbox": [
+        0.2838709677419355,
+        0.321072319201995,
+        0.34274193548387094,
+        0.33728179551122195
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$24.00"
+    },
+    {
+      "bbox": [
+        0.9411290322580645,
+        0.321072319201995,
+        0.9629032258064516,
+        0.33728179551122195
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.028225806451612902,
+        0.3690773067331671,
+        0.11451612903225807,
+        0.38403990024937656
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Family Feud"
+    },
+    {
+      "bbox": [
+        0.2838709677419355,
+        0.3690773067331671,
+        0.34274193548387094,
+        0.38403990024937656
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$180.00"
+    },
+    {
+      "bbox": [
+        0.9411290322580645,
+        0.3690773067331671,
+        0.9629032258064516,
+        0.38403990024937656
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.026256056571653058,
+        0.28034681450354865,
+        0.13565629228687415,
+        0.2979318981636024
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Program Name"
+    },
+    {
+      "bbox": [
+        0.2940678336025143,
+        0.2722306220450623,
+        0.33957833166004625,
+        0.3006372956497645
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross\nRate"
+    },
+    {
+      "bbox": [
+        0.9145859705792482,
+        0.28034681450354865,
+        0.9583460648653367,
+        0.2979318981636024
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 420,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "1416f19c-e47f-45bd-884f-35a82719bd81",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.028225806451612902,
+          0.25,
+          0.9629032258064516,
+          0.4551122194513716
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.028225806451612902,
+            "right": 0.11451612903225807
+          },
+          {
+            "column_type": "",
+            "left": 0.18387096774193548,
+            "right": 0.20967741935483872
+          },
+          {
+            "column_type": "",
+            "left": 0.23629032258064517,
+            "right": 0.2685483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.2838709677419355,
+            "right": 0.34274193548387094
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.9411290322580645,
+            "right": 0.9629032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3023690773067332,
+            "row_type": "header",
+            "top": 0.25
+          },
+          {
+            "bottom": 0.321072319201995,
+            "row_type": "gap",
+            "top": 0.3023690773067332
+          },
+          {
+            "bottom": 0.33728179551122195,
+            "row_type": "data",
+            "top": 0.321072319201995
+          },
+          {
+            "bottom": 0.3516209476309227,
+            "row_type": "up-merge",
+            "top": 0.33728179551122195
+          },
+          {
+            "bottom": 0.3690773067331671,
+            "row_type": "gap",
+            "top": 0.3516209476309227
+          },
+          {
+            "bottom": 0.38403990024937656,
+            "row_type": "data",
+            "top": 0.3690773067331671
+          },
+          {
+            "bottom": 0.39900249376558605,
+            "row_type": "up-merge",
+            "top": 0.38403990024937656
+          },
+          {
+            "bottom": 0.4170822942643391,
+            "row_type": "gap",
+            "top": 0.39900249376558605
+          },
+          {
+            "bottom": 0.4551122194513716,
+            "row_type": "footer",
+            "top": 0.4170822942643391
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7162147297331867,
+        0.10700492324921664,
+        0.7443976874472384,
+        0.12365013353242811
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "15428"
+    },
+    {
+      "bbox": [
+        0.7137640377580516,
+        0.14425848912116612,
+        0.7475806451612903,
+        0.159318441282167
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "2/27/18"
+    },
+    {
+      "bbox": [
+        0.04787739948844024,
+        0.16434526037680097,
+        0.12876344086021504,
+        0.18012548444108392
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "StateNets Platinum"
+    },
+    {
+      "bbox": [
+        0.04758002433633812,
+        0.16511502740432696,
+        0.13798207057538056,
+        0.23631847745048193
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin\n2601 Northwind Drive\nRichmond VA 23233"
+    },
+    {
+      "bbox": [
+        0.0782096650028558,
+        0.6920205577458738,
+        0.20489147979835606,
+        0.7070310147826308
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Learfield Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.07791228985075367,
+        0.6916356742321108,
+        0.3916430753184832,
+        0.7081856653239197
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Learfield Communications, Inc., 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.8674299463516842,
+        0.45809328051595916,
+        0.8740473394579908,
+        0.4716505582882383
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3396928461237365,
+        0.4566661986451929,
+        0.3827059013147291,
+        0.4737911810943876
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,356.00"
+    },
+    {
+      "bbox": [
+        0.8653310920078304,
+        0.4578430684040613,
+        0.9101774619116522,
+        0.47543550138788687
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,002.60"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.8870967741935484,
+        0.35386221294363257,
+        0.910483870967742,
+        0.3705636743215031
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,356"
+    },
+    {
+      "bbox": [
+        0.932258064516129,
+        0.35386221294363257,
+        0.9395161290322581,
+        0.3705636743215031
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.04471833783569045,
+        0.33683001972472787,
+        0.10418421261719371,
+        0.3503771137538759
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Brownfield Iowa"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8786677657714922,
+        0.31866459818564286,
+        0.8991240266963293,
+        0.3309801382121412
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    },
+    {
+      "bbox": [
+        0.9157744716351502,
+        0.299883399645233,
+        0.9414637295407596,
+        0.33128802671280355
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nUnits"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "7760ecb6-7276-4e1f-8a8e-6e278e7de2e2",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03870967741935484,
+          0.2985386221294363,
+          0.9443548387096774,
+          0.4791231732776618
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.1032258064516129,
+            "right": 0.11048387096774194
+          },
+          {
+            "column_type": "",
+            "left": 0.15161290322580645,
+            "right": 0.15806451612903225
+          },
+          {
+            "column_type": "",
+            "left": 0.18064516129032257,
+            "right": 0.2032258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.2411290322580645,
+            "right": 0.24919354838709679
+          },
+          {
+            "column_type": "",
+            "left": 0.2870967741935484,
+            "right": 0.29516129032258065
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8870967741935484,
+            "right": 0.910483870967742
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.932258064516129,
+            "right": 0.9395161290322581
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.33298538622129437,
+            "row_type": "header",
+            "top": 0.2985386221294363
+          },
+          {
+            "bottom": 0.35386221294363257,
+            "row_type": "down-merge",
+            "top": 0.33298538622129437
+          },
+          {
+            "bottom": 0.3705636743215031,
+            "row_type": "data",
+            "top": 0.35386221294363257
+          },
+          {
+            "bottom": 0.4791231732776618,
+            "row_type": "footer",
+            "top": 0.3705636743215031
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

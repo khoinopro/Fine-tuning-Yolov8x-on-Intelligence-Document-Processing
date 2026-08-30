@@ -1,0 +1,182 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7759690386418497,
+        0.1397705735660848,
+        0.8295669000738125,
+        0.14904738154613467
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42025254"
+    },
+    {
+      "bbox": [
+        0.13548387096774195,
+        0.16458852867830423,
+        0.22639096694396232,
+        0.1750224438902743
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 31, 2001"
+    },
+    {
+      "bbox": [
+        0.13679454186366627,
+        0.18986533665835412,
+        0.2727891156462585,
+        0.19976059850374064
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Covance Laboratories Inc."
+    },
+    {
+      "bbox": [
+        0.13679454186366627,
+        0.21522194513715712,
+        0.3239870728349991,
+        0.22697256857855364
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P. O. Box 7545, Madison, WI 53704"
+    },
+    {
+      "bbox": [
+        0.5519779759411096,
+        0.13915211970074812,
+        0.6223751670756279,
+        0.14904738154613467
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R1-472"
+    },
+    {
+      "bbox": [
+        0.1359945737825922,
+        0.09338653366583541,
+        0.3055878069702954,
+        0.10575561097256858
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.23439064775470306,
+        0.24119700748129674,
+        0.35438585991581384,
+        0.2523291770573566
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "4201 Commerce Road"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.27983870967741936,
+        0.4077306733167082,
+        0.5209677419354839,
+        0.49875311720698257
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "CHANGE ORDER:\nIncrease purchase amount total from\n$1,003,355.00 to $1,107,106.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.40238394478025813,
+        0.3808129675810474,
+        0.4847806571308875,
+        0.3919451371571072
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1054,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "ypcf0221",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1314516129032258,
+          0.3765586034912718,
+          0.896774193548387,
+          0.7512468827930174
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.27983870967741936,
+            "right": 0.5209677419354839
+          },
+          {
+            "column_type": "",
+            "left": 0.6169354838709677,
+            "right": 0.6782258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39713216957605985,
+            "row_type": "header",
+            "top": 0.3765586034912718
+          },
+          {
+            "bottom": 0.4077306733167082,
+            "row_type": "gap",
+            "top": 0.39713216957605985
+          },
+          {
+            "bottom": 0.49875311720698257,
+            "row_type": "data",
+            "top": 0.4077306733167082
+          },
+          {
+            "bottom": 0.6758104738154613,
+            "row_type": "gap-with-text",
+            "top": 0.49875311720698257
+          },
+          {
+            "bottom": 0.7306733167082294,
+            "row_type": "gap",
+            "top": 0.6758104738154613
+          },
+          {
+            "bottom": 0.7512468827930174,
+            "row_type": "gap-with-text",
+            "top": 0.7306733167082294
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

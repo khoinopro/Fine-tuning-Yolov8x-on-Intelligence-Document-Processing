@@ -1,0 +1,270 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7645161290322581,
+        0.2748365817917893,
+        0.8549122323315872,
+        0.29477291414974294
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "045-8686200"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.24208403577515125,
+        0.8317767208896242,
+        0.26277372262773724
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "01/31/99"
+    },
+    {
+      "bbox": [
+        0.7629032258064516,
+        0.31043717528813514,
+        0.8549122323315872,
+        0.3315954118873827
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "AZTUCS25-01"
+    },
+    {
+      "bbox": [
+        0.41934417353066655,
+        0.09963676705501333,
+        0.5121820956256358,
+        0.14445942165365344
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "TUCSON DIVSION\n441 East 25th Street\nTucson, AZ 85713"
+    },
+    {
+      "bbox": [
+        0.33437387195222,
+        0.2614512067956967,
+        0.39180750172283657,
+        0.2787456445993031
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0035022"
+    },
+    {
+      "bbox": [
+        0.3335871099005677,
+        0.2787456445993031,
+        0.47296603471819176,
+        0.31362937830176957
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LEO BURNETT USA\nPHILIP MORRIS **"
+    },
+    {
+      "bbox": [
+        0.33437387195222,
+        0.27853006111314815,
+        0.529490860761986,
+        0.3835295912917419
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LEO BURNETT USA\nPHILIP MORRIS **\nATTN: ERIC HANKINS\n35 WEST WACKER DRIVE\nACCTNG DEPT 4TH FLOOR\nCHICAGO IL, 60601-0000"
+    },
+    {
+      "bbox": [
+        0.819019295770026,
+        0.7609552633586816,
+        0.8835337840055131,
+        0.7792670210330883
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,834.89"
+    },
+    {
+      "bbox": [
+        0.8182325337183737,
+        0.7609552633586816,
+        0.8851073081088177,
+        0.7802843409038887
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,834.89"
+    },
+    {
+      "bbox": [
+        0.7639459521543662,
+        0.3998067092245479,
+        0.852850063991074,
+        0.4140491874157532
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3056451612903226,
+        0.5881126173096975,
+        0.45564516129032256,
+        0.6037539103232534
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PERRMANENT BULLETIN"
+    },
+    {
+      "bbox": [
+        0.5658075208541652,
+        0.6047398523184558,
+        0.5763178777752188,
+        0.6217233928935952
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8201612903225807,
+        0.5881126173096975,
+        0.8911290322580645,
+        0.6037539103232534
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "3,402.00"
+    },
+    {
+      "bbox": [
+        0.674414542371719,
+        0.6579549461205593,
+        0.7584973977401477,
+        0.6726740146190133
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "COMMISSION"
+    },
+    {
+      "bbox": [
+        0.8201612903225807,
+        0.6548488008342023,
+        0.8911290322580645,
+        0.6777893639207507
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(567.11)"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 355,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "smyx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2204,
+        1705
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.3056451612903226,
+          0.5203336809176226,
+          0.8911290322580645,
+          0.7831074035453598
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.3056451612903226,
+            "right": 0.45564516129032256
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.5612903225806452,
+            "right": 0.5774193548387097
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8201612903225807,
+            "right": 0.8911290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5516162669447341,
+            "row_type": "gap-with-text",
+            "top": 0.5203336809176226
+          },
+          {
+            "bottom": 0.570385818561001,
+            "row_type": "gap",
+            "top": 0.5516162669447341
+          },
+          {
+            "bottom": 0.5881126173096975,
+            "row_type": "down-merge",
+            "top": 0.570385818561001
+          },
+          {
+            "bottom": 0.6037539103232534,
+            "row_type": "data",
+            "top": 0.5881126173096975
+          },
+          {
+            "bottom": 0.6235662148070907,
+            "row_type": "up-merge",
+            "top": 0.6037539103232534
+          },
+          {
+            "bottom": 0.6548488008342023,
+            "row_type": "gap",
+            "top": 0.6235662148070907
+          },
+          {
+            "bottom": 0.6777893639207507,
+            "row_type": "data",
+            "top": 0.6548488008342023
+          },
+          {
+            "bottom": 0.7591240875912408,
+            "row_type": "gap-with-text",
+            "top": 0.6777893639207507
+          },
+          {
+            "bottom": 0.7831074035453598,
+            "row_type": "footer",
+            "top": 0.7591240875912408
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

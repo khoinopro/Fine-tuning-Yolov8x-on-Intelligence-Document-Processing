@@ -1,0 +1,233 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.044134668612550956,
+        0.05923772910304876,
+        0.19529590861053797,
+        0.09197436887052306
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "WOC13416278"
+    },
+    {
+      "bbox": [
+        0.6973277640783051,
+        0.2618931181397945,
+        0.7414624326908561,
+        0.285276432259419
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "6/02/22"
+    },
+    {
+      "bbox": [
+        0.13571410598359418,
+        0.18550762534902113,
+        0.18315887474208647,
+        0.20577316425269568
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "2380398"
+    },
+    {
+      "bbox": [
+        0.13461073926828043,
+        0.2135676022925705,
+        0.19088244174928287,
+        0.23539202880422003
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "11285742"
+    },
+    {
+      "bbox": [
+        0.13461073926828043,
+        0.2650108933557444,
+        0.19198580846459665,
+        0.28371754465144405
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WBRC TV"
+    },
+    {
+      "bbox": [
+        0.4025820419537969,
+        0.1866160852652744,
+        0.5144109032902412,
+        0.2093126361759159
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Medium Buying, LLC"
+    },
+    {
+      "bbox": [
+        0.6967942599301473,
+        0.24349943095949236,
+        0.706782437034948,
+        0.26233364108895585
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6965555465158849,
+        0.24385025722608125,
+        0.7313387300166782,
+        0.2627696737350014
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.6963186324489664,
+        0.24215413023595925,
+        0.7300881836128165,
+        0.2616609907271893
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$0.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.9080645161290323,
+        0.5553021664766249,
+        0.9153225806451613,
+        0.5689851767388826
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0"
+    },
+    {
+      "bbox": [
+        0.9451612903225807,
+        0.5553021664766249,
+        0.9709677419354839,
+        0.5689851767388826
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8996060963538489,
+        0.5209146012122666,
+        0.9230921775210511,
+        0.5482426472807068
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    },
+    {
+      "bbox": [
+        0.9275515600211527,
+        0.5268006419039307,
+        0.9659022495220274,
+        0.5398340177211868
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Cost"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 512,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "5e688e9b-358a-43ea-840a-98d55130b995",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2337,
+        1653
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0467741935483871,
+          0.49372862029646525,
+          0.9709677419354839,
+          0.6031927023945268
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.3596774193548387,
+            "right": 0.36612903225806454
+          },
+          {
+            "column_type": "",
+            "left": 0.40161290322580645,
+            "right": 0.4104838709677419
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.9080645161290323,
+            "right": 0.9153225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9451612903225807,
+            "right": 0.9709677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.548460661345496,
+            "row_type": "header",
+            "top": 0.49372862029646525
+          },
+          {
+            "bottom": 0.5553021664766249,
+            "row_type": "gap",
+            "top": 0.548460661345496
+          },
+          {
+            "bottom": 0.5689851767388826,
+            "row_type": "data",
+            "top": 0.5553021664766249
+          },
+          {
+            "bottom": 0.5769669327251995,
+            "row_type": "gap",
+            "top": 0.5689851767388826
+          },
+          {
+            "bottom": 0.6031927023945268,
+            "row_type": "footer",
+            "top": 0.5769669327251995
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

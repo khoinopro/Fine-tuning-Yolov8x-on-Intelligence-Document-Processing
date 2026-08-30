@@ -1,0 +1,167 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6564516129032258,
+        0.217505991992823,
+        0.716701244813278,
+        0.23161897620609775
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "20618"
+    },
+    {
+      "bbox": [
+        0.6596774193548387,
+        0.19841195452780416,
+        0.7288114040958372,
+        0.21519756838905776
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/6/99"
+    },
+    {
+      "bbox": [
+        0.6556451612903226,
+        0.23343465045592704,
+        0.7056920091018606,
+        0.2490526625872019
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "7579"
+    },
+    {
+      "bbox": [
+        0.0913766564047651,
+        0.2188449848024316,
+        0.12258064516129032,
+        0.2324491517480551
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.0869729621201981,
+        0.21709422492401217,
+        0.3688093963324856,
+        0.2922217907689835
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 GRANDVIEW AVENUE\nGREAT NECK, NY\n11020.1510\nYVONNE PENDARVIS/RUSS TILLMAN"
+    },
+    {
+      "bbox": [
+        0.734316021951546,
+        0.8276850153314677,
+        0.8234908312140277,
+        0.8401376484608277
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "32,577.25"
+    },
+    {
+      "bbox": [
+        0.7332150983804042,
+        0.8716843190552067,
+        0.8179862133583188,
+        0.8874576543523961
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "32,577.25"
+    },
+    {
+      "bbox": [
+        0.12419354838709677,
+        0.8525902815901879,
+        0.24220318565118457,
+        0.8717325227963526
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.4486322188449848,
+        0.2846774193548387,
+        0.4729483282674772
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "FIRST 50% EDITORIAL"
+    },
+    {
+      "bbox": [
+        0.7459677419354839,
+        0.4486322188449848,
+        0.8387096774193549,
+        0.4729483282674772
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "32,577.25"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 39,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rlxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.4486322188449848,
+          0.8387096774193549,
+          0.4729483282674772
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08225806451612903,
+            "right": 0.2846774193548387
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7459677419354839,
+            "right": 0.8387096774193549
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4729483282674772,
+            "row_type": "data",
+            "top": 0.4486322188449848
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,283 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7337279744149574,
+        0.2721840536833494,
+        0.7985946677327102,
+        0.28696112139645596
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1102193"
+    },
+    {
+      "bbox": [
+        0.7331160244779975,
+        0.2888678398110504,
+        0.8163412159045481,
+        0.3031682279205083
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/07/2001"
+    },
+    {
+      "bbox": [
+        0.0550754943263938,
+        0.14681731792376818,
+        0.3084227682278053,
+        0.1658845020697121
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MCDERMOTT, WILL & EMERY"
+    },
+    {
+      "bbox": [
+        0.5990989882837726,
+        0.14014380347268782,
+        0.781460069497832,
+        0.20497222956889713
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "227 West Monroe Street\nSuite 4400\nChicago, IL 60606-5096\n312-372-2000"
+    },
+    {
+      "bbox": [
+        0.0764937421199914,
+        0.7917648216603212,
+        0.2759894215689289,
+        0.8179821998609942
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "McDermott, Will & Emery\nHarris Concentration Account"
+    },
+    {
+      "bbox": [
+        0.4681417017743473,
+        0.790811462453024,
+        0.6609059319167256,
+        0.8203655978792371
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "McDermott, Will & Emery\nHarris Trust & Savings Bank"
+    },
+    {
+      "bbox": [
+        0.4681417017743473,
+        0.7911225968089736,
+        0.6612006836462727,
+        0.8470596556835586
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "McDermott, Will & Emery\nHarris Trust & Savings Bank\nP.O. Box 95003\nChicago, IL 60694"
+    },
+    {
+      "bbox": [
+        0.4748731510809066,
+        0.8780438299207175,
+        0.5519788431378578,
+        0.890437499615581
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "36-1453176"
+    },
+    {
+      "bbox": [
+        0.7325040745410376,
+        0.2569303063665943,
+        0.7900273686152711,
+        0.27170737407970086
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "041537"
+    },
+    {
+      "bbox": [
+        0.06303084350687291,
+        0.24072319984254198,
+        0.3206617669670039,
+        0.30507494633510274
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJ. Reynolds Tobacco Company\nBrown & Williamson Tobacco Co.\nPhilip Morris Incorporated\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.7331160244779975,
+        0.5300677192572409,
+        0.745966973154156,
+        0.545321466573996
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7325040745410376,
+        0.5300677192572409,
+        0.8322519142655064,
+        0.5457981461776447
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 72,267.90"
+    },
+    {
+      "bbox": [
+        0.7318921246040776,
+        0.5300677192572409,
+        0.8316399643285464,
+        0.5464824120603015
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 72,267.90"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06048387096774191,
+        0.4667085427135678,
+        0.5096774193548387,
+        0.48304020100502515
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Services"
+    },
+    {
+      "bbox": [
+        0.7411290322580645,
+        0.4667085427135678,
+        0.7540322580645161,
+        0.48304020100502515
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7540322580645161,
+        0.4667085427135678,
+        0.8330645161290322,
+        0.48304020100502515
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "39,396.25"
+    },
+    {
+      "bbox": [
+        0.06048387096774191,
+        0.4981155778894472,
+        0.5096774193548387,
+        0.5144472361809045
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Total Costs and Other Charges Posted Through Billing Period"
+    },
+    {
+      "bbox": [
+        0.7540322580645161,
+        0.4981155778894472,
+        0.8330645161290322,
+        0.5144472361809045
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "32,871.65"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 750,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rgmx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1735,
+        2228
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06048387096774191,
+          0.4667085427135678,
+          0.8330645161290322,
+          0.5489949748743719
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06048387096774191,
+            "right": 0.5096774193548387
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.7411290322580645,
+            "right": 0.7540322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7540322580645161,
+            "right": 0.8330645161290322
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.48304020100502515,
+            "row_type": "data",
+            "top": 0.4667085427135678
+          },
+          {
+            "bottom": 0.4981155778894472,
+            "row_type": "gap",
+            "top": 0.48304020100502515
+          },
+          {
+            "bottom": 0.5144472361809045,
+            "row_type": "data",
+            "top": 0.4981155778894472
+          },
+          {
+            "bottom": 0.5301507537688442,
+            "row_type": "gap",
+            "top": 0.5144472361809045
+          },
+          {
+            "bottom": 0.5489949748743719,
+            "row_type": "footer",
+            "top": 0.5301507537688442
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

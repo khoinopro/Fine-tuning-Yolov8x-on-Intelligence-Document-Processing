@@ -1,0 +1,317 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6346270960918443,
+        0.13999031149895438,
+        0.6854233124648164,
+        0.15228686150560672
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "16713-1"
+    },
+    {
+      "bbox": [
+        0.800316865969533,
+        0.13999031149895438,
+        0.8648329950017912,
+        0.1517580876809345
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "6/30/2020"
+    },
+    {
+      "bbox": [
+        0.3898329950017912,
+        0.06408056466221589,
+        0.5670817625083161,
+        0.0766722045774756
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KMOZ 92.3 The Moose"
+    },
+    {
+      "bbox": [
+        0.3885433547704747,
+        0.06292408513599722,
+        0.5684498729124375,
+        0.1057547649344491
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KMOZ 92.3 The Moose\n1360 E. Sherwood Drive\nGrand Junction, CO 81501"
+    },
+    {
+      "bbox": [
+        0.04583169853806656,
+        0.17132271919380757,
+        0.20590061582026917,
+        0.1845420648106137
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Friends of JJ Fletcher"
+    },
+    {
+      "bbox": [
+        0.04583169853806656,
+        0.17132271919380757,
+        0.20658467102232989,
+        0.21732604194029292
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Friends of JJ Fletcher\n631-Aldrea Vista Ct.\nPalisade, CO 81526"
+    },
+    {
+      "bbox": [
+        0.8092373040378021,
+        0.15757459975232918,
+        0.8194981320687126,
+        0.17026517154446305
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8763681104041215,
+        0.90361135465031,
+        0.9231423039525086,
+        0.9163650381570014
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$66.00"
+    },
+    {
+      "bbox": [
+        0.807258064516129,
+        0.1571072319201995,
+        0.8540322580645161,
+        0.1686788500704463
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$66.00"
+    },
+    {
+      "bbox": [
+        0.7774193548387097,
+        0.17206982543640897,
+        0.8387096774193549,
+        0.18703241895261846
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06290322580645161,
+        0.5124688279301746,
+        0.125,
+        0.5311720698254364
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6/26/2020"
+    },
+    {
+      "bbox": [
+        0.7475806451612903,
+        0.5124688279301746,
+        0.7629032258064516,
+        0.5311720698254364
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6"
+    },
+    {
+      "bbox": [
+        0.8016129032258065,
+        0.5124688279301746,
+        0.8354838709677419,
+        0.5311720698254364
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11.00"
+    },
+    {
+      "bbox": [
+        0.8870967741935484,
+        0.5124688279301746,
+        0.9338709677419355,
+        0.5311720698254364
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "66.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07932055065590836,
+        0.38313245613735836,
+        0.11013288753177188,
+        0.3960515946795119
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.7380955630234899,
+        0.38154613466334164,
+        0.7629032258064516,
+        0.3983790523690773
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Qty"
+    },
+    {
+      "bbox": [
+        0.805132972825438,
+        0.3828322490627058,
+        0.8354838709677419,
+        0.3960515946795119
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.8884648845976699,
+        0.3836612299620306,
+        0.9207383019736954,
+        0.39499404703016744
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 835,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "0b6413be-a04f-49f2-acbc-a315d60da65a",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0467741935483871,
+          0.38154613466334164,
+          0.9338709677419355,
+          0.5679551122194514
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.06290322580645161,
+            "right": 0.125
+          },
+          {
+            "column_type": "",
+            "left": 0.16451612903225807,
+            "right": 0.18548387096774194
+          },
+          {
+            "column_type": "",
+            "left": 0.19032258064516128,
+            "right": 0.26370967741935486
+          },
+          {
+            "column_type": "",
+            "left": 0.2887096774193548,
+            "right": 0.36129032258064514
+          },
+          {
+            "column_type": "",
+            "left": 0.3879032258064516,
+            "right": 0.4685483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.4838709677419355,
+            "right": 0.5596774193548387
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7475806451612903,
+            "right": 0.7629032258064516
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.8016129032258065,
+            "right": 0.8354838709677419
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8870967741935484,
+            "right": 0.9338709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3983790523690773,
+            "row_type": "header",
+            "top": 0.38154613466334164
+          },
+          {
+            "bottom": 0.5124688279301746,
+            "row_type": "gap-with-text",
+            "top": 0.3983790523690773
+          },
+          {
+            "bottom": 0.5311720698254364,
+            "row_type": "data",
+            "top": 0.5124688279301746
+          },
+          {
+            "bottom": 0.5492518703241895,
+            "row_type": "up-merge",
+            "top": 0.5311720698254364
+          },
+          {
+            "bottom": 0.5679551122194514,
+            "row_type": "footer",
+            "top": 0.5492518703241895
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

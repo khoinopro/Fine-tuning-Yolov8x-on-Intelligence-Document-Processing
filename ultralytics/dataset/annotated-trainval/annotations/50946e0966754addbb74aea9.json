@@ -1,0 +1,534 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7739627214495931,
+        0.19589879283753153,
+        0.8299368111258583,
+        0.21110554844592438
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "814-1505-1"
+    },
+    {
+      "bbox": [
+        0.8835247273356801,
+        0.2836261908231414,
+        0.9349746090368746,
+        0.2987680219531303
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/31/2014"
+    },
+    {
+      "bbox": [
+        0.37868601765826077,
+        0.1959435185893209,
+        0.4097856194817935,
+        0.21021103341013658
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "34293"
+    },
+    {
+      "bbox": [
+        0.12211899128628306,
+        0.041156348243360036,
+        0.2031652143805182,
+        0.05545993221884454
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WFVX FOX 22"
+    },
+    {
+      "bbox": [
+        0.12231375151480177,
+        0.042042206682027315,
+        0.3158044318772001,
+        0.09213504868614497
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WFVX FOX 22\n371 TARGET INDUSTRIAL CIRCLE\nBANGOR, ME 04401"
+    },
+    {
+      "bbox": [
+        0.6516114605574471,
+        0.04026183320757222,
+        0.8250995441167983,
+        0.07424474797038867
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ATTN ACCOUNTS RECEIVABLE\nWFVX FOX 22"
+    },
+    {
+      "bbox": [
+        0.6495758555023371,
+        0.042042206682027315,
+        0.8437575740088868,
+        0.10823631933032564
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "ATTN ACCOUNTS RECEIVABLE\nWFVX FOX 22\n371 TARGET INDUSTRIAL CIRCLE\nBANGOR, ME 04401"
+    },
+    {
+      "bbox": [
+        0.06012031854117376,
+        0.17353591694283615,
+        0.19901898551560965,
+        0.20573845823119752
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "ATTN ACCOUNTS PAYABLE\nBUYING TIME LLC"
+    },
+    {
+      "bbox": [
+        0.05873824225287091,
+        0.17353591694283615,
+        0.22596947313751514,
+        0.25493678519952734
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "ATTN ACCOUNTS PAYABLE\nBUYING TIME LLC\n650 MASSACHUSETTS AVE NW\nSUITE 210\nWASHINGTON, DC 20016-0181"
+    },
+    {
+      "bbox": [
+        0.7304273183680535,
+        0.7460255398470379,
+        0.739410814242022,
+        0.7612322954554308
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7306451612903225,
+        0.7442365097754623,
+        0.7767268740261989,
+        0.7612322954554308
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$165.75"
+    },
+    {
+      "bbox": [
+        0.7298387096774194,
+        0.7451310248112502,
+        0.7766129032258065,
+        0.7640918580375783
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$165.75"
+    },
+    {
+      "bbox": [
+        0.0777641525766057,
+        0.8338784584908954,
+        0.11609440821743898,
+        0.8488947689626366
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03306451612903226,
+        0.3705636743215031,
+        0.041935483870967745,
+        0.3903966597077244
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.05161290322580645,
+        0.3705636743215031,
+        0.07903225806451612,
+        0.3903966597077244
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8/19"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.3705636743215031,
+        0.11370967741935484,
+        0.3903966597077244
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8/21"
+    },
+    {
+      "bbox": [
+        0.27903225806451615,
+        0.3705636743215031,
+        0.3758064516129032,
+        0.3903966597077244
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "FOX 22 NEWS AT 10"
+    },
+    {
+      "bbox": [
+        0.6048387096774194,
+        0.3903966597077244,
+        0.682258064516129,
+        0.4112734864300626
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "DML14CFM101H"
+    },
+    {
+      "bbox": [
+        0.7475806451612903,
+        0.3903966597077244,
+        0.7814516129032258,
+        0.4112734864300626
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$65.00"
+    },
+    {
+      "bbox": [
+        0.6048387096774194,
+        0.4112734864300626,
+        0.682258064516129,
+        0.4290187891440501
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "DEBATE"
+    },
+    {
+      "bbox": [
+        0.7475806451612903,
+        0.4112734864300626,
+        0.7814516129032258,
+        0.4290187891440501
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$65.00"
+    },
+    {
+      "bbox": [
+        0.03306451612903226,
+        0.4290187891440501,
+        0.041935483870967745,
+        0.4519832985386221
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.05161290322580645,
+        0.4290187891440501,
+        0.07903225806451612,
+        0.4519832985386221
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "8/25"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.4290187891440501,
+        0.11370967741935484,
+        0.4519832985386221
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "8/25"
+    },
+    {
+      "bbox": [
+        0.27903225806451615,
+        0.4290187891440501,
+        0.3758064516129032,
+        0.4519832985386221
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "FOX 22 NEWS AT 10"
+    },
+    {
+      "bbox": [
+        0.6048387096774194,
+        0.4519832985386221,
+        0.682258064516129,
+        0.47494780793319413
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "DEBATE"
+    },
+    {
+      "bbox": [
+        0.7475806451612903,
+        0.4519832985386221,
+        0.7814516129032258,
+        0.47494780793319413
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$65.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.029023602054359745,
+        0.3470718338856723,
+        0.04491747936984246,
+        0.3667511646730042
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "L#"
+    },
+    {
+      "bbox": [
+        0.052518898955508105,
+        0.3488608639572479,
+        0.07877834843326216,
+        0.3667511646730042
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Start"
+    },
+    {
+      "bbox": [
+        0.08983495873968492,
+        0.34975537899303577,
+        0.11194817935253043,
+        0.3658566496372164
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "End"
+    },
+    {
+      "bbox": [
+        0.2812525246696289,
+        0.3479663489214601,
+        0.3289341566160771,
+        0.3658566496372164
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Program"
+    },
+    {
+      "bbox": [
+        0.6039673379883432,
+        0.3470718338856723,
+        0.6419744359166715,
+        0.3676456797087921
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Copy#"
+    },
+    {
+      "bbox": [
+        0.7511584626925962,
+        0.34975537899303577,
+        0.7767268740261989,
+        0.3658566496372164
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Cost"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 535,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "37b877c9-f535-522c-d4f3-00cfd050e373",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.025806451612903226,
+          0.3162839248434238,
+          0.975,
+          0.9530271398747391
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.03306451612903226,
+            "right": 0.041935483870967745
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.05161290322580645,
+            "right": 0.07903225806451612
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.08629032258064516,
+            "right": 0.11370967741935484
+          },
+          {
+            "column_type": "",
+            "left": 0.11370967741935484,
+            "right": 0.19193548387096773
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.27903225806451615,
+            "right": 0.3758064516129032
+          },
+          {
+            "column_type": "",
+            "left": 0.4443548387096774,
+            "right": 0.4693548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.4846774193548387,
+            "right": 0.5
+          },
+          {
+            "column_type": "",
+            "left": 0.5,
+            "right": 0.5629032258064516
+          },
+          {
+            "column_type": "",
+            "left": 0.5806451612903226,
+            "right": 0.6
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.6048387096774194,
+            "right": 0.682258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7475806451612903,
+            "right": 0.7814516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3705636743215031,
+            "row_type": "header",
+            "top": 0.3162839248434238
+          },
+          {
+            "bottom": 0.3903966597077244,
+            "row_type": "data",
+            "top": 0.3705636743215031
+          },
+          {
+            "bottom": 0.4112734864300626,
+            "row_type": "data",
+            "top": 0.3903966597077244
+          },
+          {
+            "bottom": 0.4290187891440501,
+            "row_type": "data",
+            "top": 0.4112734864300626
+          },
+          {
+            "bottom": 0.4519832985386221,
+            "row_type": "data",
+            "top": 0.4290187891440501
+          },
+          {
+            "bottom": 0.47494780793319413,
+            "row_type": "data",
+            "top": 0.4519832985386221
+          },
+          {
+            "bottom": 0.6993736951983298,
+            "row_type": "gap",
+            "top": 0.47494780793319413
+          },
+          {
+            "bottom": 0.7609603340292276,
+            "row_type": "footer",
+            "top": 0.6993736951983298
+          },
+          {
+            "bottom": 0.8308977035490606,
+            "row_type": "gap",
+            "top": 0.7609603340292276
+          },
+          {
+            "bottom": 0.8736951983298539,
+            "row_type": "gap-with-text",
+            "top": 0.8308977035490606
+          },
+          {
+            "bottom": 0.9530271398747391,
+            "row_type": "gap",
+            "top": 0.8736951983298539
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

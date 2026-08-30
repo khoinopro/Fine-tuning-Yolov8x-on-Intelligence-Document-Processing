@@ -1,0 +1,229 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.19108611763413397,
+        0.15750821184923156,
+        0.21311333580521571,
+        0.1698534500752524
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59"
+    },
+    {
+      "bbox": [
+        0.18943407627130285,
+        0.18262438617113605,
+        0.26818138123292,
+        0.19667241587660803
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/17/2004"
+    },
+    {
+      "bbox": [
+        0.1905354371798569,
+        0.20901765410262887,
+        0.2478062044246694,
+        0.22443890274314215
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "Eclipse"
+    },
+    {
+      "bbox": [
+        0.21641741853087795,
+        0.7947779230338251,
+        0.4693548387096774,
+        0.8237253781844946
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Beverage and Food Group, Inc.\nd/b/a BFG Communications"
+    },
+    {
+      "bbox": [
+        0.21641741853087795,
+        0.794747058482385,
+        0.4692618686136368,
+        0.855227020554341
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Beverage and Food Group, Inc.\nd/b/a BFG Communications\nP.O. Box 23199\nHilton Head lsland, SC 29925"
+    },
+    {
+      "bbox": [
+        0.809561744292636,
+        0.8085756736767007,
+        0.9014579422934217,
+        0.8221026611075113
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "14-1779052"
+    },
+    {
+      "bbox": [
+        0.07819662450734012,
+        0.252864534698496,
+        0.33371235529188814,
+        0.2809605941094401
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company\nAttn: Michelle Hinshaw"
+    },
+    {
+      "bbox": [
+        0.07819662450734012,
+        0.2527538881933334,
+        0.33450299380767984,
+        0.3107825362228724
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company\nAttn: Michelle Hinshaw\n401 N Main Street\nWinston-Salem, NC 27101"
+    },
+    {
+      "bbox": [
+        0.80454414369876,
+        0.7513567403078207,
+        0.8155577527843009,
+        0.7637019785338416
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8032258064516129,
+        0.7513567403078207,
+        0.8921023359288098,
+        0.7654047700132928
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$24,855.27"
+    },
+    {
+      "bbox": [
+        0.80454414369876,
+        0.7513567403078207,
+        0.8915516554745329,
+        0.7654047700132928
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$24,855.27"
+    },
+    {
+      "bbox": [
+        0.1315576647236549,
+        0.897496161676592,
+        0.23190862758262887,
+        0.9119443888667814
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 10 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07338709677419354,
+        0.4975062344139651,
+        0.3056451612903226,
+        0.5155860349127181
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Total Reimbursable Expenses"
+    },
+    {
+      "bbox": [
+        0.8104838709677419,
+        0.4975062344139651,
+        0.8911290322580645,
+        0.5155860349127181
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "24,855.27"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07614256405779388,
+        0.478066267023533,
+        0.17504037714435375,
+        0.4922696038258841
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1041,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "phxh0229",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07338709677419354,
+          0.4713216957605985,
+          0.910483870967742,
+          0.5155860349127181
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07338709677419354,
+            "right": 0.3056451612903226
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8104838709677419,
+            "right": 0.8911290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4975062344139651,
+            "row_type": "header",
+            "top": 0.4713216957605985
+          },
+          {
+            "bottom": 0.5155860349127181,
+            "row_type": "data",
+            "top": 0.4975062344139651
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7321174948441573,
+        0.2659404255319149,
+        0.8217318767267209,
+        0.281619452887538
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "PM02/00-2"
+    },
+    {
+      "bbox": [
+        0.2288367251644033,
+        0.2653373860182371,
+        0.37205971049457176,
+        0.2822224924012158
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 14, 2000"
+    },
+    {
+      "bbox": [
+        0.25604109109303863,
+        0.45589787234042556,
+        0.32085149227596405,
+        0.4685617021276596
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "MOM-1"
+    },
+    {
+      "bbox": [
+        0.2640423751896961,
+        0.44082188449848025,
+        0.31365033658897234,
+        0.4540887537993921
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "MOM"
+    },
+    {
+      "bbox": [
+        0.39846394801354135,
+        0.8412401215805471,
+        0.5864941242849916,
+        0.8563161094224925
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Element 104 Productions, Inc"
+    },
+    {
+      "bbox": [
+        0.23203723880306626,
+        0.8429972681799094,
+        0.5860346691054207,
+        0.870186018237082
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Elemenr 104 Producions, Inc\n89 Fifth Avenue Suute 602 New York, NY 10003 PH 212"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.6545993920972645,
+        0.5704915560916767,
+        0.672087537993921
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Element 104 Productions, Inc."
+    },
+    {
+      "bbox": [
+        0.15682516829448617,
+        0.3125252279635259,
+        0.19363107513911046,
+        0.32760121580547114
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.15522738609910208,
+        0.31245036361897555,
+        0.3344536752402817,
+        0.3915234042553192
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 Grandview Avenue\nGreat Neck, NY 11020\nAttn: Russ Tillman"
+    },
+    {
+      "bbox": [
+        0.6048970777073037,
+        0.6071100303951368,
+        0.6144986186232927,
+        0.6239951367781155
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6024193548387097,
+        0.6071100303951368,
+        0.6905108175415385,
+        0.6233920972644377
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$77,187.75"
+    },
+    {
+      "bbox": [
+        0.6016965640686408,
+        0.6083161094224924,
+        0.6905108175415385,
+        0.6233920972644377
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$77,187.75"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15645161290322582,
+        0.5446808510638298,
+        0.3241935483870968,
+        0.5592705167173252
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Production Cost"
+    },
+    {
+      "bbox": [
+        0.6,
+        0.5446808510638298,
+        0.6741935483870968,
+        0.5592705167173252
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$308,751"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 656,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pmjd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15645161290322582,
+          0.5446808510638298,
+          0.6959677419354838,
+          0.6267477203647417
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15645161290322582,
+            "right": 0.3241935483870968
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6,
+            "right": 0.6741935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5592705167173252,
+            "row_type": "data",
+            "top": 0.5446808510638298
+          },
+          {
+            "bottom": 0.6072948328267477,
+            "row_type": "gap",
+            "top": 0.5592705167173252
+          },
+          {
+            "bottom": 0.6267477203647417,
+            "row_type": "footer",
+            "top": 0.6072948328267477
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

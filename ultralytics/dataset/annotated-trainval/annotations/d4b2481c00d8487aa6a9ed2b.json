@@ -1,0 +1,159 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4304611163164235,
+        0.2299586251221831,
+        0.5515627091420158,
+        0.24437689969604864
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 1999"
+    },
+    {
+      "bbox": [
+        0.3456900013385089,
+        0.9281362559083057,
+        0.6407375184044973,
+        0.9414190645796232
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Pennsylvania Distributors Association, Inc."
+    },
+    {
+      "bbox": [
+        0.23669856779547588,
+        0.11290387370619819,
+        0.5834894927051265,
+        0.12867720900338764
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Suite 408, 212 Locust St., Harrisburg, PA 17101"
+    },
+    {
+      "bbox": [
+        0.2950475170659885,
+        0.78949694040143,
+        0.6880772319635926,
+        0.8061004512405767
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PENNSYL VANIA DISTRIBUTORS ASSN., INC."
+    },
+    {
+      "bbox": [
+        0.2944472547569944,
+        0.7914893617021277,
+        0.6865101754932099,
+        0.8401376484608277
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PENNSYLVANIA DISTRIBUTORS ASSN., INC.\n212 LOCUST STREET, SUITE 408\nHARRISBURG, PA 17101"
+    },
+    {
+      "bbox": [
+        0.12000066925445055,
+        0.29544072948328265,
+        0.3412863070539419,
+        0.33124004124097856
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Michael Shannon\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.12220251639673403,
+        0.2966954407294833,
+        0.3408547025176077,
+        0.3619565362934001
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Michael Shannon\nLorillard Tobacco Company\n714 Green Valley Road\nGreensboro. NC 27408"
+    },
+    {
+      "bbox": [
+        0.5735811805648507,
+        0.523010591433124,
+        0.5867922634185517,
+        0.5371235756463988
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5725806451612904,
+        0.5221804158911666,
+        0.6517467541159149,
+        0.5379537511883561
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,000.00"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.5213502403492093,
+        0.6495449069736313,
+        0.5398176291793313
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,000.00"
+    }
+  ],
+  "line_item_extractions": [],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 114,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hxmx0095",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2467741935483871,
+          0.5288753799392097,
+          0.6556451612903226,
+          0.5446808510638298
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2467741935483871,
+            "right": 0.6556451612903226
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5446808510638298,
+            "row_type": "data",
+            "top": 0.5288753799392097
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.20403274446476516,
+        0.3865483282674772,
+        0.3528566286625939,
+        0.4012158054711246
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "5A 0193267801"
+    },
+    {
+      "bbox": [
+        0.19203081831977897,
+        0.4012158054711246,
+        0.3080494377213121,
+        0.41579574468085106
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "08-23-2001"
+    },
+    {
+      "bbox": [
+        0.05760924549593369,
+        0.25810091185410333,
+        0.27444404451535076,
+        0.2844984802431611
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P. 0. BOX 2955\nWinston-Salem, North Carolina 27102"
+    },
+    {
+      "bbox": [
+        0.4736760185221215,
+        0.3557933130699088,
+        0.7985281528464142,
+        0.38662613981762917
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "COUNCIL FOR TOBACCO RESEARCH\nUSA INC"
+    },
+    {
+      "bbox": [
+        0.47447614693178725,
+        0.3544573336199555,
+        0.7985946714567145,
+        0.4179063829787234
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "COUNCIL FOR TOBACCO RESEARCH\nUSA INC\n122 E 42ND ST STE 2518\nNEW YORK, NY 10168"
+    },
+    {
+      "bbox": [
+        0.8601380403906767,
+        0.8038516717325228,
+        0.9481521654539086,
+        0.8177215805471125
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "151,958.00"
+    },
+    {
+      "bbox": [
+        0.8609381688003425,
+        0.8038516717325228,
+        0.9481521654539086,
+        0.8171185410334347
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "151,958.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16532258064516128,
+        0.5148936170212766,
+        0.2524193548387097,
+        0.5282674772036474
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "151,958.00"
+    },
+    {
+      "bbox": [
+        0.2806451612903226,
+        0.5148936170212766,
+        0.36935483870967745,
+        0.5282674772036474
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "151,958.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2064331296937624,
+        0.49361702127659574,
+        0.2524193548387097,
+        0.5054978723404255
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS"
+    },
+    {
+      "bbox": [
+        0.2806451612903226,
+        0.4940401215805471,
+        0.36805906844624303,
+        0.505775075987842
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 395,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jpdl0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.021774193548387097,
+          0.49361702127659574,
+          0.95,
+          0.8200607902735563
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.021774193548387097,
+            "right": 0.09435483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.16532258064516128,
+            "right": 0.2524193548387097
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.2806451612903226,
+            "right": 0.36935483870967745
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.505775075987842,
+            "row_type": "header",
+            "top": 0.49361702127659574
+          },
+          {
+            "bottom": 0.5148936170212766,
+            "row_type": "gap",
+            "top": 0.505775075987842
+          },
+          {
+            "bottom": 0.5282674772036474,
+            "row_type": "data",
+            "top": 0.5148936170212766
+          },
+          {
+            "bottom": 0.8036474164133739,
+            "row_type": "gap",
+            "top": 0.5282674772036474
+          },
+          {
+            "bottom": 0.8200607902735563,
+            "row_type": "footer",
+            "top": 0.8036474164133739
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

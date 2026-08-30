@@ -1,0 +1,200 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7169156897300335,
+        0.10852372471208123,
+        0.7456657216560673,
+        0.12119802832809072
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "20397"
+    },
+    {
+      "bbox": [
+        0.7169156897300335,
+        0.14496234760810847,
+        0.7524193548387097,
+        0.16001308315211976
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/30/22"
+    },
+    {
+      "bbox": [
+        0.04637746186180513,
+        0.16252751301259222,
+        0.1764605865961366,
+        0.18083016087437062
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Alliance for a Better MN Educa"
+    },
+    {
+      "bbox": [
+        0.04524630425541964,
+        0.16289356596982776,
+        0.17759174420252208,
+        0.23903258107482592
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Alliance for a Better MN Educa\nAttn: Marissa Luna\n1600 University Ave W #309\nSt. Paul MN 55104"
+    },
+    {
+      "bbox": [
+        0.07691871723421338,
+        0.6343697748892394,
+        0.11481249704812733,
+        0.6519403168365466
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Learfield"
+    },
+    {
+      "bbox": [
+        0.07804987484059887,
+        0.6343697748892394,
+        0.30032234449534784,
+        0.6519403168365466
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Learfield, 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.453027139874739,
+        0.868006283043445,
+        0.47211780969635336
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3359538090964908,
+        0.45134329627145536,
+        0.38855263779341614,
+        0.47257436779111833
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$17,408.00"
+    },
+    {
+      "bbox": [
+        0.8612775521671392,
+        0.4538984982483397,
+        0.9096020739151535,
+        0.4713256657203527
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$17,408.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04032258064516129,
+        0.3288100208768267,
+        0.13629032258064516,
+        0.3465553235908142
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Minnesota News Network"
+    },
+    {
+      "bbox": [
+        0.9250041326217352,
+        0.34921452120273194,
+        0.9414059179143248,
+        0.3653208513210969
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "32"
+    },
+    {
+      "bbox": [
+        0.8814545647758938,
+        0.34921452120273194,
+        0.9108646625419166,
+        0.36678506315003917
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "17,408"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "44adbc67-c38f-4ac1-bb37-000e5a42f8c2",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04032258064516129,
+          0.29227557411273486,
+          0.9451612903225807,
+          0.477035490605428
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04032258064516129,
+            "right": 0.13629032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3288100208768267,
+            "row_type": "header",
+            "top": 0.29227557411273486
+          },
+          {
+            "bottom": 0.3465553235908142,
+            "row_type": "data",
+            "top": 0.3288100208768267
+          },
+          {
+            "bottom": 0.3653444676409186,
+            "row_type": "up-merge",
+            "top": 0.3465553235908142
+          },
+          {
+            "bottom": 0.477035490605428,
+            "row_type": "footer",
+            "top": 0.3653444676409186
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

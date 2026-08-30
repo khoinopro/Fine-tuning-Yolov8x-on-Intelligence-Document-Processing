@@ -1,0 +1,166 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.17130958112662495,
+        0.2490300203935174,
+        0.28452286952335104,
+        0.26454776881827824
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 9, 1999"
+    },
+    {
+      "bbox": [
+        0.29048146364949445,
+        0.06669647640257775,
+        0.6636384207992297,
+        0.10250666507510273
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The NNPA Foundation"
+    },
+    {
+      "bbox": [
+        0.28750216658642275,
+        0.10489401098660439,
+        0.5779836302359171,
+        0.11981492293348979
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "3200 13th Street NW, Washington, DC 20010"
+    },
+    {
+      "bbox": [
+        0.16758545979778527,
+        0.2988658662961146,
+        0.3210192585459798,
+        0.3155772876766263
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip-Morris USA"
+    },
+    {
+      "bbox": [
+        0.16684063553201733,
+        0.2988658662961146,
+        0.3478329321136254,
+        0.3519843128270267
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip-Morris USA\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.75,
+        0.47194844487998533,
+        0.8453755416466058,
+        0.488659866260497
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$10,000.00"
+    },
+    {
+      "bbox": [
+        0.7483870967741936,
+        0.47075477192423454,
+        0.8461203659123737,
+        0.4892567027383724
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$10,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16612903225806452,
+        0.43826761473820297,
+        0.5911290322580646,
+        0.4550743374272786
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Third payment as indicated in contract with NNPA"
+    },
+    {
+      "bbox": [
+        0.7459677419354839,
+        0.43826761473820297,
+        0.8467741935483871,
+        0.4550743374272786
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$10,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 854,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tkmn0009",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.16612903225806452,
+          0.43826761473820297,
+          0.8467741935483871,
+          0.49385908209437623
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.16612903225806452,
+            "right": 0.5911290322580646
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7459677419354839,
+            "right": 0.8467741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4550743374272786,
+            "row_type": "data",
+            "top": 0.43826761473820297
+          },
+          {
+            "bottom": 0.46994182288299935,
+            "row_type": "gap",
+            "top": 0.4550743374272786
+          },
+          {
+            "bottom": 0.49385908209437623,
+            "row_type": "footer",
+            "top": 0.46994182288299935
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

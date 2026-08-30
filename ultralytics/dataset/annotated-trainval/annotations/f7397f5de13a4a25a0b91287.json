@@ -1,0 +1,297 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7606693846914928,
+        0.23741944727783826,
+        0.7989764760068917,
+        0.2485236975959554
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7939"
+    },
+    {
+      "bbox": [
+        0.7634056054997356,
+        0.25486898349202236,
+        0.8427560089387762,
+        0.2659732338101395
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05/13/2021"
+    },
+    {
+      "bbox": [
+        0.07387796182255506,
+        0.2559265311413669,
+        0.11423721874413606,
+        0.2686171029335007
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KLMI"
+    },
+    {
+      "bbox": [
+        0.06840552020606949,
+        0.04970473951919108,
+        0.33245082820149774,
+        0.06239531131132497
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Neighborhood Research and Media"
+    },
+    {
+      "bbox": [
+        0.06977363061019089,
+        0.04864719186984659,
+        0.33108271779737636,
+        0.10046702668772665
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Neighborhood Research and Media\nPO BOX 297\nRODANTHE, NC 27968 US"
+    },
+    {
+      "bbox": [
+        0.34544787704065094,
+        0.25698407879071133,
+        0.5575049896794664,
+        0.28553786532301256
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Neighborhood Research and\nMedia"
+    },
+    {
+      "bbox": [
+        0.3468159874447724,
+        0.2559265311413669,
+        0.5575049896794664,
+        0.3209657115760531
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "Neighborhood Research and\nMedia\nPO BOX 297\nRODANTHE, NC 27968 US"
+    },
+    {
+      "bbox": [
+        0.8666979410109005,
+        0.4647921918869038,
+        0.8762747138397502,
+        0.47801153750371
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8653225806451613,
+        0.4658497395362483,
+        0.9201612903225806,
+        0.47801153750371
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$55.00"
+    },
+    {
+      "bbox": [
+        0.8653225806451613,
+        0.46637851336092057,
+        0.9185483870967742,
+        0.47801153750371
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$55.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22661290322580646,
+        0.415211970074813,
+        0.521774193548387,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "KLMI Rock River 6A-9A 5/14, 17-19, 20"
+    },
+    {
+      "bbox": [
+        0.6975806451612904,
+        0.415211970074813,
+        0.7112903225806452,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5"
+    },
+    {
+      "bbox": [
+        0.7782258064516129,
+        0.415211970074813,
+        0.8209677419354838,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11.00"
+    },
+    {
+      "bbox": [
+        0.8741935483870967,
+        0.415211970074813,
+        0.9185483870967742,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "55.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2291584926903328,
+        0.3923501779068062,
+        0.331766772999437,
+        0.40451197587426785
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6799508708483308,
+        0.3928789517314784,
+        0.7100492997390013,
+        0.40345442822492333
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.780506985551253,
+        0.39182140408213395,
+        0.8209677419354838,
+        0.40523690773067333
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.8537008921717473,
+        0.3923501779068062,
+        0.9193701915695741,
+        0.40451197587426785
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 140,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "7e73d7fb-b43f-4bd3-a94b-b9cf6e9a6a30",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.027419354838709678,
+          0.38965087281795513,
+          0.9725806451612903,
+          0.48067331670822944
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.07822580645161291,
+            "right": 0.14758064516129032
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.22661290322580646,
+            "right": 0.521774193548387
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6975806451612904,
+            "right": 0.7112903225806452
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7782258064516129,
+            "right": 0.8209677419354838
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8741935483870967,
+            "right": 0.9185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40523690773067333,
+            "row_type": "header",
+            "top": 0.38965087281795513
+          },
+          {
+            "bottom": 0.415211970074813,
+            "row_type": "gap",
+            "top": 0.40523690773067333
+          },
+          {
+            "bottom": 0.42830423940149626,
+            "row_type": "data",
+            "top": 0.415211970074813
+          },
+          {
+            "bottom": 0.46508728179551123,
+            "row_type": "gap",
+            "top": 0.42830423940149626
+          },
+          {
+            "bottom": 0.48067331670822944,
+            "row_type": "footer",
+            "top": 0.46508728179551123
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

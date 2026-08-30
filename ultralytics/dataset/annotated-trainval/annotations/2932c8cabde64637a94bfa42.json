@@ -1,0 +1,145 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4939691881251758,
+        0.2851652986623462,
+        0.6211786445988832,
+        0.30384424835638635
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7/07/00"
+    },
+    {
+      "bbox": [
+        0.7269111798497571,
+        0.1367718484630088,
+        0.9152472582653759,
+        0.1515070364072145
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "dabo ch\u00e9 thomas"
+    },
+    {
+      "bbox": [
+        0.7164480643822225,
+        0.13560139543199765,
+        0.9108417359632562,
+        0.19274964786122026
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "dabo ch\u00e9 thomas\n5 orange hts. ave.\nwest orange, n.j."
+    },
+    {
+      "bbox": [
+        0.692768382008329,
+        0.3827109248423336,
+        0.7065356392024532,
+        0.39723899682658703
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.692741935483871,
+        0.3827109248423336,
+        0.7660101902810696,
+        0.39756838905775077
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$200.00"
+    },
+    {
+      "bbox": [
+        0.6935483870967742,
+        0.38312601261331225,
+        0.7649088097055398,
+        0.3976540845975657
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$200.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1282258064516129,
+        0.3829787234042553,
+        0.44193548387096776,
+        0.40364741641337387
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "voice over worktor YSP/Phillip Morris"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.3829787234042553,
+        0.7693548387096775,
+        0.40364741641337387
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$200.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 167,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jpxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1282258064516129,
+          0.3829787234042553,
+          0.7693548387096775,
+          0.40364741641337387
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1282258064516129,
+            "right": 0.44193548387096776
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6911290322580645,
+            "right": 0.7693548387096775
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40364741641337387,
+            "row_type": "data",
+            "top": 0.3829787234042553
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

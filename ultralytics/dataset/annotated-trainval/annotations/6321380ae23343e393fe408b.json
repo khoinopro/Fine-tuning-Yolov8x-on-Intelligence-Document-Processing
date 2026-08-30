@@ -1,0 +1,266 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.648820597702457,
+        0.26247183128099927,
+        0.7420980674605215,
+        0.2765323380765959
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 7, 2000"
+    },
+    {
+      "bbox": [
+        0.12439393439600545,
+        0.18826360097090586,
+        0.47573907048471514,
+        0.2031052470329245
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "New York Association of Convenience Stores"
+    },
+    {
+      "bbox": [
+        0.12439393439600545,
+        0.18709192277834427,
+        0.4758502805049088,
+        0.23903765328833815
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "New York Association of Convenience Stores\n231 Delaware Avenue\nDelmar, NY 12054"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.29762309826999084,
+        0.26431013903310224,
+        0.31367781155015195
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.12335751806536029,
+        0.2975365094507217,
+        0.372097437420199,
+        0.36323879664944186
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris USA\nMr. Raziur Rahman\n5010 Campuswood Dr., Suite 201\nEast Syracuse NY 13057-1265"
+    },
+    {
+      "bbox": [
+        0.7016778305653603,
+        0.7543292261223955,
+        0.7141148265331022,
+        0.7722954292501023
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7008064516129032,
+        0.7543292261223955,
+        0.8040322580645162,
+        0.7732522796352583
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$9,000.00"
+    },
+    {
+      "bbox": [
+        0.7008064516129032,
+        0.7543292261223955,
+        0.8040322580645162,
+        0.7732522796352583
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$9,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12258064516129032,
+        0.5234042553191489,
+        0.5798387096774194,
+        0.5428571428571428
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "C Store 123 Corporate Sponsorship"
+    },
+    {
+      "bbox": [
+        0.7274193548387097,
+        0.5234042553191489,
+        0.807258064516129,
+        0.5428571428571428
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$4,500.00"
+    },
+    {
+      "bbox": [
+        0.12258064516129032,
+        0.6291793313069909,
+        0.5798387096774194,
+        0.6455927051671733
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Outstanding Sponsorship Balance from February Seminar"
+    },
+    {
+      "bbox": [
+        0.7274193548387097,
+        0.6291793313069909,
+        0.807258064516129,
+        0.6455927051671733
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$4,500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2881477146379409,
+        0.473697697762788,
+        0.41873617229923127,
+        0.4869770652919626
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6529662630250377,
+        0.4740159414519583,
+        0.7369159858072958,
+        0.488076448247555
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 628,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "flcm0010",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12258064516129032,
+          0.4729483282674772,
+          0.807258064516129,
+          0.7775075987841945
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12258064516129032,
+            "right": 0.5798387096774194
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7274193548387097,
+            "right": 0.807258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4899696048632219,
+            "row_type": "header",
+            "top": 0.4729483282674772
+          },
+          {
+            "bottom": 0.5234042553191489,
+            "row_type": "gap",
+            "top": 0.4899696048632219
+          },
+          {
+            "bottom": 0.5428571428571428,
+            "row_type": "data",
+            "top": 0.5234042553191489
+          },
+          {
+            "bottom": 0.5598784194528875,
+            "row_type": "gap",
+            "top": 0.5428571428571428
+          },
+          {
+            "bottom": 0.6139817629179332,
+            "row_type": "gap-with-text",
+            "top": 0.5598784194528875
+          },
+          {
+            "bottom": 0.6291793313069909,
+            "row_type": "gap",
+            "top": 0.6139817629179332
+          },
+          {
+            "bottom": 0.6455927051671733,
+            "row_type": "data",
+            "top": 0.6291793313069909
+          },
+          {
+            "bottom": 0.6674772036474164,
+            "row_type": "gap",
+            "top": 0.6455927051671733
+          },
+          {
+            "bottom": 0.7167173252279635,
+            "row_type": "gap-with-text",
+            "top": 0.6674772036474164
+          },
+          {
+            "bottom": 0.7525835866261398,
+            "row_type": "gap",
+            "top": 0.7167173252279635
+          },
+          {
+            "bottom": 0.7775075987841945,
+            "row_type": "footer",
+            "top": 0.7525835866261398
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

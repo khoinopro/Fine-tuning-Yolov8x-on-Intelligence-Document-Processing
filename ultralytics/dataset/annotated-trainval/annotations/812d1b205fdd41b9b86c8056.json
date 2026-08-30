@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.22089956647398842,
+        0.27538626006526173,
+        0.2860496690285288,
+        0.29128782888792776
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "0130898"
+    },
+    {
+      "bbox": [
+        0.11095876841320156,
+        0.06360627529066414,
+        0.2901215504381876,
+        0.09396381577029929
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "640 N. LaSalle Suite 350\nChicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.6331775592019392,
+        0.19949240886617386,
+        0.6881479582323327,
+        0.213948380523143
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "Camel"
+    },
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.1648540354894104,
+        0.3226966017154578,
+        0.17997684712926557
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Cleveland Free Times"
+    },
+    {
+      "bbox": [
+        0.6321595888495245,
+        0.22045356776877906,
+        0.7370105351482379,
+        0.2349095394257482
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Amy Lenihan"
+    },
+    {
+      "bbox": [
+        0.690183898937162,
+        0.6237751769982176,
+        0.7736574678351669,
+        0.6425679401522774
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,455.00"
+    },
+    {
+      "bbox": [
+        0.6912018692895767,
+        0.6244979755810659,
+        0.7736574678351669,
+        0.6425679401522774
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1,455.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04838709677419355,
+        0.32570120206067543,
+        0.19274193548387097,
+        0.34230108757870636
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Cleveland Free Times"
+    },
+    {
+      "bbox": [
+        0.225,
+        0.32570120206067543,
+        0.2693548387096774,
+        0.34230108757870636
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4/7/99"
+    },
+    {
+      "bbox": [
+        0.7096774193548387,
+        0.32570120206067543,
+        0.7685483870967742,
+        0.34230108757870636
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,455.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04838709677419355,
+        0.30791219629344224,
+        0.15574946391944805,
+        0.3230909665332598
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Publication"
+    },
+    {
+      "bbox": [
+        0.2249714478836472,
+        0.3064665991277454,
+        0.2789238765616259,
+        0.3230909665332598
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SSUe"
+    },
+    {
+      "bbox": [
+        0.7197050391571882,
+        0.30574380054489686,
+        0.7706035567779228,
+        0.3223681679504114
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1059,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "nmmw0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1669,
+        2350
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04838709677419355,
+          0.3033772180881511,
+          0.9508064516129032,
+          0.6473955352032055
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04838709677419355,
+            "right": 0.19274193548387097
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.225,
+            "right": 0.2693548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.32016129032258067,
+            "right": 0.3814516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.45564516129032256,
+            "right": 0.5935483870967742
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7096774193548387,
+            "right": 0.7685483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.8169354838709677,
+            "right": 0.9508064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.32570120206067543,
+            "row_type": "header",
+            "top": 0.3033772180881511
+          },
+          {
+            "bottom": 0.34230108757870636,
+            "row_type": "data",
+            "top": 0.32570120206067543
+          },
+          {
+            "bottom": 0.3840870062965083,
+            "row_type": "gap",
+            "top": 0.34230108757870636
+          },
+          {
+            "bottom": 0.44476244991413855,
+            "row_type": "gap-with-text",
+            "top": 0.3840870062965083
+          },
+          {
+            "bottom": 0.5872925014310246,
+            "row_type": "gap",
+            "top": 0.44476244991413855
+          },
+          {
+            "bottom": 0.6239267315397825,
+            "row_type": "gap-with-text",
+            "top": 0.5872925014310246
+          },
+          {
+            "bottom": 0.6473955352032055,
+            "row_type": "footer",
+            "top": 0.6239267315397825
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

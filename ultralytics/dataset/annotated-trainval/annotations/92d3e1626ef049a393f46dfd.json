@@ -1,0 +1,170 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4933063804344732,
+        0.14212530149301333,
+        0.5538685476753125,
+        0.15624955505753638
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "209365"
+    },
+    {
+      "bbox": [
+        0.4900029894940638,
+        0.11917338945066334,
+        0.5406549839136748,
+        0.1341804088629691
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "08846"
+    },
+    {
+      "bbox": [
+        0.7146335734419041,
+        0.42990696787017074,
+        0.7278471372035419,
+        0.44756228482582455
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.717741935483871,
+        0.36069812540400775,
+        0.8082296500868377,
+        0.37694101700320926
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$43,510.34"
+    },
+    {
+      "bbox": [
+        0.7190380946957835,
+        0.39459633395886307,
+        0.8082296500868377,
+        0.41225165091451693
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "$36,254.87"
+    },
+    {
+      "bbox": [
+        0.7157347037553741,
+        0.42990696787017074,
+        0.807128519773368,
+        0.4484450506736073
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$20,261.47"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14193548387096774,
+        0.21137685843568196,
+        0.375,
+        0.23076923076923078
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Contest Coordination/Judging"
+    },
+    {
+      "bbox": [
+        0.7153225806451613,
+        0.21137685843568196,
+        0.8080645161290323,
+        0.23076923076923078
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$13,006.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 853,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hxwd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14193548387096774,
+          0.18034906270200388,
+          0.8201612903225807,
+          0.45184227537168714
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14193548387096774,
+            "right": 0.375
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7153225806451613,
+            "right": 0.8080645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.19586296056884292,
+            "row_type": "subsection-header",
+            "top": 0.18034906270200388
+          },
+          {
+            "bottom": 0.21137685843568196,
+            "row_type": "gap",
+            "top": 0.19586296056884292
+          },
+          {
+            "bottom": 0.23076923076923078,
+            "row_type": "data",
+            "top": 0.21137685843568196
+          },
+          {
+            "bottom": 0.286360698125404,
+            "row_type": "up-merge",
+            "top": 0.23076923076923078
+          },
+          {
+            "bottom": 0.32255979314802846,
+            "row_type": "gap",
+            "top": 0.286360698125404
+          },
+          {
+            "bottom": 0.45184227537168714,
+            "row_type": "footer",
+            "top": 0.32255979314802846
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

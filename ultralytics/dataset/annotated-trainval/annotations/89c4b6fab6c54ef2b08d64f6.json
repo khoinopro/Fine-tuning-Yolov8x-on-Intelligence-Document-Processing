@@ -1,0 +1,872 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8105170309847198,
+        0.10142750144359543,
+        0.8727592671194114,
+        0.11403740702847487
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/27/99"
+    },
+    {
+      "bbox": [
+        0.8105170309847198,
+        0.0987119171566343,
+        0.8727592671194114,
+        0.11570787685799354
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "5/27/99"
+    },
+    {
+      "bbox": [
+        0.12516845288624787,
+        0.020833757053279063,
+        0.2462330220713073,
+        0.0334436626381585
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "GMR MARKETING"
+    },
+    {
+      "bbox": [
+        0.1272203947368421,
+        0.020859456589117815,
+        0.24554904145444256,
+        0.03456587570311719
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "GMR MARKETING"
+    },
+    {
+      "bbox": [
+        0.8194087790039616,
+        0.1666700564262325,
+        0.8604476160158461,
+        0.18037647554023187
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "4142"
+    },
+    {
+      "bbox": [
+        0.8187247983870968,
+        0.16559924243295132,
+        0.8611315966327108,
+        0.17985391831151065
+      ],
+      "fieldtype": "customer_id",
+      "page": 1,
+      "text": "4142"
+    },
+    {
+      "bbox": [
+        0.06634611983588003,
+        0.24178123317094913,
+        0.21408593307866444,
+        0.2571324225786284
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Inc."
+    },
+    {
+      "bbox": [
+        0.06224223613469157,
+        0.23851739211942802,
+        0.21203399122807018,
+        0.25832549017045764
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "Philip Morris Inc."
+    },
+    {
+      "bbox": [
+        0.06361019736842105,
+        0.23961390564854795,
+        0.2882856044254897,
+        0.348869345140416
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 1,
+      "text": "Philip Morris Inc.\n120 Park Avenue\nNew York, NY 10017\nAttn: Kathy Strobel"
+    },
+    {
+      "bbox": [
+        0.06361019736842105,
+        0.2395882061127092,
+        0.2879558397000566,
+        0.34923955902470427
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Inc.\n120 Park Avenue\nNew York, NY 10017\nAttn: Kathy Strobel"
+    },
+    {
+      "bbox": [
+        0.8385602362761743,
+        0.8805260634191592,
+        0.9158500459818902,
+        0.8947807392977185
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "19,296.12"
+    },
+    {
+      "bbox": [
+        0.8406121781267686,
+        0.881074320183719,
+        0.9151660653650255,
+        0.8947807392977185
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "19,296.12"
+    },
+    {
+      "bbox": [
+        0.8118849922184495,
+        0.13103336672983412,
+        0.8679714028013582,
+        0.14528804260839345
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30"
+    },
+    {
+      "bbox": [
+        0.8132529534521789,
+        0.13051080950111288,
+        0.871391305885682,
+        0.14421722861511227
+      ],
+      "fieldtype": "payment_terms",
+      "page": 1,
+      "text": "Net 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05725806451612903,
+        0.4738202973497091,
+        0.31290322580645163,
+        0.4919198448610213
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Training"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.4738202973497091,
+        0.9266129032258065,
+        0.4919198448610213
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.05725806451612903,
+        0.5106658047834518,
+        0.31290322580645163,
+        0.5300581771170007
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Staffing"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.5106658047834518,
+        0.9266129032258065,
+        0.5300581771170007
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,331.89"
+    },
+    {
+      "bbox": [
+        0.05725806451612903,
+        0.5462184873949579,
+        0.31290322580645163,
+        0.5649644473173885
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Promotional Payments"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.5462184873949579,
+        0.9266129032258065,
+        0.5649644473173885
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.05725806451612903,
+        0.5940530058177117,
+        0.31290322580645163,
+        0.6102133160956691
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Travel"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.5940530058177117,
+        0.9266129032258065,
+        0.6102133160956691
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "11,749.41"
+    },
+    {
+      "bbox": [
+        0.05725806451612903,
+        0.6393018745959922,
+        0.31290322580645163,
+        0.6567550096961862
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Team Expenses"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.6393018745959922,
+        0.9266129032258065,
+        0.6567550096961862
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.05725806451612903,
+        0.6748545572074984,
+        0.31290322580645163,
+        0.6910148674854557
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "On-Site Cigarette Sales"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.6748545572074984,
+        0.9266129032258065,
+        0.6910148674854557
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "607.00"
+    },
+    {
+      "bbox": [
+        0.05725806451612903,
+        0.7194570135746606,
+        0.31290322580645163,
+        0.7369101486748546
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Vehicle Expenses"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.7194570135746606,
+        0.9266129032258065,
+        0.7369101486748546
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.05725806451612903,
+        0.7582417582417582,
+        0.31290322580645163,
+        0.7744020685197156
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Motion Picture Card System"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.7582417582417582,
+        0.9266129032258065,
+        0.7744020685197156
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.05725806451612903,
+        0.7950872656755009,
+        0.31290322580645163,
+        0.8138332255979315
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Go-Bo Robotie Lighting System"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.7950872656755009,
+        0.9266129032258065,
+        0.8138332255979315
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.4725274725274725,
+        0.307258064516129,
+        0.486748545572075
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 1,
+      "text": "Bands/Artist"
+    },
+    {
+      "bbox": [
+        0.8516129032258064,
+        0.4725274725274725,
+        0.9233870967741935,
+        0.486748545572075
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 1,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.5106658047834518,
+        0.307258064516129,
+        0.5248868778280543
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 1,
+      "text": "Event Insurance"
+    },
+    {
+      "bbox": [
+        0.8516129032258064,
+        0.5106658047834518,
+        0.9233870967741935,
+        0.5248868778280543
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 12,
+      "page": 1,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.5475113122171946,
+        0.307258064516129,
+        0.5636716224951519
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 1,
+      "text": "Field Admin./Misc. Expenses"
+    },
+    {
+      "bbox": [
+        0.8516129032258064,
+        0.5475113122171946,
+        0.9233870967741935,
+        0.5636716224951519
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 13,
+      "page": 1,
+      "text": "50.30"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.5927601809954751,
+        0.307258064516129,
+        0.6102133160956691
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "Shipping/Handling/Warehouse"
+    },
+    {
+      "bbox": [
+        0.8516129032258064,
+        0.5927601809954751,
+        0.9233870967741935,
+        0.6102133160956691
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "5,557.52"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.6373626373626373,
+        0.307258064516129,
+        0.6535229476405947
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 15,
+      "page": 1,
+      "text": "Kiosk Display Units"
+    },
+    {
+      "bbox": [
+        0.8516129032258064,
+        0.6373626373626373,
+        0.9233870967741935,
+        0.6535229476405947
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 15,
+      "page": 1,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.6755009696186167,
+        0.307258064516129,
+        0.691661279896574
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 16,
+      "page": 1,
+      "text": "Lighting Technologies"
+    },
+    {
+      "bbox": [
+        0.8516129032258064,
+        0.6755009696186167,
+        0.9233870967741935,
+        0.691661279896574
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 16,
+      "page": 1,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.7201034259857789,
+        0.307258064516129,
+        0.7369101486748546
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 17,
+      "page": 1,
+      "text": "Management Fees"
+    },
+    {
+      "bbox": [
+        0.8516129032258064,
+        0.7201034259857789,
+        0.9233870967741935,
+        0.7369101486748546
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 17,
+      "page": 1,
+      "text": "-"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.06053375166248962,
+        0.43746978348643034,
+        0.1509209099391894,
+        0.4563671622495152
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Categories"
+    },
+    {
+      "bbox": [
+        0.7604395759498294,
+        0.4379463300915354,
+        0.9091026652207171,
+        0.45605510108552705
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Current Expenses"
+    },
+    {
+      "bbox": [
+        0.05934444694832252,
+        0.43512428066442893,
+        0.1509209099391894,
+        0.4550743374272786
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 1,
+      "text": "Categories"
+    },
+    {
+      "bbox": [
+        0.7580609665214951,
+        0.43703046708484916,
+        0.9091026652207171,
+        0.45561578468394587
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 1,
+      "text": "Current Expenses"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 216,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ykxy0009",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ],
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05725806451612903,
+          0.4298642533936652,
+          0.9379032258064516,
+          0.8972204266321914
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05725806451612903,
+            "right": 0.31290322580645163
+          },
+          {
+            "column_type": "",
+            "left": 0.4120967741935484,
+            "right": 0.4879032258064516
+          },
+          {
+            "column_type": "",
+            "left": 0.6096774193548387,
+            "right": 0.6782258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8419354838709677,
+            "right": 0.9266129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4563671622495152,
+            "row_type": "header",
+            "top": 0.4298642533936652
+          },
+          {
+            "bottom": 0.4738202973497091,
+            "row_type": "gap",
+            "top": 0.4563671622495152
+          },
+          {
+            "bottom": 0.4919198448610213,
+            "row_type": "data",
+            "top": 0.4738202973497091
+          },
+          {
+            "bottom": 0.5106658047834518,
+            "row_type": "gap",
+            "top": 0.4919198448610213
+          },
+          {
+            "bottom": 0.5300581771170007,
+            "row_type": "data",
+            "top": 0.5106658047834518
+          },
+          {
+            "bottom": 0.5462184873949579,
+            "row_type": "gap",
+            "top": 0.5300581771170007
+          },
+          {
+            "bottom": 0.5649644473173885,
+            "row_type": "data",
+            "top": 0.5462184873949579
+          },
+          {
+            "bottom": 0.5940530058177117,
+            "row_type": "gap",
+            "top": 0.5649644473173885
+          },
+          {
+            "bottom": 0.6102133160956691,
+            "row_type": "data",
+            "top": 0.5940530058177117
+          },
+          {
+            "bottom": 0.6393018745959922,
+            "row_type": "gap",
+            "top": 0.6102133160956691
+          },
+          {
+            "bottom": 0.6567550096961862,
+            "row_type": "data",
+            "top": 0.6393018745959922
+          },
+          {
+            "bottom": 0.6748545572074984,
+            "row_type": "gap",
+            "top": 0.6567550096961862
+          },
+          {
+            "bottom": 0.6910148674854557,
+            "row_type": "data",
+            "top": 0.6748545572074984
+          },
+          {
+            "bottom": 0.7194570135746606,
+            "row_type": "gap",
+            "top": 0.6910148674854557
+          },
+          {
+            "bottom": 0.7369101486748546,
+            "row_type": "data",
+            "top": 0.7194570135746606
+          },
+          {
+            "bottom": 0.7582417582417582,
+            "row_type": "gap",
+            "top": 0.7369101486748546
+          },
+          {
+            "bottom": 0.7744020685197156,
+            "row_type": "data",
+            "top": 0.7582417582417582
+          },
+          {
+            "bottom": 0.7950872656755009,
+            "row_type": "gap",
+            "top": 0.7744020685197156
+          },
+          {
+            "bottom": 0.8138332255979315,
+            "row_type": "data",
+            "top": 0.7950872656755009
+          },
+          {
+            "bottom": 0.8972204266321914,
+            "row_type": "gap-with-text",
+            "top": 0.8138332255979315
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.054838709677419356,
+          0.42857142857142855,
+          0.9387096774193548,
+          0.8998060762766645
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.054838709677419356,
+            "right": 0.307258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.4161290322580644,
+            "right": 0.4846774193548387
+          },
+          {
+            "column_type": "",
+            "left": 0.6088709677419355,
+            "right": 0.6766129032258065
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8516129032258064,
+            "right": 0.9233870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4550743374272786,
+            "row_type": "header",
+            "top": 0.42857142857142855
+          },
+          {
+            "bottom": 0.4725274725274725,
+            "row_type": "gap",
+            "top": 0.4550743374272786
+          },
+          {
+            "bottom": 0.486748545572075,
+            "row_type": "data",
+            "top": 0.4725274725274725
+          },
+          {
+            "bottom": 0.5106658047834518,
+            "row_type": "gap",
+            "top": 0.486748545572075
+          },
+          {
+            "bottom": 0.5248868778280543,
+            "row_type": "data",
+            "top": 0.5106658047834518
+          },
+          {
+            "bottom": 0.5475113122171946,
+            "row_type": "gap",
+            "top": 0.5248868778280543
+          },
+          {
+            "bottom": 0.5636716224951519,
+            "row_type": "data",
+            "top": 0.5475113122171946
+          },
+          {
+            "bottom": 0.5927601809954751,
+            "row_type": "gap",
+            "top": 0.5636716224951519
+          },
+          {
+            "bottom": 0.6102133160956691,
+            "row_type": "data",
+            "top": 0.5927601809954751
+          },
+          {
+            "bottom": 0.6373626373626373,
+            "row_type": "gap",
+            "top": 0.6102133160956691
+          },
+          {
+            "bottom": 0.6535229476405947,
+            "row_type": "data",
+            "top": 0.6373626373626373
+          },
+          {
+            "bottom": 0.6755009696186167,
+            "row_type": "gap",
+            "top": 0.6535229476405947
+          },
+          {
+            "bottom": 0.691661279896574,
+            "row_type": "data",
+            "top": 0.6755009696186167
+          },
+          {
+            "bottom": 0.7201034259857789,
+            "row_type": "gap",
+            "top": 0.691661279896574
+          },
+          {
+            "bottom": 0.7369101486748546,
+            "row_type": "data",
+            "top": 0.7201034259857789
+          },
+          {
+            "bottom": 0.8778280542986425,
+            "row_type": "gap",
+            "top": 0.7369101486748546
+          },
+          {
+            "bottom": 0.8998060762766645,
+            "row_type": "footer",
+            "top": 0.8778280542986425
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

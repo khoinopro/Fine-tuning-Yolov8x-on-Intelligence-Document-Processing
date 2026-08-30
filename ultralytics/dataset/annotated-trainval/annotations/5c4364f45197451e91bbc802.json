@@ -1,0 +1,228 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8559572555677619,
+        0.14737578027465667,
+        0.8799560571257367,
+        0.16471410736579276
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "68"
+    },
+    {
+      "bbox": [
+        0.7135643663237792,
+        0.14737578027465667,
+        0.8055597722960153,
+        0.16471410736579276
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/25/1999"
+    },
+    {
+      "bbox": [
+        0.11279436732248078,
+        0.8627365792759052,
+        0.5463727154698892,
+        0.883171036204744
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "135 Columbia Turnpike \u2022 Suite 101\u2022  Florham Park, NJ 07932"
+    },
+    {
+      "bbox": [
+        0.1439928093478478,
+        0.21595505617977526,
+        0.32878358134425245,
+        0.2345318352059925
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.1439928093478478,
+        0.21471660424469413,
+        0.3455827424348347,
+        0.2890237203495631
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris U.S.A.\nBob Schultze\n120 Park Avenue\nN.Y., N.Y. 10017-5592"
+    },
+    {
+      "bbox": [
+        0.8171020530453268,
+        0.8053254859996432,
+        0.8296728538614088,
+        0.8212484394506866
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8159592529711375,
+        0.8039101123595506,
+        0.9015549785279139,
+        0.8212484394506867
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,500.00"
+    },
+    {
+      "bbox": [
+        0.8161290322580645,
+        0.8032908863920101,
+        0.8999550584240487,
+        0.8200099875156055
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,500.00"
+    },
+    {
+      "bbox": [
+        0.7383916979355409,
+        0.3660067772427323,
+        0.8698137064673068,
+        0.38281433921883357
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due on receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10806451612903226,
+        0.4157303370786517,
+        0.6814516129032258,
+        0.4525593008739076
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Statistical Analysis - Mobil On the Run Test - Buffalo, Rochester,\nSyracuse, Albany - November 1998 & January 1999"
+    },
+    {
+      "bbox": [
+        0.825,
+        0.4157303370786517,
+        0.9008064516129032,
+        0.4525593008739076
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5,500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.35099328564059357,
+        0.39560154223515004,
+        0.45427810074680913,
+        0.40915727707623095
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.774636086584732,
+        0.394923755493096,
+        0.840283214830208,
+        0.40915727707623095
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1012,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fslj0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1706,
+        2204
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10806451612903226,
+          0.39263420724094883,
+          0.9193548387096774,
+          0.83645443196005
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10806451612903226,
+            "right": 0.6814516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.825,
+            "right": 0.9008064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4157303370786517,
+            "row_type": "header",
+            "top": 0.39263420724094883
+          },
+          {
+            "bottom": 0.4525593008739076,
+            "row_type": "data",
+            "top": 0.4157303370786517
+          },
+          {
+            "bottom": 0.6647940074906367,
+            "row_type": "gap",
+            "top": 0.4525593008739076
+          },
+          {
+            "bottom": 0.7540574282147315,
+            "row_type": "gap-with-text",
+            "top": 0.6647940074906367
+          },
+          {
+            "bottom": 0.7908863920099876,
+            "row_type": "gap",
+            "top": 0.7540574282147315
+          },
+          {
+            "bottom": 0.83645443196005,
+            "row_type": "footer",
+            "top": 0.7908863920099876
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

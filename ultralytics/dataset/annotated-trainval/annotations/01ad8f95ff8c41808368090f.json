@@ -1,0 +1,267 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6809327769005189,
+        0.2041831377480531,
+        0.8247264831942253,
+        0.21676976952704266
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "MG11-004284AB"
+    },
+    {
+      "bbox": [
+        0.6827881795623731,
+        0.18740096204273363,
+        0.7579319873674714,
+        0.20208536578488817
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "01/13/00"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.10209156887402655,
+        0.1632754342431762,
+        0.11397894333196114
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Bozell Worldwide, Inc."
+    },
+    {
+      "bbox": [
+        0.05941139162453093,
+        0.10269151138716356,
+        0.21301157484892796,
+        0.14693625831461168
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Bozell Worldwide, Inc.\nAdvertising\n40 West 23rd Street\nNew York, New York 10010-5201"
+    },
+    {
+      "bbox": [
+        0.5696086171892624,
+        0.08880567977398199,
+        0.7475806451612903,
+        0.10577507598784194
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Bozell Worldwide Inc."
+    },
+    {
+      "bbox": [
+        0.5705363185201895,
+        0.08848949385489625,
+        0.7440914536389422,
+        0.13635517760572038
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Bozell Worldwide Inc.\nPO Box 198261\nAtlanta, GA 30384"
+    },
+    {
+      "bbox": [
+        0.6839555328482585,
+        0.22122373463724065,
+        0.7201819911558993,
+        0.233240826395313
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LRL"
+    },
+    {
+      "bbox": [
+        0.05868686245837811,
+        0.18899607946786484,
+        0.27894372896883424,
+        0.20425531914893616
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.05751748251748252,
+        0.18899607946786484,
+        0.27894372896883424,
+        0.25033412093768154
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Company\n714 Green Valley Road\nBox 10529\nGreensboro, NC 27404"
+    },
+    {
+      "bbox": [
+        0.8230651327495991,
+        0.8876943746971498,
+        0.8377143018272052,
+        0.9055382307661944
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8483870967741935,
+        0.8888959150609419,
+        0.9258064516129032,
+        0.9042795761241513
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "5,020.24"
+    },
+    {
+      "bbox": [
+        0.8483870967741935,
+        0.8887868375842474,
+        0.9258064516129032,
+        0.9049788334452064
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "5,020.24"
+    },
+    {
+      "bbox": [
+        0.12606807491059002,
+        0.8904255319148936,
+        0.6585970120329099,
+        0.9045592705167174
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "AMOUNT DUE WITHIN 10 DAYS FROM DATE OF RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.056451612903225805,
+        0.3282674772036474,
+        0.7169354838709677,
+        0.3465045592705167
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Credit due for incorrect payment of cash discount on invoice # MG11-004284."
+    },
+    {
+      "bbox": [
+        0.8258064516129032,
+        0.3282674772036474,
+        0.9387096774193548,
+        0.3465045592705167
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$( 5,020.24)"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2586569123165554,
+        0.30030395136778115,
+        0.5332534662884727,
+        0.3130699088145897
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXPLANATION OF CHARGES"
+    },
+    {
+      "bbox": [
+        0.7955330244357921,
+        0.2995396678560416,
+        0.8839255827064357,
+        0.3153803797189551
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 246,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zhfp0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.056451612903225805,
+          0.30030395136778115,
+          0.9387096774193548,
+          0.9094224924012158
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.056451612903225805,
+            "right": 0.7169354838709677
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8258064516129032,
+            "right": 0.9387096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3130699088145897,
+            "row_type": "header",
+            "top": 0.30030395136778115
+          },
+          {
+            "bottom": 0.3282674772036474,
+            "row_type": "gap",
+            "top": 0.3130699088145897
+          },
+          {
+            "bottom": 0.3465045592705167,
+            "row_type": "data",
+            "top": 0.3282674772036474
+          },
+          {
+            "bottom": 0.8887537993920973,
+            "row_type": "gap",
+            "top": 0.3465045592705167
+          },
+          {
+            "bottom": 0.9094224924012158,
+            "row_type": "footer",
+            "top": 0.8887537993920973
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

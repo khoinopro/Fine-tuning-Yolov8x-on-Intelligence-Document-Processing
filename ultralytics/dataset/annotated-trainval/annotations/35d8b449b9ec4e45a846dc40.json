@@ -1,0 +1,940 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.04469870967741935,
+        0.0615787056862917,
+        0.19576903225806452,
+        0.08796957955184528
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "WOC13411285"
+    },
+    {
+      "bbox": [
+        0.14541225806451613,
+        0.9156833507896623,
+        0.18275548387096774,
+        0.9300783728981461
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/06/22"
+    },
+    {
+      "bbox": [
+        0.14541225806451613,
+        0.9151710279542041,
+        0.18275548387096774,
+        0.9319652204141019
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "1/06/22"
+    },
+    {
+      "bbox": [
+        0.1380567741935484,
+        0.21672505507772793,
+        0.1895451612903226,
+        0.2335192475376257
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "11275753"
+    },
+    {
+      "bbox": [
+        0.467921935483871,
+        0.9320776815243244,
+        0.5375161290322581,
+        0.9472724270832795
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WideOrbit Inc."
+    },
+    {
+      "bbox": [
+        0.4673561290322581,
+        0.9311654969636305,
+        0.538081935483871,
+        0.9479596894235284
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "WideOrbit Inc."
+    },
+    {
+      "bbox": [
+        0.6970735483870968,
+        0.24391565239375285,
+        0.7066922580645162,
+        0.2615095683041219
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6976393548387096,
+        0.24391565239375285,
+        0.7513909677419355,
+        0.2639087386555359
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,350.00"
+    },
+    {
+      "bbox": [
+        0.6965077419354838,
+        0.24391565239375285,
+        0.7519567741935484,
+        0.2631090152050645
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,350.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05322580645161295,
+        0.5119726339794755,
+        0.06129032258064521,
+        0.5427594070695553
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.06935483870967747,
+        0.5119726339794755,
+        0.15967741935483876,
+        0.5427594070695553
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "13ABC ACTION NEWS\n6AM"
+    },
+    {
+      "bbox": [
+        0.35403225806451616,
+        0.5119726339794755,
+        0.3838709677419355,
+        0.5427594070695553
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "325.00"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.5119726339794755,
+        0.7846774193548387,
+        0.5427594070695553
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.5119726339794755,
+        0.8572580645161291,
+        0.5427594070695553
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,300.00"
+    },
+    {
+      "bbox": [
+        0.07018036321419686,
+        0.5449984451124702,
+        0.2701762169334107,
+        0.5604229294081061
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(Program: 13ABC ACTION NEWS 6AM)CS-Feb-2021"
+    },
+    {
+      "bbox": [
+        0.05322580645161295,
+        0.5610034207525656,
+        0.06129032258064521,
+        0.5940706955530216
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.06935483870967747,
+        0.5610034207525656,
+        0.15967741935483876,
+        0.5940706955530216
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "GOOD MORNING\nAMERICA"
+    },
+    {
+      "bbox": [
+        0.35403225806451616,
+        0.5610034207525656,
+        0.3838709677419355,
+        0.5940706955530216
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "375.00"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.5610034207525656,
+        0.7846774193548387,
+        0.5940706955530216
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.5610034207525656,
+        0.8572580645161291,
+        0.5940706955530216
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,500.00"
+    },
+    {
+      "bbox": [
+        0.06945310556430882,
+        0.5958992432880689,
+        0.27126710340824284,
+        0.6108095781071836
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "(Program: GOOD MORNING AMERICA)CS-Feb-2021"
+    },
+    {
+      "bbox": [
+        0.05322580645161295,
+        0.6111744583808438,
+        0.06129032258064521,
+        0.6431014823261118
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "3"
+    },
+    {
+      "bbox": [
+        0.06935483870967747,
+        0.6111744583808438,
+        0.15967741935483876,
+        0.6431014823261118
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "13ABC ACTION NEWS\n6PM"
+    },
+    {
+      "bbox": [
+        0.35403225806451616,
+        0.6111744583808438,
+        0.3838709677419355,
+        0.6431014823261118
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "600.00"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.6111744583808438,
+        0.7846774193548387,
+        0.6431014823261118
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "3"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.6111744583808438,
+        0.8572580645161291,
+        0.6431014823261118
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1,800.00"
+    },
+    {
+      "bbox": [
+        0.06945310556430882,
+        0.6457717425106251,
+        0.27053984575835477,
+        0.6606820773297399
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "(Program: 13ABC ACTION NEWS 6PM)CS-Feb-2021"
+    },
+    {
+      "bbox": [
+        0.05322580645161295,
+        0.6624857468643102,
+        0.06129032258064521,
+        0.69327251995439
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.06935483870967747,
+        0.6624857468643102,
+        0.15967741935483876,
+        0.69327251995439
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "13ABC ACTION NEWS\n6PM"
+    },
+    {
+      "bbox": [
+        0.35403225806451616,
+        0.6624857468643102,
+        0.3838709677419355,
+        0.69327251995439
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "300.00"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.6624857468643102,
+        0.7846774193548387,
+        0.69327251995439
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.6624857468643102,
+        0.8572580645161291,
+        0.69327251995439
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "600.00"
+    },
+    {
+      "bbox": [
+        0.06945310556430882,
+        0.6956442417331814,
+        0.2701762169334107,
+        0.7095262775992537
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "(Program: 13ABC ACTION NEWS 6PM)CS-Feb-2021"
+    },
+    {
+      "bbox": [
+        0.05322580645161295,
+        0.7103762827822121,
+        0.06129032258064521,
+        0.7434435575826682
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "5"
+    },
+    {
+      "bbox": [
+        0.06935483870967747,
+        0.7103762827822121,
+        0.15967741935483876,
+        0.7434435575826682
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "13ABC ACTION NEWS\n11PM"
+    },
+    {
+      "bbox": [
+        0.35403225806451616,
+        0.7103762827822121,
+        0.3838709677419355,
+        0.7434435575826682
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "350.00"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.7103762827822121,
+        0.7846774193548387,
+        0.7434435575826682
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "3"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.7103762827822121,
+        0.8572580645161291,
+        0.7434435575826682
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "1,050.00"
+    },
+    {
+      "bbox": [
+        0.07018036321419686,
+        0.7455167409557376,
+        0.274176134007795,
+        0.7599129262983312
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "(Program: 13ABC ACTION NEWS 11PM)CS-Feb-2021"
+    },
+    {
+      "bbox": [
+        0.05322580645161295,
+        0.7616875712656784,
+        0.06129032258064521,
+        0.7924743443557583
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "6"
+    },
+    {
+      "bbox": [
+        0.06935483870967747,
+        0.7616875712656784,
+        0.15967741935483876,
+        0.7924743443557583
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "13ABC ACTION NEWS\n11PM"
+    },
+    {
+      "bbox": [
+        0.35403225806451616,
+        0.7616875712656784,
+        0.3838709677419355,
+        0.7924743443557583
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "175.00"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.7616875712656784,
+        0.7846774193548387,
+        0.7924743443557583
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.7616875712656784,
+        0.8572580645161291,
+        0.7924743443557583
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "350.00"
+    },
+    {
+      "bbox": [
+        0.07018036321419686,
+        0.7938467917487302,
+        0.274176134007795,
+        0.8092712760443661
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "(Program: 13ABC ACTION NEWS 11PM)CS-Feb-2021"
+    },
+    {
+      "bbox": [
+        0.05322580645161295,
+        0.8095781071835804,
+        0.06129032258064521,
+        0.8278221208665907
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "7"
+    },
+    {
+      "bbox": [
+        0.06935483870967747,
+        0.8095781071835804,
+        0.15967741935483876,
+        0.8278221208665907
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "GMA SATURDAY"
+    },
+    {
+      "bbox": [
+        0.35403225806451616,
+        0.8095781071835804,
+        0.3838709677419355,
+        0.8278221208665907
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "350.00"
+    },
+    {
+      "bbox": [
+        0.7754384691931338,
+        0.8108137244739297,
+        0.7845291898167344,
+        0.826752358246087
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.8095781071835804,
+        0.8572580645161291,
+        0.8278221208665907
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "350.00"
+    },
+    {
+      "bbox": [
+        0.07018036321419686,
+        0.8303514045817353,
+        0.22981341736462396,
+        0.8452617394008501
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "(Program: GMA SATURDAY)CS-Feb-2021"
+    },
+    {
+      "bbox": [
+        0.05322580645161295,
+        0.8460661345496009,
+        0.06129032258064521,
+        0.879133409350057
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "8"
+    },
+    {
+      "bbox": [
+        0.06935483870967747,
+        0.8460661345496009,
+        0.15967741935483876,
+        0.879133409350057
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "13ABC ACTION NEWS\n6PM SUN"
+    },
+    {
+      "bbox": [
+        0.35403225806451616,
+        0.8460661345496009,
+        0.3838709677419355,
+        0.879133409350057
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "400.00"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.8460661345496009,
+        0.7846774193548387,
+        0.879133409350057
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.8460661345496009,
+        0.8572580645161291,
+        0.879133409350057
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "400.00"
+    },
+    {
+      "bbox": [
+        0.06981673438925284,
+        0.881252202757334,
+        0.2898121734803881,
+        0.8956483880999274
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "(Program: 13ABC ACTION NEWS 6PM SUN)CS-Feb-2021"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04872626254249938,
+        0.489984451124702,
+        0.06581681731486856,
+        0.502838188037732
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line"
+    },
+    {
+      "bbox": [
+        0.10036155568455096,
+        0.489984451124702,
+        0.1327245211045692,
+        0.5059230848968591
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Program"
+    },
+    {
+      "bbox": [
+        0.35403225806451616,
+        0.4904986006012232,
+        0.3723559167426818,
+        0.5023240385612108
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.7679840782817813,
+        0.48278635845340523,
+        0.7916199519031429,
+        0.5110645796620712
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    },
+    {
+      "bbox": [
+        0.807255991375736,
+        0.489984451124702,
+        0.8465279044696906,
+        0.502838188037732
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Cost"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 512,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "0f0690cf-f94c-477c-984a-65daf25847f9",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        2337,
+        1653
+      ],
+      [
+        2337,
+        1653
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04758064516129037,
+          0.45610034207525657,
+          0.9709677419354839,
+          0.9042189281641961
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.05322580645161295,
+            "right": 0.06129032258064521
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.06935483870967747,
+            "right": 0.15967741935483876
+          },
+          {
+            "column_type": "",
+            "left": 0.16935483870967746,
+            "right": 0.1862903225806452
+          },
+          {
+            "column_type": "",
+            "left": 0.19919354838709682,
+            "right": 0.21290322580645166
+          },
+          {
+            "column_type": "",
+            "left": 0.21774193548387102,
+            "right": 0.2935483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.29758064516129035,
+            "right": 0.33629032258064523
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.35403225806451616,
+            "right": 0.3838709677419355
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.775,
+            "right": 0.7846774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8217741935483871,
+            "right": 0.8572580645161291
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.48004561003420754,
+            "row_type": "gap-with-text",
+            "top": 0.45610034207525657
+          },
+          {
+            "bottom": 0.5119726339794755,
+            "row_type": "header",
+            "top": 0.48004561003420754
+          },
+          {
+            "bottom": 0.5427594070695553,
+            "row_type": "data",
+            "top": 0.5119726339794755
+          },
+          {
+            "bottom": 0.5610034207525656,
+            "row_type": "up-merge",
+            "top": 0.5427594070695553
+          },
+          {
+            "bottom": 0.5940706955530216,
+            "row_type": "data",
+            "top": 0.5610034207525656
+          },
+          {
+            "bottom": 0.6111744583808438,
+            "row_type": "up-merge",
+            "top": 0.5940706955530216
+          },
+          {
+            "bottom": 0.6431014823261118,
+            "row_type": "data",
+            "top": 0.6111744583808438
+          },
+          {
+            "bottom": 0.6624857468643102,
+            "row_type": "up-merge",
+            "top": 0.6431014823261118
+          },
+          {
+            "bottom": 0.69327251995439,
+            "row_type": "data",
+            "top": 0.6624857468643102
+          },
+          {
+            "bottom": 0.7103762827822121,
+            "row_type": "up-merge",
+            "top": 0.69327251995439
+          },
+          {
+            "bottom": 0.7434435575826682,
+            "row_type": "data",
+            "top": 0.7103762827822121
+          },
+          {
+            "bottom": 0.7616875712656784,
+            "row_type": "up-merge",
+            "top": 0.7434435575826682
+          },
+          {
+            "bottom": 0.7924743443557583,
+            "row_type": "data",
+            "top": 0.7616875712656784
+          },
+          {
+            "bottom": 0.8095781071835804,
+            "row_type": "up-merge",
+            "top": 0.7924743443557583
+          },
+          {
+            "bottom": 0.8278221208665907,
+            "row_type": "data",
+            "top": 0.8095781071835804
+          },
+          {
+            "bottom": 0.8460661345496009,
+            "row_type": "up-merge",
+            "top": 0.8278221208665907
+          },
+          {
+            "bottom": 0.879133409350057,
+            "row_type": "data",
+            "top": 0.8460661345496009
+          },
+          {
+            "bottom": 0.8962371721778791,
+            "row_type": "up-merge",
+            "top": 0.879133409350057
+          },
+          {
+            "bottom": 0.9042189281641961,
+            "row_type": "gap",
+            "top": 0.8962371721778791
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "structured_rows"
+      },
+      "1": {
+        "bbox": [
+          0.0467741935483871,
+          0.11288483466362599,
+          0.9709677419354839,
+          0.15393386545039908
+        ],
+        "columns": [],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.15393386545039908,
+            "row_type": "footer",
+            "top": 0.11288483466362599
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7325505599197727,
+        0.10674092509916075,
+        0.7597710178840047,
+        0.12228572001651425
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "12673"
+    },
+    {
+      "bbox": [
+        0.717741935483871,
+        0.1440501043841336,
+        0.75,
+        0.162839248434238
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "2020-04-08"
+    },
+    {
+      "bbox": [
+        0.11128363697141902,
+        0.054924942041315726,
+        0.16972756142403475,
+        0.09845036780990554
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Sun\nBroadcast\nGroup."
+    },
+    {
+      "bbox": [
+        0.0456342971753301,
+        0.16373850646279028,
+        0.12089085742938324,
+        0.1803196210413007
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Rocking M Media"
+    },
+    {
+      "bbox": [
+        0.047235500584990806,
+        0.16581114578510409,
+        0.12729567106802608,
+        0.2570072759669113
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Rocking M Media\nAttn: Morgan Lilich\n131 N. Santa Fe\nSuite 3\nSalina, KS 67401"
+    },
+    {
+      "bbox": [
+        0.8661290322580645,
+        0.3865472336115239,
+        0.8726558582650844,
+        0.4041646678511912
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.345059334781882,
+        0.3865472336115239,
+        0.3834882166137389,
+        0.4031283481900343
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$730.00"
+    },
+    {
+      "bbox": [
+        0.8653225806451613,
+        0.3844745942892101,
+        0.9040322580645161,
+        0.4052009875123481
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$459.17"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.041935483870967745,
+        0.31315240083507306,
+        0.07822580645161291,
+        0.33507306889352817
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "KIBB-FM"
+    },
+    {
+      "bbox": [
+        0.2217741935483871,
+        0.31315240083507306,
+        0.23709677419354838,
+        0.33507306889352817
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "19"
+    },
+    {
+      "bbox": [
+        0.30483870967741933,
+        0.31315240083507306,
+        0.3362903225806452,
+        0.33507306889352817
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$730"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.041935483870967745,
+        0.29742374275203043,
+        0.07365535684439244,
+        0.31315240083507306
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Vehicle"
+    },
+    {
+      "bbox": [
+        0.206555239846231,
+        0.2777336691900493,
+        0.2329750961056326,
+        0.31193221800822707
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nUnits"
+    },
+    {
+      "bbox": [
+        0.29061841885341805,
+        0.2953511034297166,
+        0.31783887681765,
+        0.30985957868591324
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "b5d68065-f0ee-4bf5-a342-e92fc655035a",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.041935483870967745,
+          0.278705636743215,
+          0.9516129032258065,
+          0.4112734864300626
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.041935483870967745,
+            "right": 0.07822580645161291
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.2217741935483871,
+            "right": 0.23709677419354838
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.30483870967741933,
+            "right": 0.3362903225806452
+          },
+          {
+            "column_type": "",
+            "left": 0.3943548387096774,
+            "right": 0.4112903225806452
+          },
+          {
+            "column_type": "",
+            "left": 0.4669354838709677,
+            "right": 0.48508064516129035
+          },
+          {
+            "column_type": "",
+            "left": 0.5395161290322581,
+            "right": 0.5588709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.6024193548387097,
+            "right": 0.6290322580645161
+          },
+          {
+            "column_type": "",
+            "left": 0.6620967741935484,
+            "right": 0.682258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.31315240083507306,
+            "row_type": "header",
+            "top": 0.278705636743215
+          },
+          {
+            "bottom": 0.33507306889352817,
+            "row_type": "data",
+            "top": 0.31315240083507306
+          },
+          {
+            "bottom": 0.4112734864300626,
+            "row_type": "footer",
+            "top": 0.33507306889352817
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

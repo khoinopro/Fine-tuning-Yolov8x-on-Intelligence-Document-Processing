@@ -1,0 +1,509 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7330645161290322,
+        0.24656213596132986,
+        0.8576194619194217,
+        0.26316564680047666
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2232-003229-9"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.19130357644979445,
+        0.32257060634453216,
+        0.20458638512111188
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "2232-003229-9"
+    },
+    {
+      "bbox": [
+        0.2346774193548387,
+        0.1875159005396141,
+        0.32587337705795744,
+        0.2006079027355623
+      ],
+      "fieldtype": "document_id",
+      "page": 2,
+      "text": "2232-003229-9"
+    },
+    {
+      "bbox": [
+        0.13541359925043503,
+        0.28973126414311157,
+        0.257616115647169,
+        0.305504599440301
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 30, 2000"
+    },
+    {
+      "bbox": [
+        0.7122589572669921,
+        0.16048632218844985,
+        0.878697476490894,
+        0.17345689805910125
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PricewaterhouseCoopers LLP"
+    },
+    {
+      "bbox": [
+        0.7134827699083442,
+        0.1604085106382979,
+        0.8809413790419861,
+        0.19560033185388012
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PricewaterhouseCoopers LLP\n1177 Avenue of the Americas\nNew York NY 10036"
+    },
+    {
+      "bbox": [
+        0.13706701583144865,
+        0.9309468624554955,
+        0.2141672122366385,
+        0.9420185793528849
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "022900 Tobuc\u00e7o"
+    },
+    {
+      "bbox": [
+        0.13645510951077253,
+        0.3695185514503726,
+        0.3420556332579455,
+        0.3999657729181936
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Martin J. Barrington\nPhilip Morris Incorporated"
+    },
+    {
+      "bbox": [
+        0.13645510951077253,
+        0.36936170212765956,
+        0.3536818533507916,
+        0.431335637460797
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Martin J. Barrington\nPhilip Morris Incorporated\n120 Park Avenue\nNew York, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.7404066480180931,
+        0.5018241267443722,
+        0.7526447744316153,
+        0.5152024513287177
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.5022854482817634,
+        0.828521158195453,
+        0.5161250944035002
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$92,555.64"
+    },
+    {
+      "bbox": [
+        0.7422423669801215,
+        0.5018241267443722,
+        0.8279092518747767,
+        0.5165864159408913
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$92,555.64"
+    },
+    {
+      "bbox": [
+        0.34306241151035094,
+        0.2536233227073912,
+        0.42882801438793866,
+        0.2666709911779969
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$92,555.64"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.3325227963525836,
+        0.40725806451612906,
+        0.34893617021276596
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "States\u00b4 Antitrust/Consumer"
+    },
+    {
+      "bbox": [
+        0.4935483870967742,
+        0.3325227963525836,
+        0.5564516129032258,
+        0.34893617021276596
+      ],
+      "fieldtype": "line_item_discount_rate",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "50.00%"
+    },
+    {
+      "bbox": [
+        0.5758064516129032,
+        0.3325227963525836,
+        0.6741935483870968,
+        0.34893617021276596
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "$46,277.82"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.3811550151975684,
+        0.40725806451612906,
+        0.4024316109422492
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "Total for Settling States"
+    },
+    {
+      "bbox": [
+        0.7258064516129032,
+        0.3811550151975684,
+        0.8314516129032258,
+        0.4024316109422492
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "$46,277.82"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.4024316109422492,
+        0.40725806451612906,
+        0.42249240121580545
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "Philip Morris Incorporated"
+    },
+    {
+      "bbox": [
+        0.4935483870967742,
+        0.4024316109422492,
+        0.5564516129032258,
+        0.42249240121580545
+      ],
+      "fieldtype": "line_item_discount_rate",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "25.63%"
+    },
+    {
+      "bbox": [
+        0.5758064516129032,
+        0.4024316109422492,
+        0.6741935483870968,
+        0.42249240121580545
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "23,722.01"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.42249240121580545,
+        0.40725806451612906,
+        0.4425531914893617
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "R.J. Reynolds Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.4935483870967742,
+        0.42249240121580545,
+        0.5564516129032258,
+        0.4425531914893617
+      ],
+      "fieldtype": "line_item_discount_rate",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "11.98%"
+    },
+    {
+      "bbox": [
+        0.5758064516129032,
+        0.42249240121580545,
+        0.6741935483870968,
+        0.4425531914893617
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "11,088.16"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.4425531914893617,
+        0.40725806451612906,
+        0.46382978723404256
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "Brown & Williamson Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.4935483870967742,
+        0.4425531914893617,
+        0.5564516129032258,
+        0.46382978723404256
+      ],
+      "fieldtype": "line_item_discount_rate",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "6.97%"
+    },
+    {
+      "bbox": [
+        0.5758064516129032,
+        0.4425531914893617,
+        0.6741935483870968,
+        0.46382978723404256
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "6,451.13"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.46382978723404256,
+        0.40725806451612906,
+        0.48328267477203646
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.4935483870967742,
+        0.46382978723404256,
+        0.5564516129032258,
+        0.48328267477203646
+      ],
+      "fieldtype": "line_item_discount_rate",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "5.42%"
+    },
+    {
+      "bbox": [
+        0.5758064516129032,
+        0.46382978723404256,
+        0.6741935483870968,
+        0.48328267477203646
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "5,016.52"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.3027355623100304,
+        0.23998631997857117,
+        0.3182685892208466
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Party Name"
+    },
+    {
+      "bbox": [
+        0.43040169517468335,
+        0.30106938987323,
+        0.5326909463130908,
+        0.3325024093705983
+      ],
+      "fieldtype": "line_item_discount_rate",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "% Share of\nPayment"
+    },
+    {
+      "bbox": [
+        0.5791145295220602,
+        0.3027355623100304,
+        0.6483564841388283,
+        0.33072318185187927
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Amount\nDue"
+    },
+    {
+      "bbox": [
+        0.7258064516129032,
+        0.3153032100229817,
+        0.7781851490452685,
+        0.32894395433316037
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Totals"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 385,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zgxj0071",
+    "page_count": 3,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ],
+      [
+        1764,
+        2339
+      ],
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.1403225806451613,
+          0.3027355623100304,
+          0.8314516129032258,
+          0.5252279635258359
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1403225806451613,
+            "right": 0.40725806451612906
+          },
+          {
+            "column_type": "line_item_discount_rate",
+            "left": 0.4935483870967742,
+            "right": 0.5564516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5758064516129032,
+            "right": 0.6741935483870968
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7258064516129032,
+            "right": 0.8314516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3325227963525836,
+            "row_type": "header",
+            "top": 0.3027355623100304
+          },
+          {
+            "bottom": 0.34893617021276596,
+            "row_type": "data",
+            "top": 0.3325227963525836
+          },
+          {
+            "bottom": 0.3811550151975684,
+            "row_type": "gap-with-text",
+            "top": 0.34893617021276596
+          },
+          {
+            "bottom": 0.4024316109422492,
+            "row_type": "data",
+            "top": 0.3811550151975684
+          },
+          {
+            "bottom": 0.42249240121580545,
+            "row_type": "data",
+            "top": 0.4024316109422492
+          },
+          {
+            "bottom": 0.4425531914893617,
+            "row_type": "data",
+            "top": 0.42249240121580545
+          },
+          {
+            "bottom": 0.46382978723404256,
+            "row_type": "data",
+            "top": 0.4425531914893617
+          },
+          {
+            "bottom": 0.48328267477203646,
+            "row_type": "data",
+            "top": 0.46382978723404256
+          },
+          {
+            "bottom": 0.5252279635258359,
+            "row_type": "footer",
+            "top": 0.48328267477203646
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

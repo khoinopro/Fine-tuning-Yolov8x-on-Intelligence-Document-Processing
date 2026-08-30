@@ -1,0 +1,981 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8210505079765772,
+        0.12568325791855203,
+        0.9106778538765545,
+        0.13658435681965092
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "07/26/99"
+    },
+    {
+      "bbox": [
+        0.8218507521363985,
+        0.13914932126696833,
+        0.9106778538765545,
+        0.15261538461538462
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "08/05/99"
+    },
+    {
+      "bbox": [
+        0.6521989902542987,
+        0.22828183581124756,
+        0.788240497423907,
+        0.24046541693600518
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "INDY CONNECTION"
+    },
+    {
+      "bbox": [
+        0.649798257774835,
+        0.22764059469941825,
+        0.877067599164063,
+        0.2706037491919845
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "INDY CONNECTION\nP.O. BOX 631450\nBALTIMORE, MD 21263-1450"
+    },
+    {
+      "bbox": [
+        0.3281001055267024,
+        0.3164524886877828,
+        0.4041233007097188,
+        0.32927731092436974
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "SUM2000"
+    },
+    {
+      "bbox": [
+        0.16645078524281487,
+        0.22731997414350355,
+        0.41692720726685845,
+        0.24078603749191982
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "SUMMITT MANAGEMENT CORP"
+    },
+    {
+      "bbox": [
+        0.16485029692317243,
+        0.22731997414350355,
+        0.4825472283721989,
+        0.28695539754363286
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "SUMMITT MANAGEMENT CORP\nATTN: ACCOUNTS PAYABLE\n4466 ELVIS PRESLEY BLVD #243\nMEMPHIS, TN 38116"
+    },
+    {
+      "bbox": [
+        0.869865401725672,
+        0.7677259211376859,
+        0.912278342196197,
+        0.781191984486102
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "867.40"
+    },
+    {
+      "bbox": [
+        0.869865401725672,
+        0.7677259211376859,
+        0.912278342196197,
+        0.781191984486102
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "867.40"
+    },
+    {
+      "bbox": [
+        0.7782258064516129,
+        0.16960827407886234,
+        0.898674191479236,
+        0.18435681965093728
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 10 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.43180349062702006,
+        0.14112903225806453,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "114324-0"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.43180349062702006,
+        0.2032258064516129,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "07/17/99"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.43180349062702006,
+        0.3346774193548387,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NATHANIEL JO"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.43180349062702006,
+        0.5241935483870968,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6-0 THE GAP BAND"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.43180349062702006,
+        0.8548387096774194,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "192.00"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.43180349062702006,
+        0.9153225806451613,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "230.40"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.4460245636716225,
+        0.14112903225806453,
+        0.4602456367162249
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "114325-0"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.4460245636716225,
+        0.2032258064516129,
+        0.4602456367162249
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "07/17/99"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.4460245636716225,
+        0.3346774193548387,
+        0.4602456367162249
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "NATHANIEL JO"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.4460245636716225,
+        0.5241935483870968,
+        0.4602456367162249
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "6-0 THE GAP BAND"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.4460245636716225,
+        0.8548387096774194,
+        0.4602456367162249
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "60.00"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.4460245636716225,
+        0.9153225806451613,
+        0.4602456367162249
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "73.00"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.4602456367162249,
+        0.14112903225806453,
+        0.4744667097608274
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "114326-0"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.4602456367162249,
+        0.2032258064516129,
+        0.4744667097608274
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "07/17/99"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.4602456367162249,
+        0.3346774193548387,
+        0.4744667097608274
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "NATHANIEL JO"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.4602456367162249,
+        0.5241935483870968,
+        0.4744667097608274
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1-0 THE GAP BAND"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.4602456367162249,
+        0.8548387096774194,
+        0.4744667097608274
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "65.00"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.4602456367162249,
+        0.9153225806451613,
+        0.4744667097608274
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "78.00"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.4744667097608274,
+        0.14112903225806453,
+        0.48998060762766643
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "114332-0"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.4744667097608274,
+        0.2032258064516129,
+        0.48998060762766643
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "07/17/99"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.4744667097608274,
+        0.3346774193548387,
+        0.48998060762766643
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "NATHANIEL JO"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.4744667097608274,
+        0.5241935483870968,
+        0.48998060762766643
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "10-0 MORRIS DAY & THE TIME"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.4744667097608274,
+        0.8548387096774194,
+        0.48998060762766643
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "65.00"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.4744667097608274,
+        0.9153225806451613,
+        0.48998060762766643
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "78.00"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.48998060762766643,
+        0.14112903225806453,
+        0.5029088558500323
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "114334-0"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.48998060762766643,
+        0.2032258064516129,
+        0.5029088558500323
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "07/17/99"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.48998060762766643,
+        0.3346774193548387,
+        0.5029088558500323
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "NATHANIEL JO"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.48998060762766643,
+        0.5241935483870968,
+        0.5029088558500323
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "1-0 MORRIS DAY & THE TIME"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.48998060762766643,
+        0.8548387096774194,
+        0.5029088558500323
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "65.00"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.48998060762766643,
+        0.9153225806451613,
+        0.5029088558500323
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "78.00"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.5029088558500323,
+        0.14112903225806453,
+        0.5184227537168714
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "115687-5"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.5029088558500323,
+        0.2032258064516129,
+        0.5184227537168714
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "07/17/99"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.5029088558500323,
+        0.3346774193548387,
+        0.5184227537168714
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "NATHANIEL JO"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.5029088558500323,
+        0.5241935483870968,
+        0.5184227537168714
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "15-0 THE GAP BAND"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.5029088558500323,
+        0.8548387096774194,
+        0.5184227537168714
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "130.00"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.5029088558500323,
+        0.9153225806451613,
+        0.5184227537168714
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "156.00"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.5184227537168714,
+        0.14112903225806453,
+        0.5326438267614738
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "114341-0"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.5184227537168714,
+        0.2032258064516129,
+        0.5326438267614738
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "07/17/99"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.5184227537168714,
+        0.3346774193548387,
+        0.5326438267614738
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "NATHANIEL JO"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.5184227537168714,
+        0.5241935483870968,
+        0.5326438267614738
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "6-0 JENNY BURTON EXPERIENCE"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.5184227537168714,
+        0.8548387096774194,
+        0.5326438267614738
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "45.00"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.5184227537168714,
+        0.9153225806451613,
+        0.5326438267614738
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "54.00"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.5326438267614738,
+        0.14112903225806453,
+        0.5481577246283129
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "114342-0"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.5326438267614738,
+        0.2032258064516129,
+        0.5481577246283129
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "07/17/99"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.5326438267614738,
+        0.3346774193548387,
+        0.5481577246283129
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "NATHANIEL JO"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.5326438267614738,
+        0.5241935483870968,
+        0.5481577246283129
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "10-0 JENNY BURTON EXPERIENCE"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.5326438267614738,
+        0.8548387096774194,
+        0.5481577246283129
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "50.00"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.5326438267614738,
+        0.9153225806451613,
+        0.5481577246283129
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "60.00"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.5481577246283129,
+        0.14112903225806453,
+        0.5623787976729153
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "114343-0"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.5481577246283129,
+        0.2032258064516129,
+        0.5623787976729153
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "07/17/99"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.5481577246283129,
+        0.3346774193548387,
+        0.5623787976729153
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "NATHANIEL JO"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.5481577246283129,
+        0.5241935483870968,
+        0.5623787976729153
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "1-0 JENNY BURTON EXPERIENCE"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.5481577246283129,
+        0.8548387096774194,
+        0.5623787976729153
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "50.00"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.5481577246283129,
+        0.9153225806451613,
+        0.5623787976729153
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "60.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07968246237133843,
+        0.4027795733678087,
+        0.14036115756624884,
+        0.4161387631975867
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TRIP NUMB"
+    },
+    {
+      "bbox": [
+        0.16253221927208153,
+        0.40237879767291534,
+        0.19120456974879743,
+        0.41573798750269336
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.25483870967741934,
+        0.40336134453781514,
+        0.30456037395906965,
+        0.4152036199095023
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MADE BY"
+    },
+    {
+      "bbox": [
+        0.33573322011689455,
+        0.40438267614738205,
+        0.4657589955345598,
+        0.41507002801120446
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PASS# PASSENGER NAME"
+    },
+    {
+      "bbox": [
+        0.8264971724625437,
+        0.40336134453781514,
+        0.8548387096774194,
+        0.4145356604180133
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.8750067886760574,
+        0.40237879767291534,
+        0.9116807253323218,
+        0.4152036199095023
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 609,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jyxy0009",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07983870967741935,
+          0.40336134453781514,
+          0.9153225806451613,
+          0.7847446670976083
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.08629032258064516,
+            "right": 0.14112903225806453
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.15,
+            "right": 0.2032258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.21129032258064517,
+            "right": 0.2467741935483871
+          },
+          {
+            "column_type": "line_item_person_name",
+            "left": 0.25483870967741934,
+            "right": 0.3346774193548387
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.34516129032258064,
+            "right": 0.5241935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.5379032258064517,
+            "right": 0.6475806451612903
+          },
+          {
+            "column_type": "",
+            "left": 0.7120967741935483,
+            "right": 0.7451612903225806
+          },
+          {
+            "column_type": "",
+            "left": 0.7620967741935484,
+            "right": 0.8008064516129032
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.8153225806451613,
+            "right": 0.8548387096774194
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8709677419354839,
+            "right": 0.9153225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4169360051712993,
+            "row_type": "header",
+            "top": 0.40336134453781514
+          },
+          {
+            "bottom": 0.43180349062702006,
+            "row_type": "gap",
+            "top": 0.4169360051712993
+          },
+          {
+            "bottom": 0.4460245636716225,
+            "row_type": "data",
+            "top": 0.43180349062702006
+          },
+          {
+            "bottom": 0.4602456367162249,
+            "row_type": "data",
+            "top": 0.4460245636716225
+          },
+          {
+            "bottom": 0.4744667097608274,
+            "row_type": "data",
+            "top": 0.4602456367162249
+          },
+          {
+            "bottom": 0.48998060762766643,
+            "row_type": "data",
+            "top": 0.4744667097608274
+          },
+          {
+            "bottom": 0.5029088558500323,
+            "row_type": "data",
+            "top": 0.48998060762766643
+          },
+          {
+            "bottom": 0.5184227537168714,
+            "row_type": "data",
+            "top": 0.5029088558500323
+          },
+          {
+            "bottom": 0.5326438267614738,
+            "row_type": "data",
+            "top": 0.5184227537168714
+          },
+          {
+            "bottom": 0.5481577246283129,
+            "row_type": "data",
+            "top": 0.5326438267614738
+          },
+          {
+            "bottom": 0.5623787976729153,
+            "row_type": "data",
+            "top": 0.5481577246283129
+          },
+          {
+            "bottom": 0.7847446670976083,
+            "row_type": "footer",
+            "top": 0.5623787976729153
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

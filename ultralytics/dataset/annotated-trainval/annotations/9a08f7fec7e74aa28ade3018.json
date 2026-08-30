@@ -1,0 +1,182 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3995723303611019,
+        0.35015197568389056,
+        0.4155281556576322,
+        0.36185808902274613
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.1283233003200865,
+        0.6944924843951992,
+        0.26166841172680416,
+        0.7056662496144289
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 13, 2001"
+    },
+    {
+      "bbox": [
+        0.7346446615882386,
+        0.07659574468085106,
+        0.8668500711880611,
+        0.11431621339673452
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1020 Walnut Street\nScott Building, 5th Floor\nPhiladelphia, PA 19107"
+    },
+    {
+      "bbox": [
+        0.4143884538507372,
+        0.5354812101215459,
+        0.6035789537953109,
+        0.5509525773481716
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Thomas Jefferson University"
+    },
+    {
+      "bbox": [
+        0.41210905023694716,
+        0.5351157325081304,
+        0.6708213604021173,
+        0.614557087057633
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Thomas Jefferson University\nSponsored Programs Accounting Office\n1020 Walnut Street\nRoom 525 Scott Building\nPhiladelphia, PA 19107"
+    },
+    {
+      "bbox": [
+        0.09185284249944575,
+        0.21050007149640132,
+        0.21608033945100324,
+        0.22613981762917934
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.08957343888565569,
+        0.20868149636468294,
+        0.3403078364025607,
+        0.27074892646595017
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris USA\n4201 Commerce Drive\nRichmond, VA 23234\nAttention: Director, R&D Operations"
+    },
+    {
+      "bbox": [
+        0.31181529123018514,
+        0.33177487497097385,
+        0.32663141471982043,
+        0.34896528300055807
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6628434477538522,
+        0.470516717325228,
+        0.7300858543606584,
+        0.4856290268357519
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "37,263.15"
+    },
+    {
+      "bbox": [
+        0.6605640441400621,
+        0.4710171800106054,
+        0.7312255561675535,
+        0.4847695064342727
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "37,263.15"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.125,
+        0.4060790273556231,
+        0.5774193548387097,
+        0.4291793313069909
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Payment is due for the 3rd quarter October 1, 2001-December 31, 2001"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 158,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mlfl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08548387096774193,
+          0.4060790273556231,
+          0.7387096774193549,
+          0.4911854103343465
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.125,
+            "right": 0.5774193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4291793313069909,
+            "row_type": "data",
+            "top": 0.4060790273556231
+          },
+          {
+            "bottom": 0.46990881458966566,
+            "row_type": "gap",
+            "top": 0.4291793313069909
+          },
+          {
+            "bottom": 0.4911854103343465,
+            "row_type": "footer",
+            "top": 0.46990881458966566
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

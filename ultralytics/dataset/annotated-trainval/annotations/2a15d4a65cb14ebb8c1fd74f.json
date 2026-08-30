@@ -1,0 +1,300 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8641088742667086,
+        0.2202651965322869,
+        0.9236422129363636,
+        0.23577683025758087
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "111385"
+    },
+    {
+      "bbox": [
+        0.743291216378291,
+        0.2215061272303104,
+        0.820334360539021,
+        0.23453589955955736
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/22/2002"
+    },
+    {
+      "bbox": [
+        0.1164401797978059,
+        0.36793594959708553,
+        0.1934833239585359,
+        0.38220665262435594
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "65-02026"
+    },
+    {
+      "bbox": [
+        0.39397059683134467,
+        0.05025769090306499,
+        0.6110921849206747,
+        0.068251186024406
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MacGregor Suzuki, Inc."
+    },
+    {
+      "bbox": [
+        0.2757794097665884,
+        0.9347655480379816,
+        0.7345363136327535,
+        0.9484157857162403
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "28 WEST 25TH STREET, NEW YORK, NEW YORK 10010"
+    },
+    {
+      "bbox": [
+        0.5620647295456647,
+        0.9552409045553697,
+        0.7135245470434635,
+        0.9688911422336283
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "tony_oliva@suzukidata.com"
+    },
+    {
+      "bbox": [
+        0.09455292293396216,
+        0.2063391987120834,
+        0.21449509054782592,
+        0.23674200081365954
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Target Research\nTara Bennett"
+    },
+    {
+      "bbox": [
+        0.09455292293396216,
+        0.23798293151168307,
+        0.3572000053000872,
+        0.2708675950093063
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "150 South Stratford Road Suite 520\nWinston-Salem, NC 27104"
+    },
+    {
+      "bbox": [
+        0.8667353450903696,
+        0.8956762310502407,
+        0.8807431894832297,
+        0.9074650726814643
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.867741935483871,
+        0.8944353003522173,
+        0.9297706448582398,
+        0.9093264687284995
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$250.00"
+    },
+    {
+      "bbox": [
+        0.8669354838709677,
+        0.895055765701229,
+        0.9280196643091323,
+        0.908085538030476
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$250.00"
+    },
+    {
+      "bbox": [
+        0.7791863176349947,
+        0.28431101524385477,
+        0.8378441660300959,
+        0.2973407875731017
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05967741935483871,
+        0.4737142857142857,
+        0.3419354838709677,
+        0.48857142857142855
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Sampling & Building"
+    },
+    {
+      "bbox": [
+        0.875,
+        0.4737142857142857,
+        0.9298387096774193,
+        0.48857142857142855
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "50.00"
+    },
+    {
+      "bbox": [
+        0.05967741935483871,
+        0.48857142857142855,
+        0.3419354838709677,
+        0.5051428571428571
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Autocode(R) with Free Data Entry"
+    },
+    {
+      "bbox": [
+        0.875,
+        0.48857142857142855,
+        0.9298387096774193,
+        0.5051428571428571
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "200.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.33005980678892094,
+        0.4015100424439423,
+        0.43424314946081716,
+        0.415160280122201
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.788816710655086,
+        0.40026911174591884,
+        0.8571049520702785,
+        0.41453981477318924
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 730,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "szwk0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1660,
+        2344
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05967741935483871,
+          0.3954285714285714,
+          0.9435483870967742,
+          0.9217142857142857
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05967741935483871,
+            "right": 0.3419354838709677
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.875,
+            "right": 0.9298387096774193
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42342857142857143,
+            "row_type": "header",
+            "top": 0.3954285714285714
+          },
+          {
+            "bottom": 0.4422857142857143,
+            "row_type": "gap-with-text",
+            "top": 0.42342857142857143
+          },
+          {
+            "bottom": 0.4737142857142857,
+            "row_type": "gap",
+            "top": 0.4422857142857143
+          },
+          {
+            "bottom": 0.48857142857142855,
+            "row_type": "data",
+            "top": 0.4737142857142857
+          },
+          {
+            "bottom": 0.5051428571428571,
+            "row_type": "data",
+            "top": 0.48857142857142855
+          },
+          {
+            "bottom": 0.7028571428571428,
+            "row_type": "gap",
+            "top": 0.5051428571428571
+          },
+          {
+            "bottom": 0.8445714285714285,
+            "row_type": "gap-with-text",
+            "top": 0.7028571428571428
+          },
+          {
+            "bottom": 0.8748571428571429,
+            "row_type": "gap",
+            "top": 0.8445714285714285
+          },
+          {
+            "bottom": 0.9217142857142857,
+            "row_type": "footer",
+            "top": 0.8748571428571429
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

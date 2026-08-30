@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8043170539138281,
+        0.1978898218585583,
+        0.8562683284457477,
+        0.21117571095860285
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "201178"
+    },
+    {
+      "bbox": [
+        0.13915519963907064,
+        0.39438112907500666,
+        0.1855402661854275,
+        0.4069677608539963
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/31/00"
+    },
+    {
+      "bbox": [
+        0.2773826979472141,
+        0.39438112907500666,
+        0.3729359350327093,
+        0.40626850353294125
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "143-0-1204-001"
+    },
+    {
+      "bbox": [
+        0.6760033800695113,
+        0.39670177913742505,
+        0.7154077237296838,
+        0.40726289146102945
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "23030"
+    },
+    {
+      "bbox": [
+        0.6373308143469434,
+        0.29368807484309006,
+        0.809883261899391,
+        0.3188613384010692
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 92003\nCHICAGO, ILLINOIS 60675"
+    },
+    {
+      "bbox": [
+        0.46013986013986014,
+        0.39438112907500666,
+        0.533428265283104,
+        0.40626850353294125
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "1120-02-000"
+    },
+    {
+      "bbox": [
+        0.15956462891946763,
+        0.25243189290084644,
+        0.29859733301319275,
+        0.26468787509237
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.1586369275885405,
+        0.2521465542080898,
+        0.38353558490289785,
+        0.31816208108001426
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Co.\nCharles Gaworski, M.S., D.B.A.T.\nManager Toxicology\nP.O. Box 21688\nGreensboro, NC 27420"
+    },
+    {
+      "bbox": [
+        0.776486013986014,
+        0.6761818294601621,
+        0.7885461312880668,
+        0.6887684612391517
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7783414166478683,
+        0.6761818294601621,
+        0.8618345364313106,
+        0.6873699465970416
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$143,700.00"
+    },
+    {
+      "bbox": [
+        0.776486013986014,
+        0.6747833148180522,
+        0.8590514324385292,
+        0.6893617021276596
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$143,700.00"
+    },
+    {
+      "bbox": [
+        0.7653535980148883,
+        0.3964789010381716,
+        0.8340034965034966,
+        0.40626850353294125
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET CASH"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.23709677419354838,
+        0.49544072948328266,
+        0.44516129032258067,
+        0.5088145896656535
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Inititation of the Biological Phase"
+    },
+    {
+      "bbox": [
+        0.7790322580645161,
+        0.49544072948328266,
+        0.8548387096774194,
+        0.5088145896656535
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "143,700.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1051,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gsxx0095",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.16451612903225807,
+          0.4158054711246201,
+          0.8637096774193549,
+          0.6924012158054711
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.23709677419354838,
+            "right": 0.44516129032258067
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7790322580645161,
+            "right": 0.8548387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4413373860182371,
+            "row_type": "gap",
+            "top": 0.4158054711246201
+          },
+          {
+            "bottom": 0.46930091185410333,
+            "row_type": "gap-with-text",
+            "top": 0.4413373860182371
+          },
+          {
+            "bottom": 0.49544072948328266,
+            "row_type": "gap",
+            "top": 0.46930091185410333
+          },
+          {
+            "bottom": 0.5088145896656535,
+            "row_type": "data",
+            "top": 0.49544072948328266
+          },
+          {
+            "bottom": 0.6541033434650456,
+            "row_type": "gap",
+            "top": 0.5088145896656535
+          },
+          {
+            "bottom": 0.6735562310030395,
+            "row_type": "gap-with-text",
+            "top": 0.6541033434650456
+          },
+          {
+            "bottom": 0.6924012158054711,
+            "row_type": "footer",
+            "top": 0.6735562310030395
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

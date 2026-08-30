@@ -1,0 +1,204 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.46784413557306376,
+        0.057885347288296855,
+        0.5271671900275954,
+        0.0714179548156956
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "ST258W"
+    },
+    {
+      "bbox": [
+        0.6794176420211248,
+        0.04719314938154139,
+        0.7840898277666762,
+        0.06
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "APR 27 1999"
+    },
+    {
+      "bbox": [
+        0.22008040726995898,
+        0.05846217887725977,
+        0.3030735559996194,
+        0.07115842055185538
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "460001201"
+    },
+    {
+      "bbox": [
+        0.1812731944047959,
+        0.09180542340627973,
+        0.3320962984108859,
+        0.10397240723120837
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS CO"
+    },
+    {
+      "bbox": [
+        0.18270054239223524,
+        0.09180542340627973,
+        0.48006470644209726,
+        0.14747859181731685
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS CO\nINA BROEHAN\nATIN HARTHA GRIFFIN 917-878-2778\n12U PARK AVE 12TH FLOOR\nNEW YORK NY 10017"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08849557522123894,
+        0.2013082778306375,
+        0.26691407365115616,
+        0.21273786869647957
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "11 MAY 99 - TUESDAY"
+    },
+    {
+      "bbox": [
+        0.08611666190884004,
+        0.3679590865842055,
+        0.27405081358835287,
+        0.38012607040913415
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "13 MAY 99 - THURSDAY"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 845,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hmcl0164",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1813,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.196875,
+          0.775,
+          0.5275
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.08225806451612903,
+            "right": 0.16451612903225807
+          },
+          {
+            "column_type": "",
+            "left": 0.2870967741935484,
+            "right": 0.3217741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.4088709677419355,
+            "right": 0.5145161290322581
+          },
+          {
+            "column_type": "",
+            "left": 0.6725806451612903,
+            "right": 0.7443548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.211875,
+            "row_type": "down-merge",
+            "top": 0.196875
+          },
+          {
+            "bottom": 0.22375,
+            "row_type": "data",
+            "top": 0.211875
+          },
+          {
+            "bottom": 0.28125,
+            "row_type": "up-merge",
+            "top": 0.22375
+          },
+          {
+            "bottom": 0.29,
+            "row_type": "gap",
+            "top": 0.28125
+          },
+          {
+            "bottom": 0.301875,
+            "row_type": "data",
+            "top": 0.29
+          },
+          {
+            "bottom": 0.359375,
+            "row_type": "up-merge",
+            "top": 0.301875
+          },
+          {
+            "bottom": 0.3675,
+            "row_type": "gap",
+            "top": 0.359375
+          },
+          {
+            "bottom": 0.379375,
+            "row_type": "down-merge",
+            "top": 0.3675
+          },
+          {
+            "bottom": 0.390625,
+            "row_type": "data",
+            "top": 0.379375
+          },
+          {
+            "bottom": 0.446875,
+            "row_type": "up-merge",
+            "top": 0.390625
+          },
+          {
+            "bottom": 0.456875,
+            "row_type": "gap",
+            "top": 0.446875
+          },
+          {
+            "bottom": 0.469375,
+            "row_type": "data",
+            "top": 0.456875
+          },
+          {
+            "bottom": 0.5275,
+            "row_type": "up-merge",
+            "top": 0.469375
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

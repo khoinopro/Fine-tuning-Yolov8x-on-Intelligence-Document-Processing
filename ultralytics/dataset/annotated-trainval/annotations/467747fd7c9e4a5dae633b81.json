@@ -1,0 +1,253 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2703892114030363,
+        0.10822942643391521,
+        0.3487860833482953,
+        0.1218354114713217
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7800992"
+    },
+    {
+      "bbox": [
+        0.22559099886288825,
+        0.24923690773067333,
+        0.32478704091607313,
+        0.2640798004987531
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WXME-AM"
+    },
+    {
+      "bbox": [
+        0.2247910307818142,
+        0.24923690773067333,
+        0.434382668023221,
+        0.30056857855361596
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WXME-AM\n274 Britton, Road\nMonticello, ME 04760"
+    },
+    {
+      "bbox": [
+        0.18879246713348094,
+        0.15956109725685785,
+        0.46798132742833204,
+        0.19357605985037404
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "C/O Mainers for Healthcare\nMEDIA FINANCIAL SERVICES"
+    },
+    {
+      "bbox": [
+        0.18959243521455502,
+        0.15956109725685785,
+        0.5575777525086281,
+        0.2306832917705736
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "C/O Mainers for Healthcare\nMEDIA FINANCIAL SERVICES\n1655 Palm Beach Lakes Blvd. Suite 903\nWEST PALM BEACH, FL 33401"
+    },
+    {
+      "bbox": [
+        0.3415863706186287,
+        0.43801995012468825,
+        0.35438585991581384,
+        0.4534812967581047
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3435483870967742,
+        0.4398753117206982,
+        0.45161290322580644,
+        0.4534812967581047
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$380.00 USD"
+    },
+    {
+      "bbox": [
+        0.3435483870967742,
+        0.4398753117206982,
+        0.45161290322580644,
+        0.4540997506234414
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$380.00 USD"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15,
+        0.35349127182044887,
+        0.17661290322580644,
+        0.371571072319202
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "38"
+    },
+    {
+      "bbox": [
+        0.17661290322580644,
+        0.35349127182044887,
+        0.5395161290322581,
+        0.371571072319202
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(:60) second spots to run on WXME-AM"
+    },
+    {
+      "bbox": [
+        0.4237071806651353,
+        0.4068558317712852,
+        0.5222251073604314,
+        0.41985376128696755
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$10.00 USD"
+    },
+    {
+      "bbox": [
+        0.5582682512733447,
+        0.3740515334698011,
+        0.6359612503745131,
+        0.38828736103459605
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3146358"
+    },
+    {
+      "bbox": [
+        0.5911075601717767,
+        0.3542451646839994,
+        0.692829321881554,
+        0.3709567883470196
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/31/2017"
+    },
+    {
+      "bbox": [
+        0.15218216318785577,
+        0.37281363542068846,
+        0.2386857085788475,
+        0.38828736103459605
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11/6/2017"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15218216318785577,
+        0.32020296833340267,
+        0.3588295216218915,
+        0.3332008978490851
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ORDER DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 183,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ad2b07bc-e834-4441-aade-1879ad0f25c3",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15,
+          0.3179551122194514,
+          0.7685483870967742,
+          0.45698254364089774
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.15,
+            "right": 0.17661290322580644
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.17661290322580644,
+            "right": 0.5395161290322581
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3341645885286783,
+            "row_type": "header",
+            "top": 0.3179551122194514
+          },
+          {
+            "bottom": 0.35349127182044887,
+            "row_type": "gap",
+            "top": 0.3341645885286783
+          },
+          {
+            "bottom": 0.371571072319202,
+            "row_type": "data",
+            "top": 0.35349127182044887
+          },
+          {
+            "bottom": 0.42082294264339154,
+            "row_type": "up-merge",
+            "top": 0.371571072319202
+          },
+          {
+            "bottom": 0.4382793017456359,
+            "row_type": "gap",
+            "top": 0.42082294264339154
+          },
+          {
+            "bottom": 0.45698254364089774,
+            "row_type": "footer",
+            "top": 0.4382793017456359
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6263972075108329,
+        0.20829593077852024,
+        0.6964106884930188,
+        0.22202316976965483
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "CO-04"
+    },
+    {
+      "bbox": [
+        0.6450178141550313,
+        0.22262000624753026,
+        0.7068382282137698,
+        0.23813775467229104
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/7/99"
+    },
+    {
+      "bbox": [
+        0.6666177178623015,
+        0.42256022633579465,
+        0.7060934039480019,
+        0.43509379237117835
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "9465"
+    },
+    {
+      "bbox": [
+        0.625652383245065,
+        0.405848804955283,
+        0.7276933076552721,
+        0.4207697169021684
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "CALLE OCHO"
+    },
+    {
+      "bbox": [
+        0.42306018295618686,
+        0.04535957231853163,
+        0.897513240250361,
+        0.06624884904417119
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "37-11 30TH STREET, LONG ISLAND CITY, NY 11101"
+    },
+    {
+      "bbox": [
+        0.2569643716899374,
+        0.20769909430064482,
+        0.28303322099181516,
+        0.22262000624753026
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "PM"
+    },
+    {
+      "bbox": [
+        0.1720544053923929,
+        0.3145328238403443,
+        0.30090900337024556,
+        0.33064740874298054
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS"
+    },
+    {
+      "bbox": [
+        0.1720544053923929,
+        0.31572649679609516,
+        0.3887982667308619,
+        0.3622797420703776
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORR15\n120 PARK AVE\nNEW YORK,N.Y.100175592"
+    },
+    {
+      "bbox": [
+        0.5267079727248886,
+        0.34559643255295425,
+        0.6179943613952268,
+        0.3595364567231575
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "MIAMI, FL."
+    },
+    {
+      "bbox": [
+        0.660659123736158,
+        0.905699355175944,
+        0.7314174289841118,
+        0.9224107765564558
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1250.00"
+    },
+    {
+      "bbox": [
+        0.660659123736158,
+        0.905699355175944,
+        0.7321622532498797,
+        0.9224107765564558
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1250.00"
+    },
+    {
+      "bbox": [
+        0.22940587385652383,
+        0.4759770911056444,
+        0.387308618199326,
+        0.49149483953040524
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "DUE UPON RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.225,
+        0.5707821590174531,
+        0.32741935483870965,
+        0.5888817065287654
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "STAGE MRG."
+    },
+    {
+      "bbox": [
+        0.5040322580645161,
+        0.5707821590174531,
+        0.5758064516129032,
+        0.5888817065287654
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1250.00"
+    },
+    {
+      "bbox": [
+        0.667741935483871,
+        0.5707821590174531,
+        0.7403225806451613,
+        0.5888817065287654
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1250.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.21301974000962928,
+        0.5261859598069138,
+        0.34634328358208955,
+        0.5434942176653008
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.4953081367356765,
+        0.5261859598069138,
+        0.5593630235917189,
+        0.5434942176653008
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PRICE"
+    },
+    {
+      "bbox": [
+        0.667741935483871,
+        0.5248868778280543,
+        0.7582311025517574,
+        0.54230054470955
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 75,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "phvm0014",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10080645161290322,
+          0.5248868778280543,
+          0.7830645161290323,
+          0.925016160310278
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.225,
+            "right": 0.32741935483870965
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.5040322580645161,
+            "right": 0.5758064516129032
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.667741935483871,
+            "right": 0.7403225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5436328377504848,
+            "row_type": "header",
+            "top": 0.5248868778280543
+          },
+          {
+            "bottom": 0.5707821590174531,
+            "row_type": "gap",
+            "top": 0.5436328377504848
+          },
+          {
+            "bottom": 0.5888817065287654,
+            "row_type": "data",
+            "top": 0.5707821590174531
+          },
+          {
+            "bottom": 0.6793794440853265,
+            "row_type": "gap",
+            "top": 0.5888817065287654
+          },
+          {
+            "bottom": 0.702650290885585,
+            "row_type": "gap-with-text",
+            "top": 0.6793794440853265
+          },
+          {
+            "bottom": 0.7899159663865546,
+            "row_type": "gap",
+            "top": 0.702650290885585
+          },
+          {
+            "bottom": 0.925016160310278,
+            "row_type": "footer",
+            "top": 0.7899159663865546
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

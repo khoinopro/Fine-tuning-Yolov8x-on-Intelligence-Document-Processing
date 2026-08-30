@@ -1,0 +1,174 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2767906324233139,
+        0.14510504929260856,
+        0.3320071780218267,
+        0.15844191044082628
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "6/23/99"
+    },
+    {
+      "bbox": [
+        0.5453643371724866,
+        0.11449217181854678,
+        0.6944431698251732,
+        0.14222630039571027
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE RITZ-CARLTON\nKAPALUA"
+    },
+    {
+      "bbox": [
+        0.47648614233928327,
+        0.14720422090956012,
+        0.7633213646583765,
+        0.16142685094913117
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "ONE RITZ-CARLTON DRIVE, KAPALUA, MAUI, HAWAII 96761"
+    },
+    {
+      "bbox": [
+        0.15002236956820997,
+        0.22613981762917934,
+        0.41515624283026653,
+        0.2553191489361702
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DUKE UNIVERSITY\nPRIVATE ADJUDICATION CENTER"
+    },
+    {
+      "bbox": [
+        0.15002236956820997,
+        0.25387394620634285,
+        0.3123107190382233,
+        0.28231920628548485
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "110 Swift Ave., Suite 2\nDurham, NC 27705"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.18064516129032257,
+        0.40425531914893614,
+        0.4879032258064516,
+        0.4547112462006079
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "50% DEPOSIT FOR PRIVATE\nADJUDICATION CENTER ARBITRATION\nHEARING - 8/2-4/99"
+    },
+    {
+      "bbox": [
+        0.6338709677419355,
+        0.40425531914893614,
+        0.7129032258064516,
+        0.4547112462006079
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$8.10000"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3523284482521143,
+        0.32525205933075624,
+        0.4338964491336327,
+        0.33891093846275644
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6355506735351643,
+        0.3261057392765062,
+        0.6887964518883778,
+        0.33891093846275644
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CHARGE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 678,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "skwv0061",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0467741935483871,
+          0.32340425531914896,
+          0.9483870967741935,
+          0.8358662613981763
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.18064516129032257,
+            "right": 0.4879032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6338709677419355,
+            "right": 0.7129032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3398176291793313,
+            "row_type": "header",
+            "top": 0.32340425531914896
+          },
+          {
+            "bottom": 0.40425531914893614,
+            "row_type": "gap-with-text",
+            "top": 0.3398176291793313
+          },
+          {
+            "bottom": 0.4547112462006079,
+            "row_type": "data",
+            "top": 0.40425531914893614
+          },
+          {
+            "bottom": 0.8358662613981763,
+            "row_type": "gap-with-text",
+            "top": 0.4547112462006079
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

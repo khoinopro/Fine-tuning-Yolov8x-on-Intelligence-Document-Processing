@@ -1,0 +1,387 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.9175564320862296,
+        0.09444371752032513,
+        0.9587108490197609,
+        0.11018433710704599
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/8/2020"
+    },
+    {
+      "bbox": [
+        0.5527786456299305,
+        0.1356114918240566,
+        0.6032863391392641,
+        0.15377374519334988
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KFAR-AM"
+    },
+    {
+      "bbox": [
+        0.5527786456299305,
+        0.1356114918240566,
+        0.6491173943606966,
+        0.2276335755618093
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KFAR-AM\n819 1st Avenue\nSuite A\nFairbanks, AK 99701"
+    },
+    {
+      "bbox": [
+        0.0720202296336796,
+        0.13440067493277036,
+        0.13562251034913692,
+        0.15014129451949124
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "ONE ALASKA"
+    },
+    {
+      "bbox": [
+        0.7912871983128953,
+        0.13197904115019793,
+        0.9119444661407483,
+        0.16588191410621209
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "BRIGHT STRATEGY +\nCOMMUNICATIONS, LLC"
+    },
+    {
+      "bbox": [
+        0.7903518706553151,
+        0.13440067493277036,
+        0.9119444661407483,
+        0.2276335755618093
+      ],
+      "fieldtype": "customer_other_address",
+      "page": 0,
+      "text": "BRIGHT STRATEGY +\nCOMMUNICATIONS, LLC\n900 W 5th Ave\nSuite 100\nAnchorage, AK 99501"
+    },
+    {
+      "bbox": [
+        0.21699601655861908,
+        0.5637563519731037,
+        0.22634929313442156,
+        0.5831294222336831
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3152054206045458,
+        0.5637563519731037,
+        0.3625039726680439,
+        0.5819186053423969
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$1,210.40"
+    },
+    {
+      "bbox": [
+        0.21606068890103883,
+        0.5637563519731037,
+        0.2645042110281265,
+        0.5819092662520434
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,424.00"
+    },
+    {
+      "bbox": [
+        0.21699601655861908,
+        0.5637563519731037,
+        0.2628270717800515,
+        0.5819186053423969
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,424.00"
+    },
+    {
+      "bbox": [
+        0.3149312728428413,
+        0.564667510214946,
+        0.365358334657556,
+        0.5837565972560183
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "$1,210.40"
+    },
+    {
+      "bbox": [
+        0.21550433020816784,
+        0.564051733213621,
+        0.2654556650246306,
+        0.5831408202546933
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$1,424.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22983870967741934,
+        0.48851774530271397,
+        0.2620967741935484,
+        0.5052192066805845
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$32.00"
+    },
+    {
+      "bbox": [
+        0.2870967741935484,
+        0.48851774530271397,
+        0.3185483870967742,
+        0.5052192066805845
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$27.20"
+    },
+    {
+      "bbox": [
+        0.7612903225806451,
+        0.48851774530271397,
+        0.7798387096774193,
+        0.5052192066805845
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "40"
+    },
+    {
+      "bbox": [
+        0.22983870967741934,
+        0.5052192066805845,
+        0.2620967741935484,
+        0.5271398747390397
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$18.00"
+    },
+    {
+      "bbox": [
+        0.2870967741935484,
+        0.5052192066805845,
+        0.3185483870967742,
+        0.5271398747390397
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$15.30"
+    },
+    {
+      "bbox": [
+        0.7612903225806451,
+        0.5052192066805845,
+        0.7798387096774193,
+        0.5271398747390397
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.22983870967741934,
+        0.5271398747390397,
+        0.2620967741935484,
+        0.5438413361169102
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$18.00"
+    },
+    {
+      "bbox": [
+        0.2870967741935484,
+        0.5271398747390397,
+        0.3185483870967742,
+        0.5438413361169102
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$15.30"
+    },
+    {
+      "bbox": [
+        0.7612903225806451,
+        0.5271398747390397,
+        0.7798387096774193,
+        0.5438413361169102
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.22359168917845226,
+        0.4162652528956417,
+        0.255465398061338,
+        0.44582254895923756
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "STN\nGross"
+    },
+    {
+      "bbox": [
+        0.2697372080088988,
+        0.42981234692478976,
+        0.31160118385507707,
+        0.44582254895923756
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "STN Net"
+    },
+    {
+      "bbox": [
+        0.7511729302399492,
+        0.4150336988929919,
+        0.7825709121245829,
+        0.4470541029618874
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 537,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "0a2b3efd-6868-45ee-8b3b-64b7ecb74add",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1807
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016129032258064516,
+          0.40501043841336115,
+          0.978225806451613,
+          0.5897703549060542
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.05403225806451613,
+            "right": 0.16532258064516128
+          },
+          {
+            "column_type": "",
+            "left": 0.18548387096774194,
+            "right": 0.2056451612903226
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.22983870967741934,
+            "right": 0.2620967741935484
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.2870967741935484,
+            "right": 0.3185483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.3379032258064516,
+            "right": 0.35161290322580646
+          },
+          {
+            "column_type": "",
+            "left": 0.38064516129032255,
+            "right": 0.3943548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.4080645161290323,
+            "right": 0.4217741935483871
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7612903225806451,
+            "right": 0.7798387096774193
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.47286012526096033,
+            "row_type": "header",
+            "top": 0.40501043841336115
+          },
+          {
+            "bottom": 0.48851774530271397,
+            "row_type": "subsection-header",
+            "top": 0.47286012526096033
+          },
+          {
+            "bottom": 0.5052192066805845,
+            "row_type": "data",
+            "top": 0.48851774530271397
+          },
+          {
+            "bottom": 0.5271398747390397,
+            "row_type": "data",
+            "top": 0.5052192066805845
+          },
+          {
+            "bottom": 0.5438413361169102,
+            "row_type": "data",
+            "top": 0.5271398747390397
+          },
+          {
+            "bottom": 0.5897703549060542,
+            "row_type": "footer",
+            "top": 0.5438413361169102
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

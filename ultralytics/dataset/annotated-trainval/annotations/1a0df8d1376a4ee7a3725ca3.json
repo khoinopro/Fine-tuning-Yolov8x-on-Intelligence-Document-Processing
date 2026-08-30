@@ -1,0 +1,177 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.17416514854959003,
+        0.28311203381915384,
+        0.31069664272218595,
+        0.2959739246262866
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 25, 1999"
+    },
+    {
+      "bbox": [
+        0.4594809632948867,
+        0.121322986297852,
+        0.54525074809562,
+        0.1348618187264128
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Art Carter"
+    },
+    {
+      "bbox": [
+        0.41134485958018935,
+        0.11981866441043591,
+        0.5951372555817608,
+        0.1822477322263757
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Art Carter\nLegislative Advocate\n1020 - 11th Street \u2022 Suite 310\nSacramento, California 95814"
+    },
+    {
+      "bbox": [
+        0.1724147447781465,
+        0.33862124677625316,
+        0.5513771612956724,
+        0.369083619740515
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Jim Savarese\nTobacco Industry Labor Management Committee"
+    },
+    {
+      "bbox": [
+        0.17416514854959003,
+        0.3405016329959773,
+        0.5496267575242288,
+        0.39886905108334886
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Jim Savarese\nTobacco Industry Labor Management Committee\n2101 L Street, NW, 3rd Floor\nWashington, DC 20037"
+    },
+    {
+      "bbox": [
+        0.6108908895247526,
+        0.5714891645474993,
+        0.6213933121534139,
+        0.584351055354632
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6096774193548387,
+        0.5713387491438855,
+        0.6984110780969295,
+        0.5828467567081622
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,500.00"
+    },
+    {
+      "bbox": [
+        0.6096774193548387,
+        0.5720156907653136,
+        0.6975358762112077,
+        0.5848775815724463
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22258064516129034,
+        0.4844139650872818,
+        0.6415229555250145,
+        0.5151525945653581
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Retainer (100% reportable as lobbying under Section\n162 (e) of the Internal Revenue Code)"
+    },
+    {
+      "bbox": [
+        0.6169354838709677,
+        0.5253067188867787,
+        0.7048387096774194,
+        0.5411471321695761
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$7,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 696,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nfyc0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.22258064516129034,
+          0.4844139650872818,
+          0.7048387096774194,
+          0.5885286783042394
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.22258064516129034,
+            "right": 0.6169354838709677
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6169354838709677,
+            "right": 0.7048387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5411471321695761,
+            "row_type": "data",
+            "top": 0.4844139650872818
+          },
+          {
+            "bottom": 0.5685785536159601,
+            "row_type": "gap",
+            "top": 0.5411471321695761
+          },
+          {
+            "bottom": 0.5885286783042394,
+            "row_type": "footer",
+            "top": 0.5685785536159601
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

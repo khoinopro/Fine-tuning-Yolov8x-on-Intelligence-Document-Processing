@@ -1,0 +1,256 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7289204534406658,
+        0.015066828675577158,
+        0.8257364521962316,
+        0.027722964763061967
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "91760008"
+    },
+    {
+      "bbox": [
+        0.3360555328705594,
+        0.030133657351154315,
+        0.4304711349627642,
+        0.04037910085054678
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "07/01/99"
+    },
+    {
+      "bbox": [
+        0.6329045869062202,
+        0.0705127582017011,
+        0.9265531120573994,
+        0.08618226002430134
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.03440568550817632,
+        0.9452928311057108,
+        0.5216862081704875,
+        0.9639756986634265
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company SHIPPERS, WINSTON-SALEM, N.C."
+    },
+    {
+      "bbox": [
+        0.18545859340061052,
+        0.1050789793438639,
+        0.46007602714421825,
+        0.13439611178614824
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DANIEL A. CHRISTOPHERSON\nBGTC"
+    },
+    {
+      "bbox": [
+        0.18643080752104843,
+        0.10546780072904009,
+        0.4928814482101538,
+        0.18200729040097205
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DANIEL A.CHRISTOPHERSON\nBGTC\nTO HAND CARRY TO DENNIS &\nCOMPANY RESEARCH\nW-S NC 27102"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.33232077764277035,
+        0.12096774193548387,
+        0.34993924665856624
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "140"
+    },
+    {
+      "bbox": [
+        0.1282258064516129,
+        0.33232077764277035,
+        0.25,
+        0.34993924665856624
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0339964000"
+    },
+    {
+      "bbox": [
+        0.2645161290322581,
+        0.33232077764277035,
+        0.31693548387096776,
+        0.34993924665856624
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "UNIT"
+    },
+    {
+      "bbox": [
+        0.3370967741935484,
+        0.33232077764277035,
+        0.6725806451612903,
+        0.34993924665856624
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "MISC BRAND FOR TEST CIGARETT"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.05040832993058391,
+        0.2437812879708384,
+        0.08001322211203796,
+        0.25523207776427703
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SHIP"
+    },
+    {
+      "bbox": [
+        0.17362869198312236,
+        0.2425759416767922,
+        0.21043477415465983,
+        0.2534240583232078
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "WHSE"
+    },
+    {
+      "bbox": [
+        0.2680442940753271,
+        0.2528213851761847,
+        0.5928979758502012,
+        0.2775309842041312
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "KIND OF PACKAGE, DESCRIPTION OF ARTICLES\nSPECIAL MARKS, AND EXCEPTIONS"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 683,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "jlnd0004",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.02903225806451613,
+          0.24240583232077764,
+          0.9733870967741935,
+          0.9434993924665857
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.08629032258064516,
+            "right": 0.12096774193548387
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.1282258064516129,
+            "right": 0.25
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.2645161290322581,
+            "right": 0.31693548387096776
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3370967741935484,
+            "right": 0.6725806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2867557715674362,
+            "row_type": "header",
+            "top": 0.24240583232077764
+          },
+          {
+            "bottom": 0.33232077764277035,
+            "row_type": "gap-with-text",
+            "top": 0.2867557715674362
+          },
+          {
+            "bottom": 0.34993924665856624,
+            "row_type": "data",
+            "top": 0.33232077764277035
+          },
+          {
+            "bottom": 0.36330498177399756,
+            "row_type": "gap-with-text",
+            "top": 0.34993924665856624
+          },
+          {
+            "bottom": 0.37970838396111783,
+            "row_type": "gap-with-text",
+            "top": 0.36330498177399756
+          },
+          {
+            "bottom": 0.528554070473876,
+            "row_type": "gap-with-text",
+            "top": 0.37970838396111783
+          },
+          {
+            "bottom": 0.6324422843256379,
+            "row_type": "gap",
+            "top": 0.528554070473876
+          },
+          {
+            "bottom": 0.7181044957472661,
+            "row_type": "gap-with-text",
+            "top": 0.6324422843256379
+          },
+          {
+            "bottom": 0.9434993924665857,
+            "row_type": "gap",
+            "top": 0.7181044957472661
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

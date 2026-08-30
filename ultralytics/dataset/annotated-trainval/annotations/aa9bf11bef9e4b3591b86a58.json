@@ -1,0 +1,216 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6891381612895688,
+        0.1986809230698425,
+        0.7285425049497413,
+        0.21452259155524908
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "6415"
+    },
+    {
+      "bbox": [
+        0.5980703448305035,
+        0.2323444686013315,
+        0.7241642445430554,
+        0.24950627612718868
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 9, 2001"
+    },
+    {
+      "bbox": [
+        0.3809086286588864,
+        0.6657901361630432,
+        0.5271425262421932,
+        0.6803116656079993
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ILSI North America"
+    },
+    {
+      "bbox": [
+        0.13572604588447992,
+        0.31720008618810347,
+        0.3826599328215607,
+        0.33238168515328487
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.13503180379608912,
+        0.3177652619929478,
+        0.3819656907331699,
+        0.36544529196681597
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company\nPO Box 1487\nWinston-Salem, NC 27101-1487"
+    },
+    {
+      "bbox": [
+        0.632220776002653,
+        0.5039997604118565,
+        0.6418529488973618,
+        0.5191813593770377
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6330964280839901,
+        0.5033396908916312,
+        0.7084025070789864,
+        0.5185212898568125
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,875.00"
+    },
+    {
+      "bbox": [
+        0.6306451612903226,
+        0.5039997604118565,
+        0.7084025070789864,
+        0.5191813593770377
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,875.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13790322580645162,
+        0.4182370820668693,
+        0.5120967741935484,
+        0.4553191489361702
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "2001 ILSI North America Technical Committee on\nFood Toxicology and Safety Assessment"
+    },
+    {
+      "bbox": [
+        0.6306451612903226,
+        0.4182370820668693,
+        0.7088709677419355,
+        0.4553191489361702
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$7,500.00"
+    },
+    {
+      "bbox": [
+        0.13790322580645162,
+        0.470516717325228,
+        0.5120967741935484,
+        0.48753799392097263
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2001 ILSI Research Foundation Contribution"
+    },
+    {
+      "bbox": [
+        0.6306451612903226,
+        0.470516717325228,
+        0.7088709677419355,
+        0.48753799392097263
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "375.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 514,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "thxx0065",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13790322580645162,
+          0.38480243161094224,
+          0.85,
+          0.5209726443768997
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13790322580645162,
+            "right": 0.5120967741935484
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6306451612903226,
+            "right": 0.7088709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4182370820668693,
+            "row_type": "gap",
+            "top": 0.38480243161094224
+          },
+          {
+            "bottom": 0.4553191489361702,
+            "row_type": "data",
+            "top": 0.4182370820668693
+          },
+          {
+            "bottom": 0.470516717325228,
+            "row_type": "gap",
+            "top": 0.4553191489361702
+          },
+          {
+            "bottom": 0.48753799392097263,
+            "row_type": "data",
+            "top": 0.470516717325228
+          },
+          {
+            "bottom": 0.502127659574468,
+            "row_type": "gap",
+            "top": 0.48753799392097263
+          },
+          {
+            "bottom": 0.5209726443768997,
+            "row_type": "footer",
+            "top": 0.502127659574468
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

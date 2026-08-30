@@ -1,0 +1,620 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8178495313372923,
+        0.02116095669036845,
+        0.9010749239586997,
+        0.0448868778280543
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "23105"
+    },
+    {
+      "bbox": [
+        0.7482282894328457,
+        0.06797155785391079,
+        0.8042453806203316,
+        0.08143762120232709
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "23105"
+    },
+    {
+      "bbox": [
+        0.8338544145337169,
+        0.23725921137685846,
+        0.9210810279542303,
+        0.2539314802844215
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/17/99"
+    },
+    {
+      "bbox": [
+        0.7610321959899854,
+        0.232770523594053,
+        0.8082466014194376,
+        0.24751906916612798
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "9465"
+    },
+    {
+      "bbox": [
+        0.11994281425540841,
+        0.2372367484152568,
+        0.21449629473079038,
+        0.2540819615105987
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "CONTRACT"
+    },
+    {
+      "bbox": [
+        0.18165542427941817,
+        0.077590174531351,
+        0.461740880216847,
+        0.0897737556561086
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "37-11 30TH STREET, LONG ISLAND CITY, N.Y. 11101"
+    },
+    {
+      "bbox": [
+        0.14404394876782056,
+        0.0849279466782074,
+        0.28968838585528356,
+        0.11414091790562378
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS\nPHILIP MORRIS"
+    },
+    {
+      "bbox": [
+        0.14244346044817813,
+        0.08703359831512514,
+        0.4201281839061433,
+        0.16143328948621838
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS (718) 784-4200\nPHILIP MORRIS\n120 PARK AVE / 12th FLOOR\nATTN:EVETT ROBINSON\nNEW YORK N.Y. 10017-5592"
+    },
+    {
+      "bbox": [
+        0.5937811665873493,
+        0.09810989010989012,
+        0.738625359514991,
+        0.11349967679379444
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "PHILIP MORRIS"
+    },
+    {
+      "bbox": [
+        0.5921806782677068,
+        0.09966750813663153,
+        0.7415443988620863,
+        0.13017194570135746
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "PHILIP MORRIS\nORLANDO, FLA."
+    },
+    {
+      "bbox": [
+        0.8370553911730018,
+        0.8055591467356173,
+        0.9138788305158394,
+        0.8190252100840336
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "1,055.0"
+    },
+    {
+      "bbox": [
+        0.8786680874837055,
+        0.8504460245636717,
+        0.9146790746756606,
+        0.8632708468002586
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "0.0"
+    },
+    {
+      "bbox": [
+        0.8338544145337169,
+        0.9100814479638009,
+        0.912278342196197,
+        0.9261124757595345
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,055.0"
+    },
+    {
+      "bbox": [
+        0.8322539262140745,
+        0.9113639301874595,
+        0.9138788305158394,
+        0.9254712346477052
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1,055.0"
+    },
+    {
+      "bbox": [
+        0.6129870264230586,
+        0.23854169360051714,
+        0.7466278011132033,
+        0.25521396250808015
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "UPON RECEIPT"
+    },
+    {
+      "bbox": [
+        0.8346546586935382,
+        0.8045972850678733,
+        0.9138788305158394,
+        0.818704589528119
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "1,055.0"
+    },
+    {
+      "bbox": [
+        0.8778678433238841,
+        0.8494841628959277,
+        0.9138788305158394,
+        0.8635914673561732
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "0.0"
+    },
+    {
+      "bbox": [
+        0.8338544145337169,
+        0.9110433096315449,
+        0.9138788305158394,
+        0.9270743374272786
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "1,055.0"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2685483870967742,
+        0.29928894634776987,
+        0.29435483870967744,
+        0.3160956690368455
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.29435483870967744,
+        0.29928894634776987,
+        0.5169354838709678,
+        0.3160956690368455
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "\" BLACK GAFFERS TAPE"
+    },
+    {
+      "bbox": [
+        0.7620967741935484,
+        0.29928894634776987,
+        0.8217741935483871,
+        0.3160956690368455
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "25.00"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.29928894634776987,
+        0.925,
+        0.3160956690368455
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "500.0"
+    },
+    {
+      "bbox": [
+        0.2685483870967742,
+        0.33225597931480283,
+        0.29435483870967744,
+        0.3477698771816419
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2\""
+    },
+    {
+      "bbox": [
+        0.29435483870967744,
+        0.33225597931480283,
+        0.5169354838709678,
+        0.3477698771816419
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "WHITE GAFFERS TAFE"
+    },
+    {
+      "bbox": [
+        0.7620967741935484,
+        0.33225597931480283,
+        0.8217741935483871,
+        0.3477698771816419
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "20.00"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.33225597931480283,
+        0.925,
+        0.3477698771816419
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "400.0"
+    },
+    {
+      "bbox": [
+        0.2685483870967742,
+        0.36199095022624433,
+        0.29435483870967744,
+        0.3768584356819651
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.29435483870967744,
+        0.36199095022624433,
+        0.5169354838709678,
+        0.3768584356819651
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "ELECTRICANS TAPE"
+    },
+    {
+      "bbox": [
+        0.7620967741935484,
+        0.36199095022624433,
+        0.8217741935483871,
+        0.3768584356819651
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "7.00"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.36199095022624433,
+        0.925,
+        0.3768584356819651
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "70.0"
+    },
+    {
+      "bbox": [
+        0.2685483870967742,
+        0.39172592113768584,
+        0.29435483870967744,
+        0.40853264382676147
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.29435483870967744,
+        0.39172592113768584,
+        0.5169354838709678,
+        0.40853264382676147
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "CAUTION TAPE"
+    },
+    {
+      "bbox": [
+        0.7620967741935484,
+        0.39172592113768584,
+        0.8217741935483871,
+        0.40853264382676147
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "25.00"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.39172592113768584,
+        0.925,
+        0.40853264382676147
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "50.0"
+    },
+    {
+      "bbox": [
+        0.2685483870967742,
+        0.4240465416936005,
+        0.29435483870967744,
+        0.43891402714932126
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "5"
+    },
+    {
+      "bbox": [
+        0.29435483870967744,
+        0.4240465416936005,
+        0.5169354838709678,
+        0.43891402714932126
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "RUBBER TAPE"
+    },
+    {
+      "bbox": [
+        0.7620967741935484,
+        0.4240465416936005,
+        0.8217741935483871,
+        0.43891402714932126
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "7.00"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.4240465416936005,
+        0.925,
+        0.43891402714932126
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "35.0"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.42092842806596453,
+        0.2624279250161603,
+        0.521759192203439,
+        0.2771764705882353
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.773836102547125,
+        0.2667563025210084,
+        0.805845868939974,
+        0.2915319974143504
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT\nPRICE"
+    },
+    {
+      "bbox": [
+        0.8322539262140745,
+        0.26611506140917907,
+        0.8962734589997724,
+        0.2917647058823529
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXTENDED\nPRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 447,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "trgk0014",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08790322580645162,
+          0.26438267614738203,
+          0.925,
+          0.9347123464770524
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.2685483870967742,
+            "right": 0.29435483870967744
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.29435483870967744,
+            "right": 0.5169354838709678
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.7620967741935484,
+            "right": 0.8217741935483871
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8620967741935484,
+            "right": 0.925
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2915319974143504,
+            "row_type": "header",
+            "top": 0.26438267614738203
+          },
+          {
+            "bottom": 0.29928894634776987,
+            "row_type": "gap",
+            "top": 0.2915319974143504
+          },
+          {
+            "bottom": 0.3160956690368455,
+            "row_type": "data",
+            "top": 0.29928894634776987
+          },
+          {
+            "bottom": 0.33225597931480283,
+            "row_type": "gap",
+            "top": 0.3160956690368455
+          },
+          {
+            "bottom": 0.3477698771816419,
+            "row_type": "data",
+            "top": 0.33225597931480283
+          },
+          {
+            "bottom": 0.36199095022624433,
+            "row_type": "gap",
+            "top": 0.3477698771816419
+          },
+          {
+            "bottom": 0.3768584356819651,
+            "row_type": "data",
+            "top": 0.36199095022624433
+          },
+          {
+            "bottom": 0.39172592113768584,
+            "row_type": "gap",
+            "top": 0.3768584356819651
+          },
+          {
+            "bottom": 0.40853264382676147,
+            "row_type": "data",
+            "top": 0.39172592113768584
+          },
+          {
+            "bottom": 0.4240465416936005,
+            "row_type": "gap",
+            "top": 0.40853264382676147
+          },
+          {
+            "bottom": 0.43891402714932126,
+            "row_type": "data",
+            "top": 0.4240465416936005
+          },
+          {
+            "bottom": 0.453781512605042,
+            "row_type": "gap",
+            "top": 0.43891402714932126
+          },
+          {
+            "bottom": 0.46994182288299935,
+            "row_type": "gap-with-text",
+            "top": 0.453781512605042
+          },
+          {
+            "bottom": 0.6574014221073045,
+            "row_type": "gap",
+            "top": 0.46994182288299935
+          },
+          {
+            "bottom": 0.7569489334195216,
+            "row_type": "gap-with-text",
+            "top": 0.6574014221073045
+          },
+          {
+            "bottom": 0.8047834518422754,
+            "row_type": "gap",
+            "top": 0.7569489334195216
+          },
+          {
+            "bottom": 0.9347123464770524,
+            "row_type": "footer",
+            "top": 0.8047834518422754
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

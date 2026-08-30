@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7274063797508784,
+        0.1646612601372427,
+        0.7903645001596934,
+        0.17760698689956333
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/24/2000"
+    },
+    {
+      "bbox": [
+        0.1499610747365059,
+        0.10663006862133498,
+        0.28238731635260306,
+        0.11943605739238926
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "NNPA Foundation"
+    },
+    {
+      "bbox": [
+        0.14879331683168318,
+        0.10582158452900811,
+        0.3135859150431172,
+        0.15780411728009983
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "NNPA Foundation\n3200 13th Street\nWashington, DC 20010"
+    },
+    {
+      "bbox": [
+        0.17739340466304696,
+        0.2295296319401123,
+        0.28878702890450336,
+        0.24134747348721147
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.17599209517725967,
+        0.2289706799750468,
+        0.32638534014691795,
+        0.27538365564566436
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris U.S.A.\nMs. Karen Maryshow\n120 Park Avenue 17th Floor\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.8255629191951454,
+        0.831101684341859,
+        0.836762416160971,
+        0.8422407985028073
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8241935483870968,
+        0.8304828446662507,
+        0.8887600806451613,
+        0.8434784778540237
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$52,900.00"
+    },
+    {
+      "bbox": [
+        0.8273934046630471,
+        0.8296743605739239,
+        0.8863601884381987,
+        0.8447161572052402
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$52,900.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3758064516129032,
+        0.41734248284466624,
+        0.5604838709677419,
+        0.45539613225202746
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Newspaper recertification project\n50% payment\nPlease submit a copy with payment"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.41734248284466624,
+        0.7774193548387097,
+        0.45539613225202746
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "52,900.00"
+    },
+    {
+      "bbox": [
+        0.8379032258064516,
+        0.41734248284466624,
+        0.8959677419354839,
+        0.45539613225202746
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "52,900.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.49277786649632704,
+        0.3999251403618216,
+        0.5604838709677419,
+        0.41415845290081094
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7185678497285212,
+        0.39984029943855276,
+        0.7503662967103162,
+        0.41292077354959456
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.8223630629191953,
+        0.4005439800374298,
+        0.8735607633343979,
+        0.4123019338739862
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 18,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hrvh0218",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1810,
+        2339
+      ],
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15,
+          0.39550842170929507,
+          0.9048387096774193,
+          0.851528384279476
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.15,
+            "right": 0.22661290322580646
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3758064516129032,
+            "right": 0.5604838709677419
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7209677419354839,
+            "right": 0.7774193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8379032258064516,
+            "right": 0.8959677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41734248284466624,
+            "row_type": "header",
+            "top": 0.39550842170929507
+          },
+          {
+            "bottom": 0.45539613225202746,
+            "row_type": "data",
+            "top": 0.41734248284466624
+          },
+          {
+            "bottom": 0.47660636306924514,
+            "row_type": "gap",
+            "top": 0.45539613225202746
+          },
+          {
+            "bottom": 0.48845913911416095,
+            "row_type": "gap-with-text",
+            "top": 0.47660636306924514
+          },
+          {
+            "bottom": 0.8022457891453525,
+            "row_type": "gap",
+            "top": 0.48845913911416095
+          },
+          {
+            "bottom": 0.851528384279476,
+            "row_type": "footer",
+            "top": 0.8022457891453525
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

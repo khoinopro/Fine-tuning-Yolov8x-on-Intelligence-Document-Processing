@@ -1,0 +1,253 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8812024407679531,
+        0.13705173335971046,
+        0.9019360515900134,
+        0.1491437103979562
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "25"
+    },
+    {
+      "bbox": [
+        0.7435483870967742,
+        0.13543946975461102,
+        0.8262583720894932,
+        0.15056461731493098
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "03/12/2001"
+    },
+    {
+      "bbox": [
+        0.8345518164183173,
+        0.3240743115512447,
+        0.9133395375421467,
+        0.33858468399713965
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "04/30/2001"
+    },
+    {
+      "bbox": [
+        0.08606846574193854,
+        0.0725611891557331,
+        0.5453179454505753,
+        0.0911022206143766
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Boulay, Heutmaker, Zibell & Co. P.L.L.P. Agent"
+    },
+    {
+      "bbox": [
+        0.08295842411862947,
+        0.07220597120428368,
+        0.6127021806222714,
+        0.17171540086934828
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Boulay, Heutmaker, Zibell & Co. P.L.L.P. Agent\nDepository Escrow Account for Phillip Morris Inc., R.J. Reynolds, Brown &\nWilliamson. and Lorillard Cos.\n500 Sentinel Building\n5151 Edina Industrial Boulevard\nMinneapolis, MN 55439"
+    },
+    {
+      "bbox": [
+        0.7381405260957365,
+        0.7839576181106,
+        0.8656522326514078,
+        0.7944373315437463
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "pmargarit@bhz.com"
+    },
+    {
+      "bbox": [
+        0.08192174357752646,
+        0.2353998132707759,
+        0.2374238247429791,
+        0.24910405391412108
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Loillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.07984838249532042,
+        0.23523707231897642,
+        0.25219299428396136,
+        0.2974719620671041
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Co.\nRenald S. Milstein, Esq.\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.8449186218293474,
+        0.7421880444005329,
+        0.8583954688636867,
+        0.7558922850438781
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8467741935483871,
+        0.7413819125979831,
+        0.9247430234942797,
+        0.7565872020075283
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$25,387.50"
+    },
+    {
+      "bbox": [
+        0.8459553023704504,
+        0.7422477268881118,
+        0.9298387096774193,
+        0.755951967531457
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$25,387.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04758064516129032,
+        0.3933500627352572,
+        0.2314516129032258,
+        0.4084065244667503
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2nd Quarter 2001 Escrow"
+    },
+    {
+      "bbox": [
+        0.864516129032258,
+        0.3933500627352572,
+        0.9419354838709677,
+        0.4084065244667503
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "25,387.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09332522952965965,
+        0.36303735379972907,
+        0.19180988093444634,
+        0.3751293308379748
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 802,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hkyx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1728,
+        2221
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04758064516129032,
+          0.35194479297365117,
+          0.9419354838709677,
+          0.7791718946047679
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04758064516129032,
+            "right": 0.2314516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.3209677419354839,
+            "right": 0.38387096774193546
+          },
+          {
+            "column_type": "",
+            "left": 0.6048387096774194,
+            "right": 0.6669354838709678
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.864516129032258,
+            "right": 0.9419354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39021329987452946,
+            "row_type": "header",
+            "top": 0.35194479297365117
+          },
+          {
+            "bottom": 0.3933500627352572,
+            "row_type": "gap",
+            "top": 0.39021329987452946
+          },
+          {
+            "bottom": 0.4084065244667503,
+            "row_type": "data",
+            "top": 0.3933500627352572
+          },
+          {
+            "bottom": 0.4548306148055207,
+            "row_type": "gap-with-text",
+            "top": 0.4084065244667503
+          },
+          {
+            "bottom": 0.6662484316185696,
+            "row_type": "gap",
+            "top": 0.4548306148055207
+          },
+          {
+            "bottom": 0.7195734002509411,
+            "row_type": "gap-with-text",
+            "top": 0.6662484316185696
+          },
+          {
+            "bottom": 0.7791718946047679,
+            "row_type": "footer",
+            "top": 0.7195734002509411
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

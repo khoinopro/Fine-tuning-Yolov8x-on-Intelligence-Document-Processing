@@ -1,0 +1,271 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3833795495403819,
+        0.24006242393143548,
+        0.4614582273328584,
+        0.2566166398792233
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10-MAR-99"
+    },
+    {
+      "bbox": [
+        0.635099725246769,
+        0.14566149435767384,
+        0.7504642820799837,
+        0.17773857434257676
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BOX C 900911\nSEATTLE, WA 98109-9711"
+    },
+    {
+      "bbox": [
+        0.5684975068688308,
+        0.24031517300164965,
+        0.6287566568298225,
+        0.25398737102800173
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "1-15437"
+    },
+    {
+      "bbox": [
+        0.09792111868661173,
+        0.27817664445923995,
+        0.35402250602082697,
+        0.29552981887730223
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS MGMT CORP GOVT A"
+    },
+    {
+      "bbox": [
+        0.09831756046267087,
+        0.27607322937826273,
+        0.35362606424476783,
+        0.3517961722934434
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS MGMT CORP GOVT A\nTRACEY SCOTT\n915 LL ST #1410\nSACRAMENTO, CA. 95814"
+    },
+    {
+      "bbox": [
+        0.4511507411553204,
+        0.6304986705229276,
+        0.5145814253247855,
+        0.6462742836302569
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "8580. 00"
+    },
+    {
+      "bbox": [
+        0.4761265730470472,
+        0.5910596377546045,
+        0.5129956582205488,
+        0.6089386659429109
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "0. 00"
+    },
+    {
+      "bbox": [
+        0.4511507411553204,
+        0.6315503780634162,
+        0.5129956582205488,
+        0.6462742836302569
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "8580. 00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.46203208556149733,
+        0.14274193548387096,
+        0.48128342245989303
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "X  23"
+    },
+    {
+      "bbox": [
+        0.45,
+        0.46203208556149733,
+        0.5112903225806451,
+        0.48128342245989303
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5720. 00"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.48128342245989303,
+        0.14274193548387096,
+        0.4983957219251337
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "X 23"
+    },
+    {
+      "bbox": [
+        0.45,
+        0.48128342245989303,
+        0.5112903225806451,
+        0.4983957219251337
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2860. 00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09712823513449341,
+        0.39228691260225523,
+        0.1474763406940063,
+        0.4070108181690959
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.44837564872290625,
+        0.39228691260225523,
+        0.4923806858654727,
+        0.4075366719393402
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 59,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "snvk0069",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2337,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.025806451612903226,
+          0.3850267379679144,
+          0.521774193548387,
+          0.66524064171123
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.10725806451612903,
+            "right": 0.14274193548387096
+          },
+          {
+            "column_type": "",
+            "left": 0.17419354838709677,
+            "right": 0.22580645161290322
+          },
+          {
+            "column_type": "",
+            "left": 0.25806451612903225,
+            "right": 0.27661290322580645
+          },
+          {
+            "column_type": "",
+            "left": 0.3088709677419355,
+            "right": 0.3193548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.33548387096774196,
+            "right": 0.3685483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.38467741935483873,
+            "right": 0.4032258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.45,
+            "right": 0.5112903225806451
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4128342245989305,
+            "row_type": "header",
+            "top": 0.3850267379679144
+          },
+          {
+            "bottom": 0.4267379679144385,
+            "row_type": "gap",
+            "top": 0.4128342245989305
+          },
+          {
+            "bottom": 0.46203208556149733,
+            "row_type": "gap-with-text",
+            "top": 0.4267379679144385
+          },
+          {
+            "bottom": 0.48128342245989303,
+            "row_type": "data",
+            "top": 0.46203208556149733
+          },
+          {
+            "bottom": 0.4983957219251337,
+            "row_type": "data",
+            "top": 0.48128342245989303
+          },
+          {
+            "bottom": 0.5935828877005348,
+            "row_type": "gap",
+            "top": 0.4983957219251337
+          },
+          {
+            "bottom": 0.66524064171123,
+            "row_type": "footer",
+            "top": 0.5935828877005348
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

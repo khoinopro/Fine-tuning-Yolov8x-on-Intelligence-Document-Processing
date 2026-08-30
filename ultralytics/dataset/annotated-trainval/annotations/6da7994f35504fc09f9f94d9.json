@@ -1,0 +1,222 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6811352307805923,
+        0.07931287564642678,
+        0.7345404373453914,
+        0.09194678546793318
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "990371"
+    },
+    {
+      "bbox": [
+        0.682886221159766,
+        0.09308338720103426,
+        0.7809416823934956,
+        0.10668634692635731
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 17, 1999"
+    },
+    {
+      "bbox": [
+        0.6820107259701792,
+        0.13686735372217815,
+        0.7669337593601055,
+        0.15020314742265714
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "PM-03-0001"
+    },
+    {
+      "bbox": [
+        0.16459306892433878,
+        0.903090605224581,
+        0.32741935483870965,
+        0.9153199741435035
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Glant Step Productions, LLC"
+    },
+    {
+      "bbox": [
+        0.16459306892433878,
+        0.9016868374666357,
+        0.8623627350250745,
+        0.9136188634091696
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Glant Step Productions, LLC / Attn: Accounts Receivable / 5th Floor / 427 South LaSalle Street / Chicago, IL 60605-1029"
+    },
+    {
+      "bbox": [
+        0.31167626077493304,
+        0.17406720198519932,
+        0.42461514023163927,
+        0.20144067326512985
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Malaika Dowdell\nPhilip Morris"
+    },
+    {
+      "bbox": [
+        0.31080076558534614,
+        0.17227349754894736,
+        0.4543819766775929,
+        0.2505725447932103
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Malaika Dowdell\nPhilip Morris\n100 Park Ave\n4th Floor\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7205325143120015,
+        0.46394524400087395,
+        0.8028290621331673,
+        0.47868480545929804
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "46,300.00"
+    },
+    {
+      "bbox": [
+        0.7187815239328277,
+        0.4653490117588191,
+        0.8028290621331673,
+        0.47728103770135294
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "46,300.00"
+    },
+    {
+      "bbox": [
+        0.5839552647364497,
+        0.28660259105373465,
+        0.7240344950703489,
+        0.3006402686331862
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15,
+        0.41952165481577247,
+        0.32983870967741935,
+        0.4369747899159664
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PM Qualitative Prep Work"
+    },
+    {
+      "bbox": [
+        0.7306451612903225,
+        0.41952165481577247,
+        0.8008064516129032,
+        0.4369747899159664
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "46,300.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7424198940516733,
+        0.37879767291531996,
+        0.8008064516129032,
+        0.4051429771224594
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Current\nAmount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 60,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xxwk0041",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15,
+          0.37879767291531996,
+          0.8096774193548387,
+          0.4861021331609567
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15,
+            "right": 0.32983870967741935
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7306451612903225,
+            "right": 0.8008064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40530058177117,
+            "row_type": "header",
+            "top": 0.37879767291531996
+          },
+          {
+            "bottom": 0.41952165481577247,
+            "row_type": "gap",
+            "top": 0.40530058177117
+          },
+          {
+            "bottom": 0.4369747899159664,
+            "row_type": "data",
+            "top": 0.41952165481577247
+          },
+          {
+            "bottom": 0.4550743374272786,
+            "row_type": "gap",
+            "top": 0.4369747899159664
+          },
+          {
+            "bottom": 0.4861021331609567,
+            "row_type": "footer",
+            "top": 0.4550743374272786
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

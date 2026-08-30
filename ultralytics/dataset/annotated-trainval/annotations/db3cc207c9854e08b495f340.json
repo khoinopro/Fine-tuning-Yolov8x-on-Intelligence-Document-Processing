@@ -1,0 +1,216 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6924809262481596,
+        0.40346531339126707,
+        0.8190871369294607,
+        0.4208989997723712
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "Sept 13, 1999"
+    },
+    {
+      "bbox": [
+        0.16183576495783697,
+        0.7803650094398993,
+        0.3897269441841788,
+        0.7969685202790461
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Management Company"
+    },
+    {
+      "bbox": [
+        0.11119328068531657,
+        0.1842989703145294,
+        0.39963525632445457,
+        0.2009024811536762
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Denver Broncos Ticket Office"
+    },
+    {
+      "bbox": [
+        0.11119328068531657,
+        0.1842989703145294,
+        0.40073617989559635,
+        0.26067512017460465
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Denver Broncos Ticket Office\nMile High Stadium\n1900 Eliot Street\nDenver CO 80204"
+    },
+    {
+      "bbox": [
+        0.7508298755186722,
+        0.43916286169543267,
+        0.7640409583723732,
+        0.4541060214506648
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6759670726810334,
+        0.6757628911532745,
+        0.7409215633783964,
+        0.6923664019924213
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$180.00"
+    },
+    {
+      "bbox": [
+        0.7497289519475304,
+        0.4383326861534753,
+        0.8245917547851693,
+        0.45576637253457947
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$120.00"
+    },
+    {
+      "bbox": [
+        0.2565151920760273,
+        0.7604407964329232,
+        0.42936019274528175,
+        0.7795348338979419
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16451612903225807,
+        0.5835866261398176,
+        0.32983870967741935,
+        0.6012158054711246
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "3 Additional Tickets"
+    },
+    {
+      "bbox": [
+        0.3540322580645161,
+        0.5835866261398176,
+        0.3870967741935484,
+        0.6012158054711246
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$60"
+    },
+    {
+      "bbox": [
+        0.40080645161290324,
+        0.5835866261398176,
+        0.4629032258064516,
+        0.6012158054711246
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "9/13/99"
+    },
+    {
+      "bbox": [
+        0.675,
+        0.5835866261398176,
+        0.7443548387096774,
+        0.6012158054711246
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$180.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 146,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mjhk0073",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.16451612903225807,
+          0.5835866261398176,
+          0.7443548387096774,
+          0.6966565349544073
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.16451612903225807,
+            "right": 0.32983870967741935
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.3540322580645161,
+            "right": 0.3870967741935484
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.40080645161290324,
+            "right": 0.4629032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.675,
+            "right": 0.7443548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6012158054711246,
+            "row_type": "data",
+            "top": 0.5835866261398176
+          },
+          {
+            "bottom": 0.6480243161094225,
+            "row_type": "up-merge",
+            "top": 0.6012158054711246
+          },
+          {
+            "bottom": 0.6753799392097265,
+            "row_type": "gap-with-text",
+            "top": 0.6480243161094225
+          },
+          {
+            "bottom": 0.6966565349544073,
+            "row_type": "footer",
+            "top": 0.6753799392097265
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.323400694061918,
+        0.7711177247185861,
+        0.3351177830582485
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "177011"
+    },
+    {
+      "bbox": [
+        0.6125460261298764,
+        0.170297397843199,
+        0.783554720686328,
+        0.18201448683952956
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 29, 2000"
+    },
+    {
+      "bbox": [
+        0.7203333245169732,
+        0.3101213265327434,
+        0.770081308387941,
+        0.3209726443768997
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "08846"
+    },
+    {
+      "bbox": [
+        0.6125460261298764,
+        0.22497714649274153,
+        0.8125743779443926,
+        0.23747537475549407
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BSMG Worldwide, Inc."
+    },
+    {
+      "bbox": [
+        0.6120180959874114,
+        0.2261916964586423,
+        0.830251770259638,
+        0.28066446739478323
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BSMG Worldwide, Inc.\nP.O. Box 100583\nAtlanta, GA 30384-0583\nUSA"
+    },
+    {
+      "bbox": [
+        0.082937281170199,
+        0.19763727216797028,
+        0.17517833459761836,
+        0.21013550043072285
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LORILLARD"
+    },
+    {
+      "bbox": [
+        0.08536585365853658,
+        0.19817712854862699,
+        0.33113690007867824,
+        0.2656196068505157
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LORILLARD\nAttn: Sheldon Johnson\n714 Green Valley Road\nPO Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.7867870298024333,
+        0.5200524246395807,
+        0.7987219555753989,
+        0.5331920470706338
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$\u0301"
+    },
+    {
+      "bbox": [
+        0.7862903225806451,
+        0.5213761090890613,
+        0.8868567920526844,
+        0.5331920470706338
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$38,570.00"
+    },
+    {
+      "bbox": [
+        0.7870967741935484,
+        0.5198138305562172,
+        0.8861599374201989,
+        0.5346554766182359
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$38,570.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15,
+        0.44984802431610943,
+        0.22258064516129034,
+        0.4613981762917933
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Parents"
+    },
+    {
+      "bbox": [
+        0.6782258064516129,
+        0.44984802431610943,
+        0.771774193548387,
+        0.4613981762917933
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "13,738.75"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.47720364741641336,
+        0.22258064516129034,
+        0.48936170212765956
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Teens"
+    },
+    {
+      "bbox": [
+        0.6782258064516129,
+        0.47720364741641336,
+        0.771774193548387,
+        0.48936170212765956
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "24,831.25"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 924,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xnmn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07741935483870968,
+          0.3525835866261398,
+          0.8943548387096775,
+          0.5361702127659574
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15,
+            "right": 0.22258064516129034
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6782258064516129,
+            "right": 0.771774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3799392097264438,
+            "row_type": "gap",
+            "top": 0.3525835866261398
+          },
+          {
+            "bottom": 0.4054711246200608,
+            "row_type": "gap-with-text",
+            "top": 0.3799392097264438
+          },
+          {
+            "bottom": 0.4218844984802432,
+            "row_type": "gap",
+            "top": 0.4054711246200608
+          },
+          {
+            "bottom": 0.43343465045592705,
+            "row_type": "subsection-header",
+            "top": 0.4218844984802432
+          },
+          {
+            "bottom": 0.44984802431610943,
+            "row_type": "gap",
+            "top": 0.43343465045592705
+          },
+          {
+            "bottom": 0.4613981762917933,
+            "row_type": "data",
+            "top": 0.44984802431610943
+          },
+          {
+            "bottom": 0.47720364741641336,
+            "row_type": "gap",
+            "top": 0.4613981762917933
+          },
+          {
+            "bottom": 0.48936170212765956,
+            "row_type": "data",
+            "top": 0.47720364741641336
+          },
+          {
+            "bottom": 0.5179331306990882,
+            "row_type": "gap",
+            "top": 0.48936170212765956
+          },
+          {
+            "bottom": 0.5361702127659574,
+            "row_type": "footer",
+            "top": 0.5179331306990882
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

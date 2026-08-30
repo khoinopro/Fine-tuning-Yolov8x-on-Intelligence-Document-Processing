@@ -1,0 +1,398 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.18803017627145024,
+        0.42845957446808514,
+        0.22483608311607456,
+        0.44172644376899695
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1-99"
+    },
+    {
+      "bbox": [
+        0.5976959220203121,
+        0.2733276595744681,
+        0.7409189073504805,
+        0.2890066869300912
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 18, 1999"
+    },
+    {
+      "bbox": [
+        0.23292342691290535,
+        0.41188337810260645,
+        0.3082295059079016,
+        0.42706497706778773
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "42016250"
+    },
+    {
+      "bbox": [
+        0.377660609362232,
+        0.1545288753799392,
+        0.6289009299972762,
+        0.17262006079027353
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "HMS GROUP LLC"
+    },
+    {
+      "bbox": [
+        0.2256362115257403,
+        0.15511633473497433,
+        0.776924685785439,
+        0.1907112462006079
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "HMS GROUP LLC\n1747 PENNSYLVANIA AVENUE, NW \u2022 SUITE 900 \u2022 WASHINGTON, DC 20006"
+    },
+    {
+      "bbox": [
+        0.1120179773532044,
+        0.3367975683890578,
+        0.45847357873847233,
+        0.36634650455927054
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce Davies\nPhilip Morris USA, Research & Development"
+    },
+    {
+      "bbox": [
+        0.11041772053387292,
+        0.3372955223171503,
+        0.46321992430458,
+        0.3968
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce Davies\nPhilip Morris USA, Research & Devclopment\nP.O. Box 26603\nRichmond, Virginia 23261"
+    },
+    {
+      "bbox": [
+        0.44087075372582585,
+        0.3832245440729483,
+        0.45447293669014355,
+        0.39528533434650454
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.4411290322580645,
+        0.3820184650455927,
+        0.5368861628857153,
+        0.39588837386018233
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$ 10,903.74"
+    },
+    {
+      "bbox": [
+        0.4411290322580645,
+        0.3820184650455927,
+        0.5376862912953811,
+        0.3964914133738602
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$ 10,903.74"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.2303951367781155,
+        0.4290322580645161,
+        0.24680851063829787
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Air: DC-Raleigh (2 flights)"
+    },
+    {
+      "bbox": [
+        0.4411290322580645,
+        0.2303951367781155,
+        0.5129032258064516,
+        0.24680851063829787
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "$ 600.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.24680851063829787,
+        0.4290322580645161,
+        0.2613981762917933
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "Hotel"
+    },
+    {
+      "bbox": [
+        0.4411290322580645,
+        0.24680851063829787,
+        0.5129032258064516,
+        0.2613981762917933
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "148.67"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.2613981762917933,
+        0.4290322580645161,
+        0.27598784194528875
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "D.C. Transportation"
+    },
+    {
+      "bbox": [
+        0.4411290322580645,
+        0.2613981762917933,
+        0.5129032258064516,
+        0.27598784194528875
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "32.75"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.27598784194528875,
+        0.4290322580645161,
+        0.2936170212765957
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "Airport Parking- Raleigh"
+    },
+    {
+      "bbox": [
+        0.4411290322580645,
+        0.27598784194528875,
+        0.5129032258064516,
+        0.2936170212765957
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "20.64"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.2936170212765957,
+        0.4290322580645161,
+        0.30638297872340425
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "Meals"
+    },
+    {
+      "bbox": [
+        0.4411290322580645,
+        0.2936170212765957,
+        0.5129032258064516,
+        0.30638297872340425
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "12.30"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.30638297872340425,
+        0.4290322580645161,
+        0.32340425531914896
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "Personal Car Transportation (275 x .325)"
+    },
+    {
+      "bbox": [
+        0.4411290322580645,
+        0.30638297872340425,
+        0.5129032258064516,
+        0.32340425531914896
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "89.38"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 265,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nxmn0082",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ],
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.38064516129032255,
+          0.711854103343465,
+          0.5653225806451613,
+          0.7282674772036474
+        ],
+        "columns": [],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.7282674772036474,
+            "row_type": "subsection-header",
+            "top": 0.711854103343465
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.11612903225806452,
+          0.17386018237082068,
+          0.5379032258064517,
+          0.39878419452887537
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11612903225806452,
+            "right": 0.4290322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4411290322580645,
+            "right": 0.5129032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.1884498480243161,
+            "row_type": "subsection-header",
+            "top": 0.17386018237082068
+          },
+          {
+            "bottom": 0.2012158054711246,
+            "row_type": "gap",
+            "top": 0.1884498480243161
+          },
+          {
+            "bottom": 0.217629179331307,
+            "row_type": "gap-with-text",
+            "top": 0.2012158054711246
+          },
+          {
+            "bottom": 0.2303951367781155,
+            "row_type": "gap",
+            "top": 0.217629179331307
+          },
+          {
+            "bottom": 0.24680851063829787,
+            "row_type": "data",
+            "top": 0.2303951367781155
+          },
+          {
+            "bottom": 0.2613981762917933,
+            "row_type": "data",
+            "top": 0.24680851063829787
+          },
+          {
+            "bottom": 0.27598784194528875,
+            "row_type": "data",
+            "top": 0.2613981762917933
+          },
+          {
+            "bottom": 0.2936170212765957,
+            "row_type": "data",
+            "top": 0.27598784194528875
+          },
+          {
+            "bottom": 0.30638297872340425,
+            "row_type": "data",
+            "top": 0.2936170212765957
+          },
+          {
+            "bottom": 0.32340425531914896,
+            "row_type": "data",
+            "top": 0.30638297872340425
+          },
+          {
+            "bottom": 0.3373860182370821,
+            "row_type": "gap",
+            "top": 0.32340425531914896
+          },
+          {
+            "bottom": 0.3507598784194529,
+            "row_type": "gap-with-text",
+            "top": 0.3373860182370821
+          },
+          {
+            "bottom": 0.382370820668693,
+            "row_type": "gap",
+            "top": 0.3507598784194529
+          },
+          {
+            "bottom": 0.39878419452887537,
+            "row_type": "footer",
+            "top": 0.382370820668693
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

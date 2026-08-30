@@ -1,0 +1,259 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8334583533943188,
+        0.017905094336262486,
+        0.8744236880115552,
+        0.031035496849521643
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7610"
+    },
+    {
+      "bbox": [
+        0.8230308136735677,
+        0.04894059118578412,
+        0.8848512277323063,
+        0.062070993699043286
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "6/17/99"
+    },
+    {
+      "bbox": [
+        0.4275291285507944,
+        0.31035496849521643,
+        0.522121810303322,
+        0.3246790439642264
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "HM0315-98"
+    },
+    {
+      "bbox": [
+        0.25472989889263364,
+        0.931363323724587,
+        0.47445305729417436,
+        0.945687399193597
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PO. Box 78484 Milwaukee, Wisconsin"
+    },
+    {
+      "bbox": [
+        0.8334583533943188,
+        0.11101158488482742,
+        0.8714443909484834,
+        0.12593249683171281
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "4071"
+    },
+    {
+      "bbox": [
+        0.08490996629754453,
+        0.17487308801749696,
+        0.2174886856042369,
+        0.19158450939800858
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Inc."
+    },
+    {
+      "bbox": [
+        0.08416514203177661,
+        0.17546992449537233,
+        0.25100577756379394,
+        0.22978204398203522
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Inc.\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.8319687048627828,
+        0.8579524369459107,
+        0.9176234954260953,
+        0.8752606948042978
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "28,845.49"
+    },
+    {
+      "bbox": [
+        0.831223880597015,
+        0.8579524369459107,
+        0.9176234954260953,
+        0.8752606948042978
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "28,845.49"
+    },
+    {
+      "bbox": [
+        0.8267549350024073,
+        0.07758874212380411,
+        0.8811271064034666,
+        0.09370332702644034
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1153225806451613,
+        0.3930187459599224,
+        0.37661290322580643,
+        0.4137039431157078
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Listening Stations, Disks & Kiosks"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.3930187459599224,
+        0.9298387096774193,
+        0.4137039431157078
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "28,845.49"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.08267549350024073,
+        0.3404206060681905,
+        0.17130958112662495,
+        0.35713202744870215
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Categories"
+    },
+    {
+      "bbox": [
+        0.7805758305247955,
+        0.34161427902394137,
+        0.9235820895522389,
+        0.35653519097082675
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Current Expens"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 216,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xzjx0022",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.3387201034259858,
+          0.9298387096774193,
+          0.8817065287653523
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1153225806451613,
+            "right": 0.37661290322580643
+          },
+          {
+            "column_type": "",
+            "left": 0.4790322580645161,
+            "right": 0.5403225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.6693548387096774,
+            "right": 0.725
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8419354838709677,
+            "right": 0.9298387096774193
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3561732385261797,
+            "row_type": "header",
+            "top": 0.3387201034259858
+          },
+          {
+            "bottom": 0.3755656108597285,
+            "row_type": "gap",
+            "top": 0.3561732385261797
+          },
+          {
+            "bottom": 0.3930187459599224,
+            "row_type": "down-merge",
+            "top": 0.3755656108597285
+          },
+          {
+            "bottom": 0.4137039431157078,
+            "row_type": "data",
+            "top": 0.3930187459599224
+          },
+          {
+            "bottom": 0.6683904330963154,
+            "row_type": "gap",
+            "top": 0.4137039431157078
+          },
+          {
+            "bottom": 0.7711700064641241,
+            "row_type": "gap-with-text",
+            "top": 0.6683904330963154
+          },
+          {
+            "bottom": 0.8558500323206205,
+            "row_type": "gap",
+            "top": 0.7711700064641241
+          },
+          {
+            "bottom": 0.8817065287653523,
+            "row_type": "footer",
+            "top": 0.8558500323206205
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

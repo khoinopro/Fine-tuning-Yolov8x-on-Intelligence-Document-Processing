@@ -1,0 +1,264 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6993106920187431,
+        0.10326089061549844,
+        0.7447566123223484,
+        0.11887009501086447
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "151-1951"
+    },
+    {
+      "bbox": [
+        0.9120967741935484,
+        0.10326089061549844,
+        0.9543643263757117,
+        0.11899791231732777
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/9/2018"
+    },
+    {
+      "bbox": [
+        0.5499883824497542,
+        0.1440849636495327,
+        0.6000716415598498,
+        0.1608948760753115
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KMPT-AM"
+    },
+    {
+      "bbox": [
+        0.5499883824497542,
+        0.1452856716799455,
+        0.6900360144057623,
+        0.2233316936567757
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KMPT-AM\n3250 South Reserve, Suite 200\nMissoula, MT 59801"
+    },
+    {
+      "bbox": [
+        0.06863261433605701,
+        0.1428842556191199,
+        0.16230685822716187,
+        0.15849346001448597
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Senate Reform Fund"
+    },
+    {
+      "bbox": [
+        0.7864926615807614,
+        0.1440849636495327,
+        0.8235913720326841,
+        0.1608948760753115
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Nonbox"
+    },
+    {
+      "bbox": [
+        0.7874201293420595,
+        0.1428842556191199,
+        0.9024261317430198,
+        0.22573310971760124
+      ],
+      "fieldtype": "customer_other_address",
+      "page": 0,
+      "text": "Nonbox\n5307 S. 92nd Street\nHales Corners, WI 53130"
+    },
+    {
+      "bbox": [
+        0.21331758509855556,
+        0.543920737776986,
+        0.22259226271153623,
+        0.5607306502027648
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.21370967741935484,
+        0.543920737776986,
+        0.2615459086860551,
+        0.5619313582331775
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,200.00"
+    },
+    {
+      "bbox": [
+        0.21370967741935484,
+        0.5427200297465732,
+        0.260618440924757,
+        0.5607306502027648
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,200.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.42066805845511485,
+        0.26129032258064516,
+        0.4373695198329854
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$60.00"
+    },
+    {
+      "bbox": [
+        0.7556451612903226,
+        0.42066805845511485,
+        0.7733870967741936,
+        0.4373695198329854
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2207373271889401,
+        0.34940603685011684,
+        0.2522712310730744,
+        0.38182515367126163
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "STN\nGross"
+    },
+    {
+      "bbox": [
+        0.7466115478449445,
+        0.34820532881970406,
+        0.7781454517290788,
+        0.38182515367126163
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 326,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "b876ad04-6a68-4de2-ad33-3e5ed9b22b73",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.018548387096774192,
+          0.33924843423799583,
+          0.9741935483870968,
+          0.569937369519833
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.050806451612903224,
+            "right": 0.1629032258064516
+          },
+          {
+            "column_type": "",
+            "left": 0.18306451612903227,
+            "right": 0.20483870967741935
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.22903225806451613,
+            "right": 0.26129032258064516
+          },
+          {
+            "column_type": "",
+            "left": 0.33225806451612905,
+            "right": 0.3580645161290323
+          },
+          {
+            "column_type": "",
+            "left": 0.3782258064516129,
+            "right": 0.3919354838709677
+          },
+          {
+            "column_type": "",
+            "left": 0.4080645161290323,
+            "right": 0.41693548387096774
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7556451612903226,
+            "right": 0.7733870967741936
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3914405010438413,
+            "row_type": "header",
+            "top": 0.33924843423799583
+          },
+          {
+            "bottom": 0.40501043841336115,
+            "row_type": "gap",
+            "top": 0.3914405010438413
+          },
+          {
+            "bottom": 0.42066805845511485,
+            "row_type": "gap-with-text",
+            "top": 0.40501043841336115
+          },
+          {
+            "bottom": 0.4373695198329854,
+            "row_type": "data",
+            "top": 0.42066805845511485
+          },
+          {
+            "bottom": 0.4488517745302714,
+            "row_type": "gap",
+            "top": 0.4373695198329854
+          },
+          {
+            "bottom": 0.569937369519833,
+            "row_type": "footer",
+            "top": 0.4488517745302714
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,401 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7825183043556828,
+        0.1835858061153787,
+        0.8509217821782635,
+        0.1968651736445533
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59276-1"
+    },
+    {
+      "bbox": [
+        0.757644312420199,
+        0.19920859144381944,
+        0.8757957741137474,
+        0.21405023750583813
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 19, 2001"
+    },
+    {
+      "bbox": [
+        0.8042830472992313,
+        0.1367174501300566,
+        0.8675044434685861,
+        0.14999681765923117
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "X85635"
+    },
+    {
+      "bbox": [
+        0.3760306372333116,
+        0.30588960838729573,
+        0.4158797413717164,
+        0.31790670014536804
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "3328"
+    },
+    {
+      "bbox": [
+        0.04458987693632803,
+        0.8986754572312471,
+        0.28503846564600543,
+        0.9103925462275776
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Regents of The University of California"
+    },
+    {
+      "bbox": [
+        0.04769912592826351,
+        0.8979362142636887,
+        0.2861890206303624,
+        0.9533552058807895
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Regents of The University of California\nCashier's Office\nOne Shields Avenue\nDavis, California 95616"
+    },
+    {
+      "bbox": [
+        0.21808327901199767,
+        0.28950266508083344,
+        0.29923054562111306,
+        0.3026122197260033
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "94-6036494"
+    },
+    {
+      "bbox": [
+        0.05391762391213448,
+        0.167355473321605,
+        0.1927974122185861,
+        0.19703876544564233
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.050808374920199,
+        0.1683758424738998,
+        0.2166349878234248,
+        0.22906547536894584
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A.\n4201 Commerce Road\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.8125743779443926,
+        0.7779460068610524,
+        0.8260477902427796,
+        0.7927876529230712
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8105015452831023,
+        0.7779460068610524,
+        0.9048154313718119,
+        0.7927876529230712
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$12,667.55"
+    },
+    {
+      "bbox": [
+        0.8120967741935484,
+        0.7794504532448383,
+        0.9037790150411668,
+        0.7911675422411688
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$12,567.55"
+    },
+    {
+      "bbox": [
+        0.7737971494512077,
+        0.22784679089026916,
+        0.8527708285618646,
+        0.2425950398660852
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$12,567.55"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05,
+        0.5635258358662614,
+        0.24838709677419354,
+        0.5781155015197569
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Salaries and Wages"
+    },
+    {
+      "bbox": [
+        0.6241935483870967,
+        0.5635258358662614,
+        0.7040322580645161,
+        0.5781155015197569
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$7,859.80"
+    },
+    {
+      "bbox": [
+        0.05,
+        0.5823708206686931,
+        0.24838709677419354,
+        0.5969604863221885
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Supplies and Expenses"
+    },
+    {
+      "bbox": [
+        0.6241935483870967,
+        0.5823708206686931,
+        0.7040322580645161,
+        0.5969604863221885
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$43.23"
+    },
+    {
+      "bbox": [
+        0.05,
+        0.6006079027355623,
+        0.24838709677419354,
+        0.6139817629179332
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Travel"
+    },
+    {
+      "bbox": [
+        0.6241935483870967,
+        0.6006079027355623,
+        0.7040322580645161,
+        0.6139817629179332
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.05,
+        0.617629179331307,
+        0.24838709677419354,
+        0.6316109422492401
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Employee Benefits"
+    },
+    {
+      "bbox": [
+        0.6241935483870967,
+        0.617629179331307,
+        0.7040322580645161,
+        0.6316109422492401
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$656.19"
+    },
+    {
+      "bbox": [
+        0.05,
+        0.6358662613981763,
+        0.24838709677419354,
+        0.6486322188449848
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Overhead @ 48%"
+    },
+    {
+      "bbox": [
+        0.6241935483870967,
+        0.6358662613981763,
+        0.7040322580645161,
+        0.6486322188449848
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$4,108.33"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1337216813718119,
+        0.37840774204268507,
+        0.29540262895245706,
+        0.39270516717325227
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Services"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 844,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ltfl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05,
+          0.3781155015197568,
+          0.9153225806451613,
+          0.7969604863221884
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05,
+            "right": 0.24838709677419354
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6241935483870967,
+            "right": 0.7040322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39270516717325227,
+            "row_type": "header",
+            "top": 0.3781155015197568
+          },
+          {
+            "bottom": 0.42735562310030395,
+            "row_type": "gap",
+            "top": 0.39270516717325227
+          },
+          {
+            "bottom": 0.5635258358662614,
+            "row_type": "gap-with-text",
+            "top": 0.42735562310030395
+          },
+          {
+            "bottom": 0.5781155015197569,
+            "row_type": "data",
+            "top": 0.5635258358662614
+          },
+          {
+            "bottom": 0.5823708206686931,
+            "row_type": "gap-with-text",
+            "top": 0.5781155015197569
+          },
+          {
+            "bottom": 0.5969604863221885,
+            "row_type": "data",
+            "top": 0.5823708206686931
+          },
+          {
+            "bottom": 0.6006079027355623,
+            "row_type": "gap-with-text",
+            "top": 0.5969604863221885
+          },
+          {
+            "bottom": 0.6139817629179332,
+            "row_type": "data",
+            "top": 0.6006079027355623
+          },
+          {
+            "bottom": 0.617629179331307,
+            "row_type": "gap-with-text",
+            "top": 0.6139817629179332
+          },
+          {
+            "bottom": 0.6316109422492401,
+            "row_type": "data",
+            "top": 0.617629179331307
+          },
+          {
+            "bottom": 0.6358662613981763,
+            "row_type": "gap-with-text",
+            "top": 0.6316109422492401
+          },
+          {
+            "bottom": 0.6486322188449848,
+            "row_type": "data",
+            "top": 0.6358662613981763
+          },
+          {
+            "bottom": 0.7586626139817629,
+            "row_type": "gap-with-text",
+            "top": 0.6486322188449848
+          },
+          {
+            "bottom": 0.7762917933130699,
+            "row_type": "gap",
+            "top": 0.7586626139817629
+          },
+          {
+            "bottom": 0.7969604863221884,
+            "row_type": "footer",
+            "top": 0.7762917933130699
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

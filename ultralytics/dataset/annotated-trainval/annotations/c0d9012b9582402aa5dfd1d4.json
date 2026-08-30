@@ -1,0 +1,424 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7599853294894321,
+        0.23636189962849374,
+        0.7989764760068917,
+        0.24905247142062767
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "8101"
+    },
+    {
+      "bbox": [
+        0.7613534398935534,
+        0.2532826620180056,
+        0.8443548387096774,
+        0.267030781459484
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/17/2021"
+    },
+    {
+      "bbox": [
+        0.07439213357730842,
+        0.25520698869604413,
+        0.23542928055011386,
+        0.2877001865245901
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Geoff Moyer\nAlpha Media Portland"
+    },
+    {
+      "bbox": [
+        0.07439213357730842,
+        0.25385310545318807,
+        0.23542928055011386,
+        0.3398246913745493
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Geoff Moyer\nAlpha Media Portland\n1211 SW 5th Avenue\nSuite 600\nPortland, OR 97204"
+    },
+    {
+      "bbox": [
+        0.06826572037725603,
+        0.04806285253906357,
+        0.33257668986523015,
+        0.06498639307476459
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Neighborhood Research and Media"
+    },
+    {
+      "bbox": [
+        0.0691409222629778,
+        0.04941673578191965,
+        0.3334518917509519,
+        0.10154124063187882
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Neighborhood Research and Media\nPO BOX 297\nRodanthe, NC 27968 US"
+    },
+    {
+      "bbox": [
+        0.3447638218385903,
+        0.2559265311413669,
+        0.5575049896794664,
+        0.2880299251870324
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Neighborhood Research and\nMedia"
+    },
+    {
+      "bbox": [
+        0.34407976663652956,
+        0.2564553049660391,
+        0.5575049896794664,
+        0.3225520330500698
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "Neighborhood Research and\nMedia\nPO BOX 297\nRodanthe, NC 27968 US"
+    },
+    {
+      "bbox": [
+        0.8434400641408369,
+        0.5853526239121758,
+        0.8557530577779294,
+        0.5996295171783265
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.5837663024381591,
+        0.9209677419354839,
+        0.598571969528982
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,020.00"
+    },
+    {
+      "bbox": [
+        0.8411290322580646,
+        0.5848238500875036,
+        0.9201612903225806,
+        0.5991007433536542
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,020.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.45012468827930174,
+        0.38225806451612904,
+        0.463216957605985
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "KXL 12n-4p 11/19"
+    },
+    {
+      "bbox": [
+        0.6653225806451613,
+        0.45012468827930174,
+        0.7096774193548387,
+        0.463216957605985
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.7653225806451613,
+        0.45012468827930174,
+        0.8217741935483871,
+        0.463216957605985
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "200.00"
+    },
+    {
+      "bbox": [
+        0.8580645161290322,
+        0.45012468827930174,
+        0.9185483870967742,
+        0.463216957605985
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "800.00"
+    },
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.4682044887780549,
+        0.38225806451612904,
+        0.48316708229426436
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "KXL 12n-4p 11/22"
+    },
+    {
+      "bbox": [
+        0.6653225806451613,
+        0.4682044887780549,
+        0.7096774193548387,
+        0.48316708229426436
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.7653225806451613,
+        0.4682044887780549,
+        0.8217741935483871,
+        0.48316708229426436
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "200.00"
+    },
+    {
+      "bbox": [
+        0.8580645161290322,
+        0.4682044887780549,
+        0.9185483870967742,
+        0.48316708229426436
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "400.00"
+    },
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.48877805486284287,
+        0.38225806451612904,
+        0.550498753117207
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Agency Commission"
+    },
+    {
+      "bbox": [
+        0.6653225806451613,
+        0.48877805486284287,
+        0.7096774193548387,
+        0.550498753117207
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1,200"
+    },
+    {
+      "bbox": [
+        0.7653225806451613,
+        0.48877805486284287,
+        0.8217741935483871,
+        0.550498753117207
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "-0.15"
+    },
+    {
+      "bbox": [
+        0.8580645161290322,
+        0.48877805486284287,
+        0.9185483870967742,
+        0.550498753117207
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "-180.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2271063270841507,
+        0.4272492503351744,
+        0.33518704900974056,
+        0.43941104830263605
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6744784292318452,
+        0.4261917026858299,
+        0.7114174101431228,
+        0.4399398221273083
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.7777707647430102,
+        0.4256629288611577,
+        0.8217741935483871,
+        0.4389027431421446
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.8530168369696867,
+        0.4251341550364854,
+        0.9185483870967742,
+        0.4389027431421446
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 140,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "a451bee1-cfc0-41f5-8c84-d5126c5f2399",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.02661290322580645,
+          0.422069825436409,
+          0.9709677419354839,
+          0.5991271820448878
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.07580645161290323,
+            "right": 0.19274193548387097
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.22903225806451613,
+            "right": 0.38225806451612904
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6653225806451613,
+            "right": 0.7096774193548387
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7653225806451613,
+            "right": 0.8217741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8580645161290322,
+            "right": 0.9185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4389027431421446,
+            "row_type": "header",
+            "top": 0.422069825436409
+          },
+          {
+            "bottom": 0.45012468827930174,
+            "row_type": "gap",
+            "top": 0.4389027431421446
+          },
+          {
+            "bottom": 0.463216957605985,
+            "row_type": "data",
+            "top": 0.45012468827930174
+          },
+          {
+            "bottom": 0.4682044887780549,
+            "row_type": "gap",
+            "top": 0.463216957605985
+          },
+          {
+            "bottom": 0.48316708229426436,
+            "row_type": "data",
+            "top": 0.4682044887780549
+          },
+          {
+            "bottom": 0.48877805486284287,
+            "row_type": "gap",
+            "top": 0.48316708229426436
+          },
+          {
+            "bottom": 0.550498753117207,
+            "row_type": "data",
+            "top": 0.48877805486284287
+          },
+          {
+            "bottom": 0.5822942643391521,
+            "row_type": "gap",
+            "top": 0.550498753117207
+          },
+          {
+            "bottom": 0.5991271820448878,
+            "row_type": "footer",
+            "top": 0.5822942643391521
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

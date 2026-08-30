@@ -1,0 +1,243 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6657068368419005,
+        0.18890212765957445,
+        0.7265165959764971,
+        0.20458115501519758
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "22014"
+    },
+    {
+      "bbox": [
+        0.6645161290322581,
+        0.17081094224924012,
+        0.7369182653021519,
+        0.18648996960486322
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/26/00"
+    },
+    {
+      "bbox": [
+        0.6657068368419005,
+        0.2069933130699088,
+        0.7161149266508424,
+        0.2214662613981763
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "7579"
+    },
+    {
+      "bbox": [
+        0.43046908440017123,
+        0.9033531914893618,
+        0.893743433596638,
+        0.9148109422492401
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "575 \u2e31 LEXINGTON \u2e31 AVENUE \u2e31 NEW YORK \u2e31 NY \u2e31 10022 \u2e31 USA"
+    },
+    {
+      "bbox": [
+        0.6929112027705359,
+        0.9262686930091185,
+        0.893743433596638,
+        0.9353142857142858
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "INFO@BLUEROCKNY.COM"
+    },
+    {
+      "bbox": [
+        0.09841579438888673,
+        0.1964401215805471,
+        0.12642028872718783,
+        0.2109130699088146
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.09681553756955523,
+        0.19695715990503082,
+        0.380861123000895,
+        0.26578966565349543
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 GRANDVIEW AVENUE\nGREAT NECK, NY\n11020-1510\nYVONNE PENDARVIS/RUSS TILLMAN"
+    },
+    {
+      "bbox": [
+        0.7577216039534612,
+        0.8002334346504559,
+        0.8489362426553563,
+        0.8171185410334347
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "21,470.00"
+    },
+    {
+      "bbox": [
+        0.796127767617417,
+        0.8219428571428572,
+        0.8489362426553563,
+        0.8358127659574468
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "37.13"
+    },
+    {
+      "bbox": [
+        0.7585217323631269,
+        0.8448583586626139,
+        0.8497363710650219,
+        0.8605373860182371
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "21,507.13"
+    },
+    {
+      "bbox": [
+        0.7585217323631269,
+        0.8454613981762917,
+        0.8489362426553563,
+        0.8611404255319149
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "21,507.13"
+    },
+    {
+      "bbox": [
+        0.15080645161290324,
+        0.8273702127659573,
+        0.2728437876960193,
+        0.8442553191489361
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    },
+    {
+      "bbox": [
+        0.651486473376974,
+        0.8237395418794848,
+        0.7101651074706438,
+        0.8380862392707095
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "450.00"
+    },
+    {
+      "bbox": [
+        0.7969278960270827,
+        0.8220936170212766,
+        0.8497363710650219,
+        0.8365665653495441
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "37.13"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08951612903225807,
+        0.4249240121580547,
+        0.5362903225806451,
+        0.48632218844984804
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "100% COSTS FOR CREATING \"BROTHER\" :30\nFOR THEATRE RELEASE / TAPE TO FILM\n(SEE BACK-UP FOR COMPLETE BREAKDOWN)"
+    },
+    {
+      "bbox": [
+        0.7620967741935484,
+        0.4249240121580547,
+        0.853225806451613,
+        0.48632218844984804
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "21,470.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 19,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "njxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08951612903225807,
+          0.4249240121580547,
+          0.853225806451613,
+          0.8638297872340426
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08951612903225807,
+            "right": 0.5362903225806451
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7620967741935484,
+            "right": 0.853225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.48632218844984804,
+            "row_type": "data",
+            "top": 0.4249240121580547
+          },
+          {
+            "bottom": 0.8024316109422492,
+            "row_type": "gap",
+            "top": 0.48632218844984804
+          },
+          {
+            "bottom": 0.8638297872340426,
+            "row_type": "footer",
+            "top": 0.8024316109422492
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.49744401992552106,
+        0.2741692280925593,
+        0.5759878125453403,
+        0.29139844187979663
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1999-1(96)"
+    },
+    {
+      "bbox": [
+        0.3379032258064516,
+        0.31836590693808114,
+        0.3907796101949026,
+        0.3311005432156044
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/1/99"
+    },
+    {
+      "bbox": [
+        0.4088709677419355,
+        0.3179551122194514,
+        0.4693234028147217,
+        0.3340969282220804
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/31/99"
+    },
+    {
+      "bbox": [
+        0.13575470329351452,
+        0.13738425297556356,
+        0.7243483097161096,
+        0.16959539179518118
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Wolper & Ritter Associates, Inc."
+    },
+    {
+      "bbox": [
+        0.6099264883687189,
+        0.1808318355694664,
+        0.856224307201238,
+        0.21603935939556007
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1810 Franklin Way\nQuakertown, PA 18951-2059"
+    },
+    {
+      "bbox": [
+        0.32741935483870965,
+        0.6920199501246883,
+        0.6351380761232287,
+        0.711191999575575
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WOLPER & RITTER ASSOCIATES, INC"
+    },
+    {
+      "bbox": [
+        0.33262672811059907,
+        0.690928927680798,
+        0.6319183157133822,
+        0.74078616863638
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WOLPER & RITTER ASSOCIATES, INC\n1810 FRANKLIN WAY\nQUAKERTOWN, PA 18951-2059"
+    },
+    {
+      "bbox": [
+        0.5522038492816481,
+        0.6068998698904912,
+        0.5630740037950664,
+        0.6220251002927464
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5540322580645162,
+        0.6059850374064838,
+        0.6232221921026475,
+        0.6216049550037949
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2915.00"
+    },
+    {
+      "bbox": [
+        0.5536532032167706,
+        0.6063185014883096,
+        0.6244716351501668,
+        0.6216049550037949
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2915.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.38341645885286785,
+        0.27338709677419354,
+        0.41271820448877805
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RETAINER:"
+    },
+    {
+      "bbox": [
+        0.5548387096774193,
+        0.38341645885286785,
+        0.632258064516129,
+        0.41271820448877805
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$2750.00"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.4644638403990025,
+        0.27338709677419354,
+        0.48940149625935164
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SALES TAX:"
+    },
+    {
+      "bbox": [
+        0.5548387096774193,
+        0.4644638403990025,
+        0.632258064516129,
+        0.48940149625935164
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$165.00"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.5392768079800498,
+        0.27338709677419354,
+        0.564214463840399
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "EXPENSES:"
+    },
+    {
+      "bbox": [
+        0.5548387096774193,
+        0.5392768079800498,
+        0.632258064516129,
+        0.564214463840399
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$0"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 972,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hfyc0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1717741935483871,
+          0.38341645885286785,
+          0.632258064516129,
+          0.6246882793017456
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1717741935483871,
+            "right": 0.27338709677419354
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.5548387096774193,
+            "right": 0.632258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41271820448877805,
+            "row_type": "data",
+            "top": 0.38341645885286785
+          },
+          {
+            "bottom": 0.4644638403990025,
+            "row_type": "gap",
+            "top": 0.41271820448877805
+          },
+          {
+            "bottom": 0.48940149625935164,
+            "row_type": "data",
+            "top": 0.4644638403990025
+          },
+          {
+            "bottom": 0.5392768079800498,
+            "row_type": "gap",
+            "top": 0.48940149625935164
+          },
+          {
+            "bottom": 0.564214463840399,
+            "row_type": "data",
+            "top": 0.5392768079800498
+          },
+          {
+            "bottom": 0.6016209476309227,
+            "row_type": "gap",
+            "top": 0.564214463840399
+          },
+          {
+            "bottom": 0.6246882793017456,
+            "row_type": "footer",
+            "top": 0.6016209476309227
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

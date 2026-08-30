@@ -1,0 +1,243 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8366781056966369,
+        0.16772496072593845,
+        0.8752093342484557,
+        0.17879310534237094
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "43164"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.16832917705735662,
+        0.707258064516129,
+        0.17955112219451372
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10-31-20"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.05610972568578554,
+        0.3687989018531228,
+        0.0885451569314599
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY"
+    },
+    {
+      "bbox": [
+        0.05394371997254632,
+        0.05619211882188801,
+        0.40622923816060397,
+        0.11919540356158063
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY\nP.O. BOX 8439\nHOT SPRINGS VILLAGE AR 71910"
+    },
+    {
+      "bbox": [
+        0.7728263555250514,
+        0.19922660309578474,
+        0.8025504461221689,
+        0.21114614345194282
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "2672"
+    },
+    {
+      "bbox": [
+        0.10458476321207962,
+        0.16857635646566405,
+        0.22338709677419355,
+        0.17955112219451372
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "BRUCE WESTERMAN"
+    },
+    {
+      "bbox": [
+        0.10348387096774193,
+        0.1694277522053896,
+        0.2609114619080302,
+        0.2119975391916684
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "BRUCE WESTERMAN\nPO BOX 21097\nHOT SPRINGS, AR 71903"
+    },
+    {
+      "bbox": [
+        0.6540322580645161,
+        0.19837520735605918,
+        0.7695236787920384,
+        0.20947630922693267
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "BRUCE WESTERMAN"
+    },
+    {
+      "bbox": [
+        0.8963020085657679,
+        0.40970361916331915,
+        0.9686151217833882,
+        0.42294359249355207
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "184.00"
+    },
+    {
+      "bbox": [
+        0.8958262643998625,
+        0.4247824776783066,
+        0.9690908659492935,
+        0.43765467397158864
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "184.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.025806451612903226,
+        0.3322942643391521,
+        0.05161290322580645,
+        0.3478802992518703
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "16"
+    },
+    {
+      "bbox": [
+        0.1782258064516129,
+        0.3322942643391521,
+        0.23870967741935484,
+        0.3478802992518703
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "11.50"
+    },
+    {
+      "bbox": [
+        0.8225806451612904,
+        0.3322942643391521,
+        0.839516129032258,
+        0.3478802992518703
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8951612903225806,
+        0.3322942643391521,
+        0.9717741935483871,
+        0.3478802992518703
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "184.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1093,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "1dba8a79-41aa-4704-9052-cb0ce05b7f1b",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.025806451612903226,
+          0.3322942643391521,
+          0.9717741935483871,
+          0.4407730673316708
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.025806451612903226,
+            "right": 0.05161290322580645
+          },
+          {
+            "column_type": "",
+            "left": 0.06935483870967742,
+            "right": 0.1443548387096774
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.1782258064516129,
+            "right": 0.23870967741935484
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.8225806451612904,
+            "right": 0.839516129032258
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8951612903225806,
+            "right": 0.9717741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3478802992518703,
+            "row_type": "data",
+            "top": 0.3322942643391521
+          },
+          {
+            "bottom": 0.39214463840399,
+            "row_type": "up-merge",
+            "top": 0.3478802992518703
+          },
+          {
+            "bottom": 0.40648379052369077,
+            "row_type": "gap",
+            "top": 0.39214463840399
+          },
+          {
+            "bottom": 0.4407730673316708,
+            "row_type": "footer",
+            "top": 0.40648379052369077
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

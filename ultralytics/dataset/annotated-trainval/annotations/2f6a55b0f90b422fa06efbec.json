@@ -1,0 +1,244 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8320137493389741,
+        0.04984102068317739,
+        0.9219862506610259,
+        0.0649244874688758
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2000683"
+    },
+    {
+      "bbox": [
+        0.07327657324167108,
+        0.1331279894563817,
+        0.20313379164463247,
+        0.14886725914580617
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 25, 2000"
+    },
+    {
+      "bbox": [
+        0.7077218402961396,
+        0.20001988563643558,
+        0.758737176097303,
+        0.21248014080722993
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "A8209"
+    },
+    {
+      "bbox": [
+        0.07420412480169224,
+        0.1895270391768193,
+        0.17345214172395557,
+        0.20524515393386544
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJ Reynolds"
+    },
+    {
+      "bbox": [
+        0.07327657324167108,
+        0.18942941291547535,
+        0.2699175039661555,
+        0.23740065114881861
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJ Reynolds\n401 N. Main St.\nWinston-Salem, NC 27101"
+    },
+    {
+      "bbox": [
+        0.7207075621364357,
+        0.25313992083824305,
+        0.8078974087784242,
+        0.2668187001140251
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 0,
+      "text": "58-2480071"
+    },
+    {
+      "bbox": [
+        0.6724748810153358,
+        0.44266696001506234,
+        0.685460602855632,
+        0.4557830180895827
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6717741935483871,
+        0.44004374840015825,
+        0.7726504494976203,
+        0.4551272151858567
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$6,525.00"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.4413553542076103,
+        0.7726504494976203,
+        0.45447141228213067
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$6,525.00"
+    },
+    {
+      "bbox": [
+        0.8315533907258903,
+        0.05124361445195536,
+        0.9243372457242933,
+        0.06671987387000806
+      ],
+      "fieldtype": "payment_reference",
+      "page": 0,
+      "text": "2000683"
+    },
+    {
+      "bbox": [
+        0.4274193548387097,
+        0.9374046865967837,
+        0.5982707562136436,
+        0.951832350478756
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Payable Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.3694412770809578,
+        0.30483870967741933,
+        0.38369441277080957
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "FINAL TRANSFERS"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.3694412770809578,
+        0.7782258064516129,
+        0.38369441277080957
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$225.00"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.40364880273660203,
+        0.30483870967741933,
+        0.4218928164196123
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "LICENSING"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.40364880273660203,
+        0.7782258064516129,
+        0.4218928164196123
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$6,300.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1091,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "snbd0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1653,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1403225806451613,
+          0.3694412770809578,
+          0.7782258064516129,
+          0.45952109464082097
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1403225806451613,
+            "right": 0.30483870967741933
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6725806451612903,
+            "right": 0.7782258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.38369441277080957,
+            "row_type": "data",
+            "top": 0.3694412770809578
+          },
+          {
+            "bottom": 0.40364880273660203,
+            "row_type": "gap",
+            "top": 0.38369441277080957
+          },
+          {
+            "bottom": 0.4218928164196123,
+            "row_type": "data",
+            "top": 0.40364880273660203
+          },
+          {
+            "bottom": 0.4298745724059293,
+            "row_type": "gap",
+            "top": 0.4218928164196123
+          },
+          {
+            "bottom": 0.45952109464082097,
+            "row_type": "footer",
+            "top": 0.4298745724059293
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

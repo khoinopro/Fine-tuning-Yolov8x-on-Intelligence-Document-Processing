@@ -1,0 +1,243 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2564516129032258,
+        0.1937450856055802,
+        0.3975294177317914,
+        0.21135827520608752
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 09, 2001"
+    },
+    {
+      "bbox": [
+        0.14792140392168557,
+        0.07918113338399708,
+        0.34923459354049424,
+        0.11154211940569471
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "460 sixth street\nbrooklyn, new York 11215"
+    },
+    {
+      "bbox": [
+        0.2529543724184553,
+        0.6000170622186529,
+        0.38074448408952516,
+        0.6172303526557261
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Diva Industries"
+    },
+    {
+      "bbox": [
+        0.25470492189340144,
+        0.6007055938361359,
+        0.4770247052115641,
+        0.6516569335298725
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Diva Industries\n460 Sixth Street\nBrooklyn, New York 11215"
+    },
+    {
+      "bbox": [
+        0.7544867969905309,
+        0.099148550291002,
+        0.905909326573374,
+        0.11154211940569471
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "Kateconsult@aol.com"
+    },
+    {
+      "bbox": [
+        0.1967650639074863,
+        0.2621534559289791,
+        0.44792047068370866,
+        0.2961217501585288
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Mike Fagan\nR.J.Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.1967650639074863,
+        0.2630190752519389,
+        0.4507664630873716,
+        0.3294610019023462
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Mike Fagan\nR.J.Reynolds Tobacco Company\n401 North Main Street\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.6998757354432947,
+        0.5169156626506024,
+        0.7118736051937512,
+        0.5320126823081801
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6982760194765673,
+        0.51628662016487,
+        0.7694633799959424,
+        0.5326417247939125
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 19,500"
+    },
+    {
+      "bbox": [
+        0.6974761614932035,
+        0.5169156626506024,
+        0.7686635220125787,
+        0.5326417247939125
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 19,500"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2524193548387097,
+        0.42866201648700064,
+        0.5330645161290323,
+        0.4489537095751427
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Staff Time & Professional Services"
+    },
+    {
+      "bbox": [
+        0.7048387096774194,
+        0.42866201648700064,
+        0.7733870967741936,
+        0.4489537095751427
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$17,500"
+    },
+    {
+      "bbox": [
+        0.2524193548387097,
+        0.48129359543436906,
+        0.5330645161290323,
+        0.49968294229549776
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Routine Out-of-Pocket Expenses"
+    },
+    {
+      "bbox": [
+        0.7048387096774194,
+        0.48129359543436906,
+        0.7733870967741936,
+        0.49968294229549776
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 2,000"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 284,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jrgh0229",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1772,
+        2254
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1967741935483871,
+          0.4128091312618897,
+          0.7733870967741936,
+          0.534559289790742
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2524193548387097,
+            "right": 0.5330645161290323
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7048387096774194,
+            "right": 0.7733870967741936
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42866201648700064,
+            "row_type": "subsection-header",
+            "top": 0.4128091312618897
+          },
+          {
+            "bottom": 0.4489537095751427,
+            "row_type": "data",
+            "top": 0.42866201648700064
+          },
+          {
+            "bottom": 0.4622701331642359,
+            "row_type": "gap",
+            "top": 0.4489537095751427
+          },
+          {
+            "bottom": 0.48129359543436906,
+            "row_type": "subsection-header",
+            "top": 0.4622701331642359
+          },
+          {
+            "bottom": 0.49968294229549776,
+            "row_type": "data",
+            "top": 0.48129359543436906
+          },
+          {
+            "bottom": 0.5149017121116043,
+            "row_type": "gap",
+            "top": 0.49968294229549776
+          },
+          {
+            "bottom": 0.534559289790742,
+            "row_type": "footer",
+            "top": 0.5149017121116043
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.779158172442739,
+        0.20224673285897776,
+        0.8227539273294161,
+        0.2156307078275866
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "03926"
+    },
+    {
+      "bbox": [
+        0.7337072790502459,
+        0.22827112863127272,
+        0.8273917735939562,
+        0.24388576609464965
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 31, 1999"
+    },
+    {
+      "bbox": [
+        0.38056840943495335,
+        0.13991294717884886,
+        0.5773456009447268,
+        0.15637954299288942
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "E. Morris Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.24938361509510446,
+        0.9359400588496601,
+        0.5110906543084394,
+        0.949750752113049
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "820 North Orleans Suite 402 Chicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.05353398879435812,
+        0.2050356769103115,
+        0.2662123674968404,
+        0.23743768802826226
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "ATTN: KAREN MARRYSHOW\nPHILIP MORRIS USA(MEDIA)"
+    },
+    {
+      "bbox": [
+        0.05287143932799524,
+        0.2050356769103115,
+        0.2688625653622919,
+        0.2756826847576468
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "ATTN: KAREN MARRYSHOW\nPHILIP MORRIS USA(MEDIA)\n120 PARK AVENUE\nNEW YORK, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.7311895900670967,
+        0.8621059679415428,
+        0.7424529309952654,
+        0.8775102027353227
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7570290192552487,
+        0.4557528776918322,
+        0.8173210206942702,
+        0.4695635709552211
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "7,990.00"
+    },
+    {
+      "bbox": [
+        0.7311895900670967,
+        0.8615747874314125,
+        0.8106955260306414,
+        0.878041383245453
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,990.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.0532258064516129,
+        0.41111829347123463,
+        0.15080645161290324,
+        0.4253393665158371
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AGENCY FEE"
+    },
+    {
+      "bbox": [
+        0.7548387096774194,
+        0.41111829347123463,
+        0.8217741935483871,
+        0.4253393665158371
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "7,990.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 81,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jrmk0024",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0532258064516129,
+          0.41111829347123463,
+          0.8217741935483871,
+          0.8829993535875889
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.0532258064516129,
+            "right": 0.15080645161290324
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7548387096774194,
+            "right": 0.8217741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4253393665158371,
+            "row_type": "data",
+            "top": 0.41111829347123463
+          },
+          {
+            "bottom": 0.44020685197155784,
+            "row_type": "up-merge",
+            "top": 0.4253393665158371
+          },
+          {
+            "bottom": 0.4486102133160957,
+            "row_type": "gap",
+            "top": 0.44020685197155784
+          },
+          {
+            "bottom": 0.46994182288299935,
+            "row_type": "gap-with-text",
+            "top": 0.4486102133160957
+          },
+          {
+            "bottom": 0.4945054945054945,
+            "row_type": "gap",
+            "top": 0.46994182288299935
+          },
+          {
+            "bottom": 0.5966386554621849,
+            "row_type": "gap-with-text",
+            "top": 0.4945054945054945
+          },
+          {
+            "bottom": 0.8597285067873304,
+            "row_type": "gap",
+            "top": 0.5966386554621849
+          },
+          {
+            "bottom": 0.8829993535875889,
+            "row_type": "footer",
+            "top": 0.8597285067873304
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

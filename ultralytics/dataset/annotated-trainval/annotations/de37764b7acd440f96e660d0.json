@@ -1,0 +1,236 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.35248044965786907,
+        0.20061074827809108,
+        0.4180840664711633,
+        0.2184428147916992
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9910-01"
+    },
+    {
+      "bbox": [
+        0.35161290322580646,
+        0.16940463187927693,
+        0.48924731182795705,
+        0.18616677440206852
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 18, 1999"
+    },
+    {
+      "bbox": [
+        0.3241935483870968,
+        0.07756948933419522,
+        0.7161290322580646,
+        0.10471881060116355
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Concert Staging Services, Inc."
+    },
+    {
+      "bbox": [
+        0.3293514036012718,
+        0.10601483152926475,
+        0.7075184936650211,
+        0.12087672379972243
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "9823 Hilaro Springs Road, Little Rock, AR 72209"
+    },
+    {
+      "bbox": [
+        0.34838709677419355,
+        0.23270846800258566,
+        0.4392106549364614,
+        0.25054053451619374
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "See Factor"
+    },
+    {
+      "bbox": [
+        0.7228322400934496,
+        0.5044534129046933,
+        0.7346477670949771,
+        0.5206182184010867
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7225806451612903,
+        0.4704515806536587,
+        0.8069309911043221,
+        0.48661638615005215
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$18,000.00"
+    },
+    {
+      "bbox": [
+        0.7225806451612903,
+        0.5038960058186107,
+        0.8069309911043221,
+        0.5195034042289217
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$18,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1879032258064516,
+        0.3742727860374919,
+        0.2064516129032258,
+        0.3956043956043956
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.34919354838709676,
+        0.3742727860374919,
+        0.567741935483871,
+        0.3956043956043956
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Hydraulic Mobile Stage"
+    },
+    {
+      "bbox": [
+        0.1879032258064516,
+        0.3956043956043956,
+        0.2064516129032258,
+        0.41499676793794443
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.34919354838709676,
+        0.3956043956043956,
+        0.567741935483871,
+        0.41499676793794443
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Truss Signage Wings"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1879032258064516,
+        0.36005171299288946,
+        0.2757575757575758,
+        0.37625660343713085
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.34919354838709676,
+        0.36005171299288946,
+        0.3969574780058651,
+        0.37714820676281124
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Iten"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 547,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jhjn0014",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1879032258064516,
+          0.36005171299288946,
+          0.8387096774193549,
+          0.5235940530058177
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.1879032258064516,
+            "right": 0.2064516129032258
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.34919354838709676,
+            "right": 0.567741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3742727860374919,
+            "row_type": "header",
+            "top": 0.36005171299288946
+          },
+          {
+            "bottom": 0.3956043956043956,
+            "row_type": "data",
+            "top": 0.3742727860374919
+          },
+          {
+            "bottom": 0.41499676793794443,
+            "row_type": "data",
+            "top": 0.3956043956043956
+          },
+          {
+            "bottom": 0.4673561732385262,
+            "row_type": "gap",
+            "top": 0.41499676793794443
+          },
+          {
+            "bottom": 0.5235940530058177,
+            "row_type": "footer",
+            "top": 0.4673561732385262
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

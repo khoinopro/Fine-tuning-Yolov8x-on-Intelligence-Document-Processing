@@ -1,0 +1,314 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.04069155987627044,
+        0.056172823137369286,
+        0.19473817940786567,
+        0.08905447570558545
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "WOC12387625"
+    },
+    {
+      "bbox": [
+        0.14242045956694654,
+        0.9127398788110779,
+        0.18117432611577552,
+        0.933290911666213
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "2/12/20"
+    },
+    {
+      "bbox": [
+        0.13370083959346002,
+        0.2151008105504141,
+        0.1734235528060097,
+        0.2329117056915312
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "92689"
+    },
+    {
+      "bbox": [
+        0.4001336721166593,
+        0.18632936455322496,
+        0.46795293857711007,
+        0.20551032855135104
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "ASSEMBLY"
+    },
+    {
+      "bbox": [
+        0.40110251878038,
+        0.21373074169340509,
+        0.5658064516129032,
+        0.23428177454854018
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "MIKE BLOOMBERG 2020 INC"
+    },
+    {
+      "bbox": [
+        0.6927253645603181,
+        0.18632936455322496,
+        0.8593669907202828,
+        0.20688039740836006
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "MIKE BLOOMBERG 2020 INC"
+    },
+    {
+      "bbox": [
+        0.9271862571807337,
+        0.5336374002280502,
+        0.967741935483871,
+        0.552959793824674
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$120.00"
+    },
+    {
+      "bbox": [
+        0.6951612903225807,
+        0.2419541632836294,
+        0.7435483870967742,
+        0.2611351272817555
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$120.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.0467741935483871,
+        0.49372862029646525,
+        0.06451612903225806,
+        0.5108323831242874
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.06451612903225806,
+        0.49372862029646525,
+        0.14919354838709678,
+        0.5108323831242874
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "FOX36 DAYBREAK"
+    },
+    {
+      "bbox": [
+        0.40080645161290324,
+        0.49372862029646525,
+        0.4290322580645161,
+        0.5108323831242874
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "60.00"
+    },
+    {
+      "bbox": [
+        0.8685483870967742,
+        0.49372862029646525,
+        0.882258064516129,
+        0.5108323831242874
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.9330645161290323,
+        0.49372862029646525,
+        0.9701612903225807,
+        0.5108323831242874
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "120.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.0467741935483871,
+        0.46719348024007135,
+        0.06878811312417145,
+        0.49372862029646525
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line"
+    },
+    {
+      "bbox": [
+        0.10657313300927972,
+        0.46856354909708037,
+        0.14242045956694654,
+        0.48637444423819753
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Program"
+    },
+    {
+      "bbox": [
+        0.39044520547945205,
+        0.4630832736690444,
+        0.41660406539991157,
+        0.48911458195221547
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.8632423773751657,
+        0.46034313595502635,
+        0.890370083959346,
+        0.4918547196662335
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    },
+    {
+      "bbox": [
+        0.9058716305788777,
+        0.4658234113830624,
+        0.9591581970835175,
+        0.4880185435910816
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Cost"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 512,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "67eb316e-807a-4433-bd8c-8967d9f147e7",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2337,
+        1653
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0467741935483871,
+          0.4412770809578107,
+          0.9701612903225807,
+          0.5598631698973774
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.0467741935483871,
+            "right": 0.06451612903225806
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.06451612903225806,
+            "right": 0.14919354838709678
+          },
+          {
+            "column_type": "",
+            "left": 0.18387096774193548,
+            "right": 0.20483870967741935
+          },
+          {
+            "column_type": "",
+            "left": 0.21935483870967742,
+            "right": 0.23870967741935484
+          },
+          {
+            "column_type": "",
+            "left": 0.2467741935483871,
+            "right": 0.3161290322580645
+          },
+          {
+            "column_type": "",
+            "left": 0.33548387096774196,
+            "right": 0.36693548387096775
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.40080645161290324,
+            "right": 0.4290322580645161
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8685483870967742,
+            "right": 0.882258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9330645161290323,
+            "right": 0.9701612903225807
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.49372862029646525,
+            "row_type": "header",
+            "top": 0.4412770809578107
+          },
+          {
+            "bottom": 0.5108323831242874,
+            "row_type": "data",
+            "top": 0.49372862029646525
+          },
+          {
+            "bottom": 0.5290763968072976,
+            "row_type": "up-merge",
+            "top": 0.5108323831242874
+          },
+          {
+            "bottom": 0.5598631698973774,
+            "row_type": "footer",
+            "top": 0.5290763968072976
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

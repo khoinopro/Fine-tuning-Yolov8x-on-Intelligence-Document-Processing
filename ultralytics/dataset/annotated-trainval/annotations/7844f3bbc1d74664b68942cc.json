@@ -1,0 +1,232 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5824880911412581,
+        0.16613895760297118,
+        0.6696378439079169,
+        0.17904840363293179
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "FE06-001448"
+    },
+    {
+      "bbox": [
+        0.6,
+        0.18908578676905508,
+        0.6683698596404827,
+        0.20095664333751592
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "JUN04/99"
+    },
+    {
+      "bbox": [
+        0.36456537798571786,
+        0.3281443922853108,
+        0.40282223863854005,
+        0.33916733052745307
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "90101"
+    },
+    {
+      "bbox": [
+        0.2903225806451613,
+        0.083095995979226,
+        0.667741935483871,
+        0.11022938242142223
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Bozell Worldwide, Inc."
+    },
+    {
+      "bbox": [
+        0.29079535176912324,
+        0.08149182617267724,
+        0.6649971222627237,
+        0.1375174566663928
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Bozell Worldwide, Inc.\n40 WEST 23RD STREET\nNEW YORK, NY 10010-5201"
+    },
+    {
+      "bbox": [
+        0.11451612903225807,
+        0.6147407865810086,
+        0.2887096774193548,
+        0.6249158064968323
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC."
+    },
+    {
+      "bbox": [
+        0.11589578374237325,
+        0.6120375694843779,
+        0.2869264548961668,
+        0.6478096013074353
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC.\nP.O. BOX 198261\nATLANTA, GA 30384-8261"
+    },
+    {
+      "bbox": [
+        0.20080645161290323,
+        0.2526796612429525,
+        0.43432788858792304,
+        0.26455051781141337
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.20141111931927003,
+        0.2512664640324215,
+        0.43770349393964264,
+        0.30609851580102637
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC.\nYOUTH SMOKING PREVENTION PRGM.\n714 GREEN VALLEY RD, BOX 10529\nGREENSBORO, NC 27404\nATTN: VICTOR LYNDSLEY"
+    },
+    {
+      "bbox": [
+        0.5749781115762402,
+        0.5714969519387584,
+        0.587355331199212,
+        0.5884553184651311
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5749781115762402,
+        0.5731927885913957,
+        0.6661194560726696,
+        0.5850636451598564
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$113,900.00"
+    },
+    {
+      "bbox": [
+        0.575,
+        0.5731927885913957,
+        0.6649942542887631,
+        0.5850636451598564
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$113,900.00"
+    },
+    {
+      "bbox": [
+        0.16612903225806452,
+        0.6885096809707296,
+        0.31055569235820407,
+        0.7003805375391906
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET DUE IN 20 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16451612903225807,
+        0.4231003039513678,
+        0.4588709677419355,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SBRVICE FEE FOR THE MONTH OF JUNE 1999"
+    },
+    {
+      "bbox": [
+        0.5758064516129032,
+        0.4231003039513678,
+        0.667741935483871,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$113,900.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 831,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mzhh0097",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.16451612903225807,
+          0.4231003039513678,
+          0.667741935483871,
+          0.5884498480243161
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.16451612903225807,
+            "right": 0.4588709677419355
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5758064516129032,
+            "right": 0.667741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4370820668693009,
+            "row_type": "data",
+            "top": 0.4231003039513678
+          },
+          {
+            "bottom": 0.5708206686930091,
+            "row_type": "gap",
+            "top": 0.4370820668693009
+          },
+          {
+            "bottom": 0.5884498480243161,
+            "row_type": "footer",
+            "top": 0.5708206686930091
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

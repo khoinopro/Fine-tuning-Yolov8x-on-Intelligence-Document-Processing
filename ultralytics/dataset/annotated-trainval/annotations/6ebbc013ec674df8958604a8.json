@@ -1,0 +1,266 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7591272153851427,
+        0.09725065056622405,
+        0.8658153645744062,
+        0.11744477472751648
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "M501185"
+    },
+    {
+      "bbox": [
+        0.7570755202084262,
+        0.24020379265537306,
+        0.8309365465702238,
+        0.2529579763361893
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "M501185"
+    },
+    {
+      "bbox": [
+        0.7577594186006651,
+        0.15092450688965917,
+        0.8418789208460457,
+        0.16421011489050943
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02/23/90"
+    },
+    {
+      "bbox": [
+        0.2557779986973364,
+        0.07280513184465953,
+        0.3734085221624216,
+        0.0855593155254758
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WINONA MRB, INC."
+    },
+    {
+      "bbox": [
+        0.2537263035206198,
+        0.07340208006003801,
+        0.38845428679167665,
+        0.10150204512649615
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WINONA MRB, INC.\n8200 Humboidt Avenue South\nMinneapolis, MN. 55431-1486"
+    },
+    {
+      "bbox": [
+        0.19012375304240514,
+        0.16314726625044143,
+        0.39050598196839326,
+        0.1764328742512917
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.18943985465016627,
+        0.16173339674245663,
+        0.42209085252022405,
+        0.21575827393380853
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORIS U.S.A.\nAttn: Ms. lie Ellis\n120 Park Avnue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7987933221349971,
+        0.5197329849932629,
+        0.8924874018717219,
+        0.5330185929941132
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "29,500.00"
+    },
+    {
+      "bbox": [
+        0.7994772205272359,
+        0.519201560673229,
+        0.8911196050872441,
+        0.5330185929941132
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "29,500.00"
+    },
+    {
+      "bbox": [
+        0.3269034314901786,
+        0.5590583846757798,
+        0.3706729285934661,
+        0.5680925981163579
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12741935483870967,
+        0.2775689223057644,
+        0.36532258064516127,
+        0.2907268170426065
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "LA PARLIAMENT - PREWAVE"
+    },
+    {
+      "bbox": [
+        0.7677419354838709,
+        0.2775689223057644,
+        0.7774193548387097,
+        0.2907268170426065
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7967741935483871,
+        0.2775689223057644,
+        0.8903225806451613,
+        0.2907268170426065
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "29,500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3275809462633238,
+        0.2586352063886973,
+        0.39966477306943415,
+        0.26921008232955024
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8025332717746955,
+        0.2567690518108997,
+        0.8706124415360219,
+        0.2685880308036177
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT OUE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 219,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "stpj0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1721,
+        2216
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09435483870967742,
+          0.2556390977443609,
+          0.9040322580645161,
+          0.5344611528822055
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12741935483870967,
+            "right": 0.36532258064516127
+          },
+          {
+            "column_type": "",
+            "left": 0.6491935483870968,
+            "right": 0.7532258064516129
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.7677419354838709,
+            "right": 0.7774193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7967741935483871,
+            "right": 0.8903225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.26879699248120303,
+            "row_type": "header",
+            "top": 0.2556390977443609
+          },
+          {
+            "bottom": 0.2775689223057644,
+            "row_type": "gap",
+            "top": 0.26879699248120303
+          },
+          {
+            "bottom": 0.2907268170426065,
+            "row_type": "data",
+            "top": 0.2775689223057644
+          },
+          {
+            "bottom": 0.30388471177944865,
+            "row_type": "gap",
+            "top": 0.2907268170426065
+          },
+          {
+            "bottom": 0.31641604010025065,
+            "row_type": "gap-with-text",
+            "top": 0.30388471177944865
+          },
+          {
+            "bottom": 0.5112781954887218,
+            "row_type": "gap",
+            "top": 0.31641604010025065
+          },
+          {
+            "bottom": 0.5344611528822055,
+            "row_type": "footer",
+            "top": 0.5112781954887218
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

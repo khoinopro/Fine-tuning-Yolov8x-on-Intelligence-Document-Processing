@@ -1,0 +1,322 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.18879186357098832,
+        0.1608200400980021,
+        0.2852398808300801,
+        0.17196598347113098
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 16, 2004"
+    },
+    {
+      "bbox": [
+        0.8112903225806452,
+        0.13587435731052325,
+        0.865980069858229,
+        0.1470203006836521
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "42523149"
+    },
+    {
+      "bbox": [
+        0.15459043901102665,
+        0.08863678777678666,
+        0.31875727689884253,
+        0.10349804560762513
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.15322238202862817,
+        0.21336520171418102,
+        0.3529587014588042,
+        0.22504190429555415
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "21 Banfi Plaza, Farmingdale NY 11735"
+    },
+    {
+      "bbox": [
+        0.16963906581740978,
+        0.2377801252934157,
+        0.3173892199164441,
+        0.2505183462912772
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Martha Payne/Judith Lightner"
+    },
+    {
+      "bbox": [
+        0.5116533114170263,
+        0.2276957003367753,
+        0.6484590096568729,
+        0.23937240291814837
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "Door 100, 2000 Bells Road"
+    },
+    {
+      "bbox": [
+        0.2831877953564824,
+        0.25370290154074265,
+        0.4480386617354976,
+        0.26591036333035994
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "F.O.B. (Check One) x Shipping Point"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15564516129032258,
+        0.40863579474342926,
+        0.175,
+        0.42428035043804757
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "60"
+    },
+    {
+      "bbox": [
+        0.175,
+        0.40863579474342926,
+        0.22338709677419355,
+        0.42428035043804757
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "cartons"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.40863579474342926,
+        0.27580645161290324,
+        0.42428035043804757
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "case"
+    },
+    {
+      "bbox": [
+        0.29596774193548386,
+        0.40863579474342926,
+        0.45806451612903226,
+        0.42428035043804757
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Newport 100 Menthol Box"
+    },
+    {
+      "bbox": [
+        0.6862903225806452,
+        0.40863579474342926,
+        0.7241935483870968,
+        0.42428035043804757
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$39.70"
+    },
+    {
+      "bbox": [
+        0.8056451612903226,
+        0.40863579474342926,
+        0.8685483870967742,
+        0.42428035043804757
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$2382.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15937863844942127,
+        0.3810851115193582,
+        0.22094120265735226,
+        0.39276181410073124
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.15937863844942127,
+        0.3800235931028697,
+        0.22025717416615304,
+        0.39276181410073124
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.3800235931028697,
+        0.279083624409287,
+        0.39329257330897555
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "U ofM"
+    },
+    {
+      "bbox": [
+        0.410884528456955,
+        0.38005612350595563,
+        0.48976439969865077,
+        0.3917002956842428
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6895007191288268,
+        0.37683903785340434,
+        0.7264382576535854,
+        0.3980694061831736
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT\nPRICE"
+    },
+    {
+      "bbox": [
+        0.772268166563934,
+        0.3805543523111139,
+        0.8509314430518458,
+        0.39329257330897555
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1130,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "flbn0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1717,
+        2213
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15564516129032258,
+          0.3742177722152691,
+          0.882258064516129,
+          0.7546933667083855
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.15564516129032258,
+            "right": 0.175
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.175,
+            "right": 0.22338709677419355
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.2435483870967742,
+            "right": 0.27580645161290324
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.29596774193548386,
+            "right": 0.45806451612903226
+          },
+          {
+            "column_type": "",
+            "left": 0.614516129032258,
+            "right": 0.6596774193548387
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6862903225806452,
+            "right": 0.7241935483870968
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8056451612903226,
+            "right": 0.8685483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3979974968710889,
+            "row_type": "header",
+            "top": 0.3742177722152691
+          },
+          {
+            "bottom": 0.40863579474342926,
+            "row_type": "gap",
+            "top": 0.3979974968710889
+          },
+          {
+            "bottom": 0.42428035043804757,
+            "row_type": "data",
+            "top": 0.40863579474342926
+          },
+          {
+            "bottom": 0.7346683354192741,
+            "row_type": "gap",
+            "top": 0.42428035043804757
+          },
+          {
+            "bottom": 0.7546933667083855,
+            "row_type": "gap-with-text",
+            "top": 0.7346683354192741
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

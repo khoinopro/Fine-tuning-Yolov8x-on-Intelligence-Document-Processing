@@ -1,0 +1,343 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6387096774193548,
+        0.0982546864899806,
+        0.7516129032258064,
+        0.11312217194570136
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "PR09011328"
+    },
+    {
+      "bbox": [
+        0.635483870967742,
+        0.08144796380090498,
+        0.7016129032258065,
+        0.09566903684550743
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/27/01"
+    },
+    {
+      "bbox": [
+        0.6427419354838709,
+        0.1363930187459599,
+        0.6943548387096774,
+        0.15061409179056237
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "18021"
+    },
+    {
+      "bbox": [
+        0.6758822596430711,
+        0.2400442839311471,
+        0.7222835046911752,
+        0.25338007763162607
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "20148"
+    },
+    {
+      "bbox": [
+        0.22741935483870968,
+        0.09179056237879767,
+        0.36129032258064514,
+        0.11247575953458307
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The CPS Group"
+    },
+    {
+      "bbox": [
+        0.22661290322580646,
+        0.09335055322587835,
+        0.4153225806451613,
+        0.14738202973497092
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The CPS Group\n40 West 23rd Street\nNew York, NY 10010"
+    },
+    {
+      "bbox": [
+        0.6387096774193548,
+        0.1182934712346477,
+        0.7475806451612903,
+        0.13122171945701358
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "100070 024"
+    },
+    {
+      "bbox": [
+        0.13548387096774195,
+        0.2727860374919198,
+        0.31290322580645163,
+        0.28894634776987715
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co. Inc."
+    },
+    {
+      "bbox": [
+        0.7387096774193549,
+        0.4814156431803491,
+        0.7516129032258064,
+        0.49369747899159666
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7467741935483871,
+        0.46590174531351003,
+        0.8008064516129032,
+        0.4788299935358759
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "858.10"
+    },
+    {
+      "bbox": [
+        0.739516129032258,
+        0.4807692307692308,
+        0.8008064516129032,
+        0.49369747899159666
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$858.10"
+    },
+    {
+      "bbox": [
+        0.739516129032258,
+        0.4807692307692308,
+        0.8024193548387096,
+        0.49369747899159666
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$858.10"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.38461538461538464,
+        0.22419354838709676,
+        0.39819004524886875
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Downloads"
+    },
+    {
+      "bbox": [
+        0.7475806451612903,
+        0.38461538461538464,
+        0.8040322580645162,
+        0.39819004524886875
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "125.00"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.39819004524886875,
+        0.22419354838709676,
+        0.416289592760181
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "High Res Output"
+    },
+    {
+      "bbox": [
+        0.7475806451612903,
+        0.39819004524886875,
+        0.8040322580645162,
+        0.416289592760181
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "400.00"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.416289592760181,
+        0.22419354838709676,
+        0.43244990303813835
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Printouts"
+    },
+    {
+      "bbox": [
+        0.7475806451612903,
+        0.416289592760181,
+        0.8040322580645162,
+        0.43244990303813835
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "30.00"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.43244990303813835,
+        0.22419354838709676,
+        0.449256625727214
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Shipping"
+    },
+    {
+      "bbox": [
+        0.7475806451612903,
+        0.43244990303813835,
+        0.8040322580645162,
+        0.449256625727214
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "303.10"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.3471234647705236,
+        0.22741935483870968,
+        0.36134453781512604
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Item Description"
+    },
+    {
+      "bbox": [
+        0.7508064516129033,
+        0.3477698771816419,
+        0.7959677419354839,
+        0.36005171299288946
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 505,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tlbd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10887096774193548,
+          0.34841628959276016,
+          0.8040322580645162,
+          0.49903038138332256
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10887096774193548,
+            "right": 0.22419354838709676
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7475806451612903,
+            "right": 0.8040322580645162
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.36134453781512604,
+            "row_type": "header",
+            "top": 0.34841628959276016
+          },
+          {
+            "bottom": 0.38461538461538464,
+            "row_type": "gap",
+            "top": 0.36134453781512604
+          },
+          {
+            "bottom": 0.39819004524886875,
+            "row_type": "data",
+            "top": 0.38461538461538464
+          },
+          {
+            "bottom": 0.416289592760181,
+            "row_type": "data",
+            "top": 0.39819004524886875
+          },
+          {
+            "bottom": 0.43244990303813835,
+            "row_type": "data",
+            "top": 0.416289592760181
+          },
+          {
+            "bottom": 0.449256625727214,
+            "row_type": "data",
+            "top": 0.43244990303813835
+          },
+          {
+            "bottom": 0.46218487394957986,
+            "row_type": "gap",
+            "top": 0.449256625727214
+          },
+          {
+            "bottom": 0.49903038138332256,
+            "row_type": "footer",
+            "top": 0.46218487394957986
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

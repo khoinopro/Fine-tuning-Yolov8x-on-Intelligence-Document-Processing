@@ -1,0 +1,943 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7913450292397661,
+        0.16918928979230485,
+        0.8173728227378483,
+        0.1785453795504047
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1145"
+    },
+    {
+      "bbox": [
+        0.6862327862667422,
+        0.169579126865559,
+        0.7457963906181225,
+        0.17932505369691298
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/31/2004"
+    },
+    {
+      "bbox": [
+        0.3723976608187135,
+        0.3777521239832798,
+        0.4364660755832233,
+        0.38749805081463373
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "8500012125"
+    },
+    {
+      "bbox": [
+        0.10961705338615356,
+        0.1395616722249888,
+        0.2562736590580394,
+        0.16840961564579657
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1941 Reymet Road\nRichmond, VA 23237"
+    },
+    {
+      "bbox": [
+        0.15166195057536316,
+        0.22989949748743718,
+        0.2637816764132554,
+        0.2631400244465571
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Brenda Strang\nPhilip Morris USA\nAttn: Research Center"
+    },
+    {
+      "bbox": [
+        0.15047741450390623,
+        0.22855384996116013,
+        0.2630976748321462,
+        0.2853607376220442
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Brenda Strang\nPhilip Morris USA\nAttn: Research Center\n615 Maury Street\nRichmond, VA 23224"
+    },
+    {
+      "bbox": [
+        0.780333270452116,
+        0.8194375279802416,
+        0.7883418222976797,
+        0.8291834548115955
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7798327359617683,
+        0.8190476909069874,
+        0.8449022197069737,
+        0.8299631289581038
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$200,774.00"
+    },
+    {
+      "bbox": [
+        0.7793322014714206,
+        0.8190476909069874,
+        0.8444016852166258,
+        0.830352966031358
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$200,774.00"
+    },
+    {
+      "bbox": [
+        0.5130478526064265,
+        0.3769724498367715,
+        0.5490863359114634,
+        0.38827772496114205
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.4214824120603015,
+        0.25161290322580643,
+        0.4334170854271357
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.4214824120603015,
+        0.35161290322580646,
+        0.4334170854271357
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Nitric Oxide"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.4214824120603015,
+        0.7258064516129032,
+        0.4334170854271357
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "225.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.4214824120603015,
+        0.842741935483871,
+        0.4334170854271357
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4,500.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.4334170854271357,
+        0.25161290322580643,
+        0.44472361809045224
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.4334170854271357,
+        0.35161290322580646,
+        0.44472361809045224
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Ammonia"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.4334170854271357,
+        0.7258064516129032,
+        0.44472361809045224
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "246.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.4334170854271357,
+        0.842741935483871,
+        0.44472361809045224
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "4,920.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.44472361809045224,
+        0.25161290322580643,
+        0.45603015075376885
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.44472361809045224,
+        0.35161290322580646,
+        0.45603015075376885
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Hydrogen Cyanide"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.44472361809045224,
+        0.7258064516129032,
+        0.45603015075376885
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "230.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.44472361809045224,
+        0.842741935483871,
+        0.45603015075376885
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4,600.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.45603015075376885,
+        0.25161290322580643,
+        0.46733668341708545
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.45603015075376885,
+        0.35161290322580646,
+        0.46733668341708545
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Metals 1"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.45603015075376885,
+        0.7258064516129032,
+        0.46733668341708545
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "521.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.45603015075376885,
+        0.842741935483871,
+        0.46733668341708545
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "10,420.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.46733668341708545,
+        0.25161290322580643,
+        0.478643216080402
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.46733668341708545,
+        0.35161290322580646,
+        0.478643216080402
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Mercury"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.46733668341708545,
+        0.7258064516129032,
+        0.478643216080402
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "179.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.46733668341708545,
+        0.842741935483871,
+        0.478643216080402
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "3,580.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.478643216080402,
+        0.25161290322580643,
+        0.4899497487437186
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.478643216080402,
+        0.35161290322580646,
+        0.4899497487437186
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Aromatic Amines 1"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.478643216080402,
+        0.7258064516129032,
+        0.4899497487437186
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "434.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.478643216080402,
+        0.842741935483871,
+        0.4899497487437186
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "8,680.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.5012562814070352,
+        0.25161290322580643,
+        0.5125628140703518
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "85"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.5012562814070352,
+        0.35161290322580646,
+        0.5125628140703518
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Nitric Oxide"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.5012562814070352,
+        0.7258064516129032,
+        0.5125628140703518
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "225.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.5012562814070352,
+        0.842741935483871,
+        0.5125628140703518
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "19,125.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.5125628140703518,
+        0.25161290322580643,
+        0.5238693467336684
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "85"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.5125628140703518,
+        0.35161290322580646,
+        0.5238693467336684
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Ammonia"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.5125628140703518,
+        0.7258064516129032,
+        0.5238693467336684
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "246.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.5125628140703518,
+        0.842741935483871,
+        0.5238693467336684
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "20,910.141"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.5238693467336684,
+        0.25161290322580643,
+        0.535175879396985
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "85"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.5238693467336684,
+        0.35161290322580646,
+        0.535175879396985
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Hydrogen Cyanide"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.5238693467336684,
+        0.7258064516129032,
+        0.535175879396985
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "230.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.5238693467336684,
+        0.842741935483871,
+        0.535175879396985
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "19,550.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.535175879396985,
+        0.25161290322580643,
+        0.5445979899497487
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "83"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.535175879396985,
+        0.35161290322580646,
+        0.5445979899497487
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "Metals 1"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.535175879396985,
+        0.7258064516129032,
+        0.5445979899497487
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "521.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.535175879396985,
+        0.842741935483871,
+        0.5445979899497487
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "44,287.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.5445979899497487,
+        0.25161290322580643,
+        0.5577889447236181
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "85"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.5445979899497487,
+        0.35161290322580646,
+        0.5577889447236181
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "Mercury"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.5445979899497487,
+        0.7258064516129032,
+        0.5577889447236181
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "179.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.5445979899497487,
+        0.842741935483871,
+        0.5577889447236181
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "15,215.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.5577889447236181,
+        0.25161290322580643,
+        0.5690954773869347
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "85"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.5577889447236181,
+        0.35161290322580646,
+        0.5690954773869347
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "Aromatic Amines 1"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.5577889447236181,
+        0.7258064516129032,
+        0.5690954773869347
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "434.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.5577889447236181,
+        0.842741935483871,
+        0.5690954773869347
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "36,890.00"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.5904522613065326,
+        0.25161290322580643,
+        0.6017587939698492
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.5904522613065326,
+        0.35161290322580646,
+        0.6017587939698492
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "Report"
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.5904522613065326,
+        0.7258064516129032,
+        0.6017587939698492
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "300.00"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.5904522613065326,
+        0.842741935483871,
+        0.6017587939698492
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "360.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1619060184268971,
+        0.40432549234881143,
+        0.21441607845724212,
+        0.41591009954929326
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.3903247795588979,
+        0.4034169095697209,
+        0.4594630252655188,
+        0.41568296425258405
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6432482353717263,
+        0.40432549234881143,
+        0.6738791037227608,
+        0.415228652066912
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.7648965411086922,
+        0.4050069398311927,
+        0.8130307628031751,
+        0.41659154703167456
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 492,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qkbn0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1822,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12096774193548387,
+          0.3957286432160804,
+          0.8564516129032258,
+          0.8391959798994975
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.2314516129032258,
+            "right": 0.25161290322580643
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.25161290322580643,
+            "right": 0.35161290322580646
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6846774193548387,
+            "right": 0.7258064516129032
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7887096774193548,
+            "right": 0.842741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4214824120603015,
+            "row_type": "header",
+            "top": 0.3957286432160804
+          },
+          {
+            "bottom": 0.4334170854271357,
+            "row_type": "data",
+            "top": 0.4214824120603015
+          },
+          {
+            "bottom": 0.44472361809045224,
+            "row_type": "data",
+            "top": 0.4334170854271357
+          },
+          {
+            "bottom": 0.45603015075376885,
+            "row_type": "data",
+            "top": 0.44472361809045224
+          },
+          {
+            "bottom": 0.46733668341708545,
+            "row_type": "data",
+            "top": 0.45603015075376885
+          },
+          {
+            "bottom": 0.478643216080402,
+            "row_type": "data",
+            "top": 0.46733668341708545
+          },
+          {
+            "bottom": 0.4899497487437186,
+            "row_type": "data",
+            "top": 0.478643216080402
+          },
+          {
+            "bottom": 0.5012562814070352,
+            "row_type": "gap-with-text",
+            "top": 0.4899497487437186
+          },
+          {
+            "bottom": 0.5125628140703518,
+            "row_type": "data",
+            "top": 0.5012562814070352
+          },
+          {
+            "bottom": 0.5238693467336684,
+            "row_type": "data",
+            "top": 0.5125628140703518
+          },
+          {
+            "bottom": 0.535175879396985,
+            "row_type": "data",
+            "top": 0.5238693467336684
+          },
+          {
+            "bottom": 0.5445979899497487,
+            "row_type": "data",
+            "top": 0.535175879396985
+          },
+          {
+            "bottom": 0.5577889447236181,
+            "row_type": "data",
+            "top": 0.5445979899497487
+          },
+          {
+            "bottom": 0.5690954773869347,
+            "row_type": "data",
+            "top": 0.5577889447236181
+          },
+          {
+            "bottom": 0.5904522613065326,
+            "row_type": "gap-with-text",
+            "top": 0.5690954773869347
+          },
+          {
+            "bottom": 0.6017587939698492,
+            "row_type": "data",
+            "top": 0.5904522613065326
+          },
+          {
+            "bottom": 0.6670854271356784,
+            "row_type": "gap",
+            "top": 0.6017587939698492
+          },
+          {
+            "bottom": 0.7399497487437185,
+            "row_type": "gap-with-text",
+            "top": 0.6670854271356784
+          },
+          {
+            "bottom": 0.8015075376884422,
+            "row_type": "gap",
+            "top": 0.7399497487437185
+          },
+          {
+            "bottom": 0.8391959798994975,
+            "row_type": "footer",
+            "top": 0.8015075376884422
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

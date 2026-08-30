@@ -1,0 +1,396 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7623580964943838,
+        0.1381736414740787,
+        0.8159551504976617,
+        0.14932667083073078
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42025638"
+    },
+    {
+      "bbox": [
+        0.20958847983371307,
+        0.1654366021236727,
+        0.25038623735859616,
+        0.17535040599625235
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/4/01"
+    },
+    {
+      "bbox": [
+        0.1839898868769237,
+        0.19084072454715803,
+        0.25838579765759284,
+        0.20261336664584637
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ARISTA Labs"
+    },
+    {
+      "bbox": [
+        0.1559914258304353,
+        0.20633104309806372,
+        0.366379861694048,
+        0.2174840724547158
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1941 Reymet Road Richmond, Va 23237"
+    },
+    {
+      "bbox": [
+        0.5775682535875604,
+        0.13941286695815114,
+        0.6024193548387097,
+        0.14990630855715179
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "632"
+    },
+    {
+      "bbox": [
+        0.14879182156133827,
+        0.09294191130543411,
+        0.32078236798976695,
+        0.10595377888819488
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.841553743454451,
+        0.6916427232979387,
+        0.8519531718431467,
+        0.7040349781386633
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8423536994843506,
+        0.6916427232979387,
+        0.8847513690690331,
+        0.7040349781386633
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2750"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.18467741935483872,
+        0.43472829481574016,
+        0.1975806451612903,
+        0.5365396627108058
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.43472829481574016,
+        0.27661290322580645,
+        0.5365396627108058
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Lot"
+    },
+    {
+      "bbox": [
+        0.3,
+        0.43472829481574016,
+        0.5879032258064516,
+        0.5365396627108058
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Perform Sidestream collection (use modified\nCorresta fishtail methods) and analysis of Tar,\nNicotine, Water, CO, and TPM for the\nfollowing three ISO conditioned brands:"
+    },
+    {
+      "bbox": [
+        0.3,
+        0.5365396627108058,
+        0.5879032258064516,
+        0.5521549031855091
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Marlboro Lights"
+    },
+    {
+      "bbox": [
+        0.7008064516129032,
+        0.5365396627108058,
+        0.7370967741935484,
+        0.5521549031855091
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$750"
+    },
+    {
+      "bbox": [
+        0.3,
+        0.5640224859462836,
+        0.5879032258064516,
+        0.5771392879450343
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Marlboro Ultra (German brand)"
+    },
+    {
+      "bbox": [
+        0.7008064516129032,
+        0.5640224859462836,
+        0.7370967741935484,
+        0.5771392879450343
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$750"
+    },
+    {
+      "bbox": [
+        0.3,
+        0.5902560899437851,
+        0.5879032258064516,
+        0.6027482823235478
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Merit Ultima"
+    },
+    {
+      "bbox": [
+        0.7008064516129032,
+        0.5902560899437851,
+        0.7370967741935484,
+        0.6027482823235478
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$750"
+    },
+    {
+      "bbox": [
+        0.3,
+        0.6027482823235478,
+        0.5879032258064516,
+        0.6420986883198001
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Perform analysis using,five replicates"
+    },
+    {
+      "bbox": [
+        0.3,
+        0.6420986883198001,
+        0.5879032258064516,
+        0.6883198001249219
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Submit report in Excel spreadsheet showing\nmean, and standard deviation."
+    },
+    {
+      "bbox": [
+        0.7008064516129032,
+        0.6420986883198001,
+        0.7370967741935484,
+        0.6883198001249219
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$500"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15999120597993363,
+        0.38307557776389756,
+        0.22158782028220808,
+        0.3948482198625859
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.24238667705959946,
+        0.3836951905059338,
+        0.2823844785545829,
+        0.39422860712054963
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "U of M"
+    },
+    {
+      "bbox": [
+        0.41437722348802813,
+        0.38323048094940665,
+        0.4959727385377942,
+        0.39500312304809493
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7008064516129032,
+        0.3779637726420987,
+        0.7370967741935484,
+        0.4002698313554029
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT\nPRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 842,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "jxkm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1708,
+        2207
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15161290322580645,
+          0.37726420986883197,
+          0.9032258064516129,
+          0.7551530293566521
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.18467741935483872,
+            "right": 0.1975806451612903
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.25161290322580643,
+            "right": 0.27661290322580645
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3,
+            "right": 0.5879032258064516
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7008064516129032,
+            "right": 0.7370967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.400999375390381,
+            "row_type": "header",
+            "top": 0.37726420986883197
+          },
+          {
+            "bottom": 0.43472829481574016,
+            "row_type": "gap",
+            "top": 0.400999375390381
+          },
+          {
+            "bottom": 0.5365396627108058,
+            "row_type": "data",
+            "top": 0.43472829481574016
+          },
+          {
+            "bottom": 0.5521549031855091,
+            "row_type": "data",
+            "top": 0.5365396627108058
+          },
+          {
+            "bottom": 0.5640224859462836,
+            "row_type": "gap",
+            "top": 0.5521549031855091
+          },
+          {
+            "bottom": 0.5771392879450343,
+            "row_type": "data",
+            "top": 0.5640224859462836
+          },
+          {
+            "bottom": 0.5902560899437851,
+            "row_type": "gap",
+            "top": 0.5771392879450343
+          },
+          {
+            "bottom": 0.6027482823235478,
+            "row_type": "data",
+            "top": 0.5902560899437851
+          },
+          {
+            "bottom": 0.6420986883198001,
+            "row_type": "data",
+            "top": 0.6027482823235478
+          },
+          {
+            "bottom": 0.6883198001249219,
+            "row_type": "data",
+            "top": 0.6420986883198001
+          },
+          {
+            "bottom": 0.7551530293566521,
+            "row_type": "footer",
+            "top": 0.6883198001249219
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

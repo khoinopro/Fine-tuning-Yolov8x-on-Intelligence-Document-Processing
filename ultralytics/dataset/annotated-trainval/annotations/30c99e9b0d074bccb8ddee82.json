@@ -1,0 +1,598 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7627215502976749,
+        0.23636189962849374,
+        0.800344586411013,
+        0.25011001906997216
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7209"
+    },
+    {
+      "bbox": [
+        0.7627215502976749,
+        0.25381143584267785,
+        0.8467741935483871,
+        0.2659732338101395
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05/04/2020"
+    },
+    {
+      "bbox": [
+        0.07456201702461575,
+        0.2564553049660391,
+        0.17853840773784138,
+        0.28500909149834036
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Mark Turcotte\nWSB"
+    },
+    {
+      "bbox": [
+        0.07319390662049437,
+        0.2564553049660391,
+        0.29209157127991675,
+        0.32360958069941426
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Mark Turcotte\nWSB\n1601 W. Peachtree Street NE\nAtlanta, GA 30309"
+    },
+    {
+      "bbox": [
+        0.07182579621637297,
+        0.04970473951919108,
+        0.33313488340355846,
+        0.06292408513599722
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Neighborhood Research and Media"
+    },
+    {
+      "bbox": [
+        0.07045768581225158,
+        0.04811841804517434,
+        0.33313488340355846,
+        0.09940947903838215
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Neighborhood Research and Media\nPO BOX 297\nRODANTHE, NC 27968 US"
+    },
+    {
+      "bbox": [
+        0.34407976663652956,
+        0.2559265311413669,
+        0.5568209344774057,
+        0.28500909149834036
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Neighborhood Research and\nMedia"
+    },
+    {
+      "bbox": [
+        0.34407976663652956,
+        0.2559265311413669,
+        0.5568209344774057,
+        0.32043693775138077
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "Neighborhood Research and\nMedia\nPO BOX 297\nRODANTHE, NC 27968 US"
+    },
+    {
+      "bbox": [
+        0.8434400641408369,
+        0.7799413913915622,
+        0.8537008921717473,
+        0.7931607370083683
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8435483870967742,
+        0.7778262960928731,
+        0.9209677419354839,
+        0.7915744155343516
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$3,765.50"
+    },
+    {
+      "bbox": [
+        0.8435483870967742,
+        0.7780548628428927,
+        0.9209677419354839,
+        0.7915744155343516
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$3,765.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.4332917705735661,
+        0.5725806451612904,
+        0.4756857855361596
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "WSB-A/WSBB-F 6A-10A (prefer6a-9a) 5/7-8"
+    },
+    {
+      "bbox": [
+        0.6653225806451613,
+        0.4332917705735661,
+        0.7096774193548387,
+        0.4756857855361596
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.7677419354838709,
+        0.4332917705735661,
+        0.8209677419354838,
+        0.4756857855361596
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "350.00"
+    },
+    {
+      "bbox": [
+        0.853225806451613,
+        0.4332917705735661,
+        0.9185483870967742,
+        0.4756857855361596
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,400.00"
+    },
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.4837905236907731,
+        0.5725806451612904,
+        0.5255610972568578
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "WSB-A/WSBB-F 10A-3P (prefer 12n-3p) 5/7-8"
+    },
+    {
+      "bbox": [
+        0.6653225806451613,
+        0.4837905236907731,
+        0.7096774193548387,
+        0.5255610972568578
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "6"
+    },
+    {
+      "bbox": [
+        0.7677419354838709,
+        0.4837905236907731,
+        0.8209677419354838,
+        0.5255610972568578
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "250.00"
+    },
+    {
+      "bbox": [
+        0.853225806451613,
+        0.4837905236907731,
+        0.9185483870967742,
+        0.5255610972568578
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,500.00"
+    },
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.5336658354114713,
+        0.5725806451612904,
+        0.5754364089775561
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "WSB-A/WSBB-F 3P-7P (prefer 3p-6p) 5/7-8"
+    },
+    {
+      "bbox": [
+        0.6653225806451613,
+        0.5336658354114713,
+        0.7096774193548387,
+        0.5754364089775561
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.7677419354838709,
+        0.5336658354114713,
+        0.8209677419354838,
+        0.5754364089775561
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "340.00"
+    },
+    {
+      "bbox": [
+        0.853225806451613,
+        0.5336658354114713,
+        0.9185483870967742,
+        0.5754364089775561
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1,360.00"
+    },
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.5841645885286783,
+        0.5725806451612904,
+        0.6259351620947631
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "WSB-A/WSBB-F 7P-12M (prefer7p-10p) 5/7-8"
+    },
+    {
+      "bbox": [
+        0.6653225806451613,
+        0.5841645885286783,
+        0.7096774193548387,
+        0.6259351620947631
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.7677419354838709,
+        0.5841645885286783,
+        0.8209677419354838,
+        0.6259351620947631
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "15.00"
+    },
+    {
+      "bbox": [
+        0.853225806451613,
+        0.5841645885286783,
+        0.9185483870967742,
+        0.6259351620947631
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "150.00"
+    },
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.6340399002493765,
+        0.5725806451612904,
+        0.6758104738154613
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "WSB-A/WSBB-F 12M-6A (prefer 4a-6a) 5/8\n(broadcast day 5/7)"
+    },
+    {
+      "bbox": [
+        0.6653225806451613,
+        0.6340399002493765,
+        0.7096774193548387,
+        0.6758104738154613
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.7677419354838709,
+        0.6340399002493765,
+        0.8209677419354838,
+        0.6758104738154613
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "10.00"
+    },
+    {
+      "bbox": [
+        0.853225806451613,
+        0.6340399002493765,
+        0.9185483870967742,
+        0.6758104738154613
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "20.00"
+    },
+    {
+      "bbox": [
+        0.22903225806451613,
+        0.6839152119700748,
+        0.5725806451612904,
+        0.7425187032418953
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Agency Commission"
+    },
+    {
+      "bbox": [
+        0.6653225806451613,
+        0.6839152119700748,
+        0.7096774193548387,
+        0.7425187032418953
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "4,430"
+    },
+    {
+      "bbox": [
+        0.7677419354838709,
+        0.6839152119700748,
+        0.8209677419354838,
+        0.7425187032418953
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "-0.15"
+    },
+    {
+      "bbox": [
+        0.853225806451613,
+        0.6839152119700748,
+        0.9185483870967742,
+        0.7425187032418953
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "-664.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2291584926903328,
+        0.41032848794566257,
+        0.33245082820149774,
+        0.4214327382637797
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6792668156462701,
+        0.40927094029631805,
+        0.7096774193548387,
+        0.42144638403990026
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.7791388751471315,
+        0.40927094029631805,
+        0.8209677419354838,
+        0.42144638403990026
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.853225806451613,
+        0.40979971412099025,
+        0.9185483870967742,
+        0.42144638403990026
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 140,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "d172eb27-ec9c-4e25-836a-65227c3ea3fa",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.031451612903225803,
+          0.40648379052369077,
+          0.9733870967741935,
+          0.7942643391521197
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.07903225806451612,
+            "right": 0.20241935483870968
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.22903225806451613,
+            "right": 0.5725806451612904
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6653225806451613,
+            "right": 0.7096774193548387
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7677419354838709,
+            "right": 0.8209677419354838
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.853225806451613,
+            "right": 0.9185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42144638403990026,
+            "row_type": "header",
+            "top": 0.40648379052369077
+          },
+          {
+            "bottom": 0.4332917705735661,
+            "row_type": "gap",
+            "top": 0.42144638403990026
+          },
+          {
+            "bottom": 0.4756857855361596,
+            "row_type": "data",
+            "top": 0.4332917705735661
+          },
+          {
+            "bottom": 0.4837905236907731,
+            "row_type": "gap",
+            "top": 0.4756857855361596
+          },
+          {
+            "bottom": 0.5255610972568578,
+            "row_type": "data",
+            "top": 0.4837905236907731
+          },
+          {
+            "bottom": 0.5336658354114713,
+            "row_type": "gap",
+            "top": 0.5255610972568578
+          },
+          {
+            "bottom": 0.5754364089775561,
+            "row_type": "data",
+            "top": 0.5336658354114713
+          },
+          {
+            "bottom": 0.5841645885286783,
+            "row_type": "gap",
+            "top": 0.5754364089775561
+          },
+          {
+            "bottom": 0.6259351620947631,
+            "row_type": "data",
+            "top": 0.5841645885286783
+          },
+          {
+            "bottom": 0.6340399002493765,
+            "row_type": "gap",
+            "top": 0.6259351620947631
+          },
+          {
+            "bottom": 0.6758104738154613,
+            "row_type": "data",
+            "top": 0.6340399002493765
+          },
+          {
+            "bottom": 0.6839152119700748,
+            "row_type": "gap",
+            "top": 0.6758104738154613
+          },
+          {
+            "bottom": 0.7425187032418953,
+            "row_type": "data",
+            "top": 0.6839152119700748
+          },
+          {
+            "bottom": 0.7761845386533666,
+            "row_type": "gap",
+            "top": 0.7425187032418953
+          },
+          {
+            "bottom": 0.7942643391521197,
+            "row_type": "footer",
+            "top": 0.7761845386533666
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

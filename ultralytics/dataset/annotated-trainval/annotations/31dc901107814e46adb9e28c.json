@@ -1,0 +1,189 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.09859214626099706,
+        0.329475673122343,
+        0.25260811237373737,
+        0.3450447662328496
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 3, 2000"
+    },
+    {
+      "bbox": [
+        0.15637744198325496,
+        0.21045802908695913,
+        0.7488497221733337,
+        0.2556675316315652
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MONTANA CHAMBER & GOVERNORS' CUP 2001\nEAGLE BEND & NORTHERN PINES"
+    },
+    {
+      "bbox": [
+        0.044054889000646594,
+        0.9110145895979507,
+        0.3193979452546878,
+        0.9271633812228532
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 1162, HELENA, MT 59624"
+    },
+    {
+      "bbox": [
+        0.13902877056858912,
+        0.5226165849526819,
+        0.23476842517921148,
+        0.5373441054626206
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "23-7059679"
+    },
+    {
+      "bbox": [
+        0.6954378906530642,
+        0.9149125737832721,
+        0.8913248078166534,
+        0.92994765564094
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "mtchamberjim@in-tch.com"
+    },
+    {
+      "bbox": [
+        0.09991019469789496,
+        0.36418309388573333,
+        0.20926072275307134,
+        0.3820024501614879
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mike Phillips"
+    },
+    {
+      "bbox": [
+        0.10121475189707398,
+        0.36404749857891544,
+        0.35558588979093325,
+        0.415970598062145
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mike Phillips\nRJ Reynolds PO Box 2959\nWinston-Salem, NC 27102-2959"
+    },
+    {
+      "bbox": [
+        0.7890545297794381,
+        0.4560641496825927,
+        0.80164164092248,
+        0.4705423766566433
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7890545297794381,
+        0.4560641496825927,
+        0.8441231410302464,
+        0.4710992315402606
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,200"
+    },
+    {
+      "bbox": [
+        0.7890545297794381,
+        0.4560641496825927,
+        0.8449098354766865,
+        0.4710992315402606
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,200"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.4526255707762557,
+        0.3387096774193548,
+        0.4731735159817352
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Team Entry Fee (Four players)"
+    },
+    {
+      "bbox": [
+        0.7879032258064517,
+        0.4526255707762557,
+        0.8459677419354839,
+        0.4731735159817352
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$2,200"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1108,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fjxf0221",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1657,
+        2342
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10161290322580645,
+          0.4526255707762557,
+          0.8459677419354839,
+          0.4731735159817352
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10161290322580645,
+            "right": 0.3387096774193548
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7879032258064517,
+            "right": 0.8459677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4731735159817352,
+            "row_type": "data",
+            "top": 0.4526255707762557
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

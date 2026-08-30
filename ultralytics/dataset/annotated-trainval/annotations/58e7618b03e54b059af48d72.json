@@ -1,0 +1,271 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7688780471162211,
+        0.21354200425748215,
+        0.8080645161290323,
+        0.22443890274314215
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "9/17/20"
+    },
+    {
+      "bbox": [
+        0.5793947561454087,
+        0.18084064803790798,
+        0.6185483870967742,
+        0.19247367218069736
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "18299"
+    },
+    {
+      "bbox": [
+        0.11286910834001466,
+        0.17713923126520226,
+        0.2291584926903328,
+        0.1871859339339749
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "StateNets Platinum"
+    },
+    {
+      "bbox": [
+        0.11218505313795399,
+        0.17608168361585777,
+        0.2544685351665785,
+        0.23741944727783826
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Carla Litton\n48 Chiswick Cir\nBloomington, IL 61704"
+    },
+    {
+      "bbox": [
+        0.6737943740297846,
+        0.18084064803790798,
+        0.7565650534791286,
+        0.19353121983004187
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.33548387096774196,
+        0.31296758104738154,
+        0.38387096774193546,
+        0.3397755610972569
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "9/21/20"
+    },
+    {
+      "bbox": [
+        0.8354838709677419,
+        0.31296758104738154,
+        0.8903225806451613,
+        0.3397755610972569
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$660.00"
+    },
+    {
+      "bbox": [
+        0.33548387096774196,
+        0.34476309226932667,
+        0.38387096774193546,
+        0.371571072319202
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "9/21/20"
+    },
+    {
+      "bbox": [
+        0.8354838709677419,
+        0.34476309226932667,
+        0.8903225806451613,
+        0.371571072319202
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$660.00"
+    },
+    {
+      "bbox": [
+        0.33548387096774196,
+        0.37718204488778057,
+        0.38387096774193546,
+        0.40336658354114713
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "9/21/20"
+    },
+    {
+      "bbox": [
+        0.8354838709677419,
+        0.37718204488778057,
+        0.8903225806451613,
+        0.40336658354114713
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$660.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3269783865850122,
+        0.2913543773944073,
+        0.3563927602736221,
+        0.303516175361869
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.8578052233841115,
+        0.290825603569735,
+        0.8892717626789035,
+        0.30245862771252446
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 739,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "7db430e6-3a76-4870-b3de-89a7b468efe4",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ],
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0967741935483871,
+          0.2874064837905237,
+          0.8983870967741936,
+          0.422069825436409
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.11048387096774194,
+            "right": 0.18467741935483872
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.33548387096774196,
+            "right": 0.38387096774193546
+          },
+          {
+            "column_type": "",
+            "left": 0.4064516129032258,
+            "right": 0.4661290322580645
+          },
+          {
+            "column_type": "",
+            "left": 0.5040322580645161,
+            "right": 0.5233870967741936
+          },
+          {
+            "column_type": "",
+            "left": 0.567741935483871,
+            "right": 0.675
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8354838709677419,
+            "right": 0.8903225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3036159600997506,
+            "row_type": "header",
+            "top": 0.2874064837905237
+          },
+          {
+            "bottom": 0.31296758104738154,
+            "row_type": "gap",
+            "top": 0.3036159600997506
+          },
+          {
+            "bottom": 0.3397755610972569,
+            "row_type": "data",
+            "top": 0.31296758104738154
+          },
+          {
+            "bottom": 0.34476309226932667,
+            "row_type": "gap",
+            "top": 0.3397755610972569
+          },
+          {
+            "bottom": 0.371571072319202,
+            "row_type": "data",
+            "top": 0.34476309226932667
+          },
+          {
+            "bottom": 0.37718204488778057,
+            "row_type": "gap",
+            "top": 0.371571072319202
+          },
+          {
+            "bottom": 0.40336658354114713,
+            "row_type": "data",
+            "top": 0.37718204488778057
+          },
+          {
+            "bottom": 0.4096009975062344,
+            "row_type": "gap",
+            "top": 0.40336658354114713
+          },
+          {
+            "bottom": 0.422069825436409,
+            "row_type": "footer",
+            "top": 0.4096009975062344
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

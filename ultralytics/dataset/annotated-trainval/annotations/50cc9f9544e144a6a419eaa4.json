@@ -1,0 +1,375 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2161614438511796,
+        0.21996991106365416,
+        0.3132972825437983,
+        0.23371803050513254
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05/25/00"
+    },
+    {
+      "bbox": [
+        0.45694887497654424,
+        0.23371803050513254,
+        0.7073130789307586,
+        0.24746614994661092
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 10184 \u2022 ATLANTA, GEORGIA 30392"
+    },
+    {
+      "bbox": [
+        0.05472441616485559,
+        0.33947279543958164,
+        0.11492127394619676,
+        0.35533601017974903
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "Z5210"
+    },
+    {
+      "bbox": [
+        0.14501970283686733,
+        0.2961133418164575,
+        0.322874055372648,
+        0.3077463659592469
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DUKE UNIVERSITY"
+    },
+    {
+      "bbox": [
+        0.14296753723068525,
+        0.2951465443602986,
+        0.46105320618890844,
+        0.35533601017974903
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DUKE UNIVERSITY\nATTN: CHERYL ZIELSDORF\n110 SWIFT AVENUE STE 2\nDURHAM NC 27705"
+    },
+    {
+      "bbox": [
+        0.9029528667201173,
+        0.7609055337033613,
+        0.9426280684396376,
+        0.7746536531448397
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": ".00"
+    },
+    {
+      "bbox": [
+        0.9029528667201173,
+        0.7614343075280336,
+        0.9433121236416984,
+        0.775182426969512
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": ".00"
+    },
+    {
+      "bbox": [
+        0.6963681956977874,
+        0.8407503812288704,
+        0.7374115078214292,
+        0.8507970838976431
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.38548387096774195,
+        0.4445137157107232,
+        0.5758064516129032,
+        0.45947630922693267
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PREVIOUS BALANCE"
+    },
+    {
+      "bbox": [
+        0.38548387096774195,
+        0.45947630922693267,
+        0.5758064516129032,
+        0.47381546134663344
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "BALANCE FORWARD"
+    },
+    {
+      "bbox": [
+        0.9145161290322581,
+        0.45947630922693267,
+        0.9669354838709677,
+        0.47381546134663344
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": ".00"
+    },
+    {
+      "bbox": [
+        0.028225806451612812,
+        0.4912718204488778,
+        0.1217741935483871,
+        0.5049875311720698
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "05/21/00"
+    },
+    {
+      "bbox": [
+        0.38548387096774195,
+        0.4912718204488778,
+        0.5758064516129032,
+        0.5049875311720698
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "BANQUETS"
+    },
+    {
+      "bbox": [
+        0.028225806451612812,
+        0.5049875311720698,
+        0.1217741935483871,
+        0.520573566084788
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "05/25/00"
+    },
+    {
+      "bbox": [
+        0.38548387096774195,
+        0.5049875311720698,
+        0.5758064516129032,
+        0.520573566084788
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "PYMNT BY VISA"
+    },
+    {
+      "bbox": [
+        0.028225806451612812,
+        0.520573566084788,
+        0.1217741935483871,
+        0.5361596009975063
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "05/25/00"
+    },
+    {
+      "bbox": [
+        0.38548387096774195,
+        0.520573566084788,
+        0.5758064516129032,
+        0.5361596009975063
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "052500-BILLING"
+    },
+    {
+      "bbox": [
+        0.9145161290322581,
+        0.520573566084788,
+        0.9669354838709677,
+        0.5361596009975063
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": ".00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04583169853806656,
+        0.4023968805755789,
+        0.09097934187407243,
+        0.41402990471836826
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.4391634397229661,
+        0.40081055910156216,
+        0.5342471128094027,
+        0.4145586785430405
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.854384947373808,
+        0.4018681067509066,
+        0.9268947987922418,
+        0.41402990471836826
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BALANCE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 543,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "smcn0231",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.028225806451612812,
+          0.39962593516209477,
+          0.9669354838709677,
+          0.7811720698254364
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.028225806451612812,
+            "right": 0.1217741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.16693548387096774,
+            "right": 0.22903225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.2806451612903226,
+            "right": 0.33306451612903226
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.38548387096774195,
+            "right": 0.5758064516129032
+          },
+          {
+            "column_type": "",
+            "left": 0.6370967741935484,
+            "right": 0.7338709677419355
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9145161290322581,
+            "right": 0.9669354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4177057356608479,
+            "row_type": "header",
+            "top": 0.39962593516209477
+          },
+          {
+            "bottom": 0.4445137157107232,
+            "row_type": "gap",
+            "top": 0.4177057356608479
+          },
+          {
+            "bottom": 0.45947630922693267,
+            "row_type": "data",
+            "top": 0.4445137157107232
+          },
+          {
+            "bottom": 0.47381546134663344,
+            "row_type": "data",
+            "top": 0.45947630922693267
+          },
+          {
+            "bottom": 0.4912718204488778,
+            "row_type": "gap",
+            "top": 0.47381546134663344
+          },
+          {
+            "bottom": 0.5049875311720698,
+            "row_type": "data",
+            "top": 0.4912718204488778
+          },
+          {
+            "bottom": 0.520573566084788,
+            "row_type": "data",
+            "top": 0.5049875311720698
+          },
+          {
+            "bottom": 0.5361596009975063,
+            "row_type": "data",
+            "top": 0.520573566084788
+          },
+          {
+            "bottom": 0.6502493765586035,
+            "row_type": "gap-with-text",
+            "top": 0.5361596009975063
+          },
+          {
+            "bottom": 0.692643391521197,
+            "row_type": "gap",
+            "top": 0.6502493765586035
+          },
+          {
+            "bottom": 0.7599750623441397,
+            "row_type": "gap-with-text",
+            "top": 0.692643391521197
+          },
+          {
+            "bottom": 0.7811720698254364,
+            "row_type": "footer",
+            "top": 0.7599750623441397
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

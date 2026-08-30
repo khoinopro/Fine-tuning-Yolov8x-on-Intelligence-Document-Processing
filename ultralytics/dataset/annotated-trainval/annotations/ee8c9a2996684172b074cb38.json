@@ -1,0 +1,263 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2295769269420159,
+        0.22432160804020101,
+        0.3239674404582454,
+        0.23740703517587938
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DPW99-913"
+    },
+    {
+      "bbox": [
+        0.3539669379961813,
+        0.12247236180904522,
+        0.6663330318560948,
+        0.1370854271356784
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL"
+    },
+    {
+      "bbox": [
+        0.35276454627675613,
+        0.1215075376884422,
+        0.6695327102803738,
+        0.17758793969849243
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL\nCOUNSELLORS AT LAW\n450 LEXINGTON AVENUE\nNEW YORK, NY 100l7"
+    },
+    {
+      "bbox": [
+        0.755924027735906,
+        0.17197989949748743,
+        0.8383157471610893,
+        0.18194974874371858
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 0,
+      "text": "135023295"
+    },
+    {
+      "bbox": [
+        0.7247271630991861,
+        0.27915577889447235,
+        0.7375258767963019,
+        0.2934874371859296
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.734326198372023,
+        0.5234170854271356,
+        0.8095186413425787,
+        0.5396180904522613
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "14,179.32"
+    },
+    {
+      "bbox": [
+        0.7338317757009346,
+        0.6055075376884422,
+        0.8079188021304391,
+        0.6187537688442212
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "14,179.32"
+    },
+    {
+      "bbox": [
+        0.7263270023113255,
+        0.2785326633165829,
+        0.817517837403276,
+        0.29473366834170855
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$14,179.32"
+    },
+    {
+      "bbox": [
+        0.32636719927645463,
+        0.8824874371859297,
+        0.4023595618530801,
+        0.8924572864321607
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "015-33-316"
+    },
+    {
+      "bbox": [
+        0.47995176364184505,
+        0.9049195979899498,
+        0.5615435634609587,
+        0.9142663316582914
+      ],
+      "fieldtype": "bank_num",
+      "page": 0,
+      "text": "031100238"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3,
+        0.4905778894472362,
+        0.36935483870967745,
+        0.5238693467336684
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "09/16/99"
+    },
+    {
+      "bbox": [
+        0.3774193548387097,
+        0.4905778894472362,
+        0.5879032258064516,
+        0.5238693467336684
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Services for September 1999:\nKekst and Company"
+    },
+    {
+      "bbox": [
+        0.6403225806451613,
+        0.4905778894472362,
+        0.7169354838709677,
+        0.5238693467336684
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "14,179.32"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.31356848557933875,
+        0.443035175879397,
+        0.3575640639131746,
+        0.4592361809045226
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.3774193548387097,
+        0.443035175879397,
+        0.47035272836900816,
+        0.45979899497487436
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6403225806451613,
+        0.4424120603015076,
+        0.7087287709777912,
+        0.45979899497487436
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 84,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zgpx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1739,
+        2232
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1443548387096774,
+          0.39384422110552764,
+          0.8241935483870968,
+          0.6199748743718593
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.3,
+            "right": 0.36935483870967745
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3774193548387097,
+            "right": 0.5879032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6403225806451613,
+            "right": 0.7169354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.45979899497487436,
+            "row_type": "header",
+            "top": 0.39384422110552764
+          },
+          {
+            "bottom": 0.4742462311557789,
+            "row_type": "gap",
+            "top": 0.45979899497487436
+          },
+          {
+            "bottom": 0.4905778894472362,
+            "row_type": "gap-with-text",
+            "top": 0.4742462311557789
+          },
+          {
+            "bottom": 0.5238693467336684,
+            "row_type": "data",
+            "top": 0.4905778894472362
+          },
+          {
+            "bottom": 0.6199748743718593,
+            "row_type": "footer",
+            "top": 0.5238693467336684
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6582084515578083,
+        0.3534234975405067,
+        0.7805604528800859,
+        0.37305813629275714
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "APRIL 1, 1999"
+    },
+    {
+      "bbox": [
+        0.14047822374039282,
+        0.1458966565349544,
+        0.4044413377041955,
+        0.1630528696382531
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE CARMAN CORPORATION"
+    },
+    {
+      "bbox": [
+        0.5834377840830831,
+        0.16390654958400314,
+        0.8553311203548111,
+        0.19634638752250375
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "900 WEST SPROUL ROAD # 302\nSPRINGFIELD, PA 19064"
+    },
+    {
+      "bbox": [
+        0.14047822374039282,
+        0.2919585414465056,
+        0.3466640037464533,
+        0.3073247804700059
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RIVEREDGE, INC. ETAL"
+    },
+    {
+      "bbox": [
+        0.14161111264152504,
+        0.30647110052425586,
+        0.44862400484835124,
+        0.33891093846275644
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "2017 BERNVILLE ROAD, ROUTE 183\nREADING, PA 19061"
+    },
+    {
+      "bbox": [
+        0.7590355637585742,
+        0.7469699525312643,
+        0.769231563868764,
+        0.7631898715005146
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7545040081540454,
+        0.569404523815261,
+        0.8462680091457536,
+        0.5898928425132614
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$12,273.00"
+    },
+    {
+      "bbox": [
+        0.7579026748574419,
+        0.7461162725855143,
+        0.8360720090355638,
+        0.7640435514462647
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$12,273.0"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14112903225806453,
+        0.443161094224924,
+        0.2129032258064516,
+        0.4948328267477204
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "O4/15/99"
+    },
+    {
+      "bbox": [
+        0.25,
+        0.443161094224924,
+        0.3225806451612903,
+        0.4948328267477204
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "04/15/00"
+    },
+    {
+      "bbox": [
+        0.3596774193548387,
+        0.443161094224924,
+        0.6838709677419355,
+        0.4948328267477204
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "COMMERCIAL PROPERTY\nCOMMERCIAL GENERAL LLABILITY\nLIQUOR LIABILITY"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.14112903225806453,
+        0.41702127659574467,
+        0.24583689154568744,
+        0.43196205254950826
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE ISSUED"
+    },
+    {
+      "bbox": [
+        0.25,
+        0.41702127659574467,
+        0.3353351147351313,
+        0.43281573249525834
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TO EXPIRE"
+    },
+    {
+      "bbox": [
+        0.36139155946117185,
+        0.41702127659574467,
+        0.5052684499049612,
+        0.43281573249525834
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "COMPANY/POLICY"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 137,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yjwb0068",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14112903225806453,
+          0.41702127659574467,
+          0.8870967741935484,
+          0.59209726443769
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.14112903225806453,
+            "right": 0.2129032258064516
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.25,
+            "right": 0.3225806451612903
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3596774193548387,
+            "right": 0.6838709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4310030395136778,
+            "row_type": "header",
+            "top": 0.41702127659574467
+          },
+          {
+            "bottom": 0.443161094224924,
+            "row_type": "gap",
+            "top": 0.4310030395136778
+          },
+          {
+            "bottom": 0.4948328267477204,
+            "row_type": "data",
+            "top": 0.443161094224924
+          },
+          {
+            "bottom": 0.5574468085106383,
+            "row_type": "gap-with-text",
+            "top": 0.4948328267477204
+          },
+          {
+            "bottom": 0.59209726443769,
+            "row_type": "footer",
+            "top": 0.5574468085106383
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

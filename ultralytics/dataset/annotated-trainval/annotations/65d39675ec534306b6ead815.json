@@ -1,0 +1,405 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6094538218878867,
+        0.2389451638035843,
+        0.6199616468639327,
+        0.24818613708673815
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.3134834183959246,
+        0.7878296541087249,
+        0.36952515160150323,
+        0.7997109054727798
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "01/22/02"
+    },
+    {
+      "bbox": [
+        0.42819384105109337,
+        0.6661568324992914,
+        0.5481581761942851,
+        0.6786981533835716
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "DUKE UNIVERSITY"
+    },
+    {
+      "bbox": [
+        0.4290694931324305,
+        0.6647686068764742,
+        0.6041999093998637,
+        0.715662046516187
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DUKE UNIVERSITY\nOffice of Sponsored Programs\n705 Broad Street, Box 90491\nDurham, N.C. 27708-0491"
+    },
+    {
+      "bbox": [
+        0.43432340562045346,
+        0.19699408013924755,
+        0.7968433672940402,
+        0.21085554006397833
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "\"Fetal & Adolescent Nicotine Effects on CNS 5HT Systems\""
+    },
+    {
+      "bbox": [
+        0.18651386660203553,
+        0.12036474164133738,
+        0.31173211423325026,
+        0.14550865756167608
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris USA"
+    },
+    {
+      "bbox": [
+        0.18563821452069837,
+        0.12141299424822433,
+        0.3266181996159821,
+        0.1712513688504618
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris USA\n4201 Commerce Road\nRichmond, Va. 23234"
+    },
+    {
+      "bbox": [
+        0.621712951026607,
+        0.6423210066189102,
+        0.632220776002653,
+        0.6522220494222895
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.558666001170331,
+        0.6143047135854717,
+        0.6137096774193549,
+        0.6273556231003039
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "5,198.96"
+    },
+    {
+      "bbox": [
+        0.7968433672940402,
+        0.6410008675784598,
+        0.8524193548387097,
+        0.652887537993921
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "5,198.96"
+    },
+    {
+      "bbox": [
+        0.45483870967741935,
+        0.8425531914893617,
+        0.5903225806451613,
+        0.8571428571428571
+      ],
+      "fieldtype": "payment_reference",
+      "page": 0,
+      "text": "383-6630-73181"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.2996960486322188,
+        0.3943548387096774,
+        0.31367781155015195
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Salaries and Wages"
+    },
+    {
+      "bbox": [
+        0.5540322580645162,
+        0.2996960486322188,
+        0.6169354838709677,
+        0.31367781155015195
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,757.55"
+    },
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.31367781155015195,
+        0.3943548387096774,
+        0.32462006079027356
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Salaries Cost-Shared"
+    },
+    {
+      "bbox": [
+        0.5540322580645162,
+        0.31367781155015195,
+        0.6169354838709677,
+        0.32462006079027356
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "(1,472.89)"
+    },
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.32462006079027356,
+        0.3943548387096774,
+        0.33677811550151976
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Fringe Benefits"
+    },
+    {
+      "bbox": [
+        0.5540322580645162,
+        0.32462006079027356,
+        0.6169354838709677,
+        0.33677811550151976
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4,804.86"
+    },
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.33677811550151976,
+        0.3943548387096774,
+        0.35015197568389056
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Salaries Cost-Sharing Contribution"
+    },
+    {
+      "bbox": [
+        0.5540322580645162,
+        0.33677811550151976,
+        0.6169354838709677,
+        0.35015197568389056
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "(2,713.57)"
+    },
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.35015197568389056,
+        0.3943548387096774,
+        0.3635258358662614
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Supplies and Materials"
+    },
+    {
+      "bbox": [
+        0.5540322580645162,
+        0.35015197568389056,
+        0.6169354838709677,
+        0.3635258358662614
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "-"
+    },
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.3635258358662614,
+        0.3943548387096774,
+        0.3756838905775076
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Travel"
+    },
+    {
+      "bbox": [
+        0.5540322580645162,
+        0.3635258358662614,
+        0.6169354838709677,
+        0.3756838905775076
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "-"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.21435860668606477,
+        0.2806458115710961,
+        0.34693380921479555,
+        0.2929818912005948
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXPENSE SUMMARY"
+    },
+    {
+      "bbox": [
+        0.48811779112850895,
+        0.2786980095243331,
+        0.5595706600238638,
+        0.2915210396655226
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CURRENT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 607,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mrbl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.18548387096774194,
+          0.2753799392097264,
+          0.8572580645161291,
+          0.6553191489361702
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.18548387096774194,
+            "right": 0.3943548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5540322580645162,
+            "right": 0.6169354838709677
+          },
+          {
+            "column_type": "",
+            "left": 0.7906451612903226,
+            "right": 0.8572580645161291
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.29422492401215805,
+            "row_type": "header",
+            "top": 0.2753799392097264
+          },
+          {
+            "bottom": 0.2996960486322188,
+            "row_type": "gap",
+            "top": 0.29422492401215805
+          },
+          {
+            "bottom": 0.31367781155015195,
+            "row_type": "data",
+            "top": 0.2996960486322188
+          },
+          {
+            "bottom": 0.32462006079027356,
+            "row_type": "data",
+            "top": 0.31367781155015195
+          },
+          {
+            "bottom": 0.33677811550151976,
+            "row_type": "data",
+            "top": 0.32462006079027356
+          },
+          {
+            "bottom": 0.35015197568389056,
+            "row_type": "data",
+            "top": 0.33677811550151976
+          },
+          {
+            "bottom": 0.3635258358662614,
+            "row_type": "data",
+            "top": 0.35015197568389056
+          },
+          {
+            "bottom": 0.3756838905775076,
+            "row_type": "data",
+            "top": 0.3635258358662614
+          },
+          {
+            "bottom": 0.5562310030395137,
+            "row_type": "gap-with-text",
+            "top": 0.3756838905775076
+          },
+          {
+            "bottom": 0.5969604863221885,
+            "row_type": "subsection-header",
+            "top": 0.5562310030395137
+          },
+          {
+            "bottom": 0.6054711246200608,
+            "row_type": "gap",
+            "top": 0.5969604863221885
+          },
+          {
+            "bottom": 0.6553191489361702,
+            "row_type": "footer",
+            "top": 0.6054711246200608
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

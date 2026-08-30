@@ -1,0 +1,383 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5714932406440623,
+        0.15164298218373587,
+        0.6386629664230368,
+        0.16356995831054655
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42516000"
+    },
+    {
+      "bbox": [
+        0.12390497784190457,
+        0.20549906640122034,
+        0.4894246624755231,
+        0.21827621042616668
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Covance Clinical Research Unit Inc. Attention: Jill Schuttz"
+    },
+    {
+      "bbox": [
+        0.12321661685389398,
+        0.2342476404573496,
+        0.4570716960390257,
+        0.24596002248021712
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "3301 Kinsman Boulevard, Madison, Wisconsin 53704"
+    },
+    {
+      "bbox": [
+        0.42403036861451787,
+        0.15066382329415895,
+        0.5066336871757876,
+        0.16237620531702646
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R1-471"
+    },
+    {
+      "bbox": [
+        0.13147694871002097,
+        0.10434667620372846,
+        0.2546935655639149,
+        0.11659143922763537
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.12390497784190457,
+        0.26193145251140004,
+        0.3772218214297984,
+        0.2741762155353069
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "4201 Commerce Road, Gate C, Door 17"
+    },
+    {
+      "bbox": [
+        0.7806013604039987,
+        0.532381001039431,
+        0.7888616922601257,
+        0.5430286210602195
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.775,
+        0.47223955084217095,
+        0.8564516129032258,
+        0.487211478477854
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$48,000.00"
+    },
+    {
+      "bbox": [
+        0.33694977194042974,
+        0.4736713376076245,
+        0.4272435016761004,
+        0.4855983137344351
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Director Level"
+    },
+    {
+      "bbox": [
+        0.27308347529812604,
+        0.4736713376076245,
+        0.30171319448260703,
+        0.48474638686823435
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "160"
+    },
+    {
+      "bbox": [
+        0.30171319448260703,
+        0.4745232644738252,
+        0.32924177062153104,
+        0.4855983137344351
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "hrs."
+    },
+    {
+      "bbox": [
+        0.4338503599494422,
+        0.4736713376076245,
+        0.47239036654393585,
+        0.48474638686823435
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$300"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.5302557704304429,
+        0.8564516129032258,
+        0.543980037429819
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$31,200.00"
+    },
+    {
+      "bbox": [
+        0.3380509149859867,
+        0.5307504376430756,
+        0.43274921690388524,
+        0.5443812675022879
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Manager Level"
+    },
+    {
+      "bbox": [
+        0.27088118920701215,
+        0.5307504376430756,
+        0.30171319448260703,
+        0.5418254869036855
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "160"
+    },
+    {
+      "bbox": [
+        0.30171319448260703,
+        0.5316023645092763,
+        0.32814062757597406,
+        0.5426774137698863
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "hrs."
+    },
+    {
+      "bbox": [
+        0.43825493213167005,
+        0.5316023645092763,
+        0.4767949387261637,
+        0.5418254869036855
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$195"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7223498378853657,
+        0.3859228703889458,
+        0.7575864153431885,
+        0.41062874950876793
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nPrice"
+    },
+    {
+      "bbox": [
+        0.27748804748035394,
+        0.385070943522745,
+        0.3479612023959993,
+        0.39784984651575656
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.13103602242127824,
+        0.3867747972551466,
+        0.1816886025168984,
+        0.39784984651575656
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.20481260647359456,
+        0.3859228703889458,
+        0.24555489915920206,
+        0.396145992783355
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "U of M"
+    },
+    {
+      "bbox": [
+        0.6540789690608343,
+        0.385070943522745,
+        0.687113260427543,
+        0.41062874950876793
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Unit\nPrice"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 490,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "jrcf0221",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1703,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12661290322580646,
+          0.3849033063006862,
+          0.8564516129032258,
+          0.7648159700561448
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.5733870967741935,
+            "right": 0.646774193548387
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.775,
+            "right": 0.8564516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4111041796631316,
+            "row_type": "header",
+            "top": 0.3849033063006862
+          },
+          {
+            "bottom": 0.42358078602620086,
+            "row_type": "gap",
+            "top": 0.4111041796631316
+          },
+          {
+            "bottom": 0.44354335620711166,
+            "row_type": "gap-with-text",
+            "top": 0.42358078602620086
+          },
+          {
+            "bottom": 0.45726762320648784,
+            "row_type": "gap",
+            "top": 0.44354335620711166
+          },
+          {
+            "bottom": 0.47223955084217095,
+            "row_type": "down-merge",
+            "top": 0.45726762320648784
+          },
+          {
+            "bottom": 0.487211478477854,
+            "row_type": "data",
+            "top": 0.47223955084217095
+          },
+          {
+            "bottom": 0.5015595757953837,
+            "row_type": "up-merge",
+            "top": 0.487211478477854
+          },
+          {
+            "bottom": 0.5152838427947598,
+            "row_type": "gap",
+            "top": 0.5015595757953837
+          },
+          {
+            "bottom": 0.5302557704304429,
+            "row_type": "down-merge",
+            "top": 0.5152838427947598
+          },
+          {
+            "bottom": 0.543980037429819,
+            "row_type": "data",
+            "top": 0.5302557704304429
+          },
+          {
+            "bottom": 0.5601996257018091,
+            "row_type": "up-merge",
+            "top": 0.543980037429819
+          },
+          {
+            "bottom": 0.5995009357454772,
+            "row_type": "gap",
+            "top": 0.5601996257018091
+          },
+          {
+            "bottom": 0.6157205240174672,
+            "row_type": "gap-with-text",
+            "top": 0.5995009357454772
+          },
+          {
+            "bottom": 0.7298814722395508,
+            "row_type": "gap",
+            "top": 0.6157205240174672
+          },
+          {
+            "bottom": 0.7648159700561448,
+            "row_type": "footer",
+            "top": 0.7298814722395508
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

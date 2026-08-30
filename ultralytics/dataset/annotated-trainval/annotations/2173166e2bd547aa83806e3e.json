@@ -1,0 +1,267 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.09919354838709678,
+        0.22199834927416612,
+        0.14596774193548387,
+        0.23799582463465555
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/16/2012"
+    },
+    {
+      "bbox": [
+        0.36612903225806454,
+        0.2567849686847599,
+        0.39259116849475856,
+        0.2721674677542037
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "12057"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.10647181628392484,
+        0.23548387096774193,
+        0.12526096033402923
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KUTV Channel 2"
+    },
+    {
+      "bbox": [
+        0.16091391103735783,
+        0.1204058843520901,
+        0.2762678593111264,
+        0.1530158113641145
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "150 South Main Street #150\nSalt Lake City, Ut. 84111"
+    },
+    {
+      "bbox": [
+        0.8132938033755616,
+        0.19236174025693398,
+        0.9024750070830129,
+        0.20401459506178482
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "KHENDERSON@kutv2.com"
+    },
+    {
+      "bbox": [
+        0.09758064516129032,
+        0.23830331278017833,
+        0.2217741935483871,
+        0.2567849686847599
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "MATHESON FOR CONGRESS"
+    },
+    {
+      "bbox": [
+        0.325,
+        0.6137787056367432,
+        0.34919354838709676,
+        0.6325678496868476
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$800"
+    },
+    {
+      "bbox": [
+        0.7620967741935484,
+        0.6137787056367432,
+        0.7862903225806451,
+        0.6325678496868476
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$800"
+    },
+    {
+      "bbox": [
+        0.3276439875338973,
+        0.6145717013804599,
+        0.34919354838709676,
+        0.6325678496868476
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$800"
+    },
+    {
+      "bbox": [
+        0.7629032258064516,
+        0.6137787056367432,
+        0.7870967741935484,
+        0.6325678496868476
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$800"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.29436325678496866,
+        0.15,
+        0.31315240083507306
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.22973853563767355,
+        0.29436325678496866,
+        0.2859614684097624,
+        0.3135569905002346
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PROGRAM"
+    },
+    {
+      "bbox": [
+        0.325,
+        0.29436325678496866,
+        0.35,
+        0.31315240083507306
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.31315240083507306,
+        0.15,
+        0.33820459290187893
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/14/12"
+    },
+    {
+      "bbox": [
+        0.2153225806451613,
+        0.31315240083507306,
+        0.2991935483870968,
+        0.33820459290187893
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2NEWS @ 5PM SUN"
+    },
+    {
+      "bbox": [
+        0.325,
+        0.31315240083507306,
+        0.35,
+        0.33820459290187893
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$800"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 550,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "4716d1c4-a2dc-5aef-c44d-3616c4987f21",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04596774193548387,
+          0.29436325678496866,
+          0.48870967741935484,
+          0.6325678496868476
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.06612903225806452,
+            "right": 0.08064516129032258
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.11209677419354838,
+            "right": 0.15
+          },
+          {
+            "column_type": "",
+            "left": 0.1693548387096774,
+            "right": 0.19838709677419356
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2153225806451613,
+            "right": 0.2991935483870968
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.325,
+            "right": 0.35
+          },
+          {
+            "column_type": "",
+            "left": 0.3903225806451613,
+            "right": 0.45483870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": true,
+        "rows": [
+          {
+            "bottom": 0.31315240083507306,
+            "row_type": "data",
+            "top": 0.29436325678496866
+          },
+          {
+            "bottom": 0.33820459290187893,
+            "row_type": "data",
+            "top": 0.31315240083507306
+          },
+          {
+            "bottom": 0.6325678496868476,
+            "row_type": "gap",
+            "top": 0.33820459290187893
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8304502485137901,
+        0.16768045689391567,
+        0.8685532599161876,
+        0.17636660668796986
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "41484"
+    },
+    {
+      "bbox": [
+        0.6389581912094339,
+        0.16768045689391567,
+        0.6985552090439529,
+        0.17636660668796986
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11-30-19"
+    },
+    {
+      "bbox": [
+        0.05617751681122698,
+        0.05740412037809726,
+        0.3644211090536985,
+        0.08603491271820449
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY"
+    },
+    {
+      "bbox": [
+        0.05617751681122698,
+        0.05778177906479527,
+        0.3981276191404347,
+        0.11669653418968455
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY\nP.O. BOX 8439\nHOT SPRINGS VILLAGE AR 71910"
+    },
+    {
+      "bbox": [
+        0.10453903128350063,
+        0.16805811558061368,
+        0.3409731020368385,
+        0.17636660668796986
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "JACK WELLS-CANDIDATE FOR DIST #22"
+    },
+    {
+      "bbox": [
+        0.10551603157586979,
+        0.16768045689391567,
+        0.3414616021830231,
+        0.2073346189972065
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "JACK WELLS-CANDIDATE FOR DIST #22\n5922 N. HIGHWAY 7\nHOT SPRINGS VILLAGE, AR 71909"
+    },
+    {
+      "bbox": [
+        0.651659195010233,
+        0.19825436408977556,
+        0.9379202806743983,
+        0.20695696031050853
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "JACK WELLS-CANDIDATE FOR DIST #22(10023)"
+    },
+    {
+      "bbox": [
+        0.8201917454439138,
+        0.5245679158235335,
+        0.8324042490985285,
+        0.5404295806648498
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8915127667868629,
+        0.5253232331969295,
+        0.9638107884221812,
+        0.5381636285446617
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "632.50"
+    },
+    {
+      "bbox": [
+        0.8929782672254165,
+        0.5253232331969295,
+        0.9633222882759966,
+        0.5385412872313599
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "632.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.024193548387096774,
+        0.32917705735660846,
+        0.04596774193548387,
+        0.34351620947630923
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "55"
+    },
+    {
+      "bbox": [
+        0.175,
+        0.32917705735660846,
+        0.23387096774193547,
+        0.34351620947630923
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11.50"
+    },
+    {
+      "bbox": [
+        0.817741935483871,
+        0.32917705735660846,
+        0.832258064516129,
+        0.34351620947630923
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8911290322580645,
+        0.32917705735660846,
+        0.9661290322580646,
+        0.34351620947630923
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "632.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.021005506285937045,
+        0.28475464977029824,
+        0.07034402105057987,
+        0.29835036249142655
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TAGS"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1093,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "1374d606-b747-43b4-9489-ec5ca9d8f036",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.024193548387096774,
+          0.27680798004987534,
+          0.9661290322580646,
+          0.5056109725685786
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.024193548387096774,
+            "right": 0.04596774193548387
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.175,
+            "right": 0.23387096774193547
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.817741935483871,
+            "right": 0.832258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8911290322580645,
+            "right": 0.9661290322580646
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.31296758104738154,
+            "row_type": "header",
+            "top": 0.27680798004987534
+          },
+          {
+            "bottom": 0.32917705735660846,
+            "row_type": "gap",
+            "top": 0.31296758104738154
+          },
+          {
+            "bottom": 0.34351620947630923,
+            "row_type": "data",
+            "top": 0.32917705735660846
+          },
+          {
+            "bottom": 0.3485037406483791,
+            "row_type": "gap",
+            "top": 0.34351620947630923
+          },
+          {
+            "bottom": 0.49625935162094764,
+            "row_type": "up-merge",
+            "top": 0.3485037406483791
+          },
+          {
+            "bottom": 0.5056109725685786,
+            "row_type": "gap",
+            "top": 0.49625935162094764
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

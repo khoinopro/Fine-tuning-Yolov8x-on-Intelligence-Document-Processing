@@ -1,0 +1,229 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21637871656526234,
+        0.11036610692458315,
+        0.4505768568476639,
+        0.19225063786862873
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Carroll J. Hughes\nPublic Affairs Consulting\nAssociation Management, Inc."
+    },
+    {
+      "bbox": [
+        0.21888693186215127,
+        0.11262110152067654,
+        0.451782655793134,
+        0.23314342468515808
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Carroll J. Hughes\nPublic Affairs Consulting\nAssociation Management, Inc.\n169 Main St. (700 Plaza Middlesex)\nMiddletown, Connecticut 06457"
+    },
+    {
+      "bbox": [
+        0.17480006122527073,
+        0.7512015664866789,
+        0.5795555428002909,
+        0.7725627484720821
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PUBLIC AFFAIRS CONSULTING ASSOCIATION MANAGEMENT, INC."
+    },
+    {
+      "bbox": [
+        0.2074690047066927,
+        0.30922648884768106,
+        0.348751578464011,
+        0.3270236968389145
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJ Reynolds Company"
+    },
+    {
+      "bbox": [
+        0.20683259671679485,
+        0.3082118689452882,
+        0.3850268338881873,
+        0.43647652598500014
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJ Reynolds Company\n401 North Main Street\nWinston-Salem, NC 27102\nAttention: Vicky Pierce"
+    },
+    {
+      "bbox": [
+        0.41430160142348754,
+        0.8008743596055049,
+        0.4798516243829641,
+        0.8151121259984916
+      ],
+      "fieldtype": "customer_registration_id",
+      "page": 0,
+      "text": "6-1169747"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1056451612903226,
+        0.5084554678692221,
+        0.16612903225806455,
+        0.5264937993235626
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12/06/00"
+    },
+    {
+      "bbox": [
+        0.3016129032258065,
+        0.5084554678692221,
+        0.5241935483870968,
+        0.5264937993235626
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3rd and 4th quarters sales tax"
+    },
+    {
+      "bbox": [
+        0.7330645161290322,
+        0.5084554678692221,
+        0.792741935483871,
+        0.5264937993235626
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$2010.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.11658994374928253,
+        0.46266850662545894,
+        0.14815578004821492,
+        0.4776162583779738
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.36911663414074164,
+        0.46266850662545894,
+        0.44752209849615426,
+        0.4769044606754731
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7601257031339685,
+        0.46195670892295826,
+        0.7983101825278385,
+        0.47903985378297526
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 737,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pyfm0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2372,
+        1699
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1056451612903226,
+          0.46110484780157834,
+          0.8024193548387096,
+          0.8207440811724915
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.1056451612903226,
+            "right": 0.16612903225806455
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3016129032258065,
+            "right": 0.5241935483870968
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7330645161290322,
+            "right": 0.792741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4813979706877114,
+            "row_type": "header",
+            "top": 0.46110484780157834
+          },
+          {
+            "bottom": 0.5084554678692221,
+            "row_type": "gap",
+            "top": 0.4813979706877114
+          },
+          {
+            "bottom": 0.5264937993235626,
+            "row_type": "data",
+            "top": 0.5084554678692221
+          },
+          {
+            "bottom": 0.5501691093573844,
+            "row_type": "gap",
+            "top": 0.5264937993235626
+          },
+          {
+            "bottom": 0.6257046223224352,
+            "row_type": "gap-with-text",
+            "top": 0.5501691093573844
+          },
+          {
+            "bottom": 0.6719278466741826,
+            "row_type": "gap",
+            "top": 0.6257046223224352
+          },
+          {
+            "bottom": 0.8207440811724915,
+            "row_type": "gap-with-text",
+            "top": 0.6719278466741826
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

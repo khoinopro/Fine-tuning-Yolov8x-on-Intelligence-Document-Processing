@@ -1,0 +1,212 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.19420518789491187,
+        0.9048686273123797,
+        0.2400212005320918,
+        0.9172428991388738
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "A0150"
+    },
+    {
+      "bbox": [
+        0.2714521184917406,
+        0.7423582005091751,
+        0.45925314159865266,
+        0.7568797299541311
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Philip Morris Research Center"
+    },
+    {
+      "bbox": [
+        0.26745368571058425,
+        0.7434874989085194,
+        0.5178585308977847,
+        0.8068385817331061
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Philip Morris Research Center\nPO. Box 26583 / 4201 Commerce Rd.\nDoor 17\nRichmond, Virginia 23261"
+    },
+    {
+      "bbox": [
+        0.2950947246878441,
+        0.2550410632633625,
+        0.5817916828604741,
+        0.26806156850745605
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS MAGYARORSZ\u00c1G KFTR."
+    },
+    {
+      "bbox": [
+        0.28024031610312217,
+        0.2536725724431287,
+        0.5832993847688727,
+        0.31209837332616186
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS MAGYARORSZ\u00c1G KFTR.\n3300 EGER\nBERVA-VOLGYI RAKTARTELEP"
+    },
+    {
+      "bbox": [
+        0.22056937427127868,
+        0.4609880136812039,
+        0.23122489959839357,
+        0.47223875087668543
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.2232912540181965,
+        0.46028848548499973,
+        0.2653225806451613,
+        0.47223875087668543
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$30.00"
+    },
+    {
+      "bbox": [
+        0.2215399498555222,
+        0.46160862452545026,
+        0.2695847907760073,
+        0.4717273381248339
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$30.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11048387096774194,
+        0.4370820668693009,
+        0.220664297774185,
+        0.4522796352583587
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PLASTIC BAGS"
+    },
+    {
+      "bbox": [
+        0.7798387096774193,
+        0.4370820668693009,
+        0.8282258064516129,
+        0.4522796352583587
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$30.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.25218777270232295,
+        0.39743521461533315,
+        0.2950947246878441,
+        0.40865639645916285
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM"
+    },
+    {
+      "bbox": [
+        0.8292424943035153,
+        0.3967751450951079,
+        0.8844085754277569,
+        0.40865639645916285
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "VALUE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 441,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mpnk0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1064516129032258,
+          0.390273556231003,
+          0.9354838709677419,
+          0.6115501519756839
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11048387096774194,
+            "right": 0.26048387096774195
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7798387096774193,
+            "right": 0.8282258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4297872340425532,
+            "row_type": "header",
+            "top": 0.390273556231003
+          },
+          {
+            "bottom": 0.4370820668693009,
+            "row_type": "gap",
+            "top": 0.4297872340425532
+          },
+          {
+            "bottom": 0.4522796352583587,
+            "row_type": "data",
+            "top": 0.4370820668693009
+          },
+          {
+            "bottom": 0.460790273556231,
+            "row_type": "gap",
+            "top": 0.4522796352583587
+          },
+          {
+            "bottom": 0.6115501519756839,
+            "row_type": "footer",
+            "top": 0.460790273556231
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7522194160639805,
+        0.2117280747275558,
+        0.818314009107259,
+        0.2312995774334643
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "83696"
+    },
+    {
+      "bbox": [
+        0.7419904909501397,
+        0.282304099636741,
+        0.8490007844487814,
+        0.29713099562606565
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "MAY 21, 1999"
+    },
+    {
+      "bbox": [
+        0.3383413691501167,
+        0.1180220920750241,
+        0.6074407836834653,
+        0.13166283638520276
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ODAJIMA PATENT OFFICE"
+    },
+    {
+      "bbox": [
+        0.33780761556368477,
+        0.11807117701113103,
+        0.6065493016295311,
+        0.18097826814670004
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "ODAJIMA PATENT OFFICE\nINTERNATIONAL PATENTS AND TRADEMARKS\nNIPPON JITENSHA BUILDING\n9-15, 1-CHOME, AKASAKA\nMINATO-KU, TOKYO\n107-0052 JAPAN"
+    },
+    {
+      "bbox": [
+        0.10077632266098904,
+        0.18678949694040142,
+        0.33041417265898043,
+        0.21294002651205762
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "MR. JAMES T. MOORE\nPHILIP MORRIS MANAGEMENT CORP"
+    },
+    {
+      "bbox": [
+        0.10022563237322407,
+        0.187160861375723,
+        0.32891794146990355,
+        0.27063722667809276
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "HR. JAMES T. MOORE\nPHILIP MORRIS MANAGEMENT CORP\nP.O. BOX 26588\nRICHMOND, VA 28261-6583\nU. S. A."
+    },
+    {
+      "bbox": [
+        0.7406784370438811,
+        0.8069306267825341,
+        0.7522429330869455,
+        0.8210436109958089
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "\u00a5"
+    },
+    {
+      "bbox": [
+        0.7401277467561161,
+        0.8061004512405767,
+        0.8301937891189216,
+        0.8218737865377662
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "\u00a5188, 000. -"
+    },
+    {
+      "bbox": [
+        0.7406784370438811,
+        0.8069306267825341,
+        0.8313252286952335,
+        0.8228692458980318
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "\u00a5188, 000. -"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1870967741935484,
+        0.48936170212765956,
+        0.22096774193548388,
+        0.5337386018237082
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "( 1)"
+    },
+    {
+      "bbox": [
+        0.2306451612903226,
+        0.48936170212765956,
+        0.5314516129032258,
+        0.5337386018237082
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CHECKING YOUR SAMPLE; CHECKING\nDESIGN GAZETTES; AND REPORTING ITS\nRESULT"
+    },
+    {
+      "bbox": [
+        0.75,
+        0.48936170212765956,
+        0.8080645161290323,
+        0.5337386018237082
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "188, 000"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 436,
+    "currency": "jpy",
+    "document_type": "debit_note",
+    "language": "eng",
+    "original_filename": "smjb0076",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03790322580645161,
+          0.3088145896656535,
+          0.9201612903225806,
+          0.8322188449848025
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.1870967741935484,
+            "right": 0.22096774193548388
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2306451612903226,
+            "right": 0.5314516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.75,
+            "right": 0.8080645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3629179331306991,
+            "row_type": "gap-with-text",
+            "top": 0.3088145896656535
+          },
+          {
+            "bottom": 0.4006079027355623,
+            "row_type": "gap",
+            "top": 0.3629179331306991
+          },
+          {
+            "bottom": 0.4595744680851064,
+            "row_type": "gap-with-text",
+            "top": 0.4006079027355623
+          },
+          {
+            "bottom": 0.48936170212765956,
+            "row_type": "gap",
+            "top": 0.4595744680851064
+          },
+          {
+            "bottom": 0.5337386018237082,
+            "row_type": "data",
+            "top": 0.48936170212765956
+          },
+          {
+            "bottom": 0.79209726443769,
+            "row_type": "gap",
+            "top": 0.5337386018237082
+          },
+          {
+            "bottom": 0.8322188449848025,
+            "row_type": "footer",
+            "top": 0.79209726443769
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

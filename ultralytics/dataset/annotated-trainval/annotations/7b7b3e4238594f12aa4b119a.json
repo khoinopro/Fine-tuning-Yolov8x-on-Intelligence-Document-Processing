@@ -1,0 +1,321 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.649316178915863,
+        0.3620871604455735,
+        0.7481002660458929,
+        0.3748373174108832
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7273067082"
+    },
+    {
+      "bbox": [
+        0.1130965247755238,
+        0.3610559711266989,
+        0.18326405054871966,
+        0.3727749387731342
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/20799"
+    },
+    {
+      "bbox": [
+        0.800754489524443,
+        0.3626027551050108,
+        0.8698204190222814,
+        0.3774152907080695
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "6/04/99"
+    },
+    {
+      "bbox": [
+        0.14878824409710678,
+        0.9248587312213358,
+        0.20651396740937808,
+        0.9316795496031169
+      ],
+      "fieldtype": "vendor_registration_id",
+      "page": 0,
+      "text": "91-0637469"
+    },
+    {
+      "bbox": [
+        0.2327672929830395,
+        0.3615715657861362,
+        0.3070356667775191,
+        0.3738061280920087
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "34637788"
+    },
+    {
+      "bbox": [
+        0.13288992351180579,
+        0.38658788602031613,
+        0.21882274692384437,
+        0.3990702664044341
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DUKE UNIV"
+    },
+    {
+      "bbox": [
+        0.13197746923844364,
+        0.3872115892373773,
+        0.4267043565014965,
+        0.4423802177971634
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DUKE UNIV N66\nBRYAN CTR\n725 BROAD ST\nDURHAM NC 27705"
+    },
+    {
+      "bbox": [
+        0.8322102593947455,
+        0.6908968436459195,
+        0.8410999334885269,
+        0.7022399261535391
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8267355337545726,
+        0.40898797915999646,
+        0.8869159461257068,
+        0.4202096474413615
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$38.00"
+    },
+    {
+      "bbox": [
+        0.8325739940139674,
+        0.6919396754248458,
+        0.8828130196208845,
+        0.7017243314941018
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$38.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08306451612903226,
+        0.5829787234042553,
+        0.17096774193548386,
+        0.5969604863221885
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7273067082"
+    },
+    {
+      "bbox": [
+        0.7217741935483871,
+        0.5829787234042553,
+        0.7653225806451613,
+        0.5969604863221885
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "38.00"
+    },
+    {
+      "bbox": [
+        0.6277477552377785,
+        0.5986053996066512,
+        0.6366374293315596,
+        0.6078861034765217
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8301587961423346,
+        0.6697574626089922,
+        0.8821291985367475,
+        0.6826473290949235
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$38.00"
+    },
+    {
+      "bbox": [
+        0.09094820419022281,
+        0.608401698135959,
+        0.14565389092118392,
+        0.618713591324704
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5/20/99"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.08785126371799133,
+        0.48114378853966117,
+        0.200359577652145,
+        0.4929084944220143
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AIRBILL NUMBER"
+    },
+    {
+      "bbox": [
+        0.7156198037911541,
+        0.480628193880224,
+        0.7692987196541403,
+        0.4934240890814515
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CHARGES"
+    },
+    {
+      "bbox": [
+        0.5956081642833388,
+        0.4929084944220143,
+        0.6380050714998337,
+        0.5021891982918848
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "# PCS"
+    },
+    {
+      "bbox": [
+        0.7946000997672099,
+        0.48259660123326914,
+        0.8882835882939807,
+        0.4934240890814515
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL AMOUNT"
+    },
+    {
+      "bbox": [
+        0.09094820419022281,
+        0.5027047929513221,
+        0.1600141336880612,
+        0.5130166861400671
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SHIP DATE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 400,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gppl0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08306451612903226,
+          0.47598784194528876,
+          0.9016129032258065,
+          0.7088145896656535
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.08306451612903226,
+            "right": 0.17096774193548386
+          },
+          {
+            "column_type": "",
+            "left": 0.22983870967741934,
+            "right": 0.32983870967741935
+          },
+          {
+            "column_type": "",
+            "left": 0.6169354838709677,
+            "right": 0.6395161290322581
+          },
+          {
+            "column_type": "",
+            "left": 0.6540322580645161,
+            "right": 0.6830645161290323
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7217741935483871,
+            "right": 0.7653225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5714285714285714,
+            "row_type": "header",
+            "top": 0.47598784194528876
+          },
+          {
+            "bottom": 0.5829787234042553,
+            "row_type": "gap",
+            "top": 0.5714285714285714
+          },
+          {
+            "bottom": 0.5969604863221885,
+            "row_type": "data",
+            "top": 0.5829787234042553
+          },
+          {
+            "bottom": 0.6875379939209726,
+            "row_type": "up-merge",
+            "top": 0.5969604863221885
+          },
+          {
+            "bottom": 0.7088145896656535,
+            "row_type": "footer",
+            "top": 0.6875379939209726
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

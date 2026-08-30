@@ -1,0 +1,251 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6391862170087976,
+        0.29578584680625497,
+        0.7486549740581999,
+        0.3104702505484095
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99-A04013A"
+    },
+    {
+      "bbox": [
+        0.5621870065418453,
+        0.24404080504818673,
+        0.6831056734919247,
+        0.26261976442865453
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "May 28, 1999"
+    },
+    {
+      "bbox": [
+        0.6308369050304534,
+        0.3142462358141784,
+        0.7245347394540944,
+        0.32823138223527787
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "99-A04013"
+    },
+    {
+      "bbox": [
+        0.2671779833070156,
+        0.12936260439517064,
+        0.5158019399954884,
+        0.14404700813732513
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Rothstein-Tauber, Incorporated"
+    },
+    {
+      "bbox": [
+        0.269961087299797,
+        0.1294142595187506,
+        0.546416083916084,
+        0.17271655830057914
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Rothstein-Tauber, Incorporated\nMarket Research Services\n1351 Washington Blvd. \u00b7 Stamford, CT 06902"
+    },
+    {
+      "bbox": [
+        0.11317956237311078,
+        0.3803959826539071,
+        0.3515988044213851,
+        0.39975568237262776
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.11410726370403791,
+        0.38102445332413026,
+        0.364586623054365,
+        0.43336742696673886
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Company\nPO Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.4369473268666817,
+        0.7419120176393299,
+        0.44900744416873456,
+        0.7551979067393744
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.43509192420482745,
+        0.74051350299722,
+        0.5356381701302034,
+        0.7578328014485578
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.4360196255357546,
+        0.7419120176393299,
+        0.5352836679449583,
+        0.7582809580431459
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.15770922625761336,
+        0.8412065572291365,
+        0.22914222873900292,
+        0.858687990255511
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.43629032258064515,
+        0.7045592705167173,
+        0.4491935483870968,
+        0.7227963525835867
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.4491935483870968,
+        0.7045592705167173,
+        0.5338709677419354,
+        0.7227963525835867
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "14,200.00"
+    },
+    {
+      "bbox": [
+        0.5403225806451613,
+        0.7045592705167173,
+        0.6685483870967742,
+        0.7227963525835867
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "(Product Test)"
+    },
+    {
+      "bbox": [
+        0.4491935483870968,
+        0.7227963525835867,
+        0.5338709677419354,
+        0.7398176291793314
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,550.00"
+    },
+    {
+      "bbox": [
+        0.5403225806451613,
+        0.7227963525835867,
+        0.6685483870967742,
+        0.7398176291793314
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(Co-Op Fund)"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 665,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hygm0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11370967741935484,
+          0.7045592705167173,
+          0.6685483870967742,
+          0.7598784194528876
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_currency",
+            "left": 0.43629032258064515,
+            "right": 0.4491935483870968
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4491935483870968,
+            "right": 0.5338709677419354
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.5403225806451613,
+            "right": 0.6685483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.7227963525835867,
+            "row_type": "data",
+            "top": 0.7045592705167173
+          },
+          {
+            "bottom": 0.7398176291793314,
+            "row_type": "data",
+            "top": 0.7227963525835867
+          },
+          {
+            "bottom": 0.7598784194528876,
+            "row_type": "footer",
+            "top": 0.7398176291793314
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4254823356817523,
+        0.21996991106365416,
+        0.5882874737721977,
+        0.23741944727783826
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "September 14, 1999"
+    },
+    {
+      "bbox": [
+        0.41522150765084187,
+        0.07349956162944213,
+        0.5978642466010474,
+        0.09306419314231522
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Robert W. Crandall"
+    },
+    {
+      "bbox": [
+        0.4132947168680715,
+        0.0724170358730875,
+        0.5983161889543593,
+        0.12743449174601118
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Kobert W. Crandall\n5100 38th St., NW\nWashington, DC 20016"
+    },
+    {
+      "bbox": [
+        0.6539567731700244,
+        0.5467521347111018,
+        0.6669538220091775,
+        0.5626153494512692
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6548387096774193,
+        0.5472809085357742,
+        0.7367274526193685,
+        0.5631441232759415
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$9,049.67"
+    },
+    {
+      "bbox": [
+        0.6548387096774193,
+        0.5467521347111018,
+        0.7367274526193685,
+        0.5642016709252861
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$9,049.67"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.6508064516129032,
+        0.4002493765586035,
+        0.7411290322580645,
+        0.41957605985037405
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$3,825.00"
+    },
+    {
+      "bbox": [
+        0.1778128433037052,
+        0.4024544143867931,
+        0.31077199640467396,
+        0.4179281400007007
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "July and August"
+    },
+    {
+      "bbox": [
+        0.3331988415060422,
+        0.4018354653622368,
+        0.3636352741436133,
+        0.4179281400007007
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "8.5"
+    },
+    {
+      "bbox": [
+        0.3644362328972336,
+        0.4030733634113494,
+        0.4108918406072106,
+        0.418547089025257
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "hours"
+    },
+    {
+      "bbox": [
+        0.43652252072305997,
+        0.4024544143867931,
+        0.4781723759113153,
+        0.4166902419515881
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$450"
+    },
+    {
+      "bbox": [
+        0.6508064516129032,
+        0.43640897755610975,
+        0.7411290322580645,
+        0.4544887780548628
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5,224.67"
+    },
+    {
+      "bbox": [
+        0.17941476081094576,
+        0.43711555976194605,
+        0.42691101567961653,
+        0.45197033635129735
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Balance due from June 24 bill:"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1029,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mjdj0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.17903225806451614,
+          0.4002493765586035,
+          0.7411290322580645,
+          0.566708229426434
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6508064516129032,
+            "right": 0.7411290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41957605985037405,
+            "row_type": "data",
+            "top": 0.4002493765586035
+          },
+          {
+            "bottom": 0.43640897755610975,
+            "row_type": "gap",
+            "top": 0.41957605985037405
+          },
+          {
+            "bottom": 0.4544887780548628,
+            "row_type": "data",
+            "top": 0.43640897755610975
+          },
+          {
+            "bottom": 0.5093516209476309,
+            "row_type": "up-merge",
+            "top": 0.4544887780548628
+          },
+          {
+            "bottom": 0.5423940149625935,
+            "row_type": "gap",
+            "top": 0.5093516209476309
+          },
+          {
+            "bottom": 0.566708229426434,
+            "row_type": "footer",
+            "top": 0.5423940149625935
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

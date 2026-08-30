@@ -1,0 +1,602 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7371279415263925,
+        0.10708105535992017,
+        0.857050656580156,
+        0.12114629656956452
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9911482-IN"
+    },
+    {
+      "bbox": [
+        0.7384753877629516,
+        0.07947150780024792,
+        0.8348177936769301,
+        0.09351620947630923
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "08/31/99"
+    },
+    {
+      "bbox": [
+        0.34838970227908067,
+        0.8573430438890771,
+        0.6818826458274677,
+        0.8827930174563591
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Legalgard\u00aeInformation Solutions"
+    },
+    {
+      "bbox": [
+        0.3477159791608011,
+        0.856411149045148,
+        0.6813240970499034,
+        0.9412135562873267
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Legalgard\u00aeInformation Solutions\nOne Penn Center at Suburban Station\n1617 John F. Kennedy Boulevard\nSuite 700\nPhiladelphia, PA 19103"
+    },
+    {
+      "bbox": [
+        0.7095052936769302,
+        0.1571072319201995,
+        0.8004579146446721,
+        0.17206982543640897
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "23-2532173"
+    },
+    {
+      "bbox": [
+        0.7608579714836613,
+        0.22764853762680948,
+        0.8841493021288227,
+        0.24067190911722094
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "00-TOBACCO"
+    },
+    {
+      "bbox": [
+        0.2289161393975699,
+        0.22816947248642597,
+        0.5854838709677419,
+        0.2422347136960703
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "WACHTELL, LIPTON, ROSEN & KATZ"
+    },
+    {
+      "bbox": [
+        0.2289161393975699,
+        0.22790151843373782,
+        0.5974426850964947,
+        0.30057941797311355
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "WACHTELL, LIPTON, ROSEN & KATZ\n51 W. 52ND STREET\nNY 10019-6150\nNew York"
+    },
+    {
+      "bbox": [
+        0.7577887872470322,
+        0.816189189979377,
+        0.8561523625158495,
+        0.8312963009082541
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,681.67"
+    },
+    {
+      "bbox": [
+        0.7571150641287526,
+        0.8156682551197605,
+        0.8561523625158495,
+        0.830423940149626
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,681.67"
+    },
+    {
+      "bbox": [
+        0.6953571081930592,
+        0.13440119427784825,
+        0.7937206834618763,
+        0.1495083052067255
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.5361596009975063,
+        0.3016129032258065,
+        0.550498753117207
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "AIRFARE:"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.5361596009975063,
+        0.714516129032258,
+        0.550498753117207
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "446.00"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.550498753117207,
+        0.3016129032258065,
+        0.5654613466334164
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "HOTEL:"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.550498753117207,
+        0.714516129032258,
+        0.5654613466334164
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "451.08"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.5654613466334164,
+        0.3016129032258065,
+        0.5810473815461347
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "AUTO RENTAL:"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.5654613466334164,
+        0.714516129032258,
+        0.5810473815461347
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "180.87"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.5810473815461347,
+        0.3016129032258065,
+        0.5953865336658354
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "PER DIEM MEALS:"
+    },
+    {
+      "bbox": [
+        0.3241935483870968,
+        0.5810473815461347,
+        0.3379032258064516,
+        0.5953865336658354
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "5"
+    },
+    {
+      "bbox": [
+        0.34838709677419355,
+        0.5810473815461347,
+        0.39838709677419354,
+        0.5953865336658354
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "DAYS"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.5810473815461347,
+        0.5040322580645161,
+        0.5953865336658354
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$38.00"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.5810473815461347,
+        0.714516129032258,
+        0.5953865336658354
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "190.00"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.6246882793017456,
+        0.3016129032258065,
+        0.6371571072319202
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "AIRFARE:"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.6246882793017456,
+        0.714516129032258,
+        0.6371571072319202
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "761.60"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.6371571072319202,
+        0.3016129032258065,
+        0.6508728179551122
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "HOTEL:"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.6371571072319202,
+        0.714516129032258,
+        0.6508728179551122
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "451.08"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.6508728179551122,
+        0.3016129032258065,
+        0.6677057356608479
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "BUSINESS CALLS:"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.6508728179551122,
+        0.714516129032258,
+        0.6677057356608479
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "3.00"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.6677057356608479,
+        0.3016129032258065,
+        0.6807980049875312
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "COPIES:"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.6677057356608479,
+        0.714516129032258,
+        0.6807980049875312
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "8.04"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.6807980049875312,
+        0.3016129032258065,
+        0.699501246882793
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "PER DIEM MEALS:"
+    },
+    {
+      "bbox": [
+        0.3241935483870968,
+        0.6807980049875312,
+        0.3379032258064516,
+        0.699501246882793
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "5"
+    },
+    {
+      "bbox": [
+        0.34838709677419355,
+        0.6807980049875312,
+        0.39838709677419354,
+        0.699501246882793
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "DAYS"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.6807980049875312,
+        0.5040322580645161,
+        0.699501246882793
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "$38.00"
+    },
+    {
+      "bbox": [
+        0.6411290322580645,
+        0.6807980049875312,
+        0.714516129032258,
+        0.699501246882793
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "190.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2686993650352243,
+        0.3584973357331997,
+        0.5690404847979236,
+        0.3727453067687499
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION/SERVICES RENDERED"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 646,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ptdj0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09596774193548387,
+          0.3566084788029925,
+          0.8790322580645161,
+          0.8435162094763092
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12016129032258065,
+            "right": 0.3016129032258065
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.3241935483870968,
+            "right": 0.3379032258064516
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.34838709677419355,
+            "right": 0.39838709677419354
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.42983870967741933,
+            "right": 0.5040322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6411290322580645,
+            "right": 0.714516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.37281795511221943,
+            "row_type": "header",
+            "top": 0.3566084788029925
+          },
+          {
+            "bottom": 0.40336658354114713,
+            "row_type": "gap",
+            "top": 0.37281795511221943
+          },
+          {
+            "bottom": 0.41957605985037405,
+            "row_type": "gap-with-text",
+            "top": 0.40336658354114713
+          },
+          {
+            "bottom": 0.4470074812967581,
+            "row_type": "gap",
+            "top": 0.41957605985037405
+          },
+          {
+            "bottom": 0.5062344139650873,
+            "row_type": "gap-with-text",
+            "top": 0.4470074812967581
+          },
+          {
+            "bottom": 0.5224438902743143,
+            "row_type": "gap",
+            "top": 0.5062344139650873
+          },
+          {
+            "bottom": 0.5361596009975063,
+            "row_type": "subsection-header",
+            "top": 0.5224438902743143
+          },
+          {
+            "bottom": 0.550498753117207,
+            "row_type": "data",
+            "top": 0.5361596009975063
+          },
+          {
+            "bottom": 0.5654613466334164,
+            "row_type": "data",
+            "top": 0.550498753117207
+          },
+          {
+            "bottom": 0.5810473815461347,
+            "row_type": "data",
+            "top": 0.5654613466334164
+          },
+          {
+            "bottom": 0.5953865336658354,
+            "row_type": "data",
+            "top": 0.5810473815461347
+          },
+          {
+            "bottom": 0.6084788029925187,
+            "row_type": "gap",
+            "top": 0.5953865336658354
+          },
+          {
+            "bottom": 0.6246882793017456,
+            "row_type": "subsection-header",
+            "top": 0.6084788029925187
+          },
+          {
+            "bottom": 0.6371571072319202,
+            "row_type": "data",
+            "top": 0.6246882793017456
+          },
+          {
+            "bottom": 0.6508728179551122,
+            "row_type": "data",
+            "top": 0.6371571072319202
+          },
+          {
+            "bottom": 0.6677057356608479,
+            "row_type": "data",
+            "top": 0.6508728179551122
+          },
+          {
+            "bottom": 0.6807980049875312,
+            "row_type": "data",
+            "top": 0.6677057356608479
+          },
+          {
+            "bottom": 0.699501246882793,
+            "row_type": "data",
+            "top": 0.6807980049875312
+          },
+          {
+            "bottom": 0.7319201995012469,
+            "row_type": "gap",
+            "top": 0.699501246882793
+          },
+          {
+            "bottom": 0.7581047381546134,
+            "row_type": "gap-with-text",
+            "top": 0.7319201995012469
+          },
+          {
+            "bottom": 0.7674563591022444,
+            "row_type": "gap",
+            "top": 0.7581047381546134
+          },
+          {
+            "bottom": 0.786783042394015,
+            "row_type": "gap-with-text",
+            "top": 0.7674563591022444
+          },
+          {
+            "bottom": 0.8435162094763092,
+            "row_type": "footer",
+            "top": 0.786783042394015
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8220464571271022,
+        0.2888709688536002,
+        0.8662668872346292,
+        0.3042546299168097
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "5045C"
+    },
+    {
+      "bbox": [
+        0.7064516129032258,
+        0.29058026452729013,
+        0.7664874551971326,
+        0.3042546299168097
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/31/99"
+    },
+    {
+      "bbox": [
+        0.6556451612903226,
+        0.5179331306990882,
+        0.7075268817204301,
+        0.529881658843882
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "11/15/99"
+    },
+    {
+      "bbox": [
+        0.49889716018748276,
+        0.5153526456175176,
+        0.5533223049352082,
+        0.530736306680727
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "10/31/99"
+    },
+    {
+      "bbox": [
+        0.08746898263027295,
+        0.35828359770129087,
+        0.19437551695616212,
+        0.3829787234042553
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA\nMaiboro Racing"
+    },
+    {
+      "bbox": [
+        0.09070857457954232,
+        0.35706286994080944,
+        0.24782878411910672,
+        0.40711270812054684
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris USA\nMariboro Racing\n120 Park Ave\nNew York, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.8201566951566951,
+        0.8806200837733639,
+        0.8305503859939343,
+        0.8962945512838929
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8193548387096774,
+        0.8799076079774306,
+        0.8806290782097232,
+        0.8948695996920266
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$6,799 18"
+    },
+    {
+      "bbox": [
+        0.8185483870967742,
+        0.8806200837733639,
+        0.8806290782097232,
+        0.8948695996920266
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$6,799 18"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2032258064516129,
+        0.6212765957446809,
+        0.2854838709677419,
+        0.6389057750759879
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Labor"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.6212765957446809,
+        0.7403225806451613,
+        0.6389057750759879
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6,281.00"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.6212765957446809,
+        0.8927419354838709,
+        0.6389057750759879
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6,281.00"
+    },
+    {
+      "bbox": [
+        0.2032258064516129,
+        0.6857142857142857,
+        0.2854838709677419,
+        0.7003039513677811
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "LA Sales Tax"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.6857142857142857,
+        0.7403225806451613,
+        0.7003039513677811
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "8.25%"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.6857142857142857,
+        0.8927419354838709,
+        0.7003039513677811
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "518.18"
+    },
+    {
+      "bbox": [
+        0.3485820223012507,
+        0.6722816461325477,
+        0.40460022550848246,
+        0.6866671307145565
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "11/15/99"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3522701953308741,
+        0.5427048576504745,
+        0.4510280246577377,
+        0.5580571874284229
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6495618052632882,
+        0.5427048576504745,
+        0.6953772930953384,
+        0.5580571874284229
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.7880263907112619,
+        0.5434724741393719,
+        0.8562405614834253,
+        0.5572895709395255
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 811,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nqlf0052",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ],
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05161290322580645,
+          0.5398176291793313,
+          0.8927419354838709,
+          0.9057750759878419
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2032258064516129,
+            "right": 0.2854838709677419
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6725806451612903,
+            "right": 0.7403225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8274193548387097,
+            "right": 0.8927419354838709
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.562917933130699,
+            "row_type": "header",
+            "top": 0.5398176291793313
+          },
+          {
+            "bottom": 0.5908814589665653,
+            "row_type": "gap-with-text",
+            "top": 0.562917933130699
+          },
+          {
+            "bottom": 0.6212765957446809,
+            "row_type": "gap",
+            "top": 0.5908814589665653
+          },
+          {
+            "bottom": 0.6389057750759879,
+            "row_type": "data",
+            "top": 0.6212765957446809
+          },
+          {
+            "bottom": 0.6857142857142857,
+            "row_type": "gap-with-text",
+            "top": 0.6389057750759879
+          },
+          {
+            "bottom": 0.7003039513677811,
+            "row_type": "data",
+            "top": 0.6857142857142857
+          },
+          {
+            "bottom": 0.8626139817629179,
+            "row_type": "gap",
+            "top": 0.7003039513677811
+          },
+          {
+            "bottom": 0.9057750759878419,
+            "row_type": "footer",
+            "top": 0.8626139817629179
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.03951612903225806,
+          0.34285714285714286,
+          0.8266129032258065,
+          0.45653495440729486
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.03951612903225806,
+            "right": 0.15403225806451612
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3193548387096774,
+            "right": 0.5145161290322581
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.5145161290322581,
+            "right": 0.6733870967741935
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6733870967741935,
+            "right": 0.7435483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7435483870967742,
+            "right": 0.8266129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3696048632218845,
+            "row_type": "gap-with-text",
+            "top": 0.34285714285714286
+          },
+          {
+            "bottom": 0.4115501519756839,
+            "row_type": "gap-with-text",
+            "top": 0.3696048632218845
+          },
+          {
+            "bottom": 0.43829787234042555,
+            "row_type": "gap-with-text",
+            "top": 0.4115501519756839
+          },
+          {
+            "bottom": 0.45653495440729486,
+            "row_type": "gap-with-text",
+            "top": 0.43829787234042555
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5741025442435039,
+        0.061236109551051396,
+        0.6278956743987918,
+        0.07684531394641744
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KCRV-AM"
+    },
+    {
+      "bbox": [
+        0.7911300003872518,
+        0.060035401520638625,
+        0.9620967741935483,
+        0.081419624217119
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Thompson Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.7911300003872518,
+        0.05883469349022585,
+        0.9627115362273944,
+        0.12253962326365785
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Thompson Communications, Inc.\n200 West Jefferson\nMarshfield, MO 65706"
+    },
+    {
+      "bbox": [
+        0.09367424389110485,
+        0.08164814606806853,
+        0.2306451612903226,
+        0.10020876826722339
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "JasonBeanforSenate.com"
+    },
+    {
+      "bbox": [
+        0.2550536343569686,
+        0.4790825041346962,
+        0.26525577973124737,
+        0.4946917085300622
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.24720613773874398,
+        0.4569465205026526,
+        0.30285420341662805,
+        0.476157848989257
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,000.20"
+    },
+    {
+      "bbox": [
+        0.2578360376408628,
+        0.47788179610428344,
+        0.29957208689927584,
+        0.4970931245908878
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$850.17"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.025806451612903226,
+        0.2985386221294363,
+        0.035483870967741936,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.2620967741935484,
+        0.2985386221294363,
+        0.3,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$17.65"
+    },
+    {
+      "bbox": [
+        0.8483870967741935,
+        0.2985386221294363,
+        0.8661290322580645,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "50"
+    },
+    {
+      "bbox": [
+        0.025806451612903226,
+        0.32045929018789143,
+        0.035483870967741936,
+        0.34237995824634654
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.2620967741935484,
+        0.32045929018789143,
+        0.3,
+        0.34237995824634654
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$11.77"
+    },
+    {
+      "bbox": [
+        0.8483870967741935,
+        0.32045929018789143,
+        0.8661290322580645,
+        0.34237995824634654
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "10"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.020384713592646184,
+        0.25948838651142764,
+        0.045865605583453914,
+        0.296872306602057
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\nNo"
+    },
+    {
+      "bbox": [
+        0.2663602576105768,
+        0.25948838651142764,
+        0.3020335063977076,
+        0.2757613870214663
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross"
+    },
+    {
+      "bbox": [
+        0.8405296904701111,
+        0.26080781898521455,
+        0.8748439583510653,
+        0.2999509823742265
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "b8bb0733-5f5b-4d1c-9056-0c5fa5790c37",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016935483870967744,
+          0.2578288100208768,
+          0.9830645161290322,
+          0.5
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.025806451612903226,
+            "right": 0.035483870967741936
+          },
+          {
+            "column_type": "",
+            "left": 0.0467741935483871,
+            "right": 0.17338709677419356
+          },
+          {
+            "column_type": "",
+            "left": 0.19596774193548386,
+            "right": 0.21370967741935484
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.2620967741935484,
+            "right": 0.3
+          },
+          {
+            "column_type": "",
+            "left": 0.31048387096774194,
+            "right": 0.32016129032258067
+          },
+          {
+            "column_type": "",
+            "left": 0.33225806451612905,
+            "right": 0.34758064516129034
+          },
+          {
+            "column_type": "",
+            "left": 0.36451612903225805,
+            "right": 0.3790322580645161
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8483870967741935,
+            "right": 0.8661290322580645
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2985386221294363,
+            "row_type": "header",
+            "top": 0.2578288100208768
+          },
+          {
+            "bottom": 0.32045929018789143,
+            "row_type": "data",
+            "top": 0.2985386221294363
+          },
+          {
+            "bottom": 0.34237995824634654,
+            "row_type": "data",
+            "top": 0.32045929018789143
+          },
+          {
+            "bottom": 0.5,
+            "row_type": "footer",
+            "top": 0.34237995824634654
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

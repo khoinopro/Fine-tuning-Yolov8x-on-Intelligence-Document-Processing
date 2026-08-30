@@ -1,0 +1,483 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7673874370966736,
+        0.152923750453607,
+        0.8153394850487216,
+        0.16989309615170078
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "045753"
+    },
+    {
+      "bbox": [
+        0.7666140169684147,
+        0.26172720228256113,
+        0.9004156991571937,
+        0.2806929415921954
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 26,1999"
+    },
+    {
+      "bbox": [
+        0.765067176711897,
+        0.20982096838250966,
+        0.7998710824835448,
+        0.22579211727483317
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "TIME"
+    },
+    {
+      "bbox": [
+        0.1293158312831322,
+        0.033938691396187534,
+        0.29250747834574703,
+        0.06687918598660485
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "50 Cambridge Street\nBurlington, Massachusetts 01803-4610"
+    },
+    {
+      "bbox": [
+        0.04006315320264413,
+        0.7478490438367952,
+        0.18005219641749381,
+        0.7917697032906849
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Post Office Box 4088\nBoston, MA 02211"
+    },
+    {
+      "bbox": [
+        0.7670780737659518,
+        0.1806736218444101,
+        0.8011085594093407,
+        0.19664477073673364
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LORI"
+    },
+    {
+      "bbox": [
+        0.07022653820473881,
+        0.17368624420401854,
+        0.446108720538534,
+        0.2136141164348274
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt. Planning/Info\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.07099995833299766,
+        0.17368624420401854,
+        0.446108720538534,
+        0.29746264811952605
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt. Planning/Info\nLorillard Tobacco Company\n714 Green Valley Road\nPO Box 10529\nGreensboro NC\n27404-0529"
+    },
+    {
+      "bbox": [
+        0.8530824014694984,
+        0.7959621268286649,
+        0.8615900228803456,
+        0.8129314725267586
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8902065676259225,
+        0.7360703184824515,
+        0.9304244142953821,
+        0.7520414673747752
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8515355612129807,
+        0.7939657332171244,
+        0.9311978344236409,
+        0.8139296693325289
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$84,965.00"
+    },
+    {
+      "bbox": [
+        0.8507621410847218,
+        0.7949639300228947,
+        0.9319712545518998,
+        0.8129314725267586
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$84,965.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.43020833333333336,
+        0.49193548387096775,
+        0.44895833333333335
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Central Production - 100% @ $90/hr"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.43020833333333336,
+        0.9274193548387096,
+        0.44895833333333335
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$13,680.00"
+    },
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.44895833333333335,
+        0.49193548387096775,
+        0.46979166666666666
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Kevin Hartin - Insight Consultant - 25% @ $140/hr"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.44895833333333335,
+        0.9274193548387096,
+        0.46979166666666666
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$5,320.00"
+    },
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.46979166666666666,
+        0.49193548387096775,
+        0.49166666666666664
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Kathy Whitley - Director Technical Services - 10% @ $140/hr"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.46979166666666666,
+        0.9274193548387096,
+        0.49166666666666664
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$2,100.00"
+    },
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.49166666666666664,
+        0.49193548387096775,
+        0.5135416666666667
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Kimberly Doyle - Account Manager - 60% @ $140/hr"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.49166666666666664,
+        0.9274193548387096,
+        0.5135416666666667
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$12,740.00"
+    },
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.5135416666666667,
+        0.49193548387096775,
+        0.5385416666666667
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Maria Howe - Project Manager - 60% @ $125/hr"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.5135416666666667,
+        0.9274193548387096,
+        0.5385416666666667
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$11,375.00"
+    },
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.5385416666666667,
+        0.49193548387096775,
+        0.55625
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Dan Gregory - Sr. Acct. Director - 20% @ $185/hr"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.5385416666666667,
+        0.9274193548387096,
+        0.55625
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$5,550.00"
+    },
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.55625,
+        0.49193548387096775,
+        0.5822916666666667
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Lisa Weldon - Programer - 50% @ $90/hr"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.55625,
+        0.9274193548387096,
+        0.5822916666666667
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$6,840.00"
+    },
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.5822916666666667,
+        0.49193548387096775,
+        0.6010416666666667
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Jennis Lavita - Systems Analyst - 100% @ $90/hr"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.5822916666666667,
+        0.9274193548387096,
+        0.6010416666666667
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "$13,680.00"
+    },
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.6010416666666667,
+        0.49193548387096775,
+        0.621875
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Ed Garboski - Account Executive - 100% @ $90/hr"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.6010416666666667,
+        0.9274193548387096,
+        0.621875
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "$13,680.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.026888173313151922,
+        0.39978731803348244,
+        0.15877921576202433,
+        0.4180684454756381
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Professional Time"
+    },
+    {
+      "bbox": [
+        0.8569495021107925,
+        0.36833462132921174,
+        0.9373851954497116,
+        0.38630216383307575
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 177,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lrhx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2208,
+        1710
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.024193548387096774,
+          0.36354166666666665,
+          0.9588709677419355,
+          0.6541666666666667
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04112903225806452,
+            "right": 0.49193548387096775
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8508064516129032,
+            "right": 0.9274193548387096
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41770833333333335,
+            "row_type": "header",
+            "top": 0.36354166666666665
+          },
+          {
+            "bottom": 0.43020833333333336,
+            "row_type": "gap",
+            "top": 0.41770833333333335
+          },
+          {
+            "bottom": 0.44895833333333335,
+            "row_type": "data",
+            "top": 0.43020833333333336
+          },
+          {
+            "bottom": 0.46979166666666666,
+            "row_type": "data",
+            "top": 0.44895833333333335
+          },
+          {
+            "bottom": 0.49166666666666664,
+            "row_type": "data",
+            "top": 0.46979166666666666
+          },
+          {
+            "bottom": 0.5135416666666667,
+            "row_type": "data",
+            "top": 0.49166666666666664
+          },
+          {
+            "bottom": 0.5385416666666667,
+            "row_type": "data",
+            "top": 0.5135416666666667
+          },
+          {
+            "bottom": 0.55625,
+            "row_type": "data",
+            "top": 0.5385416666666667
+          },
+          {
+            "bottom": 0.5822916666666667,
+            "row_type": "data",
+            "top": 0.55625
+          },
+          {
+            "bottom": 0.6010416666666667,
+            "row_type": "data",
+            "top": 0.5822916666666667
+          },
+          {
+            "bottom": 0.621875,
+            "row_type": "data",
+            "top": 0.6010416666666667
+          },
+          {
+            "bottom": 0.6541666666666667,
+            "row_type": "footer",
+            "top": 0.621875
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

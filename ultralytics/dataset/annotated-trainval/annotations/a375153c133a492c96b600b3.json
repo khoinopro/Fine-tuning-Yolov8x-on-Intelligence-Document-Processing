@@ -1,0 +1,220 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8255919637804188,
+        0.01192158672473633,
+        0.8991335597057158,
+        0.028050792293497252
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "399654"
+    },
+    {
+      "bbox": [
+        0.8142105263157894,
+        0.040673648825571014,
+        0.898258064516129,
+        0.05469904497231964
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02/24/1999"
+    },
+    {
+      "bbox": [
+        0.1006819468024901,
+        0.0224406338347978,
+        0.30904980192416526,
+        0.037167299788883855
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.10328107314657611,
+        0.021930270582399013,
+        0.46926542161856255,
+        0.053997775164982206
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A.\n120 PARK AVENUE, NEW YORK, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.16459309564233163,
+        0.15778570665092204,
+        0.4465025466893039,
+        0.17531745183435782
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "MITSUBISHI ELECTRONICS AMERICA"
+    },
+    {
+      "bbox": [
+        0.1628421052631579,
+        0.15844620495783288,
+        0.44732332342954156,
+        0.21949744969661597
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "MITSUBISHI ELECTRONICS AMERICA\n5665 PLAZA DRIVE\nCYPRESS, CA 90630-0007\nATTN: CORP ACCOUNTING DEPT"
+    },
+    {
+      "bbox": [
+        0.7930717112363593,
+        0.16655613294268756,
+        0.8060576807770716,
+        0.17770944541652825
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.1667744020685197,
+        0.8842501414827391,
+        0.1795250706783824
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$280,000.00"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.6535834604384859,
+        0.8895031126202603,
+        0.668310126392572
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$280,000.00"
+    },
+    {
+      "bbox": [
+        0.7951612903225806,
+        0.16549967453163378,
+        0.8851256366723259,
+        0.178823800871045
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$280,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.8008064516129032,
+        0.4738202973497091,
+        0.8903225806451613,
+        0.48933419521654814
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "280,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7327894736842104,
+        0.43285878857902943,
+        0.8194634974533107,
+        0.4602083110651893
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET AMOUNT\nPAYABLE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 594,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tkmg0025",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1,
+          0.43309631544925664,
+          0.9024193548387097,
+          0.6755009696186167
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.10967741935483871,
+            "right": 0.1685483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.5338709677419354,
+            "right": 0.635483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8008064516129032,
+            "right": 0.8903225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4608920491273432,
+            "row_type": "header",
+            "top": 0.43309631544925664
+          },
+          {
+            "bottom": 0.4738202973497091,
+            "row_type": "gap",
+            "top": 0.4608920491273432
+          },
+          {
+            "bottom": 0.48933419521654814,
+            "row_type": "data",
+            "top": 0.4738202973497091
+          },
+          {
+            "bottom": 0.5378151260504201,
+            "row_type": "gap-with-text",
+            "top": 0.48933419521654814
+          },
+          {
+            "bottom": 0.6535229476405947,
+            "row_type": "gap",
+            "top": 0.5378151260504201
+          },
+          {
+            "bottom": 0.6755009696186167,
+            "row_type": "footer",
+            "top": 0.6535229476405947
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6870967741935484,
+        0.1443089430894309,
+        0.7645161290322581,
+        0.1599437148217636
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4251 4940"
+    },
+    {
+      "bbox": [
+        0.19516129032258064,
+        0.17120075046904315,
+        0.25,
+        0.1812070043777361
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/29/2000"
+    },
+    {
+      "bbox": [
+        0.1588709677419355,
+        0.19621638524077548,
+        0.2838709677419355,
+        0.20747342088805504
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Labstat International Inc."
+    },
+    {
+      "bbox": [
+        0.1588709677419355,
+        0.22138836772983114,
+        0.4403225806451613,
+        0.23186366479049406
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "262 Manitou Drive, Kitchener, Ontario, Canada N2C IL3"
+    },
+    {
+      "bbox": [
+        0.5451612903225806,
+        0.1436835522201376,
+        0.5782258064516129,
+        0.1599437148217636
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "632"
+    },
+    {
+      "bbox": [
+        0.12983870967741937,
+        0.0992808005003127,
+        0.2967741935483871,
+        0.11178861788617886
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.24624765478424016,
+        0.35161290322580646,
+        0.2587554721701063
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PM USA, RD&E Tower, Richmond VA"
+    },
+    {
+      "bbox": [
+        0.45,
+        0.24749843652282677,
+        0.5451612903225806,
+        0.2593808630393996
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "RD&E Tower - T3"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.31048387096774194,
+        0.41776110068792993,
+        0.5766129032258065,
+        0.482801751094434
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Conduct analyses to measure mainstream\nAnd sidestream smoke constituents as\nDescribed in the attached quote."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.38870967741935486,
+        0.3888367729831144,
+        0.4685483870967742,
+        0.400093808630394
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1096,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "zrhm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1715,
+        2211
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13548387096774195,
+          0.38711694809255787,
+          0.8451612903225807,
+          0.482801751094434
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.31048387096774194,
+            "right": 0.5766129032258065
+          },
+          {
+            "column_type": "",
+            "left": 0.5983870967741935,
+            "right": 0.6741935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4052532833020638,
+            "row_type": "header",
+            "top": 0.38711694809255787
+          },
+          {
+            "bottom": 0.41776110068792993,
+            "row_type": "gap",
+            "top": 0.4052532833020638
+          },
+          {
+            "bottom": 0.482801751094434,
+            "row_type": "data",
+            "top": 0.41776110068792993
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

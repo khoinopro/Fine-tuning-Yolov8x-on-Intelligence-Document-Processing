@@ -1,0 +1,188 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.49220525012100336,
+        0.14124253564523065,
+        0.5527674173618428,
+        0.15801508675310177
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "207685"
+    },
+    {
+      "bbox": [
+        0.48951612903225805,
+        0.12023270846800259,
+        0.5439583748540843,
+        0.1350631747107518
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "08846"
+    },
+    {
+      "bbox": [
+        0.7146335734419041,
+        0.5014110015405688,
+        0.7267460068900721,
+        0.5181835526484398
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7146335734419041,
+        0.5022937673883514,
+        0.8060273894598982,
+        0.5199490843440053
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$67,287.10"
+    },
+    {
+      "bbox": [
+        0.714516129032258,
+        0.5022937673883514,
+        0.8049262591464283,
+        0.519715578539108
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$67,287.10"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.2171945701357466,
+        0.38467741935483873,
+        0.23335488041370395
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Contest Coordination/Judging"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.2171945701357466,
+        0.8088709677419355,
+        0.23481571551019592
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$37,729.75"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.36069812540400775,
+        0.38467741935483873,
+        0.3749191984486102
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Announcement Media Relations"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.36069812540400775,
+        0.8088709677419355,
+        0.37782378285099194
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$4,973.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 624,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jjwd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1403225806451613,
+          0.2171945701357466,
+          0.8088709677419355,
+          0.5210084033613446
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1403225806451613,
+            "right": 0.38467741935483873
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7161290322580646,
+            "right": 0.8088709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.23335488041370395,
+            "row_type": "data",
+            "top": 0.2171945701357466
+          },
+          {
+            "bottom": 0.3387201034259858,
+            "row_type": "gap-with-text",
+            "top": 0.23335488041370395
+          },
+          {
+            "bottom": 0.36069812540400775,
+            "row_type": "gap",
+            "top": 0.3387201034259858
+          },
+          {
+            "bottom": 0.3749191984486102,
+            "row_type": "data",
+            "top": 0.36069812540400775
+          },
+          {
+            "bottom": 0.4117647058823529,
+            "row_type": "gap-with-text",
+            "top": 0.3749191984486102
+          },
+          {
+            "bottom": 0.4305106658047835,
+            "row_type": "gap",
+            "top": 0.4117647058823529
+          },
+          {
+            "bottom": 0.5210084033613446,
+            "row_type": "footer",
+            "top": 0.4305106658047835
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

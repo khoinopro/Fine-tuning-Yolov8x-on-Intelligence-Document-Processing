@@ -1,0 +1,211 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.49853130827277325,
+        0.14060776705457217,
+        0.5587489555729712,
+        0.15723754609932009
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "210703"
+    },
+    {
+      "bbox": [
+        0.22773832185979614,
+        0.08161949045906688,
+        0.7451612903225806,
+        0.09976007819673584
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "LORILLARD YOUTH SMOKING PREVENTION PROGRAM"
+    },
+    {
+      "bbox": [
+        0.4963768494797929,
+        0.11905487884558756,
+        0.5492380343081675,
+        0.13293174250066728
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "08846"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.4315830679888519,
+        0.821675490712694,
+        0.44801258674732586
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$116,446.06"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.43185033210608653,
+        0.821675490712694,
+        0.44733682958057136
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$116,446.06"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14677419354838708,
+        0.21460892049127342,
+        0.3379032258064516,
+        0.22947640594699417
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Winners Press Materials"
+    },
+    {
+      "bbox": [
+        0.7362903225806452,
+        0.21460892049127342,
+        0.825,
+        0.22947640594699417
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$752.50"
+    },
+    {
+      "bbox": [
+        0.14677419354838708,
+        0.2669683257918552,
+        0.3379032258064516,
+        0.28829993535875886
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Scholarships"
+    },
+    {
+      "bbox": [
+        0.7362903225806452,
+        0.2669683257918552,
+        0.825,
+        0.28829993535875886
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$3,331.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.14677419354838708,
+        0.18099547511312217,
+        0.26588971938106476,
+        0.19521654815772463
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Teen Program"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 853,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fkjd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14677419354838708,
+          0.18099547511312217,
+          0.825,
+          0.45248868778280543
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14677419354838708,
+            "right": 0.3379032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7362903225806452,
+            "right": 0.825
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.19521654815772463,
+            "row_type": "header",
+            "top": 0.18099547511312217
+          },
+          {
+            "bottom": 0.21460892049127342,
+            "row_type": "gap",
+            "top": 0.19521654815772463
+          },
+          {
+            "bottom": 0.22947640594699417,
+            "row_type": "data",
+            "top": 0.21460892049127342
+          },
+          {
+            "bottom": 0.2501616031027796,
+            "row_type": "up-merge",
+            "top": 0.22947640594699417
+          },
+          {
+            "bottom": 0.2669683257918552,
+            "row_type": "gap",
+            "top": 0.2501616031027796
+          },
+          {
+            "bottom": 0.28829993535875886,
+            "row_type": "data",
+            "top": 0.2669683257918552
+          },
+          {
+            "bottom": 0.3212669683257919,
+            "row_type": "up-merge",
+            "top": 0.28829993535875886
+          },
+          {
+            "bottom": 0.34195216548157725,
+            "row_type": "gap",
+            "top": 0.3212669683257919
+          },
+          {
+            "bottom": 0.45248868778280543,
+            "row_type": "footer",
+            "top": 0.34195216548157725
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

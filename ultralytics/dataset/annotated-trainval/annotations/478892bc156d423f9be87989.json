@@ -1,0 +1,133 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6356190603667514,
+        0.3650553203333672,
+        0.7623022353098649,
+        0.37998940161973227
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 23, 1999"
+    },
+    {
+      "bbox": [
+        0.08482264757060634,
+        0.17506061952350108,
+        0.3877606746084861,
+        0.18833535844471447
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CENTER FOR INDOOR AIR RESEARCH"
+    },
+    {
+      "bbox": [
+        0.12998795341989025,
+        0.39824216763640063,
+        0.2952268772587338,
+        0.4131762489227656
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Corporation"
+    },
+    {
+      "bbox": [
+        0.13108954624548252,
+        0.39824216763640063,
+        0.4384339445857315,
+        0.4820389570765599
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Corporation\nP.O. Box 10529\nGreensboro, North Carolina 27404-0529\nAttention: Dr. Alex W. Spears"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.6130012150668287,
+        0.4467741935483871,
+        0.660996354799514
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Assessment for CIAR 1999 operating and\nliquidation costs - $1,039.749\n90% of assessment"
+    },
+    {
+      "bbox": [
+        0.6338709677419355,
+        0.6130012150668287,
+        0.7338709677419355,
+        0.660996354799514
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$935,774.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 926,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mzvp0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13064516129032258,
+          0.6130012150668287,
+          0.7338709677419355,
+          0.6986634264884569
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13064516129032258,
+            "right": 0.4467741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6338709677419355,
+            "right": 0.7338709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.660996354799514,
+            "row_type": "data",
+            "top": 0.6130012150668287
+          },
+          {
+            "bottom": 0.6761846901579587,
+            "row_type": "gap",
+            "top": 0.660996354799514
+          },
+          {
+            "bottom": 0.6986634264884569,
+            "row_type": "gap-with-text",
+            "top": 0.6761846901579587
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

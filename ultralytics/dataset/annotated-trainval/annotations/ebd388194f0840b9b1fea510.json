@@ -1,0 +1,404 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7290322580645161,
+        0.1446894128851788,
+        0.7753145397786396,
+        0.16228677391175458
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "063173"
+    },
+    {
+      "bbox": [
+        0.7274556175700816,
+        0.2502735790446336,
+        0.8504162330905307,
+        0.2698072805139186
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 31, 1999"
+    },
+    {
+      "bbox": [
+        0.04196859332135086,
+        0.058657870088585994,
+        0.1340049821839624,
+        0.0928749609735945
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "epsilon."
+    },
+    {
+      "bbox": [
+        0.13842272884936777,
+        0.0312841973805792,
+        0.29154104020715815,
+        0.06345715036856121
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "50 Cambridge Street\nBurlington, Massachusetts 01803-4610"
+    },
+    {
+      "bbox": [
+        0.0567145753457655,
+        0.7126486837959497,
+        0.1851426219965072,
+        0.753087063932778
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Post Office Box 4088\nBoston, MA 02211"
+    },
+    {
+      "bbox": [
+        0.2024850954493446,
+        0.07776611564774659,
+        0.25076279181805405,
+        0.09207508092693197
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "04-2473079"
+    },
+    {
+      "bbox": [
+        0.7302587470140715,
+        0.1735739701257704,
+        0.7602565389324929,
+        0.1891271932553197
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LORI"
+    },
+    {
+      "bbox": [
+        0.08530622076801092,
+        0.1642420362480408,
+        0.43309312082220924,
+        0.20576995472627324
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt. Planning/Info\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.08530622076801092,
+        0.1650809797509304,
+        0.4352944218835166,
+        0.2849350477333435
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt, Planning/Info\nLorillard Tobacco Company\n714 Green Valley Road\nPO Box 10529\nGreensboro NC\n27404-0529"
+    },
+    {
+      "bbox": [
+        0.8090029507999277,
+        0.7589972887220067,
+        0.8160336832808077,
+        0.7745505118515561
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8427504667081518,
+        0.6675443367202568,
+        0.8797789911074532,
+        0.684963946625352
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8066522613433814,
+        0.7265888344106618,
+        0.8810989980275526,
+        0.7451895086851043
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$13,000.00"
+    },
+    {
+      "bbox": [
+        0.8432191822068772,
+        0.6986507829793553,
+        0.8793102756087279,
+        0.7154482639592685
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.808065519802477,
+        0.7574419664090518,
+        0.8797789911074532,
+        0.775483705239329
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$13,000.00"
+    },
+    {
+      "bbox": [
+        0.809471666298653,
+        0.7577530308716428,
+        0.8788415601100025,
+        0.7739283829263741
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$13,000.00"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.6680942184154176,
+        0.8793102756087279,
+        0.684963946625352
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8432191822068772,
+        0.6998950408297193,
+        0.8783728446112772,
+        0.7154482639592685
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8075281053043718,
+        0.7264596990322539,
+        0.8802231540665624,
+        0.7485479997331543
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "$13,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.4079229122055675,
+        0.16048387096774194,
+        0.4271948608137045
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Monthly Update"
+    },
+    {
+      "bbox": [
+        0.575,
+        0.4079229122055675,
+        0.6112903225806452,
+        0.4271948608137045
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.6112903225806452,
+        0.4079229122055675,
+        0.6459677419354839,
+        0.4271948608137045
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "EACH"
+    },
+    {
+      "bbox": [
+        0.6701612903225806,
+        0.4079229122055675,
+        0.7596774193548387,
+        0.4271948608137045
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$13,000.0000"
+    },
+    {
+      "bbox": [
+        0.8048387096774193,
+        0.4079229122055675,
+        0.8790322580645161,
+        0.4271948608137045
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$13,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.03975971998864818,
+        0.35194722053151595,
+        0.1347412732948633,
+        0.3695445815580918
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "December 1999"
+    },
+    {
+      "bbox": [
+        0.526448144294138,
+        0.3495031426111582,
+        0.5934506353861193,
+        0.3710110283103064
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.6243748620439568,
+        0.35341366728373064,
+        0.6552990887017942,
+        0.3700333971421633
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT"
+    },
+    {
+      "bbox": [
+        0.7105209220193611,
+        0.35145840494744446,
+        0.7838803183576352,
+        0.3726593425424578
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT PRICE"
+    },
+    {
+      "bbox": [
+        0.8113928042127834,
+        0.35145840494744446,
+        0.8857582064137735,
+        0.3700333971421633
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 177,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mnkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2337,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04032258064516129,
+          0.3468950749464668,
+          0.907258064516129,
+          0.7933618843683083
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.054838709677419356,
+            "right": 0.16048387096774194
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.575,
+            "right": 0.6112903225806452
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.6112903225806452,
+            "right": 0.6459677419354839
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.6701612903225806,
+            "right": 0.7596774193548387
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8048387096774193,
+            "right": 0.8790322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3715203426124197,
+            "row_type": "header",
+            "top": 0.3468950749464668
+          },
+          {
+            "bottom": 0.4079229122055675,
+            "row_type": "gap",
+            "top": 0.3715203426124197
+          },
+          {
+            "bottom": 0.4271948608137045,
+            "row_type": "data",
+            "top": 0.4079229122055675
+          },
+          {
+            "bottom": 0.7933618843683083,
+            "row_type": "footer",
+            "top": 0.4271948608137045
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

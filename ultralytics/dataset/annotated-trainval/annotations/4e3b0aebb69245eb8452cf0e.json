@@ -1,0 +1,924 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.043276656602574286,
+        0.18895063538495405,
+        0.10628237724455744,
+        0.37272791569417923
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "SHERATON\nNEW YORK\nHOTEL &\nTOWERS"
+    },
+    {
+      "bbox": [
+        0.03500317813443509,
+        0.18716104868913858,
+        0.11201017003019227,
+        0.7215598579433251
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "SHERATON\nNEW YORK\nHOTEL & \nTOWERS\n\u25aa\n811\n7TH AVENUE,\nNEW YORK,\nNEW YORK\n10019"
+    },
+    {
+      "bbox": [
+        0.5123192436040044,
+        0.2872443818238024,
+        0.5511409502621961,
+        0.2975910919752601
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "131137"
+    },
+    {
+      "bbox": [
+        0.4906809153027173,
+        0.1512590484046438,
+        0.7477951692356586,
+        0.16406926097311522
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "THE PRIVATE ADJUDICATION CENTER"
+    },
+    {
+      "bbox": [
+        0.49004449388209126,
+        0.15047191011235955,
+        0.7487626086088086,
+        0.23206192768269454
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "THE PRIVATE ADJUDICATION CENTER\nM. Lashley Russ\n110 Swift Avenue\nSuite 2\nDurham, NC 27705"
+    },
+    {
+      "bbox": [
+        0.7853440330525981,
+        0.8664138000637333,
+        0.7961631972032417,
+        0.876760510215191
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.785483870967742,
+        0.8664138000637333,
+        0.847076910853329,
+        0.876760510215191
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$54,748.06"
+    },
+    {
+      "bbox": [
+        0.7859804544732242,
+        0.8656747493386291,
+        0.8464404894327029,
+        0.8770068604568924
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$54,748.06"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3688126634699215,
+        0.37069118147769836,
+        0.531759481255449,
+        0.38476449892180226
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Full day/Luncheon Pacakges"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.4388264669163546,
+        0.853225806451613,
+        0.45131086142322097
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$24,706.08"
+    },
+    {
+      "bbox": [
+        0.6576068003487358,
+        0.41966632618318017,
+        0.6692458587619877,
+        0.4331767109295199
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "3"
+    },
+    {
+      "bbox": [
+        0.7892736486486486,
+        0.4044671433435479,
+        0.8438317349607671,
+        0.4174145953921235
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$8,235.36"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.4731585518102372,
+        0.36532258064516127,
+        0.4837702871410737
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Room & Tax"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.4731585518102372,
+        0.853225806451613,
+        0.4837702871410737
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$2,207.26"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.49001248439450684,
+        0.36532258064516127,
+        0.5012484394506866
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Room Rental"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.49001248439450684,
+        0.853225806451613,
+        0.5012484394506866
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$1,054.00"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.5074906367041199,
+        0.36532258064516127,
+        0.517478152309613
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Room Rental"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.5074906367041199,
+        0.853225806451613,
+        0.517478152309613
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$1,054.00"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.5249687890137328,
+        0.36532258064516127,
+        0.5349563046192259
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Room Rental"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.5249687890137328,
+        0.853225806451613,
+        0.5349563046192259
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$1,054.00"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.5411985018726592,
+        0.36532258064516127,
+        0.5518102372034956
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Bufet Lunch"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.5411985018726592,
+        0.853225806451613,
+        0.5518102372034956
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$2,799.50"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.5586766541822722,
+        0.36532258064516127,
+        0.5692883895131086
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Bufet Lunch"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.5586766541822722,
+        0.853225806451613,
+        0.5692883895131086
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$2,799.50"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.5749063670411985,
+        0.36532258064516127,
+        0.5861423220973783
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Buffet Lunch"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.5749063670411985,
+        0.853225806451613,
+        0.5861423220973783
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "$2,799.50"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.5930087390761548,
+        0.36532258064516127,
+        0.6036204744069913
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Assorted Sandwich"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.5930087390761548,
+        0.853225806451613,
+        0.6036204744069913
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "$763.50"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.6098626716604245,
+        0.36532258064516127,
+        0.6204744069912609
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "Audio Visual"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.6098626716604245,
+        0.853225806451613,
+        0.6204744069912609
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "$9,136.30"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.6260923845193508,
+        0.36532258064516127,
+        0.6385767790262172
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "Telephone Chages"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.6260923845193508,
+        0.853225806451613,
+        0.6385767790262172
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "$5,593.94"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.6435705368289638,
+        0.36532258064516127,
+        0.6541822721598003
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "Room Service"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.6435705368289638,
+        0.853225806451613,
+        0.6541822721598003
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "$19.02"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.6610486891385767,
+        0.36532258064516127,
+        0.6716604244694132
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "Room Service"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.6610486891385767,
+        0.853225806451613,
+        0.6716604244694132
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "$259.20"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.6779026217228464,
+        0.36532258064516127,
+        0.6885143570536829
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 14,
+      "page": 0,
+      "text": "Room Service"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.6779026217228464,
+        0.853225806451613,
+        0.6885143570536829
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 14,
+      "page": 0,
+      "text": "$94.78"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.6960049937578028,
+        0.36532258064516127,
+        0.7066167290886392
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 15,
+      "page": 0,
+      "text": "Room Service"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.6960049937578028,
+        0.853225806451613,
+        0.7066167290886392
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 15,
+      "page": 0,
+      "text": "$70.10"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.7128589263420724,
+        0.36532258064516127,
+        0.7234706616729089
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 16,
+      "page": 0,
+      "text": "Room Service"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.7128589263420724,
+        0.853225806451613,
+        0.7234706616729089
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 16,
+      "page": 0,
+      "text": "$187.51"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.7297128589263421,
+        0.36532258064516127,
+        0.7409488139825219
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 17,
+      "page": 0,
+      "text": "Bellman Bx Transfer"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.7297128589263421,
+        0.853225806451613,
+        0.7409488139825219
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 17,
+      "page": 0,
+      "text": "$34.00"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.7471910112359551,
+        0.36532258064516127,
+        0.7578027465667915
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 18,
+      "page": 0,
+      "text": "Bellman Bx Trasfer"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.7471910112359551,
+        0.853225806451613,
+        0.7578027465667915
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 18,
+      "page": 0,
+      "text": "$30.00"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.764669163545568,
+        0.36532258064516127,
+        0.7746566791510612
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 19,
+      "page": 0,
+      "text": "Bellman Bx Transfer"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.764669163545568,
+        0.853225806451613,
+        0.7746566791510612
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 19,
+      "page": 0,
+      "text": "$45.00"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.7808988764044944,
+        0.36532258064516127,
+        0.7915106117353309
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 20,
+      "page": 0,
+      "text": "Business Center"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.7808988764044944,
+        0.853225806451613,
+        0.7915106117353309
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 20,
+      "page": 0,
+      "text": "$33.29"
+    },
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.797752808988764,
+        0.36532258064516127,
+        0.8089887640449438
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 21,
+      "page": 0,
+      "text": "Business Cener"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.797752808988764,
+        0.853225806451613,
+        0.8089887640449438
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 21,
+      "page": 0,
+      "text": "$7.58"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.24596774193548382,
+        0.45630461922596754,
+        0.36532258064516127,
+        0.4681647940074906
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Additional Charges"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 22,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "trxx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1707,
+        2206
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.24596774193548382,
+          0.3714107365792759,
+          0.853225806451613,
+          0.883270911360799
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.24596774193548382,
+            "right": 0.36532258064516127
+          },
+          {
+            "column_type": "",
+            "left": 0.442741935483871,
+            "right": 0.49112903225806454
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.782258064516129,
+            "right": 0.853225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4388264669163546,
+            "row_type": "down-merge",
+            "top": 0.3714107365792759
+          },
+          {
+            "bottom": 0.45131086142322097,
+            "row_type": "data",
+            "top": 0.4388264669163546
+          },
+          {
+            "bottom": 0.45630461922596754,
+            "row_type": "gap",
+            "top": 0.45131086142322097
+          },
+          {
+            "bottom": 0.4681647940074906,
+            "row_type": "header",
+            "top": 0.45630461922596754
+          },
+          {
+            "bottom": 0.4731585518102372,
+            "row_type": "gap",
+            "top": 0.4681647940074906
+          },
+          {
+            "bottom": 0.4837702871410737,
+            "row_type": "data",
+            "top": 0.4731585518102372
+          },
+          {
+            "bottom": 0.49001248439450684,
+            "row_type": "gap",
+            "top": 0.4837702871410737
+          },
+          {
+            "bottom": 0.5012484394506866,
+            "row_type": "data",
+            "top": 0.49001248439450684
+          },
+          {
+            "bottom": 0.5074906367041199,
+            "row_type": "gap",
+            "top": 0.5012484394506866
+          },
+          {
+            "bottom": 0.517478152309613,
+            "row_type": "data",
+            "top": 0.5074906367041199
+          },
+          {
+            "bottom": 0.5249687890137328,
+            "row_type": "gap",
+            "top": 0.517478152309613
+          },
+          {
+            "bottom": 0.5349563046192259,
+            "row_type": "data",
+            "top": 0.5249687890137328
+          },
+          {
+            "bottom": 0.5411985018726592,
+            "row_type": "gap",
+            "top": 0.5349563046192259
+          },
+          {
+            "bottom": 0.5518102372034956,
+            "row_type": "data",
+            "top": 0.5411985018726592
+          },
+          {
+            "bottom": 0.5586766541822722,
+            "row_type": "gap",
+            "top": 0.5518102372034956
+          },
+          {
+            "bottom": 0.5692883895131086,
+            "row_type": "data",
+            "top": 0.5586766541822722
+          },
+          {
+            "bottom": 0.5749063670411985,
+            "row_type": "gap",
+            "top": 0.5692883895131086
+          },
+          {
+            "bottom": 0.5861423220973783,
+            "row_type": "data",
+            "top": 0.5749063670411985
+          },
+          {
+            "bottom": 0.5930087390761548,
+            "row_type": "gap",
+            "top": 0.5861423220973783
+          },
+          {
+            "bottom": 0.6036204744069913,
+            "row_type": "data",
+            "top": 0.5930087390761548
+          },
+          {
+            "bottom": 0.6098626716604245,
+            "row_type": "gap",
+            "top": 0.6036204744069913
+          },
+          {
+            "bottom": 0.6204744069912609,
+            "row_type": "data",
+            "top": 0.6098626716604245
+          },
+          {
+            "bottom": 0.6260923845193508,
+            "row_type": "gap",
+            "top": 0.6204744069912609
+          },
+          {
+            "bottom": 0.6385767790262172,
+            "row_type": "data",
+            "top": 0.6260923845193508
+          },
+          {
+            "bottom": 0.6435705368289638,
+            "row_type": "gap",
+            "top": 0.6385767790262172
+          },
+          {
+            "bottom": 0.6541822721598003,
+            "row_type": "data",
+            "top": 0.6435705368289638
+          },
+          {
+            "bottom": 0.6610486891385767,
+            "row_type": "gap",
+            "top": 0.6541822721598003
+          },
+          {
+            "bottom": 0.6716604244694132,
+            "row_type": "data",
+            "top": 0.6610486891385767
+          },
+          {
+            "bottom": 0.6779026217228464,
+            "row_type": "gap",
+            "top": 0.6716604244694132
+          },
+          {
+            "bottom": 0.6885143570536829,
+            "row_type": "data",
+            "top": 0.6779026217228464
+          },
+          {
+            "bottom": 0.6960049937578028,
+            "row_type": "gap",
+            "top": 0.6885143570536829
+          },
+          {
+            "bottom": 0.7066167290886392,
+            "row_type": "data",
+            "top": 0.6960049937578028
+          },
+          {
+            "bottom": 0.7128589263420724,
+            "row_type": "gap",
+            "top": 0.7066167290886392
+          },
+          {
+            "bottom": 0.7234706616729089,
+            "row_type": "data",
+            "top": 0.7128589263420724
+          },
+          {
+            "bottom": 0.7297128589263421,
+            "row_type": "gap",
+            "top": 0.7234706616729089
+          },
+          {
+            "bottom": 0.7409488139825219,
+            "row_type": "data",
+            "top": 0.7297128589263421
+          },
+          {
+            "bottom": 0.7471910112359551,
+            "row_type": "gap",
+            "top": 0.7409488139825219
+          },
+          {
+            "bottom": 0.7578027465667915,
+            "row_type": "data",
+            "top": 0.7471910112359551
+          },
+          {
+            "bottom": 0.764669163545568,
+            "row_type": "gap",
+            "top": 0.7578027465667915
+          },
+          {
+            "bottom": 0.7746566791510612,
+            "row_type": "data",
+            "top": 0.764669163545568
+          },
+          {
+            "bottom": 0.7808988764044944,
+            "row_type": "gap",
+            "top": 0.7746566791510612
+          },
+          {
+            "bottom": 0.7915106117353309,
+            "row_type": "data",
+            "top": 0.7808988764044944
+          },
+          {
+            "bottom": 0.797752808988764,
+            "row_type": "gap",
+            "top": 0.7915106117353309
+          },
+          {
+            "bottom": 0.8089887640449438,
+            "row_type": "data",
+            "top": 0.797752808988764
+          },
+          {
+            "bottom": 0.8308364544319601,
+            "row_type": "gap",
+            "top": 0.8089887640449438
+          },
+          {
+            "bottom": 0.8420724094881398,
+            "row_type": "gap-with-text",
+            "top": 0.8308364544319601
+          },
+          {
+            "bottom": 0.8651685393258427,
+            "row_type": "gap",
+            "top": 0.8420724094881398
+          },
+          {
+            "bottom": 0.883270911360799,
+            "row_type": "footer",
+            "top": 0.8651685393258427
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

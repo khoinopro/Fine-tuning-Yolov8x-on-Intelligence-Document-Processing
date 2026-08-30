@@ -1,0 +1,176 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.17439304167414765,
+        0.15600498753117206,
+        0.23439064775470306,
+        0.1659002493765586
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/27/2000"
+    },
+    {
+      "bbox": [
+        0.13999441418796257,
+        0.18198004987531172,
+        0.26878927524088814,
+        0.1937306733167082
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Labstat International Inc."
+    },
+    {
+      "bbox": [
+        0.12559498872862926,
+        0.20919201995012468,
+        0.41758333832066546,
+        0.22032418952618452
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "262 Manitou Drive, Kitchener, Ontario N2C 1L3 CANADA"
+    },
+    {
+      "bbox": [
+        0.5407784228060726,
+        0.1287930174563591,
+        0.6135755181838131,
+        0.13992518703241896
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R5-472"
+    },
+    {
+      "bbox": [
+        0.12479502064755521,
+        0.08488279301745635,
+        0.2943882538352584,
+        0.09663341645885287
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.1417826787778846,
+        0.23422179843177485,
+        0.17766595609247712,
+        0.24776063086033567
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "RD&E"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2725806451612903,
+        0.4071072319201995,
+        0.5814516129032258,
+        0.49501246882793015
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "To conduct chemical testing for a smoke\nchemistry study in accordance with the Service\nAgreement between Philip Morris USA & Labstat\nwith a total not-to-exceed of $2,880,636."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3863845831587767,
+        0.37957605985037407,
+        0.4703812316715542,
+        0.3894713216957606
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1096,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "tlfm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12983870967741937,
+          0.3734413965087282,
+          0.8774193548387097,
+          0.7556109725685786
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2725806451612903,
+            "right": 0.5814516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.5943548387096774,
+            "right": 0.6580645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3958852867830424,
+            "row_type": "header",
+            "top": 0.3734413965087282
+          },
+          {
+            "bottom": 0.4071072319201995,
+            "row_type": "gap",
+            "top": 0.3958852867830424
+          },
+          {
+            "bottom": 0.49501246882793015,
+            "row_type": "data",
+            "top": 0.4071072319201995
+          },
+          {
+            "bottom": 0.5336658354114713,
+            "row_type": "gap",
+            "top": 0.49501246882793015
+          },
+          {
+            "bottom": 0.5991271820448878,
+            "row_type": "gap-with-text",
+            "top": 0.5336658354114713
+          },
+          {
+            "bottom": 0.733790523690773,
+            "row_type": "gap",
+            "top": 0.5991271820448878
+          },
+          {
+            "bottom": 0.7556109725685786,
+            "row_type": "gap-with-text",
+            "top": 0.733790523690773
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

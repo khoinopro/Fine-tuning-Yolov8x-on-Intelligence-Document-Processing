@@ -1,0 +1,406 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5398461999400779,
+        0.047659074890835366,
+        0.6079276939978028,
+        0.06065700440651774
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7560103"
+    },
+    {
+      "bbox": [
+        0.925,
+        0.047659074890835366,
+        0.9859802257065814,
+        0.058800157332848824
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "7/19/2020"
+    },
+    {
+      "bbox": [
+        0.7653225806451613,
+        0.9278045878098988,
+        0.8266129032258065,
+        0.9395646192764686
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "7/19/2020"
+    },
+    {
+      "bbox": [
+        0.5911075601717767,
+        0.13466334164588528,
+        0.6443548387096775,
+        0.1435961736970624
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "4401637"
+    },
+    {
+      "bbox": [
+        0.0768920403475482,
+        0.014235827564794978,
+        0.26511734744831716,
+        0.027852706105033653
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Sinclair Broadcast Group Inc"
+    },
+    {
+      "bbox": [
+        0.07609108159392788,
+        0.01237898049112607,
+        0.26511734744831716,
+        0.07117913782397489
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Sinclair Broadcast Group Inc\nC/O WHP\nPO BOX 206270\nDALLAS TX 75320-6270"
+    },
+    {
+      "bbox": [
+        0.5038030560271646,
+        0.22901113908583226,
+        0.6407670028962349,
+        0.24262801762607095
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Sinclair Broadcast Group"
+    },
+    {
+      "bbox": [
+        0.5022011385199241,
+        0.22839219006127595,
+        0.6407670028962349,
+        0.28100285714856177
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Sinclair Broadcast Group\nc/o WHP\nPO Box 206270\nDallas TX 75320-6270"
+    },
+    {
+      "bbox": [
+        0.2811365225207231,
+        0.17206982543640897,
+        0.3131748726655348,
+        0.18135206419499691
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "000216"
+    },
+    {
+      "bbox": [
+        0.09211025666633377,
+        0.17887626809677168,
+        0.18982722460800958,
+        0.19373104468612296
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "AMPLIFY MEDIA"
+    },
+    {
+      "bbox": [
+        0.09130929791271347,
+        0.18135206419499691,
+        0.2122540697093778,
+        0.2197269037174877
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "AMPLIFY MEDIA\nPO BOX 6\nFRANKLIN, IL 60131"
+    },
+    {
+      "bbox": [
+        0.8353999800259662,
+        0.9073792699995408,
+        0.848215320083891,
+        0.9222340465888921
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8706421651852592,
+        0.8943813404838584,
+        0.9064516129032258,
+        0.9067603209749845
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8442105263157894,
+        0.8708612775507188,
+        0.9042824328373115,
+        0.883240258041845
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,000.00"
+    },
+    {
+      "bbox": [
+        0.8346774193548387,
+        0.9079982190240972,
+        0.9056451612903226,
+        0.9222340465888921
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,700.00"
+    },
+    {
+      "bbox": [
+        0.8693548387096774,
+        0.8940149625935162,
+        0.9050833915909317,
+        0.9058662751000364
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8346774193548387,
+        0.908961020222818,
+        0.907258064516129,
+        0.921340000713944
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$1,700.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.4137096774193548,
+        0.3185785536159601,
+        0.45806451612903226,
+        0.33104738154613467
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "07/13/20"
+    },
+    {
+      "bbox": [
+        0.6774193548387096,
+        0.3185785536159601,
+        0.757258064516129,
+        0.33104738154613467
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "ABPPAT2012H"
+    },
+    {
+      "bbox": [
+        0.8540322580645161,
+        0.3185785536159601,
+        0.9040322580645161,
+        0.33104738154613467
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$2000.00"
+    },
+    {
+      "bbox": [
+        0.05927094776790172,
+        0.3072050388177203,
+        0.07849395785478877,
+        0.3171082232106212
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5.0"
+    },
+    {
+      "bbox": [
+        0.10732847298511933,
+        0.3059671407686077,
+        0.3452132228103465,
+        0.3171082232106212
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Contract Line Remarks: WHEEL OF FORTUNE"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.43251772695495855,
+        0.29358816027748164,
+        0.48458004594027765,
+        0.3047292427194951
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Air Date"
+    },
+    {
+      "bbox": [
+        0.7096494557075801,
+        0.29296921125292535,
+        0.7512993108958353,
+        0.3047292427194951
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AD-ID"
+    },
+    {
+      "bbox": [
+        0.8410066913013083,
+        0.29296921125292535,
+        0.8906661340257664,
+        0.3041102936949388
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    },
+    {
+      "bbox": [
+        0.0624747827823829,
+        0.292350262228369,
+        0.09531409168081494,
+        0.3047292427194951
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 9,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "9a3a22c1-795b-4b83-b146-3288690434ce",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.054838709677419356,
+          0.29114713216957605,
+          0.9830645161290322,
+          0.9470074812967582
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.1064516129032258,
+            "right": 0.14596774193548387
+          },
+          {
+            "column_type": "",
+            "left": 0.14596774193548387,
+            "right": 0.24596774193548387
+          },
+          {
+            "column_type": "",
+            "left": 0.25806451612903225,
+            "right": 0.3088709677419355
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.4137096774193548,
+            "right": 0.45806451612903226
+          },
+          {
+            "column_type": "",
+            "left": 0.45806451612903226,
+            "right": 0.532258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.5508064516129032,
+            "right": 0.5806451612903226
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.6774193548387096,
+            "right": 0.757258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8540322580645161,
+            "right": 0.9040322580645161
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3054862842892768,
+            "row_type": "header",
+            "top": 0.29114713216957605
+          },
+          {
+            "bottom": 0.3185785536159601,
+            "row_type": "down-merge",
+            "top": 0.3054862842892768
+          },
+          {
+            "bottom": 0.33104738154613467,
+            "row_type": "data",
+            "top": 0.3185785536159601
+          },
+          {
+            "bottom": 0.34538653366583544,
+            "row_type": "gap-with-text",
+            "top": 0.33104738154613467
+          },
+          {
+            "bottom": 0.8703241895261845,
+            "row_type": "gap",
+            "top": 0.34538653366583544
+          },
+          {
+            "bottom": 0.9470074812967582,
+            "row_type": "footer",
+            "top": 0.8703241895261845
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

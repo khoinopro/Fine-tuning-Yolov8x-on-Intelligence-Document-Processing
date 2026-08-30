@@ -1,0 +1,244 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.834676725931268,
+        0.11351657253187451,
+        0.9139600033284331,
+        0.12727615708119264
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59275-12"
+    },
+    {
+      "bbox": [
+        0.8080645161290323,
+        0.12846347607052896,
+        0.9483870967741935,
+        0.14357682619647355
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 04, 2003"
+    },
+    {
+      "bbox": [
+        0.4346774193548387,
+        0.22292191435768263,
+        0.4717741935483871,
+        0.2380352644836272
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "3281"
+    },
+    {
+      "bbox": [
+        0.14535267522813636,
+        0.761936994418491,
+        0.38430366405014843,
+        0.7765565530021415
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Regents of The University of California"
+    },
+    {
+      "bbox": [
+        0.14755498848916873,
+        0.7626969714720871,
+        0.3824148745519713,
+        0.8152553845470988
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Regents of The University of California\nCashier's Office\nOne Shieids Avenue\nDavis, California 85616"
+    },
+    {
+      "bbox": [
+        0.2984110574463847,
+        0.21232350796859298,
+        0.37643400584748093,
+        0.22334029375941622
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "94-6036494"
+    },
+    {
+      "bbox": [
+        0.14516129032258066,
+        0.1143765465662069,
+        0.3237400493717582,
+        0.12813613111552502
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA INC."
+    },
+    {
+      "bbox": [
+        0.14535267522813636,
+        0.11483182693732406,
+        0.3237400493717582,
+        0.16769493669481464
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA INC.\n4201 COMMERCE ROAD\nRICHMOND, VA 25234\nATTN: BRUCE D. DAVIES"
+    },
+    {
+      "bbox": [
+        0.8754195212603667,
+        0.6484204218866165,
+        0.888633400826561,
+        0.6647599285389318
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.875,
+        0.6501403699552813,
+        0.9624108950711453,
+        0.6647599285389318
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$66,323.03"
+    },
+    {
+      "bbox": [
+        0.8324744126702355,
+        0.15307537811116412,
+        0.9145161290322581,
+        0.17002518891687657
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$66,323.03"
+    },
+    {
+      "bbox": [
+        0.8774193548387097,
+        0.6475604478522842,
+        0.967741935483871,
+        0.6656199025732642
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$66,323.03"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15,
+        0.43828715365239296,
+        0.3629032258064516,
+        0.4552896725440806
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Amount due per agreement"
+    },
+    {
+      "bbox": [
+        0.6870967741935484,
+        0.43828715365239296,
+        0.7725806451612903,
+        0.4552896725440806
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$66,323.03"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.22463595262530162,
+        0.2889512755356806,
+        0.3798990375280836,
+        0.30443080815366347
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Services"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 844,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ygxx0179",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1742,
+        2232
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15,
+          0.29219143576826195,
+          0.975,
+          0.6693954659949622
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15,
+            "right": 0.3629032258064516
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.6870967741935484,
+            "right": 0.7725806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3022670025188917,
+            "row_type": "header",
+            "top": 0.29219143576826195
+          },
+          {
+            "bottom": 0.43828715365239296,
+            "row_type": "gap",
+            "top": 0.3022670025188917
+          },
+          {
+            "bottom": 0.4552896725440806,
+            "row_type": "data",
+            "top": 0.43828715365239296
+          },
+          {
+            "bottom": 0.6473551637279596,
+            "row_type": "gap-with-text",
+            "top": 0.4552896725440806
+          },
+          {
+            "bottom": 0.6693954659949622,
+            "row_type": "footer",
+            "top": 0.6473551637279596
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

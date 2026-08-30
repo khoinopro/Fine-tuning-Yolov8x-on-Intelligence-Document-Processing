@@ -1,0 +1,254 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6321014436359391,
+        0.28523768996960486,
+        0.7297171096151601,
+        0.30031367781155016
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "LLD GS 07"
+    },
+    {
+      "bbox": [
+        0.5544889878983618,
+        0.21890334346504559,
+        0.6897106891318727,
+        0.2351854103343465
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 9, 1999"
+    },
+    {
+      "bbox": [
+        0.2456394217673839,
+        0.13266869300911854,
+        0.4944793571734309,
+        0.15799635258358663
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Rothstein-Tauber, Incorporated\nMarket Research Services"
+    },
+    {
+      "bbox": [
+        0.2448392933577182,
+        0.13217139060792707,
+        0.5455455236091631,
+        0.17367537993920973
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Rothstein-fauber, Incorporated\nMarket Research Services\n1351 Washington Blvd.\u2022Stamford, CT 06902"
+    },
+    {
+      "bbox": [
+        0.30484892408264913,
+        0.1839270516717325,
+        0.44887203782248336,
+        0.19719392097264438
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "RTi@ix.netcom.com"
+    },
+    {
+      "bbox": [
+        0.0840134830149033,
+        0.3690601823708207,
+        0.32085149227596405,
+        0.38662613981762917
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.08161309778590606,
+        0.37016036948574815,
+        0.3476751207729469,
+        0.470370820668693
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Company\nPO Box 10529\nGreensboro, NC 27404-0529\nAttention:Mr. Scott Benson"
+    },
+    {
+      "bbox": [
+        0.41686690143585353,
+        0.7436984802431611,
+        0.4296689559905055,
+        0.7605835866261399
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.41686690143585353,
+        0.7455075987841945,
+        0.5168829526440717,
+        0.7605835866261399
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$18,262.50"
+    },
+    {
+      "bbox": [
+        0.41686690143585353,
+        0.7443015197568389,
+        0.516082824234406,
+        0.7605835866261399
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$18,262.50"
+    },
+    {
+      "bbox": [
+        0.12642028872718783,
+        0.8454613981762917,
+        0.19683158877777346,
+        0.8644376899696049
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.4161290322580645,
+        0.6893617021276596,
+        0.5145161290322581,
+        0.7252279635258359
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$18,000.00"
+    },
+    {
+      "bbox": [
+        0.5298387096774193,
+        0.6893617021276596,
+        0.8887096774193548,
+        0.7252279635258359
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "(1/12th of 1999 approved budget for panel\nmaintenance & replenishment)"
+    },
+    {
+      "bbox": [
+        0.4161290322580645,
+        0.7252279635258359,
+        0.5145161290322581,
+        0.7422492401215806
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "262.50"
+    },
+    {
+      "bbox": [
+        0.5298387096774193,
+        0.7252279635258359,
+        0.8887096774193548,
+        0.7422492401215806
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(1/2 of monthly COSI lease for July)"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 665,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zmkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.5082066869300912,
+          0.907258064516129,
+          0.7677811550151976
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4161290322580645,
+            "right": 0.5145161290322581
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.5298387096774193,
+            "right": 0.8887096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5598784194528875,
+            "row_type": "gap-with-text",
+            "top": 0.5082066869300912
+          },
+          {
+            "bottom": 0.5732522796352584,
+            "row_type": "gap",
+            "top": 0.5598784194528875
+          },
+          {
+            "bottom": 0.5914893617021276,
+            "row_type": "subsection-header",
+            "top": 0.5732522796352584
+          },
+          {
+            "bottom": 0.6893617021276596,
+            "row_type": "gap",
+            "top": 0.5914893617021276
+          },
+          {
+            "bottom": 0.7252279635258359,
+            "row_type": "data",
+            "top": 0.6893617021276596
+          },
+          {
+            "bottom": 0.7422492401215806,
+            "row_type": "data",
+            "top": 0.7252279635258359
+          },
+          {
+            "bottom": 0.7677811550151976,
+            "row_type": "footer",
+            "top": 0.7422492401215806
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

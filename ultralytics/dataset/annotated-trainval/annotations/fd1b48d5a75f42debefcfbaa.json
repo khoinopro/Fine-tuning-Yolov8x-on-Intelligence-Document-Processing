@@ -1,0 +1,210 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5066584335198191,
+        0.12640210124519613,
+        0.5207322788953695,
+        0.13793513967997678
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.4320058623973337,
+        0.14162571197910662,
+        0.5115536840852279,
+        0.1531587504138873
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/12/2001"
+    },
+    {
+      "bbox": [
+        0.5635657213426973,
+        0.18821918725562053,
+        0.6370967741935484,
+        0.2006079027355623
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "01041245"
+    },
+    {
+      "bbox": [
+        0.27229831270086896,
+        0.31046939466429563,
+        0.6700374211403405,
+        0.3224637546364675
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA"
+    },
+    {
+      "bbox": [
+        0.2748960758230795,
+        0.31090357964066384,
+        0.6680931992018623,
+        0.3686501814976362
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA\nRemittance Center\n10920 Wilshire Blvd., Suite 107\nLOS ANGELES, CALIFORNIA 90024-6503"
+    },
+    {
+      "bbox": [
+        0.26985068741816454,
+        0.09687752285215762,
+        0.6712612337816927,
+        0.12503568989009323
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA\nUNIVERSITY OF CALIFORNIA, LOS ANGELES"
+    },
+    {
+      "bbox": [
+        0.10218835555291036,
+        0.17253425498431882,
+        0.24231490298773958,
+        0.20298147645213976
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce B. Davies\nPhillip Morris USA"
+    },
+    {
+      "bbox": [
+        0.10188934153641503,
+        0.17169302159260538,
+        0.2625872963086132,
+        0.23098640742788953
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce B. Davies\nPhillip Morris USA\n4201 Commerce Road\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.7544804933936435,
+        0.6772200168903209,
+        0.7642709945244613,
+        0.689675698399884
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7544804933936435,
+        0.6444661877355438,
+        0.8334164087608619,
+        0.6587671553946717
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$41,404.68"
+    },
+    {
+      "bbox": [
+        0.7532258064516129,
+        0.6767586953529295,
+        0.8358640340435662,
+        0.691520984549449
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$41,404.68"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12096774193548387,
+        0.49544072948328266,
+        0.34516129032258064,
+        0.5106382978723404
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Second Quarterly Payment Due"
+    },
+    {
+      "bbox": [
+        0.760483870967742,
+        0.49544072948328266,
+        0.8338709677419355,
+        0.5106382978723404
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "41,404.68"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 694,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pypk0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10161290322580645,
+          0.49544072948328266,
+          0.8451612903225807,
+          0.6620060790273556
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12096774193548387,
+            "right": 0.34516129032258064
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.760483870967742,
+            "right": 0.8338709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5106382978723404,
+            "row_type": "data",
+            "top": 0.49544072948328266
+          },
+          {
+            "bottom": 0.6443768996960486,
+            "row_type": "gap",
+            "top": 0.5106382978723404
+          },
+          {
+            "bottom": 0.6620060790273556,
+            "row_type": "footer",
+            "top": 0.6443768996960486
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

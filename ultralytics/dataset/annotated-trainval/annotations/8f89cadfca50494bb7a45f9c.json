@@ -1,0 +1,325 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.19614097386986784,
+        0.26985578569924606,
+        0.25945665666294804,
+        0.2839818105824196
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0226898"
+    },
+    {
+      "bbox": [
+        0.6217741935483871,
+        0.1699994029043987,
+        0.6971607246672846,
+        0.18493150684931506
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/13/2000"
+    },
+    {
+      "bbox": [
+        0.07776817560454409,
+        0.053581473694796156,
+        0.2580802287761419,
+        0.0847561492990412
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "640 N. LaSalle Suite 350\nChicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.7317553008774943,
+        0.7329360543197846,
+        0.768685007650751,
+        0.7445545915084734
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KBA"
+    },
+    {
+      "bbox": [
+        0.6298566655216562,
+        0.2575442410159349,
+        0.7591106392280549,
+        0.26964688392081904
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Camel Club Page"
+    },
+    {
+      "bbox": [
+        0.6985371525540908,
+        0.6273903465354314,
+        0.7749289002718288,
+        0.6454132058691355
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "7,718.00"
+    },
+    {
+      "bbox": [
+        0.6999135804408968,
+        0.6273903465354314,
+        0.7735524723850227,
+        0.6423321768524854
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "7,718.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.01935483870967742,
+        0.3230593607305936,
+        0.09435483870967742,
+        0.3373287671232877
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "LA Weekly"
+    },
+    {
+      "bbox": [
+        0.20403225806451614,
+        0.3230593607305936,
+        0.27580645161290324,
+        0.3373287671232877
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3/24/2000"
+    },
+    {
+      "bbox": [
+        0.30806451612903224,
+        0.3230593607305936,
+        0.32016129032258067,
+        0.3373287671232877
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.32016129032258067,
+        0.3230593607305936,
+        0.4064516129032258,
+        0.3373287671232877
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Page Spread"
+    },
+    {
+      "bbox": [
+        0.7104838709677419,
+        0.3230593607305936,
+        0.7669354838709678,
+        0.3373287671232877
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7,718.00"
+    },
+    {
+      "bbox": [
+        0.8193548387096774,
+        0.3230593607305936,
+        0.9459677419354838,
+        0.3373287671232877
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "CCPO0LAMEDCL"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.01935483870967742,
+        0.30000958784261555,
+        0.126933685094136,
+        0.31672838840350437
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Publication"
+    },
+    {
+      "bbox": [
+        0.20403225806451614,
+        0.30000958784261555,
+        0.2556181796378463,
+        0.31548995873232744
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Issue"
+    },
+    {
+      "bbox": [
+        0.3098932725746492,
+        0.30000958784261555,
+        0.38342726945676936,
+        0.3179668180746813
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Ad Size"
+    },
+    {
+      "bbox": [
+        0.7178318743254586,
+        0.30124801751379254,
+        0.7669354838709678,
+        0.31548995873232744
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    },
+    {
+      "bbox": [
+        0.8193548387096774,
+        0.30124801751379254,
+        0.9459677419354838,
+        0.3161091735679159
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Internal Use Only"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 161,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "gypf0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1657,
+        2342
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.01935483870967742,
+          0.2996575342465753,
+          0.9459677419354838,
+          0.6455479452054794
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.01935483870967742,
+            "right": 0.09435483870967742
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.20403225806451614,
+            "right": 0.27580645161290324
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.30806451612903224,
+            "right": 0.32016129032258067
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.32016129032258067,
+            "right": 0.4064516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.4483870967741935,
+            "right": 0.6233870967741936
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7104838709677419,
+            "right": 0.7669354838709678
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.8193548387096774,
+            "right": 0.9459677419354838
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3184931506849315,
+            "row_type": "header",
+            "top": 0.2996575342465753
+          },
+          {
+            "bottom": 0.3230593607305936,
+            "row_type": "gap",
+            "top": 0.3184931506849315
+          },
+          {
+            "bottom": 0.3373287671232877,
+            "row_type": "data",
+            "top": 0.3230593607305936
+          },
+          {
+            "bottom": 0.5399543378995434,
+            "row_type": "gap",
+            "top": 0.3373287671232877
+          },
+          {
+            "bottom": 0.559931506849315,
+            "row_type": "gap-with-text",
+            "top": 0.5399543378995434
+          },
+          {
+            "bottom": 0.5730593607305936,
+            "row_type": "gap",
+            "top": 0.559931506849315
+          },
+          {
+            "bottom": 0.6204337899543378,
+            "row_type": "gap-with-text",
+            "top": 0.5730593607305936
+          },
+          {
+            "bottom": 0.6455479452054794,
+            "row_type": "footer",
+            "top": 0.6204337899543378
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

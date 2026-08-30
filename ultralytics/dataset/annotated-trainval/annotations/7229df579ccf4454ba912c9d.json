@@ -1,0 +1,1179 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.1155927242501415,
+        0.2593254496368683,
+        0.21340195246179963,
+        0.27248361198630777
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2003 BILLING"
+    },
+    {
+      "bbox": [
+        0.0595063136672326,
+        0.13651593437543386,
+        0.16005146434634976,
+        0.15406015084135305
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "April 24, 2003"
+    },
+    {
+      "bbox": [
+        0.8105554966044143,
+        0.8576504367926273,
+        0.8939626662422184,
+        0.8700834853566808
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "bozell newyork"
+    },
+    {
+      "bbox": [
+        0.8182525997453309,
+        0.8737532685388161,
+        0.9028544142614602,
+        0.8865568878293189
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "bozell newyork"
+    },
+    {
+      "bbox": [
+        0.7879456706281834,
+        0.8739469822444395,
+        0.9021704336445953,
+        0.9293209154649971
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "bozell newyork\n40 west 23rd street\nnew york ny 10010"
+    },
+    {
+      "bbox": [
+        0.7776859613752122,
+        0.8569253230072414,
+        0.8939626662422184,
+        0.9117509994632389
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "bozell newyork\n40 west 23rd street\nnew york ny 10010"
+    },
+    {
+      "bbox": [
+        0.06043302560837575,
+        0.17174939006434942,
+        0.2476009833050368,
+        0.20504802994543078
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Jordan Bressler\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.06087427490096209,
+        0.17105611054271228,
+        0.29479564586870405,
+        0.2401364628772692
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Jordan Bressler\nLorillard Tobacco Company\n714 Green Valley Road, Box 10529\nGreensboro, NC 27404"
+    },
+    {
+      "bbox": [
+        0.6819286750141483,
+        0.24893427064606752,
+        0.6983442098189021,
+        0.26373720328918693
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6822165039615163,
+        0.24931887939854463,
+        0.7906815930956423,
+        0.26483371681830686
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$ 861,406,30"
+    },
+    {
+      "bbox": [
+        0.6814100523486133,
+        0.24931887939854466,
+        0.7927335349462366,
+        0.26483371681830686
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$ 861,406.30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.4117647058823529,
+        0.2153225806451613,
+        0.4298642533936652
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "FE04-024622"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.4117647058823529,
+        0.2991935483870968,
+        0.4298642533936652
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "n/a"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.4117647058823529,
+        0.5935483870967742,
+        0.4298642533936652
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Agency Fee"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.4117647058823529,
+        0.7846774193548387,
+        0.4298642533936652
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 91,416.67"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.48157724628312865,
+        0.2153225806451613,
+        0.4970911441499677
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "PR04-024788"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.48157724628312865,
+        0.2991935483870968,
+        0.4970911441499677
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "B6580"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.48157724628312865,
+        0.5935483870967742,
+        0.4970911441499677
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2003 Competitive"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.48157724628312865,
+        0.7846774193548387,
+        0.4970911441499677
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$ 2,000.46"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.4970911441499677,
+        0.2153225806451613,
+        0.5164835164835165
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Pr04-024789"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.4970911441499677,
+        0.2991935483870968,
+        0.5164835164835165
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "B6601"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.4970911441499677,
+        0.5935483870967742,
+        0.5164835164835165
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Miscellaneous Audio Visual 03"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.4970911441499677,
+        0.7846774193548387,
+        0.5164835164835165
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$ 407.84"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.5164835164835165,
+        0.2153225806451613,
+        0.5319974143503555
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "PR04-024787"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.5164835164835165,
+        0.2991935483870968,
+        0.5319974143503555
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "B6576"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.5164835164835165,
+        0.5935483870967742,
+        0.5319974143503555
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Dubs & Shipping 2003"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.5164835164835165,
+        0.7846774193548387,
+        0.5319974143503555
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$ 3,469.59"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.5319974143503555,
+        0.2153225806451613,
+        0.5513897866839044
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "PR04-024790"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.5319974143503555,
+        0.2991935483870968,
+        0.5513897866839044
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "L6387"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.5319974143503555,
+        0.5935483870967742,
+        0.5513897866839044
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "2003 Talent & Residuals"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.5319974143503555,
+        0.7846774193548387,
+        0.5513897866839044
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$ 66,046.47"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.5513897866839044,
+        0.2153225806451613,
+        0.5669036845507434
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "PR04-024791"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.5513897866839044,
+        0.2991935483870968,
+        0.5669036845507434
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "P7571"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.5513897866839044,
+        0.5935483870967742,
+        0.5669036845507434
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "General Miscellaneous 2003"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.5513897866839044,
+        0.7846774193548387,
+        0.5669036845507434
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$ 2,880.00"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.5669036845507434,
+        0.2153225806451613,
+        0.5824175824175825
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "PR04-024792"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.5669036845507434,
+        0.2991935483870968,
+        0.5824175824175825
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "T6553"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.5669036845507434,
+        0.5935483870967742,
+        0.5824175824175825
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Screenvision Film Transfer"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.5669036845507434,
+        0.7846774193548387,
+        0.5824175824175825
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$ 18,050.86"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.6360698125404007,
+        0.2153225806451613,
+        0.6522301228183581
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "N-34-0236"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.6360698125404007,
+        0.2991935483870968,
+        0.6522301228183581
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "n/a"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.6360698125404007,
+        0.5935483870967742,
+        0.6522301228183581
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Media - Cable"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.6360698125404007,
+        0.7846774193548387,
+        0.6522301228183581
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "$ 136,598.40"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.6522301228183581,
+        0.5935483870967742,
+        0.6677440206851971
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Media - Fee"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.6522301228183581,
+        0.7846774193548387,
+        0.6677440206851971
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "$ 2,253.87"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.6677440206851971,
+        0.2153225806451613,
+        0.6858435681965094
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "N-34-0237"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.6677440206851971,
+        0.2991935483870968,
+        0.6858435681965094
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "n/a"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.6677440206851971,
+        0.5935483870967742,
+        0.6858435681965094
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "Media- NetworkTV"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.6677440206851971,
+        0.7846774193548387,
+        0.6858435681965094
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "$ 155,779.50"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.6858435681965094,
+        0.5935483870967742,
+        0.7032967032967034
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "Media- Fee"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.6858435681965094,
+        0.7846774193548387,
+        0.7032967032967034
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "$ 2,570.36"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.7032967032967034,
+        0.2153225806451613,
+        0.7201034259857789
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "N-34-0240"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.7032967032967034,
+        0.2991935483870968,
+        0.7201034259857789
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "n/a"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.7032967032967034,
+        0.5935483870967742,
+        0.7201034259857789
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "Media - Network TV (Winter X-Games)"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.7032967032967034,
+        0.7846774193548387,
+        0.7201034259857789
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "$ 940.00"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.7201034259857789,
+        0.5935483870967742,
+        0.7362637362637363
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "Media- Fee"
+    },
+    {
+      "bbox": [
+        0.6693548387096774,
+        0.7201034259857789,
+        0.7846774193548387,
+        0.7362637362637363
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "$ 15.51"
+    },
+    {
+      "bbox": [
+        0.12419354838709669,
+        0.07627666451195862,
+        0.23306451612903226,
+        0.09308338720103426
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "IA04-024600"
+    },
+    {
+      "bbox": [
+        0.25967741935483873,
+        0.07627666451195862,
+        0.35322580645161283,
+        0.09308338720103426
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "n/a"
+    },
+    {
+      "bbox": [
+        0.35322580645161283,
+        0.07627666451195862,
+        0.6314516129032258,
+        0.09308338720103426
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "Media - Online Support lign & seventeen)"
+    },
+    {
+      "bbox": [
+        0.6798387096774193,
+        0.07627666451195862,
+        0.8080645161290322,
+        0.09308338720103426
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "$ 30,912.50"
+    },
+    {
+      "bbox": [
+        0.12419354838709669,
+        0.09308338720103426,
+        0.23306451612903226,
+        0.11118293471234647
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 15,
+      "page": 1,
+      "text": "MG04-024602"
+    },
+    {
+      "bbox": [
+        0.25967741935483873,
+        0.09308338720103426,
+        0.35322580645161283,
+        0.11118293471234647
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 15,
+      "page": 1,
+      "text": "n/a"
+    },
+    {
+      "bbox": [
+        0.35322580645161283,
+        0.09308338720103426,
+        0.6314516129032258,
+        0.11118293471234647
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 15,
+      "page": 1,
+      "text": "Media - Teen Print"
+    },
+    {
+      "bbox": [
+        0.6798387096774193,
+        0.09308338720103426,
+        0.8080645161290322,
+        0.11118293471234647
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 15,
+      "page": 1,
+      "text": "$ 200,580.27"
+    },
+    {
+      "bbox": [
+        0.12419354838709669,
+        0.11118293471234647,
+        0.23306451612903226,
+        0.12669683257918551
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 16,
+      "page": 1,
+      "text": "MG04-024604"
+    },
+    {
+      "bbox": [
+        0.25967741935483873,
+        0.11118293471234647,
+        0.35322580645161283,
+        0.12669683257918551
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 16,
+      "page": 1,
+      "text": "n/a"
+    },
+    {
+      "bbox": [
+        0.35322580645161283,
+        0.11118293471234647,
+        0.6314516129032258,
+        0.12669683257918551
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 16,
+      "page": 1,
+      "text": "Media - Parent Print"
+    },
+    {
+      "bbox": [
+        0.6798387096774193,
+        0.11118293471234647,
+        0.8080645161290322,
+        0.12669683257918551
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 16,
+      "page": 1,
+      "text": "$ 87,062.10"
+    },
+    {
+      "bbox": [
+        0.12419354838709669,
+        0.19586296056884292,
+        0.23306451612903226,
+        0.21266968325791855
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 17,
+      "page": 1,
+      "text": "243573"
+    },
+    {
+      "bbox": [
+        0.25967741935483873,
+        0.19586296056884292,
+        0.35322580645161283,
+        0.21266968325791855
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 17,
+      "page": 1,
+      "text": "80468"
+    },
+    {
+      "bbox": [
+        0.35322580645161283,
+        0.19586296056884292,
+        0.6314516129032258,
+        0.21266968325791855
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 17,
+      "page": 1,
+      "text": "March 1, 2003 - March 31, 2003"
+    },
+    {
+      "bbox": [
+        0.6798387096774193,
+        0.19586296056884292,
+        0.8080645161290322,
+        0.21266968325791855
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 17,
+      "page": 1,
+      "text": "$ 60,421.90"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.37879767291531996,
+        0.18134106893788765,
+        0.39536913414133656
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Invoice #"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.37879767291531996,
+        0.29152298424192064,
+        0.3941037688589522
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Job #"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.37879767291531996,
+        0.4235117369498768,
+        0.3944488684814207
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7012619817787933,
+        0.37937951830029903,
+        0.7609438525684779,
+        0.3936651583710407
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 572,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qmhd0006",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ],
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11209677419354838,
+          0.37879767291531996,
+          0.7846774193548387,
+          0.755656108597285
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.11209677419354838,
+            "right": 0.2153225806451613
+          },
+          {
+            "column_type": "line_item_order_id",
+            "left": 0.2435483870967742,
+            "right": 0.2991935483870968
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3419354838709677,
+            "right": 0.5935483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6693548387096774,
+            "right": 0.7846774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3936651583710407,
+            "row_type": "header",
+            "top": 0.37879767291531996
+          },
+          {
+            "bottom": 0.4117647058823529,
+            "row_type": "subsection-header",
+            "top": 0.3936651583710407
+          },
+          {
+            "bottom": 0.4298642533936652,
+            "row_type": "data",
+            "top": 0.4117647058823529
+          },
+          {
+            "bottom": 0.449256625727214,
+            "row_type": "gap-with-text",
+            "top": 0.4298642533936652
+          },
+          {
+            "bottom": 0.46283128636069815,
+            "row_type": "gap",
+            "top": 0.449256625727214
+          },
+          {
+            "bottom": 0.48157724628312865,
+            "row_type": "subsection-header",
+            "top": 0.46283128636069815
+          },
+          {
+            "bottom": 0.4970911441499677,
+            "row_type": "data",
+            "top": 0.48157724628312865
+          },
+          {
+            "bottom": 0.5164835164835165,
+            "row_type": "data",
+            "top": 0.4970911441499677
+          },
+          {
+            "bottom": 0.5319974143503555,
+            "row_type": "data",
+            "top": 0.5164835164835165
+          },
+          {
+            "bottom": 0.5513897866839044,
+            "row_type": "data",
+            "top": 0.5319974143503555
+          },
+          {
+            "bottom": 0.5669036845507434,
+            "row_type": "data",
+            "top": 0.5513897866839044
+          },
+          {
+            "bottom": 0.5824175824175825,
+            "row_type": "data",
+            "top": 0.5669036845507434
+          },
+          {
+            "bottom": 0.6005171299288946,
+            "row_type": "gap-with-text",
+            "top": 0.5824175824175825
+          },
+          {
+            "bottom": 0.6192630898513252,
+            "row_type": "gap",
+            "top": 0.6005171299288946
+          },
+          {
+            "bottom": 0.6360698125404007,
+            "row_type": "subsection-header",
+            "top": 0.6192630898513252
+          },
+          {
+            "bottom": 0.6522301228183581,
+            "row_type": "data",
+            "top": 0.6360698125404007
+          },
+          {
+            "bottom": 0.6677440206851971,
+            "row_type": "data",
+            "top": 0.6522301228183581
+          },
+          {
+            "bottom": 0.6858435681965094,
+            "row_type": "data",
+            "top": 0.6677440206851971
+          },
+          {
+            "bottom": 0.7032967032967034,
+            "row_type": "data",
+            "top": 0.6858435681965094
+          },
+          {
+            "bottom": 0.7201034259857789,
+            "row_type": "data",
+            "top": 0.7032967032967034
+          },
+          {
+            "bottom": 0.7362637362637363,
+            "row_type": "data",
+            "top": 0.7201034259857789
+          },
+          {
+            "bottom": 0.755656108597285,
+            "row_type": "gap-with-text",
+            "top": 0.7362637362637363
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.12419354838709669,
+          0.06011635423400128,
+          0.8080645161290322,
+          0.2689075630252101
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.12419354838709669,
+            "right": 0.23306451612903226
+          },
+          {
+            "column_type": "line_item_order_id",
+            "left": 0.25967741935483873,
+            "right": 0.35322580645161283
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.35322580645161283,
+            "right": 0.6314516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6798387096774193,
+            "right": 0.8080645161290322
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.07627666451195862,
+            "row_type": "subsection-header",
+            "top": 0.06011635423400128
+          },
+          {
+            "bottom": 0.09308338720103426,
+            "row_type": "data",
+            "top": 0.07627666451195862
+          },
+          {
+            "bottom": 0.11118293471234647,
+            "row_type": "data",
+            "top": 0.09308338720103426
+          },
+          {
+            "bottom": 0.12669683257918551,
+            "row_type": "data",
+            "top": 0.11118293471234647
+          },
+          {
+            "bottom": 0.14414996767937943,
+            "row_type": "gap-with-text",
+            "top": 0.12669683257918551
+          },
+          {
+            "bottom": 0.17647058823529413,
+            "row_type": "gap",
+            "top": 0.14414996767937943
+          },
+          {
+            "bottom": 0.19586296056884292,
+            "row_type": "subsection-header",
+            "top": 0.17647058823529413
+          },
+          {
+            "bottom": 0.21266968325791855,
+            "row_type": "data",
+            "top": 0.19586296056884292
+          },
+          {
+            "bottom": 0.23076923076923078,
+            "row_type": "gap-with-text",
+            "top": 0.21266968325791855
+          },
+          {
+            "bottom": 0.2482223658694247,
+            "row_type": "gap",
+            "top": 0.23076923076923078
+          },
+          {
+            "bottom": 0.2689075630252101,
+            "row_type": "footer",
+            "top": 0.2482223658694247
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,737 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7001728110599078,
+        0.29414027766519624,
+        0.758096198156682,
+        0.3043446238114303
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "220528"
+    },
+    {
+      "bbox": [
+        0.15467453917050691,
+        0.1310301822339865,
+        0.21514400921658985,
+        0.14174474568753223
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "220528"
+    },
+    {
+      "bbox": [
+        0.6027851382488479,
+        0.12857476144254892,
+        0.768280529953917,
+        0.1418404114326532
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 15, 2002"
+    },
+    {
+      "bbox": [
+        0.07638248847926267,
+        0.14531626683871415,
+        0.2431509216589862,
+        0.1580716995215067
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "February 15, 2002"
+    },
+    {
+      "bbox": [
+        0.11693740972556572,
+        0.8877942608396815,
+        0.2368541165142032,
+        0.9092803740431965
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "676 N. St. Clair\nChicago, IL 60611-2976"
+    },
+    {
+      "bbox": [
+        0.6003283582089552,
+        0.18740665405288068,
+        0.7530173326913818,
+        0.20173072952189067
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Weber Shandwick"
+    },
+    {
+      "bbox": [
+        0.5995835339431873,
+        0.1886003270086315,
+        0.8185618680789601,
+        0.24470295592892063
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Weber Shandwick\nP.O. BOX 100583\nAtlanta, GA 30384-0583\nUSA"
+    },
+    {
+      "bbox": [
+        0.07574596774193548,
+        0.15816736526662764,
+        0.3220794930875576,
+        0.1704125806421085
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.0725019453876627,
+        0.15844620495783288,
+        0.3235228317770232,
+        0.2467155440519889
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY\nMr. Jordan Bressler\nManager, External Affairs\n714 Green Valley Road\nP.O. Box 10529\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.775282258064516,
+        0.2045014744868716,
+        0.788649193548387,
+        0.21827734178428754
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7765552995391706,
+        0.2045014744868716,
+        0.8739429723502304,
+        0.21827734178428754
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$12,694.77"
+    },
+    {
+      "bbox": [
+        0.7771918202764977,
+        0.2045014744868716,
+        0.8739429723502304,
+        0.21878755909159925
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$12,694.77"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.42727860374919197,
+        0.4362903225806451,
+        0.44085326438267614
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TeenHIP Grant Program"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.42727860374919197,
+        0.7588709677419354,
+        0.44085326438267614
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "10,716.00"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.4563671622495152,
+        0.4362903225806451,
+        0.46929541047188106
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "TeenHIP Cool News"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.4563671622495152,
+        0.7588709677419354,
+        0.46929541047188106
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20.00"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.5436328377504848,
+        0.4362903225806451,
+        0.5604395604395604
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Sarah Trego"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.5436328377504848,
+        0.7588709677419354,
+        0.5604395604395604
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "627.18"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.5604395604395604,
+        0.4362903225806451,
+        0.5759534583063994
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Sarah Trego"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.5604395604395604,
+        0.7588709677419354,
+        0.5759534583063994
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "178.44"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.6192630898513252,
+        0.4362903225806451,
+        0.6354234001292824
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.6192630898513252,
+        0.7588709677419354,
+        0.6354234001292824
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "92.68"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.6354234001292824,
+        0.4362903225806451,
+        0.6489980607627667
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.6354234001292824,
+        0.7588709677419354,
+        0.6489980607627667
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "44.06"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.6489980607627667,
+        0.4362903225806451,
+        0.6638655462184874
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.6489980607627667,
+        0.7588709677419354,
+        0.6638655462184874
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "82.57"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.6638655462184874,
+        0.4362903225806451,
+        0.6787330316742082
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.6638655462184874,
+        0.7588709677419354,
+        0.6787330316742082
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "8.47"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.6787330316742082,
+        0.4362903225806451,
+        0.6942469295410472
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.6787330316742082,
+        0.7588709677419354,
+        0.6942469295410472
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "7.14"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.6942469295410472,
+        0.4362903225806451,
+        0.7097608274078863
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.6942469295410472,
+        0.7588709677419354,
+        0.7097608274078863
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "5.36"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.7097608274078863,
+        0.4362903225806451,
+        0.7233354880413704
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.7097608274078863,
+        0.7588709677419354,
+        0.7233354880413704
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "31.68"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.768584356819651,
+        0.4362903225806451,
+        0.7828054298642534
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "Phoenix College"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.768584356819651,
+        0.7588709677419354,
+        0.7828054298642534
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "431.00"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.7828054298642534,
+        0.4362903225806451,
+        0.7983193277310925
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "Active Parenting Publishers"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.7828054298642534,
+        0.7588709677419354,
+        0.7983193277310925
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "180.94"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.7983193277310925,
+        0.4362903225806451,
+        0.8118939883645766
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "Doot- Russell"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.7983193277310925,
+        0.7588709677419354,
+        0.8118939883645766
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "-65.00"
+    },
+    {
+      "bbox": [
+        0.14193548387096766,
+        0.843568196509373,
+        0.4362903225806451,
+        0.8623141564318035
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 14,
+      "page": 0,
+      "text": "Photocopy"
+    },
+    {
+      "bbox": [
+        0.5677419354838709,
+        0.843568196509373,
+        0.7588709677419354,
+        0.8623141564318035
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 14,
+      "page": 0,
+      "text": "334.25"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 924,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nffd0006",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ],
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07580645161290313,
+          0.35294117647058826,
+          0.8806451612903226,
+          0.8623141564318035
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14193548387096766,
+            "right": 0.4362903225806451
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.567741935483871,
+            "right": 0.7588709677419354
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.37944408532643825,
+            "row_type": "gap-with-text",
+            "top": 0.35294117647058826
+          },
+          {
+            "bottom": 0.3962508080155139,
+            "row_type": "gap",
+            "top": 0.37944408532643825
+          },
+          {
+            "bottom": 0.40917905623787976,
+            "row_type": "subsection-header",
+            "top": 0.3962508080155139
+          },
+          {
+            "bottom": 0.42727860374919197,
+            "row_type": "gap",
+            "top": 0.40917905623787976
+          },
+          {
+            "bottom": 0.44085326438267614,
+            "row_type": "data",
+            "top": 0.42727860374919197
+          },
+          {
+            "bottom": 0.4563671622495152,
+            "row_type": "gap",
+            "top": 0.44085326438267614
+          },
+          {
+            "bottom": 0.46929541047188106,
+            "row_type": "data",
+            "top": 0.4563671622495152
+          },
+          {
+            "bottom": 0.5016160310277957,
+            "row_type": "gap",
+            "top": 0.46929541047188106
+          },
+          {
+            "bottom": 0.5151906916612798,
+            "row_type": "subsection-header",
+            "top": 0.5016160310277957
+          },
+          {
+            "bottom": 0.5313510019392372,
+            "row_type": "gap",
+            "top": 0.5151906916612798
+          },
+          {
+            "bottom": 0.5436328377504848,
+            "row_type": "subsection-header",
+            "top": 0.5313510019392372
+          },
+          {
+            "bottom": 0.5604395604395604,
+            "row_type": "data",
+            "top": 0.5436328377504848
+          },
+          {
+            "bottom": 0.5733678086619263,
+            "row_type": "data",
+            "top": 0.5604395604395604
+          },
+          {
+            "bottom": 0.5869424692954105,
+            "row_type": "gap-with-text",
+            "top": 0.5733678086619263
+          },
+          {
+            "bottom": 0.6063348416289592,
+            "row_type": "gap",
+            "top": 0.5869424692954105
+          },
+          {
+            "bottom": 0.6192630898513252,
+            "row_type": "subsection-header",
+            "top": 0.6063348416289592
+          },
+          {
+            "bottom": 0.6354234001292824,
+            "row_type": "data",
+            "top": 0.6192630898513252
+          },
+          {
+            "bottom": 0.6489980607627667,
+            "row_type": "data",
+            "top": 0.6354234001292824
+          },
+          {
+            "bottom": 0.6638655462184874,
+            "row_type": "data",
+            "top": 0.6489980607627667
+          },
+          {
+            "bottom": 0.6787330316742082,
+            "row_type": "data",
+            "top": 0.6638655462184874
+          },
+          {
+            "bottom": 0.6942469295410472,
+            "row_type": "data",
+            "top": 0.6787330316742082
+          },
+          {
+            "bottom": 0.7097608274078863,
+            "row_type": "data",
+            "top": 0.6942469295410472
+          },
+          {
+            "bottom": 0.7233354880413704,
+            "row_type": "data",
+            "top": 0.7097608274078863
+          },
+          {
+            "bottom": 0.7388493859082095,
+            "row_type": "gap-with-text",
+            "top": 0.7233354880413704
+          },
+          {
+            "bottom": 0.7537168713639302,
+            "row_type": "gap",
+            "top": 0.7388493859082095
+          },
+          {
+            "bottom": 0.768584356819651,
+            "row_type": "subsection-header",
+            "top": 0.7537168713639302
+          },
+          {
+            "bottom": 0.7828054298642534,
+            "row_type": "data",
+            "top": 0.768584356819651
+          },
+          {
+            "bottom": 0.7983193277310925,
+            "row_type": "data",
+            "top": 0.7828054298642534
+          },
+          {
+            "bottom": 0.8118939883645766,
+            "row_type": "data",
+            "top": 0.7983193277310925
+          },
+          {
+            "bottom": 0.8274078862314156,
+            "row_type": "gap-with-text",
+            "top": 0.8118939883645766
+          },
+          {
+            "bottom": 0.843568196509373,
+            "row_type": "gap",
+            "top": 0.8274078862314156
+          },
+          {
+            "bottom": 0.8623141564318035,
+            "row_type": "data",
+            "top": 0.843568196509373
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.075,
+          0.20168067226890757,
+          0.8798387096774194,
+          0.2275371687136393
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14112903225806453,
+            "right": 0.43548387096774194
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5669354838709677,
+            "right": 0.7580645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2275371687136393,
+            "row_type": "footer",
+            "top": 0.20168067226890757
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7927143297245515,
+        0.23009223720404207,
+        0.82380022619867,
+        0.24421283163551732
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "271"
+    },
+    {
+      "bbox": [
+        0.761628433250433,
+        0.24670470124107177,
+        0.8217278331003954,
+        0.26082529567254703
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/16/01"
+    },
+    {
+      "bbox": [
+        0.28186943099987033,
+        0.854044099330645,
+        0.4321179306247766,
+        0.8681646937621202
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Larsen Interactive, Inc."
+    },
+    {
+      "bbox": [
+        0.30673814817916517,
+        0.9105264770565459,
+        0.6600811714349791,
+        0.9246470714880213
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "101 east 2nd street, seymour, indiana 47274"
+    },
+    {
+      "bbox": [
+        0.2849780206472822,
+        0.8174966784491795,
+        0.3689099411274022,
+        0.8299560264769518
+      ],
+      "fieldtype": "vendor_registration_id",
+      "page": 0,
+      "text": "35-2082890"
+    },
+    {
+      "bbox": [
+        0.1658154174964945,
+        0.22313961770844495,
+        0.2911951999421059,
+        0.23809083534177172
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Alex Abraham"
+    },
+    {
+      "bbox": [
+        0.16788781059476907,
+        0.22039153799738945,
+        0.3979234445032462,
+        0.31700003951766287
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Alex Abraham\nBMSG Worldwide - 2Take10\n676 North St. Clair\nSuite 1000\nChicago, IL 60611\nUSA"
+    },
+    {
+      "bbox": [
+        0.754375057406472,
+        0.8532134761287934,
+        0.761628433250433,
+        0.8673340705602687
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.761628433250433,
+        0.8166660552473282,
+        0.8206916365512582,
+        0.8307866496788033
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "2,100.00"
+    },
+    {
+      "bbox": [
+        0.7508064516129033,
+        0.8357703888899122,
+        0.8196554400021209,
+        0.849060360119536
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,100.00"
+    },
+    {
+      "bbox": [
+        0.7532258064516129,
+        0.8532134761287934,
+        0.8186192434529836,
+        0.8656728241565657
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,100.00"
+    },
+    {
+      "bbox": [
+        0.2829056275490076,
+        0.8349397656880607,
+        0.42797314442822737,
+        0.849060360119536
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Payable upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1693548387096774,
+        0.43891402714932126,
+        0.6919354838709677,
+        0.4789915966386555
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Website Hosting - December 2000, January 2001, February 2001, March 2001, April\n2001, May 2001"
+    },
+    {
+      "bbox": [
+        0.7790322580645161,
+        0.43891402714932126,
+        0.8362903225806452,
+        0.4789915966386555
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1,500.00"
+    },
+    {
+      "bbox": [
+        0.1693548387096774,
+        0.4964447317388494,
+        0.6919354838709677,
+        0.5378151260504201
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Website Reporting - October 2000, November 2000, December 2000, January 2001,\nFebuary 2001, March 2001"
+    },
+    {
+      "bbox": [
+        0.7790322580645161,
+        0.4964447317388494,
+        0.8362903225806452,
+        0.5378151260504201
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "600.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 785,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nrjd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1693548387096774,
+          0.4137039431157078,
+          0.8362903225806452,
+          0.8713639301874596
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1693548387096774,
+            "right": 0.6919354838709677
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7790322580645161,
+            "right": 0.8362903225806452
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42921784098254684,
+            "row_type": "subsection-header",
+            "top": 0.4137039431157078
+          },
+          {
+            "bottom": 0.43891402714932126,
+            "row_type": "gap",
+            "top": 0.42921784098254684
+          },
+          {
+            "bottom": 0.4789915966386555,
+            "row_type": "data",
+            "top": 0.43891402714932126
+          },
+          {
+            "bottom": 0.4964447317388494,
+            "row_type": "gap",
+            "top": 0.4789915966386555
+          },
+          {
+            "bottom": 0.5378151260504201,
+            "row_type": "data",
+            "top": 0.4964447317388494
+          },
+          {
+            "bottom": 0.5513897866839044,
+            "row_type": "gap",
+            "top": 0.5378151260504201
+          },
+          {
+            "bottom": 0.7950872656755009,
+            "row_type": "gap-with-text",
+            "top": 0.5513897866839044
+          },
+          {
+            "bottom": 0.8131868131868132,
+            "row_type": "gap",
+            "top": 0.7950872656755009
+          },
+          {
+            "bottom": 0.8713639301874596,
+            "row_type": "footer",
+            "top": 0.8131868131868132
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

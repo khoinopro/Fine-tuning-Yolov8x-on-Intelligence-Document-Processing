@@ -1,0 +1,166 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.23116340267086752,
+        0.265883585283203,
+        0.31508896924564106,
+        0.27865043802122735
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DPW99-106"
+    },
+    {
+      "bbox": [
+        0.7531862476303874,
+        0.21419170870805002,
+        0.8330793996459289,
+        0.22536270485382134
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "I35023295"
+    },
+    {
+      "bbox": [
+        0.35500908677873694,
+        0.167079246701971,
+        0.6681386987106174,
+        0.17970732930153857
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL"
+    },
+    {
+      "bbox": [
+        0.4123517523382788,
+        0.18359289317832858,
+        0.5760038540475333,
+        0.22002005452323506
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "COUNSELLORS AT LAW\n45O LEXINGTON AVENUE\nNEW YORK, NY. 100l7"
+    },
+    {
+      "bbox": [
+        0.7328840514324385,
+        0.4961865070660859,
+        0.7504072987943955,
+        0.514837213674678
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7339148306890243,
+        0.49463228151536986,
+        0.8132848334461237,
+        0.5125058753486039
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,854.00"
+    },
+    {
+      "bbox": [
+        0.7354838709677419,
+        0.4961865070660859,
+        0.8163771712158808,
+        0.5142857142857142
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,854.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14919354838709678,
+        0.31246200607902735,
+        0.6298387096774194,
+        0.3507598784194529
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For expenses on retainer in connection with tobacco settlement \nattorney fee arbitrations through January 31, 1999"
+    },
+    {
+      "bbox": [
+        0.7153225806451613,
+        0.31246200607902735,
+        0.8225806451612904,
+        0.3507598784194529
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$170,369.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 612,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "htpl0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14919354838709678,
+          0.31246200607902735,
+          0.8225806451612904,
+          0.5161094224924012
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14919354838709678,
+            "right": 0.6298387096774194
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7153225806451613,
+            "right": 0.8225806451612904
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3507598784194529,
+            "row_type": "data",
+            "top": 0.31246200607902735
+          },
+          {
+            "bottom": 0.38966565349544074,
+            "row_type": "gap",
+            "top": 0.3507598784194529
+          },
+          {
+            "bottom": 0.5161094224924012,
+            "row_type": "footer",
+            "top": 0.38966565349544074
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

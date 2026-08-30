@@ -1,0 +1,189 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7532628284832144,
+        0.4405107224895626,
+        0.8089467581273837,
+        0.4543714335216826
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "001542"
+    },
+    {
+      "bbox": [
+        0.7422484248173347,
+        0.46086864181798876,
+        0.8071110241830705,
+        0.4738630584106012
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "09/11/03"
+    },
+    {
+      "bbox": [
+        0.7483675379650456,
+        0.12171436875080342,
+        0.8548401067352157,
+        0.1381739631014459
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Yankelovich"
+    },
+    {
+      "bbox": [
+        0.6682071557300325,
+        0.12247874619742768,
+        0.8541704399962528,
+        0.18798589337312702
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Yankelovich\n200 West Franklin Streel\nChapel Hill, NC 27516"
+    },
+    {
+      "bbox": [
+        0.3604157644001732,
+        0.2624872151707718,
+        0.5531678285530672,
+        0.2980052871905792
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Post Office Box 601411\nCharlotte, NC 28260-1411"
+    },
+    {
+      "bbox": [
+        0.16460414367342377,
+        0.4409438697093163,
+        0.3487894494195225,
+        0.4574034640599588
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJReynolds Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.16154458709956832,
+        0.44102030745397874,
+        0.3604157644001732,
+        0.5145788970674536
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJReynolds Tobacco Co.\nPO Box 2959\nWinston-Salem, NC 27102\nATTN: Carol Mitchell"
+    },
+    {
+      "bbox": [
+        0.7850822168513111,
+        0.7978571787864054,
+        0.7967085318319619,
+        0.8108515953790179
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7830645161290323,
+        0.7969908843468978,
+        0.8585115746238422,
+        0.8116438356164384
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,500.00"
+    },
+    {
+      "bbox": [
+        0.7850822168513111,
+        0.7974240315666516,
+        0.8585115746238422,
+        0.8121510370382791
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22338709677419355,
+        0.6598173515981736,
+        0.5919354838709677,
+        0.6775114155251142
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Eclipse Targets, Camel Franchise and Private Label"
+    },
+    {
+      "bbox": [
+        0.7830645161290323,
+        0.6598173515981736,
+        0.85,
+        0.6775114155251142
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "2,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 964,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rydl0187",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1657,
+        2342
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.22338709677419355,
+          0.6598173515981736,
+          0.85,
+          0.6775114155251142
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.22338709677419355,
+            "right": 0.5919354838709677
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7830645161290323,
+            "right": 0.85
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6775114155251142,
+            "row_type": "data",
+            "top": 0.6598173515981736
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

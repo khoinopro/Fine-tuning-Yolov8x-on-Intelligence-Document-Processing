@@ -1,0 +1,264 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6827881795623731,
+        0.3482301458853782,
+        0.7839076246334311,
+        0.36221529230647775
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "CTR-01-011"
+    },
+    {
+      "bbox": [
+        0.3070691405368825,
+        0.3482301458853782,
+        0.46013986013986014,
+        0.3629145496275327
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 1, 2001"
+    },
+    {
+      "bbox": [
+        0.21429900655944378,
+        0.08958195674199375,
+        0.4763746325463601,
+        0.09963261530329061
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "7723 Ashton Avenue \u00b7 Manassas \u00b7 VA 20109-2879"
+    },
+    {
+      "bbox": [
+        0.592685186026625,
+        0.09080551525889123,
+        0.9295567318195418,
+        0.10435205505890004
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "4510 Weybridge Lane Suite 300 Greensboro, NC 27407-7876"
+    },
+    {
+      "bbox": [
+        0.30927243208255933,
+        0.7213751149453769,
+        0.6009185379927782,
+        0.7367781155015197
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Technology Concepts & Design, Inc."
+    },
+    {
+      "bbox": [
+        0.3098522454143888,
+        0.7208013338932803,
+        0.602446375124709,
+        0.7856119327067089
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Technology Concepts & Design, Inc.\nAttn: Lisa Cain\n4510 Weybridge Lane, Suite 300\nGreensboro, NC 27407-7876"
+    },
+    {
+      "bbox": [
+        0.3061414392059553,
+        0.25107228593038716,
+        0.48627011429430783,
+        0.26680071219516777
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Debevoise & Plimpton"
+    },
+    {
+      "bbox": [
+        0.3061414392059553,
+        0.2510945991459424,
+        0.4870431987367471,
+        0.3151510596017157
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Debevoise & Plimpton\nAttn: Chris Hansen\n919 Third Avenue\nNew York, NY 10022"
+    },
+    {
+      "bbox": [
+        0.4267426122264832,
+        0.6372925308766672,
+        0.43833887886307243,
+        0.6506908199170358
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.4258064516129032,
+        0.6372925308766672,
+        0.5156473231070005,
+        0.6506908199170358
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$3,500.00"
+    },
+    {
+      "bbox": [
+        0.4275156966689225,
+        0.6367099965705643,
+        0.5133280697796826,
+        0.6512733542231388
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$3,500.00"
+    },
+    {
+      "bbox": [
+        0.6548025227460711,
+        0.6372925308766672,
+        0.7746306113241598,
+        0.6512733542231388
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 10 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.30806451612903224,
+        0.5045592705167173,
+        0.45403225806451614,
+        0.5179331306990882
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Hosting Web Site"
+    },
+    {
+      "bbox": [
+        0.7112903225806452,
+        0.5045592705167173,
+        0.7983870967741935,
+        0.5179331306990882
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$3,500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.24764607626180948,
+        0.41701878121908637,
+        0.46553962039322494,
+        0.4297872340425532
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SUMMARY OF SERVICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 919,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "llcm0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.24758064516129033,
+          0.3890577507598784,
+          0.7983870967741935,
+          0.6717325227963525
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.30806451612903224,
+            "right": 0.45403225806451614
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7112903225806452,
+            "right": 0.7983870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4297872340425532,
+            "row_type": "header",
+            "top": 0.3890577507598784
+          },
+          {
+            "bottom": 0.45288753799392095,
+            "row_type": "gap",
+            "top": 0.4297872340425532
+          },
+          {
+            "bottom": 0.46990881458966566,
+            "row_type": "subsection-header",
+            "top": 0.45288753799392095
+          },
+          {
+            "bottom": 0.4851063829787234,
+            "row_type": "down-merge",
+            "top": 0.46990881458966566
+          },
+          {
+            "bottom": 0.5045592705167173,
+            "row_type": "gap",
+            "top": 0.4851063829787234
+          },
+          {
+            "bottom": 0.5179331306990882,
+            "row_type": "data",
+            "top": 0.5045592705167173
+          },
+          {
+            "bottom": 0.572644376899696,
+            "row_type": "gap-with-text",
+            "top": 0.5179331306990882
+          },
+          {
+            "bottom": 0.6188449848024317,
+            "row_type": "gap",
+            "top": 0.572644376899696
+          },
+          {
+            "bottom": 0.6717325227963525,
+            "row_type": "footer",
+            "top": 0.6188449848024317
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

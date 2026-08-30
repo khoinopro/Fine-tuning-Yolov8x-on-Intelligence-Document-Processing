@@ -1,0 +1,311 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8115840407470288,
+        0.19845935547649304,
+        0.8824991511035654,
+        0.21388729123791655
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "004033"
+    },
+    {
+      "bbox": [
+        0.6802597623089983,
+        0.18373268952240698,
+        0.8719932088285229,
+        0.19845935547649304
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 10, 1999"
+    },
+    {
+      "bbox": [
+        0.3326881720430107,
+        0.08625618630250405,
+        0.6531194114318053,
+        0.10238539187126496
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PYRAMID AUDIO PRODUCTIONS, INC"
+    },
+    {
+      "bbox": [
+        0.3344665216468591,
+        0.08826933909415602,
+        0.6525175084889644,
+        0.1297349143574248
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PYRAMID AUDIO PRODUCTIONS, INC\n5620 Salmen Street\nHarahan, LA 70123"
+    },
+    {
+      "bbox": [
+        0.11381437464629314,
+        0.1844339593297444,
+        0.33881663837011883,
+        0.20056316489850534
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Zulu Social Aid Club"
+    },
+    {
+      "bbox": [
+        0.11354078239954726,
+        0.18585904318583163,
+        0.34669609507640065,
+        0.24404189295342607
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Zulu Social Aid Club\n2137 Toure\nNew Orleans, LA 70119"
+    },
+    {
+      "bbox": [
+        0.7222835314091681,
+        0.8234660712659786,
+        0.8124595359366157,
+        0.8395952768347396
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,793.00"
+    },
+    {
+      "bbox": [
+        0.7222835314091681,
+        0.850114323944801,
+        0.8142105263157894,
+        0.8669447993208993
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "2,793.00"
+    },
+    {
+      "bbox": [
+        0.7669337860780985,
+        0.8795676558529731,
+        0.8124595359366157,
+        0.8956968614217341
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.19085795132993774,
+        0.25666474948549983,
+        0.3589530277306169,
+        0.2720926852469233
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "50 dep/50 event"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.3949579831932773,
+        0.3620967741935484,
+        0.4156431803490627
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Sound System Rental"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.3949579831932773,
+        0.875,
+        0.4156431803490627
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "800.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.4259857789269554,
+        0.3620967741935484,
+        0.4414996767937944
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Sound System Labor"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.4259857789269554,
+        0.875,
+        0.4414996767937944
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "900.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.4550743374272786,
+        0.3620967741935484,
+        0.4725274725274725
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Stage Equipment Rental"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.4550743374272786,
+        0.875,
+        0.4725274725274725
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "325.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.4841628959276018,
+        0.3620967741935484,
+        0.5003232062055591
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Stage Equipment Labor"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.4841628959276018,
+        0.875,
+        0.5003232062055591
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "768.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 616,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nhxy0009",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11612903225806452,
+          0.34065934065934067,
+          0.875,
+          0.8998060762766645
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11612903225806452,
+            "right": 0.3620967741935484
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7959677419354839,
+            "right": 0.875
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.38461538461538464,
+            "row_type": "subsection-header",
+            "top": 0.34065934065934067
+          },
+          {
+            "bottom": 0.3949579831932773,
+            "row_type": "gap",
+            "top": 0.38461538461538464
+          },
+          {
+            "bottom": 0.4156431803490627,
+            "row_type": "data",
+            "top": 0.3949579831932773
+          },
+          {
+            "bottom": 0.4259857789269554,
+            "row_type": "gap",
+            "top": 0.4156431803490627
+          },
+          {
+            "bottom": 0.4414996767937944,
+            "row_type": "data",
+            "top": 0.4259857789269554
+          },
+          {
+            "bottom": 0.4550743374272786,
+            "row_type": "gap",
+            "top": 0.4414996767937944
+          },
+          {
+            "bottom": 0.4725274725274725,
+            "row_type": "data",
+            "top": 0.4550743374272786
+          },
+          {
+            "bottom": 0.4841628959276018,
+            "row_type": "gap",
+            "top": 0.4725274725274725
+          },
+          {
+            "bottom": 0.5003232062055591,
+            "row_type": "data",
+            "top": 0.4841628959276018
+          },
+          {
+            "bottom": 0.6548157724628313,
+            "row_type": "gap",
+            "top": 0.5003232062055591
+          },
+          {
+            "bottom": 0.8998060762766645,
+            "row_type": "footer",
+            "top": 0.6548157724628313
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

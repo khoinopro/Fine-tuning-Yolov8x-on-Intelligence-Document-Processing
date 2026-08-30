@@ -1,0 +1,304 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.15969724659919657,
+        0.2142868532317779,
+        0.2739633799417251,
+        0.2313870509959098
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 27, 2001"
+    },
+    {
+      "bbox": [
+        0.15832054619747934,
+        0.2837564066485638,
+        0.3538120032413234,
+        0.31528489627618195
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Joseph Rice, Esq.\nNess Motley Loadholt et al."
+    },
+    {
+      "bbox": [
+        0.15763219599662076,
+        0.2846650739630652,
+        0.3668906570576369,
+        0.34093519292237984
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Joseph Rice, Esq.\nNess Motley Loadholt et al.\n28 Bridgeside Blvd.\nMount Pleasant, S.C. 10022"
+    },
+    {
+      "bbox": [
+        0.6553093912173927,
+        0.6417917973350755,
+        0.6690763952345649,
+        0.6551513268383036
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6559977414182514,
+        0.6412574161549464,
+        0.7461716177307288,
+        0.6546169456581744
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 39,190.73"
+    },
+    {
+      "bbox": [
+        0.6559977414182514,
+        0.6412574161549464,
+        0.7468599679315873,
+        0.6540825644780454
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 39,190.73"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17661290322580644,
+        0.4765184721352536,
+        0.4588709677419355,
+        0.493425172197871
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "L. Tersigni"
+    },
+    {
+      "bbox": [
+        0.4661290322580645,
+        0.4765184721352536,
+        0.5096774193548387,
+        0.493425172197871
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "55.00"
+    },
+    {
+      "bbox": [
+        0.6564516129032258,
+        0.4765184721352536,
+        0.7540322580645161,
+        0.493425172197871
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 23,375.00"
+    },
+    {
+      "bbox": [
+        0.17661290322580644,
+        0.5447714464621165,
+        0.4588709677419355,
+        0.5760801502817783
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Professional Per-Diem Costs\n(See schedule B)"
+    },
+    {
+      "bbox": [
+        0.4661290322580645,
+        0.5447714464621165,
+        0.5096774193548387,
+        0.5760801502817783
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "65.75"
+    },
+    {
+      "bbox": [
+        0.6564516129032258,
+        0.5447714464621165,
+        0.7540322580645161,
+        0.5760801502817783
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "11,696.25"
+    },
+    {
+      "bbox": [
+        0.17661290322580644,
+        0.5854727614276769,
+        0.4588709677419355,
+        0.617407639323732
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Report reproduction: technology: xerox,\ntelephone, fax, stc."
+    },
+    {
+      "bbox": [
+        0.6564516129032258,
+        0.5854727614276769,
+        0.7540322580645161,
+        0.617407639323732
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4,119.48"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15409311199315803,
+        0.4638582009385866,
+        0.4220049998903533,
+        0.47744448011142326
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Professional Fees ( See Schedule A)"
+    },
+    {
+      "bbox": [
+        0.4661290322580645,
+        0.46408462510412263,
+        0.513060020613583,
+        0.4765184721352536
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hours"
+    },
+    {
+      "bbox": [
+        0.6785350101971448,
+        0.462725997186839,
+        0.7380709852854104,
+        0.4765184721352536
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 577,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qzgj0225",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1720,
+        2215
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15483870967741936,
+          0.46399499060738886,
+          0.7540322580645161,
+          0.6599874765184721
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17661290322580644,
+            "right": 0.4588709677419355
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.4661290322580645,
+            "right": 0.5096774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6564516129032258,
+            "right": 0.7540322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4765184721352536,
+            "row_type": "header",
+            "top": 0.46399499060738886
+          },
+          {
+            "bottom": 0.493425172197871,
+            "row_type": "data",
+            "top": 0.4765184721352536
+          },
+          {
+            "bottom": 0.5184721352536005,
+            "row_type": "gap",
+            "top": 0.493425172197871
+          },
+          {
+            "bottom": 0.5335003130870382,
+            "row_type": "subsection-header",
+            "top": 0.5184721352536005
+          },
+          {
+            "bottom": 0.5447714464621165,
+            "row_type": "gap",
+            "top": 0.5335003130870382
+          },
+          {
+            "bottom": 0.5760801502817783,
+            "row_type": "data",
+            "top": 0.5447714464621165
+          },
+          {
+            "bottom": 0.5854727614276769,
+            "row_type": "gap",
+            "top": 0.5760801502817783
+          },
+          {
+            "bottom": 0.617407639323732,
+            "row_type": "data",
+            "top": 0.5854727614276769
+          },
+          {
+            "bottom": 0.641202254226675,
+            "row_type": "gap",
+            "top": 0.617407639323732
+          },
+          {
+            "bottom": 0.6599874765184721,
+            "row_type": "footer",
+            "top": 0.641202254226675
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

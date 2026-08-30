@@ -1,0 +1,250 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8779483493956032,
+        0.2571098701727103,
+        0.9273692829708523,
+        0.2709879597558964
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "67043"
+    },
+    {
+      "bbox": [
+        0.14997753739363295,
+        0.4804105546011189,
+        0.20938892901816386,
+        0.4921545306374169
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/13/99"
+    },
+    {
+      "bbox": [
+        0.26745446405428974,
+        0.47842887773615134,
+        0.371141520770989,
+        0.4923069673193374
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "LL-08712-001"
+    },
+    {
+      "bbox": [
+        0.6812336530078467,
+        0.4813505808062958,
+        0.7325926624095762,
+        0.49303739308687355
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "29712"
+    },
+    {
+      "bbox": [
+        0.37695574825043004,
+        0.2030583633750383,
+        0.7093357524918118,
+        0.22424071063358544
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "IIT RESEARCH INSTITUTE"
+    },
+    {
+      "bbox": [
+        0.6579767430900823,
+        0.3875639167128245,
+        0.8585675911307995,
+        0.4153200958791966
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P. O. BOX 92003\nCHICAGO, ILLINOIS 60675"
+    },
+    {
+      "bbox": [
+        0.5016129032258064,
+        0.4778115501519757,
+        0.6017725441221518,
+        0.49274522723802416
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "R11210R000"
+    },
+    {
+      "bbox": [
+        0.2202568665104561,
+        0.3306748601383199,
+        0.3149373218030585,
+        0.344468796428194
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard, Inc."
+    },
+    {
+      "bbox": [
+        0.22098139567660893,
+        0.3301286286947711,
+        0.3943984306887533,
+        0.3868334909452884
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard, Inc.\nMr. Charles Gaworski\nP. O. Box 21688\nGreensboro, NC 27420"
+    },
+    {
+      "bbox": [
+        0.8304654916468343,
+        0.6950731871363518,
+        0.8430629845189566,
+        0.7082208509520016
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8314345295600746,
+        0.6950731871363518,
+        0.9157408280119702,
+        0.71041212825461
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$55,651.00"
+    },
+    {
+      "bbox": [
+        0.832258064516129,
+        0.6950731871363518,
+        0.9138027521854898,
+        0.7112462006079028
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$55,651.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.175,
+        0.5325227963525836,
+        0.5032258064516129,
+        0.5513677811550152
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Submission of Final Report D52 - D57"
+    },
+    {
+      "bbox": [
+        0.839516129032258,
+        0.5325227963525836,
+        0.9193548387096774,
+        0.5513677811550152
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "37,300.00"
+    },
+    {
+      "bbox": [
+        0.175,
+        0.5513677811550152,
+        0.5032258064516129,
+        0.5702127659574469
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Increase in Cost for Additional Histopathology"
+    },
+    {
+      "bbox": [
+        0.839516129032258,
+        0.5513677811550152,
+        0.9193548387096774,
+        0.5702127659574469
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "18,351.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1051,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hjpy0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.175,
+          0.5325227963525836,
+          0.9193548387096774,
+          0.7161094224924012
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.175,
+            "right": 0.5032258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.839516129032258,
+            "right": 0.9193548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5513677811550152,
+            "row_type": "data",
+            "top": 0.5325227963525836
+          },
+          {
+            "bottom": 0.5702127659574469,
+            "row_type": "data",
+            "top": 0.5513677811550152
+          },
+          {
+            "bottom": 0.6960486322188449,
+            "row_type": "gap-with-text",
+            "top": 0.5702127659574469
+          },
+          {
+            "bottom": 0.7161094224924012,
+            "row_type": "footer",
+            "top": 0.6960486322188449
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

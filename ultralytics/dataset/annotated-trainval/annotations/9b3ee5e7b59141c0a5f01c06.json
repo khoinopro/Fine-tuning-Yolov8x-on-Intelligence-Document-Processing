@@ -1,0 +1,354 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.29598818999740656,
+        0.29908042394014966,
+        0.34651296183149,
+        0.3091302992518703
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "JC12241"
+    },
+    {
+      "bbox": [
+        0.19199233945777722,
+        0.29809476309226934,
+        0.24639016897081412,
+        0.3092269326683292
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/20/99"
+    },
+    {
+      "bbox": [
+        0.711971592155924,
+        0.29654862842892765,
+        0.7887685279390348,
+        0.30891770573566085
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "99-9744-500"
+    },
+    {
+      "bbox": [
+        0.14337161689803254,
+        0.7974814404789106,
+        0.5278318186357734,
+        0.8092414719454805
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "600 Vine Street \u2022 Suite 2900 \u2022 Cincinnati, Ohio 45202"
+    },
+    {
+      "bbox": [
+        0.6015200239688404,
+        0.21106161737369944,
+        0.6391650853889943,
+        0.22405954688938184
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MRSI"
+    },
+    {
+      "bbox": [
+        0.6007190652152201,
+        0.21188688254301594,
+        0.739284929591531,
+        0.24840487499183783
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MRSI\nDept. #668\nCincinnati, O11 45269"
+    },
+    {
+      "bbox": [
+        0.24559020088974007,
+        0.21243890274314214,
+        0.36158557264548047,
+        0.2248079800498753
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.24269050234694897,
+        0.21126793351845966,
+        0.3743850619426656,
+        0.2612967581047382
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris USA\nMr. David Tilus\n100 Park Ave.\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.6015200239688404,
+        0.2960639498826732,
+        0.7000379506641365,
+        0.3102997774474682
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Philip Morris U"
+    },
+    {
+      "bbox": [
+        0.7047718794262573,
+        0.7123042394014963,
+        0.7143714963991462,
+        0.7259102244389026
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7039719113451832,
+        0.7135411471321695,
+        0.77996887904722,
+        0.7259102244389026
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$352,425.00"
+    },
+    {
+      "bbox": [
+        0.7055718475073314,
+        0.7135411471321695,
+        0.7807688471282941,
+        0.7246733167082294
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$352,425.00"
+    },
+    {
+      "bbox": [
+        0.601575996967702,
+        0.2497007481296758,
+        0.7415704111556646,
+        0.26184538653366585
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Payable Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.24193548387096775,
+        0.4071072319201995,
+        0.3685483870967742,
+        0.42019950124688277
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Basic CTS"
+    },
+    {
+      "bbox": [
+        0.3975806451612903,
+        0.4071072319201995,
+        0.4717741935483871,
+        0.42019950124688277
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$186,300.00"
+    },
+    {
+      "bbox": [
+        0.24193548387096775,
+        0.42019950124688277,
+        0.3685483870967742,
+        0.4320448877805486
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Sample Augment"
+    },
+    {
+      "bbox": [
+        0.3975806451612903,
+        0.42019950124688277,
+        0.4717741935483871,
+        0.4320448877805486
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "124,200.00"
+    },
+    {
+      "bbox": [
+        0.24193548387096775,
+        0.4320448877805486,
+        0.3685483870967742,
+        0.4451371571072319
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Permanent Modules"
+    },
+    {
+      "bbox": [
+        0.3975806451612903,
+        0.4320448877805486,
+        0.4717741935483871,
+        0.4451371571072319
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "39,600.00"
+    },
+    {
+      "bbox": [
+        0.24193548387096775,
+        0.4451371571072319,
+        0.3685483870967742,
+        0.45760598503740646
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Roper Quanvert"
+    },
+    {
+      "bbox": [
+        0.3975806451612903,
+        0.4451371571072319,
+        0.4717741935483871,
+        0.45760598503740646
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "2,325.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 69,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ltlj0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.19274193548387097,
+          0.35910224438902744,
+          0.782258064516129,
+          0.7275561097256857
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.24193548387096775,
+            "right": 0.3685483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.3975806451612903,
+            "right": 0.4717741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3827930174563591,
+            "row_type": "gap-with-text",
+            "top": 0.35910224438902744
+          },
+          {
+            "bottom": 0.4071072319201995,
+            "row_type": "gap",
+            "top": 0.3827930174563591
+          },
+          {
+            "bottom": 0.42019950124688277,
+            "row_type": "data",
+            "top": 0.4071072319201995
+          },
+          {
+            "bottom": 0.4320448877805486,
+            "row_type": "data",
+            "top": 0.42019950124688277
+          },
+          {
+            "bottom": 0.4451371571072319,
+            "row_type": "data",
+            "top": 0.4320448877805486
+          },
+          {
+            "bottom": 0.45760598503740646,
+            "row_type": "data",
+            "top": 0.4451371571072319
+          },
+          {
+            "bottom": 0.470074812967581,
+            "row_type": "gap-with-text",
+            "top": 0.45760598503740646
+          },
+          {
+            "bottom": 0.5180798004987531,
+            "row_type": "gap",
+            "top": 0.470074812967581
+          },
+          {
+            "bottom": 0.5305486284289277,
+            "row_type": "gap-with-text",
+            "top": 0.5180798004987531
+          },
+          {
+            "bottom": 0.5561097256857855,
+            "row_type": "gap",
+            "top": 0.5305486284289277
+          },
+          {
+            "bottom": 0.6932668329177057,
+            "row_type": "gap-with-text",
+            "top": 0.5561097256857855
+          },
+          {
+            "bottom": 0.7119700748129676,
+            "row_type": "gap",
+            "top": 0.6932668329177057
+          },
+          {
+            "bottom": 0.7275561097256857,
+            "row_type": "footer",
+            "top": 0.7119700748129676
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

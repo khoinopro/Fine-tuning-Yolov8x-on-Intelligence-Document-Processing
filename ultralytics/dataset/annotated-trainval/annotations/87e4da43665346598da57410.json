@@ -1,0 +1,402 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.29274193548387095,
+        0.3768996960486322,
+        0.3070691405368825,
+        0.390273556231003
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3"
+    },
+    {
+      "bbox": [
+        0.6243429957139636,
+        0.3174628237589593,
+        0.7532934807128356,
+        0.33214722750111375
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 21, 2002"
+    },
+    {
+      "bbox": [
+        0.4156101962553576,
+        0.1419492361741602,
+        0.6605233476201219,
+        0.1566336399163147
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "NEW YORK MEDICAL COLLEGE"
+    },
+    {
+      "bbox": [
+        0.4276703135574103,
+        0.15733289723736968,
+        0.6484632303180691,
+        0.18390467543745878
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "ADMINISTRATION BUILDING\nVALHALLA, NY 10595"
+    },
+    {
+      "bbox": [
+        0.32903225806451614,
+        0.39088484246973176,
+        0.39520076697496054,
+        0.40486322188449847
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "46-989-1"
+    },
+    {
+      "bbox": [
+        0.19760038348748027,
+        0.2300556586270872,
+        0.4128270922625762,
+        0.2589665653495441
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Richard Izac, Project Manager\nPhillip Morris USA"
+    },
+    {
+      "bbox": [
+        0.19760038348748027,
+        0.26152223807456115,
+        0.35902041506880217,
+        0.3027784200168048
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "4201 Commerce Road\nGate C - Door 17\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.6605233476201219,
+        0.7510023628130446,
+        0.749582675389127,
+        0.7656867665551991
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "74,227.60"
+    },
+    {
+      "bbox": [
+        0.6595956462891948,
+        0.7517016201340995,
+        0.7505103767200542,
+        0.7656867665551991
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "74,227.60"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.19919354838709677,
+        0.49240121580547114,
+        0.3258064516129032,
+        0.5088145896656535
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Salaries"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.49240121580547114,
+        0.6129032258064516,
+        0.5088145896656535
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "100,500.00"
+    },
+    {
+      "bbox": [
+        0.19919354838709677,
+        0.5088145896656535,
+        0.3258064516129032,
+        0.5234042553191489
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Fringe Benefits"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.5088145896656535,
+        0.6129032258064516,
+        0.5234042553191489
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "25,125.00"
+    },
+    {
+      "bbox": [
+        0.19919354838709677,
+        0.5234042553191489,
+        0.3258064516129032,
+        0.5367781155015198
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Travel - Domestic"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.5234042553191489,
+        0.6129032258064516,
+        0.5367781155015198
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "2,500.00"
+    },
+    {
+      "bbox": [
+        0.19919354838709677,
+        0.5367781155015198,
+        0.3258064516129032,
+        0.5501519756838906
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Animal Care"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.5367781155015198,
+        0.6129032258064516,
+        0.5501519756838906
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "4,000.00"
+    },
+    {
+      "bbox": [
+        0.19919354838709677,
+        0.5501519756838906,
+        0.3258064516129032,
+        0.5653495440729484
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Supplies"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.5501519756838906,
+        0.6129032258064516,
+        0.5653495440729484
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "55,000.00"
+    },
+    {
+      "bbox": [
+        0.19919354838709677,
+        0.5653495440729484,
+        0.3258064516129032,
+        0.5805471124620061
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Other Expense"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.5653495440729484,
+        0.6129032258064516,
+        0.5805471124620061
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "7,000.00"
+    },
+    {
+      "bbox": [
+        0.19919354838709677,
+        0.5805471124620061,
+        0.3258064516129032,
+        0.5933130699088146
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Equipment"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.5805471124620061,
+        0.6129032258064516,
+        0.5933130699088146
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "27,995.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.29686442589668394,
+        0.46430686118050424,
+        0.3553096097450936,
+        0.4929764113437583
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Budget\nDetail"
+    },
+    {
+      "bbox": [
+        0.5000310173697271,
+        0.4664046331436692,
+        0.5779579291676066,
+        0.4929764113437583
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Approved\nBudget"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1140,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qnvl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.19919354838709677,
+          0.4644376899696049,
+          0.6241935483870967,
+          0.6844984802431611
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.19919354838709677,
+            "right": 0.3258064516129032
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5330645161290323,
+            "right": 0.6129032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.49240121580547114,
+            "row_type": "header",
+            "top": 0.4644376899696049
+          },
+          {
+            "bottom": 0.5088145896656535,
+            "row_type": "data",
+            "top": 0.49240121580547114
+          },
+          {
+            "bottom": 0.5234042553191489,
+            "row_type": "data",
+            "top": 0.5088145896656535
+          },
+          {
+            "bottom": 0.5367781155015198,
+            "row_type": "data",
+            "top": 0.5234042553191489
+          },
+          {
+            "bottom": 0.5501519756838906,
+            "row_type": "data",
+            "top": 0.5367781155015198
+          },
+          {
+            "bottom": 0.5653495440729484,
+            "row_type": "data",
+            "top": 0.5501519756838906
+          },
+          {
+            "bottom": 0.5805471124620061,
+            "row_type": "data",
+            "top": 0.5653495440729484
+          },
+          {
+            "bottom": 0.5933130699088146,
+            "row_type": "data",
+            "top": 0.5805471124620061
+          },
+          {
+            "bottom": 0.6085106382978723,
+            "row_type": "gap",
+            "top": 0.5933130699088146
+          },
+          {
+            "bottom": 0.6395136778115501,
+            "row_type": "footer",
+            "top": 0.6085106382978723
+          },
+          {
+            "bottom": 0.652887537993921,
+            "row_type": "gap",
+            "top": 0.6395136778115501
+          },
+          {
+            "bottom": 0.6844984802431611,
+            "row_type": "footer",
+            "top": 0.652887537993921
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

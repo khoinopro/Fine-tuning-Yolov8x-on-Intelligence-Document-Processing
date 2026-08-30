@@ -1,0 +1,188 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2008322308261022,
+        0.35353191489361696,
+        0.31285020817930653,
+        0.3692109422492401
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "April 15, 1999"
+    },
+    {
+      "bbox": [
+        0.36245816957858285,
+        0.14231732522796353,
+        0.6000963072493093,
+        0.15907675185632594
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "JOHN S. MAJOR, Ph.D."
+    },
+    {
+      "bbox": [
+        0.3617413535084802,
+        0.14333531532355645,
+        0.600394911872298,
+        0.20684255319148934
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "JOHN S. MAJOR, Ph.D.\nBusiness Commumications\n144 West 27th Street, Room 5F\nNew York, NY 10001 USA"
+    },
+    {
+      "bbox": [
+        0.418467158255185,
+        0.22372765957446808,
+        0.5864941242849916,
+        0.23639148936170212
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "steelemajor@earthlink.net"
+    },
+    {
+      "bbox": [
+        0.20163235923576792,
+        0.385493009118541,
+        0.4616740923771353,
+        0.4186601823708207
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. James Botticelli\nThe Philip Morris Companies, Inc."
+    },
+    {
+      "bbox": [
+        0.20243248764543367,
+        0.38566480525906555,
+        0.4608954107083472,
+        0.45001823708206684
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. James Botticelli\nThe Philip Morris Companies, Inc.\n120 Park Avenue\nNew York, NY 10016"
+    },
+    {
+      "bbox": [
+        0.708113642554185,
+        0.5483136778115502,
+        0.7201155686991711,
+        0.5627866261398177
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.707258064516129,
+        0.5495197568389057,
+        0.7729240437371103,
+        0.5633896656534955
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$500.00"
+    },
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.5495197568389057,
+        0.7729240437371103,
+        0.5633896656534955
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2,
+        0.48328267477203646,
+        0.660483870967742,
+        0.5319148936170213
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Preparation of remarks for Mr. Geoffrey C. Bible\nfor delivery at retirement party for Phil Davis, April 21, 1999\nMinimum Fee:"
+    },
+    {
+      "bbox": [
+        0.7064516129032258,
+        0.48328267477203646,
+        0.7758064516129032,
+        0.5319148936170213
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 396,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zjgv0057",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2,
+          0.48328267477203646,
+          0.7758064516129032,
+          0.564741641337386
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2,
+            "right": 0.660483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7064516129032258,
+            "right": 0.7758064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5319148936170213,
+            "row_type": "data",
+            "top": 0.48328267477203646
+          },
+          {
+            "bottom": 0.5477203647416413,
+            "row_type": "gap",
+            "top": 0.5319148936170213
+          },
+          {
+            "bottom": 0.564741641337386,
+            "row_type": "footer",
+            "top": 0.5477203647416413
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

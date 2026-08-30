@@ -1,0 +1,480 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7730358583873037,
+        0.18724240465416936,
+        0.8090468455792589,
+        0.20263219133807367
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "323"
+    },
+    {
+      "bbox": [
+        0.7426265803140971,
+        0.2039146735617324,
+        0.805845868939974,
+        0.2193044602456367
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/19/02"
+    },
+    {
+      "bbox": [
+        0.29769082745349584,
+        0.897256625727214,
+        0.6505985019346563,
+        0.9126464124111183
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "101 east 2nd street, seymour, indiana 47274"
+    },
+    {
+      "bbox": [
+        0.2720830143392166,
+        0.8247963800904977,
+        0.4257298930248919,
+        0.8377504848093084
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Larsen Interactive, Inc."
+    },
+    {
+      "bbox": [
+        0.2736835026588591,
+        0.7876043956043955,
+        0.3561086511204453,
+        0.8004292178409825
+      ],
+      "fieldtype": "vendor_registration_id",
+      "page": 0,
+      "text": "35-2082890"
+    },
+    {
+      "bbox": [
+        0.14644468124728424,
+        0.18082999353587587,
+        0.3817164642347245,
+        0.21289204912734325
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Alex Abraham\nWeber Shandwick - 2Take10"
+    },
+    {
+      "bbox": [
+        0.1480451695669267,
+        0.17990313703313787,
+        0.3838709677419355,
+        0.2712449903038138
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Alex Abraham\nWeber Shandwick- 2Take10\n676 North St. Clair\nSuite 1000\nChicago, IL 60611\nUSA"
+    },
+    {
+      "bbox": [
+        0.7362246270355274,
+        0.8228726567550096,
+        0.7466278011132033,
+        0.8356974789915966
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7442270686337397,
+        0.7850394311570782,
+        0.8138483105381863,
+        0.8004292178409825
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "11,700.00"
+    },
+    {
+      "bbox": [
+        0.7354838709677419,
+        0.8042766645119586,
+        0.8122478222185437,
+        0.8190252100840336
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$11,700.00"
+    },
+    {
+      "bbox": [
+        0.7338709677419355,
+        0.8222314156431804,
+        0.8082466014194376,
+        0.8376212023270847
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$11,700.00"
+    },
+    {
+      "bbox": [
+        0.2736835026588591,
+        0.8062003878474466,
+        0.42092842806596453,
+        0.821590174531351
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Payable upon Receipt"
+    },
+    {
+      "bbox": [
+        0.7442270686337397,
+        0.7858409825468649,
+        0.8106473338989013,
+        0.8005895281189398
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "11,700.00"
+    },
+    {
+      "bbox": [
+        0.7338238945560637,
+        0.8044369747899159,
+        0.8122478222185437,
+        0.8179030381383323
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$11,700.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.40271493212669685,
+        0.4338709677419355,
+        0.4169360051712993
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Website Hosting Jan, Feb and Mar"
+    },
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.40271493212669685,
+        0.8233870967741935,
+        0.4169360051712993
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "600.00"
+    },
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.4298642533936652,
+        0.4338709677419355,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Website Reporting Jan, Feb"
+    },
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.4298642533936652,
+        0.8233870967741935,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "200.00"
+    },
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.45830639948287005,
+        0.4338709677419355,
+        0.47575953458306397
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Development of new All-Star section"
+    },
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.45830639948287005,
+        0.8233870967741935,
+        0.47575953458306397
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4,200.00"
+    },
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.48998060762766643,
+        0.4338709677419355,
+        0.5042016806722689
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Development of new challenge section"
+    },
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.48998060762766643,
+        0.8233870967741935,
+        0.5042016806722689
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "4,000.00"
+    },
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.5171299288946348,
+        0.4338709677419355,
+        0.5345830639948287
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Refer a friend to 2take10 - used in newsletter"
+    },
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.5171299288946348,
+        0.8233870967741935,
+        0.5345830639948287
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "500.00"
+    },
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.5475113122171946,
+        0.4338709677419355,
+        0.5630252100840336
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "HTML newletter development"
+    },
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.5475113122171946,
+        0.8233870967741935,
+        0.5630252100840336
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "1,200.00"
+    },
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.5765998707175177,
+        0.4338709677419355,
+        0.5934065934065934
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Revisions to home page & misc changes"
+    },
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.5765998707175177,
+        0.8233870967741935,
+        0.5934065934065934
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "1,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.14484419292764178,
+        0.3759276018099547,
+        0.42973111382399803,
+        0.3906761473820297
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Professional Fees and Expenses"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 785,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pkgd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1443548387096774,
+          0.3775048480930834,
+          0.8233870967741935,
+          0.8396897220426632
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15403225806451612,
+            "right": 0.4338709677419355
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7596774193548387,
+            "right": 0.8233870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39237233354880413,
+            "row_type": "header",
+            "top": 0.3775048480930834
+          },
+          {
+            "bottom": 0.40271493212669685,
+            "row_type": "gap",
+            "top": 0.39237233354880413
+          },
+          {
+            "bottom": 0.4169360051712993,
+            "row_type": "data",
+            "top": 0.40271493212669685
+          },
+          {
+            "bottom": 0.4298642533936652,
+            "row_type": "gap",
+            "top": 0.4169360051712993
+          },
+          {
+            "bottom": 0.4460245636716225,
+            "row_type": "data",
+            "top": 0.4298642533936652
+          },
+          {
+            "bottom": 0.45830639948287005,
+            "row_type": "gap",
+            "top": 0.4460245636716225
+          },
+          {
+            "bottom": 0.47575953458306397,
+            "row_type": "data",
+            "top": 0.45830639948287005
+          },
+          {
+            "bottom": 0.48998060762766643,
+            "row_type": "gap",
+            "top": 0.47575953458306397
+          },
+          {
+            "bottom": 0.5042016806722689,
+            "row_type": "data",
+            "top": 0.48998060762766643
+          },
+          {
+            "bottom": 0.5171299288946348,
+            "row_type": "gap",
+            "top": 0.5042016806722689
+          },
+          {
+            "bottom": 0.5345830639948287,
+            "row_type": "data",
+            "top": 0.5171299288946348
+          },
+          {
+            "bottom": 0.5475113122171946,
+            "row_type": "gap",
+            "top": 0.5345830639948287
+          },
+          {
+            "bottom": 0.5630252100840336,
+            "row_type": "data",
+            "top": 0.5475113122171946
+          },
+          {
+            "bottom": 0.5765998707175177,
+            "row_type": "gap",
+            "top": 0.5630252100840336
+          },
+          {
+            "bottom": 0.5934065934065934,
+            "row_type": "data",
+            "top": 0.5765998707175177
+          },
+          {
+            "bottom": 0.6056884292178409,
+            "row_type": "gap",
+            "top": 0.5934065934065934
+          },
+          {
+            "bottom": 0.7724628312863607,
+            "row_type": "gap-with-text",
+            "top": 0.6056884292178409
+          },
+          {
+            "bottom": 0.7860374919198448,
+            "row_type": "gap",
+            "top": 0.7724628312863607
+          },
+          {
+            "bottom": 0.8396897220426632,
+            "row_type": "footer",
+            "top": 0.7860374919198448
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

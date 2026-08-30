@@ -1,0 +1,174 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.44614509436487754,
+        0.10491064813442788,
+        0.5027984396810524,
+        0.11617224313190884
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "Q36Q0M"
+    },
+    {
+      "bbox": [
+        0.6491529150811709,
+        0.09542719971549654,
+        0.7475094173661968,
+        0.10550336366061108
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "JUN 28 1999"
+    },
+    {
+      "bbox": [
+        0.21087634089909557,
+        0.10431793260824467,
+        0.2903483947453965,
+        0.11498681207954241
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "495003001"
+    },
+    {
+      "bbox": [
+        0.17546800007648622,
+        0.1363245710221379,
+        0.32496988354972556,
+        0.14640073496725248
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.174681148058206,
+        0.1357318554959547,
+        0.4485056504197182,
+        0.18966896837862668
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\nROGER ROLLAND\nATTN ROGER ROLLAND 626-792-0202\n300 NORTH LAKE DR STE 1100\nPASADENA CA 91101"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08904542006871012,
+        0.24051634766517663,
+        0.2579563199928612,
+        0.2515745705463342
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "03 AUG 99 - TUESDAY"
+    },
+    {
+      "bbox": [
+        0.0862914380047294,
+        0.3241441582039306,
+        0.26805425422745727,
+        0.3352023810850881
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "05 AUG 99 - THURSDAY"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 458,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "spyj0069",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08790322580645162,
+          0.24058323207776428,
+          0.7548387096774194,
+          0.40157958687727824
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.08790322580645162,
+            "right": 0.1596774193548387
+          },
+          {
+            "column_type": "",
+            "left": 0.2709677419354839,
+            "right": 0.30806451612903224
+          },
+          {
+            "column_type": "",
+            "left": 0.3943548387096774,
+            "right": 0.49274193548387096
+          },
+          {
+            "column_type": "",
+            "left": 0.6475806451612903,
+            "right": 0.7112903225806452
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2515188335358445,
+            "row_type": "down-merge",
+            "top": 0.24058323207776428
+          },
+          {
+            "bottom": 0.2618469015795869,
+            "row_type": "data",
+            "top": 0.2515188335358445
+          },
+          {
+            "bottom": 0.3159173754556501,
+            "row_type": "up-merge",
+            "top": 0.2618469015795869
+          },
+          {
+            "bottom": 0.3238153098420413,
+            "row_type": "gap",
+            "top": 0.3159173754556501
+          },
+          {
+            "bottom": 0.3347509113001215,
+            "row_type": "down-merge",
+            "top": 0.3238153098420413
+          },
+          {
+            "bottom": 0.3450789793438639,
+            "row_type": "data",
+            "top": 0.3347509113001215
+          },
+          {
+            "bottom": 0.40157958687727824,
+            "row_type": "up-merge",
+            "top": 0.3450789793438639
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

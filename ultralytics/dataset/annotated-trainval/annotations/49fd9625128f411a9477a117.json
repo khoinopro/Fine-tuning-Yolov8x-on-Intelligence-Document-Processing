@@ -1,0 +1,279 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.14897393635326292,
+        0.9425298802526667,
+        0.19590072630454075,
+        0.9554393262826273
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "A0150"
+    },
+    {
+      "bbox": [
+        0.15791237253445872,
+        0.9431744755537551,
+        0.20334942312220392,
+        0.9560839215837157
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "A0150"
+    },
+    {
+      "bbox": [
+        0.6145174874572097,
+        0.17624200232207077,
+        0.6748519316802811,
+        0.18859016808985918
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/02/99"
+    },
+    {
+      "bbox": [
+        0.22495064389342703,
+        0.9095546648500499,
+        0.31507987538715115,
+        0.9224641108800106
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.22420577421166074,
+        0.9089933845878777,
+        0.45064615746862047,
+        0.9370573976964877
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Philip Morris\n301 HILL CARTER PARKWAY."
+    },
+    {
+      "bbox": [
+        0.2517659524370144,
+        0.27474668833329186,
+        0.4811858144210393,
+        0.29326893698497447
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Holland B.V."
+    },
+    {
+      "bbox": [
+        0.24059290721051965,
+        0.27699180938198065,
+        0.5608868703700349,
+        0.337048797434406
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Holland B.V.\nGroenelaan 5\nNL-1186 AA Amstelveen Netherlands"
+    },
+    {
+      "bbox": [
+        0.319549093477749,
+        0.646033581760202,
+        0.3850976254731847,
+        0.660065588314507
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1300.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06290322580645161,
+        0.478419452887538,
+        0.3362903225806452,
+        0.4930091185410334
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Class A Cigarettes For use outside the U.S."
+    },
+    {
+      "bbox": [
+        0.4064516129032258,
+        0.478419452887538,
+        0.45725806451612905,
+        0.4930091185410334
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20,000"
+    },
+    {
+      "bbox": [
+        0.45725806451612905,
+        0.478419452887538,
+        0.4814516129032258,
+        0.4930091185410334
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "ea."
+    },
+    {
+      "bbox": [
+        0.8298387096774194,
+        0.478419452887538,
+        0.8991935483870968,
+        0.4930091185410334
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1300.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.20856351089456812,
+        0.4497959700982467,
+        0.2540005614823133,
+        0.4632666963903795
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM"
+    },
+    {
+      "bbox": [
+        0.4357487638332941,
+        0.4492346898360745,
+        0.480440944739273,
+        0.4627054161282073
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY."
+    },
+    {
+      "bbox": [
+        0.43500389415152785,
+        0.4492346898360745,
+        0.4789512053757404,
+        0.4632666963903795
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY."
+    },
+    {
+      "bbox": [
+        0.8208463893064788,
+        0.4497959700982467,
+        0.8774564851207187,
+        0.4627054161282073
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "VALUE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 441,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kggn0063",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ],
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06290322580645161,
+          0.4486322188449848,
+          0.8991935483870968,
+          0.7610942249240121
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06290322580645161,
+            "right": 0.3362903225806452
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.4064516129032258,
+            "right": 0.45725806451612905
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.45725806451612905,
+            "right": 0.4814516129032258
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8298387096774194,
+            "right": 0.8991935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.46322188449848023,
+            "row_type": "header",
+            "top": 0.4486322188449848
+          },
+          {
+            "bottom": 0.478419452887538,
+            "row_type": "gap",
+            "top": 0.46322188449848023
+          },
+          {
+            "bottom": 0.4930091185410334,
+            "row_type": "data",
+            "top": 0.478419452887538
+          },
+          {
+            "bottom": 0.5379939209726444,
+            "row_type": "up-merge",
+            "top": 0.4930091185410334
+          },
+          {
+            "bottom": 0.6468085106382979,
+            "row_type": "gap",
+            "top": 0.5379939209726444
+          },
+          {
+            "bottom": 0.7610942249240121,
+            "row_type": "footer",
+            "top": 0.6468085106382979
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

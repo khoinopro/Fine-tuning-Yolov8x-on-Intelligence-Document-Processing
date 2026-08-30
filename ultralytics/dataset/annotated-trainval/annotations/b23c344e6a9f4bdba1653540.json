@@ -1,0 +1,170 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7442243340918218,
+        0.4250498774821579,
+        0.7860594297952082,
+        0.44082321277934733
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3495"
+    },
+    {
+      "bbox": [
+        0.5944987284165439,
+        0.2424112582515432,
+        0.6957836969615848,
+        0.25901476909069
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "May 5, 1999"
+    },
+    {
+      "bbox": [
+        0.3894735240413877,
+        0.09281013536332684,
+        0.5471652465003043,
+        0.1037511675809548
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL"
+    },
+    {
+      "bbox": [
+        0.3784601339013999,
+        0.09106481658422293,
+        0.5586792452830188,
+        0.13129238661153556
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL\n236 East 36th Street\nNew York, New York 10016"
+    },
+    {
+      "bbox": [
+        0.08256926783563111,
+        0.3428624988283813,
+        0.1926616249498059,
+        0.3752393449647175
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc."
+    },
+    {
+      "bbox": [
+        0.08256926783563111,
+        0.34273362883767317,
+        0.26862535135858656,
+        0.40844636664301115
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc.\n714 Green Valley Road\nGreensboro, NC 27408"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08306451612903216,
+        0.5416413373860183,
+        0.2991935483870968,
+        0.5623100303951368
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ULT Product Test (N=234)"
+    },
+    {
+      "bbox": [
+        0.7274193548387097,
+        0.5416413373860183,
+        0.7991935483870968,
+        0.5623100303951368
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$375.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 497,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mngm0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08306451612903216,
+          0.4613981762917933,
+          0.7991935483870968,
+          0.5623100303951368
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08306451612903216,
+            "right": 0.2991935483870968
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7274193548387097,
+            "right": 0.7991935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.47598784194528876,
+            "row_type": "gap-with-text",
+            "top": 0.4613981762917933
+          },
+          {
+            "bottom": 0.4917933130699088,
+            "row_type": "gap",
+            "top": 0.47598784194528876
+          },
+          {
+            "bottom": 0.5094224924012158,
+            "row_type": "subsection-header",
+            "top": 0.4917933130699088
+          },
+          {
+            "bottom": 0.5252279635258359,
+            "row_type": "gap",
+            "top": 0.5094224924012158
+          },
+          {
+            "bottom": 0.5416413373860183,
+            "row_type": "down-merge",
+            "top": 0.5252279635258359
+          },
+          {
+            "bottom": 0.5623100303951368,
+            "row_type": "data",
+            "top": 0.5416413373860183
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

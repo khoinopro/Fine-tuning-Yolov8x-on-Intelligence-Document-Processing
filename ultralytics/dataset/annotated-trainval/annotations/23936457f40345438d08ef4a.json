@@ -1,0 +1,260 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7950993456048612,
+        0.3686596129236489,
+        0.8422618155011571,
+        0.3829787234042553
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4693"
+    },
+    {
+      "bbox": [
+        0.7620856166774541,
+        0.4037082369497346,
+        0.8424864066693154,
+        0.41945472020783114
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/17/99"
+    },
+    {
+      "bbox": [
+        0.8045835449466735,
+        0.38796175369163816,
+        0.8418126570993683,
+        0.4017237565439664
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "556"
+    },
+    {
+      "bbox": [
+        0.24430690397028848,
+        0.9133162062475214,
+        0.7162833758110209,
+        0.9291578747329281
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1313 FIFTH ST. SANTA MONICA, CA 90401"
+    },
+    {
+      "bbox": [
+        0.2215399498555222,
+        0.7991241792485488,
+        0.3309964600226679,
+        0.8133738601823708
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "95-4353754"
+    },
+    {
+      "bbox": [
+        0.1658738675273186,
+        0.36982115206580407,
+        0.20639193788631965,
+        0.38372882291747745
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCl"
+    },
+    {
+      "bbox": [
+        0.1652932141195476,
+        0.369867013399487,
+        0.44422553607764,
+        0.4203013001620886
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 Grandview Avenue\nGreat Neck, New York 11020"
+    },
+    {
+      "bbox": [
+        0.718516485799052,
+        0.7065035170939362,
+        0.734012725907835,
+        0.7232659024977164
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7600659798778792,
+        0.7080345854574607,
+        0.8418570217111634,
+        0.7231153887159697
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "9,002.20"
+    },
+    {
+      "bbox": [
+        0.7600659798778792,
+        0.7073745159372355,
+        0.8387115257936155,
+        0.7225561149024168
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$9,002.20"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16129032258064516,
+        0.6151975683890577,
+        0.45645161290322583,
+        0.6370820668693009
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Motorhomes and honeywagon"
+    },
+    {
+      "bbox": [
+        0.7193548387096774,
+        0.6151975683890577,
+        0.7346774193548387,
+        0.6370820668693009
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7556451612903226,
+        0.6151975683890577,
+        0.8459677419354839,
+        0.6370820668693009
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "7,739.50"
+    },
+    {
+      "bbox": [
+        0.16129032258064516,
+        0.652887537993921,
+        0.45645161290322583,
+        0.6702127659574468
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "State welfare teacher"
+    },
+    {
+      "bbox": [
+        0.7556451612903226,
+        0.652887537993921,
+        0.8459677419354839,
+        0.6702127659574468
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,262.70"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1022,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "plxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10887096774193548,
+          0.5817629179331307,
+          0.8459677419354839,
+          0.7276595744680852
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.16129032258064516,
+            "right": 0.45645161290322583
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.7193548387096774,
+            "right": 0.7346774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7556451612903226,
+            "right": 0.8459677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5993920972644377,
+            "row_type": "subsection-header",
+            "top": 0.5817629179331307
+          },
+          {
+            "bottom": 0.6151975683890577,
+            "row_type": "gap",
+            "top": 0.5993920972644377
+          },
+          {
+            "bottom": 0.6370820668693009,
+            "row_type": "data",
+            "top": 0.6151975683890577
+          },
+          {
+            "bottom": 0.652887537993921,
+            "row_type": "gap",
+            "top": 0.6370820668693009
+          },
+          {
+            "bottom": 0.6702127659574468,
+            "row_type": "data",
+            "top": 0.652887537993921
+          },
+          {
+            "bottom": 0.7048632218844985,
+            "row_type": "gap",
+            "top": 0.6702127659574468
+          },
+          {
+            "bottom": 0.7276595744680852,
+            "row_type": "footer",
+            "top": 0.7048632218844985
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

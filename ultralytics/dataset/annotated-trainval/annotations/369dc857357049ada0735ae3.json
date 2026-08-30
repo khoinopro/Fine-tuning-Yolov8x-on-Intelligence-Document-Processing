@@ -1,0 +1,184 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4576584101382488,
+        0.052552382653105315,
+        0.5104896313364056,
+        0.06581803264320957
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "QLTRJS"
+    },
+    {
+      "bbox": [
+        0.6587989631336405,
+        0.041327601892247864,
+        0.7555501152073733,
+        0.052552382653105315
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "AUG 16 1999"
+    },
+    {
+      "bbox": [
+        0.22214573732718895,
+        0.05306259996041702,
+        0.3004377880184332,
+        0.06479759802858616
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "460001201"
+    },
+    {
+      "bbox": [
+        0.18650057603686634,
+        0.07398150956019679,
+        0.40546370967741935,
+        0.0979617230038468
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DEL 17AUG PM HOLD FOR PUP\nPHILIP MORRIS CO"
+    },
+    {
+      "bbox": [
+        0.18522753456221197,
+        0.07291814968647672,
+        0.46784274193548386,
+        0.14081997681802977
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DEL. 17AUG PM HOLD FOR PUP\nPHILIP MORRIS CO\nELISSA BAYLISS\nATTN ELISSA BAYLISS 917-663-2123\n120 PARK AVE 12TH FLOOR\nNEW YORK NY 10017"
+    },
+    {
+      "bbox": [
+        0.14258064516129032,
+        0.14030975951071809,
+        0.30107430875576036,
+        0.15204475757888722
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "BAYLISS/ELISSA*USA"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09677419354838712,
+        0.19586296056884292,
+        0.17822580645161293,
+        0.2062055591467356
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "25 AUG 99"
+    },
+    {
+      "bbox": [
+        0.3965524193548387,
+        0.20612779215392762,
+        0.5620478110599079,
+        0.26327213057283827
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "COACH CLASS\n730A\n1112A\nSNACK\nEQP-BOEING 757 JET"
+    },
+    {
+      "bbox": [
+        0.09677419354838712,
+        0.27149321266968324,
+        0.17822580645161293,
+        0.28312863606981253
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "28 AUG 99"
+    },
+    {
+      "bbox": [
+        0.3914602534562212,
+        0.28266038825068296,
+        0.5614112903225806,
+        0.33929450936228184
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "COACH CLASS\n740A\n1125A\nSNACK\nEQP-BOEING 757 JET"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 699,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jtbk0030",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09677419354838712,
+          0.19586296056884292,
+          0.7491935483870967,
+          0.34130575307045896
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.09677419354838712,
+            "right": 0.17822580645161293
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2062055591467356,
+            "row_type": "data",
+            "top": 0.19586296056884292
+          },
+          {
+            "bottom": 0.26308985132514545,
+            "row_type": "up-merge",
+            "top": 0.2062055591467356
+          },
+          {
+            "bottom": 0.27149321266968324,
+            "row_type": "gap",
+            "top": 0.26308985132514545
+          },
+          {
+            "bottom": 0.28312863606981253,
+            "row_type": "data",
+            "top": 0.27149321266968324
+          },
+          {
+            "bottom": 0.34130575307045896,
+            "row_type": "up-merge",
+            "top": 0.28312863606981253
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

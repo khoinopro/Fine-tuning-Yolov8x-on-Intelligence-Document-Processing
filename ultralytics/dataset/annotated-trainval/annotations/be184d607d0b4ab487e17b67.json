@@ -1,0 +1,237 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.535483870967742,
+        0.19294605809128632,
+        0.579130207653128,
+        0.20949296629895758
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9902036"
+    },
+    {
+      "bbox": [
+        0.41074180488441947,
+        0.13460176095536888,
+        0.4972965913543163,
+        0.1528185406335391
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.5665404205302338,
+        0.30664912458253213,
+        0.5744090374820425,
+        0.3218297743143407
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.564966697139872,
+        0.3056370812670782,
+        0.6176864307169909,
+        0.3218297743143407
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$6,225.00"
+    },
+    {
+      "bbox": [
+        0.5655550444829398,
+        0.3074972161289572,
+        0.6180833792693392,
+        0.32101357746635023
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$6,225.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13306451612903225,
+        0.2603734439834025,
+        0.3233870967741935,
+        0.2821576763485477
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PM Quanvert System Administration - Pittsburgh"
+    },
+    {
+      "bbox": [
+        0.4161290322580645,
+        0.2603734439834025,
+        0.4403225806451613,
+        0.2821576763485477
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1/99"
+    },
+    {
+      "bbox": [
+        0.4483870967741935,
+        0.2603734439834025,
+        0.49112903225806454,
+        0.2821576763485477
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "B4-04513"
+    },
+    {
+      "bbox": [
+        0.5733870967741935,
+        0.2603734439834025,
+        0.6161290322580645,
+        0.2809922706178745
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$6,225.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2242555831265509,
+        0.24491448233984414,
+        0.30923664620608593,
+        0.2590830887561988
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Project Description"
+    },
+    {
+      "bbox": [
+        0.4070666869787104,
+        0.23022475953985516,
+        0.4359789770346955,
+        0.25915043445640107
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Data\nMonth"
+    },
+    {
+      "bbox": [
+        0.44142941099647387,
+        0.24187835239348243,
+        0.5004440381350398,
+        0.26110717538710654
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Project Code"
+    },
+    {
+      "bbox": [
+        0.5484156605857485,
+        0.24203115746497594,
+        0.617713371672316,
+        0.25678915487137693
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Current Month $"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 675,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "krvx0218",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2223,
+        1729
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13306451612903225,
+          0.22717842323651452,
+          0.8975806451612903,
+          0.32468879668049794
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13306451612903225,
+            "right": 0.3233870967741935
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.4161290322580645,
+            "right": 0.4403225806451613
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.4483870967741935,
+            "right": 0.49112903225806454
+          },
+          {
+            "column_type": "",
+            "left": 0.5032258064516129,
+            "right": 0.5282258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.5733870967741935,
+            "right": 0.6161290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2603734439834025,
+            "row_type": "header",
+            "top": 0.22717842323651452
+          },
+          {
+            "bottom": 0.2821576763485477,
+            "row_type": "data",
+            "top": 0.2603734439834025
+          },
+          {
+            "bottom": 0.3029045643153527,
+            "row_type": "up-merge",
+            "top": 0.2821576763485477
+          },
+          {
+            "bottom": 0.32468879668049794,
+            "row_type": "footer",
+            "top": 0.3029045643153527
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6362903225806451,
+        0.2960924012158055,
+        0.7524193548387097,
+        0.31367781155015195
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99-A07023A"
+    },
+    {
+      "bbox": [
+        0.5584896299466906,
+        0.22794893617021278,
+        0.7041130005058562,
+        0.24423100303951367
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 16, 1999"
+    },
+    {
+      "bbox": [
+        0.2376381376707265,
+        0.13236717325227965,
+        0.4864780730767734,
+        0.16048632218844985
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Rothstein-Tauber, Incorporated\nMarket Research Services"
+    },
+    {
+      "bbox": [
+        0.23843826608039223,
+        0.13277491293947014,
+        0.5375345761259156,
+        0.17457993920972645
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Rothstein-Tauber, Incorporated\nMarket Research Services\n1351 Washington Blvd.\u2022Stamford, CT 06902"
+    },
+    {
+      "bbox": [
+        0.3008482820343204,
+        0.1842285714285714,
+        0.44167088213549166,
+        0.19628936170212766
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "RTi@ix.netcom.com"
+    },
+    {
+      "bbox": [
+        0.09041451029222927,
+        0.38187477203647413,
+        0.32805264796295575,
+        0.39756838905775077
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.08961438188256352,
+        0.38088966970498894,
+        0.3556860682561945,
+        0.4813762917933131
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Company\nPO Box 10529\nGreensboro, NC 27404-0529\nAttention: Mr. Scott Benson"
+    },
+    {
+      "bbox": [
+        0.4344697264484999,
+        0.7537993920972644,
+        0.4480719094128176,
+        0.7688753799392097
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.4346774193548387,
+        0.7525933130699088,
+        0.5328855208373867,
+        0.7688753799392097
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.4346774193548387,
+        0.7537993920972644,
+        0.5320853924277209,
+        0.7694784194528875
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.1344215728238453,
+        0.8569191489361703,
+        0.2064331296937624,
+        0.8719951367781155
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.4346774193548387,
+        0.7179331306990882,
+        0.5330645161290323,
+        0.7355623100303952
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$14,250.00"
+    },
+    {
+      "bbox": [
+        0.5403225806451613,
+        0.7179331306990882,
+        0.6653225806451613,
+        0.7355623100303952
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "(Product Test)"
+    },
+    {
+      "bbox": [
+        0.4346774193548387,
+        0.7355623100303952,
+        0.5330645161290323,
+        0.7501519756838906
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,550.00"
+    },
+    {
+      "bbox": [
+        0.5403225806451613,
+        0.7355623100303952,
+        0.6653225806451613,
+        0.7501519756838906
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(Co-Op Fund)"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 665,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "smkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09193548387096774,
+          0.5167173252279635,
+          0.9137096774193548,
+          0.7732522796352583
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4346774193548387,
+            "right": 0.5330645161290323
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.5403225806451613,
+            "right": 0.6653225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5756838905775076,
+            "row_type": "gap-with-text",
+            "top": 0.5167173252279635
+          },
+          {
+            "bottom": 0.5829787234042553,
+            "row_type": "gap",
+            "top": 0.5756838905775076
+          },
+          {
+            "bottom": 0.6370820668693009,
+            "row_type": "gap-with-text",
+            "top": 0.5829787234042553
+          },
+          {
+            "bottom": 0.7179331306990882,
+            "row_type": "gap",
+            "top": 0.6370820668693009
+          },
+          {
+            "bottom": 0.7355623100303952,
+            "row_type": "data",
+            "top": 0.7179331306990882
+          },
+          {
+            "bottom": 0.7501519756838906,
+            "row_type": "data",
+            "top": 0.7355623100303952
+          },
+          {
+            "bottom": 0.7732522796352583,
+            "row_type": "footer",
+            "top": 0.7501519756838906
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

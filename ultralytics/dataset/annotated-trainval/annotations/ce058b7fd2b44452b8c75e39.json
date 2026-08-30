@@ -1,0 +1,234 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6009443065894678,
+        0.18184438943377307,
+        0.7730844424392812,
+        0.19763705821337313
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 11, 2000"
+    },
+    {
+      "bbox": [
+        0.3591477937489554,
+        0.2608908976752502,
+        0.6495591676416513,
+        0.2739322533136966
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CAHILL GORDON & REINDEL"
+    },
+    {
+      "bbox": [
+        0.4291035422770214,
+        0.13138062858396266,
+        0.764139341051873,
+        0.144494406668129
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "EIGHTZ PINE STREET, NEW YORK 10005-1702"
+    },
+    {
+      "bbox": [
+        0.5908227451471901,
+        0.9014508194152854,
+        0.6797360917451315,
+        0.912136120076458
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-5510029"
+    },
+    {
+      "bbox": [
+        0.1391687164141691,
+        0.18407858866292734,
+        0.3968885616255934,
+        0.20982044934666122
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Small Business Congress\nc/o David H. Remes, Esq."
+    },
+    {
+      "bbox": [
+        0.1391687164141691,
+        0.1835516987596622,
+        0.45487552679816384,
+        0.2598470842603328
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Small Business Congress\nc/o David H. Remes, Esq.\nCovington & Burling\n1201 Pennsylvania Avenue, N.W.\nP.O. Box 7566\nWashington, DC 20044"
+    },
+    {
+      "bbox": [
+        0.6882234038107973,
+        0.49022864245500786,
+        0.6985338667892361,
+        0.504475710003238
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.687364198562594,
+        0.49022864245500786,
+        0.8033569070700318,
+        0.502532928064843
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$126,234.39"
+    },
+    {
+      "bbox": [
+        0.687364198562594,
+        0.49022864245500786,
+        0.8033569070700318,
+        0.502532928064843
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$126,234.39"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.40182370820668695,
+        0.8169354838709677,
+        0.4547112462006079
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$114,434.00"
+    },
+    {
+      "bbox": [
+        0.13919125020892528,
+        0.40150826726830235,
+        0.6486999623934481,
+        0.44101150001566763
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For professional services rendered in connection\nwith the Advertising Restrictions - New York\nmatter for the three-month period ended"
+    },
+    {
+      "bbox": [
+        0.15809376566939662,
+        0.4416590939951326,
+        0.34540050977770353,
+        0.4539633796049677
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "December 31, 1999"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.4662613981762918,
+        0.8169354838709677,
+        0.48024316109422494
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11.800.39"
+    },
+    {
+      "bbox": [
+        0.1374728397125188,
+        0.4656200712353377,
+        0.40726328764833697,
+        0.4792195448041028
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Disbursements and Charges"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 648,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pnpj0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13709677419354838,
+          0.31246200607902735,
+          0.8169354838709677,
+          0.5069908814589665
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6830645161290323,
+            "right": 0.8169354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40182370820668695,
+            "row_type": "gap",
+            "top": 0.31246200607902735
+          },
+          {
+            "bottom": 0.4547112462006079,
+            "row_type": "data",
+            "top": 0.40182370820668695
+          },
+          {
+            "bottom": 0.4662613981762918,
+            "row_type": "gap",
+            "top": 0.4547112462006079
+          },
+          {
+            "bottom": 0.48024316109422494,
+            "row_type": "data",
+            "top": 0.4662613981762918
+          },
+          {
+            "bottom": 0.4899696048632219,
+            "row_type": "gap",
+            "top": 0.48024316109422494
+          },
+          {
+            "bottom": 0.5069908814589665,
+            "row_type": "footer",
+            "top": 0.4899696048632219
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

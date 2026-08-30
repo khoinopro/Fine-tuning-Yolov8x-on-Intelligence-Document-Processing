@@ -1,0 +1,254 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8415664212899235,
+        0.16883790523690773,
+        0.8815648253436272,
+        0.17749625935162094
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42166"
+    },
+    {
+      "bbox": [
+        0.6487741137510723,
+        0.16883790523690773,
+        0.7103716559937757,
+        0.17749625935162094
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "03-31-20"
+    },
+    {
+      "bbox": [
+        0.06399744648592574,
+        0.05875311720698254,
+        0.37358509386159156,
+        0.08782044887780549
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KVRE -FM 92.9\nCADDO BROADCASTING COMPANY"
+    },
+    {
+      "bbox": [
+        0.06399744648592574,
+        0.059371571072319204,
+        0.40878368942885074,
+        0.11874314214463841
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY\nP.O. BOX 8439\nHOT SPRINGS VILLAGE AR 71910"
+    },
+    {
+      "bbox": [
+        0.9063638358569235,
+        0.19976059850374064,
+        0.9375625910188122,
+        0.2078004987531172
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "2083"
+    },
+    {
+      "bbox": [
+        0.11279549943144412,
+        0.16821945137157107,
+        0.3535858918347397,
+        0.17811471321695763
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "BARBARA WEBB FOR STATE SUPREME CT"
+    },
+    {
+      "bbox": [
+        0.11279549943144412,
+        0.16760099750623442,
+        0.35038601951044346,
+        0.20841895261845386
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "BARBARA WEBB FOR STATE SUPREME CT\nP.O. BOX 2740\nBENTON, AR 72018"
+    },
+    {
+      "bbox": [
+        0.6623735711293315,
+        0.19852369077306734,
+        0.901564027370479,
+        0.20841895261845386
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "BARBARA WEBB FOR STATE SUPREME CT"
+    },
+    {
+      "bbox": [
+        0.8303668681548866,
+        0.4220947630922693,
+        0.8439663255331458,
+        0.4375561097256858
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.9007640592894048,
+        0.40848877805486283,
+        0.9743611227482195,
+        0.422713216957606
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "243.00"
+    },
+    {
+      "bbox": [
+        0.9007640592894048,
+        0.42333167082294265,
+        0.9743611227482195,
+        0.43631920199501245
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "243.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.028225806451612902,
+        0.3273067331670823,
+        0.055645161290322584,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "18"
+    },
+    {
+      "bbox": [
+        0.18225806451612903,
+        0.3273067331670823,
+        0.2435483870967742,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "13.50"
+    },
+    {
+      "bbox": [
+        0.8298387096774194,
+        0.3273067331670823,
+        0.8451612903225807,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.9016129032258065,
+        0.3273067331670823,
+        0.978225806451613,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "243.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1093,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "5bb421d9-cca9-4c30-b99c-9186dbe60a14",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.028225806451612902,
+          0.3273067331670823,
+          0.978225806451613,
+          0.4389027431421446
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.028225806451612902,
+            "right": 0.055645161290322584
+          },
+          {
+            "column_type": "",
+            "left": 0.07661290322580645,
+            "right": 0.14919354838709678
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.18225806451612903,
+            "right": 0.2435483870967742
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.8298387096774194,
+            "right": 0.8451612903225807
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9016129032258065,
+            "right": 0.978225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3485037406483791,
+            "row_type": "data",
+            "top": 0.3273067331670823
+          },
+          {
+            "bottom": 0.39214463840399,
+            "row_type": "up-merge",
+            "top": 0.3485037406483791
+          },
+          {
+            "bottom": 0.40586034912718205,
+            "row_type": "gap",
+            "top": 0.39214463840399
+          },
+          {
+            "bottom": 0.4389027431421446,
+            "row_type": "footer",
+            "top": 0.40586034912718205
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

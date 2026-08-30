@@ -1,0 +1,278 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7338709677419355,
+        0.003740648379052369,
+        0.8032258064516129,
+        0.013740205146628286
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "09/24/2018"
+    },
+    {
+      "bbox": [
+        0.8266129032258065,
+        0.11064480986495409,
+        0.8651715531919856,
+        0.12149234024387115
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "55992"
+    },
+    {
+      "bbox": [
+        0.17022834884426094,
+        0.0036158434596390223,
+        0.2319595083152567,
+        0.014463373838556089
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KSSR-FM"
+    },
+    {
+      "bbox": [
+        0.17022834884426094,
+        0.002892674767711218,
+        0.3329741329041588,
+        0.030373085060967787
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KSSR-FM\nAlbuquerque-Santa Fe, NM"
+    },
+    {
+      "bbox": [
+        0.734226669465631,
+        0.12293867762772677,
+        0.8221468056818977,
+        0.13740205146628284
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Regional Reps"
+    },
+    {
+      "bbox": [
+        0.7332913488675856,
+        0.12366184631965457,
+        0.8614302707998039,
+        0.17500682344652868
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Regional Reps\n6505 Rockside Road\nSuite 200\nCleveland, OH 44131"
+    },
+    {
+      "bbox": [
+        0.17116366944230635,
+        0.10992164117302629,
+        0.29462598838429777,
+        0.12221550893579897
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "The New Media Firm"
+    },
+    {
+      "bbox": [
+        0.9418678422317075,
+        0.552645523198971,
+        0.9766129032258064,
+        0.5627698848859602
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "489.30"
+    },
+    {
+      "bbox": [
+        0.5040322580645161,
+        0.016632879914339503,
+        0.557258064516129,
+        0.029925187032418952
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$489.30"
+    },
+    {
+      "bbox": [
+        0.4237002309145616,
+        0.18845776553025725,
+        0.4975905581601474,
+        0.20075163329302995
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Cash Order"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.020967741935483918,
+        0.4096009975062344,
+        0.0330645161290323,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.07903225806451618,
+        0.4096009975062344,
+        0.2556451612903226,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "TWTFSS/M 6:00AM-7:00PM"
+    },
+    {
+      "bbox": [
+        0.2798387096774194,
+        0.4096009975062344,
+        0.3241935483870968,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$13.98"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.020967741935483918,
+        0.39775561097256856,
+        0.03834814451986098,
+        0.4088795740021092
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Ln"
+    },
+    {
+      "bbox": [
+        0.07903225806451618,
+        0.3958625375474088,
+        0.13094488372635457,
+        0.4103259113859648
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Daypart"
+    },
+    {
+      "bbox": [
+        0.2798387096774194,
+        0.3973088749312644,
+        0.3133324003452056,
+        0.4088795740021092
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 302,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "6efbce03-aa90-4bc8-b21c-3ede934755d4",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.020967741935483918,
+          0.39775561097256856,
+          0.9701612903225807,
+          0.456359102244389
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.020967741935483918,
+            "right": 0.0330645161290323
+          },
+          {
+            "column_type": "",
+            "left": 0.05080645161290327,
+            "right": 0.06612903225806456
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.07903225806451618,
+            "right": 0.2556451612903226
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.2798387096774194,
+            "right": 0.3241935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.3443548387096775,
+            "right": 0.3612903225806452
+          },
+          {
+            "column_type": "",
+            "left": 0.38467741935483873,
+            "right": 0.4048387096774194
+          },
+          {
+            "column_type": "",
+            "left": 0.9459677419354838,
+            "right": 0.9701612903225807
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4096009975062344,
+            "row_type": "header",
+            "top": 0.39775561097256856
+          },
+          {
+            "bottom": 0.4233167082294264,
+            "row_type": "data",
+            "top": 0.4096009975062344
+          },
+          {
+            "bottom": 0.4395261845386534,
+            "row_type": "up-merge",
+            "top": 0.4233167082294264
+          },
+          {
+            "bottom": 0.456359102244389,
+            "row_type": "footer",
+            "top": 0.4395261845386534
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

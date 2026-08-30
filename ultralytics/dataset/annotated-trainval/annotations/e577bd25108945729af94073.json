@@ -1,0 +1,465 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2120967741935484,
+        0.30509865457176677,
+        0.24440056534752247,
+        0.3209565764631844
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "014"
+    },
+    {
+      "bbox": [
+        0.21589960472123174,
+        0.21628593113492778,
+        0.24674240539569345,
+        0.23170719700528963
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "014"
+    },
+    {
+      "bbox": [
+        0.1409156412814544,
+        0.28705056514639465,
+        0.2752258618778406,
+        0.30423922174198714
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 17, 2001"
+    },
+    {
+      "bbox": [
+        0.25320779292761336,
+        0.2707213413805818,
+        0.34788548941359054,
+        0.286191132316615
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Harry Huge"
+    },
+    {
+      "bbox": [
+        0.26106227713740776,
+        0.19743771729337437,
+        0.35799679354285874,
+        0.21542919414212988
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 1,
+      "text": "Harry Huge"
+    },
+    {
+      "bbox": [
+        0.7187275143796067,
+        0.5356274346277733,
+        0.7347811982446063,
+        0.5513522767452859
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7203997014677834,
+        0.5349920924557399,
+        0.8217403322553004,
+        0.5512700953188996
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$152,071.02"
+    },
+    {
+      "bbox": [
+        0.7192981728722669,
+        0.534135355462942,
+        0.8217403322553004,
+        0.5521268323116975
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$152,071.02"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.4499685336689742,
+        0.4669354838709677,
+        0.5909376966645689
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Attend arbitration presentation\nand deliberations in San Francisco,\nCalifornia; participate in continued\ndeliberations via telephone conference\ncalls with fellow arbitrators, draft, write\nand review deliberations memoranda and\nopinion, including response to dissenting\nopinion."
+    },
+    {
+      "bbox": [
+        0.482258064516129,
+        0.4499685336689742,
+        0.5403225806451613,
+        0.5909376966645689
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "106.50"
+    },
+    {
+      "bbox": [
+        0.6483870967741936,
+        0.4499685336689742,
+        0.6943548387096774,
+        0.5909376966645689
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$800"
+    },
+    {
+      "bbox": [
+        0.7782258064516129,
+        0.4499685336689742,
+        0.8774193548387097,
+        0.5909376966645689
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$85,200.00"
+    },
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.6016362492133417,
+        0.4669354838709677,
+        0.6601636249213342
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Review of material regarding arbitration,\nincluding presentation and response;\ntelephone conferences with related parties."
+    },
+    {
+      "bbox": [
+        0.482258064516129,
+        0.6016362492133417,
+        0.5403225806451613,
+        0.6601636249213342
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "42.30"
+    },
+    {
+      "bbox": [
+        0.6483870967741936,
+        0.6016362492133417,
+        0.6943548387096774,
+        0.6601636249213342
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$650"
+    },
+    {
+      "bbox": [
+        0.7782258064516129,
+        0.6016362492133417,
+        0.8774193548387097,
+        0.6601636249213342
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$27,495.00"
+    },
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.3456712672521957,
+        0.7048387096774194,
+        0.3682559598494354
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "Telephone, photocopying, fax and Federal Express charges:"
+    },
+    {
+      "bbox": [
+        0.7306451612903225,
+        0.3456712672521957,
+        0.8298387096774194,
+        0.3682559598494354
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "$950.21"
+    },
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.3795483061480552,
+        0.7048387096774194,
+        0.4002509410288582
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "Hotels, meals and miscellaneous travel charges:"
+    },
+    {
+      "bbox": [
+        0.7306451612903225,
+        0.3795483061480552,
+        0.8298387096774194,
+        0.4002509410288582
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "$8,493.31"
+    },
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.41405269761606023,
+        0.7048387096774194,
+        0.4353826850690088
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "Other miscellaneous expenses, including paralegal and associate charges:"
+    },
+    {
+      "bbox": [
+        0.7306451612903225,
+        0.41405269761606023,
+        0.8298387096774194,
+        0.4353826850690088
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "$29,932.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.13871383438643167,
+        0.4047928628262033,
+        0.23779514466245427,
+        0.42198151942179574
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.482258064516129,
+        0.40151038388923854,
+        0.5757725030484425,
+        0.4354940213971051
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Number of\nHours"
+    },
+    {
+      "bbox": [
+        0.6517348409267265,
+        0.40151038388923854,
+        0.7155872408823856,
+        0.4354940213971051
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hourly\nRate"
+    },
+    {
+      "bbox": [
+        0.7618251856778628,
+        0.40049569867730517,
+        0.8135676477108968,
+        0.4340135790387105
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nFee"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 900,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ynyx0226",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1826,
+        2339
+      ],
+      [
+        1820,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13951612903225807,
+          0.40151038388923854,
+          0.8774193548387097,
+          0.7092511013215859
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13951612903225807,
+            "right": 0.4669354838709677
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.482258064516129,
+            "right": 0.5403225806451613
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6483870967741936,
+            "right": 0.6943548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7782258064516129,
+            "right": 0.8774193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4354940213971051,
+            "row_type": "header",
+            "top": 0.40151038388923854
+          },
+          {
+            "bottom": 0.4499685336689742,
+            "row_type": "gap",
+            "top": 0.4354940213971051
+          },
+          {
+            "bottom": 0.5909376966645689,
+            "row_type": "data",
+            "top": 0.4499685336689742
+          },
+          {
+            "bottom": 0.6016362492133417,
+            "row_type": "gap",
+            "top": 0.5909376966645689
+          },
+          {
+            "bottom": 0.6601636249213342,
+            "row_type": "data",
+            "top": 0.6016362492133417
+          },
+          {
+            "bottom": 0.6834487098804279,
+            "row_type": "gap",
+            "top": 0.6601636249213342
+          },
+          {
+            "bottom": 0.7092511013215859,
+            "row_type": "footer",
+            "top": 0.6834487098804279
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.13951612903225807,
+          0.3456712672521957,
+          0.8298387096774194,
+          0.5564617314930991
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13951612903225807,
+            "right": 0.7048387096774194
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7306451612903225,
+            "right": 0.8298387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3682559598494354,
+            "row_type": "data",
+            "top": 0.3456712672521957
+          },
+          {
+            "bottom": 0.3795483061480552,
+            "row_type": "gap",
+            "top": 0.3682559598494354
+          },
+          {
+            "bottom": 0.4002509410288582,
+            "row_type": "data",
+            "top": 0.3795483061480552
+          },
+          {
+            "bottom": 0.41405269761606023,
+            "row_type": "gap",
+            "top": 0.4002509410288582
+          },
+          {
+            "bottom": 0.4353826850690088,
+            "row_type": "data",
+            "top": 0.41405269761606023
+          },
+          {
+            "bottom": 0.4629861982434128,
+            "row_type": "gap",
+            "top": 0.4353826850690088
+          },
+          {
+            "bottom": 0.5564617314930991,
+            "row_type": "footer",
+            "top": 0.4629861982434128
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

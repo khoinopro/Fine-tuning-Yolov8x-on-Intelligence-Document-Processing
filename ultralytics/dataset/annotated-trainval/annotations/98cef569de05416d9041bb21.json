@@ -1,0 +1,636 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8050567502986857,
+        0.1486781368381617,
+        0.8741397849462365,
+        0.1634930401529963
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "X1113086"
+    },
+    {
+      "bbox": [
+        0.768805256869773,
+        0.21746161651417958,
+        0.8454121863799283,
+        0.23174741613919866
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/23/1999"
+    },
+    {
+      "bbox": [
+        0.41655017921146953,
+        0.061905131708416085,
+        0.6422670250896056,
+        0.08677300512974563
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P O BOX 14947\nST LOUIS MO 63150-4947"
+    },
+    {
+      "bbox": [
+        0.20861708482676222,
+        0.1634930401529963,
+        0.4329659498207885,
+        0.17724973608819988
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS, INC--MISC UL"
+    },
+    {
+      "bbox": [
+        0.20998506571087214,
+        0.16402214384281183,
+        0.4336499402628435,
+        0.2328056235188297
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS, INC--MISC UL\n120 PARK AVENUE\nNEW YORK NY 10017-5592\nUS\nATTN:ED VICHICH"
+    },
+    {
+      "bbox": [
+        0.8283124253285544,
+        0.8836031619919218,
+        0.8399402628434885,
+        0.8963016505474943
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8276284348864993,
+        0.8846613693715528,
+        0.9172311827956988,
+        0.8952434431678633
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$106,408.61"
+    },
+    {
+      "bbox": [
+        0.8289964157706093,
+        0.8830740583021063,
+        0.9165471923536439,
+        0.8963016505474943
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$106,408.61"
+    },
+    {
+      "bbox": [
+        0.767437275985663,
+        0.23333472720864523,
+        0.9001314217443249,
+        0.2492078379031109
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET IN 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1338709677419355,
+        0.3437305053025577,
+        0.18467741935483872,
+        0.3568309419837804
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6,300"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.3437305053025577,
+        0.5032258064516129,
+        0.3568309419837804
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Pick Pack"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.3437305053025577,
+        0.7620967741935484,
+        0.3568309419837804
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7.50"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.3437305053025577,
+        0.9282258064516129,
+        0.3568309419837804
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$47,250.00"
+    },
+    {
+      "bbox": [
+        0.1338709677419355,
+        0.3568309419837804,
+        0.18467741935483872,
+        0.3686837180286962
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "105"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.3568309419837804,
+        0.5032258064516129,
+        0.3686837180286962
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Pick Pack Partials"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.3568309419837804,
+        0.7620967741935484,
+        0.3686837180286962
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "7.50"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.3568309419837804,
+        0.9282258064516129,
+        0.3686837180286962
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$787.50"
+    },
+    {
+      "bbox": [
+        0.1338709677419355,
+        0.3686837180286962,
+        0.18467741935483872,
+        0.38053649407361195
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "7,440"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.3686837180286962,
+        0.5032258064516129,
+        0.38053649407361195
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Packaging-Boxes"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.3686837180286962,
+        0.7620967741935484,
+        0.38053649407361195
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": ".67"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.3686837180286962,
+        0.9282258064516129,
+        0.38053649407361195
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$4,984.80"
+    },
+    {
+      "bbox": [
+        0.1338709677419355,
+        0.38053649407361195,
+        0.18467741935483872,
+        0.39238927011852776
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "6,300"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.38053649407361195,
+        0.5032258064516129,
+        0.39238927011852776
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Packaging-Chipboard"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.38053649407361195,
+        0.7620967741935484,
+        0.39238927011852776
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": ".22"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.38053649407361195,
+        0.9282258064516129,
+        0.39238927011852776
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$1,386.00"
+    },
+    {
+      "bbox": [
+        0.1338709677419355,
+        0.39238927011852776,
+        0.18467741935483872,
+        0.404865876481597
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "12"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.39238927011852776,
+        0.5032258064516129,
+        0.404865876481597
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Spec. Proj. Hrs.-Cleaning File"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.39238927011852776,
+        0.7620967741935484,
+        0.404865876481597
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "19.50"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.39238927011852776,
+        0.9282258064516129,
+        0.404865876481597
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$234.00"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.404865876481597,
+        0.5032258064516129,
+        0.41734248284466624
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Shipping Supplies-Labels"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.404865876481597,
+        0.7620967741935484,
+        0.41734248284466624
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "1393.60"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.404865876481597,
+        0.9282258064516129,
+        0.41734248284466624
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$1,393.60"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.42857142857142855,
+        0.5032258064516129,
+        0.4410480349344978
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "UPS Charges"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.42857142857142855,
+        0.7620967741935484,
+        0.4410480349344978
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "50161.21"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.42857142857142855,
+        0.9282258064516129,
+        0.4410480349344978
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$50,161.21"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.4410480349344978,
+        0.5032258064516129,
+        0.45539613225202746
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.4410480349344978,
+        0.7620967741935484,
+        0.45539613225202746
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "211.50"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.4410480349344978,
+        0.9282258064516129,
+        0.45539613225202746
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "$211.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10191457586618875,
+        0.26137722276886793,
+        0.19698924731182796,
+        0.27566302239388696
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.359778972520908,
+        0.26031901538923685,
+        0.48836917562724014,
+        0.2751339187040715
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6477389486260454,
+        0.26031901538923685,
+        0.7537574671445639,
+        0.2761921260837025
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT PRICE"
+    },
+    {
+      "bbox": [
+        0.8096356033452805,
+        0.25985306278498,
+        0.8919235364396655,
+        0.2751339187040715
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 661,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nmgx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1810,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10161290322580645,
+          0.2582657517155334,
+          0.9282258064516129,
+          0.9014348097317529
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.1338709677419355,
+            "right": 0.18467741935483872
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.22096774193548388,
+            "right": 0.5032258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6830645161290323,
+            "right": 0.7620967741935484
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8274193548387097,
+            "right": 0.9282258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.27510917030567683,
+            "row_type": "header",
+            "top": 0.2582657517155334
+          },
+          {
+            "bottom": 0.29320024953212726,
+            "row_type": "gap",
+            "top": 0.27510917030567683
+          },
+          {
+            "bottom": 0.30630068621335,
+            "row_type": "gap-with-text",
+            "top": 0.29320024953212726
+          },
+          {
+            "bottom": 0.3437305053025577,
+            "row_type": "gap",
+            "top": 0.30630068621335
+          },
+          {
+            "bottom": 0.3568309419837804,
+            "row_type": "data",
+            "top": 0.3437305053025577
+          },
+          {
+            "bottom": 0.3686837180286962,
+            "row_type": "data",
+            "top": 0.3568309419837804
+          },
+          {
+            "bottom": 0.38053649407361195,
+            "row_type": "data",
+            "top": 0.3686837180286962
+          },
+          {
+            "bottom": 0.39238927011852776,
+            "row_type": "data",
+            "top": 0.38053649407361195
+          },
+          {
+            "bottom": 0.404865876481597,
+            "row_type": "data",
+            "top": 0.39238927011852776
+          },
+          {
+            "bottom": 0.41734248284466624,
+            "row_type": "data",
+            "top": 0.404865876481597
+          },
+          {
+            "bottom": 0.42857142857142855,
+            "row_type": "gap",
+            "top": 0.41734248284466624
+          },
+          {
+            "bottom": 0.4410480349344978,
+            "row_type": "data",
+            "top": 0.42857142857142855
+          },
+          {
+            "bottom": 0.45539613225202746,
+            "row_type": "data",
+            "top": 0.4410480349344978
+          },
+          {
+            "bottom": 0.8533998752339363,
+            "row_type": "gap-with-text",
+            "top": 0.45539613225202746
+          },
+          {
+            "bottom": 0.8839675608234561,
+            "row_type": "gap",
+            "top": 0.8533998752339363
+          },
+          {
+            "bottom": 0.9014348097317529,
+            "row_type": "footer",
+            "top": 0.8839675608234561
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

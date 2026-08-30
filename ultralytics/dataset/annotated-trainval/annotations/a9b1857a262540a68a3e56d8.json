@@ -1,0 +1,237 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7350979421360653,
+        0.26018202965092363,
+        0.8353848497543512,
+        0.27159697497600194
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "5339-1061968"
+    },
+    {
+      "bbox": [
+        0.551323456602049,
+        0.10548983955589641,
+        0.5981579515303855,
+        0.11729840368528781
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/17/21"
+    },
+    {
+      "bbox": [
+        0.15842280724649718,
+        0.10628756367881438,
+        0.22597847880506355,
+        0.11842420589819458
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WTAR-AM"
+    },
+    {
+      "bbox": [
+        0.06850715989037716,
+        0.025376615549613124,
+        0.2021912705097937,
+        0.04045547406460063
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Skyview Networks"
+    },
+    {
+      "bbox": [
+        0.06850715989037716,
+        0.025376615549613124,
+        0.3301664511383455,
+        0.07024541405762473
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Skyview Networks\n14605 North Airport Drive, Suite 370\nScottsdale, Arizona 85260"
+    },
+    {
+      "bbox": [
+        0.12940241312626796,
+        0.2258151006878617,
+        0.3839255418856553,
+        0.23942285105504554
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Skyview - Youngkin for Govenor - SSN"
+    },
+    {
+      "bbox": [
+        0.436257400135249,
+        0.5866043739367092,
+        0.5361636749753823,
+        0.5987410161560893
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Skyview Networks"
+    },
+    {
+      "bbox": [
+        0.436257400135249,
+        0.5858688198628073,
+        0.8116195470346071,
+        0.5980054620821875
+      ],
+      "fieldtype": "customer_other_address",
+      "page": 0,
+      "text": "Skyview Networks, 14605 N Airport Drive, #370, Scottsdale, AZ 85260"
+    },
+    {
+      "bbox": [
+        0.15994350342259228,
+        0.4788622419344088,
+        0.16927707656661622,
+        0.4900138283904155
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.16885282324188788,
+        0.44639144607721254,
+        0.2091568890910822,
+        0.456359102244389
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$30.00"
+    },
+    {
+      "bbox": [
+        0.160792010072049,
+        0.4798462054452329,
+        0.2002475692717866,
+        0.4900138283904155
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$25.50"
+    },
+    {
+      "bbox": [
+        0.44743096629050405,
+        0.6042867943264011,
+        0.720335562893348,
+        0.6174044526692318
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "within ten (10) days of the broadcast month end"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.23870967741935484,
+        0.3054862842892768,
+        0.2782258064516129,
+        0.3185785536159601
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$30.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2133828177296491,
+        0.2936762748243221,
+        0.2765821873119974,
+        0.3036581160079753
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross Rate"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 525,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "0c9741ef-f67a-44dd-8ce3-497c41a78d19",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.075,
+          0.2886533665835411,
+          0.9032258064516129,
+          0.32418952618453867
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.07903225806451612,
+            "right": 0.12661290322580646
+          },
+          {
+            "column_type": "",
+            "left": 0.13870967741935483,
+            "right": 0.19274193548387097
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.23870967741935484,
+            "right": 0.2782258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.3209677419354839,
+            "right": 0.3604838709677419
+          },
+          {
+            "column_type": "",
+            "left": 0.5290322580645161,
+            "right": 0.5419354838709678
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": true,
+        "rows": [
+          {
+            "bottom": 0.3054862842892768,
+            "row_type": "header",
+            "top": 0.2886533665835411
+          },
+          {
+            "bottom": 0.3185785536159601,
+            "row_type": "data",
+            "top": 0.3054862842892768
+          },
+          {
+            "bottom": 0.32418952618453867,
+            "row_type": "gap",
+            "top": 0.3185785536159601
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

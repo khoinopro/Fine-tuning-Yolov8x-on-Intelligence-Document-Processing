@@ -1,0 +1,270 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7412317649476063,
+        0.2549036402569593,
+        0.8363844942127252,
+        0.2729593147751606
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "045-8686200"
+    },
+    {
+      "bbox": [
+        0.7396325594137387,
+        0.21879229122055674,
+        0.8115968084377783,
+        0.23684796573875805
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "01/31/99"
+    },
+    {
+      "bbox": [
+        0.25827169371960823,
+        0.44183297644539615,
+        0.3374323676460516,
+        0.45882655246252674
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "000000761"
+    },
+    {
+      "bbox": [
+        0.7404321621806725,
+        0.2931391862955032,
+        0.8363844942127252,
+        0.3111948608137045
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "AZTUCS25-01"
+    },
+    {
+      "bbox": [
+        0.36451612903225805,
+        0.0616017130620985,
+        0.45017635778371345,
+        0.08178158458244111
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "TUCSON DIVSION"
+    },
+    {
+      "bbox": [
+        0.361220005273798,
+        0.06265799980666537,
+        0.459734552166652,
+        0.11441895616869326
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "TUCSON DIVISION\n441 East 25th Street\nTucson, AZ 85713"
+    },
+    {
+      "bbox": [
+        0.26626772138894594,
+        0.23684796573875805,
+        0.3302359427436477,
+        0.25596573875802997
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0035022"
+    },
+    {
+      "bbox": [
+        0.2654681186220122,
+        0.2570278372591006,
+        0.4117954249708924,
+        0.29207708779443253
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LEO BURNETT USA\nPHILIP MORRIS **"
+    },
+    {
+      "bbox": [
+        0.26681023116814623,
+        0.25789669485641975,
+        0.4823108024962644,
+        0.3659590423490745
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LEO BURNETT USA\nPHILIP MORRIS **\nATTN: ERIC HANKINS\n35 WEST WACKER DRIVE\nACCTNG DEPT 4TH FLOOR\nCHICAGO IL,60601-0000"
+    },
+    {
+      "bbox": [
+        0.7996027669337716,
+        0.7748008565310492,
+        0.8699678104239437,
+        0.7960428265524625
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,834.89"
+    },
+    {
+      "bbox": [
+        0.7996027669337716,
+        0.7748008565310492,
+        0.8699678104239437,
+        0.7949807280513917
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,834.89"
+    },
+    {
+      "bbox": [
+        0.7404321621806725,
+        0.38315203426124195,
+        0.837184096979659,
+        0.40333190578158457
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2411290322580645,
+        0.569593147751606,
+        0.7258064516129032,
+        0.6081370449678801
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MARKET: 045 TUCSON\nPERMANENT BULLETIN"
+    },
+    {
+      "bbox": [
+        0.7967741935483871,
+        0.569593147751606,
+        0.8766129032258064,
+        0.6081370449678801
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "3,402.00"
+    },
+    {
+      "bbox": [
+        0.2411290322580645,
+        0.6605995717344754,
+        0.7258064516129032,
+        0.6809421841541756
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "COMMISSION"
+    },
+    {
+      "bbox": [
+        0.7967741935483871,
+        0.6605995717344754,
+        0.8766129032258064,
+        0.6809421841541756
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(567.11)"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 355,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zywh0080",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2337,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2411290322580645,
+          0.5139186295503212,
+          0.8766129032258064,
+          0.7955032119914347
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2411290322580645,
+            "right": 0.7258064516129032
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7967741935483871,
+            "right": 0.8766129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5513918629550322,
+            "row_type": "gap-with-text",
+            "top": 0.5139186295503212
+          },
+          {
+            "bottom": 0.569593147751606,
+            "row_type": "gap",
+            "top": 0.5513918629550322
+          },
+          {
+            "bottom": 0.6081370449678801,
+            "row_type": "data",
+            "top": 0.569593147751606
+          },
+          {
+            "bottom": 0.6284796573875803,
+            "row_type": "gap-with-text",
+            "top": 0.6081370449678801
+          },
+          {
+            "bottom": 0.6605995717344754,
+            "row_type": "gap",
+            "top": 0.6284796573875803
+          },
+          {
+            "bottom": 0.6809421841541756,
+            "row_type": "data",
+            "top": 0.6605995717344754
+          },
+          {
+            "bottom": 0.771948608137045,
+            "row_type": "gap-with-text",
+            "top": 0.6809421841541756
+          },
+          {
+            "bottom": 0.7955032119914347,
+            "row_type": "footer",
+            "top": 0.771948608137045
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7662022703818371,
+        0.27974193548387094,
+        0.8517801857585139,
+        0.29419354838709677
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "046-9005000"
+    },
+    {
+      "bbox": [
+        0.7662022703818371,
+        0.24361290322580645,
+        0.8293859649122807,
+        0.2611612903225806
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02/05/99"
+    },
+    {
+      "bbox": [
+        0.7662022703818371,
+        0.31277419354838715,
+        0.852579979360165,
+        0.3313548387096774
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "AZPHOE02-07"
+    },
+    {
+      "bbox": [
+        0.34391124871001033,
+        0.4521290322580645,
+        0.4126934984520124,
+        0.4707096774193548
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "000000993"
+    },
+    {
+      "bbox": [
+        0.436687306501548,
+        0.0975483870967742,
+        0.5158668730650154,
+        0.11406451612903226
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHOENIX DIVISION"
+    },
+    {
+      "bbox": [
+        0.4286893704850362,
+        0.10019052624663294,
+        0.5494582043343653,
+        0.15948387096774194
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PHOENIX DIVISION\n2850 East Camelback Road\nSuite, 300\nPhoenix, AZ 85016"
+    },
+    {
+      "bbox": [
+        0.35030959752321983,
+        0.26141935483870965,
+        0.40389576883384937,
+        0.27999999999999997
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0000489"
+    },
+    {
+      "bbox": [
+        0.34950980392156866,
+        0.27974193548387094,
+        0.4662796697626419,
+        0.2972903225806452
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LEO BURNETT USA"
+    },
+    {
+      "bbox": [
+        0.34871001031991744,
+        0.2808619670192497,
+        0.518266253869969,
+        0.38503225806451613
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LEO BURNETT USA\n35 WEST WACKER DRIVE\nSECTION B\nCHICAGO, IL 60601-0000"
+    },
+    {
+      "bbox": [
+        0.8197884416924665,
+        0.7607741935483872,
+        0.8837719298245614,
+        0.7793548387096775
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "5,416.45"
+    },
+    {
+      "bbox": [
+        0.8181888544891641,
+        0.7607741935483872,
+        0.8845717234262127,
+        0.7793548387096775
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "5,416.45"
+    },
+    {
+      "bbox": [
+        0.7686016511867906,
+        0.3994838709677419,
+        0.8533797729618164,
+        0.41600000000000004
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.32741935483870965,
+        0.6233090530697191,
+        0.7580645161290323,
+        0.6409989594172737
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TARY BULLETIN"
+    },
+    {
+      "bbox": [
+        0.8161290322580645,
+        0.6233090530697191,
+        0.8887096774193548,
+        0.6409989594172737
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "6,500.00"
+    },
+    {
+      "bbox": [
+        0.32741935483870965,
+        0.6919875130072841,
+        0.7580645161290323,
+        0.7107180020811654
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "COMMISSION"
+    },
+    {
+      "bbox": [
+        0.8161290322580645,
+        0.6919875130072841,
+        0.8887096774193548,
+        0.7107180020811654
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(1,083.55)"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 355,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "syyx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2211,
+        1715
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.32741935483870965,
+          0.522372528616025,
+          0.8887096774193548,
+          0.7814776274713839
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.32741935483870965,
+            "right": 0.7580645161290323
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8161290322580645,
+            "right": 0.8887096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6233090530697191,
+            "row_type": "gap-with-text",
+            "top": 0.522372528616025
+          },
+          {
+            "bottom": 0.6409989594172737,
+            "row_type": "data",
+            "top": 0.6233090530697191
+          },
+          {
+            "bottom": 0.6795005202913632,
+            "row_type": "gap-with-text",
+            "top": 0.6409989594172737
+          },
+          {
+            "bottom": 0.6919875130072841,
+            "row_type": "gap",
+            "top": 0.6795005202913632
+          },
+          {
+            "bottom": 0.7107180020811654,
+            "row_type": "data",
+            "top": 0.6919875130072841
+          },
+          {
+            "bottom": 0.7596253902185224,
+            "row_type": "gap-with-text",
+            "top": 0.7107180020811654
+          },
+          {
+            "bottom": 0.7814776274713839,
+            "row_type": "footer",
+            "top": 0.7596253902185224
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

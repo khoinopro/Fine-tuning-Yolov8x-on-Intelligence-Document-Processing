@@ -1,0 +1,225 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7644290654518423,
+        0.046493434481961145,
+        0.8419354838709677,
+        0.059850374064837904
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "03/27/19"
+    },
+    {
+      "bbox": [
+        0.8564042470321052,
+        0.8961888819768873,
+        0.924796048719993,
+        0.9107750580461481
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "03/27/19"
+    },
+    {
+      "bbox": [
+        0.8579489620490581,
+        0.8611053229460043,
+        0.9226263814038969,
+        0.8730868247171828
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "03/27/19"
+    },
+    {
+      "bbox": [
+        0.2694400972776946,
+        0.15958694874783186,
+        0.3967903486965201,
+        0.17581047381546136
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Sarah Evenson"
+    },
+    {
+      "bbox": [
+        0.2258108444768006,
+        0.1609544027543251,
+        0.4415987704920328,
+        0.22340146905084793
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Sarah Evenson\n403 West Pine St.\nStaurgeon Bay, Wl. 54235"
+    },
+    {
+      "bbox": [
+        0.7236822192515446,
+        0.7695221114550143,
+        0.7354739091977321,
+        0.7845641055264394
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7236822192515446,
+        0.7699779294571786,
+        0.782051084485173,
+        0.7855361596009975
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$72.00"
+    },
+    {
+      "bbox": [
+        0.7230926347542352,
+        0.7699779294571786,
+        0.782051084485173,
+        0.7845641055264394
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$72.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.6733870967741935,
+        0.4401496259351621,
+        0.7330645161290322,
+        0.45947630922693267
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$12.00"
+    },
+    {
+      "bbox": [
+        0.6733870967741935,
+        0.45947630922693267,
+        0.7330645161290322,
+        0.4825436408977556
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$12.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.682727929624065,
+        0.4155709752137704,
+        0.7251909161913757,
+        0.43266832917705733
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 915,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "7f4072a7-914e-4682-957c-63277f2cc3fb",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07258064516129033,
+          0.4114713216957606,
+          0.925,
+          0.7899002493765586
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.09516129032258064,
+            "right": 0.10887096774193548
+          },
+          {
+            "column_type": "",
+            "left": 0.15403225806451612,
+            "right": 0.16532258064516128
+          },
+          {
+            "column_type": "",
+            "left": 0.2120967741935484,
+            "right": 0.22338709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.32661290322580644,
+            "right": 0.3387096774193548
+          },
+          {
+            "column_type": "",
+            "left": 0.38467741935483873,
+            "right": 0.39838709677419354
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6733870967741935,
+            "right": 0.7330645161290322
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.43266832917705733,
+            "row_type": "header",
+            "top": 0.4114713216957606
+          },
+          {
+            "bottom": 0.4401496259351621,
+            "row_type": "gap",
+            "top": 0.43266832917705733
+          },
+          {
+            "bottom": 0.45947630922693267,
+            "row_type": "data",
+            "top": 0.4401496259351621
+          },
+          {
+            "bottom": 0.4825436408977556,
+            "row_type": "data",
+            "top": 0.45947630922693267
+          },
+          {
+            "bottom": 0.7687032418952618,
+            "row_type": "gap",
+            "top": 0.4825436408977556
+          },
+          {
+            "bottom": 0.7899002493765586,
+            "row_type": "footer",
+            "top": 0.7687032418952618
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

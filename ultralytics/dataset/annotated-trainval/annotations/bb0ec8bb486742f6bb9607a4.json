@@ -1,0 +1,234 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.23497202713962623,
+        0.4834649711860056,
+        0.29555075288656113,
+        0.49961122499469857
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "pm0003"
+    },
+    {
+      "bbox": [
+        0.3793819188191882,
+        0.26987309937386766,
+        0.5078822461611713,
+        0.28555803164516935
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 3, 2001"
+    },
+    {
+      "bbox": [
+        0.23497202713962623,
+        0.406885595979062,
+        0.34389135221997386,
+        0.4207252421007988
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Allison Minton"
+    },
+    {
+      "bbox": [
+        0.33287703844780386,
+        0.8843533871789817,
+        0.5574466581359362,
+        0.9231043963198448
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1250 Capital of Texas Highway South\nBuilding 1, Suite 100\nAustin, Texas 78746"
+    },
+    {
+      "bbox": [
+        0.23436012081895014,
+        0.3312288638469008,
+        0.3793819188191882,
+        0.36259872838950424
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris USA"
+    },
+    {
+      "bbox": [
+        0.2352344529431327,
+        0.33101177135871673,
+        0.3925133022946458,
+        0.39030515719400083
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris USA\n4201 Commerce Road\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.6522921378407333,
+        0.769023002831175,
+        0.6614707326508749,
+        0.7824013274155205
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6508064516129032,
+        0.7694843243685663,
+        0.7336756784906558,
+        0.78419452887538
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$62,471.25"
+    },
+    {
+      "bbox": [
+        0.6508064516129032,
+        0.769023002831175,
+        0.7324518658493037,
+        0.78419452887538
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$62,471.25"
+    },
+    {
+      "bbox": [
+        0.2353950336198825,
+        0.5131947092000385,
+        0.2857602517557434,
+        0.5272905172381721
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.65,
+        0.721580547112462,
+        0.7387096774193549,
+        0.737386018237082
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$62,471.25"
+    },
+    {
+      "bbox": [
+        0.1286359477402332,
+        0.7070853463587996,
+        0.2747733849689335,
+        0.7222536630851663
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2nd Quarter Payment"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.65,
+        0.6767487129060663,
+        0.7289370371946549,
+        0.6917933130699088
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    },
+    {
+      "bbox": [
+        0.13126117116350328,
+        0.6774082049376474,
+        0.24502085283853942,
+        0.6899385535376895
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 692,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "shdl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12903225806451613,
+          0.6772036474164134,
+          0.7387096774193549,
+          0.7854103343465045
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.65,
+            "right": 0.7387096774193549
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6917933130699088,
+            "row_type": "header",
+            "top": 0.6772036474164134
+          },
+          {
+            "bottom": 0.7051671732522796,
+            "row_type": "gap",
+            "top": 0.6917933130699088
+          },
+          {
+            "bottom": 0.721580547112462,
+            "row_type": "down-merge",
+            "top": 0.7051671732522796
+          },
+          {
+            "bottom": 0.737386018237082,
+            "row_type": "data",
+            "top": 0.721580547112462
+          },
+          {
+            "bottom": 0.7677811550151976,
+            "row_type": "gap",
+            "top": 0.737386018237082
+          },
+          {
+            "bottom": 0.7854103343465045,
+            "row_type": "footer",
+            "top": 0.7677811550151976
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

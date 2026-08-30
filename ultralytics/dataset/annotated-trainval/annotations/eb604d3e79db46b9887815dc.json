@@ -1,0 +1,211 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6595322751563484,
+        0.2880082555885619,
+        0.7540322580645161,
+        0.3100303951367781
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2-13-00"
+    },
+    {
+      "bbox": [
+        0.41421267712028176,
+        0.1386018237082067,
+        0.5717833420126783,
+        0.15683890577507598
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 17, 2000"
+    },
+    {
+      "bbox": [
+        0.16338628428469423,
+        0.8823463180479862,
+        0.228242915109067,
+        0.897902319653767
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Le Cirque"
+    },
+    {
+      "bbox": [
+        0.05260591989606086,
+        0.8826980569565778,
+        0.337975095523301,
+        0.9107915781271282
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Le Cirque\n455 Madison Avenue New York, NY 10022"
+    },
+    {
+      "bbox": [
+        0.6995999701715285,
+        0.883630317538787,
+        0.8145730884510984,
+        0.8982974047670945
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Osteria Del Circo"
+    },
+    {
+      "bbox": [
+        0.616465561569378,
+        0.8857916249132013,
+        0.900065919992317,
+        0.912075577617929
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Osteria Del Circo\n120 Wert 65th Street New York, NY 10019"
+    },
+    {
+      "bbox": [
+        0.15530645161290324,
+        0.19829385788839823,
+        0.27908004479083537,
+        0.2151666717695562
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.15585244622452712,
+        0.19798834922390532,
+        0.42648147848259166,
+        0.27161273473910374
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris\nAttn: Ellen Merlo/Linda Mays\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.49797578525819763,
+        0.42899290913087496,
+        0.5134720253669806,
+        0.4457552945346551
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5,
+        0.4274690559123495,
+        0.6044282173098366,
+        0.4477870988260224
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,000.00"
+    },
+    {
+      "bbox": [
+        0.4975806451612903,
+        0.42899290913087496,
+        0.6037544677398896,
+        0.4482950498988642
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,000.00"
+    },
+    {
+      "bbox": [
+        0.4585589121498784,
+        0.8051588942850512,
+        0.6529381863460267,
+        0.8215149188305578
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "within 10 days after event"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1532258064516129,
+        0.4297872340425532,
+        0.3040322580645161,
+        0.451063829787234
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Balance Due:"
+    },
+    {
+      "bbox": [
+        0.4967741935483871,
+        0.4297872340425532,
+        0.6096774193548387,
+        0.451063829787234
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$5,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 614,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "prlv0056",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1532258064516129,
+          0.4297872340425532,
+          0.6096774193548387,
+          0.451063829787234
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1532258064516129,
+            "right": 0.3040322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4967741935483871,
+            "right": 0.6096774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.451063829787234,
+            "row_type": "data",
+            "top": 0.4297872340425532
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

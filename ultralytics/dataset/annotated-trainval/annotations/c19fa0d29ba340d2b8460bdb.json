@@ -1,0 +1,294 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.18193884408602148,
+        0.16502528613255257,
+        0.2694883630447085,
+        0.17982821877567193
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "01281692"
+    },
+    {
+      "bbox": [
+        0.37991033531409163,
+        0.058684696650416465,
+        0.5957471172891907,
+        0.07511117674471662
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Ramada Inn - Lake Shore"
+    },
+    {
+      "bbox": [
+        0.3625097269383135,
+        0.059436338988926085,
+        0.610794690860215,
+        0.10636181232463522
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Ramada Inn - Lake Shore\n4900 South Lake Shore Drive\nChicago, Illinois 60615"
+    },
+    {
+      "bbox": [
+        0.18313614176570459,
+        0.1806028525268889,
+        0.33857040534804755,
+        0.19353463788967132
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "TRISH JOHNSON"
+    },
+    {
+      "bbox": [
+        0.18262282470288627,
+        0.17982821877567193,
+        0.39944468024900964,
+        0.22588178699870984
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "TRISH JOHNSON\n1424 SO WENTWORTH\nCALUMET CITY IL 60409"
+    },
+    {
+      "bbox": [
+        0.8905427631578948,
+        0.3004447069788665,
+        0.9281616970854556,
+        0.31305461256374595
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.043548387096774194,
+        0.2676147382029735,
+        0.11774193548387096,
+        0.28312863606981253
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/13/02"
+    },
+    {
+      "bbox": [
+        0.37338709677419357,
+        0.2676147382029735,
+        0.5370967741935484,
+        0.28312863606981253
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "LONG DISTANCE"
+    },
+    {
+      "bbox": [
+        0.6774193548387096,
+        0.2676147382029735,
+        0.7540322580645161,
+        0.28312863606981253
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6803848"
+    },
+    {
+      "bbox": [
+        0.8814516129032258,
+        0.2676147382029735,
+        0.9330645161290323,
+        0.28312863606981253
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0.75"
+    },
+    {
+      "bbox": [
+        0.043548387096774194,
+        0.28312863606981253,
+        0.11774193548387096,
+        0.2986425339366516
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "10/14/02"
+    },
+    {
+      "bbox": [
+        0.37338709677419357,
+        0.28312863606981253,
+        0.5370967741935484,
+        0.2986425339366516
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "MISCELLANEOUS"
+    },
+    {
+      "bbox": [
+        0.8814516129032258,
+        0.28312863606981253,
+        0.9330645161290323,
+        0.2986425339366516
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "-0.75"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04560032894736842,
+        0.23849169258358927,
+        0.08754951895868703,
+        0.2573702952716391
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.37407107739105827,
+        0.23823171276297533,
+        0.4213320599886814,
+        0.2538428819912686
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Desc"
+    },
+    {
+      "bbox": [
+        0.6785087719298246,
+        0.23849169258358927,
+        0.7694781939728353,
+        0.2543911387558286
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Reference"
+    },
+    {
+      "bbox": [
+        0.8445166595925298,
+        0.2398764830566553,
+        0.9117461622807017,
+        0.2543911387558286
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 120,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pxkd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.043548387096774194,
+          0.2365869424692954,
+          0.9330645161290323,
+          0.39107950872656755
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.043548387096774194,
+            "right": 0.11774193548387096
+          },
+          {
+            "column_type": "",
+            "left": 0.17903225806451614,
+            "right": 0.21693548387096775
+          },
+          {
+            "column_type": "",
+            "left": 0.2629032258064516,
+            "right": 0.34919354838709676
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.37338709677419357,
+            "right": 0.5370967741935484
+          },
+          {
+            "column_type": "line_item_order_id",
+            "left": 0.6774193548387096,
+            "right": 0.7540322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8814516129032258,
+            "right": 0.9330645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2579185520361991,
+            "row_type": "header",
+            "top": 0.2365869424692954
+          },
+          {
+            "bottom": 0.2676147382029735,
+            "row_type": "gap",
+            "top": 0.2579185520361991
+          },
+          {
+            "bottom": 0.28312863606981253,
+            "row_type": "data",
+            "top": 0.2676147382029735
+          },
+          {
+            "bottom": 0.2986425339366516,
+            "row_type": "data",
+            "top": 0.28312863606981253
+          },
+          {
+            "bottom": 0.39107950872656755,
+            "row_type": "footer",
+            "top": 0.2986425339366516
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5722566371681416,
+        0.05754693002121954,
+        0.634473308592635,
+        0.07702435248994
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WGLR-FM"
+    },
+    {
+      "bbox": [
+        0.7916899800171281,
+        0.05902344430513868,
+        0.9469240650870683,
+        0.07790968987488184
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "ADVANTAGE Media Services"
+    },
+    {
+      "bbox": [
+        0.7917242363688267,
+        0.059317604791103214,
+        0.9742720525264059,
+        0.12129122173703195
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "ADVANTAGE Media Services\nN16W23250 StoneRidge Dr Suite 4\nWaukesha, WI 53188"
+    },
+    {
+      "bbox": [
+        0.25501998287182415,
+        0.4727701635589421,
+        0.26459177847559234,
+        0.49047691125777887
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.2555224093634028,
+        0.47326995079237705,
+        0.3015115615186983,
+        0.4913622486427207
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$387.39"
+    },
+    {
+      "bbox": [
+        0.2568898087353697,
+        0.4741552881773188,
+        0.3015115615186983,
+        0.4922475860276625
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$387.39"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.028225806451612902,
+        0.29958246346555323,
+        0.037096774193548385,
+        0.33716075156576203
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.2629032258064516,
+        0.29958246346555323,
+        0.2991935483870968,
+        0.33716075156576203
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$18.23"
+    },
+    {
+      "bbox": [
+        0.8491935483870968,
+        0.29958246346555323,
+        0.8661290322580645,
+        0.33716075156576203
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "25"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.018459891521552956,
+        0.2576331790180752,
+        0.04717527833285755,
+        0.29747336134045793
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\nNo"
+    },
+    {
+      "bbox": [
+        0.26563802455038543,
+        0.25839713950346854,
+        0.30192834713103056,
+        0.275339926716912
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross"
+    },
+    {
+      "bbox": [
+        0.8388995147016843,
+        0.25851851640301704,
+        0.87376819868684,
+        0.29958246346555323
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "e287dc98-a6d5-441d-82fd-90b70fe0f12c",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016935483870967744,
+          0.255741127348643,
+          0.9846774193548387,
+          0.49373695198329853
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.028225806451612902,
+            "right": 0.037096774193548385
+          },
+          {
+            "column_type": "",
+            "left": 0.04758064516129032,
+            "right": 0.1774193548387097
+          },
+          {
+            "column_type": "",
+            "left": 0.1967741935483871,
+            "right": 0.21693548387096775
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.2629032258064516,
+            "right": 0.2991935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.31048387096774194,
+            "right": 0.3217741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.33306451612903226,
+            "right": 0.34919354838709676
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8491935483870968,
+            "right": 0.8661290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.29958246346555323,
+            "row_type": "header",
+            "top": 0.255741127348643
+          },
+          {
+            "bottom": 0.33716075156576203,
+            "row_type": "data",
+            "top": 0.29958246346555323
+          },
+          {
+            "bottom": 0.36116910229645094,
+            "row_type": "gap-with-text",
+            "top": 0.33716075156576203
+          },
+          {
+            "bottom": 0.49373695198329853,
+            "row_type": "footer",
+            "top": 0.36116910229645094
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

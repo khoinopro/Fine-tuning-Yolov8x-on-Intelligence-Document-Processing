@@ -1,0 +1,263 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.704913128915522,
+        0.08020425531914895,
+        0.7985281528464142,
+        0.0940741641337386
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "P0242601"
+    },
+    {
+      "bbox": [
+        0.7097138993735165,
+        0.06331914893617022,
+        0.786526226701428,
+        0.07718905775075988
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/16/99"
+    },
+    {
+      "bbox": [
+        0.7092781591603236,
+        0.11881251112258416,
+        0.759190327796542,
+        0.13267397104731496
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "9754"
+    },
+    {
+      "bbox": [
+        0.2640423751896961,
+        0.07658601823708207,
+        0.4064652321101988,
+        0.0940741641337386
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The CPS Group"
+    },
+    {
+      "bbox": [
+        0.2624421183703646,
+        0.07598297872340426,
+        0.4696753764737927,
+        0.13146261398176293
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The CPS Group\n40 West 23rd Street\nNew York, NY 10010"
+    },
+    {
+      "bbox": [
+        0.708113642554185,
+        0.09848024316109423,
+        0.8225320051363866,
+        0.11337142857142858
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "100070 024"
+    },
+    {
+      "bbox": [
+        0.1629032258064516,
+        0.25991003039513677,
+        0.34245495933693915,
+        0.2735562310030395
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co. Inc."
+    },
+    {
+      "bbox": [
+        0.8145307210397292,
+        0.4242382978723404,
+        0.8281329040040468,
+        0.43629908814589663
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8161290322580645,
+        0.4242382978723404,
+        0.8801412506323202,
+        0.4376899696048632
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$48.00"
+    },
+    {
+      "bbox": [
+        0.8161290322580645,
+        0.4242382978723404,
+        0.8809413790419861,
+        0.4376899696048632
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$48.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13225806451612904,
+        0.3702127659574468,
+        0.3088709677419355,
+        0.3884498480243161
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "KC - 10 Tape Stock 3/4\""
+    },
+    {
+      "bbox": [
+        0.7516129032258064,
+        0.3702127659574468,
+        0.7677419354838709,
+        0.3884498480243161
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.8330645161290322,
+        0.3702127659574468,
+        0.8798387096774194,
+        0.3884498480243161
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "48.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.13202118759484804,
+        0.33589300911854103,
+        0.27364391610568506,
+        0.35096899696048633
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ltem Description"
+    },
+    {
+      "bbox": [
+        0.720915697108837,
+        0.3346869300911854,
+        0.7985281528464142,
+        0.3497629179331307
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.8281329040040468,
+        0.3346869300911854,
+        0.8769407369936573,
+        0.34735075987841946
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 505,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gpmn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03225806451612903,
+          0.3276595744680851,
+          0.9532258064516129,
+          0.4389057750759878
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13225806451612904,
+            "right": 0.3088709677419355
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7516129032258064,
+            "right": 0.7677419354838709
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8330645161290322,
+            "right": 0.8798387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3507598784194529,
+            "row_type": "header",
+            "top": 0.3276595744680851
+          },
+          {
+            "bottom": 0.3702127659574468,
+            "row_type": "gap",
+            "top": 0.3507598784194529
+          },
+          {
+            "bottom": 0.3884498480243161,
+            "row_type": "data",
+            "top": 0.3702127659574468
+          },
+          {
+            "bottom": 0.4085106382978723,
+            "row_type": "gap",
+            "top": 0.3884498480243161
+          },
+          {
+            "bottom": 0.4389057750759878,
+            "row_type": "footer",
+            "top": 0.4085106382978723
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

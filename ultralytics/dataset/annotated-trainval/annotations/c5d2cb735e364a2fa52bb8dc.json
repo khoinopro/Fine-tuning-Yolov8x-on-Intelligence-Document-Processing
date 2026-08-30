@@ -1,0 +1,696 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8187346693274693,
+        0.3234340623924195,
+        0.9089268337051974,
+        0.3353153137564745
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "00060928"
+    },
+    {
+      "bbox": [
+        0.816983365164795,
+        0.35181705176210637,
+        0.9194346586812434,
+        0.363038233605936
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/23/2000"
+    },
+    {
+      "bbox": [
+        0.04290692526274033,
+        0.3260743404733206,
+        0.1443548387096774,
+        0.336635452796925
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "021376-00"
+    },
+    {
+      "bbox": [
+        0.3984216702856297,
+        0.35247712128233166,
+        0.5420286116249249,
+        0.3643583726463866
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "PDI-C3/PDI-C5"
+    },
+    {
+      "bbox": [
+        0.03940431693739166,
+        0.15841668233610068,
+        0.25481472894633445,
+        0.17359828130128202
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PROCESS DISPLAYS, INC"
+    },
+    {
+      "bbox": [
+        0.04027996901872883,
+        0.15777196578779953,
+        0.25218777270232295,
+        0.1980208535496172
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PROCESS DISPLAYS, INC\n16333 W Rogers Dr \u00b7 PO Box 510287\nNew Berlin, WI 53151-0287"
+    },
+    {
+      "bbox": [
+        0.33274776418534224,
+        0.35181705176210637,
+        0.38616254114690934,
+        0.3650184421666119
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "30800"
+    },
+    {
+      "bbox": [
+        0.14010430629116574,
+        0.22574377339907878,
+        0.3905408015535952,
+        0.2376250247631337
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS INC. USA"
+    },
+    {
+      "bbox": [
+        0.14185561045384007,
+        0.22376808219576796,
+        0.38841037578982374,
+        0.26666808365304584
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS INC. USA\n120 PARK AVENUE\nNEW YORK, NY 10017"
+    },
+    {
+      "bbox": [
+        0.5402773074622506,
+        0.2224434257979524,
+        0.7411290322580645,
+        0.2356448162024579
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "PHILIP MORRIS INC."
+    },
+    {
+      "bbox": [
+        0.5411529595435878,
+        0.22273689287689347,
+        0.7515193714665779,
+        0.26468787509237
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "PHILIP MORRIS INC.\n120 PARK AVENUE\nNEW YORK, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7977190193753774,
+        0.8586037995085409,
+        0.8099781485140977,
+        0.8718051899130465
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.865144229638339,
+        0.8308808796590793,
+        0.9001703128918258,
+        0.842102061502909
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": ".00"
+    },
+    {
+      "bbox": [
+        0.7977190193753774,
+        0.8586037995085409,
+        0.8992946608104886,
+        0.8718051899130465
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$6,914.00"
+    },
+    {
+      "bbox": [
+        0.7977190193753774,
+        0.8599239385489915,
+        0.8984190087291515,
+        0.8711451203928212
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$6,914.00"
+    },
+    {
+      "bbox": [
+        0.3546390662187714,
+        0.8598505751092741,
+        0.48073296593132325,
+        0.871731826473329
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    },
+    {
+      "bbox": [
+        0.8677711858823506,
+        0.8307341930670908,
+        0.8984190087291515,
+        0.8419553749109207
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": ".00"
+    },
+    {
+      "bbox": [
+        0.7977190193753774,
+        0.8584571129165525,
+        0.8984190087291515,
+        0.8716585033210579
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$6,914.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.6306451612903226,
+        0.4796352583586626,
+        0.7298387096774194,
+        0.4911854103343465
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1040.00"
+    },
+    {
+      "bbox": [
+        0.09620879519346164,
+        0.4790793996147299,
+        0.18897061182422176,
+        0.49162778426319803
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "GRAPHICS"
+    },
+    {
+      "bbox": [
+        0.19551150915074972,
+        0.47863124302014176,
+        0.21097181192254308,
+        0.4902833144794336
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.21810733627875536,
+        0.47863124302014176,
+        0.2567580932082387,
+        0.4920759408577862
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SET"
+    },
+    {
+      "bbox": [
+        0.6306451612903226,
+        0.4911854103343465,
+        0.7298387096774194,
+        0.505775075987842
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1760.00"
+    },
+    {
+      "bbox": [
+        0.09561416816377727,
+        0.49386856723613876,
+        0.21097181192254308,
+        0.5050724821008424
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "MODEL SHOP"
+    },
+    {
+      "bbox": [
+        0.2971927312267752,
+        0.4934204106415506,
+        0.32038318538446525,
+        0.5055206386954306
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "16"
+    },
+    {
+      "bbox": [
+        0.32751870974067754,
+        0.4925240974523743,
+        0.367953347759214,
+        0.5046243255062544
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "HRS"
+    },
+    {
+      "bbox": [
+        0.6306451612903226,
+        0.505775075987842,
+        0.7298387096774194,
+        0.5209726443768997
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "3280.00"
+    },
+    {
+      "bbox": [
+        0.09620879519346164,
+        0.5077614216683713,
+        0.28530019063308804,
+        0.5198616497222514
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "ENGINEERING (CAD)"
+    },
+    {
+      "bbox": [
+        0.2971927312267752,
+        0.5082095782629595,
+        0.3459521476608927,
+        0.5189653365330751
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "20.5"
+    },
+    {
+      "bbox": [
+        0.35308767201710506,
+        0.5059687952900188,
+        0.3905491748872197,
+        0.5185171799384869
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "HRS"
+    },
+    {
+      "bbox": [
+        0.6306451612903226,
+        0.548936170212766,
+        0.7298387096774194,
+        0.5610942249240122
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "834.00"
+    },
+    {
+      "bbox": [
+        0.09561416816377727,
+        0.5498881415596573,
+        0.3465467746905771,
+        0.5615402130189491
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "PRESENTATION & FREIGHT"
+    },
+    {
+      "bbox": [
+        0.6306451612903226,
+        0.574468085106383,
+        0.7298387096774194,
+        0.6042553191489362
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "6,914.00"
+    },
+    {
+      "bbox": [
+        0.807258064516129,
+        0.574468085106383,
+        0.8951612903225806,
+        0.6042553191489362
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "6,914.00"
+    },
+    {
+      "bbox": [
+        0.09561416816377727,
+        0.5619883696135373,
+        0.15507687113221327,
+        0.5776738504241224
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "21376"
+    },
+    {
+      "bbox": [
+        0.09501954113409292,
+        0.5772256938295343,
+        0.3905491748872197,
+        0.6059077158831757
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "WALMART 2.SIDED PRICE SIGN\nGRAPHIGS"
+    },
+    {
+      "bbox": [
+        0.41790201825270024,
+        0.5619883696135373,
+        0.4339569480541779,
+        0.5745367542620053
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.28530019063308804,
+        0.5633328393973016,
+        0.3138422880579373,
+        0.5754330674511817
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "EA"
+    },
+    {
+      "bbox": [
+        0.5516930999316811,
+        0.5615402130189491,
+        0.5641802675550528,
+        0.5740885976674173
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.6848895545809778,
+        0.5619883696135373,
+        0.6979713492340336,
+        0.5736404410728291
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "0"
+    },
+    {
+      "bbox": [
+        0.1396165683604199,
+        0.6059077158831757,
+        0.24367629855518286,
+        0.6193524137208202
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "3/23/2000"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.6545635760670755,
+        0.40647803129145,
+        0.7205671763620394,
+        0.4176819461561536
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXTENDED"
+    },
+    {
+      "bbox": [
+        0.8222483984380649,
+        0.4051335615076855,
+        0.8513851228925984,
+        0.4176819461561536
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET"
+    },
+    {
+      "bbox": [
+        0.08907327083724932,
+        0.39303333345380553,
+        0.17113180093369096,
+        0.4037890917239211
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TTEM NUMBER"
+    },
+    {
+      "bbox": [
+        0.08847864380756496,
+        0.40782250107521445,
+        0.16815866578526917,
+        0.4176819461561536
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.38103514241226993,
+        0.3921370202646292,
+        0.4434709805291277,
+        0.4037890917239211
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ORDERED"
+    },
+    {
+      "bbox": [
+        0.21572882816001793,
+        0.3921370202646292,
+        0.24902794182234209,
+        0.40423724831850927
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UOM"
+    },
+    {
+      "bbox": [
+        0.5112584619131447,
+        0.3921370202646292,
+        0.5647748945847371,
+        0.4028927785347448
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SHIPPED"
+    },
+    {
+      "bbox": [
+        0.6462387976514944,
+        0.3921370202646292,
+        0.7354328521041483,
+        0.4028927785347448
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BACKORDERED"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 318,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rzmv0062",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.027419354838709678,
+          0.3939209726443769,
+          0.9096774193548387,
+          0.9003039513677812
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.6306451612903226,
+            "right": 0.7298387096774194
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.807258064516129,
+            "right": 0.8951612903225806
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4206686930091185,
+            "row_type": "header",
+            "top": 0.3939209726443769
+          },
+          {
+            "bottom": 0.44984802431610943,
+            "row_type": "subsection-header",
+            "top": 0.4206686930091185
+          },
+          {
+            "bottom": 0.4662613981762918,
+            "row_type": "gap",
+            "top": 0.44984802431610943
+          },
+          {
+            "bottom": 0.4796352583586626,
+            "row_type": "subsection-header",
+            "top": 0.4662613981762918
+          },
+          {
+            "bottom": 0.4911854103343465,
+            "row_type": "data",
+            "top": 0.4796352583586626
+          },
+          {
+            "bottom": 0.505775075987842,
+            "row_type": "data",
+            "top": 0.4911854103343465
+          },
+          {
+            "bottom": 0.5209726443768997,
+            "row_type": "data",
+            "top": 0.505775075987842
+          },
+          {
+            "bottom": 0.5343465045592705,
+            "row_type": "gap",
+            "top": 0.5209726443768997
+          },
+          {
+            "bottom": 0.548936170212766,
+            "row_type": "subsection-header",
+            "top": 0.5343465045592705
+          },
+          {
+            "bottom": 0.5610942249240122,
+            "row_type": "data",
+            "top": 0.548936170212766
+          },
+          {
+            "bottom": 0.574468085106383,
+            "row_type": "down-merge",
+            "top": 0.5610942249240122
+          },
+          {
+            "bottom": 0.6042553191489362,
+            "row_type": "data",
+            "top": 0.574468085106383
+          },
+          {
+            "bottom": 0.6188449848024317,
+            "row_type": "up-merge",
+            "top": 0.6042553191489362
+          },
+          {
+            "bottom": 0.7878419452887538,
+            "row_type": "gap",
+            "top": 0.6188449848024317
+          },
+          {
+            "bottom": 0.9003039513677812,
+            "row_type": "footer",
+            "top": 0.7878419452887538
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

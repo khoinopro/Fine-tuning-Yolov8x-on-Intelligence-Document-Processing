@@ -1,0 +1,224 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6428970223325062,
+        0.441930626906745,
+        0.7115469208211144,
+        0.45591577332784455
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "SRA4612"
+    },
+    {
+      "bbox": [
+        0.09875084592826529,
+        0.08958195674199375,
+        0.1789587040397456,
+        0.10072914493235813
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/11/2001"
+    },
+    {
+      "bbox": [
+        0.09462553575456802,
+        0.14964106670576494,
+        0.2662502819760884,
+        0.1650247277689744
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Society for Risk Analysis"
+    },
+    {
+      "bbox": [
+        0.09369783442364088,
+        0.15130610986300164,
+        0.3515988044213851,
+        0.1922957632901185
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Society for Risk Analysis\n1313 Dolley Madison Blvd., Suite 402\nMcLean, VA 22101"
+    },
+    {
+      "bbox": [
+        0.09528254004060456,
+        0.5309731519023747,
+        0.18237931423415293,
+        0.5455628175558701
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Betty Smith"
+    },
+    {
+      "bbox": [
+        0.0967741935483871,
+        0.5300493370336109,
+        0.19017877284006318,
+        0.5726917459440256
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Betty Smith\n611-12/204\nBGTC 60000"
+    },
+    {
+      "bbox": [
+        0.5575484998872097,
+        0.05594058568439811,
+        0.7922569366117754,
+        0.07202350406866256
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.3525265057523122,
+        0.4426298842278,
+        0.5863072411459509,
+        0.4573142879699545
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "R. J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.8265818858560795,
+        0.08600865048976208,
+        0.8896655763591248,
+        0.09929453958980664
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,000.00"
+    },
+    {
+      "bbox": [
+        0.8265339499210467,
+        0.08600865048976208,
+        0.8896655763591248,
+        0.09933063029024816
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1620967741935484,
+        0.668693009118541,
+        0.31451612903225806,
+        0.6838905775075987
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "04-90-0247-9091-557"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.668693009118541,
+        0.9040322580645161,
+        0.6838905775075987
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.19997004985817726,
+        0.6509030439187701,
+        0.2745965539719173,
+        0.662613981762918
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "G/L CODE"
+    },
+    {
+      "bbox": [
+        0.7397442786420253,
+        0.6498105810316727,
+        0.80785002026039,
+        0.6636712039117219
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 747,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hxxx0065",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09274193548387097,
+          0.6492401215805471,
+          0.9040322580645161,
+          0.6838905775075987
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.1620967741935484,
+            "right": 0.31451612903225806
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8274193548387097,
+            "right": 0.9040322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.662613981762918,
+            "row_type": "header",
+            "top": 0.6492401215805471
+          },
+          {
+            "bottom": 0.668693009118541,
+            "row_type": "gap",
+            "top": 0.662613981762918
+          },
+          {
+            "bottom": 0.6838905775075987,
+            "row_type": "data",
+            "top": 0.668693009118541
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

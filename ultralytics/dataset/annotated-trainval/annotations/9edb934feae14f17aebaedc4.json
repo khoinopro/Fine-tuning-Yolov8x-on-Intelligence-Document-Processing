@@ -1,0 +1,187 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21039055014372407,
+        0.20715658140985652,
+        0.3295851964228681,
+        0.22200873362445414
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 20, 1999"
+    },
+    {
+      "bbox": [
+        0.45757944746087514,
+        0.5863505926388022,
+        0.6127724768444587,
+        0.5990368059887711
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Donahue & Associates"
+    },
+    {
+      "bbox": [
+        0.45677948339188756,
+        0.5866480153379566,
+        0.6279717941552221,
+        0.6423555832813475
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Donahue & Associates\n1199 North Fairfax Street\nSuite 475\nAlexandria, VA 22314"
+    },
+    {
+      "bbox": [
+        0.30878613062919197,
+        0.2773948845913911,
+        0.46397916001277545,
+        0.2903905177791641
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Donahue & Associates"
+    },
+    {
+      "bbox": [
+        0.310386058767167,
+        0.24877354959451028,
+        0.6383713270520601,
+        0.2630068621334997
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Tobacco Industry Labor Management Committee"
+    },
+    {
+      "bbox": [
+        0.727967302778665,
+        0.5320474111041796,
+        0.7383668356755031,
+        0.5438053649407362
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7263673746406899,
+        0.5314285714285715,
+        0.8055638174704567,
+        0.5456618839675609
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$12,500.00"
+    },
+    {
+      "bbox": [
+        0.7287672668476526,
+        0.5314285714285715,
+        0.8055638174704567,
+        0.5456618839675609
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$12,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.20806451612903226,
+        0.4616344354335621,
+        0.2653225806451613,
+        0.47535870243293826
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "January"
+    },
+    {
+      "bbox": [
+        0.728225806451613,
+        0.4616344354335621,
+        0.8080645161290323,
+        0.47535870243293826
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$12,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 131,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qywx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1705,
+        2204
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.20806451612903226,
+          0.4185901434809732,
+          0.8080645161290323,
+          0.5483468496568933
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.20806451612903226,
+            "right": 0.2653225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.728225806451613,
+            "right": 0.8080645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4335620711166563,
+            "row_type": "subsection-header",
+            "top": 0.4185901434809732
+          },
+          {
+            "bottom": 0.4616344354335621,
+            "row_type": "gap",
+            "top": 0.4335620711166563
+          },
+          {
+            "bottom": 0.47535870243293826,
+            "row_type": "data",
+            "top": 0.4616344354335621
+          },
+          {
+            "bottom": 0.5283842794759825,
+            "row_type": "gap",
+            "top": 0.47535870243293826
+          },
+          {
+            "bottom": 0.5483468496568933,
+            "row_type": "footer",
+            "top": 0.5283842794759825
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7169095336953051,
+        0.14907049282595133,
+        0.7615657936761419,
+        0.1596606363069245
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/29/99"
+    },
+    {
+      "bbox": [
+        0.8330255908655383,
+        0.1503081721771678,
+        0.8495618412647716,
+        0.1596606363069245
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "46"
+    },
+    {
+      "bbox": [
+        0.19189655860747368,
+        0.09354460386774795,
+        0.35438408256148196,
+        0.11139114160948223
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Michael Scavone, Inc."
+    },
+    {
+      "bbox": [
+        0.19039144841903546,
+        0.09468247036805989,
+        0.3503842622165443,
+        0.1522345601996257
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Michael Scavone, Inc.\n980 Post Rd. East\nWestport, CT 06880"
+    },
+    {
+      "bbox": [
+        0.1427354479399553,
+        0.21830068621335,
+        0.21359040641967422,
+        0.22958951965065502
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.14239360427978284,
+        0.21659388646288208,
+        0.27758753193867775,
+        0.2543431066749844
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris\n100 Park Ave., 14th Floor\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.8199631707122326,
+        0.8292451653150343,
+        0.8319626317470457,
+        0.8416219588271989
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.822567670073459,
+        0.8309120399251402,
+        0.8823603680932611,
+        0.8403842794759825
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$16,125.00"
+    },
+    {
+      "bbox": [
+        0.8209612543915682,
+        0.830293200249532,
+        0.8847602603002236,
+        0.8428596381784155
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$16,125.00"
+    },
+    {
+      "bbox": [
+        0.11449666640051101,
+        0.8190642545227699,
+        0.20799065793676141,
+        0.831101684341859
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due upon receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.41796631316281974,
+        0.6620967741935484,
+        0.45726762320648784
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Arrangement, debrief and report of findings of 6 focus groups (6 respondents per group; each lasting 1 hour)\nand moderation of 4 focus groups among adult smokers age 30-54 on an advertising exploratory for Merit\nconducted in Chicago, IL on September 23, 1999."
+    },
+    {
+      "bbox": [
+        0.8258064516129032,
+        0.41796631316281974,
+        0.8814516129032258,
+        0.45726762320648784
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "16,125.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.34638444187160655,
+        0.39899688084840923,
+        0.4415801660811242,
+        0.41384903306300685
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.754366117055254,
+        0.39961572052401745,
+        0.8127634940913447,
+        0.4113736743605739
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 384,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kzlj0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1703,
+        2203
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10967741935483871,
+          0.3930131004366812,
+          0.8935483870967742,
+          0.8571428571428571
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10967741935483871,
+            "right": 0.6620967741935484
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8258064516129032,
+            "right": 0.8814516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41796631316281974,
+            "row_type": "header",
+            "top": 0.3930131004366812
+          },
+          {
+            "bottom": 0.45726762320648784,
+            "row_type": "data",
+            "top": 0.41796631316281974
+          },
+          {
+            "bottom": 0.8159700561447286,
+            "row_type": "gap",
+            "top": 0.45726762320648784
+          },
+          {
+            "bottom": 0.8571428571428571,
+            "row_type": "footer",
+            "top": 0.8159700561447286
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

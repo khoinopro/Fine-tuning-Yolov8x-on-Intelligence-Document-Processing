@@ -1,0 +1,220 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6537049106969143,
+        0.25629179331306995,
+        0.7185153118798397,
+        0.26955866261398176
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "AP0007"
+    },
+    {
+      "bbox": [
+        0.6508064516129032,
+        0.23820060790273553,
+        0.7945275107980855,
+        0.2553191489361702
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 1, 1999"
+    },
+    {
+      "bbox": [
+        0.3224517490952955,
+        0.10673799392097265,
+        0.644903498190591,
+        0.14292036474164133
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "APCO CANADA\nPublic Affairs and Strategic Communications"
+    },
+    {
+      "bbox": [
+        0.15602503988482042,
+        0.8997349544072949,
+        0.5560892447176933,
+        0.9154139817629179
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "155 University Avenue, Suite 1230, Toronto, Ontario M5H 3B7"
+    },
+    {
+      "bbox": [
+        0.29364712634732865,
+        0.5689677811550152,
+        0.380861123000895,
+        0.5834407294832826
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "873544365"
+    },
+    {
+      "bbox": [
+        0.2568412195027044,
+        0.2385021276595745,
+        0.3880622786878867,
+        0.2547841945288754
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Arnold & Porter"
+    },
+    {
+      "bbox": [
+        0.25764134791237014,
+        0.23970820668693008,
+        0.45287267987081203,
+        0.3012182370820669
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Arnold & Porter\n555 Twelfth Street, N.W.\nWashington, D.C.\nU. S. A. 20004-1202"
+    },
+    {
+      "bbox": [
+        0.6857100470835441,
+        0.4610237082066869,
+        0.698512101638196,
+        0.473687537993921
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6849099186738783,
+        0.4598176291793313,
+        0.8145307210397292,
+        0.4759489361702128
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,000.00 (U.S.)"
+    },
+    {
+      "bbox": [
+        0.6854838709677419,
+        0.4595744680851064,
+        0.8145307210397292,
+        0.4753458966565349
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,000.00 (U.S.)"
+    },
+    {
+      "bbox": [
+        0.6529047822872485,
+        0.27212158054711244,
+        0.7417190357601463,
+        0.2878006079027356
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "On Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14516129032258066,
+        0.3993920972644377,
+        0.589516129032258,
+        0.41519756838905775
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "To retainer for services for the month of November, 1999."
+    },
+    {
+      "bbox": [
+        0.6814516129032258,
+        0.3993920972644377,
+        0.817741935483871,
+        0.41519756838905775
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$5,000.00(U.S.)"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 522,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pjbn0071",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14516129032258066,
+          0.36717325227963526,
+          0.817741935483871,
+          0.48145896656534953
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14516129032258066,
+            "right": 0.589516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6814516129032258,
+            "right": 0.817741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.382370820668693,
+            "row_type": "subsection-header",
+            "top": 0.36717325227963526
+          },
+          {
+            "bottom": 0.3993920972644377,
+            "row_type": "gap",
+            "top": 0.382370820668693
+          },
+          {
+            "bottom": 0.41519756838905775,
+            "row_type": "data",
+            "top": 0.3993920972644377
+          },
+          {
+            "bottom": 0.4595744680851064,
+            "row_type": "gap",
+            "top": 0.41519756838905775
+          },
+          {
+            "bottom": 0.48145896656534953,
+            "row_type": "footer",
+            "top": 0.4595744680851064
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7379524021379409,
+        0.34285714285714286,
+        0.7493529817750377,
+        0.3593331003173316
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7286246551621345,
+        0.9149835511421799,
+        0.7845911370169731,
+        0.9298251972041985
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/27/01"
+    },
+    {
+      "bbox": [
+        0.32027662088794095,
+        0.21519756838905776,
+        0.6218737731056828,
+        0.25167173252279634
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE FLORIDA STATE UNIVERSITY\nRESEARCH FOUNDATION, INC."
+    },
+    {
+      "bbox": [
+        0.320501747479211,
+        0.21709090422184432,
+        0.6233814057499432,
+        0.30841021383715167
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE FLORIDA STATE UNIVERSITY\nRESEARCH FOUNDATION, INC.\n106 Johnson Building\n2035 E. Paul Dirac Dr., Box 15\nTallahassee, FL 32310"
+    },
+    {
+      "bbox": [
+        0.10055635879116674,
+        0.9298251972041985,
+        0.269492220686328,
+        0.9423234254669511
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "ggoodwin@mailer.fsu.edu"
+    },
+    {
+      "bbox": [
+        0.101327012948754,
+        0.391012680261907,
+        0.1896881632266506,
+        0.40486322188449847
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.10187770323651897,
+        0.39142776803288565,
+        0.3105893222994416,
+        0.4503702315118568
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris\nResearch Center\nP.O. Box 26583\nRichmond, Virginia 23261-6583"
+    },
+    {
+      "bbox": [
+        0.7654948071658136,
+        0.8700524195198536,
+        0.7752853082966313,
+        0.882969422566808
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7661290322580645,
+        0.8251525355036458,
+        0.8384847862105216,
+        0.8389057750759878
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$29,212.99"
+    },
+    {
+      "bbox": [
+        0.8008064516129032,
+        0.8419118057389888,
+        0.8395212025411667,
+        0.852492409828417
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.7661067134864897,
+        0.8709750625946361,
+        0.8384847862105216,
+        0.8829568412188765
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$29,212.99"
+    },
+    {
+      "bbox": [
+        0.2564516129032258,
+        0.34530153045493284,
+        0.35966044145245707,
+        0.3577997587176855
+      ],
+      "fieldtype": "payment_reference",
+      "page": 0,
+      "text": "RF 1 1300 0001"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09838709677419355,
+        0.496048632218845,
+        0.15725806451612903,
+        0.5884498480243161
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/01/01"
+    },
+    {
+      "bbox": [
+        0.1620967741935484,
+        0.496048632218845,
+        0.21693548387096775,
+        0.5884498480243161
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12/31/01"
+    },
+    {
+      "bbox": [
+        0.2782258064516129,
+        0.496048632218845,
+        0.6290322580645161,
+        0.5884498480243161
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Payment in accordance with terms of the above\nreferenced project between the Florida State University\nResearch Foundation and Philip Morris,\nunder the direction of Dr. Jim Walker.\nExpenditures for equipment purhcases shall be\ninvoiced in the quarter in which they are purchased."
+    },
+    {
+      "bbox": [
+        0.760483870967742,
+        0.496048632218845,
+        0.8362903225806452,
+        0.5884498480243161
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$29,212.99"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15963208963794093,
+        0.4659152450115753,
+        0.21767140415406996,
+        0.480756891073594
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PERIOD"
+    },
+    {
+      "bbox": [
+        0.1620967741935484,
+        0.4662613981762918,
+        0.21693548387096775,
+        0.4796352583586626
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PERIOD"
+    },
+    {
+      "bbox": [
+        0.4208090049605216,
+        0.4673617877308672,
+        0.5244506380250377,
+        0.4806411552600418
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7203333245169732,
+        0.4674775235444194,
+        0.7928824676621344,
+        0.47997575180717195
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 593,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xfgl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09838709677419355,
+          0.4662613981762918,
+          0.8483870967741935,
+          0.8990881458966565
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.09838709677419355,
+            "right": 0.15725806451612903
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.1620967741935484,
+            "right": 0.21693548387096775
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2782258064516129,
+            "right": 0.6290322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.760483870967742,
+            "right": 0.8362903225806452
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4796352583586626,
+            "row_type": "header",
+            "top": 0.4662613981762918
+          },
+          {
+            "bottom": 0.496048632218845,
+            "row_type": "gap",
+            "top": 0.4796352583586626
+          },
+          {
+            "bottom": 0.5884498480243161,
+            "row_type": "data",
+            "top": 0.496048632218845
+          },
+          {
+            "bottom": 0.6115501519756839,
+            "row_type": "gap",
+            "top": 0.5884498480243161
+          },
+          {
+            "bottom": 0.7410334346504559,
+            "row_type": "gap-with-text",
+            "top": 0.6115501519756839
+          },
+          {
+            "bottom": 0.7604863221884498,
+            "row_type": "gap",
+            "top": 0.7410334346504559
+          },
+          {
+            "bottom": 0.7750759878419453,
+            "row_type": "gap-with-text",
+            "top": 0.7604863221884498
+          },
+          {
+            "bottom": 0.8066869300911854,
+            "row_type": "gap",
+            "top": 0.7750759878419453
+          },
+          {
+            "bottom": 0.8990881458966565,
+            "row_type": "footer",
+            "top": 0.8066869300911854
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

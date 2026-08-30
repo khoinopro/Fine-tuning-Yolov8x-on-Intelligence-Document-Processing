@@ -1,0 +1,778 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6839136920651367,
+        0.12709496017445782,
+        0.7491940746607856,
+        0.1395543082022301
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "20021302"
+    },
+    {
+      "bbox": [
+        0.794786722822826,
+        0.34388761585769567,
+        0.8403793709848667,
+        0.3571775870873194
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/9/02"
+    },
+    {
+      "bbox": [
+        0.07773871081982532,
+        0.0398795239800518,
+        0.17514118643873006,
+        0.05233887200782408
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "T-Shirt Express"
+    },
+    {
+      "bbox": [
+        0.07773871081982532,
+        0.03879725991223058,
+        0.19690131397061303,
+        0.08307193047632906
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "T-Shirt Express\n7001 S. State\nChicago, IL 60637"
+    },
+    {
+      "bbox": [
+        0.0787749073689626,
+        0.22187830006301965,
+        0.2766884482541839,
+        0.2351682712926434
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "HEALTHY FAMILIES CHICAGO"
+    },
+    {
+      "bbox": [
+        0.07773871081982532,
+        0.22269627189620353,
+        0.3233172929653617,
+        0.2609175905500395
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "HEALTHY FAMILIES CHICAGO\n3333 W. ARTHINGTON ST SUITE 150\nCHICAGO, IL 60624"
+    },
+    {
+      "bbox": [
+        0.5181222442031712,
+        0.22187830006301965,
+        0.7201805712849416,
+        0.2351682712926434
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "HEALTHY FAMILIES CHICAGO"
+    },
+    {
+      "bbox": [
+        0.5181222442031712,
+        0.22269627189620353,
+        0.7668094159961194,
+        0.26257883695374246
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "HEALTHY FAMILIES CHICAGO\n3333 W. ARTHINGTON ST SUITE 150\nCHICAGO, IL 60624"
+    },
+    {
+      "bbox": [
+        0.8072210814124735,
+        0.9175714130155599,
+        0.8175830469038464,
+        0.9300307610433323
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8056451612903226,
+        0.847799064060035,
+        0.8465965502796904,
+        0.8610890352896589
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.7911290322580645,
+        0.8652421512989162,
+        0.8434879606322784,
+        0.8804137039431157
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$455.00"
+    },
+    {
+      "bbox": [
+        0.7911290322580645,
+        0.8804137039431157,
+        0.8445241571814158,
+        0.8934833401618668
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "$455.00"
+    },
+    {
+      "bbox": [
+        0.8064516129032258,
+        0.9167407898137084,
+        0.8445241571814158,
+        0.9308338720103426
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8056451612903226,
+        0.8464454483685413,
+        0.8455603537305529,
+        0.861021331609567
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.7935483870967742,
+        0.8647191588092739,
+        0.8445241571814158,
+        0.8804137039431157
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$455.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.40982546864899805,
+        0.16048387096774194,
+        0.4227537168713639
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7"
+    },
+    {
+      "bbox": [
+        0.16048387096774194,
+        0.40982546864899805,
+        0.23709677419354838,
+        0.4227537168713639
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "800040:AL"
+    },
+    {
+      "bbox": [
+        0.28951612903225804,
+        0.40982546864899805,
+        0.4854838709677419,
+        0.4227537168713639
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "GILD:50/50 TEE:RED"
+    },
+    {
+      "bbox": [
+        0.5588709677419355,
+        0.40982546864899805,
+        0.6088709677419355,
+        0.4227537168713639
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$6.68"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.40982546864899805,
+        0.8475806451612903,
+        0.4227537168713639
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$46.76"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.4227537168713639,
+        0.16048387096774194,
+        0.4343891402714932
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "40"
+    },
+    {
+      "bbox": [
+        0.16048387096774194,
+        0.4227537168713639,
+        0.23709677419354838,
+        0.4343891402714932
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "800040:XL"
+    },
+    {
+      "bbox": [
+        0.28951612903225804,
+        0.4227537168713639,
+        0.4854838709677419,
+        0.4343891402714932
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "GILD:50/50 TEE:RED"
+    },
+    {
+      "bbox": [
+        0.5588709677419355,
+        0.4227537168713639,
+        0.6088709677419355,
+        0.4343891402714932
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$6.68"
+    },
+    {
+      "bbox": [
+        0.6314516129032258,
+        0.4227537168713639,
+        0.6629032258064517,
+        0.4343891402714932
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.4227537168713639,
+        0.8475806451612903,
+        0.4343891402714932
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$267.20"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.4343891402714932,
+        0.16048387096774194,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "3"
+    },
+    {
+      "bbox": [
+        0.16048387096774194,
+        0.4343891402714932,
+        0.23709677419354838,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "PP:WH:5X"
+    },
+    {
+      "bbox": [
+        0.28951612903225804,
+        0.4343891402714932,
+        0.4854838709677419,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "PL AT PL US-50/50 TEE-WHITE"
+    },
+    {
+      "bbox": [
+        0.5588709677419355,
+        0.4343891402714932,
+        0.6088709677419355,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$13.68"
+    },
+    {
+      "bbox": [
+        0.6314516129032258,
+        0.4343891402714932,
+        0.6629032258064517,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.4343891402714932,
+        0.8475806451612903,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$41.04"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.4460245636716225,
+        0.16048387096774194,
+        0.46153846153846156
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.16048387096774194,
+        0.4460245636716225,
+        0.23709677419354838,
+        0.46153846153846156
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "114-AL"
+    },
+    {
+      "bbox": [
+        0.28951612903225804,
+        0.4460245636716225,
+        0.4854838709677419,
+        0.46153846153846156
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "ADD'L LOCATION PRINT"
+    },
+    {
+      "bbox": [
+        0.5588709677419355,
+        0.4460245636716225,
+        0.6088709677419355,
+        0.46153846153846156
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$1.00"
+    },
+    {
+      "bbox": [
+        0.6314516129032258,
+        0.4460245636716225,
+        0.6629032258064517,
+        0.46153846153846156
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "EA"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.4460245636716225,
+        0.8475806451612903,
+        0.46153846153846156
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$10.00"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.46153846153846156,
+        0.16048387096774194,
+        0.48739495798319327
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.16048387096774194,
+        0.46153846153846156,
+        0.23709677419354838,
+        0.48739495798319327
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "110-SC"
+    },
+    {
+      "bbox": [
+        0.28951612903225804,
+        0.46153846153846156,
+        0.4854838709677419,
+        0.48739495798319327
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "SCREEN CHARGE:FRONT &\nBACK (WHITE INK)"
+    },
+    {
+      "bbox": [
+        0.5588709677419355,
+        0.46153846153846156,
+        0.6088709677419355,
+        0.48739495798319327
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$20.00"
+    },
+    {
+      "bbox": [
+        0.6314516129032258,
+        0.46153846153846156,
+        0.6629032258064517,
+        0.48739495798319327
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "EA"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.46153846153846156,
+        0.8475806451612903,
+        0.48739495798319327
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$40.00"
+    },
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.48739495798319327,
+        0.16048387096774194,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.16048387096774194,
+        0.48739495798319327,
+        0.23709677419354838,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "48 RUSH"
+    },
+    {
+      "bbox": [
+        0.28951612903225804,
+        0.48739495798319327,
+        0.4854838709677419,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "48 HR RUSH CHARGE"
+    },
+    {
+      "bbox": [
+        0.5588709677419355,
+        0.48739495798319327,
+        0.6088709677419355,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$50.00"
+    },
+    {
+      "bbox": [
+        0.6314516129032258,
+        0.48739495798319327,
+        0.6629032258064517,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "EA"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.48739495798319327,
+        0.8475806451612903,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$50.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09783046984572229,
+        0.3763334211486367,
+        0.13657521037868162,
+        0.3918523251135289
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY."
+    },
+    {
+      "bbox": [
+        0.1830688990182328,
+        0.37691538004732006,
+        0.2508721949509116,
+        0.39088239361572313
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM NO."
+    },
+    {
+      "bbox": [
+        0.3332047685834502,
+        0.371677749959169,
+        0.43490971248246846,
+        0.3901064484174785
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.5269284712482468,
+        0.371677749959169,
+        0.5802024894810658,
+        0.3871966539240612
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PRICE"
+    },
+    {
+      "bbox": [
+        0.6266961781206171,
+        0.37691538004732006,
+        0.6629032258064517,
+        0.3916583388139677
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT"
+    },
+    {
+      "bbox": [
+        0.7506793478260869,
+        0.37555747595039213,
+        0.8330119214586255,
+        0.3910763799152843
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXTENDED"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1097,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rjkd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07741935483870968,
+          0.3684550743374273,
+          0.907258064516129,
+          0.9444085326438267
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.1403225806451613,
+            "right": 0.16048387096774194
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.16048387096774194,
+            "right": 0.23709677419354838
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.28951612903225804,
+            "right": 0.4854838709677419
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.5588709677419355,
+            "right": 0.6088709677419355
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.6314516129032258,
+            "right": 0.6629032258064517
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7887096774193548,
+            "right": 0.8475806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40077569489334197,
+            "row_type": "header",
+            "top": 0.3684550743374273
+          },
+          {
+            "bottom": 0.40982546864899805,
+            "row_type": "gap",
+            "top": 0.40077569489334197
+          },
+          {
+            "bottom": 0.4227537168713639,
+            "row_type": "data",
+            "top": 0.40982546864899805
+          },
+          {
+            "bottom": 0.4343891402714932,
+            "row_type": "data",
+            "top": 0.4227537168713639
+          },
+          {
+            "bottom": 0.4460245636716225,
+            "row_type": "data",
+            "top": 0.4343891402714932
+          },
+          {
+            "bottom": 0.46153846153846156,
+            "row_type": "data",
+            "top": 0.4460245636716225
+          },
+          {
+            "bottom": 0.48739495798319327,
+            "row_type": "data",
+            "top": 0.46153846153846156
+          },
+          {
+            "bottom": 0.49967679379444085,
+            "row_type": "data",
+            "top": 0.48739495798319327
+          },
+          {
+            "bottom": 0.8112475759534583,
+            "row_type": "gap",
+            "top": 0.49967679379444085
+          },
+          {
+            "bottom": 0.9444085326438267,
+            "row_type": "footer",
+            "top": 0.8112475759534583
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

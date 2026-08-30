@@ -1,0 +1,336 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5770776732432464,
+        0.155569686630237,
+        0.6427303681381913,
+        0.16807410588656807
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42516001"
+    },
+    {
+      "bbox": [
+        0.17602534138499687,
+        0.18425629551240832,
+        0.2316874087959283,
+        0.19565738365788668
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/23/01"
+    },
+    {
+      "bbox": [
+        0.12963233912983302,
+        0.20966615973943017,
+        0.3555969669708264,
+        0.22407304498468342
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Covance Clinical Research Unit Inc."
+    },
+    {
+      "bbox": [
+        0.129401500696964,
+        0.2381130836667253,
+        0.4662007058614178,
+        0.2513541681086736
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "3301 Kinsman Boulevard, Madison, Wisconsin 53704"
+    },
+    {
+      "bbox": [
+        0.42856786254485796,
+        0.1564318782741798,
+        0.5149614939744743,
+        0.16797815137018676
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R1-472"
+    },
+    {
+      "bbox": [
+        0.1379573517345012,
+        0.10851143354935419,
+        0.26045396577461866,
+        0.12138567142809115
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.13042519747313475,
+        0.2676002301937464,
+        0.3841398673296887,
+        0.2795548796525736
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "4201 Commerce Road, Gate C, Door 17"
+    },
+    {
+      "bbox": [
+        0.7734333138908386,
+        0.7546755632726273,
+        0.7837404723537611,
+        0.7663236832581511
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7726404555475368,
+        0.7540625043260207,
+        0.854304864907615,
+        0.7663236832581511
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$894,946.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.775,
+        0.47880299251870323,
+        0.8604838709677419,
+        0.4918952618453865
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$208,046.50"
+    },
+    {
+      "bbox": [
+        0.2797375695523734,
+        0.4641346206320545,
+        0.5061917925233423,
+        0.4784779250731402
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Increase Line ltem 3 to $208,046.50"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.5074812967581047,
+        0.8604838709677419,
+        0.5199501246882793
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$306,690.50"
+    },
+    {
+      "bbox": [
+        0.2806890578841842,
+        0.5082678650661643,
+        0.5076190250210586,
+        0.5207722843224953
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Increase Line ltem 4 to $306,690.50"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.550498753117207,
+        0.8604838709677419,
+        0.5654613466334164
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$89,912.00"
+    },
+    {
+      "bbox": [
+        0.2806890578841842,
+        0.5516655554263722,
+        0.5004828625324775,
+        0.5652733057935561
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Increase Line Item 6 to $89,912.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7278885738352573,
+        0.3920503213896752,
+        0.7626178979463513,
+        0.4166913828653865
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nPrice"
+    },
+    {
+      "bbox": [
+        0.28639798787504894,
+        0.3924180984266261,
+        0.35300217110180454,
+        0.4041869636090554
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 490,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "zpcf0221",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12983870967741934,
+          0.38965087281795513,
+          0.8604838709677419,
+          0.7693266832917706
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.5733870967741935,
+            "right": 0.6548387096774193
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.775,
+            "right": 0.8604838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4164588528678304,
+            "row_type": "header",
+            "top": 0.38965087281795513
+          },
+          {
+            "bottom": 0.4332917705735661,
+            "row_type": "gap",
+            "top": 0.4164588528678304
+          },
+          {
+            "bottom": 0.44576059850374067,
+            "row_type": "gap-with-text",
+            "top": 0.4332917705735661
+          },
+          {
+            "bottom": 0.4644638403990025,
+            "row_type": "gap",
+            "top": 0.44576059850374067
+          },
+          {
+            "bottom": 0.47880299251870323,
+            "row_type": "down-merge",
+            "top": 0.4644638403990025
+          },
+          {
+            "bottom": 0.4918952618453865,
+            "row_type": "data",
+            "top": 0.47880299251870323
+          },
+          {
+            "bottom": 0.5074812967581047,
+            "row_type": "gap",
+            "top": 0.4918952618453865
+          },
+          {
+            "bottom": 0.5199501246882793,
+            "row_type": "data",
+            "top": 0.5074812967581047
+          },
+          {
+            "bottom": 0.5374064837905237,
+            "row_type": "gap-with-text",
+            "top": 0.5199501246882793
+          },
+          {
+            "bottom": 0.550498753117207,
+            "row_type": "gap",
+            "top": 0.5374064837905237
+          },
+          {
+            "bottom": 0.5654613466334164,
+            "row_type": "data",
+            "top": 0.550498753117207
+          },
+          {
+            "bottom": 0.5798004987531172,
+            "row_type": "gap-with-text",
+            "top": 0.5654613466334164
+          },
+          {
+            "bottom": 0.6097256857855362,
+            "row_type": "gap",
+            "top": 0.5798004987531172
+          },
+          {
+            "bottom": 0.621571072319202,
+            "row_type": "gap-with-text",
+            "top": 0.6097256857855362
+          },
+          {
+            "bottom": 0.6377805486284289,
+            "row_type": "gap",
+            "top": 0.621571072319202
+          },
+          {
+            "bottom": 0.6652119700748129,
+            "row_type": "gap-with-text",
+            "top": 0.6377805486284289
+          },
+          {
+            "bottom": 0.7356608478802993,
+            "row_type": "gap",
+            "top": 0.6652119700748129
+          },
+          {
+            "bottom": 0.7693266832917706,
+            "row_type": "footer",
+            "top": 0.7356608478802993
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

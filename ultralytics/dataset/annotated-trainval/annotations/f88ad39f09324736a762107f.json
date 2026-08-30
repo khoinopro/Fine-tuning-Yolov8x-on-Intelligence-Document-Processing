@@ -1,0 +1,279 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3398485848920165,
+        0.12521094246156,
+        0.38164614161103927,
+        0.14265519120529274
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "7/24/20"
+    },
+    {
+      "bbox": [
+        0.7934297357695199,
+        0.0610548680152218,
+        0.9616783023209271,
+        0.0807281040984315
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Thompson Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.7929055969329112,
+        0.058341318210641153,
+        0.9611541634843185,
+        0.12278812606943154
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Thompson Communications, Inc.\n200 West Jefferson\nMarshfield, MO 65706"
+    },
+    {
+      "bbox": [
+        0.09486911343073498,
+        0.0807281040984315,
+        0.24424868186422735,
+        0.1004013401816412
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Citizens to Elect Mike Kehoe"
+    },
+    {
+      "bbox": [
+        0.24692761547305514,
+        0.44253475419794125,
+        0.2574103922052301,
+        0.4601728279277154
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.2485000319828814,
+        0.44253475419794125,
+        0.3019621933169734,
+        0.4615296028300057
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,632.00"
+    },
+    {
+      "bbox": [
+        0.24896593139370607,
+        0.42218313066358637,
+        0.3019039538911893,
+        0.4384644294910703
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,920.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.028225806451612902,
+        0.2839248434237996,
+        0.04032258064516129,
+        0.3079331941544885
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.19596774193548386,
+        0.2839248434237996,
+        0.2161290322580645,
+        0.3079331941544885
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "RT"
+    },
+    {
+      "bbox": [
+        0.2620967741935484,
+        0.2839248434237996,
+        0.3016129032258065,
+        0.3079331941544885
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$30.00"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.2839248434237996,
+        0.8653225806451613,
+        0.3079331941544885
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "64"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.020641449620881654,
+        0.24112734864300625,
+        0.04659072319881812,
+        0.2839248434237996
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\nNo"
+    },
+    {
+      "bbox": [
+        0.18636294678906684,
+        0.24112734864300625,
+        0.2329536879858164,
+        0.2839248434237996
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Daypart\nCode"
+    },
+    {
+      "bbox": [
+        0.2651937065509645,
+        0.24362589856819175,
+        0.3016129032258065,
+        0.2627055456316494
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross"
+    },
+    {
+      "bbox": [
+        0.8416476530982955,
+        0.24112734864300625,
+        0.8752637575060768,
+        0.2839248434237996
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "2ea33a09-9f08-4caf-849f-5a2d39c809aa",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.018548387096774192,
+          0.24112734864300625,
+          0.9854838709677419,
+          0.46346555323590816
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.028225806451612902,
+            "right": 0.04032258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.04838709677419355,
+            "right": 0.175
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.19596774193548386,
+            "right": 0.2161290322580645
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.2620967741935484,
+            "right": 0.3016129032258065
+          },
+          {
+            "column_type": "",
+            "left": 0.3096774193548387,
+            "right": 0.3209677419354839
+          },
+          {
+            "column_type": "",
+            "left": 0.3346774193548387,
+            "right": 0.34838709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.36612903225806454,
+            "right": 0.38064516129032255
+          },
+          {
+            "column_type": "",
+            "left": 0.40161290322580645,
+            "right": 0.4120967741935484
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8508064516129032,
+            "right": 0.8653225806451613
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2839248434237996,
+            "row_type": "header",
+            "top": 0.24112734864300625
+          },
+          {
+            "bottom": 0.3079331941544885,
+            "row_type": "data",
+            "top": 0.2839248434237996
+          },
+          {
+            "bottom": 0.4154488517745303,
+            "row_type": "gap-with-text",
+            "top": 0.3079331941544885
+          },
+          {
+            "bottom": 0.46346555323590816,
+            "row_type": "footer",
+            "top": 0.4154488517745303
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

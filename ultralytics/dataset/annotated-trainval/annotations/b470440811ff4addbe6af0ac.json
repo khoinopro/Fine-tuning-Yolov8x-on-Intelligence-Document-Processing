@@ -1,0 +1,264 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7514209617902631,
+        0.21728244411126782,
+        0.8138354064992263,
+        0.23019944715822213
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59275-1"
+    },
+    {
+      "bbox": [
+        0.7238851773598382,
+        0.23158341177039582,
+        0.8389235656469469,
+        0.24450041481735016
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 19, 2001"
+    },
+    {
+      "bbox": [
+        0.3680608164056306,
+        0.3239152460244042,
+        0.4035627455471186,
+        0.3364785692260253
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "3281"
+    },
+    {
+      "bbox": [
+        0.33867452697545497,
+        0.11746983918696356,
+        0.5699644478367413,
+        0.12867720900338764
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "UNIVERSITY OF CALIFORNIA, DAVIS"
+    },
+    {
+      "bbox": [
+        0.21693548387096775,
+        0.3118533592764693,
+        0.29555075288656113,
+        0.3243090407860324
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "94-6036494"
+    },
+    {
+      "bbox": [
+        0.6723928413610252,
+        0.2992782828756209,
+        0.8508164945968747,
+        0.3121460037759597
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "emmontoya@ucdavis.edu"
+    },
+    {
+      "bbox": [
+        0.06669778895369599,
+        0.20252015491474853,
+        0.19581002261635522,
+        0.23204473330778705
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.06486206999166766,
+        0.2026518655565834,
+        0.2202862754433996,
+        0.2569560963269133
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A.\n4201 Commerce Road\nRichmond, VA 25234"
+    },
+    {
+      "bbox": [
+        0.7746734019759552,
+        0.7468795690363962,
+        0.7850758094274491,
+        0.7611805366955241
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7758064516129032,
+        0.7454956044242225,
+        0.8609521931912868,
+        0.7611805366955241
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$66,103.20"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.7464182474990049,
+        0.8609521931912868,
+        0.7607192151581329
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$66,103.20"
+    },
+    {
+      "bbox": [
+        0.7445332690582359,
+        0.25818459354873263,
+        0.8161230064676817,
+        0.27022213890711405
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$66,103.20"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06854838709677419,
+        0.5373860182370821,
+        0.29435483870967744,
+        0.5544072948328268
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Amount due per agreement"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.5373860182370821,
+        0.6782258064516129,
+        0.5544072948328268
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$66,103.20"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.13548695407057662,
+        0.390273556231003,
+        0.29435483870967744,
+        0.40332364213030264
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Services"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 844,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jsgl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06854838709677419,
+          0.390273556231003,
+          0.8725806451612903,
+          0.764741641337386
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06854838709677419,
+            "right": 0.29435483870967744
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5854838709677419,
+            "right": 0.6782258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40303951367781155,
+            "row_type": "header",
+            "top": 0.390273556231003
+          },
+          {
+            "bottom": 0.41398176291793315,
+            "row_type": "gap",
+            "top": 0.40303951367781155
+          },
+          {
+            "bottom": 0.5270516717325228,
+            "row_type": "gap-with-text",
+            "top": 0.41398176291793315
+          },
+          {
+            "bottom": 0.5373860182370821,
+            "row_type": "gap",
+            "top": 0.5270516717325228
+          },
+          {
+            "bottom": 0.5544072948328268,
+            "row_type": "data",
+            "top": 0.5373860182370821
+          },
+          {
+            "bottom": 0.6936170212765957,
+            "row_type": "gap-with-text",
+            "top": 0.5544072948328268
+          },
+          {
+            "bottom": 0.7452887537993921,
+            "row_type": "gap",
+            "top": 0.6936170212765957
+          },
+          {
+            "bottom": 0.7604863221884498,
+            "row_type": "footer",
+            "top": 0.7452887537993921
+          },
+          {
+            "bottom": 0.764741641337386,
+            "row_type": "data",
+            "top": 0.7604863221884498
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

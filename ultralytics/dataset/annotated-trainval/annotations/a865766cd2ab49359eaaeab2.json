@@ -1,0 +1,238 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.46499833721316924,
+        0.1330234221348114,
+        0.47662329564349853,
+        0.1448820993018682
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.4255173463177115,
+        0.14900685657736623,
+        0.5112903225806451,
+        0.1603828493823967
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/15/2001"
+    },
+    {
+      "bbox": [
+        0.5621009311606252,
+        0.19437918660784453,
+        0.6346774193548387,
+        0.20790273556231004
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "01041245"
+    },
+    {
+      "bbox": [
+        0.26942550714998337,
+        0.31709071555391083,
+        0.6725806451612903,
+        0.33191489361702126
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA"
+    },
+    {
+      "bbox": [
+        0.2690771454656117,
+        0.3160485561358994,
+        0.66455797321972,
+        0.37737141031152166
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA\nRemittance Center\n10920 Wilshire Blvd., Suite 107\nLOS ANGELES, CALIFORNIA 90024-6503"
+    },
+    {
+      "bbox": [
+        0.10257316262055204,
+        0.1783957521652897,
+        0.2448079481210509,
+        0.20830024241265038
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce B. Davies\nPhillip Morris USA"
+    },
+    {
+      "bbox": [
+        0.10394080478882606,
+        0.17925141989797277,
+        0.26463875956102423,
+        0.23923592197888557
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce B, Davies\nPhillip Morris USA\n4201 Commerce Road\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.749467908214167,
+        0.6805849504571745,
+        0.7590414033920851,
+        0.693990411602543
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.75,
+        0.6475868922531903,
+        0.8328940804788825,
+        0.6609923533985588
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$41,404.68"
+    },
+    {
+      "bbox": [
+        0.749467908214167,
+        0.6821317344354862,
+        0.8301587961423346,
+        0.6945060062619803
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$41,404.68"
+    },
+    {
+      "bbox": [
+        0.2160874625872963,
+        0.7156453872989078,
+        0.33575615231127365,
+        0.7280196591254019
+      ],
+      "fieldtype": "payment_reference",
+      "page": 0,
+      "text": "4-112679-78619"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12258064516129032,
+        0.5197568389057751,
+        0.3233870967741935,
+        0.5343465045592705
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "First Quarteriy Payment Due"
+    },
+    {
+      "bbox": [
+        0.7540322580645161,
+        0.5197568389057751,
+        0.8354838709677419,
+        0.5343465045592705
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "41,404.68"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09887020693852708,
+        0.5035549756344366,
+        0.2165132379793061,
+        0.5186498320468975
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Per Agreement:"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 694,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fppk0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10080645161290322,
+          0.5045592705167173,
+          0.8354838709677419,
+          0.6984802431610942
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12258064516129032,
+            "right": 0.3233870967741935
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7540322580645161,
+            "right": 0.8354838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5155015197568389,
+            "row_type": "header",
+            "top": 0.5045592705167173
+          },
+          {
+            "bottom": 0.5197568389057751,
+            "row_type": "gap",
+            "top": 0.5155015197568389
+          },
+          {
+            "bottom": 0.5343465045592705,
+            "row_type": "data",
+            "top": 0.5197568389057751
+          },
+          {
+            "bottom": 0.6200607902735562,
+            "row_type": "gap-with-text",
+            "top": 0.5343465045592705
+          },
+          {
+            "bottom": 0.6474164133738601,
+            "row_type": "gap",
+            "top": 0.6200607902735562
+          },
+          {
+            "bottom": 0.6984802431610942,
+            "row_type": "footer",
+            "top": 0.6474164133738601
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

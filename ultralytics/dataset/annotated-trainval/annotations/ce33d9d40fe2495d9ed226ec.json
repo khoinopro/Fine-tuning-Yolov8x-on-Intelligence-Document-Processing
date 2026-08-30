@@ -1,0 +1,228 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.11998287182415074,
+        0.382355460385439,
+        0.15420020934437148,
+        0.39710682845586487
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "108499"
+    },
+    {
+      "bbox": [
+        0.10798458464173566,
+        0.34223173923388056,
+        0.1675316395470549,
+        0.3546228884130383
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/04/1999"
+    },
+    {
+      "bbox": [
+        0.1026520125606623,
+        0.39710682845586487,
+        0.12753734893900467,
+        0.41185819652629074
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "8012"
+    },
+    {
+      "bbox": [
+        0.09154248739175944,
+        0.215960028551035,
+        0.18841754686459228,
+        0.24369260052343564
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "LYNN LARSON\nPHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.089764963364735,
+        0.21536997382821796,
+        0.22974498049291084,
+        0.30092790863668806
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "LYNN LARSON\nPHILIP MORRIS USA\nRESEARCH CENTER\n4201 COMMERCE ROAD\nDOOR 17 GATE C\nRICHMOND, VA 23234 USA"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.042741935483870966,
+        0.5353319057815846,
+        0.11209677419354838,
+        0.5792291220556746
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "ISI ARTICLES\nBRIT MED J"
+    },
+    {
+      "bbox": [
+        0.48870967741935484,
+        0.5353319057815846,
+        0.4991935483870968,
+        0.5792291220556746
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.6741935483870968,
+        0.5353319057815846,
+        0.7,
+        0.5792291220556746
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "9.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.050374974316827616,
+        0.4766167023554604,
+        0.15032532018354908,
+        0.49892077087794434
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Publication Title"
+    },
+    {
+      "bbox": [
+        0.4725652352578591,
+        0.47751605995717344,
+        0.4991935483870968,
+        0.499982869379015
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Qnty"
+    },
+    {
+      "bbox": [
+        0.6684679131566331,
+        0.47751605995717344,
+        0.7,
+        0.5096359743040685
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nCost"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1075,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "flnk0008",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2337,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.042741935483870966,
+          0.47751605995717344,
+          0.917741935483871,
+          0.6059957173447538
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.042741935483870966,
+            "right": 0.11209677419354838
+          },
+          {
+            "column_type": "",
+            "left": 0.2153225806451613,
+            "right": 0.2403225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.2508064516129032,
+            "right": 0.2685483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.29274193548387095,
+            "right": 0.3193548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.33225806451612905,
+            "right": 0.3524193548387097
+          },
+          {
+            "column_type": "",
+            "left": 0.36774193548387096,
+            "right": 0.38548387096774195
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.48870967741935484,
+            "right": 0.4991935483870968
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6741935483870968,
+            "right": 0.7
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5096359743040685,
+            "row_type": "header",
+            "top": 0.47751605995717344
+          },
+          {
+            "bottom": 0.5353319057815846,
+            "row_type": "gap",
+            "top": 0.5096359743040685
+          },
+          {
+            "bottom": 0.5792291220556746,
+            "row_type": "data",
+            "top": 0.5353319057815846
+          },
+          {
+            "bottom": 0.6059957173447538,
+            "row_type": "gap",
+            "top": 0.5792291220556746
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

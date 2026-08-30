@@ -1,0 +1,271 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.23924386545354284,
+        0.2777605469746156,
+        0.32768472566859663,
+        0.29399885587467006
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DPW99-999"
+    },
+    {
+      "bbox": [
+        0.5680624483043837,
+        0.07520900964235745,
+        0.7109284532671629,
+        0.09401126205294683
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 5, 1999"
+    },
+    {
+      "bbox": [
+        0.3477162025549122,
+        0.180256376371085,
+        0.6623615706276995,
+        0.19379341649381468
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL"
+    },
+    {
+      "bbox": [
+        0.3505508455105229,
+        0.17811894898328556,
+        0.659526927672089,
+        0.23226710947420437
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL\nCOUNSELLORS AT LAW\n45O LEXIHOTON AVENUE\nNEW YORK, N.Y 10017"
+    },
+    {
+      "bbox": [
+        0.7445662163404099,
+        0.2279922546986055,
+        0.8248811000827129,
+        0.2393918674335358
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 0,
+      "text": "35023295"
+    },
+    {
+      "bbox": [
+        0.7199993107251171,
+        0.3313012451089111,
+        0.7341725255031706,
+        0.34697571261944027
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7190544297399136,
+        0.330588769312978,
+        0.8059834803786416,
+        0.3476881884153734
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$14,266.47"
+    },
+    {
+      "bbox": [
+        0.71810954875471,
+        0.32987629351704484,
+        0.8059834803786416,
+        0.3484006642113066
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$14,266.47"
+    },
+    {
+      "bbox": [
+        0.34724376206231045,
+        0.9071235774494365,
+        0.4138578715191618,
+        0.9172739590581169
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "015-33-316"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3096774193548387,
+        0.5537993920972645,
+        0.38225806451612904,
+        0.5860182370820669
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/14/99"
+    },
+    {
+      "bbox": [
+        0.38225806451612904,
+        0.5537993920972645,
+        0.592741935483871,
+        0.5860182370820669
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Services for September 1999:\nKekst and Company"
+    },
+    {
+      "bbox": [
+        0.6338709677419355,
+        0.5537993920972645,
+        0.7185483870967742,
+        0.5860182370820669
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "14,266.47"
+    },
+    {
+      "bbox": [
+        0.7347394540942928,
+        0.5828698247282703,
+        0.8073063137579266,
+        0.5982534857914797
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "14,266.47"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.31748001102839807,
+        0.503387575901688,
+        0.3651020126826578,
+        0.5213351804754324
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.38225806451612904,
+        0.503387575901688,
+        0.4739523021781086,
+        0.5234042553191489
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6338709677419355,
+        0.5042422237385329,
+        0.7063930245381858,
+        0.5234042553191489
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    },
+    {
+      "bbox": [
+        0.7404087400055142,
+        0.5050968715753779,
+        0.7868968844775296,
+        0.5204805326385874
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 84,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "npvn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15725806451612903,
+          0.46382978723404256,
+          0.8185483870967742,
+          0.6772036474164134
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.3096774193548387,
+            "right": 0.38225806451612904
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.38225806451612904,
+            "right": 0.592741935483871
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6338709677419355,
+            "right": 0.7185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5234042553191489,
+            "row_type": "header",
+            "top": 0.46382978723404256
+          },
+          {
+            "bottom": 0.5537993920972645,
+            "row_type": "gap-with-text",
+            "top": 0.5234042553191489
+          },
+          {
+            "bottom": 0.5860182370820669,
+            "row_type": "data",
+            "top": 0.5537993920972645
+          },
+          {
+            "bottom": 0.6772036474164134,
+            "row_type": "footer",
+            "top": 0.5860182370820669
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

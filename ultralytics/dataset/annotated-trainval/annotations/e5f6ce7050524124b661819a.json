@@ -1,0 +1,270 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.14112903225806453,
+        0.18601823708206686,
+        0.18951612903225806,
+        0.19756838905775076
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/23/01"
+    },
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.21398176291793314,
+        0.27580645161290324,
+        0.22613981762917934
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Life Science Research Office"
+    },
+    {
+      "bbox": [
+        0.11048387096774194,
+        0.2419452887537994,
+        0.3814516129032258,
+        0.25349544072948327
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "9650 Rockville Pike, Bethesda, MD 20814-3998"
+    },
+    {
+      "bbox": [
+        0.5774193548387097,
+        0.15866261398176293,
+        0.6016129032258064,
+        0.1702127659574468
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "472"
+    },
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.1094224924012158,
+        0.2645161290322581,
+        0.12279635258358662
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.7677811550151976,
+        0.9096774193548387,
+        0.7829787234042553
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,245,294"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.4522796352583587,
+        0.12258064516129032,
+        0.48024316109422494
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.2403225806451613,
+        0.4522796352583587,
+        0.5548387096774193,
+        0.48024316109422494
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Phase l- Initial evaluation of scope of\nprogram to evaluate cigarette ingredients"
+    },
+    {
+      "bbox": [
+        0.8241935483870968,
+        0.4522796352583587,
+        0.8991935483870968,
+        0.48024316109422494
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,045,294"
+    },
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.5015197568389058,
+        0.12258064516129032,
+        0.5720364741641337
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.2403225806451613,
+        0.5015197568389058,
+        0.5548387096774193,
+        0.5720364741641337
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Estimated travel expenses associated with\nexecution of Phase l:\nConsultant Travel\nPublic Meetings"
+    },
+    {
+      "bbox": [
+        0.8241935483870968,
+        0.5015197568389058,
+        0.8991935483870968,
+        0.5720364741641337
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "200,000"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.42218844984802434,
+        0.15080645161290324,
+        0.4337386018237082
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.3596774193548387,
+        0.42142857142857143,
+        0.4532258064516129,
+        0.43419452887537996
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7967741935483871,
+        0.4227963525835866,
+        0.8830645161290323,
+        0.4349544072948328
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1054,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "jnyx0008",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.417629179331307,
+          0.9137096774193548,
+          0.7981762917933131
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.10967741935483871,
+            "right": 0.12258064516129032
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2403225806451613,
+            "right": 0.5548387096774193
+          },
+          {
+            "column_type": "",
+            "left": 0.5911290322580646,
+            "right": 0.6653225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8241935483870968,
+            "right": 0.8991935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.43951367781155015,
+            "row_type": "header",
+            "top": 0.417629179331307
+          },
+          {
+            "bottom": 0.4522796352583587,
+            "row_type": "gap",
+            "top": 0.43951367781155015
+          },
+          {
+            "bottom": 0.48024316109422494,
+            "row_type": "data",
+            "top": 0.4522796352583587
+          },
+          {
+            "bottom": 0.5015197568389058,
+            "row_type": "gap",
+            "top": 0.48024316109422494
+          },
+          {
+            "bottom": 0.5720364741641337,
+            "row_type": "data",
+            "top": 0.5015197568389058
+          },
+          {
+            "bottom": 0.7635258358662614,
+            "row_type": "gap",
+            "top": 0.5720364741641337
+          },
+          {
+            "bottom": 0.7981762917933131,
+            "row_type": "footer",
+            "top": 0.7635258358662614
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

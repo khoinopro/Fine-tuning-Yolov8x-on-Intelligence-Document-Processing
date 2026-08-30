@@ -1,0 +1,327 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8008096987263764,
+        0.13553777892930013,
+        0.8744554179322442,
+        0.1475732708889856
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "210-084554"
+    },
+    {
+      "bbox": [
+        0.7988554225587147,
+        0.11904376350404137,
+        0.8744554179322442,
+        0.13195212340206997
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/28/2018"
+    },
+    {
+      "bbox": [
+        0.800710637169108,
+        0.14988040103822078,
+        0.8466271987763438,
+        0.16207162983080334
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "210103"
+    },
+    {
+      "bbox": [
+        0.35926231213350807,
+        0.0419521696685929,
+        0.6755764032055769,
+        0.054860529566621484
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CARTER CO. BRDCSTNG CO,INC"
+    },
+    {
+      "bbox": [
+        0.35972611578610647,
+        0.0419521696685929,
+        0.674184992247782,
+        0.08569716710080087
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "CARTER CO. BRDCSTNG CO, INC\nP.O. BOX 487\nGRAYSON KY 41143"
+    },
+    {
+      "bbox": [
+        0.8008033894071291,
+        0.13606526332470892,
+        0.8752018590127268,
+        0.14737044216915968
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "210-084554"
+    },
+    {
+      "bbox": [
+        0.17503949919832226,
+        0.19584850927433237,
+        0.33968979587073345,
+        0.20875686917236094
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.D. PORTER FOR SHERIFF"
+    },
+    {
+      "bbox": [
+        0.17411189189312556,
+        0.19548994372160933,
+        0.33829838491293845,
+        0.23959350670654037
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.D. PORTER FOR SHERIFF\nP.0. B0X 1613\nOLIVE HILL KY 41164"
+    },
+    {
+      "bbox": [
+        0.541444384751012,
+        0.79415100367902,
+        0.5813314988744693,
+        0.8056251013661564
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "21.00"
+    },
+    {
+      "bbox": [
+        0.542835795708807,
+        0.7930753070208508,
+        0.580867695221871,
+        0.8059836669188796
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "21.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03467741935483871,
+        0.3341645885286783,
+        0.07096774193548391,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/23"
+    },
+    {
+      "bbox": [
+        0.1387096774193549,
+        0.3341645885286783,
+        0.16935483870967746,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7.00"
+    },
+    {
+      "bbox": [
+        0.17419354838709683,
+        0.3341645885286783,
+        0.2056451612903226,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2210"
+    },
+    {
+      "bbox": [
+        0.3443548387096775,
+        0.3341645885286783,
+        0.3814516129032259,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/25"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.03467741935483871,
+        0.3021416172502553,
+        0.0665153166058125,
+        0.3177112745431002
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.1387096774193549,
+        0.3021416172502553,
+        0.17328994666386827,
+        0.31703433292167216
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.18291716740680775,
+        0.3028185588716833,
+        0.2783141729504805,
+        0.31703433292167216
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SOURCE/SCRIPT"
+    },
+    {
+      "bbox": [
+        0.3443548387096775,
+        0.3007877340073992,
+        0.37808718792276214,
+        0.31703433292167216
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 976,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "4338f5aa-e433-47ce-ac7d-c9de73a1f5a2",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03467741935483871,
+          0.2955112219451372,
+          0.9362903225806452,
+          0.8173316708229427
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.03467741935483871,
+            "right": 0.07096774193548391
+          },
+          {
+            "column_type": "",
+            "left": 0.08145161290322585,
+            "right": 0.12096774193548392
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.1387096774193549,
+            "right": 0.16935483870967746
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.17419354838709683,
+            "right": 0.2056451612903226
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.3443548387096775,
+            "right": 0.3814516129032259
+          },
+          {
+            "column_type": "",
+            "left": 0.3935483870967742,
+            "right": 0.4314516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.4491935483870968,
+            "right": 0.4806451612903226
+          },
+          {
+            "column_type": "",
+            "left": 0.4854838709677419,
+            "right": 0.5153225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.6540322580645161,
+            "right": 0.6911290322580645
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3204488778054863,
+            "row_type": "header",
+            "top": 0.2955112219451372
+          },
+          {
+            "bottom": 0.3341645885286783,
+            "row_type": "gap",
+            "top": 0.3204488778054863
+          },
+          {
+            "bottom": 0.3485037406483791,
+            "row_type": "data",
+            "top": 0.3341645885286783
+          },
+          {
+            "bottom": 0.48566084788029923,
+            "row_type": "gap",
+            "top": 0.3485037406483791
+          },
+          {
+            "bottom": 0.587281795511222,
+            "row_type": "gap-with-text",
+            "top": 0.48566084788029923
+          },
+          {
+            "bottom": 0.7817955112219451,
+            "row_type": "gap",
+            "top": 0.587281795511222
+          },
+          {
+            "bottom": 0.8173316708229427,
+            "row_type": "footer",
+            "top": 0.7817955112219451
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

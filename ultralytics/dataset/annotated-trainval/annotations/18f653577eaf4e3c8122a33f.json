@@ -1,0 +1,393 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7011232628712594,
+        0.14342574270165262,
+        0.7459511103969623,
+        0.1622128624139875
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "060234"
+    },
+    {
+      "bbox": [
+        0.701057736582793,
+        0.24440651115545248,
+        0.8148968756941174,
+        0.26162803755842606
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 31, 1999"
+    },
+    {
+      "bbox": [
+        0.14207159979292802,
+        0.036947999712019404,
+        0.2845100428413858,
+        0.06763362857549966
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "50 Cambridge Street\nBurlington, Massachusetts 01803-4610"
+    },
+    {
+      "bbox": [
+        0.06252303249588377,
+        0.6825986828814997,
+        0.18579961319156668,
+        0.727218092198295
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Post Office Box 4088\nBoston, MA 02211"
+    },
+    {
+      "bbox": [
+        0.1991413071070452,
+        0.08141084969787855,
+        0.24677800494775462,
+        0.09518807082025744
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "04-2473079"
+    },
+    {
+      "bbox": [
+        0.7023399625026887,
+        0.16957115141590515,
+        0.7320539423439233,
+        0.18629550321199143
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LORI"
+    },
+    {
+      "bbox": [
+        0.08741254485782551,
+        0.1645612528259492,
+        0.41803952690076895,
+        0.2002567802793854
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt, Planning/Info\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.08929914675250707,
+        0.16330726499705178,
+        0.4197475860784253,
+        0.2772839710999583
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt, Planning/Info\nLorillard Tobacco Company\n714 Green Valley Road\nPO Box 10529\nGreensboro NC\n27404-0529"
+    },
+    {
+      "bbox": [
+        0.7838830872401883,
+        0.7279661063844327,
+        0.7923727957662553,
+        0.747379463420512
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8107671642394005,
+        0.6453027796501593,
+        0.8475559011856909,
+        0.6609587127437716
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.811238814713071,
+        0.674109696542406,
+        0.8470842507120206,
+        0.690391866959763
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.7838830872401883,
+        0.7010379014634194,
+        0.8475559011856909,
+        0.7185725465282653
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$4,990.23"
+    },
+    {
+      "bbox": [
+        0.7829397862928476,
+        0.7279661063844327,
+        0.8470842507120206,
+        0.7467532260967675
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$4,990.23"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06290322580645161,
+        0.39186295503211993,
+        0.3233870967741935,
+        0.4132762312633833
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Mayo, Anthony J. Trip Date: 10/14/99"
+    },
+    {
+      "bbox": [
+        0.7806451612903226,
+        0.39186295503211993,
+        0.8475806451612903,
+        0.4132762312633833
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,121.86"
+    },
+    {
+      "bbox": [
+        0.06290322580645161,
+        0.4132762312633833,
+        0.3233870967741935,
+        0.43254817987152033
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Welden, Bart E. Trip Date: 01/04/99"
+    },
+    {
+      "bbox": [
+        0.7806451612903226,
+        0.4132762312633833,
+        0.8475806451612903,
+        0.43254817987152033
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$995.18"
+    },
+    {
+      "bbox": [
+        0.06290322580645161,
+        0.43254817987152033,
+        0.3233870967741935,
+        0.4518201284796574
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Gregory, Daniel L. Trip Date: 10/14/99"
+    },
+    {
+      "bbox": [
+        0.7806451612903226,
+        0.43254817987152033,
+        0.8475806451612903,
+        0.4518201284796574
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$934.81"
+    },
+    {
+      "bbox": [
+        0.06290322580645161,
+        0.4518201284796574,
+        0.3233870967741935,
+        0.4721627408993576
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Young, John E. Trip Date: 09/23/99"
+    },
+    {
+      "bbox": [
+        0.7806451612903226,
+        0.4518201284796574,
+        0.8475806451612903,
+        0.4721627408993576
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$985.20"
+    },
+    {
+      "bbox": [
+        0.06290322580645161,
+        0.4721627408993576,
+        0.3233870967741935,
+        0.49143468950749464
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Griftfin, Thomas J. Trip Date: 09/23/99"
+    },
+    {
+      "bbox": [
+        0.7806451612903226,
+        0.4721627408993576,
+        0.8475806451612903,
+        0.49143468950749464
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$953.18"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04462885673050669,
+        0.3376491421038056,
+        0.13388657019152006,
+        0.35941345565033567
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "October 1999"
+    },
+    {
+      "bbox": [
+        0.7806451612903226,
+        0.3400673991645312,
+        0.8534130358466281,
+        0.35653104925053536
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 177,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jkjn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04838709677419355,
+          0.3340471092077088,
+          0.8685483870967742,
+          0.7580299785867237
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06290322580645161,
+            "right": 0.3233870967741935
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7806451612903226,
+            "right": 0.8475806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.35653104925053536,
+            "row_type": "header",
+            "top": 0.3340471092077088
+          },
+          {
+            "bottom": 0.367237687366167,
+            "row_type": "gap",
+            "top": 0.35653104925053536
+          },
+          {
+            "bottom": 0.39186295503211993,
+            "row_type": "subsection-header",
+            "top": 0.367237687366167
+          },
+          {
+            "bottom": 0.4132762312633833,
+            "row_type": "data",
+            "top": 0.39186295503211993
+          },
+          {
+            "bottom": 0.43254817987152033,
+            "row_type": "data",
+            "top": 0.4132762312633833
+          },
+          {
+            "bottom": 0.4518201284796574,
+            "row_type": "data",
+            "top": 0.43254817987152033
+          },
+          {
+            "bottom": 0.4721627408993576,
+            "row_type": "data",
+            "top": 0.4518201284796574
+          },
+          {
+            "bottom": 0.49143468950749464,
+            "row_type": "data",
+            "top": 0.4721627408993576
+          },
+          {
+            "bottom": 0.5171306209850107,
+            "row_type": "footer",
+            "top": 0.49143468950749464
+          },
+          {
+            "bottom": 0.6366167023554605,
+            "row_type": "gap",
+            "top": 0.5171306209850107
+          },
+          {
+            "bottom": 0.7580299785867237,
+            "row_type": "footer",
+            "top": 0.6366167023554605
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

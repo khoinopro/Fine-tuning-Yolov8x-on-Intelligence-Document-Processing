@@ -1,0 +1,309 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6585056811549087,
+        0.2568948328267477,
+        0.7529208334954668,
+        0.27016170212765955
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "AP0007-D"
+    },
+    {
+      "bbox": [
+        0.6585056811549087,
+        0.2394066869300912,
+        0.8105300789914004,
+        0.2544826747720365
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 30, 1999"
+    },
+    {
+      "bbox": [
+        0.3880622786878867,
+        0.10734103343465046,
+        0.5880943811043231,
+        0.124829179331307
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "APCO CANADA"
+    },
+    {
+      "bbox": [
+        0.16162593875248063,
+        0.9015440729483283,
+        0.556889373127359,
+        0.9148109422492401
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "155 University Avenue, Suite 1230, Toronto, Ontario M5H 3B7"
+    },
+    {
+      "bbox": [
+        0.2616419899606988,
+        0.2403112462006079,
+        0.3904626639168839,
+        0.2553191489361702
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Arnold & Porter"
+    },
+    {
+      "bbox": [
+        0.2608418615510331,
+        0.2409142857142857,
+        0.4576734503288066,
+        0.3030273556231003
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Arnold & Porter\n555 Twelfth Street, N.W.\nWashington, D.C.\nU.S. A. 20004-1202"
+    },
+    {
+      "bbox": [
+        0.7145146698315109,
+        0.462380547112462,
+        0.7265165959764971,
+        0.47685349544072947
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7145146698315109,
+        0.46328510638297876,
+        0.8209317483170552,
+        0.4777580547112462
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$37.57(U.S.)"
+    },
+    {
+      "bbox": [
+        0.7145146698315109,
+        0.46328510638297876,
+        0.8201316199073894,
+        0.47715501519756837
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$37.57(U.S.)"
+    },
+    {
+      "bbox": [
+        0.6585056811549087,
+        0.27212158054711244,
+        0.748920191447138,
+        0.28814589665653495
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "On Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.20403225806451614,
+        0.3817629179331307,
+        0.35,
+        0.4
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Facsimile Charges"
+    },
+    {
+      "bbox": [
+        0.4032258064516129,
+        0.3817629179331307,
+        0.45806451612903226,
+        0.4
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$18.72"
+    },
+    {
+      "bbox": [
+        0.20403225806451614,
+        0.4,
+        0.35,
+        0.41519756838905775
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Long Distance"
+    },
+    {
+      "bbox": [
+        0.4032258064516129,
+        0.4,
+        0.45806451612903226,
+        0.41519756838905775
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "4.30"
+    },
+    {
+      "bbox": [
+        0.20403225806451614,
+        0.41519756838905775,
+        0.35,
+        0.43221884498480245
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Courier"
+    },
+    {
+      "bbox": [
+        0.4032258064516129,
+        0.41519756838905775,
+        0.45806451612903226,
+        0.43221884498480245
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "9.65"
+    },
+    {
+      "bbox": [
+        0.20403225806451614,
+        0.43221884498480245,
+        0.35,
+        0.44559270516717325
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Admin. Charge"
+    },
+    {
+      "bbox": [
+        0.4032258064516129,
+        0.43221884498480245,
+        0.45806451612903226,
+        0.44559270516717325
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "4.90"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.14802375578816296,
+        0.3523258358662614,
+        0.34405521615627066,
+        0.3686079027355623
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Out of Pocket Expenses"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 522,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qjbn0071",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14596774193548387,
+          0.3519756838905775,
+          0.8233870967741935,
+          0.48145896656534953
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.20403225806451614,
+            "right": 0.35
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4032258064516129,
+            "right": 0.45806451612903226
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3689969604863222,
+            "row_type": "header",
+            "top": 0.3519756838905775
+          },
+          {
+            "bottom": 0.3817629179331307,
+            "row_type": "gap",
+            "top": 0.3689969604863222
+          },
+          {
+            "bottom": 0.4,
+            "row_type": "data",
+            "top": 0.3817629179331307
+          },
+          {
+            "bottom": 0.41519756838905775,
+            "row_type": "data",
+            "top": 0.4
+          },
+          {
+            "bottom": 0.43221884498480245,
+            "row_type": "data",
+            "top": 0.41519756838905775
+          },
+          {
+            "bottom": 0.44559270516717325,
+            "row_type": "data",
+            "top": 0.43221884498480245
+          },
+          {
+            "bottom": 0.4613981762917933,
+            "row_type": "gap",
+            "top": 0.44559270516717325
+          },
+          {
+            "bottom": 0.48145896656534953,
+            "row_type": "footer",
+            "top": 0.4613981762917933
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6983378841757684,
+        0.13433951721587184,
+        0.7524479298958597,
+        0.1471337569507168
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "596709"
+    },
+    {
+      "bbox": [
+        0.6270399415798832,
+        0.12105319133737903,
+        0.7562674625349252,
+        0.13532368950316762
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 29, 1999"
+    },
+    {
+      "bbox": [
+        0.26991363982727967,
+        0.8242551515946973,
+        0.5330369994073322,
+        0.8354114713216958
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "2101 L Street NW \u2022\u00a0Washington, DC 20037-1526"
+    },
+    {
+      "bbox": [
+        0.5067246634493269,
+        0.8365464442013998,
+        0.5805689611379223,
+        0.8463881670743575
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "53-0246695"
+    },
+    {
+      "bbox": [
+        0.707250127000254,
+        0.14664167080706889,
+        0.7874603124206249,
+        0.1599279966855617
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "T2775.000"
+    },
+    {
+      "bbox": [
+        0.17909364152061638,
+        0.12075075469221683,
+        0.37770933875201085,
+        0.17193857461609136
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Walter Woodson\nSecretary/Tr\u00e9asurer\nTobacco Industry Labor\nManagement Committee"
+    },
+    {
+      "bbox": [
+        0.178244856489713,
+        0.16996981231132693,
+        0.35818728304123276,
+        0.1975324845780286
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "P.O. Box 65311\nWashington, DC 20035"
+    },
+    {
+      "bbox": [
+        0.7868237236474473,
+        0.5026906418165114,
+        0.7987067140800949,
+        0.5197532484578028
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.785974938616544,
+        0.5033468959180994,
+        0.8615168063669462,
+        0.5177844861530384
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1.350.95"
+    },
+    {
+      "bbox": [
+        0.7870967741935484,
+        0.5046594041212757,
+        0.8606680213360426,
+        0.5184407402546266
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,350.95"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.33042394014962595,
+        0.3975806451612903,
+        0.3472568578553616
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Monthly Retainer (January)"
+    },
+    {
+      "bbox": [
+        0.6387096774193548,
+        0.33042394014962595,
+        0.8766129032258064,
+        0.3472568578553616
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$1,250.00"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.4314214463840399,
+        0.3975806451612903,
+        0.4476309226932668
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Telephone"
+    },
+    {
+      "bbox": [
+        0.6387096774193548,
+        0.4314214463840399,
+        0.8766129032258064,
+        0.4476309226932668
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$100.95"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 354,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gpwx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.17903225806451614,
+          0.33042394014962595,
+          0.8766129032258064,
+          0.49438902743142144
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17903225806451614,
+            "right": 0.3975806451612903
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6387096774193548,
+            "right": 0.8766129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3472568578553616,
+            "row_type": "data",
+            "top": 0.33042394014962595
+          },
+          {
+            "bottom": 0.4314214463840399,
+            "row_type": "gap-with-text",
+            "top": 0.3472568578553616
+          },
+          {
+            "bottom": 0.4476309226932668,
+            "row_type": "data",
+            "top": 0.4314214463840399
+          },
+          {
+            "bottom": 0.49438902743142144,
+            "row_type": "gap-with-text",
+            "top": 0.4476309226932668
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

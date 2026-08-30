@@ -1,0 +1,167 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7539379503796488,
+        0.141667512948106,
+        0.8702265802582578,
+        0.15515965703840182
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9900436-IN"
+    },
+    {
+      "bbox": [
+        0.7508064516129033,
+        0.11228945726762321,
+        0.8556451612903225,
+        0.13100436681222707
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/30/99"
+    },
+    {
+      "bbox": [
+        0.27618549596169656,
+        0.2503542292310445,
+        0.6192369541035933,
+        0.2653455004424843
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WACHTELL, LIPTON, ROSEN &\u0301 KATZ"
+    },
+    {
+      "bbox": [
+        0.2781236397930067,
+        0.2653455004424843,
+        0.6269895294288339,
+        0.3193140768036675
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "51 W. 52ND STREET\nNY 10019-6150\nNew York"
+    },
+    {
+      "bbox": [
+        0.2984741500217633,
+        0.01649039833258377,
+        0.5882266528026309,
+        0.033730360225739525
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.4092617040723063,
+        0.872164724089568,
+        0.42425297528374606
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "9,750.00"
+    },
+    {
+      "bbox": [
+        0.7766129032258065,
+        0.7858424552035654,
+        0.8798387096774194,
+        0.8009981285090455
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "9,750.00"
+    },
+    {
+      "bbox": [
+        0.7766129032258065,
+        0.7858424552035654,
+        0.8798387096774194,
+        0.8009981285090455
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "9,750.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.4117280099812851,
+        0.3782258064516129,
+        0.42857142857142855
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "LEGAL BILL REVIEW"
+    },
+    {
+      "bbox": [
+        0.7790322580645161,
+        0.4117280099812851,
+        0.8798387096774194,
+        0.42857142857142855
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "9,750.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1027,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ggcn0231",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1704,
+        2203
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.17903225806451614,
+          0.4117280099812851,
+          0.8798387096774194,
+          0.42857142857142855
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17903225806451614,
+            "right": 0.3782258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7790322580645161,
+            "right": 0.8798387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42857142857142855,
+            "row_type": "data",
+            "top": 0.4117280099812851
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

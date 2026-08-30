@@ -1,0 +1,145 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.43319394663480687,
+        0.21565892344101104,
+        0.5511822978892872,
+        0.22933055253440848
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 28, 1999"
+    },
+    {
+      "bbox": [
+        0.44630376344086026,
+        0.15523914325406113,
+        0.5392124651533253,
+        0.16846975205412315
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "DAVID ROE"
+    },
+    {
+      "bbox": [
+        0.40811429709279173,
+        0.15534212436433864,
+        0.576831939466348,
+        0.21521790314767564
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DAID ROE\n179 Peninsula Road\nMedicine Lake\nMinneapolis, MN 55441"
+    },
+    {
+      "bbox": [
+        0.5637221226602948,
+        0.2743146224546194,
+        0.5751219633612107,
+        0.289309312428023
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5648621067303864,
+        0.27563768333462557,
+        0.6344011350059737,
+        0.2888682921346876
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,750.00"
+    },
+    {
+      "bbox": [
+        0.5654320987654321,
+        0.27563768333462557,
+        0.6326911589008364,
+        0.289309312428023
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,750.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16774193548387098,
+        0.27635683094198377,
+        0.3596774193548387,
+        0.2913287585776669
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "January Consulting Services"
+    },
+    {
+      "bbox": [
+        0.5653225806451613,
+        0.27635683094198377,
+        0.6379032258064516,
+        0.2913287585776669
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$2,750.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 580,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pfyc0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.16774193548387098,
+          0.27635683094198377,
+          0.6379032258064516,
+          0.2913287585776669
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.16774193548387098,
+            "right": 0.3596774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5653225806451613,
+            "right": 0.6379032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2913287585776669,
+            "row_type": "data",
+            "top": 0.27635683094198377
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8394169475204623,
+        0.17487308801749696,
+        0.8751685122773231,
+        0.18740665405288068
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1200"
+    },
+    {
+      "bbox": [
+        0.09012373615792008,
+        0.17487308801749696,
+        0.16907510832932116,
+        0.1880034905307561
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "07/16/1999"
+    },
+    {
+      "bbox": [
+        0.6375695714973519,
+        0.22358986552407778,
+        0.8803822821376986,
+        0.23791394099308777
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "R.J. BOSHART & ASSOCIATES, INC"
+    },
+    {
+      "bbox": [
+        0.6375695714973519,
+        0.22358986552407778,
+        0.8803822821376986,
+        0.26536841897535696
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "R.J. BOSHART & ASSOCIATES, INC\n175 S. JASMINE ST., STE 100\nDENVER, CO 80222"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.24434389140271492,
+        0.25725806451612904,
+        0.25210084033613445
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ZIFF IAVERN, INC UDA"
+    },
+    {
+      "bbox": [
+        0.09012373615792008,
+        0.23731710451521237,
+        0.2517506018295619,
+        0.2504475070284715
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "ZIPP TAVERN, INC DBA"
+    },
+    {
+      "bbox": [
+        0.09012373615792008,
+        0.23791394099308777,
+        0.2524954260953298,
+        0.27790198501074065
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "ZIPP TAVERN, INC DBA\n3014 E. COLFAX AVE.\nCENVER, CO 80206"
+    },
+    {
+      "bbox": [
+        0.8170722195474242,
+        0.7016558843022861,
+        0.8788926336061628,
+        0.7159799597712961
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "3,315.00"
+    },
+    {
+      "bbox": [
+        0.8178170438131921,
+        0.7021781162204271,
+        0.8788926336061628,
+        0.7170990281673125
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "3,315.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09193548387096774,
+        0.41047188106011634,
+        0.42338709677419356,
+        0.4259857789269554
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PROPERTY/LIABILITY/LIQUOR"
+    },
+    {
+      "bbox": [
+        0.8145161290322581,
+        0.41047188106011634,
+        0.8846774193548387,
+        0.4259857789269554
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3,309.00"
+    },
+    {
+      "bbox": [
+        0.09193548387096774,
+        0.6826115061409179,
+        0.42338709677419356,
+        0.6955397543632837
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "* INCLUDES $3.00/PAYMENT SERVICE CHARGE"
+    },
+    {
+      "bbox": [
+        0.8145161290322581,
+        0.6826115061409179,
+        0.8846774193548387,
+        0.6955397543632837
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "6.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09193548387096774,
+        0.3930187459599224,
+        0.22493692826191622,
+        0.40674405967209615
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Invoice Description"
+    },
+    {
+      "bbox": [
+        0.8145161290322581,
+        0.3930187459599224,
+        0.8846774193548387,
+        0.40530058177117
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Premum"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 225,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ynnf0022",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09193548387096774,
+          0.3930187459599224,
+          0.8846774193548387,
+          0.7213962508080155
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.09193548387096774,
+            "right": 0.42338709677419356
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8145161290322581,
+            "right": 0.8846774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40530058177117,
+            "row_type": "header",
+            "top": 0.3930187459599224
+          },
+          {
+            "bottom": 0.41047188106011634,
+            "row_type": "gap",
+            "top": 0.40530058177117
+          },
+          {
+            "bottom": 0.4259857789269554,
+            "row_type": "data",
+            "top": 0.41047188106011634
+          },
+          {
+            "bottom": 0.4479638009049774,
+            "row_type": "gap-with-text",
+            "top": 0.4259857789269554
+          },
+          {
+            "bottom": 0.5158371040723982,
+            "row_type": "gap-with-text",
+            "top": 0.4479638009049774
+          },
+          {
+            "bottom": 0.6826115061409179,
+            "row_type": "gap",
+            "top": 0.5158371040723982
+          },
+          {
+            "bottom": 0.6955397543632837,
+            "row_type": "data",
+            "top": 0.6826115061409179
+          },
+          {
+            "bottom": 0.702650290885585,
+            "row_type": "gap",
+            "top": 0.6955397543632837
+          },
+          {
+            "bottom": 0.7213962508080155,
+            "row_type": "footer",
+            "top": 0.702650290885585
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

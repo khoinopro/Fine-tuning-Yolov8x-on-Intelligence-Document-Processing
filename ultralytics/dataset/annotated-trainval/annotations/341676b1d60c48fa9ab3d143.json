@@ -1,0 +1,178 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6627559898273324,
+        0.19509125235997482,
+        0.7235403115104612,
+        0.21003441211520693
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "21197"
+    },
+    {
+      "bbox": [
+        0.6638569133984741,
+        0.17682739043691334,
+        0.7310132512381208,
+        0.19177055019214548
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "2/25/00"
+    },
+    {
+      "bbox": [
+        0.6638569133984741,
+        0.21252493874107894,
+        0.7100957033864276,
+        0.22663792295435373
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "7757"
+    },
+    {
+      "bbox": [
+        0.42187306884192316,
+        0.9070495861704058,
+        0.8877971408560953,
+        0.9172662657752819
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "575 \u25aa LEXINGTON \u25aa AVENUE \u25aa NEW YORK \u25aa NY \u25aa 10022 \u25aa USA"
+    },
+    {
+      "bbox": [
+        0.0891748092624816,
+        0.20007230561171885,
+        0.12110159282559228,
+        0.2133551142830363
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.0902643831060858,
+        0.20159751183996608,
+        0.28073551064114577,
+        0.2698070511361354
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 GRANDVIEW AVENUE\nGREAT NECK, NY\n11020-1510\nRUSS TILLMAN"
+    },
+    {
+      "bbox": [
+        0.747527104805247,
+        0.8069306267825341,
+        0.8378028376388703,
+        0.8243643131636383
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "32,947.00"
+    },
+    {
+      "bbox": [
+        0.7486280283763888,
+        0.8517601060482305,
+        0.8389037612100121,
+        0.8675334413454199
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "32,947.00"
+    },
+    {
+      "bbox": [
+        0.13761544639271853,
+        0.833496244125169,
+        0.2598179627894526,
+        0.8517601060482305
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08709677419354839,
+        0.43039513677811553,
+        0.3774193548387097,
+        0.45045592705167176
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "FIRST 50% EDITORIAL BILLING"
+    },
+    {
+      "bbox": [
+        0.7564516129032258,
+        0.43039513677811553,
+        0.8508064516129032,
+        0.45045592705167176
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "32,947.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 19,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lljd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08709677419354839,
+          0.43039513677811553,
+          0.8508064516129032,
+          0.45045592705167176
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08709677419354839,
+            "right": 0.3774193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7564516129032258,
+            "right": 0.8508064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.45045592705167176,
+            "row_type": "data",
+            "top": 0.43039513677811553
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4359291509994063,
+        0.2349271790782473,
+        0.5525543524356111,
+        0.2533356520657219
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 24, 1999"
+    },
+    {
+      "bbox": [
+        0.39919354838709675,
+        0.0898876404494382,
+        0.5876551412173815,
+        0.11395721373198564
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Robert W. Crandal"
+    },
+    {
+      "bbox": [
+        0.39720736869766454,
+        0.0909981503290858,
+        0.5882383548122107,
+        0.14551459599622782
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Robert W. Crandall\n5100 38th St., NW\nWashington, DC 20016"
+    },
+    {
+      "bbox": [
+        0.4693548387096774,
+        0.16853932584269662,
+        0.5774645896355771,
+        0.1832081359229615
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "202-364-1412"
+    },
+    {
+      "bbox": [
+        0.5853905741992027,
+        0.6083562025384464,
+        0.6001102598173645,
+        0.6276412694777056
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5842582906901134,
+        0.5022883343725213,
+        0.6782378219445309,
+        0.522449995263565
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$22,841.71"
+    },
+    {
+      "bbox": [
+        0.5853905741992027,
+        0.6104868913857678,
+        0.6793701054536202,
+        0.62851786342949
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$33,191.71"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.5798387096774194,
+        0.4307116104868914,
+        0.6895161290322581,
+        0.45131086142322097
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$20,700.00"
+    },
+    {
+      "bbox": [
+        0.28646772779960983,
+        0.43128422427797647,
+        0.3113779649995759,
+        0.45144588516902
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "46"
+    },
+    {
+      "bbox": [
+        0.3091133979813972,
+        0.43128422427797647,
+        0.36233072290859747,
+        0.449692697265451
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "hours"
+    },
+    {
+      "bbox": [
+        0.38950552712674225,
+        0.43128422427797647,
+        0.4597071046902829,
+        0.45144588516902
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$450/hr"
+    },
+    {
+      "bbox": [
+        0.5798387096774194,
+        0.46504369538077406,
+        0.6895161290322581,
+        0.48626716604244696
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,141.71"
+    },
+    {
+      "bbox": [
+        0.28873229481778856,
+        0.4663479823493566,
+        0.49933702750841086,
+        0.4865096432404002
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Travel expenses -- Boston"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1029,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kjdj0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1706,
+        2205
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2887096774193548,
+          0.4307116104868914,
+          0.6895161290322581,
+          0.5249687890137328
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5798387096774194,
+            "right": 0.6895161290322581
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.45131086142322097,
+            "row_type": "data",
+            "top": 0.4307116104868914
+          },
+          {
+            "bottom": 0.46504369538077406,
+            "row_type": "gap",
+            "top": 0.45131086142322097
+          },
+          {
+            "bottom": 0.48626716604244696,
+            "row_type": "data",
+            "top": 0.46504369538077406
+          },
+          {
+            "bottom": 0.50187265917603,
+            "row_type": "gap",
+            "top": 0.48626716604244696
+          },
+          {
+            "bottom": 0.5249687890137328,
+            "row_type": "footer",
+            "top": 0.50187265917603
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

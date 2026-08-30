@@ -1,0 +1,208 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7770370791864099,
+        0.19301357466063349,
+        0.820250263816756,
+        0.20583839689722044
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "04074"
+    },
+    {
+      "bbox": [
+        0.7290224295971363,
+        0.21866321913380737,
+        0.8490590535703201,
+        0.23405300581771168
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 31, 1999"
+    },
+    {
+      "bbox": [
+        0.36651182519812125,
+        0.13017194570135746,
+        0.5625716443543214,
+        0.14940917905623788
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "E. Morris Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.20886372571333983,
+        0.9004628312863607,
+        0.46814283349541685,
+        0.9132876535229476
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "820 North Orleans Suite 402 Chicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.04641416126963107,
+        0.21064770523594054,
+        0.2576786194624346,
+        0.22882999353587588
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA(MEDIA)"
+    },
+    {
+      "bbox": [
+        0.048014649589273525,
+        0.21128894634776987,
+        0.2576786194624346,
+        0.25938202973497093
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA(MEDIA)\n120 PARK AVENUE\nNEW YORK, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.7250212087980302,
+        0.8568584356819651,
+        0.7362246270355274,
+        0.8728894634776987
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.724220964638209,
+        0.8568584356819651,
+        0.8082466014194376,
+        0.8735307045895282
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,990.00"
+    },
+    {
+      "bbox": [
+        0.724220964638209,
+        0.8568584356819651,
+        0.8082466014194376,
+        0.8735307045895282
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,990.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04596774193548378,
+        0.4065934065934066,
+        0.3443548387096774,
+        0.43826761473820297
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AGENCY FEE\nAGENCY FEE - OCTOBER 1999"
+    },
+    {
+      "bbox": [
+        0.7491935483870967,
+        0.4065934065934066,
+        0.8177419354838709,
+        0.43826761473820297
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "7,990.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 81,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lfdl0024",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04596774193548378,
+          0.4065934065934066,
+          0.8177419354838709,
+          0.8862314156431803
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04596774193548378,
+            "right": 0.3443548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7491935483870967,
+            "right": 0.8177419354838709
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.43826761473820297,
+            "row_type": "data",
+            "top": 0.4065934065934066
+          },
+          {
+            "bottom": 0.4550743374272786,
+            "row_type": "gap",
+            "top": 0.43826761473820297
+          },
+          {
+            "bottom": 0.4725274725274725,
+            "row_type": "subsection-header",
+            "top": 0.4550743374272786
+          },
+          {
+            "bottom": 0.5106658047834518,
+            "row_type": "gap",
+            "top": 0.4725274725274725
+          },
+          {
+            "bottom": 0.6599870717517776,
+            "row_type": "gap-with-text",
+            "top": 0.5106658047834518
+          },
+          {
+            "bottom": 0.8493859082094376,
+            "row_type": "gap",
+            "top": 0.6599870717517776
+          },
+          {
+            "bottom": 0.8862314156431803,
+            "row_type": "footer",
+            "top": 0.8493859082094376
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

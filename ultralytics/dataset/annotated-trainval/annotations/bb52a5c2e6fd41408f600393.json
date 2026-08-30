@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8752614507745518,
+        0.14409234338398672,
+        0.8943816645429549,
+        0.1570146750524109
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "14"
+    },
+    {
+      "bbox": [
+        0.7354838709677419,
+        0.13962264150943396,
+        0.8241935483870968,
+        0.1570146750524109
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "07/06/2000"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.3275471698113207,
+        0.9090436590436589,
+        0.3441844863731656
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "07/31/2000"
+    },
+    {
+      "bbox": [
+        0.08709677419354839,
+        0.0779874213836478,
+        0.6111229933068291,
+        0.12633962264150944
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Boulay, Heutmaker, Zibell & Co. P.L.L.P. Agent\nDepository Escrow Account for Phillip Morris Inc., R.J. Reynolds, Brown &\nWilliamson, and Lorillard Cos."
+    },
+    {
+      "bbox": [
+        0.08601731166020833,
+        0.07853374046953672,
+        0.608306700141501,
+        0.17703144654088052
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Boulay, Heutmaker, Zibell & Co. P.L.L.P. Agent\nDepository Escrow Account for Phillip Morris Inc., R.J. Reynolds, Brown &\nWilliamson, and Lorillard Cos.\n500 Sentinel Building\n5151 Edina Industrial Boulevard\nMinneapolis, MN 55439"
+    },
+    {
+      "bbox": [
+        0.7281465452166473,
+        0.7827987421383649,
+        0.8561723114085854,
+        0.7968364779874214
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "pmargarit@bhz.com"
+    },
+    {
+      "bbox": [
+        0.0830167077650848,
+        0.23786163522012577,
+        0.2380710951651716,
+        0.25540538791581324
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.0875261210376807,
+        0.24038154141458512,
+        0.2512000173274528,
+        0.301811320754717
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Co.\nRonald S. Milstein, Esq.\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.8381686880378441,
+        0.7418553459119497,
+        0.8481707010215893,
+        0.7551132075471697
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8387096774193549,
+        0.7418553459119497,
+        0.9171845906094309,
+        0.7563520623389983
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$26,968.00"
+    },
+    {
+      "bbox": [
+        0.8387096774193549,
+        0.7418553459119497,
+        0.9171845906094309,
+        0.7582327044025157
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$26,968.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05161290322580645,
+        0.39433962264150946,
+        0.22983870967741934,
+        0.45723270440251573
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3rd Quarter 2000 Escrow\nAccount Payment -\nMarket Share is\n10.7873307%"
+    },
+    {
+      "bbox": [
+        0.8516129032258064,
+        0.39433962264150946,
+        0.9298387096774193,
+        0.45723270440251573
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "26,968.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09890452024499106,
+        0.3661872935955037,
+        0.19693380572335725,
+        0.3798453358693475
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8166189317830291,
+        0.3682359999365803,
+        0.912022432828939,
+        0.3798453358693475
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT DUE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 802,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ngyx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1825,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05161290322580645,
+          0.3635220125786163,
+          0.9298387096774193,
+          0.7773584905660378
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05161290322580645,
+            "right": 0.22983870967741934
+          },
+          {
+            "column_type": "",
+            "left": 0.3193548387096774,
+            "right": 0.38225806451612904
+          },
+          {
+            "column_type": "",
+            "left": 0.6008064516129032,
+            "right": 0.6645161290322581
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8516129032258064,
+            "right": 0.9298387096774193
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39433962264150946,
+            "row_type": "header",
+            "top": 0.3635220125786163
+          },
+          {
+            "bottom": 0.45723270440251573,
+            "row_type": "data",
+            "top": 0.39433962264150946
+          },
+          {
+            "bottom": 0.6679245283018868,
+            "row_type": "gap",
+            "top": 0.45723270440251573
+          },
+          {
+            "bottom": 0.7220125786163522,
+            "row_type": "gap-with-text",
+            "top": 0.6679245283018868
+          },
+          {
+            "bottom": 0.7773584905660378,
+            "row_type": "footer",
+            "top": 0.7220125786163522
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

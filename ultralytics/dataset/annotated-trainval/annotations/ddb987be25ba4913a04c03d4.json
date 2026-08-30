@@ -1,0 +1,173 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4208847926267281,
+        0.25152883522694536,
+        0.5713755760368663,
+        0.2691549089076214
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 17, 2006"
+    },
+    {
+      "bbox": [
+        0.7612488873883552,
+        0.07438570272002087,
+        0.888531659556183,
+        0.08913497657535982
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "February 17, 2006"
+    },
+    {
+      "bbox": [
+        0.7305167694220168,
+        0.06138113034664759,
+        0.8887369881590679,
+        0.07461066081755736
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "Bellomy Research, Inc."
+    },
+    {
+      "bbox": [
+        0.5342435866849158,
+        0.30924027475751614,
+        0.5993341830007911,
+        0.32363711674056506
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$28,650"
+    },
+    {
+      "bbox": [
+        0.5352449804743907,
+        0.30924027475751614,
+        0.5993341830007911,
+        0.3240262205779447
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$28,650"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1532258064516129,
+        0.2545454545454545,
+        0.3024193548387097,
+        0.270846394984326
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "BRI Project Costs"
+    },
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.2545454545454545,
+        0.5991935483870968,
+        0.270846394984326
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "$21,150"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1532258064516129,
+        0.23887147335423198,
+        0.20435711040436166,
+        0.2545454545454545
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Task"
+    },
+    {
+      "bbox": [
+        0.5493003180372559,
+        0.23950936463586386,
+        0.5877078600636075,
+        0.2545454545454545
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Cost"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 584,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tkgj0224",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1729,
+        2222
+      ],
+      [
+        1725,
+        2219
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.1532258064516129,
+          0.23887147335423198,
+          0.6524193548387097,
+          0.3247648902821317
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1532258064516129,
+            "right": 0.3024193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5330645161290323,
+            "right": 0.5991935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2545454545454545,
+            "row_type": "header",
+            "top": 0.23887147335423198
+          },
+          {
+            "bottom": 0.270846394984326,
+            "row_type": "data",
+            "top": 0.2545454545454545
+          },
+          {
+            "bottom": 0.3247648902821317,
+            "row_type": "footer",
+            "top": 0.270846394984326
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

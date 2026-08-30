@@ -1,0 +1,285 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.07598784194528875,
+        0.8040322580645162,
+        0.08996960486322189
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "P0242857"
+    },
+    {
+      "bbox": [
+        0.7096774193548387,
+        0.057750759878419454,
+        0.7862903225806451,
+        0.07112462006079028
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/29/99"
+    },
+    {
+      "bbox": [
+        0.7096774193548387,
+        0.11367781155015197,
+        0.7564516129032258,
+        0.12887537993920972
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "9996"
+    },
+    {
+      "bbox": [
+        0.7119051154043351,
+        0.21452259155524908,
+        0.7626929361218907,
+        0.2277239819597546
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "05037"
+    },
+    {
+      "bbox": [
+        0.2629032258064516,
+        0.07173252279635259,
+        0.40725806451612906,
+        0.08814589665653495
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The CPS Group"
+    },
+    {
+      "bbox": [
+        0.2629032258064516,
+        0.07062743614613906,
+        0.4653225806451613,
+        0.12583586626139817
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The CPS Group\n40 West 23rd Street\nNew York, NY 10010"
+    },
+    {
+      "bbox": [
+        0.7096774193548387,
+        0.09300911854103343,
+        0.8241935483870968,
+        0.1094224924012158
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "100070 024"
+    },
+    {
+      "bbox": [
+        0.1620967741935484,
+        0.2541033434650456,
+        0.34274193548387094,
+        0.26869300911854105
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co. Inc."
+    },
+    {
+      "bbox": [
+        0.8048387096774193,
+        0.4209726443768997,
+        0.8193548387096774,
+        0.4337386018237082
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8169354838709677,
+        0.4045592705167173,
+        0.8830645161290323,
+        0.41854103343465043
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "300.00"
+    },
+    {
+      "bbox": [
+        0.8064516129032258,
+        0.4209726443768997,
+        0.8838709677419355,
+        0.43434650455927054
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$300.00"
+    },
+    {
+      "bbox": [
+        0.8048387096774193,
+        0.4209726443768997,
+        0.8814516129032258,
+        0.43434650455927054
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$300.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12903225806451613,
+        0.36717325227963526,
+        0.32903225806451614,
+        0.382370820668693
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Color Laser Copies 8.5 x 11"
+    },
+    {
+      "bbox": [
+        0.7362903225806452,
+        0.36717325227963526,
+        0.7685483870967742,
+        0.382370820668693
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "100"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.36717325227963526,
+        0.8838709677419355,
+        0.382370820668693
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "300.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.12903225806451613,
+        0.33069908814589666,
+        0.2717741935483871,
+        0.3458966565349544
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Item Description"
+    },
+    {
+      "bbox": [
+        0.7225806451612903,
+        0.3310030395136778,
+        0.8008064516129032,
+        0.3455927051671733
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.32978723404255317,
+        0.8774193548387097,
+        0.3437689969604863
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 505,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "znmn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12903225806451613,
+          0.33069908814589666,
+          0.8838709677419355,
+          0.43647416413373863
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12903225806451613,
+            "right": 0.32903225806451614
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7362903225806452,
+            "right": 0.7685483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8274193548387097,
+            "right": 0.8838709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3458966565349544,
+            "row_type": "header",
+            "top": 0.33069908814589666
+          },
+          {
+            "bottom": 0.36717325227963526,
+            "row_type": "gap",
+            "top": 0.3458966565349544
+          },
+          {
+            "bottom": 0.382370820668693,
+            "row_type": "data",
+            "top": 0.36717325227963526
+          },
+          {
+            "bottom": 0.4012158054711246,
+            "row_type": "gap",
+            "top": 0.382370820668693
+          },
+          {
+            "bottom": 0.43647416413373863,
+            "row_type": "footer",
+            "top": 0.4012158054711246
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

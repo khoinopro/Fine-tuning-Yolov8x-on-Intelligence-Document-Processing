@@ -1,0 +1,380 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.24110226208004285,
+        0.4997656762583185,
+        0.27963458707000405,
+        0.5138786604715933
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "5005"
+    },
+    {
+      "bbox": [
+        0.6341319769776469,
+        0.5022562028841905,
+        0.7111966269575692,
+        0.5147088360135506
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "Apil 4, 2001"
+    },
+    {
+      "bbox": [
+        0.06275264355507965,
+        0.10128141611879544,
+        0.3357816891982332,
+        0.11622457587402756
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WINSTON-SALEM BRANCH"
+    },
+    {
+      "bbox": [
+        0.612113505554812,
+        0.07637614986007525,
+        0.913766564047651,
+        0.11539440033207023
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P. O. BOX 4176\nWINSTON-SALEM, N. C. 27115"
+    },
+    {
+      "bbox": [
+        0.0913766564047651,
+        0.22580774741239637,
+        0.3159650649176817,
+        0.2432414337935005
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.09027573283362335,
+        0.2277239819597546,
+        0.31611037463993613,
+        0.2872407375172395
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company\nAttn: Michael Suggs\n401 S. Main St,\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.7775790215046225,
+        0.8842731473576093,
+        0.7871603533663499,
+        0.8974197608558842
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7766129032258065,
+        0.8534954407294832,
+        0.8556451612903225,
+        0.8680851063829788
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$10,000.00"
+    },
+    {
+      "bbox": [
+        0.7766129032258065,
+        0.8826747720364742,
+        0.8556451612903225,
+        0.8974197608558842
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$10,000.00"
+    },
+    {
+      "bbox": [
+        0.18387096774193548,
+        0.48565269204504374,
+        0.2565151920760273,
+        0.49969604863221884
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08951612903225807,
+        0.6534954407294833,
+        0.16370967741935483,
+        0.6717325227963525
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0041-0070"
+    },
+    {
+      "bbox": [
+        0.21451612903225806,
+        0.6534954407294833,
+        0.23387096774193547,
+        0.6717325227963525
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "30"
+    },
+    {
+      "bbox": [
+        0.23387096774193547,
+        0.6534954407294833,
+        0.25806451612903225,
+        0.6717325227963525
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "ea."
+    },
+    {
+      "bbox": [
+        0.2814516129032258,
+        0.6534954407294833,
+        0.4129032258064516,
+        0.6717325227963525
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Corporate Sponsor:"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.6534954407294833,
+        0.760483870967742,
+        0.6717325227963525
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10,000.00"
+    },
+    {
+      "bbox": [
+        0.7741935483870968,
+        0.6534954407294833,
+        0.8604838709677419,
+        0.6717325227963525
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$10,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1234669167457596,
+        0.5324560930775375,
+        0.1847625624393612,
+        0.5436772749213672
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM NO."
+    },
+    {
+      "bbox": [
+        0.2337990789942425,
+        0.531135954037087,
+        0.26794951016639196,
+        0.5463175530022683
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY."
+    },
+    {
+      "bbox": [
+        0.23292342691290535,
+        0.531135954037087,
+        0.2688251622477292,
+        0.543017205401142
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY."
+    },
+    {
+      "bbox": [
+        0.4395773181084765,
+        0.5304758845168617,
+        0.5341477428928905,
+        0.5463175530022683
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6856355529642201,
+        0.5300911854103344,
+        0.7670711965285765,
+        0.5436772749213672
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PRICE EACH"
+    },
+    {
+      "bbox": [
+        0.7810816298299712,
+        0.5304758845168617,
+        0.8397503192795612,
+        0.5443373444415925
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 235,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tnpk0083",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08951612903225807,
+          0.5300911854103344,
+          0.8604838709677419,
+          0.9033434650455927
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.08951612903225807,
+            "right": 0.16370967741935483
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.21451612903225806,
+            "right": 0.23387096774193547
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.23387096774193547,
+            "right": 0.25806451612903225
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2814516129032258,
+            "right": 0.4129032258064516
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6919354838709677,
+            "right": 0.760483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7741935483870968,
+            "right": 0.8604838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5440729483282675,
+            "row_type": "header",
+            "top": 0.5300911854103344
+          },
+          {
+            "bottom": 0.5604863221884498,
+            "row_type": "gap",
+            "top": 0.5440729483282675
+          },
+          {
+            "bottom": 0.6054711246200608,
+            "row_type": "gap-with-text",
+            "top": 0.5604863221884498
+          },
+          {
+            "bottom": 0.6534954407294833,
+            "row_type": "gap",
+            "top": 0.6054711246200608
+          },
+          {
+            "bottom": 0.6717325227963525,
+            "row_type": "data",
+            "top": 0.6534954407294833
+          },
+          {
+            "bottom": 0.7015197568389058,
+            "row_type": "up-merge",
+            "top": 0.6717325227963525
+          },
+          {
+            "bottom": 0.7635258358662614,
+            "row_type": "gap",
+            "top": 0.7015197568389058
+          },
+          {
+            "bottom": 0.7811550151975684,
+            "row_type": "gap-with-text",
+            "top": 0.7635258358662614
+          },
+          {
+            "bottom": 0.7963525835866262,
+            "row_type": "gap",
+            "top": 0.7811550151975684
+          },
+          {
+            "bottom": 0.8534954407294832,
+            "row_type": "gap-with-text",
+            "top": 0.7963525835866262
+          },
+          {
+            "bottom": 0.9033434650455927,
+            "row_type": "footer",
+            "top": 0.8534954407294832
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

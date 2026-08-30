@@ -1,0 +1,313 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7441476414949009,
+        0.17185402164359778,
+        0.8285986073882368,
+        0.18379351077211523
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "53130010"
+    },
+    {
+      "bbox": [
+        0.7851491973996364,
+        0.052459130358423464,
+        0.868988199772006,
+        0.06726409687778509
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "11/09/05"
+    },
+    {
+      "bbox": [
+        0.05140493576116092,
+        0.09639645035136762,
+        0.24662129894937918,
+        0.10785835991474435
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "LAS VEGAS CITY LIFE"
+    },
+    {
+      "bbox": [
+        0.052016899282127126,
+        0.09530468329593857,
+        0.2723237668299596,
+        0.14167419834961373
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "LAS VEGAS CITY LIFE\n1385 PAMA LANE, STE111\nLAS VEGAS, NV 89119\nATTN : TIM MIKLOS"
+    },
+    {
+      "bbox": [
+        0.5037380491898993,
+        0.09530468329593857,
+        0.6668187125967012,
+        0.11905492271367461
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "SUSAN BELAIR\nTHE RUXTON GROUP"
+    },
+    {
+      "bbox": [
+        0.50228844329295,
+        0.09473920140504008,
+        0.8088800904977376,
+        0.1399777526769183
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "SUSAN BELAIR\nTHE RUXTON GROUP\n32 UNION SQUARE EAST SUITE 615\nNEW YORK, NY 10003"
+    },
+    {
+      "bbox": [
+        0.15075901328273245,
+        0.15976961885836502,
+        0.18409994891256753,
+        0.17221022045813153
+      ],
+      "fieldtype": "customer_id",
+      "page": 1,
+      "text": "1RM"
+    },
+    {
+      "bbox": [
+        0.2399097759451175,
+        0.15920413696746655,
+        0.4725715224054882,
+        0.17447214802172545
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "RJ REYNOLDS TOBACCO CO."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2,
+        0.26620516047828824,
+        0.2846774193548387,
+        0.2813089993706734
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "12/01/05"
+    },
+    {
+      "bbox": [
+        0.2903225806451613,
+        0.26620516047828824,
+        0.375,
+        0.2813089993706734
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "53130002"
+    },
+    {
+      "bbox": [
+        0.38225806451612904,
+        0.26620516047828824,
+        0.425,
+        0.2813089993706734
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "COST"
+    },
+    {
+      "bbox": [
+        0.6193548387096774,
+        0.26620516047828824,
+        0.6645161290322581,
+        0.2813089993706734
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.7701612903225806,
+        0.26620516047828824,
+        0.817741935483871,
+        0.2813089993706734
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2,
+        0.23473882945248584,
+        0.25440583491461105,
+        0.24921334172435494
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "ISSUE"
+    },
+    {
+      "bbox": [
+        0.2903225806451613,
+        0.23547350700239872,
+        0.3573278535980149,
+        0.24921334172435494
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "BUY ID"
+    },
+    {
+      "bbox": [
+        0.38225806451612904,
+        0.23473882945248584,
+        0.4515522368997227,
+        0.24921334172435494
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "CHARGES"
+    },
+    {
+      "bbox": [
+        0.6139080973580499,
+        0.23473882945248584,
+        0.6645161290322581,
+        0.24921334172435494
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "GROSS"
+    },
+    {
+      "bbox": [
+        0.7791631696102759,
+        0.23473882945248584,
+        0.817741935483871,
+        0.24921334172435494
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "NET"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 824,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "qmfj0224",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ],
+      [
+        1826,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.035483870967741936,
+          0.23473882945248584,
+          0.8508064516129032,
+          0.6274386406544997
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.2,
+            "right": 0.2846774193548387
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.2903225806451613,
+            "right": 0.375
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.38225806451612904,
+            "right": 0.425
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6193548387096774,
+            "right": 0.6645161290322581
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7701612903225806,
+            "right": 0.817741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.24921334172435494,
+            "row_type": "header",
+            "top": 0.23473882945248584
+          },
+          {
+            "bottom": 0.26620516047828824,
+            "row_type": "gap",
+            "top": 0.24921334172435494
+          },
+          {
+            "bottom": 0.2813089993706734,
+            "row_type": "data",
+            "top": 0.26620516047828824
+          },
+          {
+            "bottom": 0.289490245437382,
+            "row_type": "gap",
+            "top": 0.2813089993706734
+          },
+          {
+            "bottom": 0.302076777847703,
+            "row_type": "gap-with-text",
+            "top": 0.289490245437382
+          },
+          {
+            "bottom": 0.3108873505349276,
+            "row_type": "gap",
+            "top": 0.302076777847703
+          },
+          {
+            "bottom": 0.6274386406544997,
+            "row_type": "gap-with-text",
+            "top": 0.3108873505349276
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

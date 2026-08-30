@@ -1,0 +1,332 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4378647518357067,
+        0.31719869542659235,
+        0.4917134707560208,
+        0.33046805156919024
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "123577"
+    },
+    {
+      "bbox": [
+        0.5593191582814385,
+        0.33771050552399035,
+        0.6206359460016138,
+        0.35275249959541555
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/23/18"
+    },
+    {
+      "bbox": [
+        0.39836259051597844,
+        0.25145960017910446,
+        0.5728796017195542,
+        0.26650159425052966
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Screen Strategies Media"
+    },
+    {
+      "bbox": [
+        0.39895217501328784,
+        0.2500921461726112,
+        0.5717004327249354,
+        0.30889266845181884
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Screen Strategies Media\n11150 Fairfax Blvd\nFairfax, VA"
+    },
+    {
+      "bbox": [
+        0.40072092850521596,
+        0.23049197207954203,
+        0.5233545039455665,
+        0.24416651214447402
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Tester for Senate"
+    },
+    {
+      "bbox": [
+        0.8538740264934943,
+        0.5527350584972562,
+        0.8949165901978778,
+        0.5647686537543964
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "17.00"
+    },
+    {
+      "bbox": [
+        0.8543457800992917,
+        0.5523704040955247,
+        0.8953883438036753,
+        0.565133308156128
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "17.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11290322580645161,
+        0.4102244389027431,
+        0.22258064516129034,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "KTVH News @ 10p"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.4102244389027431,
+        0.2911290322580645,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4/23-4/27"
+    },
+    {
+      "bbox": [
+        0.48629032258064514,
+        0.4102244389027431,
+        0.5314516129032258,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "100.00"
+    },
+    {
+      "bbox": [
+        0.5645161290322581,
+        0.4102244389027431,
+        0.5983870967741935,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "85.00"
+    },
+    {
+      "bbox": [
+        0.739516129032258,
+        0.4102244389027431,
+        0.7491935483870967,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8612903225806452,
+        0.4102244389027431,
+        0.9024193548387097,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "17.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.13565626557783222,
+        0.3829985423246574,
+        0.2065476183212955,
+        0.4073684406960669
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PROGRAM\nNAME"
+    },
+    {
+      "bbox": [
+        0.24505650129305329,
+        0.39518349151036214,
+        0.28006457672192403,
+        0.4073684406960669
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.4603561651806084,
+        0.38502936718894154,
+        0.5303723160383499,
+        0.4060145574532108
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS\nRATE PAID"
+    },
+    {
+      "bbox": [
+        0.5312475179240717,
+        0.3823216007032294,
+        0.5968876593532043,
+        0.4073684406960669
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET RATE\nPAID"
+    },
+    {
+      "bbox": [
+        0.7089135007255907,
+        0.3823216007032294,
+        0.7771792478118887,
+        0.4066914990746389
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NUMBER\nOF SPOTS"
+    },
+    {
+      "bbox": [
+        0.7850560647833846,
+        0.39450654988893413,
+        0.8935810986128839,
+        0.4060145574532108
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "REBATE AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 169,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "caf6afaf-9f45-41e6-b544-eed8b012bddd",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11290322580645161,
+          0.3709476309226933,
+          0.9024193548387097,
+          0.566708229426434
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11290322580645161,
+            "right": 0.22258064516129034
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.2314516129032258,
+            "right": 0.2911290322580645
+          },
+          {
+            "column_type": "",
+            "left": 0.3395161290322581,
+            "right": 0.357258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.42096774193548386,
+            "right": 0.43790322580645163
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.48629032258064514,
+            "right": 0.5314516129032258
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.5645161290322581,
+            "right": 0.5983870967741935
+          },
+          {
+            "column_type": "",
+            "left": 0.6701612903225806,
+            "right": 0.7024193548387097
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.739516129032258,
+            "right": 0.7491935483870967
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.7838709677419354,
+            "right": 0.7959677419354839
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8612903225806452,
+            "right": 0.9024193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4102244389027431,
+            "row_type": "header",
+            "top": 0.3709476309226933
+          },
+          {
+            "bottom": 0.4233167082294264,
+            "row_type": "data",
+            "top": 0.4102244389027431
+          },
+          {
+            "bottom": 0.550498753117207,
+            "row_type": "gap-with-text",
+            "top": 0.4233167082294264
+          },
+          {
+            "bottom": 0.566708229426434,
+            "row_type": "footer",
+            "top": 0.550498753117207
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

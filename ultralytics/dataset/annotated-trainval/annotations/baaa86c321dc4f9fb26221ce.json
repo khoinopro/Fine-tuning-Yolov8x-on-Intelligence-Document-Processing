@@ -1,0 +1,145 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7483870967741936,
+        0.27641945667722256,
+        0.8544390053813549,
+        0.29241991547173996
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9728-000207"
+    },
+    {
+      "bbox": [
+        0.2473582932946194,
+        0.5182700329538272,
+        0.3527324065324724,
+        0.5324926629933983
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9728-000207"
+    },
+    {
+      "bbox": [
+        0.12625670046902712,
+        0.3092763739267912,
+        0.24971741523278027,
+        0.32646205189127286
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 22, 2001"
+    },
+    {
+      "bbox": [
+        0.5965083401424309,
+        0.7932409165555524,
+        0.6885140957307057,
+        0.8097264437689969
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-4008324"
+    },
+    {
+      "bbox": [
+        0.12940219638657496,
+        0.40488405966557733,
+        0.34801416265615065,
+        0.4392554155945406
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ronald Milstein\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.12940219638657496,
+        0.40594277508226745,
+        0.3493851537307484,
+        0.4694785044286291
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ronald Milstein\nLorillard Tobacco Company\n714 Green Valley Road\nGreensboro, NC 27408"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1338709677419355,
+        0.5993920972644377,
+        0.7548387096774194,
+        0.6364741641337386
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total due for professional tax services rendered during the period\nDecember 1, 2000 through February 28, 2001 and fourth quarterly retainer billing:"
+    },
+    {
+      "bbox": [
+        0.7548387096774194,
+        0.5993920972644377,
+        0.8612903225806452,
+        0.6364741641337386
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$9,443.45"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1058,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jggl0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1338709677419355,
+          0.5993920972644377,
+          0.8612903225806452,
+          0.6364741641337386
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1338709677419355,
+            "right": 0.7548387096774194
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7548387096774194,
+            "right": 0.8612903225806452
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6364741641337386,
+            "row_type": "data",
+            "top": 0.5993920972644377
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

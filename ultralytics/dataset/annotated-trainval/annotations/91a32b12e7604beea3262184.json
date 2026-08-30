@@ -1,0 +1,298 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8103676661280348,
+        0.04762094763092269,
+        0.8655654637221458,
+        0.059371571072319204
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "74223"
+    },
+    {
+      "bbox": [
+        0.6959722305344426,
+        0.07792518703241895,
+        0.7847686875336645,
+        0.09153117206982543
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/15/18"
+    },
+    {
+      "bbox": [
+        0.2327907115925549,
+        0.05627930174563591,
+        0.38158477467233226,
+        0.08225436408977557
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "2000 Indian Hills Drive\nSioux City IA 51104"
+    },
+    {
+      "bbox": [
+        0.6943722943722943,
+        0.10884788029925187,
+        0.7495700919664053,
+        0.12059850374064837
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "22103"
+    },
+    {
+      "bbox": [
+        0.14079438226903662,
+        0.18615461346633416,
+        0.4495820615636284,
+        0.19852369077306734
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "CARLIN FOR IOWA STATE SENATE"
+    },
+    {
+      "bbox": [
+        0.1415943503501107,
+        0.18615461346633416,
+        0.4487820934825543,
+        0.2288279301745636
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "CARLIN FOR IOWA STATE SENATE\n5728 SUNNYBROOK DR\nSIOUX CITY, IA 51106"
+    },
+    {
+      "bbox": [
+        0.7607696451014423,
+        0.4398753117206982,
+        0.7743691024797015,
+        0.4540997506234414
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7375705707502942,
+        0.4120448877805486,
+        0.8175673788577015,
+        0.42503241895261845
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$163.20"
+    },
+    {
+      "bbox": [
+        0.7287709218584795,
+        0.42626932668329176,
+        0.8199672831009237,
+        0.4398753117206982
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "-$163.20"
+    },
+    {
+      "bbox": [
+        0.7615696131825164,
+        0.4404937655860349,
+        0.8207672511819977,
+        0.4522443890274314
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$0.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03225806451612903,
+        0.3185785536159601,
+        0.16451612903225807,
+        0.3329177057356609
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Mn 11/05/18"
+    },
+    {
+      "bbox": [
+        0.20967741935483872,
+        0.3185785536159601,
+        0.22903225806451613,
+        0.3329177057356609
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8"
+    },
+    {
+      "bbox": [
+        0.03225806451612903,
+        0.3329177057356609,
+        0.16451612903225807,
+        0.3497506234413965
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Tu 11/06/18"
+    },
+    {
+      "bbox": [
+        0.20967741935483872,
+        0.3329177057356609,
+        0.22903225806451613,
+        0.3497506234413965
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "8"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07279709537774054,
+        0.3052069825436409,
+        0.12239511640433298,
+        0.31757605985037407
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.178392882079518,
+        0.3052069825436409,
+        0.24639016897081412,
+        0.3169576059850374
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Number"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 765,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "2d27dd2e-cbe5-41a9-9028-953ec5a71ef1",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03225806451612903,
+          0.29301745635910226,
+          0.9693548387096774,
+          0.976932668329177
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.03225806451612903,
+            "right": 0.16451612903225807
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.20967741935483872,
+            "right": 0.22903225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.25806451612903225,
+            "right": 0.31693548387096776
+          },
+          {
+            "column_type": "",
+            "left": 0.3379032258064516,
+            "right": 0.3967741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.40725806451612906,
+            "right": 0.47580645161290325
+          },
+          {
+            "column_type": "",
+            "left": 0.48951612903225805,
+            "right": 0.5580645161290323
+          },
+          {
+            "column_type": "",
+            "left": 0.5717741935483871,
+            "right": 0.6403225806451613
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3048628428927681,
+            "row_type": "gap-with-text",
+            "top": 0.29301745635910226
+          },
+          {
+            "bottom": 0.3185785536159601,
+            "row_type": "header",
+            "top": 0.3048628428927681
+          },
+          {
+            "bottom": 0.3329177057356609,
+            "row_type": "data",
+            "top": 0.3185785536159601
+          },
+          {
+            "bottom": 0.3497506234413965,
+            "row_type": "data",
+            "top": 0.3329177057356609
+          },
+          {
+            "bottom": 0.3802992518703242,
+            "row_type": "gap",
+            "top": 0.3497506234413965
+          },
+          {
+            "bottom": 0.41271820448877805,
+            "row_type": "gap",
+            "top": 0.3802992518703242
+          },
+          {
+            "bottom": 0.45199501246882795,
+            "row_type": "footer",
+            "top": 0.41271820448877805
+          },
+          {
+            "bottom": 0.976932668329177,
+            "row_type": "gap",
+            "top": 0.45199501246882795
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

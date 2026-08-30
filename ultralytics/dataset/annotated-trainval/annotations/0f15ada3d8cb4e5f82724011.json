@@ -1,0 +1,209 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7660582908885116,
+        0.14802932643119335,
+        0.8283005270232032,
+        0.16118748878063274
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "13504A"
+    },
+    {
+      "bbox": [
+        0.7674262521222411,
+        0.1622840023097527,
+        0.833772371958121,
+        0.17653867818831204
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "06/11/01"
+    },
+    {
+      "bbox": [
+        0.5225806451612903,
+        0.8222365869424693,
+        0.7596774193548387,
+        0.8377504848093084
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Danny Clinch Photography Inc."
+    },
+    {
+      "bbox": [
+        0.03556699207696661,
+        0.910654485934119,
+        0.3023194326542162,
+        0.9254574185772384
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "33 greene street #3e new york ny 10013"
+    },
+    {
+      "bbox": [
+        0.13748010398981322,
+        0.8388328497767623,
+        0.22434564233163554,
+        0.8530875256553215
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-3932401"
+    },
+    {
+      "bbox": [
+        0.09438932512733447,
+        0.15186712378311318,
+        0.1655233092812677,
+        0.1661217996616725
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "BOZELL"
+    },
+    {
+      "bbox": [
+        0.0916534026598755,
+        0.1483006544100221,
+        0.2106660299943407,
+        0.20998234082647055
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "BOZELL\n40 West 23rd\n3rd Floor\nNew York, NY"
+    },
+    {
+      "bbox": [
+        0.7551146010186758,
+        0.5126200748635769,
+        0.8679714028013582,
+        0.5268747507421363
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 34,125.00"
+    },
+    {
+      "bbox": [
+        0.7551146010186758,
+        0.510975304569897,
+        0.868655383418223,
+        0.5263264939775764
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 34,125.00"
+    },
+    {
+      "bbox": [
+        0.6096774193548387,
+        0.8377363362476423,
+        0.8317204301075268,
+        0.8519910121262017
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "within 14 days of invoice date"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.4305106658047835,
+        0.25806451612903225,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Advance Request"
+    },
+    {
+      "bbox": [
+        0.7830645161290323,
+        0.4305106658047835,
+        0.8701612903225806,
+        0.4460245636716225
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "34,125.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 757,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lpjd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12580645161290321,
+          0.4305106658047835,
+          0.8701612903225806,
+          0.5300581771170007
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12580645161290321,
+            "right": 0.25806451612903225
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7830645161290323,
+            "right": 0.8701612903225806
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4460245636716225,
+            "row_type": "data",
+            "top": 0.4305106658047835
+          },
+          {
+            "bottom": 0.44990303813833227,
+            "row_type": "gap",
+            "top": 0.4460245636716225
+          },
+          {
+            "bottom": 0.46929541047188106,
+            "row_type": "gap-with-text",
+            "top": 0.44990303813833227
+          },
+          {
+            "bottom": 0.5106658047834518,
+            "row_type": "gap",
+            "top": 0.46929541047188106
+          },
+          {
+            "bottom": 0.5300581771170007,
+            "row_type": "footer",
+            "top": 0.5106658047834518
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

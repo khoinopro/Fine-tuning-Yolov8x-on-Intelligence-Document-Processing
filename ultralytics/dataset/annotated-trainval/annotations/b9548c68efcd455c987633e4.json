@@ -1,0 +1,229 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.22977835485459253,
+        0.14353259503485072,
+        0.31570654849827673,
+        0.15436524371672625
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "75611808 741"
+    },
+    {
+      "bbox": [
+        0.2628420467185762,
+        0.1777917392803871,
+        0.43403940886699505,
+        0.19060195184885856
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "Philip Morris Research Center"
+    },
+    {
+      "bbox": [
+        0.261569203877324,
+        0.17683921730873348,
+        0.48368027967583027,
+        0.23198879245468945
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "Philip Morris Research Center\nPO Box 26583 / 4201 Commerce Rd.\nDoor 17\nRichmond, Virginia 23261"
+    },
+    {
+      "bbox": [
+        0.36471744413208174,
+        0.22748562231938607,
+        0.6727859309731421,
+        0.24028784348887527
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Institute fur Biologische INBIFO c/o DANZAS brokers"
+    },
+    {
+      "bbox": [
+        0.3621714235796763,
+        0.22698548293085896,
+        0.6750985663082437,
+        0.301344590604901
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Institute fur Biologische INBIFO c/o DANZAS brokers\nFuggerstrasse 3\nD-51149 KOELN, GERMANY\nDR. W. REININGHAUS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.3948845913911416,
+        0.432258064516129,
+        0.44853399875233935
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "EXPERIMENTAL CIGARETTES (FOR RESEARCH\nPURPOSES ONLY - NOT FOR SALE OR HUMAN\nCONSUMPTION - TP 7-VA- TAX PAID - FOR USE\nOUTSIDE U.S.):"
+    },
+    {
+      "bbox": [
+        0.4830645161290323,
+        0.3948845913911416,
+        0.4991935483870968,
+        0.44853399875233935
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.4991935483870968,
+        0.3948845913911416,
+        0.5959677419354839,
+        0.44853399875233935
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "TUPPERWARE"
+    },
+    {
+      "bbox": [
+        0.11266140944394148,
+        0.45349406527306174,
+        0.1839499849112943,
+        0.6396186653525594
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "-01-ED.126\n-01.DR.184\n-01.ED.127\n-01.FA.143\n-01.FM.132\n-01.HN.287\n-01.KH.257\n-01.HN.301\n-01.KH.259\n-01.KH.261"
+    },
+    {
+      "bbox": [
+        0.766988691412144,
+        0.5175051711205081,
+        0.8102710408030368,
+        0.5293226060461905
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$60.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1909515414304093,
+        0.3434442025276445,
+        0.40227124728006225,
+        0.35673881681903724
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM (LIST EACH SEPARATELY)"
+    },
+    {
+      "bbox": [
+        0.539756357109957,
+        0.3434442025276445,
+        0.574764139705532,
+        0.35673881681903724
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY."
+    }
+  ],
+  "metadata": {
+    "cluster_id": 441,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kslv0218",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1810,
+        2339
+      ],
+      [
+        1811,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10887096774193548,
+          0.3343730505302558,
+          0.8604838709677419,
+          0.8365564566437929
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10887096774193548,
+            "right": 0.432258064516129
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.4830645161290323,
+            "right": 0.4991935483870968
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.4991935483870968,
+            "right": 0.5959677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.38053649407361195,
+            "row_type": "header",
+            "top": 0.3343730505302558
+          },
+          {
+            "bottom": 0.3948845913911416,
+            "row_type": "gap",
+            "top": 0.38053649407361195
+          },
+          {
+            "bottom": 0.44853399875233935,
+            "row_type": "data",
+            "top": 0.3948845913911416
+          },
+          {
+            "bottom": 0.6400499064254522,
+            "row_type": "up-merge",
+            "top": 0.44853399875233935
+          },
+          {
+            "bottom": 0.6475358702432938,
+            "row_type": "gap",
+            "top": 0.6400499064254522
+          },
+          {
+            "bottom": 0.8365564566437929,
+            "row_type": "gap-with-text",
+            "top": 0.6475358702432938
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

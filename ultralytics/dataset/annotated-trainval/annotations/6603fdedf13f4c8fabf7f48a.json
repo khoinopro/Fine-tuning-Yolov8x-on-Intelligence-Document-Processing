@@ -1,0 +1,220 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7879646079527307,
+        0.23206487835308795,
+        0.8399622724369211,
+        0.24629819089207733
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2102"
+    },
+    {
+      "bbox": [
+        0.7887645720217183,
+        0.24703680598877106,
+        0.8863601884381987,
+        0.261150343106675
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05/17/01"
+    },
+    {
+      "bbox": [
+        0.7887645720217183,
+        0.2617691827822832,
+        0.8847602603002236,
+        0.27662133499688085
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "06/16/01"
+    },
+    {
+      "bbox": [
+        0.718578936750782,
+        0.27839656776959104,
+        0.7929750535524943,
+        0.2919438461322932
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "1265-A"
+    },
+    {
+      "bbox": [
+        0.06159723331204088,
+        0.0804491578290705,
+        0.2559885020760141,
+        0.09468247036805989
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE K GROUP, LTD"
+    },
+    {
+      "bbox": [
+        0.06079726924305334,
+        0.08128366759227465,
+        0.29038695704247847,
+        0.12562445414847162
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE K GROUP, LTD\nP.O. BOX 846\nNORWALK, CT 06856"
+    },
+    {
+      "bbox": [
+        0.11039504152028105,
+        0.2303630692451653,
+        0.31758573538805496,
+        0.24583406113537118
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.10799514931331843,
+        0.2316584574182686,
+        0.3983821063557969,
+        0.2918860469952173
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\n120 PARK AVENUE\nNEW YORK, NY 10017-5592\nATTN: NANCY BROSTERMAN"
+    },
+    {
+      "bbox": [
+        0.836762416160971,
+        0.8205814098565191,
+        0.9447575654742894,
+        0.8335770430442919
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "17,100.00"
+    },
+    {
+      "bbox": [
+        0.836762416160971,
+        0.8790617592014972,
+        0.945557529543277,
+        0.8939139114160948
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "17,100.00"
+    },
+    {
+      "bbox": [
+        0.8375623802299584,
+        0.8790617592014972,
+        0.945557529543277,
+        0.8957704304429196
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "17,100.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.012903225806451613,
+        0.42607610729881473,
+        0.6580645161290323,
+        0.470991890205864
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "HALF-BILLING: FOR (6) FOCUS GROUPS SCHEDULED ON MAY 29\nIN NEW YORK AND MAY 30 IN CHICAGO\nTOPIC: YSP-PARENTS TV ADS"
+    },
+    {
+      "bbox": [
+        0.8362903225806452,
+        0.42607610729881473,
+        0.9564516129032258,
+        0.470991890205864
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "17,100.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 85,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "smcf0175",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1704,
+        2203
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.012903225806451613,
+          0.42607610729881473,
+          0.9564516129032258,
+          0.8995633187772926
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.012903225806451613,
+            "right": 0.6580645161290323
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8362903225806452,
+            "right": 0.9564516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.470991890205864,
+            "row_type": "data",
+            "top": 0.42607610729881473
+          },
+          {
+            "bottom": 0.6662507797878977,
+            "row_type": "gap",
+            "top": 0.470991890205864
+          },
+          {
+            "bottom": 0.7666874610106051,
+            "row_type": "gap-with-text",
+            "top": 0.6662507797878977
+          },
+          {
+            "bottom": 0.819089207735496,
+            "row_type": "gap",
+            "top": 0.7666874610106051
+          },
+          {
+            "bottom": 0.8995633187772926,
+            "row_type": "footer",
+            "top": 0.819089207735496
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

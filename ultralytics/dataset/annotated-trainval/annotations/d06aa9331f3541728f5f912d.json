@@ -1,0 +1,244 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7734016461589625,
+        0.189223240013472,
+        0.8438352178250748,
+        0.20262870115884057
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59277-1"
+    },
+    {
+      "bbox": [
+        0.7453649817093448,
+        0.20623786377490136,
+        0.8732395244429665,
+        0.21964332492026994
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 19, 2001"
+    },
+    {
+      "bbox": [
+        0.36789574326571334,
+        0.3139971475972873,
+        0.4075573661456601,
+        0.3268870140832187
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "3313"
+    },
+    {
+      "bbox": [
+        0.32960176255404056,
+        0.07630800959671351,
+        0.5805641004323245,
+        0.0897134707420821
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "UNIVERSITY OF CALIFORNIA DAVIS"
+    },
+    {
+      "bbox": [
+        0.6892916528101097,
+        0.2830614680310521,
+        0.8834968407050215,
+        0.2964669291764207
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "emmontoya@ucdavis.edu"
+    },
+    {
+      "bbox": [
+        0.03213959095443964,
+        0.17624200232207077,
+        0.17057515712448607,
+        0.20778464775321312
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.030771948786165612,
+        0.17736456284641516,
+        0.19899193548387098,
+        0.23665794868169931
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A.\n4201 Commerce Road\nRichmond, VA 25234"
+    },
+    {
+      "bbox": [
+        0.1969404722314599,
+        0.299044902473607,
+        0.2803666444961756,
+        0.31296595827841284
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 0,
+      "text": "94-6036494"
+    },
+    {
+      "bbox": [
+        0.803489773860991,
+        0.7702984211992566,
+        0.8164823744595943,
+        0.7878286396201233
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8007349078987883,
+        0.7710587601590596,
+        0.8983128362101755,
+        0.7884584482863979
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$41,454.90"
+    },
+    {
+      "bbox": [
+        0.7679310774858663,
+        0.23459557004395032,
+        0.846570502161623,
+        0.24851662584875614
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$41,454.90"
+    },
+    {
+      "bbox": [
+        0.8064516129032258,
+        0.7702984211992566,
+        0.8985409045560359,
+        0.7878286396201233
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$41,454.90"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.027419354838709678,
+        0.625531914893617,
+        0.27903225806451615,
+        0.6437689969604863
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Amounf due per agreement"
+    },
+    {
+      "bbox": [
+        0.6024193548387097,
+        0.625531914893617,
+        0.6959677419354838,
+        0.6437689969604863
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$41,454.90"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10949584321964827,
+        0.3890577507598784,
+        0.27903225806451615,
+        0.4024316109422492
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Services"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 844,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hgnk0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.027419354838709678,
+          0.3890577507598784,
+          0.9024193548387097,
+          0.79209726443769
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.027419354838709678,
+            "right": 0.27903225806451615
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6024193548387097,
+            "right": 0.6959677419354838
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4024316109422492,
+            "row_type": "header",
+            "top": 0.3890577507598784
+          },
+          {
+            "bottom": 0.625531914893617,
+            "row_type": "gap",
+            "top": 0.4024316109422492
+          },
+          {
+            "bottom": 0.6437689969604863,
+            "row_type": "data",
+            "top": 0.625531914893617
+          },
+          {
+            "bottom": 0.7689969604863222,
+            "row_type": "gap",
+            "top": 0.6437689969604863
+          },
+          {
+            "bottom": 0.79209726443769,
+            "row_type": "footer",
+            "top": 0.7689969604863222
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

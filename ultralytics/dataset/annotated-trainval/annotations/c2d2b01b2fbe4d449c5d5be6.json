@@ -1,0 +1,138 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.19440361182306054,
+        0.19979971214209102,
+        0.3331285398402388,
+        0.2179480454957518
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 5, 1999"
+    },
+    {
+      "bbox": [
+        0.3699331125794902,
+        0.061250622184005184,
+        0.5492374413091764,
+        0.08317985831967861
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Patricia Jagoda"
+    },
+    {
+      "bbox": [
+        0.29915508808092983,
+        0.06040677140421386,
+        0.6228465867876791,
+        0.12703833059102548
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Patricia Jagoda\n407-K North Hamilton Street\nRichmond, Virginia 23221"
+    },
+    {
+      "bbox": [
+        0.5979160656529054,
+        0.4664913970934664,
+        0.6107221338636372,
+        0.4799946213149402
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5983870967741935,
+        0.46433088121803057,
+        0.6713075551094032,
+        0.48093083387201035
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$386.25"
+    },
+    {
+      "bbox": [
+        0.5979160656529054,
+        0.46445091354076107,
+        0.6700344497870265,
+        0.48093083387201035
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$386.25"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.37944408532643825,
+        0.7193548387096774,
+        0.4137039431157078
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For consulting services, negotiating and booking DJs for four events on\nSeptember 28, 29 and 30, 1999 in Baltimore:"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 471,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nyxk0009",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12016129032258065,
+          0.37944408532643825,
+          0.7193548387096774,
+          0.4848093083387201
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12016129032258065,
+            "right": 0.7193548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4137039431157078,
+            "row_type": "data",
+            "top": 0.37944408532643825
+          },
+          {
+            "bottom": 0.42921784098254684,
+            "row_type": "gap",
+            "top": 0.4137039431157078
+          },
+          {
+            "bottom": 0.4848093083387201,
+            "row_type": "footer",
+            "top": 0.42921784098254684
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

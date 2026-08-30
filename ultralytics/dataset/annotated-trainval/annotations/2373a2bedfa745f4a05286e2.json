@@ -1,0 +1,189 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7890235939677797,
+        0.43522923060694496,
+        0.8303193159130579,
+        0.4488544748567152
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2510"
+    },
+    {
+      "bbox": [
+        0.7664485993043609,
+        0.455472450635175,
+        0.8319711447908689,
+        0.4687084021920946
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/21/03"
+    },
+    {
+      "bbox": [
+        0.7708868177251925,
+        0.10989394410956457,
+        0.8816253209063513,
+        0.12590211707040666
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Yankelovich"
+    },
+    {
+      "bbox": [
+        0.688903616475053,
+        0.1097666931321334,
+        0.8809945716603232,
+        0.17782051586232694
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Yankelovich\n200 Wesi Franklin Streel\nChapel Hill, NC 27516"
+    },
+    {
+      "bbox": [
+        0.37771820339281004,
+        0.25226166496717384,
+        0.5715327917226485,
+        0.28846588540227747
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Post Office Box 601411\nCharlotte, NC 28260-1411"
+    },
+    {
+      "bbox": [
+        0.17314362652081705,
+        0.43524924320559827,
+        0.3603589965397924,
+        0.4503921095199084
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJReynolds Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.17191999665141197,
+        0.43374768167191036,
+        0.37259529523384305,
+        0.5083676548375526
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJReynolds Tobacco Co.\n401 North Main Street\nWinston-Salem, NC 27102\nATTN: Carol Mitchell"
+    },
+    {
+      "bbox": [
+        0.7996421196562117,
+        0.7999759947188383,
+        0.8100429735461547,
+        0.8133882477400842
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7990303047215092,
+        0.7999759947188383,
+        0.8834607657104588,
+        0.8155515143564144
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$37,500.00"
+    },
+    {
+      "bbox": [
+        0.7984184897868066,
+        0.8004086480421041,
+        0.8822371358410538,
+        0.8151188610331483
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$37,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.6562143671607754,
+        0.4637096774193548,
+        0.6761687571265679
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Full billing of the contract price"
+    },
+    {
+      "bbox": [
+        0.8064516129032258,
+        0.6562143671607754,
+        0.8862903225806451,
+        0.6761687571265679
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "37,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 964,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mzvj0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1653,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2314516129032258,
+          0.6562143671607754,
+          0.8862903225806451,
+          0.6761687571265679
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2314516129032258,
+            "right": 0.4637096774193548
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8064516129032258,
+            "right": 0.8862903225806451
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6761687571265679,
+            "row_type": "data",
+            "top": 0.6562143671607754
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

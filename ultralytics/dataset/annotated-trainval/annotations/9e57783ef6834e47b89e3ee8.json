@@ -1,0 +1,238 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.1576065029617268,
+        0.2831037249283668,
+        0.2528104311467293,
+        0.29914040114613183
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "April 8, 1999"
+    },
+    {
+      "bbox": [
+        0.10480432430449853,
+        0.07503954154727793,
+        0.43601799042711215,
+        0.08939828080229226
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC."
+    },
+    {
+      "bbox": [
+        0.10400429129454053,
+        0.0756080229226361,
+        0.4320178253773222,
+        0.10232664756446992
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC.\n6565 Penn Avenue \u2666 Pittsburgh, PA 15206-4490"
+    },
+    {
+      "bbox": [
+        0.6744278273945974,
+        0.1546269340974212,
+        0.9424388857305288,
+        0.16848137535816618
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC."
+    },
+    {
+      "bbox": [
+        0.6736277943846394,
+        0.15519541547277935,
+        0.9416388527205708,
+        0.17736618911174787
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC.\nP.O. Box 400155-W \u2666 Pittsburgh, PA 15268-0155"
+    },
+    {
+      "bbox": [
+        0.8096334060775,
+        0.23989914040114615,
+        0.8704359148343084,
+        0.25126876790830943
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "25-1126415"
+    },
+    {
+      "bbox": [
+        0.11680481945386859,
+        0.1767977077363897,
+        0.38641594380971594,
+        0.20630372492836677
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Sarah Evans\nLORILLARD TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.11600478644391059,
+        0.1767977077363897,
+        0.38801600982963197,
+        0.23648825214899716
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Sarah Evans\nLORILLARD TOBACCO COMPANY\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.8784362449338885,
+        0.275287106017192,
+        0.9669354838709677,
+        0.2922636103151863
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 10 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.8733870967741936,
+        0.45558739255014324,
+        0.9443548387096774,
+        0.4813753581661891
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,986.00"
+    },
+    {
+      "bbox": [
+        0.06480267380659833,
+        0.42778223495702006,
+        0.13280547965302866,
+        0.4402888252148997
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5673-299"
+    },
+    {
+      "bbox": [
+        0.15360633791193679,
+        0.42380286532951283,
+        0.6176254836875791,
+        0.4419942693409742
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "MONTHLY SUMMARY REPORT (E3-09654)"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8720359808542243,
+        0.29987392550143266,
+        0.9320384566010748,
+        0.31181203438395416
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1167,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lqdw0181",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1663,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06048387096774194,
+          0.29914040114613183,
+          0.9774193548387097,
+          0.5140401146131806
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8758064516129033,
+            "right": 0.9443548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3157593123209169,
+            "row_type": "header",
+            "top": 0.29914040114613183
+          },
+          {
+            "bottom": 0.3742120343839542,
+            "row_type": "gap",
+            "top": 0.3157593123209169
+          },
+          {
+            "bottom": 0.397134670487106,
+            "row_type": "subsection-header",
+            "top": 0.3742120343839542
+          },
+          {
+            "bottom": 0.42005730659025786,
+            "row_type": "gap",
+            "top": 0.397134670487106
+          },
+          {
+            "bottom": 0.44126074498567336,
+            "row_type": "down-merge",
+            "top": 0.42005730659025786
+          },
+          {
+            "bottom": 0.45558739255014324,
+            "row_type": "gap",
+            "top": 0.44126074498567336
+          },
+          {
+            "bottom": 0.4813753581661891,
+            "row_type": "data",
+            "top": 0.45558739255014324
+          },
+          {
+            "bottom": 0.49455587392550143,
+            "row_type": "gap",
+            "top": 0.4813753581661891
+          },
+          {
+            "bottom": 0.5140401146131806,
+            "row_type": "footer",
+            "top": 0.49455587392550143
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

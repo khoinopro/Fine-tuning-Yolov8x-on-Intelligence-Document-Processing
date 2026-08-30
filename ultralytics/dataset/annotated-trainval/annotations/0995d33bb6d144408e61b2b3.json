@@ -1,0 +1,239 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7833922350051382,
+        0.33260426785322594,
+        0.8431774318871093,
+        0.34814652336038604
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "27979"
+    },
+    {
+      "bbox": [
+        0.8040078201368525,
+        0.2502303136652775,
+        0.9204858761310374,
+        0.2634412308463635
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "09/01/2009"
+    },
+    {
+      "bbox": [
+        0.3772652079103692,
+        0.0707172625575784,
+        0.8493621074266235,
+        0.0878137436154545
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "FORT LEE FILM STORAGE & SERVICE CO., INC."
+    },
+    {
+      "bbox": [
+        0.37520364939719775,
+        0.07128750566636434,
+        0.9338860064666517,
+        0.10577507598784194
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "FORT LEE FILM STORAGE & SERVICE CO., INC.\n1 Mount Vernon Street, Ridgefield Park, New Jersey 0766"
+    },
+    {
+      "bbox": [
+        0.8071001579066096,
+        0.2906401779838937,
+        0.854516003709552,
+        0.30540532071569576
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "4020"
+    },
+    {
+      "bbox": [
+        0.1257550693034564,
+        0.23343465045592704,
+        0.1638939017971276,
+        0.2471218625638454
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.12884740707321352,
+        0.2356448162024579,
+        0.34428027169962655,
+        0.2906401779838937
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 GRANDVIEW AVENUE\nGREAT NECK NY 11020\nRUSSELL TILLMAN"
+    },
+    {
+      "bbox": [
+        0.8380235356041807,
+        0.4445085075047786,
+        0.8998702909993231,
+        0.4569423119105066
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "90.00"
+    },
+    {
+      "bbox": [
+        0.8380235356041807,
+        0.4445085075047786,
+        0.9009010702559089,
+        0.4577194246858647
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "90.00"
+    },
+    {
+      "bbox": [
+        0.22986377421861293,
+        0.3318271550778679,
+        0.3648958568313407,
+        0.34970074891110203
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 15 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2467741935483871,
+        0.4,
+        0.4120967741935484,
+        0.4182370820668693
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Mininum Charge"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.4,
+        0.8862903225806451,
+        0.4182370820668693
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "90.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3576804020352407,
+        0.36524300441826213,
+        0.46900456174649724,
+        0.38078525992542217
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.829777301551495,
+        0.3660201171936201,
+        0.9019318495124946,
+        0.38156237270078025
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 155,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nsxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.029838709677419355,
+          0.35319148936170214,
+          0.9354838709677419,
+          0.8790273556231003
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2467741935483871,
+            "right": 0.4120967741935484
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8274193548387097,
+            "right": 0.8862903225806451
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.390273556231003,
+            "row_type": "header",
+            "top": 0.35319148936170214
+          },
+          {
+            "bottom": 0.4,
+            "row_type": "gap",
+            "top": 0.390273556231003
+          },
+          {
+            "bottom": 0.4182370820668693,
+            "row_type": "data",
+            "top": 0.4
+          },
+          {
+            "bottom": 0.42857142857142855,
+            "row_type": "gap",
+            "top": 0.4182370820668693
+          },
+          {
+            "bottom": 0.45714285714285713,
+            "row_type": "footer",
+            "top": 0.42857142857142855
+          },
+          {
+            "bottom": 0.8790273556231003,
+            "row_type": "gap-with-text",
+            "top": 0.45714285714285713
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

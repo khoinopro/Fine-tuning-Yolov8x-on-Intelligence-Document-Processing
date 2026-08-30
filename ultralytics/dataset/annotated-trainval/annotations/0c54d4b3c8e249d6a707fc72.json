@@ -1,0 +1,230 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.03156028368794326,
+        0.4366741166210262,
+        0.11606039807824296,
+        0.4500738638819602
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3712016"
+    },
+    {
+      "bbox": [
+        0.6107060175989194,
+        0.12211199105443896,
+        0.7303532446766248,
+        0.13589882875413367
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "08/26/1998"
+    },
+    {
+      "bbox": [
+        0.1451040839027491,
+        0.10346710151457718,
+        0.3296662958843159,
+        0.12268242036728438
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1301 FIFTH AVENUE, SUITE 2900\nSEATTLE, WASHINGTON 98101"
+    },
+    {
+      "bbox": [
+        0.11841327201051248,
+        0.18135225704711214,
+        0.5895198380738417,
+        0.195150798344175
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Battelle - Pacific Northwest Labratories"
+    },
+    {
+      "bbox": [
+        0.11671559069136536,
+        0.1815958506039817,
+        0.5915956556635188,
+        0.22603324791379198
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Battelle - Pacific Northwest Labratories\nP.O. Box 84391\nSeattle, WA 98124-5691"
+    },
+    {
+      "bbox": [
+        0.8398177290243127,
+        0.9286419964865802,
+        0.855091843119339,
+        0.9443983824290884
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8403225806451613,
+        0.9300873907615481,
+        0.9490038574032471,
+        0.9452000788488073
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,143.34"
+    },
+    {
+      "bbox": [
+        0.839516129032258,
+        0.9294303173664498,
+        0.9477305964138867,
+        0.9452000788488073
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,143.34"
+    },
+    {
+      "bbox": [
+        0.8347034712734178,
+        0.12278251443580497,
+        0.9395051293333025,
+        0.13714304243999267
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,143.34"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3032258064516129,
+        0.43570536828963796,
+        0.42016129032258065,
+        0.45068664169787764
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12/12/1997"
+    },
+    {
+      "bbox": [
+        0.8524193548387097,
+        0.43570536828963796,
+        0.9524193548387097,
+        0.45068664169787764
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,143.34"
+    },
+    {
+      "bbox": [
+        0.44139714297825444,
+        0.45108088573493654,
+        0.7715961595523717,
+        0.46685064721729413
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "001129 10 Tobacco Litigati"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3032258064516129,
+        0.42134831460674155,
+        0.4104144589038192,
+        0.43596819764767725
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Inv. Date"
+    },
+    {
+      "bbox": [
+        0.8747302996905599,
+        0.4215125829555161,
+        0.9477305964138867,
+        0.43465405085748077
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1014,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "prnm0231",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1708,
+        2206
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03387096774193549,
+          0.42134831460674155,
+          0.9524193548387097,
+          0.46878901373283394
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.03387096774193549,
+            "right": 0.1153225806451613
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.3032258064516129,
+            "right": 0.42016129032258065
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8524193548387097,
+            "right": 0.9524193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.43570536828963796,
+            "row_type": "header",
+            "top": 0.42134831460674155
+          },
+          {
+            "bottom": 0.45068664169787764,
+            "row_type": "data",
+            "top": 0.43570536828963796
+          },
+          {
+            "bottom": 0.46878901373283394,
+            "row_type": "up-merge",
+            "top": 0.45068664169787764
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

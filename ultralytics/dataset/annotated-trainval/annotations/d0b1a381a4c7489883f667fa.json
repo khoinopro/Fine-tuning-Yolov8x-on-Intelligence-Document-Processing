@@ -1,0 +1,359 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.82252868307283,
+        0.2292333855858029,
+        0.8855483039574326,
+        0.2433606792543836
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "6/2/2000"
+    },
+    {
+      "bbox": [
+        0.5605545394080479,
+        0.07445685844847588,
+        0.9306804955104755,
+        0.09280703869870562
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CENTER FOR AEROSPACE & OCCUPATIONAL MEDICINE"
+    },
+    {
+      "bbox": [
+        0.5600494679082142,
+        0.07373003629952724,
+        0.9299966744263385,
+        0.12683628622156434
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "CENTER FOR AEROSPACE & OCCUPATIONAL MEDICINE\n700 GEMINI AVENUE, SUITE 110\nHOUSTON, TEXAS 77058-2735"
+    },
+    {
+      "bbox": [
+        0.14349642500831392,
+        0.21725994702680676,
+        0.3754177751912205,
+        0.23407997538451303
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Womble Carlyle Sandridge & Rice"
+    },
+    {
+      "bbox": [
+        0.1422347855004988,
+        0.21912773026083268,
+        0.3761015962753575,
+        0.2866706306471129
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Womble Carlyle Sandridge & Rice\nAttn:\n200 West Second Street\nP.O. Drawer 84\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.8096441636182241,
+        0.856402729325278,
+        0.8192176587961423,
+        0.8718705691083954
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8089416361822415,
+        0.8571046033455441,
+        0.8787100931160624,
+        0.8703237851300837
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$4,500.00"
+    },
+    {
+      "bbox": [
+        0.6377805952776854,
+        0.37719242075850623,
+        0.7077548220818091,
+        0.3908207518534381
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$4,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.125,
+        0.42127659574468085,
+        0.2064516129032258,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "04/30/2000"
+    },
+    {
+      "bbox": [
+        0.21935483870967742,
+        0.42127659574468085,
+        0.41935483870967744,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Balance forward"
+    },
+    {
+      "bbox": [
+        0.8370967741935483,
+        0.42127659574468085,
+        0.9,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,550.00"
+    },
+    {
+      "bbox": [
+        0.125,
+        0.4370820668693009,
+        0.2064516129032258,
+        0.45045592705167176
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "05/29/2000"
+    },
+    {
+      "bbox": [
+        0.21935483870967742,
+        0.4370820668693009,
+        0.41935483870967744,
+        0.45045592705167176
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "PMT #006403 - Invoice 3001300"
+    },
+    {
+      "bbox": [
+        0.7088709677419355,
+        0.4370820668693009,
+        0.7838709677419354,
+        0.45045592705167176
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "-2,550.00"
+    },
+    {
+      "bbox": [
+        0.8370967741935483,
+        0.4370820668693009,
+        0.9,
+        0.45045592705167176
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.125,
+        0.45045592705167176,
+        0.2064516129032258,
+        0.46504559270516715
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "05/31/2000"
+    },
+    {
+      "bbox": [
+        0.21935483870967742,
+        0.45045592705167176,
+        0.41935483870967744,
+        0.46504559270516715
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "INV #3001380 - May 2000 Consulting"
+    },
+    {
+      "bbox": [
+        0.7088709677419355,
+        0.45045592705167176,
+        0.7838709677419354,
+        0.46504559270516715
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4,500.00"
+    },
+    {
+      "bbox": [
+        0.8370967741935483,
+        0.45045592705167176,
+        0.9,
+        0.46504559270516715
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4,500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.14551463252411043,
+        0.4015085301809987,
+        0.1859993348852677,
+        0.417116079484738
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.4053541735949452,
+        0.40202412484043587,
+        0.49508646491519787,
+        0.41660048482530077
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7047680412371135,
+        0.40099293552156134,
+        0.7651957931493183,
+        0.41763167414417524
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    },
+    {
+      "bbox": [
+        0.8186336049218491,
+        0.4025397194998732,
+        0.8834968407050215,
+        0.41660048482530077
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BALANCE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 840,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gnjx0077",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11209677419354838,
+          0.3963525835866261,
+          0.9137096774193548,
+          0.8844984802431611
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.125,
+            "right": 0.2064516129032258
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.21935483870967742,
+            "right": 0.41935483870967744
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7088709677419355,
+            "right": 0.7838709677419354
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8370967741935483,
+            "right": 0.9
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42127659574468085,
+            "row_type": "header",
+            "top": 0.3963525835866261
+          },
+          {
+            "bottom": 0.4370820668693009,
+            "row_type": "data",
+            "top": 0.42127659574468085
+          },
+          {
+            "bottom": 0.45045592705167176,
+            "row_type": "data",
+            "top": 0.4370820668693009
+          },
+          {
+            "bottom": 0.46504559270516715,
+            "row_type": "data",
+            "top": 0.45045592705167176
+          },
+          {
+            "bottom": 0.8170212765957446,
+            "row_type": "gap",
+            "top": 0.46504559270516715
+          },
+          {
+            "bottom": 0.8844984802431611,
+            "row_type": "footer",
+            "top": 0.8170212765957446
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

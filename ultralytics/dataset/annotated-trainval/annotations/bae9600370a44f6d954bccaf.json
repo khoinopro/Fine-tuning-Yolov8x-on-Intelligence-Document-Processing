@@ -1,0 +1,193 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.44270233575541196,
+        0.30633335344879603,
+        0.48454982022980414,
+        0.32036388872126004
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2734"
+    },
+    {
+      "bbox": [
+        0.7686722148190984,
+        0.11925954981594351,
+        0.832544691122118,
+        0.13173113672480036
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/9/00"
+    },
+    {
+      "bbox": [
+        0.23676866215774522,
+        0.0670347796351055,
+        0.45481608126115713,
+        0.0802858407257659
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KEVIN BERG AND ASSOCIATES"
+    },
+    {
+      "bbox": [
+        0.24081759397946884,
+        0.06794520547945206,
+        0.48963577247652795,
+        0.11848007563413995
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KEVIN BERG AND ASSOCIATES, INC.\nDBA KBA MARKETING\n640 N. LASALLE ST. SUME 35D\nCHICAGO, IL 606ID"
+    },
+    {
+      "bbox": [
+        0.12994745178890202,
+        0.20811960654154849,
+        0.295134890503608,
+        0.22448856435942308
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJ Reynolds - Camel"
+    },
+    {
+      "bbox": [
+        0.12333995424031377,
+        0.20836529680365296,
+        0.30394488723505897,
+        0.2720364894494398
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJ Reynolds - Camel\n401 North Main Street\nWinston-Salem, NC"
+    },
+    {
+      "bbox": [
+        0.8336459407135494,
+        0.9010721541649065,
+        0.8523671837678828,
+        0.9197795345281917
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8347471903049807,
+        0.9026311025285136,
+        0.9382646518995299,
+        0.9182205861645847
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$20,000.00"
+    },
+    {
+      "bbox": [
+        0.8362903225806452,
+        0.9006849315068494,
+        0.9349609031252357,
+        0.9182205861645847
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$20,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12554245342317655,
+        0.4139007905376863,
+        0.30945113519221584,
+        0.431828696719168
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Camel Website Project"
+    },
+    {
+      "bbox": [
+        0.8380509390792749,
+        0.4154597389012934,
+        0.941568400673824,
+        0.43338764508277516
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$20,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 255,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hydb0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1658,
+        2343
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12741935483870967,
+          0.4075342465753425,
+          0.95,
+          0.9309360730593608
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12741935483870967,
+            "right": 0.3088709677419355
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8346774193548387,
+            "right": 0.95
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4149543378995434,
+            "row_type": "header",
+            "top": 0.4075342465753425
+          },
+          {
+            "bottom": 0.4315068493150685,
+            "row_type": "data",
+            "top": 0.4149543378995434
+          },
+          {
+            "bottom": 0.9006849315068494,
+            "row_type": "gap",
+            "top": 0.4315068493150685
+          },
+          {
+            "bottom": 0.9309360730593608,
+            "row_type": "footer",
+            "top": 0.9006849315068494
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

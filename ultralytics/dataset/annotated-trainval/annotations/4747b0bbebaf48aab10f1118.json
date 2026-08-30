@@ -1,0 +1,204 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.625,
+        0.29101081835455855,
+        0.7387893760603083,
+        0.3052334483941296
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99-F09028A"
+    },
+    {
+      "bbox": [
+        0.5500819929556418,
+        0.2227421941646176,
+        0.695386677946235,
+        0.23980935021210284
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 6, 1999"
+    },
+    {
+      "bbox": [
+        0.6137096774193549,
+        0.30768290013972177,
+        0.7133138793411783,
+        0.32190553017929274
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "99-F09028"
+    },
+    {
+      "bbox": [
+        0.24666719566793563,
+        0.1338168950793008,
+        0.4973020356882505,
+        0.16048632218844985
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Rothstein-Tauber, Incorporated\nMarket Research Services"
+    },
+    {
+      "bbox": [
+        0.2473409452378827,
+        0.13382670366944188,
+        0.5444645055845463,
+        0.1744529809066466
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Rothstein-Tauber, Incorporated\nMarket Research Services\n1351 Washington Blvd.\u2022Stamford, CT 06902"
+    },
+    {
+      "bbox": [
+        0.30797840653312014,
+        0.18664380665485034,
+        0.4501395657919547,
+        0.19985053454873772
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "RTi@ix.netcom.com"
+    },
+    {
+      "bbox": [
+        0.09155507816489748,
+        0.3761659975553255,
+        0.3327574242059532,
+        0.391912480813422
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.09129067493525483,
+        0.37560239637020393,
+        0.3434268247564348,
+        0.4231245319589445
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Company\nPO Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.3834383583671935,
+        0.7793662834322183,
+        0.3969133497661351,
+        0.7956207177631566
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.38261489238203733,
+        0.77987423450506,
+        0.48300357830415275,
+        0.7951127666903147
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.3812673932421432,
+        0.7793662834322183,
+        0.4816560791642585,
+        0.7946048156174729
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.13751976533650817,
+        0.8487298174896464,
+        0.21028471889079312,
+        0.8644376899696049
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3774193548387097,
+        0.5902735562310031,
+        0.825,
+        0.6455927051671733
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Panel Product Test - Newport Non-Menthol 100MM\n\"Aromatic\" Prototype (#1273/74)\n(Lo-Fi Non-Menthol 100MM Panel)"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 665,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nmkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08790322580645162,
+          0.5902735562310031,
+          0.825,
+          0.8
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.3774193548387097,
+            "right": 0.825
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6455927051671733,
+            "row_type": "data",
+            "top": 0.5902735562310031
+          },
+          {
+            "bottom": 0.7416413373860182,
+            "row_type": "gap",
+            "top": 0.6455927051671733
+          },
+          {
+            "bottom": 0.8,
+            "row_type": "footer",
+            "top": 0.7416413373860182
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

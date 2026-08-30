@@ -1,0 +1,553 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.13750317500635,
+        0.23718552123827924,
+        0.4405194310388621,
+        0.24948767482947629
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "HunterLab (Hunter Associates Laboratory, Inc.)"
+    },
+    {
+      "bbox": [
+        0.1365482918465837,
+        0.2608056561333776,
+        0.43065230505461016,
+        0.271631551293631
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "11491 Sunset Hills Rd, Reston, VA 20190-5280"
+    },
+    {
+      "bbox": [
+        0.19193548387096773,
+        0.40399002493765584,
+        0.4309705994411989,
+        0.4148286190951648
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Philip Morris USA, Operations Center"
+    },
+    {
+      "bbox": [
+        0.1920393964037228,
+        0.4040027239349113,
+        0.7702724155448312,
+        0.4167841266399219
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "Philip Morris USA, Operations Center, 2001 Walmsley Blvd, Door 100, Richmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.5996666243332487,
+        0.5048803833827271,
+        0.609215455930912,
+        0.5166904508302763
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5996666243332487,
+        0.5043882972390793,
+        0.6677816230632462,
+        0.5166904508302763
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$18,845.00"
+    },
+    {
+      "bbox": [
+        0.5996666243332487,
+        0.5043882972390793,
+        0.6677816230632462,
+        0.5161983646866285
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$18,845.00"
+    },
+    {
+      "bbox": [
+        0.13750317500635,
+        0.30804592592357427,
+        0.18461074422148846,
+        0.31936390722747554
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14193548387096774,
+        0.17720726361928615,
+        0.15403225806451612,
+        0.1897307451471509
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.17720726361928615,
+        0.21370967741935484,
+        0.1897307451471509
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "each"
+    },
+    {
+      "bbox": [
+        0.23306451612903226,
+        0.17720726361928615,
+        0.42338709677419356,
+        0.1897307451471509
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "ColorQuest XE Sensor"
+    },
+    {
+      "bbox": [
+        0.4403225806451613,
+        0.17720726361928615,
+        0.5370967741935484,
+        0.1897307451471509
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "COXE/SAV"
+    },
+    {
+      "bbox": [
+        0.5685483870967742,
+        0.17720726361928615,
+        0.7209677419354839,
+        0.1897307451471509
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "$13,750.00"
+    },
+    {
+      "bbox": [
+        0.8048387096774193,
+        0.17720726361928615,
+        0.8701612903225806,
+        0.1897307451471509
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "$13,750.00"
+    },
+    {
+      "bbox": [
+        0.14193548387096774,
+        0.1897307451471509,
+        0.15403225806451612,
+        0.2028804007514089
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.1897307451471509,
+        0.21370967741935484,
+        0.2028804007514089
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "each"
+    },
+    {
+      "bbox": [
+        0.23306451612903226,
+        0.1897307451471509,
+        0.42338709677419356,
+        0.2028804007514089
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "Retroviewer Option"
+    },
+    {
+      "bbox": [
+        0.4403225806451613,
+        0.1897307451471509,
+        0.5370967741935484,
+        0.2028804007514089
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "RETRO-CQXE"
+    },
+    {
+      "bbox": [
+        0.5685483870967742,
+        0.1897307451471509,
+        0.7209677419354839,
+        0.2028804007514089
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "$595.00"
+    },
+    {
+      "bbox": [
+        0.8048387096774193,
+        0.1897307451471509,
+        0.8701612903225806,
+        0.2028804007514089
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "$595.00"
+    },
+    {
+      "bbox": [
+        0.14193548387096774,
+        0.2028804007514089,
+        0.15403225806451612,
+        0.21603005635566688
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.2028804007514089,
+        0.21370967741935484,
+        0.21603005635566688
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "each"
+    },
+    {
+      "bbox": [
+        0.23306451612903226,
+        0.2028804007514089,
+        0.42338709677419356,
+        0.21603005635566688
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "CQXE/USPRO: Reflectance Holder"
+    },
+    {
+      "bbox": [
+        0.4403225806451613,
+        0.2028804007514089,
+        0.5370967741935484,
+        0.21603005635566688
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "CMR-2893"
+    },
+    {
+      "bbox": [
+        0.5685483870967742,
+        0.2028804007514089,
+        0.7209677419354839,
+        0.21603005635566688
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "$975.00"
+    },
+    {
+      "bbox": [
+        0.8048387096774193,
+        0.2028804007514089,
+        0.8701612903225806,
+        0.21603005635566688
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "$975.00"
+    },
+    {
+      "bbox": [
+        0.14193548387096774,
+        0.21603005635566688,
+        0.15403225806451612,
+        0.2398246712586099
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.21603005635566688,
+        0.21370967741935484,
+        0.2398246712586099
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "each"
+    },
+    {
+      "bbox": [
+        0.23306451612903226,
+        0.21603005635566688,
+        0.42338709677419356,
+        0.2398246712586099
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "HunterLab ValuePak (3 yr service\ncontract)"
+    },
+    {
+      "bbox": [
+        0.4403225806451613,
+        0.21603005635566688,
+        0.5370967741935484,
+        0.2398246712586099
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "VALUEPAKTSCV\n-BT"
+    },
+    {
+      "bbox": [
+        0.5685483870967742,
+        0.21603005635566688,
+        0.7209677419354839,
+        0.2398246712586099
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "$3,525.00"
+    },
+    {
+      "bbox": [
+        0.8048387096774193,
+        0.21603005635566688,
+        0.8701612903225806,
+        0.2398246712586099
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "$3,525.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.13851707292184848,
+        0.16682595341698478,
+        0.15837797675990767,
+        0.17750024469888168
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Qty"
+    },
+    {
+      "bbox": [
+        0.18282216609905738,
+        0.16682595341698478,
+        0.219488450107782,
+        0.17670955645577824
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "U of M"
+    },
+    {
+      "bbox": [
+        0.23476606844475056,
+        0.16643060929543302,
+        0.2958765417926249,
+        0.17710490057732994
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.4420324238829577,
+        0.16643060929543302,
+        0.48735602494929786,
+        0.17631421233422648
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Part No."
+    },
+    {
+      "bbox": [
+        0.5769847191928469,
+        0.16603526517388129,
+        0.6055029400885216,
+        0.17591886821267474
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Price"
+    },
+    {
+      "bbox": [
+        0.8448522940343627,
+        0.16643060929543302,
+        0.86725946759525,
+        0.17631421233422648
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "TTL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 945,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "ypxb0219",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ],
+      [
+        1719,
+        2214
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.1314516129032258,
+          0.16530995616781466,
+          0.8701612903225806,
+          0.2548528490920476
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.14193548387096774,
+            "right": 0.15403225806451612
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.18548387096774194,
+            "right": 0.21370967741935484
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.23306451612903226,
+            "right": 0.42338709677419356
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.4403225806451613,
+            "right": 0.5370967741935484
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.5685483870967742,
+            "right": 0.7209677419354839
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8048387096774193,
+            "right": 0.8701612903225806
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.17720726361928615,
+            "row_type": "header",
+            "top": 0.16530995616781466
+          },
+          {
+            "bottom": 0.1897307451471509,
+            "row_type": "data",
+            "top": 0.17720726361928615
+          },
+          {
+            "bottom": 0.2028804007514089,
+            "row_type": "data",
+            "top": 0.1897307451471509
+          },
+          {
+            "bottom": 0.21603005635566688,
+            "row_type": "data",
+            "top": 0.2028804007514089
+          },
+          {
+            "bottom": 0.2398246712586099,
+            "row_type": "data",
+            "top": 0.21603005635566688
+          },
+          {
+            "bottom": 0.2548528490920476,
+            "row_type": "footer",
+            "top": 0.2398246712586099
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

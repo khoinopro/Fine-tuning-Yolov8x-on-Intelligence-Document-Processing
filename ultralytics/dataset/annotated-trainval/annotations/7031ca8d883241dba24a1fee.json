@@ -1,0 +1,278 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.641643779532932,
+        0.08883400254493726,
+        0.724414458982276,
+        0.10205334816174338
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "10057-001"
+    },
+    {
+      "bbox": [
+        0.1635872810085123,
+        0.08826770283593345,
+        0.37212602992101806,
+        0.11262882465518831
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WCBZ TV22\nColumbus Broadcasting Corporation"
+    },
+    {
+      "bbox": [
+        0.16485730369662746,
+        0.08883400254493727,
+        0.37144197471895735,
+        0.13377977764207813
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WCBZ TV22\nColumbus Broadcasting Corporation\nP.O. Box 325\nEtna, Ohio 43018"
+    },
+    {
+      "bbox": [
+        0.16402654338888795,
+        0.22651476643548446,
+        0.2831988536531277,
+        0.23583312580382151
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "HUNT FOR VIOLET"
+    },
+    {
+      "bbox": [
+        0.1641732484945668,
+        0.22578642313504887,
+        0.34202760103034746,
+        0.2601567217387448
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "HUNT FOR VIOLET\n8013 KINGFISHER LANE\nPICKERINGTON, OHIO 43147"
+    },
+    {
+      "bbox": [
+        0.6402756691288105,
+        0.21785481576496515,
+        0.6498524419576602,
+        0.22948783990775456
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.63895447024104,
+        0.2185439274590541,
+        0.6908957540813019,
+        0.23054538755709905
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$300.00"
+    },
+    {
+      "bbox": [
+        0.6409597243308712,
+        0.21891236341430967,
+        0.6881595332730591,
+        0.22895906608308234
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$300.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14274193548387096,
+        0.4451371571072319,
+        0.17338709677419356,
+        0.4551122194513716
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Oct-21"
+    },
+    {
+      "bbox": [
+        0.24838709677419354,
+        0.4451371571072319,
+        0.2806451612903226,
+        0.4551122194513716
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "300.00"
+    },
+    {
+      "bbox": [
+        0.3467741935483871,
+        0.4451371571072319,
+        0.37983870967741934,
+        0.4551122194513716
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Nov-21"
+    },
+    {
+      "bbox": [
+        0.867741935483871,
+        0.4451371571072319,
+        0.9016129032258065,
+        0.4551122194513716
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "300.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1071710649767148,
+        0.393881063415333,
+        0.15049214445335288,
+        0.40451197587426785
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Run Dates"
+    },
+    {
+      "bbox": [
+        0.8188891352928127,
+        0.39440983724000533,
+        0.8591733337882328,
+        0.40345442822492333
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Item Cost"
+    },
+    {
+      "bbox": [
+        0.8670578802818102,
+        0.39493861106467754,
+        0.9104774739427849,
+        0.40398320204959565
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Cost"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 883,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "f2c6ef78-6211-4115-be18-e5143a602487",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08709677419354839,
+          0.38965087281795513,
+          0.9161290322580645,
+          0.470074812967581
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.14274193548387096,
+            "right": 0.17338709677419356
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.24838709677419354,
+            "right": 0.2806451612903226
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.3467741935483871,
+            "right": 0.37983870967741934
+          },
+          {
+            "column_type": "",
+            "left": 0.4669354838709677,
+            "right": 0.48951612903225805
+          },
+          {
+            "column_type": "",
+            "left": 0.5524193548387096,
+            "right": 0.5854838709677419
+          },
+          {
+            "column_type": "",
+            "left": 0.6685483870967742,
+            "right": 0.6943548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.7524193548387097,
+            "right": 0.792741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.867741935483871,
+            "right": 0.9016129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4114713216957606,
+            "row_type": "header",
+            "top": 0.38965087281795513
+          },
+          {
+            "bottom": 0.4401496259351621,
+            "row_type": "gap-with-text",
+            "top": 0.4114713216957606
+          },
+          {
+            "bottom": 0.4451371571072319,
+            "row_type": "gap",
+            "top": 0.4401496259351621
+          },
+          {
+            "bottom": 0.4551122194513716,
+            "row_type": "data",
+            "top": 0.4451371571072319
+          },
+          {
+            "bottom": 0.470074812967581,
+            "row_type": "gap",
+            "top": 0.4551122194513716
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

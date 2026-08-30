@@ -1,0 +1,298 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.03564616725900946,
+        0.27563406729467527,
+        0.0896396507211907,
+        0.2853228715567875
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9912073"
+    },
+    {
+      "bbox": [
+        0.24637801533470713,
+        0.2737708357058075,
+        0.29145995298274197,
+        0.2838322862856933
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/8/99"
+    },
+    {
+      "bbox": [
+        0.11322903669981357,
+        0.07274884265355037,
+        0.4398109803594147,
+        0.08541881745785095
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC."
+    },
+    {
+      "bbox": [
+        0.11413858061739895,
+        0.07124832776449852,
+        0.4388681937069034,
+        0.09938477380312458
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC.\n6565 Penn Avenue \u2022 Pittsburgh, PA 15206-4490"
+    },
+    {
+      "bbox": [
+        0.6773376379010791,
+        0.15271046187651907,
+        0.9414600065214034,
+        0.1637780575143934
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC."
+    },
+    {
+      "bbox": [
+        0.6778092849879013,
+        0.1503585399719762,
+        0.9420115716889911,
+        0.17555368485202297
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC.\nP.O. Box 400155-W \u2022 Pittsburgh, PA 15268-0155"
+    },
+    {
+      "bbox": [
+        0.8112903225806452,
+        0.23730118084432592,
+        0.8711321837537743,
+        0.24770642201834864
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "25-1126415"
+    },
+    {
+      "bbox": [
+        0.09291446171040862,
+        0.1640016546871746,
+        0.3122303570826421,
+        0.19083218956686993
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "MS SARAH EVANS\nLORILLARD TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.09385775588405264,
+        0.1631341021918173,
+        0.3123912181976698,
+        0.220681159620531
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "MS SARAH EVANS\nLORILLARD TOBACCO COMPANY\n714 GREEN VALLEY ROAD\nGREENSBORO, NC 27408"
+    },
+    {
+      "bbox": [
+        0.8626119525455669,
+        0.40053932519564983,
+        0.8757481755801549,
+        0.4136139247232772
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.21346749226006187,
+        0.5053894089293084,
+        0.27637959172363036,
+        0.5154845423803888
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,060.00"
+    },
+    {
+      "bbox": [
+        0.21346749226006184,
+        0.5053894089293084,
+        0.27581514524688866,
+        0.5161151781096248
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,060.00"
+    },
+    {
+      "bbox": [
+        0.8626119525455669,
+        0.40164617487795046,
+        0.941429290753095,
+        0.4134755744505657
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,060.00"
+    },
+    {
+      "bbox": [
+        0.8643034656198056,
+        0.2717833962591907,
+        0.9466042122563344,
+        0.28333543211017065
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 10 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.042741935483870966,
+        0.3738532110091743,
+        0.42983870967741933,
+        0.3944954128440367
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5673-1499 Computer Access and Storage (Disk Usage) Dec-99"
+    },
+    {
+      "bbox": [
+        0.6040322580645161,
+        0.3738532110091743,
+        0.6685483870967742,
+        0.3944954128440367
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$5,060.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.36192547647811896,
+        0.29870968207258675,
+        0.46113023370164224,
+        0.30997963814484764
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8538544705225082,
+        0.29455897874690723,
+        0.9195355856954482,
+        0.3070109782970285
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1167,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jxbw0181",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1663,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.00564516129032258,
+          0.29759174311926606,
+          0.9685483870967742,
+          0.9564220183486238
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.042741935483870966,
+            "right": 0.42983870967741933
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6040322580645161,
+            "right": 0.6685483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3125,
+            "row_type": "header",
+            "top": 0.29759174311926606
+          },
+          {
+            "bottom": 0.32798165137614677,
+            "row_type": "gap",
+            "top": 0.3125
+          },
+          {
+            "bottom": 0.3463302752293578,
+            "row_type": "gap-with-text",
+            "top": 0.32798165137614677
+          },
+          {
+            "bottom": 0.3738532110091743,
+            "row_type": "gap",
+            "top": 0.3463302752293578
+          },
+          {
+            "bottom": 0.3944954128440367,
+            "row_type": "data",
+            "top": 0.3738532110091743
+          },
+          {
+            "bottom": 0.419151376146789,
+            "row_type": "footer",
+            "top": 0.3944954128440367
+          },
+          {
+            "bottom": 0.5217889908256881,
+            "row_type": "gap-with-text",
+            "top": 0.419151376146789
+          },
+          {
+            "bottom": 0.6295871559633027,
+            "row_type": "gap",
+            "top": 0.5217889908256881
+          },
+          {
+            "bottom": 0.9564220183486238,
+            "row_type": "gap-with-text",
+            "top": 0.6295871559633027
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

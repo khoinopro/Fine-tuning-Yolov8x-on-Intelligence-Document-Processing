@@ -1,0 +1,167 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7419354838709677,
+        0.15987841945288753,
+        0.8362903225806452,
+        0.17507598784194528
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42516886"
+    },
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.1890577507598784,
+        0.2056451612903226,
+        0.2006079027355623
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 21, 2001"
+    },
+    {
+      "bbox": [
+        0.09838709677419355,
+        0.21641337386018236,
+        0.2403225806451613,
+        0.2291793313069909
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Labstat International Inc."
+    },
+    {
+      "bbox": [
+        0.09838709677419355,
+        0.24498480243161094,
+        0.4129032258064516,
+        0.2589665653495441
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "252 Manitou Drive, Kitchener, Ontario, Canada N2C IL3"
+    },
+    {
+      "bbox": [
+        0.5653225806451613,
+        0.15987841945288753,
+        0.6411290322580645,
+        0.17142857142857143
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R6-632"
+    },
+    {
+      "bbox": [
+        0.10080645161290322,
+        0.11124620060790273,
+        0.2911290322580645,
+        0.12522796352583587
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.09919354838709678,
+        0.2741641337386018,
+        0.23951612903225805,
+        0.2857142857142857
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PM USA, Richmond, VA"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.25887096774193546,
+        0.4601823708206687,
+        0.625,
+        0.5325227963525836
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Conduct analyses to measure mainstream\nsmoke constituents as described\nin the attached quote."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3879032258064516,
+        0.4297872340425532,
+        0.4782258064516129,
+        0.4413373860182371
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1096,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "lrmh0008",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10241935483870968,
+          0.4249240121580547,
+          0.8959677419354839,
+          0.5325227963525836
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.25887096774193546,
+            "right": 0.625
+          },
+          {
+            "column_type": "",
+            "left": 0.625,
+            "right": 0.6879032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.451063829787234,
+            "row_type": "header",
+            "top": 0.4249240121580547
+          },
+          {
+            "bottom": 0.4601823708206687,
+            "row_type": "gap",
+            "top": 0.451063829787234
+          },
+          {
+            "bottom": 0.5325227963525836,
+            "row_type": "data",
+            "top": 0.4601823708206687
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

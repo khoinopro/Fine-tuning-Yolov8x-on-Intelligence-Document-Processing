@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.20157356412273802,
+        0.28775959723096284,
+        0.3623918174665618,
+        0.3105202433396266
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "5A 0175995400"
+    },
+    {
+      "bbox": [
+        0.1927616050354052,
+        0.3088944829032934,
+        0.31282454760031475,
+        0.3332808894482903
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10-09-2000"
+    },
+    {
+      "bbox": [
+        0.571675845790716,
+        0.08616530312565554,
+        0.6190401258851298,
+        0.11542899097965177
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "RJR"
+    },
+    {
+      "bbox": [
+        0.05617623918174667,
+        0.09917138661632054,
+        0.2797797010228167,
+        0.14144115796098175
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P. O. BOX 2955\nWinston-Salem, North Carolina 27102"
+    },
+    {
+      "bbox": [
+        0.4835562549173879,
+        0.24386406544996853,
+        0.825,
+        0.2714285714285714
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "COUNCIL FOR TOBACCO RESEARCH"
+    },
+    {
+      "bbox": [
+        0.4868607395751377,
+        0.24563809523809527,
+        0.8213809650759798,
+        0.3332808894482903
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "COUNCIL FOR TOBACCO RESEARCH\nUSA INC\n122 E 42ND ST STE 2518\nNEW YORK, NY 10168"
+    },
+    {
+      "bbox": [
+        0.8774193548387097,
+        0.9071428571428571,
+        0.9704169944925257,
+        0.9315607300188797
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "235,372.00"
+    },
+    {
+      "bbox": [
+        0.8766129032258064,
+        0.9071428571428571,
+        0.9748229740361921,
+        0.9331864904552128
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "235,372.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.01532258064516129,
+        0.4773809523809524,
+        0.0935483870967742,
+        0.5035714285714286
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "23537200"
+    },
+    {
+      "bbox": [
+        0.16129032258064516,
+        0.4773809523809524,
+        0.2564516129032258,
+        0.5035714285714286
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "235,372.00"
+    },
+    {
+      "bbox": [
+        0.2846774193548387,
+        0.4773809523809524,
+        0.37661290322580643,
+        0.5035714285714286
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "235,372.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.01532258064516129,
+        0.4452380952380952,
+        0.14319433516915814,
+        0.46984476610027265
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE NUMBER"
+    },
+    {
+      "bbox": [
+        0.20377655389457122,
+        0.4452380952380952,
+        0.2564516129032258,
+        0.46496748479127337
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS"
+    },
+    {
+      "bbox": [
+        0.2846774193548387,
+        0.4452380952380952,
+        0.37661290322580643,
+        0.4682190056639396
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 395,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xlcm0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1585
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.01532258064516129,
+          0.4452380952380952,
+          0.975,
+          0.9392857142857143
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.01532258064516129,
+            "right": 0.0935483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.16129032258064516,
+            "right": 0.2564516129032258
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.2846774193548387,
+            "right": 0.37661290322580643
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4773809523809524,
+            "row_type": "header",
+            "top": 0.4452380952380952
+          },
+          {
+            "bottom": 0.5035714285714286,
+            "row_type": "data",
+            "top": 0.4773809523809524
+          },
+          {
+            "bottom": 0.8904761904761904,
+            "row_type": "gap",
+            "top": 0.5035714285714286
+          },
+          {
+            "bottom": 0.9285714285714286,
+            "row_type": "footer",
+            "top": 0.8904761904761904
+          },
+          {
+            "bottom": 0.9392857142857143,
+            "row_type": "footer",
+            "top": 0.9285714285714286
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

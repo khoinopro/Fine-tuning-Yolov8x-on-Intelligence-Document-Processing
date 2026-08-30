@@ -1,0 +1,253 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8831439257515059,
+        0.12045177936890669,
+        0.9183858016306753,
+        0.13227442772556453
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3469"
+    },
+    {
+      "bbox": [
+        0.7608338859355652,
+        0.11897394832432445,
+        0.8116236482320152,
+        0.13301334324785563
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/13/01"
+    },
+    {
+      "bbox": [
+        0.2456805826430015,
+        0.0561661289295797,
+        0.4954832910806431,
+        0.06946660833081976
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KEVIN BERG AND ASSOCIATES, INC."
+    },
+    {
+      "bbox": [
+        0.24686779979155676,
+        0.056819495507803054,
+        0.49548646194773255,
+        0.10493455340079327
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KEVIN BERG AND A55DCIATES, INC.\nDBA KBA MARKETING\n640 N. LASALLE ST. SUITE 350\nCHICAG0.IL 50510"
+    },
+    {
+      "bbox": [
+        0.14824716109470973,
+        0.20321031786551152,
+        0.233242273509177,
+        0.2312891077125739
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Salem\nRJ Reynolds"
+    },
+    {
+      "bbox": [
+        0.15032021261701384,
+        0.2066731163157034,
+        0.3275661177740126,
+        0.28597065732655064
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Salem\nRJ Reynolds\n401 N. Main Street\nWinston-Salem, NC 27102\nAttn: Gary Hicks"
+    },
+    {
+      "bbox": [
+        0.8613768847673131,
+        0.8904565245141928,
+        0.9214953789141314,
+        0.9015402573485595
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "7,500.00"
+    },
+    {
+      "bbox": [
+        0.8624134105284651,
+        0.8897176089919018,
+        0.9214953789141314,
+        0.9037570039154329
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "7,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.39043632300850334,
+        0.4008584547160067,
+        0.47972894110684816,
+        0.4139706465366979
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8535323521656054,
+        0.40148284480270624,
+        0.9156870177046493,
+        0.4127218663632988
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    },
+    {
+      "bbox": [
+        0.15080645161290324,
+        0.44048303622771706,
+        0.3,
+        0.45313398504887864
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Target Exploratory Fee"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.44048303622771706,
+        0.8354838709677419,
+        0.45313398504887864
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8572580645161291,
+        0.44048303622771706,
+        0.9145161290322581,
+        0.45313398504887864
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 422,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xmjl0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1682,
+        2359
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07338709677419354,
+          0.3956296722254169,
+          0.9717741935483871,
+          0.9240943070730305
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15080645161290324,
+            "right": 0.3
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.8209677419354838,
+            "right": 0.8354838709677419
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8572580645161291,
+            "right": 0.9145161290322581
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4209315698677401,
+            "row_type": "data",
+            "top": 0.3956296722254169
+          },
+          {
+            "bottom": 0.44048303622771706,
+            "row_type": "gap",
+            "top": 0.4209315698677401
+          },
+          {
+            "bottom": 0.45313398504887864,
+            "row_type": "data",
+            "top": 0.44048303622771706
+          },
+          {
+            "bottom": 0.46635997699827486,
+            "row_type": "gap",
+            "top": 0.45313398504887864
+          },
+          {
+            "bottom": 0.4795859689476711,
+            "row_type": "gap-with-text",
+            "top": 0.46635997699827486
+          },
+          {
+            "bottom": 0.527889591719379,
+            "row_type": "gap",
+            "top": 0.4795859689476711
+          },
+          {
+            "bottom": 0.6693502012650949,
+            "row_type": "gap-with-text",
+            "top": 0.527889591719379
+          },
+          {
+            "bottom": 0.7268545140885566,
+            "row_type": "gap",
+            "top": 0.6693502012650949
+          },
+          {
+            "bottom": 0.878090856814261,
+            "row_type": "gap-with-text",
+            "top": 0.7268545140885566
+          },
+          {
+            "bottom": 0.9240943070730305,
+            "row_type": "footer",
+            "top": 0.878090856814261
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

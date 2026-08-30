@@ -1,0 +1,256 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2137166891573612,
+        0.12333224942934147,
+        0.36388658259441387,
+        0.1372250536506722
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Burt Broadcasting, Inc"
+    },
+    {
+      "bbox": [
+        0.21603591531082916,
+        0.12378040440422311,
+        0.6566888844697483,
+        0.1372250536506722
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Burt Broadcasting, Inc PO Box 1848 Alamogordo, NM 88310"
+    },
+    {
+      "bbox": [
+        0.1442558685151384,
+        0.20355199164272994,
+        0.31370967741935485,
+        0.21610033093941577
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Media Financial Services"
+    },
+    {
+      "bbox": [
+        0.1436760619767714,
+        0.20355199164272994,
+        0.312979571179935,
+        0.2698789279252122
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Media Financial Services\nEst # 7844\nPolitical Candidate"
+    },
+    {
+      "bbox": [
+        0.8646075082434393,
+        0.426733172552936,
+        0.8756238324724124,
+        0.44286675164867495
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.3778054862842893,
+        0.925,
+        0.38902743142144636
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$395.25"
+    },
+    {
+      "bbox": [
+        0.8628680886283385,
+        0.42762948250269933,
+        0.925,
+        0.44286675164867495
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$395.25"
+    },
+    {
+      "bbox": [
+        0.8634478951667054,
+        0.4285257924524626,
+        0.9254871947719743,
+        0.4419704416989117
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$395.25"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.7653225806451613,
+        0.3192019950124688,
+        0.7870967741935484,
+        0.3335411471321696
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "31"
+    },
+    {
+      "bbox": [
+        0.8120967741935484,
+        0.3192019950124688,
+        0.8346774193548387,
+        0.3335411471321696
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$15"
+    },
+    {
+      "bbox": [
+        0.8629032258064516,
+        0.3192019950124688,
+        0.925,
+        0.3335411471321696
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$465.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7590827182606456,
+        0.2922866800884451,
+        0.7956105301777665,
+        0.3061794843097758
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.8066268544067395,
+        0.2922866800884451,
+        0.8437344728622275,
+        0.3057313293348942
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.8640277017050725,
+        0.29318299003820836,
+        0.9254871947719743,
+        0.3061794843097758
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 32,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "570acbdd-c09c-4f8d-ae0a-660da4e8d046",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07258064516129033,
+          0.286783042394015,
+          0.9443548387096774,
+          0.45012468827930174
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.589516129032258,
+            "right": 0.6104838709677419
+          },
+          {
+            "column_type": "",
+            "left": 0.6596774193548387,
+            "right": 0.682258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.7185483870967742,
+            "right": 0.7419354838709677
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7653225806451613,
+            "right": 0.7870967741935484
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.8120967741935484,
+            "right": 0.8346774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8629032258064516,
+            "right": 0.925
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.314214463840399,
+            "row_type": "header",
+            "top": 0.286783042394015
+          },
+          {
+            "bottom": 0.3192019950124688,
+            "row_type": "gap",
+            "top": 0.314214463840399
+          },
+          {
+            "bottom": 0.3335411471321696,
+            "row_type": "data",
+            "top": 0.3192019950124688
+          },
+          {
+            "bottom": 0.422069825436409,
+            "row_type": "gap",
+            "top": 0.3335411471321696
+          },
+          {
+            "bottom": 0.45012468827930174,
+            "row_type": "footer",
+            "top": 0.422069825436409
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

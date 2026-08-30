@@ -1,0 +1,178 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7645161290322581,
+        0.2758103852125184,
+        0.8694064217844318,
+        0.2895885580633529
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9728-000207"
+    },
+    {
+      "bbox": [
+        0.2629641577060932,
+        0.5147308237598994,
+        0.3667347670250896,
+        0.5276200822332607
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9728-000207"
+    },
+    {
+      "bbox": [
+        0.14471544201485148,
+        0.30756437460572345,
+        0.26676382911162566,
+        0.3213425474565579
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 22, 2001"
+    },
+    {
+      "bbox": [
+        0.6100453987395037,
+        0.7862941932054728,
+        0.7026134990979267,
+        0.8024316109422492
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-4008324"
+    },
+    {
+      "bbox": [
+        0.14235701907578338,
+        0.40223378293413203,
+        0.36227995814388375,
+        0.4351236149006401
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ronald Milstein\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.14235701907578338,
+        0.4021638343610576,
+        0.3617413535084802,
+        0.4649022465459919
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ronald Milstein\nLorillard Tobacco Company\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.7768383214260088,
+        0.593004688180463,
+        0.7886304361213493,
+        0.6063384038425609
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7774279271607759,
+        0.5916713166142533,
+        0.8534870669457222,
+        0.6076717754087707
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$9,443.45"
+    },
+    {
+      "bbox": [
+        0.7762487156912418,
+        0.5921157738029899,
+        0.852897461210955,
+        0.6076717754087707
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$9,443.45"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1435483870967742,
+        0.5914893617021276,
+        0.7693548387096775,
+        0.6303951367781155
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total due for professional tax services rendered during the period\nDecember 1, 2000 through February 28, 2001 and fourth quarterly retainer billing:"
+    },
+    {
+      "bbox": [
+        0.7693548387096775,
+        0.5914893617021276,
+        0.8766129032258064,
+        0.6303951367781155
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$9,443.45"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1058,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tzfl0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1435483870967742,
+          0.5914893617021276,
+          0.8766129032258064,
+          0.6303951367781155
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1435483870967742,
+            "right": 0.7693548387096775
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7693548387096775,
+            "right": 0.8766129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6303951367781155,
+            "row_type": "data",
+            "top": 0.5914893617021276
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

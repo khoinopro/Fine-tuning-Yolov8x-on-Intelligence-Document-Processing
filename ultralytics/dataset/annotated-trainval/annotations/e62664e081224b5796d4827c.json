@@ -1,0 +1,237 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7187875150060025,
+        0.1044615986459112,
+        0.767015838593502,
+        0.12367292713251556
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "27460004"
+    },
+    {
+      "bbox": [
+        0.7187875150060025,
+        0.1428842556191199,
+        0.7595960965031174,
+        0.1608948760753115
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/16/20"
+    },
+    {
+      "bbox": [
+        0.02782403283894203,
+        0.08885239425054517,
+        0.20868024629206522,
+        0.1044615986459112
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "6400 N Beltline Road \u00b7 Suite 210, Irving, TX 75063"
+    },
+    {
+      "bbox": [
+        0.04637338806490338,
+        0.1608948760753115,
+        0.18456608449831546,
+        0.20041753653444677
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "McLaughlin & Associates, NY\nAttn: Marianne Campbell"
+    },
+    {
+      "bbox": [
+        0.045445920303605315,
+        0.16209558410572428,
+        0.18456608449831546,
+        0.2365394819913162
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "McLaughlin & Associates, NY\nAttn: Marianne Campbell\n566 South Route 303\nBlauvelt, NY 10913"
+    },
+    {
+      "bbox": [
+        0.8560527436781165,
+        0.4514662194352025,
+        0.8653274212910971,
+        0.4706775479218068
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3366707973511986,
+        0.45266692746561527,
+        0.3895364597451884,
+        0.4718782559522196
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$4,500.00"
+    },
+    {
+      "bbox": [
+        0.8564516129032258,
+        0.4509394572025052,
+        0.9079909383108082,
+        0.46947683989139405
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$3,825.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.8814516129032258,
+        0.3475991649269311,
+        0.9088709677419354,
+        0.3653444676409186
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4,500"
+    },
+    {
+      "bbox": [
+        0.925,
+        0.3475991649269311,
+        0.9370967741935484,
+        0.3653444676409186
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8727471633814816,
+        0.3109833798769081,
+        0.8987162606978276,
+        0.3277932923026869
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    },
+    {
+      "bbox": [
+        0.9117008093560006,
+        0.29177205139030377,
+        0.9385973744336445,
+        0.3265925842722741
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nUnits"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "2d93d70c-4ee1-43f8-9c61-1df93ea95770",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.037096774193548385,
+          0.29123173277661796,
+          0.9459677419354838,
+          0.4759916492693111
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.0814516129032258,
+            "right": 0.10725806451612903
+          },
+          {
+            "column_type": "",
+            "left": 0.14919354838709678,
+            "right": 0.15725806451612903
+          },
+          {
+            "column_type": "",
+            "left": 0.1935483870967742,
+            "right": 0.20241935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.23951612903225805,
+            "right": 0.24758064516129033
+          },
+          {
+            "column_type": "",
+            "left": 0.2830645161290323,
+            "right": 0.29354838709677417
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8814516129032258,
+            "right": 0.9088709677419354
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.925,
+            "right": 0.9370967741935484
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3288100208768267,
+            "row_type": "header",
+            "top": 0.29123173277661796
+          },
+          {
+            "bottom": 0.3475991649269311,
+            "row_type": "subsection-header",
+            "top": 0.3288100208768267
+          },
+          {
+            "bottom": 0.3653444676409186,
+            "row_type": "data",
+            "top": 0.3475991649269311
+          },
+          {
+            "bottom": 0.4498956158663883,
+            "row_type": "gap-with-text",
+            "top": 0.3653444676409186
+          },
+          {
+            "bottom": 0.4759916492693111,
+            "row_type": "footer",
+            "top": 0.4498956158663883
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

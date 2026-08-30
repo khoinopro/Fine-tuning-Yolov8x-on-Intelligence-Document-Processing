@@ -1,0 +1,256 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7051840159875495,
+        0.1156821773221548,
+        0.7523786785512168,
+        0.12993685320071416
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9926"
+    },
+    {
+      "bbox": [
+        0.6703010045274477,
+        0.14583629937295345,
+        0.8079297999557098,
+        0.16244571458093593
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "May 18, 2001"
+    },
+    {
+      "bbox": [
+        0.2927437040181098,
+        0.9133957697569188,
+        0.4274878855404641,
+        0.9281987024000382
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "May 30, 2001"
+    },
+    {
+      "bbox": [
+        0.7188636283248444,
+        0.19024509730231146,
+        0.7728980970571591,
+        0.20559628670999075
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "47237"
+    },
+    {
+      "bbox": [
+        0.06703010045274477,
+        0.15351189407679308,
+        0.33515050226372384,
+        0.1672183131907925
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "A Division of LRK Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.06703010045274477,
+        0.15329384333693954,
+        0.3349720725375852,
+        0.1979206920061511
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "A Division of LRK Communications, Inc.\n63 Unquowa Road\nFairfield, CT 06430-5015"
+    },
+    {
+      "bbox": [
+        0.1716791348330504,
+        0.2335573817025495,
+        0.41859613752122243,
+        0.2494568278747888
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Bozell Worldwide, Inc."
+    },
+    {
+      "bbox": [
+        0.17031117359932088,
+        0.2341353726589077,
+        0.4291829679387811,
+        0.29705448746138285
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Boze1l Worldwide, Inc.\n40 W 23rd Street\nNew York, NY 10010-5201\nAttn: Accounts Payable"
+    },
+    {
+      "bbox": [
+        0.8488496838168353,
+        0.5235633007502936,
+        0.8607449988927438,
+        0.5391977474587875
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$\u0301"
+    },
+    {
+      "bbox": [
+        0.8488496838168353,
+        0.4781852724988115,
+        0.9292620137299771,
+        0.4938197192073053
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$250.00"
+    },
+    {
+      "bbox": [
+        0.8475806451612903,
+        0.5235940530058177,
+        0.9288456777023203,
+        0.5372916292687758
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$299.78"
+    },
+    {
+      "bbox": [
+        0.6660065612620261,
+        0.24836031434566883,
+        0.7510107173174874,
+        0.26151847669510825
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 10 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.037096774193548385,
+        0.3270846800258565,
+        0.09435483870967742,
+        0.34130575307045896
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "18055"
+    },
+    {
+      "bbox": [
+        0.36935483870967745,
+        0.3270846800258565,
+        0.7040322580645161,
+        0.34130575307045896
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Lorillard Tobacco Company Inc."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.027597130976107873,
+        0.3149769019808758,
+        0.11657408774390396,
+        0.32679806900437114
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Your Order No."
+    },
+    {
+      "bbox": [
+        0.27406805934893336,
+        0.3157395579178755,
+        0.34020601117098503,
+        0.32794205290987066
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1090,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hpjd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.02338709677419355,
+          0.31092436974789917,
+          0.9459677419354838,
+          0.9676793794440853
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_order_id",
+            "left": 0.037096774193548385,
+            "right": 0.09435483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.14596774193548387,
+            "right": 0.307258064516129
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.36935483870967745,
+            "right": 0.7040322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3270846800258565,
+            "row_type": "header",
+            "top": 0.31092436974789917
+          },
+          {
+            "bottom": 0.34130575307045896,
+            "row_type": "data",
+            "top": 0.3270846800258565
+          },
+          {
+            "bottom": 0.4770523594053006,
+            "row_type": "up-merge",
+            "top": 0.34130575307045896
+          },
+          {
+            "bottom": 0.9676793794440853,
+            "row_type": "footer",
+            "top": 0.4770523594053006
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

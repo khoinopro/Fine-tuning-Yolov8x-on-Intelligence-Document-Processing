@@ -1,0 +1,175 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.14879107253564786,
+        0.18289999999999998,
+        0.2423854568725876,
+        0.19405999999999998
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 12, 1999"
+    },
+    {
+      "bbox": [
+        0.14879107253564786,
+        0.20956,
+        0.4415735055896646,
+        0.22134
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Dr. Michael W. Pariza, Michael W. Pariza, Consulting, LLC"
+    },
+    {
+      "bbox": [
+        0.14879107253564786,
+        0.23559999999999998,
+        0.3487790732556047,
+        0.24614
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "7102 Valhalla Trail, Madison, WI 53719"
+    },
+    {
+      "bbox": [
+        0.5695658260504369,
+        0.15810000000000002,
+        0.6407615543067416,
+        0.16864
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R6-470"
+    },
+    {
+      "bbox": [
+        0.14799112053276803,
+        0.11222,
+        0.3167809931404116,
+        0.12462
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.29193548387096774,
+        0.50375,
+        0.5862903225806452,
+        0.596875
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Consulting services of Dr. Michael W. Pariza to\nScientific Advisory Board as requested at a fee\nof $250.00 per hour and expenses incurred per\nagreement dated October 1, 1998 (attached)"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.4063756174629522,
+        0.40346499999999996,
+        0.48637081775093494,
+        0.41462499999999997
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1054,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "yfdm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1711,
+        2209
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15241935483870966,
+          0.3975,
+          0.8620967741935484,
+          0.771875
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.29193548387096774,
+            "right": 0.5862903225806452
+          },
+          {
+            "column_type": "",
+            "left": 0.6209677419354839,
+            "right": 0.6741935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41875,
+            "row_type": "header",
+            "top": 0.3975
+          },
+          {
+            "bottom": 0.430625,
+            "row_type": "gap",
+            "top": 0.41875
+          },
+          {
+            "bottom": 0.44375,
+            "row_type": "gap-with-text",
+            "top": 0.430625
+          },
+          {
+            "bottom": 0.453125,
+            "row_type": "gap",
+            "top": 0.44375
+          },
+          {
+            "bottom": 0.46875,
+            "row_type": "gap-with-text",
+            "top": 0.453125
+          },
+          {
+            "bottom": 0.50375,
+            "row_type": "gap",
+            "top": 0.46875
+          },
+          {
+            "bottom": 0.596875,
+            "row_type": "data",
+            "top": 0.50375
+          },
+          {
+            "bottom": 0.75375,
+            "row_type": "gap",
+            "top": 0.596875
+          },
+          {
+            "bottom": 0.771875,
+            "row_type": "gap-with-text",
+            "top": 0.75375
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

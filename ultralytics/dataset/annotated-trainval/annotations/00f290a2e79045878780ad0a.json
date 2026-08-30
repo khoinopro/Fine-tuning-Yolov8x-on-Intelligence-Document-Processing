@@ -1,0 +1,247 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.17725116725890866,
+        0.36176331699695213,
+        0.2974754616137474,
+        0.3758238237925487
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 24, 2001"
+    },
+    {
+      "bbox": [
+        0.12128468540406996,
+        0.15476141139511265,
+        0.18554249790406996,
+        0.1688219181907093
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "TOXCON"
+    },
+    {
+      "bbox": [
+        0.1202482690734248,
+        0.15379619569452377,
+        0.3617332741137474,
+        0.19850521031474663
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "TOXCON\n5505 FRENCHMAN'S CREEK DRIVE\nDURHAM, NC 27713"
+    },
+    {
+      "bbox": [
+        0.16999625294439255,
+        0.2298375709125529,
+        0.3347864495169732,
+        0.2423357991753055
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "TOXCON@NTRNET.NET"
+    },
+    {
+      "bbox": [
+        0.17828758358955382,
+        0.28686073736136153,
+        0.3223494535492313,
+        0.30092124415695815
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.1741419182669732,
+        0.28779030830025465,
+        0.3793523517347151,
+        0.3470084608758583
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris U.S.A.\nWorldwide Scientific Affairs\n4201 Commerce Road\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.4080538431803385,
+        0.6265526612857748,
+        0.41977258862987643,
+        0.6397540516902804
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.40318992733955383,
+        0.6244864922567699,
+        0.47781190314600547,
+        0.6393281383187887
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$6682.13"
+    },
+    {
+      "bbox": [
+        0.4064516129032258,
+        0.625267631523192,
+        0.4806451612903226,
+        0.6393281383187887
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$6682.13"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.20161290322580644,
+        0.4826747720364742,
+        0.2129032258064516,
+        0.5270516717325228
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.31129032258064515,
+        0.4826747720364742,
+        0.6370967741935484,
+        0.5270516717325228
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Travel expenses to attend and present a\nlecture at PM Biomarker meeting in Cologne,\nGermany"
+    },
+    {
+      "bbox": [
+        0.7137096774193549,
+        0.4826747720364742,
+        0.7838709677419354,
+        0.5270516717325228
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$6682.13"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.16377775496052158,
+        0.452606937569393,
+        0.2487638940734248,
+        0.46666744436498964
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.41666333963794094,
+        0.453388076835815,
+        0.5296327196782635,
+        0.46666744436498964
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7137096774193549,
+        0.452606937569393,
+        0.7838709677419354,
+        0.4668693009118541
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1101,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xyxk0008",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11451612903225807,
+          0.4474164133738602,
+          0.8629032258064516,
+          0.5507598784194528
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.20161290322580644,
+            "right": 0.2129032258064516
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.31129032258064515,
+            "right": 0.6370967741935484
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7137096774193549,
+            "right": 0.7838709677419354
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4668693009118541,
+            "row_type": "header",
+            "top": 0.4474164133738602
+          },
+          {
+            "bottom": 0.4826747720364742,
+            "row_type": "gap",
+            "top": 0.4668693009118541
+          },
+          {
+            "bottom": 0.5270516717325228,
+            "row_type": "data",
+            "top": 0.4826747720364742
+          },
+          {
+            "bottom": 0.5507598784194528,
+            "row_type": "gap",
+            "top": 0.5270516717325228
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

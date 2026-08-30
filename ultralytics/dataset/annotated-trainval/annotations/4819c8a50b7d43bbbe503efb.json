@@ -1,0 +1,249 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7783448399000119,
+        0.20067486876518364,
+        0.8462664414950601,
+        0.21497583642431164
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59277-1"
+    },
+    {
+      "bbox": [
+        0.7501971491489109,
+        0.21774376564865902,
+        0.8744141322461613,
+        0.23112209023300462
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 19, 2001"
+    },
+    {
+      "bbox": [
+        0.36836760504701827,
+        0.31732522796352586,
+        0.4093653285323176,
+        0.33030622077211835
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "3313"
+    },
+    {
+      "bbox": [
+        0.3359365700511844,
+        0.09549355823998394,
+        0.5868181615283895,
+        0.10794923974954707
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "UNIVERSITY OF CALIFORNIA, DAVIS"
+    },
+    {
+      "bbox": [
+        0.3358434881562586,
+        0.09590551124186361,
+        0.5855868406236897,
+        0.14251379707903097
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "UNIVERSITY OF CALIFORNIA DAVIS\nAccounting Office\nExtramural Accounting"
+    },
+    {
+      "bbox": [
+        0.2002685253882246,
+        0.3051946409145286,
+        0.2858948176627724,
+        0.3172948689684085
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "94-6036494"
+    },
+    {
+      "bbox": [
+        0.6890065170812999,
+        0.2897099254816904,
+        0.884204633376979,
+        0.3044722146782097
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "emmontoya@ucdavis.edu"
+    },
+    {
+      "bbox": [
+        0.03977391084394715,
+        0.18914183033040297,
+        0.1774528329960719,
+        0.22005037333561517
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.03855009820259493,
+        0.18688129994325758,
+        0.20254099214379243,
+        0.24772966557908876
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A.\n4201 Commerce Road\nRichmond, VA 25234"
+    },
+    {
+      "bbox": [
+        0.7960901231996191,
+        0.7528767490224821,
+        0.8089401559338175,
+        0.7681003597563926
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7975806451612903,
+        0.7533380705598732,
+        0.8884879776217116,
+        0.7696048632218845
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$41,454.90"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.7533380705598732,
+        0.8897117902630639,
+        0.7685616812937838
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$41,454.90"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.028225806451612902,
+        0.6164133738601824,
+        0.27983870967741936,
+        0.6328267477203647
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Amount due per agreement"
+    },
+    {
+      "bbox": [
+        0.6,
+        0.6164133738601824,
+        0.6935483870967742,
+        0.6328267477203647
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$41,454.90"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1158314871730455,
+        0.3872340425531915,
+        0.27983870967741936,
+        0.4037890917239211
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Services"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 844,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jhnk0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.028225806451612902,
+          0.3872340425531915,
+          0.9096774193548387,
+          0.7732522796352583
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.028225806451612902,
+            "right": 0.27983870967741936
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6,
+            "right": 0.6935483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40364741641337387,
+            "row_type": "header",
+            "top": 0.3872340425531915
+          },
+          {
+            "bottom": 0.5531914893617021,
+            "row_type": "gap-with-text",
+            "top": 0.40364741641337387
+          },
+          {
+            "bottom": 0.6164133738601824,
+            "row_type": "gap",
+            "top": 0.5531914893617021
+          },
+          {
+            "bottom": 0.6328267477203647,
+            "row_type": "data",
+            "top": 0.6164133738601824
+          },
+          {
+            "bottom": 0.7513677811550152,
+            "row_type": "gap-with-text",
+            "top": 0.6328267477203647
+          },
+          {
+            "bottom": 0.7732522796352583,
+            "row_type": "footer",
+            "top": 0.7513677811550152
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

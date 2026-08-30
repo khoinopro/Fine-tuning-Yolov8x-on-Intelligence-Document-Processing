@@ -1,0 +1,240 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4464716525934861,
+        0.3123744680851064,
+        0.5328855208373867,
+        0.32383221884498475
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2000KK038"
+    },
+    {
+      "bbox": [
+        0.7201155686991711,
+        0.22131550151975685,
+        0.8345339312813728,
+        0.2339793313069909
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 30, 2000"
+    },
+    {
+      "bbox": [
+        0.3371237944795477,
+        0.14849126191792897,
+        0.6345859660791486,
+        0.17788015750585243
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHILIP MORRIS"
+    },
+    {
+      "bbox": [
+        0.19838709677419356,
+        0.19779696048632217,
+        0.6580645161290323,
+        0.20790273556231004
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "SANNO PARK TOWER, 2-11-1, NAGATA-CHO, CHIYODA-KU, TOKYO, 100-6190"
+    },
+    {
+      "bbox": [
+        0.10881746371454142,
+        0.22493373860182372,
+        0.2848457138410055,
+        0.23820060790273553
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Asia, Ltd."
+    },
+    {
+      "bbox": [
+        0.10801733530487567,
+        0.225830460833517,
+        0.33285341842095023,
+        0.26292522796352585
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Asia, Ltd.\n23rd Floor, Two Pacific Place\n88 Queensway, Hong Kong"
+    },
+    {
+      "bbox": [
+        0.40566510370053305,
+        0.47489361702127664,
+        0.43687011167749723,
+        0.4869544072948328
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "Yen"
+    },
+    {
+      "bbox": [
+        0.7801251994241021,
+        0.4730844984802432,
+        0.8385345733297015,
+        0.48816048632218845
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "505,839"
+    },
+    {
+      "bbox": [
+        0.7785249426047706,
+        0.47248145896656535,
+        0.8385345733297015,
+        0.4869544072948328
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "505,839"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.24838709677419354,
+        0.4358662613981763,
+        0.29596774193548386,
+        0.45045592705167176
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "J0001"
+    },
+    {
+      "bbox": [
+        0.3338709677419355,
+        0.4358662613981763,
+        0.5758064516129032,
+        0.45045592705167176
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Service Fees for the 1st Qtr. 2000"
+    },
+    {
+      "bbox": [
+        0.7782258064516129,
+        0.4358662613981763,
+        0.8451612903225807,
+        0.45045592705167176
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "505,839"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2064331296937624,
+        0.4142881458966565,
+        0.3184511070469668,
+        0.42815805471124624
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Supporting Ref."
+    },
+    {
+      "bbox": [
+        0.7321174948441573,
+        0.41187598784194523,
+        0.8361341881007043,
+        0.42514285714285716
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount (Yen)"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 475,
+    "currency": "jpy",
+    "document_type": "debit_note",
+    "language": "eng",
+    "original_filename": "rllg0074",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.20161290322580644,
+          0.4127659574468085,
+          0.8451612903225807,
+          0.4930091185410334
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.24838709677419354,
+            "right": 0.29596774193548386
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3338709677419355,
+            "right": 0.5758064516129032
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7782258064516129,
+            "right": 0.8451612903225807
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.43039513677811553,
+            "row_type": "header",
+            "top": 0.4127659574468085
+          },
+          {
+            "bottom": 0.4358662613981763,
+            "row_type": "gap",
+            "top": 0.43039513677811553
+          },
+          {
+            "bottom": 0.45045592705167176,
+            "row_type": "data",
+            "top": 0.4358662613981763
+          },
+          {
+            "bottom": 0.4735562310030395,
+            "row_type": "gap",
+            "top": 0.45045592705167176
+          },
+          {
+            "bottom": 0.4930091185410334,
+            "row_type": "footer",
+            "top": 0.4735562310030395
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

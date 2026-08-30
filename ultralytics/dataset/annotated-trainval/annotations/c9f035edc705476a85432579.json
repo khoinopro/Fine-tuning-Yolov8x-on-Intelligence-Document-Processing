@@ -1,0 +1,252 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.20487519500780033,
+        0.6254953116784115,
+        0.29189207890896285,
+        0.6395338598208198
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "NRA/CLF"
+    },
+    {
+      "bbox": [
+        0.20377371546474765,
+        0.6254953116784115,
+        0.3987355945850738,
+        0.6933482943667181
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "NRA/CLE\nAttn: Lee Culpepper\n1200 17th Street, NW\nWashington, DC 20036"
+    },
+    {
+      "bbox": [
+        0.4020400332142318,
+        0.1692424970501438,
+        0.5165939056917116,
+        0.18562080321628674
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "NRA/CLF"
+    },
+    {
+      "bbox": [
+        0.06402974158946856,
+        0.056536369149788754,
+        0.47712484861829796,
+        0.06872093146655357
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1200 SEVENTEENTH STREET NW, WASHINGTON DC 20036-3097"
+    },
+    {
+      "bbox": [
+        0.16742489054400886,
+        0.2425549151271646,
+        0.31061723114085854,
+        0.2807709628481648
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Frank Lester\nR.J. Reynolds"
+    },
+    {
+      "bbox": [
+        0.16632341100095618,
+        0.24333483446840948,
+        0.39543115595591566,
+        0.3143074945216956
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Frank Lester \nR.J. Reynolds 7\nP.O. Box 2959\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.5639575260429772,
+        0.5857194252749216,
+        0.5749723214735042,
+        0.5997579734173297
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$\u0300"
+    },
+    {
+      "bbox": [
+        0.5639575260429772,
+        0.5864993446161664,
+        0.6476699713149817,
+        0.6013178120998196
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$10,000.00"
+    },
+    {
+      "bbox": [
+        0.5628560464999245,
+        0.5864993446161664,
+        0.6487714508580343,
+        0.5997579734173297
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$10,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.4448886350656768,
+        0.15564516129032258,
+        0.49114791547687037
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12/2099"
+    },
+    {
+      "bbox": [
+        0.23709677419354838,
+        0.4448886350656768,
+        0.41935483870967744,
+        0.49114791547687037
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Contribution to the\nCongressional Leadership\nFund"
+    },
+    {
+      "bbox": [
+        0.5274193548387097,
+        0.4448886350656768,
+        0.6104838709677419,
+        0.49114791547687037
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$10,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.0660887725831614,
+        0.3533034615839407,
+        0.15861305419958735,
+        0.36734200972634895
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Invoice Date"
+    },
+    {
+      "bbox": [
+        0.2907905993659101,
+        0.3525235422426958,
+        0.3745030446379146,
+        0.3681219290675939
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.5628560464999245,
+        0.3533034615839407,
+        0.6245389009108752,
+        0.36734200972634895
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 861,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sffc0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1661,
+        2345
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05725806451612903,
+          0.35065676756139347,
+          0.7096774193548387,
+          0.6213592233009708
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.0935483870967742,
+            "right": 0.15564516129032258
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.23709677419354838,
+            "right": 0.41935483870967744
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5274193548387097,
+            "right": 0.6104838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3746430611079383,
+            "row_type": "header",
+            "top": 0.35065676756139347
+          },
+          {
+            "bottom": 0.4448886350656768,
+            "row_type": "gap",
+            "top": 0.3746430611079383
+          },
+          {
+            "bottom": 0.49114791547687037,
+            "row_type": "data",
+            "top": 0.4448886350656768
+          },
+          {
+            "bottom": 0.5699600228440891,
+            "row_type": "gap",
+            "top": 0.49114791547687037
+          },
+          {
+            "bottom": 0.6213592233009708,
+            "row_type": "footer",
+            "top": 0.5699600228440891
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

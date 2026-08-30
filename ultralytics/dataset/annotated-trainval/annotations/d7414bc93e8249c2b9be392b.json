@@ -1,0 +1,488 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8440560350501608,
+        0.15729223347069488,
+        0.909019038043177,
+        0.1736231210987998
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0107234"
+    },
+    {
+      "bbox": [
+        0.7209682399054983,
+        0.1581517538721741,
+        0.8040322580645162,
+        0.17507598784194528
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/20/2001"
+    },
+    {
+      "bbox": [
+        0.09056614576910202,
+        0.4053037311131668,
+        0.12534354574443718,
+        0.4189595172018854
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "5743"
+    },
+    {
+      "bbox": [
+        0.15681584549246202,
+        0.10572100938194245,
+        0.48163086045754355,
+        0.12291141741152659
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ARONEX Pharmaceuticals, Inc."
+    },
+    {
+      "bbox": [
+        0.15567614368556704,
+        0.10184020737622872,
+        0.481636531744401,
+        0.16458104942051247
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "ARONEX Pharmaceuticals, Inc.\n8707 Research Forest Drive\nThe Woodlands, TX 77381"
+    },
+    {
+      "bbox": [
+        0.1,
+        0.24072948328267477,
+        0.2388743755889037,
+        0.25699660004228286
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Endovasc Ltd. Inc."
+    },
+    {
+      "bbox": [
+        0.0998307551477109,
+        0.24096120495268405,
+        0.27078602618196435,
+        0.30427022212363924
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Endovasc Ltd. Inc.\n15001 Walden Road\nSuite 108\nMontgomery, TX 77356"
+    },
+    {
+      "bbox": [
+        0.5693548387096774,
+        0.24072948328267477,
+        0.7080645161290322,
+        0.2553191489361702
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Endovasc Ltd. Inc."
+    },
+    {
+      "bbox": [
+        0.5705276013953553,
+        0.24005191738682483,
+        0.7460416796571888,
+        0.3025511813206808
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "Endovasc Ltd, Inc.\n15001 Walden Road\nSuite 108\nMontgomery, TX 77356"
+    },
+    {
+      "bbox": [
+        0.8349384205950007,
+        0.8999178603487297,
+        0.8463354386639508,
+        0.9171082683783138
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8354838709677419,
+        0.9007773807502089,
+        0.9169969506914422,
+        0.9162487479768345
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$42,022.00"
+    },
+    {
+      "bbox": [
+        0.21129032258064517,
+        0.40486322188449847,
+        0.26280811353369915,
+        0.42030547632333215
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 15"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1314516129032258,
+        0.4522796352583587,
+        0.15,
+        0.48328267477203646
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.4522796352583587,
+        0.21935483870967742,
+        0.48328267477203646
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "API-990"
+    },
+    {
+      "bbox": [
+        0.2782258064516129,
+        0.4522796352583587,
+        0.5717741935483871,
+        0.48328267477203646
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Photodiode Array Detector, Serial\n#MX3AM0626M"
+    },
+    {
+      "bbox": [
+        0.7040322580645161,
+        0.4522796352583587,
+        0.7814516129032258,
+        0.48328267477203646
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12,300.00"
+    },
+    {
+      "bbox": [
+        0.8403225806451613,
+        0.4522796352583587,
+        0.932258064516129,
+        0.48328267477203646
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12,300.00"
+    },
+    {
+      "bbox": [
+        0.1314516129032258,
+        0.48328267477203646,
+        0.15,
+        0.5325227963525836
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.48328267477203646,
+        0.21935483870967742,
+        0.5325227963525836
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "API-995"
+    },
+    {
+      "bbox": [
+        0.2782258064516129,
+        0.48328267477203646,
+        0.5717741935483871,
+        0.5325227963525836
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "VanKel Release Profile Apparatus , 115V\nBio-Dis Serial #18-687-0405\nWater Bath, Motor, Printer"
+    },
+    {
+      "bbox": [
+        0.7040322580645161,
+        0.48328267477203646,
+        0.7814516129032258,
+        0.5325227963525836
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "27,250.00"
+    },
+    {
+      "bbox": [
+        0.8403225806451613,
+        0.48328267477203646,
+        0.932258064516129,
+        0.5325227963525836
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "27,250.00"
+    },
+    {
+      "bbox": [
+        0.1314516129032258,
+        0.5325227963525836,
+        0.15,
+        0.548936170212766
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.5325227963525836,
+        0.21935483870967742,
+        0.548936170212766
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "TX-101"
+    },
+    {
+      "bbox": [
+        0.2782258064516129,
+        0.5325227963525836,
+        0.5717741935483871,
+        0.548936170212766
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Texas Sales Tax"
+    },
+    {
+      "bbox": [
+        0.7040322580645161,
+        0.5325227963525836,
+        0.7814516129032258,
+        0.548936170212766
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "2,472.00"
+    },
+    {
+      "bbox": [
+        0.8403225806451613,
+        0.5325227963525836,
+        0.932258064516129,
+        0.548936170212766
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "2,472.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.06276967331004725,
+        0.43373016891483124,
+        0.13036778302855967,
+        0.45032466699176144
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.1786521471132114,
+        0.4366853535038736,
+        0.2559071296486542,
+        0.45123395455762055
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Item Code"
+    },
+    {
+      "bbox": [
+        0.4140384220258886,
+        0.43304820324043686,
+        0.5045716046846106,
+        0.4521432421234798
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6759810971851242,
+        0.43486677837215526,
+        0.7616858434353811,
+        0.44850609186004303
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price Each"
+    },
+    {
+      "bbox": [
+        0.8268697349496609,
+        0.4321389156745777,
+        0.8932607355660571,
+        0.4494153794259022
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 863,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qsyk0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04435483870967742,
+          0.4316109422492401,
+          0.932258064516129,
+          0.9325227963525836
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.1314516129032258,
+            "right": 0.15
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.15,
+            "right": 0.21935483870967742
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2782258064516129,
+            "right": 0.5717741935483871
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7040322580645161,
+            "right": 0.7814516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8403225806451613,
+            "right": 0.932258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4522796352583587,
+            "row_type": "header",
+            "top": 0.4316109422492401
+          },
+          {
+            "bottom": 0.48328267477203646,
+            "row_type": "data",
+            "top": 0.4522796352583587
+          },
+          {
+            "bottom": 0.5325227963525836,
+            "row_type": "data",
+            "top": 0.48328267477203646
+          },
+          {
+            "bottom": 0.548936170212766,
+            "row_type": "data",
+            "top": 0.5325227963525836
+          },
+          {
+            "bottom": 0.5823708206686931,
+            "row_type": "gap",
+            "top": 0.548936170212766
+          },
+          {
+            "bottom": 0.7069908814589666,
+            "row_type": "gap-with-text",
+            "top": 0.5823708206686931
+          },
+          {
+            "bottom": 0.7306990881458967,
+            "row_type": "gap",
+            "top": 0.7069908814589666
+          },
+          {
+            "bottom": 0.8425531914893617,
+            "row_type": "gap-with-text",
+            "top": 0.7306990881458967
+          },
+          {
+            "bottom": 0.894224924012158,
+            "row_type": "gap",
+            "top": 0.8425531914893617
+          },
+          {
+            "bottom": 0.9325227963525836,
+            "row_type": "footer",
+            "top": 0.894224924012158
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

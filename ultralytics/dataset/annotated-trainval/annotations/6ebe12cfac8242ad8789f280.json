@@ -1,0 +1,332 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8679714028013582,
+        0.1178752043803947,
+        0.940473348189021,
+        0.133226393788074
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1999-57"
+    },
+    {
+      "bbox": [
+        0.7462228529994341,
+        0.11677869085127475,
+        0.8310364494906621,
+        0.13212988025895406
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/12/1999"
+    },
+    {
+      "bbox": [
+        0.09302136389360498,
+        0.12993685320071416,
+        0.35840584323712504,
+        0.14364327231471352
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "7446 E. 46th Place \u2022 Tulsa, OK 74145"
+    },
+    {
+      "bbox": [
+        0.1463718520090549,
+        0.20175848935807092,
+        0.23597331281833614,
+        0.21875444905943014
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GIT-N-GO"
+    },
+    {
+      "bbox": [
+        0.14363592954159593,
+        0.2021425544666279,
+        0.3529339983022071,
+        0.266452787576148
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GIT-N-GO\nATTN: SCOTT JACOBS\nP.O. BOX 21279\nTULSA, OK 74121"
+    },
+    {
+      "bbox": [
+        0.863183538483305,
+        0.8547322959490015,
+        0.8754951895868703,
+        0.8717282556503607
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.864516129032258,
+        0.8541840391844416,
+        0.9343175226372383,
+        0.8706317421212408
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$380.73"
+    },
+    {
+      "bbox": [
+        0.864516129032258,
+        0.8558288094781216,
+        0.9336335420203735,
+        0.8700834853566808
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$380.73"
+    },
+    {
+      "bbox": [
+        0.8330883913412563,
+        0.23849169258358927,
+        0.9620967741935483,
+        0.2559793148028442
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 DAYS NET"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11290322580645161,
+        0.43309631544925664,
+        0.15241935483870966,
+        0.4654169360051713
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "240"
+    },
+    {
+      "bbox": [
+        0.21370967741935484,
+        0.43309631544925664,
+        0.5814516129032258,
+        0.4654169360051713
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "COUNTER MATS: MARLBORO CARTONS\n$16.89"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.43309631544925664,
+        0.742741935483871,
+        0.4654169360051713
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.47"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.43309631544925664,
+        0.9475806451612904,
+        0.4654169360051713
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "352.80T"
+    },
+    {
+      "bbox": [
+        0.21370967741935484,
+        0.4654169360051713,
+        0.5814516129032258,
+        0.4835164835164835
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Sales Tax"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.4654169360051713,
+        0.742741935483871,
+        0.4835164835164835
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "7.917%"
+    },
+    {
+      "bbox": [
+        0.8709677419354839,
+        0.4654169360051713,
+        0.9475806451612904,
+        0.4835164835164835
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "27.93"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09367795856780228,
+        0.41231779486746706,
+        0.17772549676814184,
+        0.42565358856794605
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.31080076558534614,
+        0.3820297349709114,
+        0.44387603440255047,
+        0.3961744656510977
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.662749831799268,
+        0.41231779486746706,
+        0.7616807882225843,
+        0.42846112408383635
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "COST/EACH"
+    },
+    {
+      "bbox": [
+        0.831720403389534,
+        0.38283867195061877,
+        0.9218964079169817,
+        0.39687634953007034
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 13,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "spfm0038",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06774193548387097,
+          0.3820297349709114,
+          0.9475806451612904,
+          0.881060116354234
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.11290322580645161,
+            "right": 0.15241935483870966
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.21370967741935484,
+            "right": 0.5814516129032258
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6758064516129032,
+            "right": 0.742741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8709677419354839,
+            "right": 0.9475806451612904
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4259857789269554,
+            "row_type": "header",
+            "top": 0.3820297349709114
+          },
+          {
+            "bottom": 0.43309631544925664,
+            "row_type": "gap",
+            "top": 0.4259857789269554
+          },
+          {
+            "bottom": 0.4654169360051713,
+            "row_type": "data",
+            "top": 0.43309631544925664
+          },
+          {
+            "bottom": 0.4835164835164835,
+            "row_type": "data",
+            "top": 0.4654169360051713
+          },
+          {
+            "bottom": 0.680672268907563,
+            "row_type": "gap",
+            "top": 0.4835164835164835
+          },
+          {
+            "bottom": 0.7828054298642534,
+            "row_type": "gap-with-text",
+            "top": 0.680672268907563
+          },
+          {
+            "bottom": 0.8409825468648998,
+            "row_type": "gap",
+            "top": 0.7828054298642534
+          },
+          {
+            "bottom": 0.881060116354234,
+            "row_type": "footer",
+            "top": 0.8409825468648998
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

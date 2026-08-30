@@ -1,0 +1,366 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21799628665591397,
+        0.2011440251184736,
+        0.382201303492574,
+        0.22609798347975715
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 21, 1999"
+    },
+    {
+      "bbox": [
+        0.6487419087658781,
+        0.31725151061813067,
+        0.7397934084829126,
+        0.3326929559555274
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "KORM4119"
+    },
+    {
+      "bbox": [
+        0.12079446634455776,
+        0.9202717832954799,
+        0.42655553217833847,
+        0.9353953944235305
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "20211 N.E. 15th Court \u2e31 North Miami Beach, FL 33179"
+    },
+    {
+      "bbox": [
+        0.21504889701705088,
+        0.24050743017202741,
+        0.40764956372437045,
+        0.27264510381913504
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Felicia Stoker\nKorman Marketing Group"
+    },
+    {
+      "bbox": [
+        0.2166211473575188,
+        0.2412920861211829,
+        0.4071052364399019,
+        0.318459354705098
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Felicia Stoker\nKorman Marketing Group\n14001 Dallas Parkway\nSuite 1200\nDallas, TX 75240.00"
+    },
+    {
+      "bbox": [
+        0.8334673682662035,
+        0.5075511986730695,
+        0.8444731206494788,
+        0.5201542079464451
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8325958985791209,
+        0.4590320782678621,
+        0.9087639800731786,
+        0.4751754074842313
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$1,750.00"
+    },
+    {
+      "bbox": [
+        0.8314516129032258,
+        0.48868778280542985,
+        0.9081492594384293,
+        0.5044004463547257
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,750.00"
+    },
+    {
+      "bbox": [
+        0.832258064516129,
+        0.5044004463547257,
+        0.9105076349491311,
+        0.5201542079464451
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,750.00"
+    },
+    {
+      "bbox": [
+        0.41060721719824933,
+        0.5051006156733205,
+        0.7949496054268854,
+        0.5207978596174488
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "10 business days from receipt of closing Invoice"
+    },
+    {
+      "bbox": [
+        0.6741312692638973,
+        0.4738496292039271,
+        0.7144040479848934,
+        0.4878873067833787
+      ],
+      "fieldtype": "tax_detail_rate",
+      "page": 0,
+      "text": "6.5%"
+    },
+    {
+      "bbox": [
+        0.8325958985791209,
+        0.45770629998755785,
+        0.9105149704523523,
+        0.4745515130828997
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "$1,750.00"
+    },
+    {
+      "bbox": [
+        0.8325958985791209,
+        0.4892910745413238,
+        0.9078884848835918,
+        0.504030635999748
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$1,750.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2661290322580645,
+        0.3775048480930834,
+        0.2814516129032258,
+        0.39237233354880413
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3"
+    },
+    {
+      "bbox": [
+        0.30483870967741933,
+        0.3775048480930834,
+        0.4088709677419355,
+        0.39237233354880413
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "MiniCoaches"
+    },
+    {
+      "bbox": [
+        0.7266129032258064,
+        0.3775048480930834,
+        0.7919354838709678,
+        0.39237233354880413
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$250.00"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.3775048480930834,
+        0.9153225806451613,
+        0.39237233354880413
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$750.00"
+    },
+    {
+      "bbox": [
+        0.2661290322580645,
+        0.39237233354880413,
+        0.2814516129032258,
+        0.40917905623787976
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.30483870967741933,
+        0.39237233354880413,
+        0.4088709677419355,
+        0.40917905623787976
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Coaches"
+    },
+    {
+      "bbox": [
+        0.7266129032258064,
+        0.39237233354880413,
+        0.7919354838709678,
+        0.40917905623787976
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$500.00"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.39237233354880413,
+        0.9153225806451613,
+        0.40917905623787976
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$1,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2661290322580645,
+        0.3438914027149321,
+        0.2814516129032258,
+        0.3639301874595992
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "!T"
+    },
+    {
+      "bbox": [
+        0.7266129032258064,
+        0.3438914027149321,
+        0.7919354838709678,
+        0.3639301874595992
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "T PRICE"
+    },
+    {
+      "bbox": [
+        0.8290322580645161,
+        0.3438914027149321,
+        0.9153225806451613,
+        0.3639301874595992
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "\\MOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 931,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ygfc0007",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10080645161290322,
+          0.3438914027149321,
+          0.9153225806451613,
+          0.5261797026502909
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.2661290322580645,
+            "right": 0.2814516129032258
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.30483870967741933,
+            "right": 0.4088709677419355
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7266129032258064,
+            "right": 0.7919354838709678
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8290322580645161,
+            "right": 0.9153225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3639301874595992,
+            "row_type": "header",
+            "top": 0.3438914027149321
+          },
+          {
+            "bottom": 0.3775048480930834,
+            "row_type": "gap-with-text",
+            "top": 0.3639301874595992
+          },
+          {
+            "bottom": 0.39237233354880413,
+            "row_type": "data",
+            "top": 0.3775048480930834
+          },
+          {
+            "bottom": 0.40917905623787976,
+            "row_type": "data",
+            "top": 0.39237233354880413
+          },
+          {
+            "bottom": 0.45701357466063347,
+            "row_type": "gap",
+            "top": 0.40917905623787976
+          },
+          {
+            "bottom": 0.5261797026502909,
+            "row_type": "footer",
+            "top": 0.45701357466063347
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

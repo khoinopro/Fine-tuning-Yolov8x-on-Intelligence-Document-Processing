@@ -1,0 +1,223 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.3266156484729885,
+        0.2741340316628973,
+        0.33907132998255163
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "234"
+    },
+    {
+      "bbox": [
+        0.5501037822878229,
+        0.3261543269355973,
+        0.6473968872753244,
+        0.34230058074429026
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10 July 2001"
+    },
+    {
+      "bbox": [
+        0.18418380252350913,
+        0.1979069395408363,
+        0.6051753511486728,
+        0.2260475533217011
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "DIBDEN PARTNERS"
+    },
+    {
+      "bbox": [
+        0.1346193905487442,
+        0.1986702489162153,
+        0.7208256457564576,
+        0.24542305789213262
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DIBDEN PARTNERS\nTUDOR LODGE, APPLEMORE HILL, DIBDEN, SOUTHAMPTON SO45 5TL"
+    },
+    {
+      "bbox": [
+        0.4913607755029163,
+        0.24588437942952385,
+        0.6608588263301988,
+        0.25834006093908696
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "DibdenPart@aol.com"
+    },
+    {
+      "bbox": [
+        0.13584320319009643,
+        0.555431131019037,
+        0.3493985091060588,
+        0.5849557094120754
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Ruth Dempsey\nPhilip Morris Products S.A."
+    },
+    {
+      "bbox": [
+        0.13767892215212477,
+        0.5562049748538807,
+        0.3505606703755537,
+        0.6269359693146771
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Ruth Dempsey\nPhilip Morris Products S.A.\nquai Jeanrenaud 3\nCH-2000 Neuchatel\nSUISSE"
+    },
+    {
+      "bbox": [
+        0.5537752202118795,
+        0.38381951910950063,
+        0.5660133466254017,
+        0.3971978436938462
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "\u00a3"
+    },
+    {
+      "bbox": [
+        0.5537752202118795,
+        0.3842808406468919,
+        0.6253682597309844,
+        0.39756838905775077
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "\u00a31072.00"
+    },
+    {
+      "bbox": [
+        0.5525514075705273,
+        0.3833581975721094,
+        0.6247563534103083,
+        0.39756838905775077
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "\u00a31072.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13790322580645162,
+        0.38358662613981764,
+        0.15161290322580645,
+        0.4012158054711246
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.15161290322580645,
+        0.38358662613981764,
+        0.22580645161290322,
+        0.4012158054711246
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "days time"
+    },
+    {
+      "bbox": [
+        0.24838709677419354,
+        0.38358662613981764,
+        0.3096774193548387,
+        0.4012158054711246
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "\u00a3536.00"
+    },
+    {
+      "bbox": [
+        0.5516129032258065,
+        0.38358662613981764,
+        0.625,
+        0.4012158054711246
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "\u00a31072.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 687,
+    "currency": "gbp",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tfml0010",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13790322580645162,
+          0.38358662613981764,
+          0.625,
+          0.4012158054711246
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.13790322580645162,
+            "right": 0.15161290322580645
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.15161290322580645,
+            "right": 0.22580645161290322
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.24838709677419354,
+            "right": 0.3096774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5516129032258065,
+            "right": 0.625
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4012158054711246,
+            "row_type": "data",
+            "top": 0.38358662613981764
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

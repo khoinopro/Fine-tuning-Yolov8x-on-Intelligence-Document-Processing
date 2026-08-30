@@ -1,0 +1,308 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.22497350846496958,
+        0.20992779961191058,
+        0.320975134922004,
+        0.22519527594732225
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "JCW1999-1"
+    },
+    {
+      "bbox": [
+        0.12258064516129032,
+        0.22672202358086344,
+        0.24339806303753173,
+        0.24396442185514614
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 5, 2001"
+    },
+    {
+      "bbox": [
+        0.12338709677419354,
+        0.06946701732612313,
+        0.29770201335666235,
+        0.08931473656215831
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Wells & Company"
+    },
+    {
+      "bbox": [
+        0.12994159540649106,
+        0.0900781103789289,
+        0.8717723453017571,
+        0.1091624557981935
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "11305 Woodbrook Lane Reston, Virginia 20194"
+    },
+    {
+      "bbox": [
+        0.6720113851992411,
+        0.7939087694414073,
+        0.6894662263732473,
+        0.8084128719600484
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6739508119963529,
+        0.7923820218078662,
+        0.7748010054461668,
+        0.8091762457768189
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 63,380.04"
+    },
+    {
+      "bbox": [
+        0.6739508119963529,
+        0.7928843710292249,
+        0.782258064516129,
+        0.8107029934103602
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 63,380.04"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11451612903225807,
+        0.29415501905972047,
+        0.2653225806451613,
+        0.31512071156289706
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "*Chairman Duties"
+    },
+    {
+      "bbox": [
+        0.3870967741935484,
+        0.29415501905972047,
+        0.43548387096774194,
+        0.31512071156289706
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "87.3"
+    },
+    {
+      "bbox": [
+        0.5209677419354839,
+        0.29415501905972047,
+        0.5854838709677419,
+        0.31512071156289706
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$650.00"
+    },
+    {
+      "bbox": [
+        0.6959677419354838,
+        0.29415501905972047,
+        0.7935483870967742,
+        0.31512071156289706
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 56,745.00"
+    },
+    {
+      "bbox": [
+        0.11451612903225807,
+        0.5330368487928844,
+        0.2653225806451613,
+        0.5552731893265566
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Expenses"
+    },
+    {
+      "bbox": [
+        0.6959677419354838,
+        0.5330368487928844,
+        0.7935483870967742,
+        0.5552731893265566
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "6,635.04"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.11451612903225807,
+        0.2623888182973316,
+        0.2366100692476404,
+        0.27939481693803375
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.37527908524113457,
+        0.2623888182973316,
+        0.43548387096774194,
+        0.2787841272031453
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hours"
+    },
+    {
+      "bbox": [
+        0.5158875280317405,
+        0.2623888182973316,
+        0.6341925626555608,
+        0.28107424865345704
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hourly Rate"
+    },
+    {
+      "bbox": [
+        0.6959677419354838,
+        0.2623888182973316,
+        0.7864375662288375,
+        0.2789367996368674
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Fee"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1033,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fryx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1789,
+        2272
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11451612903225807,
+          0.2623888182973316,
+          0.7935483870967742,
+          0.8189326556543838
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11451612903225807,
+            "right": 0.2653225806451613
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.3870967741935484,
+            "right": 0.43548387096774194
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.5209677419354839,
+            "right": 0.5854838709677419
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6959677419354838,
+            "right": 0.7935483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2776365946632783,
+            "row_type": "header",
+            "top": 0.2623888182973316
+          },
+          {
+            "bottom": 0.29415501905972047,
+            "row_type": "gap",
+            "top": 0.2776365946632783
+          },
+          {
+            "bottom": 0.31512071156289706,
+            "row_type": "data",
+            "top": 0.29415501905972047
+          },
+          {
+            "bottom": 0.5171537484116899,
+            "row_type": "gap-with-text",
+            "top": 0.31512071156289706
+          },
+          {
+            "bottom": 0.5330368487928844,
+            "row_type": "gap",
+            "top": 0.5171537484116899
+          },
+          {
+            "bottom": 0.5552731893265566,
+            "row_type": "data",
+            "top": 0.5330368487928844
+          },
+          {
+            "bottom": 0.5736975857687421,
+            "row_type": "gap",
+            "top": 0.5552731893265566
+          },
+          {
+            "bottom": 0.7325285895806861,
+            "row_type": "gap-with-text",
+            "top": 0.5736975857687421
+          },
+          {
+            "bottom": 0.7909783989834815,
+            "row_type": "gap",
+            "top": 0.7325285895806861
+          },
+          {
+            "bottom": 0.8189326556543838,
+            "row_type": "footer",
+            "top": 0.7909783989834815
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

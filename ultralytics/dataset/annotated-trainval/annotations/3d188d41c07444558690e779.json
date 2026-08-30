@@ -1,0 +1,223 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8193566499429462,
+        0.29579469816474935,
+        0.8796910941660178,
+        0.31151054550557095
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99-688"
+    },
+    {
+      "bbox": [
+        0.7061364583144664,
+        0.31263310602991534,
+        0.8834154425748493,
+        0.3277876731085647
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 11, 1999"
+    },
+    {
+      "bbox": [
+        0.4163821521073699,
+        0.5510368973875572,
+        0.46032946333158253,
+        0.5678753052527232
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "1170"
+    },
+    {
+      "bbox": [
+        0.08491514372135987,
+        0.08306947880148559,
+        0.8826705728930828,
+        0.12741061951308938
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BUZZCO ASSOCIATES, INC."
+    },
+    {
+      "bbox": [
+        0.08566001340312619,
+        0.08306947880148559,
+        0.8826705728930828,
+        0.17624200232207077
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BUZZCO ASSOCIATES, INC.\n33 Bleecker Street New York, NY 10012\n(212) 473-8800"
+    },
+    {
+      "bbox": [
+        0.09459844958432197,
+        0.384757619719043,
+        0.13631115176323558,
+        0.4004734670598646
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.09385357990255566,
+        0.384757619719043,
+        0.30167222111535746,
+        0.43190516174150784
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCl\n92 Grandview Avenue\nGreat Neck, NY 11020"
+    },
+    {
+      "bbox": [
+        0.7985002988534894,
+        0.6570487069053315,
+        0.8119079531252831,
+        0.6750096752948419
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.797755429171723,
+        0.6581712674296758,
+        0.8774564851207187,
+        0.6744483950326696
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$3,247.50"
+    },
+    {
+      "bbox": [
+        0.7955208201264241,
+        0.6581712674296758,
+        0.8774564851207187,
+        0.6744483950326696
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$3,247.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09193548387096774,
+        0.6273556231003039,
+        0.37661290322580643,
+        0.643161094224924
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Character Designs as Agreed"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.6273556231003039,
+        0.8798387096774194,
+        0.643161094224924
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$3,000.00"
+    },
+    {
+      "bbox": [
+        0.09193548387096774,
+        0.643161094224924,
+        0.37661290322580643,
+        0.6577507598784195
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NY Sales Tax"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.643161094224924,
+        0.8798387096774194,
+        0.6577507598784195
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "247.50"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1032,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jyxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09193548387096774,
+          0.6273556231003039,
+          0.8798387096774194,
+          0.6790273556231003
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.09193548387096774,
+            "right": 0.37661290322580643
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7959677419354839,
+            "right": 0.8798387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.643161094224924,
+            "row_type": "data",
+            "top": 0.6273556231003039
+          },
+          {
+            "bottom": 0.6577507598784195,
+            "row_type": "data",
+            "top": 0.643161094224924
+          },
+          {
+            "bottom": 0.6790273556231003,
+            "row_type": "footer",
+            "top": 0.6577507598784195
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

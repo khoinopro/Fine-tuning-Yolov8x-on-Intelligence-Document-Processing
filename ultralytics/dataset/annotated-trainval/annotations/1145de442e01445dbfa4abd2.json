@@ -1,0 +1,885 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2173574750100692,
+        0.2418083440907468,
+        0.31734191351470104,
+        0.2559989746125042
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "JCW1998-1"
+    },
+    {
+      "bbox": [
+        0.11664851158873714,
+        0.27586585734296465,
+        0.24131097560975612,
+        0.29276580913586164
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 5, 2001"
+    },
+    {
+      "bbox": [
+        0.11342727885804203,
+        0.045483259633607075,
+        0.2935764864561088,
+        0.06822488945041061
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Wells & Company"
+    },
+    {
+      "bbox": [
+        0.11737303650543737,
+        0.048248143773975294,
+        0.8831958734575811,
+        0.08798190923489614
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Wells & Company\n11305 Woodbrook Lane Reston, Virginia 20194"
+    },
+    {
+      "bbox": [
+        0.36451612903225805,
+        0.1819330385344283,
+        0.6338709677419355,
+        0.20088439671509792
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "JOHN CALHOUN WELLS"
+    },
+    {
+      "bbox": [
+        0.7443541380566688,
+        0.25303280261392697,
+        0.7610436927216165,
+        0.26953588608478596
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7436004162330906,
+        0.2556349934289782,
+        0.8334702521131133,
+        0.2697809431241558
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$ 4,965.73"
+    },
+    {
+      "bbox": [
+        0.7472241999379302,
+        0.2562008314167853,
+        0.8322524592920603,
+        0.271273052765929
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$ 4,965.73"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.3474415666456096,
+        0.6951612903225807,
+        0.36323436512950097
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Telephone:"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.3474415666456096,
+        0.7564516129032258,
+        0.36323436512950097
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.3474415666456096,
+        0.8370967741935483,
+        0.36323436512950097
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "750.15"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.4144030322173089,
+        0.6951612903225807,
+        0.4308275426405559
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Monarch Hotel:"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.4144030322173089,
+        0.7564516129032258,
+        0.4308275426405559
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.4144030322173089,
+        0.8370967741935483,
+        0.4308275426405559
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "230.50"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.4491471888818699,
+        0.6951612903225807,
+        0.4674668351231838
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Transportation: (round trip) by Private Sedan Co."
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.4491471888818699,
+        0.7564516129032258,
+        0.4674668351231838
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.4491471888818699,
+        0.8370967741935483,
+        0.4674668351231838
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "158.25"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.48515476942514213,
+        0.6951612903225807,
+        0.5034744156664561
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Handling of 7 boxes of arbitration materials"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.48515476942514213,
+        0.7564516129032258,
+        0.5034744156664561
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.48515476942514213,
+        0.8370967741935483,
+        0.5034744156664561
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "30.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.5533796588755527,
+        0.6951612903225807,
+        0.5691724573594441
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Airline:"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.5533796588755527,
+        0.7564516129032258,
+        0.5691724573594441
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.5533796588755527,
+        0.8370967741935483,
+        0.5691724573594441
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "292.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.5868603916614024,
+        0.6951612903225807,
+        0.6253948199620973
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Round trip transportation from Reston, Va. to Washington National Airport\n(Private Sedan Co.)"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.5868603916614024,
+        0.7564516129032258,
+        0.6253948199620973
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.5868603916614024,
+        0.8370967741935483,
+        0.6253948199620973
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "128.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.6392924826279217,
+        0.6951612903225807,
+        0.6582438408085913
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Meals:"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.6392924826279217,
+        0.7564516129032258,
+        0.6582438408085913
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.6392924826279217,
+        0.8370967741935483,
+        0.6582438408085913
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "17.97"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.7113076437144662,
+        0.6951612903225807,
+        0.7296272899557802
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Regal UN Plaza Hotel"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.7113076437144662,
+        0.7564516129032258,
+        0.7296272899557802
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.7113076437144662,
+        0.8370967741935483,
+        0.7296272899557802
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "1,595.83"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.7435249526216046,
+        0.6951612903225807,
+        0.7612128869235628
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Taxi: round rip fromresidenceto Washington Natl. Airport"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.7435249526216046,
+        0.7564516129032258,
+        0.7612128869235628
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.7435249526216046,
+        0.8370967741935483,
+        0.7612128869235628
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "96.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.7763739734680986,
+        0.6951612903225807,
+        0.7978521794061908
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "Airline: round trip Washington Natl, Airport to LaGuardia"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.7763739734680986,
+        0.7564516129032258,
+        0.7978521794061908
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.7763739734680986,
+        0.8370967741935483,
+        0.7978521794061908
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "495.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.8142766898294378,
+        0.6951612903225807,
+        0.8332280480101074
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "Other Expenses Relating to Trip: meals, taxi, bridge tolls etc."
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.8142766898294378,
+        0.7564516129032258,
+        0.8332280480101074
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.8142766898294378,
+        0.8370967741935483,
+        0.8332280480101074
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "411.03"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.9020846493998737,
+        0.6951612903225807,
+        0.9229311433986103
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "Transportation: Private Sedan Co. (round trip) from residence to D.C."
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.9020846493998737,
+        0.7564516129032258,
+        0.9229311433986103
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.9020846493998737,
+        0.8370967741935483,
+        0.9229311433986103
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "130.00"
+    },
+    {
+      "bbox": [
+        0.1153225806451613,
+        0.10894206549118388,
+        0.6733870967741935,
+        0.1668765743073048
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 1,
+      "text": "Transportation: Private Sedan Co. (round trip) from residence to D.C.\nto work on opinions, give media interviews, consult with\nKekst and Company"
+    },
+    {
+      "bbox": [
+        0.7451612903225806,
+        0.10894206549118388,
+        0.7629032258064516,
+        0.1668765743073048
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 13,
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7741935483870968,
+        0.10894206549118388,
+        0.8346774193548387,
+        0.1668765743073048
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 13,
+      "page": 1,
+      "text": "130.00"
+    },
+    {
+      "bbox": [
+        0.1153225806451613,
+        0.20214105793450882,
+        0.6733870967741935,
+        0.21788413098236775
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "Miscellaneous, fax, copying, Fed Ex., supplies, tips etc."
+    },
+    {
+      "bbox": [
+        0.7451612903225806,
+        0.20214105793450882,
+        0.7629032258064516,
+        0.21788413098236775
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7741935483870968,
+        0.20214105793450882,
+        0.8346774193548387,
+        0.21788413098236775
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.30953885028427036,
+        0.22532724909377175,
+        0.32688117406868267
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXPENSES"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1122,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yzxx0226",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1762,
+        2250
+      ],
+      [
+        1745,
+        2236
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11612903225806452,
+          0.30953885028427036,
+          0.8370967741935483,
+          0.9229311433986103
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11612903225806452,
+            "right": 0.6951612903225807
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.7403225806451613,
+            "right": 0.7564516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7637096774193548,
+            "right": 0.8370967741935483
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.32596336070751736,
+            "row_type": "header",
+            "top": 0.30953885028427036
+          },
+          {
+            "bottom": 0.3474415666456096,
+            "row_type": "gap",
+            "top": 0.32596336070751736
+          },
+          {
+            "bottom": 0.36323436512950097,
+            "row_type": "data",
+            "top": 0.3474415666456096
+          },
+          {
+            "bottom": 0.37839545167403665,
+            "row_type": "gap",
+            "top": 0.36323436512950097
+          },
+          {
+            "bottom": 0.3992419456727732,
+            "row_type": "subsection-header",
+            "top": 0.37839545167403665
+          },
+          {
+            "bottom": 0.4144030322173089,
+            "row_type": "gap",
+            "top": 0.3992419456727732
+          },
+          {
+            "bottom": 0.4308275426405559,
+            "row_type": "data",
+            "top": 0.4144030322173089
+          },
+          {
+            "bottom": 0.4491471888818699,
+            "row_type": "gap",
+            "top": 0.4308275426405559
+          },
+          {
+            "bottom": 0.4674668351231838,
+            "row_type": "data",
+            "top": 0.4491471888818699
+          },
+          {
+            "bottom": 0.48515476942514213,
+            "row_type": "gap",
+            "top": 0.4674668351231838
+          },
+          {
+            "bottom": 0.5034744156664561,
+            "row_type": "data",
+            "top": 0.48515476942514213
+          },
+          {
+            "bottom": 0.5186355022109918,
+            "row_type": "gap",
+            "top": 0.5034744156664561
+          },
+          {
+            "bottom": 0.5363234365129501,
+            "row_type": "subsection-header",
+            "top": 0.5186355022109918
+          },
+          {
+            "bottom": 0.5533796588755527,
+            "row_type": "gap",
+            "top": 0.5363234365129501
+          },
+          {
+            "bottom": 0.5691724573594441,
+            "row_type": "data",
+            "top": 0.5533796588755527
+          },
+          {
+            "bottom": 0.5868603916614024,
+            "row_type": "gap",
+            "top": 0.5691724573594441
+          },
+          {
+            "bottom": 0.6253948199620973,
+            "row_type": "data",
+            "top": 0.5868603916614024
+          },
+          {
+            "bottom": 0.6392924826279217,
+            "row_type": "gap",
+            "top": 0.6253948199620973
+          },
+          {
+            "bottom": 0.6582438408085913,
+            "row_type": "data",
+            "top": 0.6392924826279217
+          },
+          {
+            "bottom": 0.6759317751105496,
+            "row_type": "gap",
+            "top": 0.6582438408085913
+          },
+          {
+            "bottom": 0.6929879974731522,
+            "row_type": "subsection-header",
+            "top": 0.6759317751105496
+          },
+          {
+            "bottom": 0.7113076437144662,
+            "row_type": "gap",
+            "top": 0.6929879974731522
+          },
+          {
+            "bottom": 0.7296272899557802,
+            "row_type": "data",
+            "top": 0.7113076437144662
+          },
+          {
+            "bottom": 0.7435249526216046,
+            "row_type": "gap",
+            "top": 0.7296272899557802
+          },
+          {
+            "bottom": 0.7612128869235628,
+            "row_type": "data",
+            "top": 0.7435249526216046
+          },
+          {
+            "bottom": 0.7763739734680986,
+            "row_type": "gap",
+            "top": 0.7612128869235628
+          },
+          {
+            "bottom": 0.7978521794061908,
+            "row_type": "data",
+            "top": 0.7763739734680986
+          },
+          {
+            "bottom": 0.8142766898294378,
+            "row_type": "gap",
+            "top": 0.7978521794061908
+          },
+          {
+            "bottom": 0.8332280480101074,
+            "row_type": "data",
+            "top": 0.8142766898294378
+          },
+          {
+            "bottom": 0.8654453569172458,
+            "row_type": "gap",
+            "top": 0.8332280480101074
+          },
+          {
+            "bottom": 0.8856601389766267,
+            "row_type": "subsection-header",
+            "top": 0.8654453569172458
+          },
+          {
+            "bottom": 0.9020846493998737,
+            "row_type": "gap",
+            "top": 0.8856601389766267
+          },
+          {
+            "bottom": 0.9229311433986103,
+            "row_type": "data",
+            "top": 0.9020846493998737
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.1153225806451613,
+          0.10894206549118388,
+          0.8346774193548387,
+          0.2751889168765743
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1153225806451613,
+            "right": 0.6733870967741935
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.7451612903225806,
+            "right": 0.7629032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7741935483870968,
+            "right": 0.8346774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.1668765743073048,
+            "row_type": "data",
+            "top": 0.10894206549118388
+          },
+          {
+            "bottom": 0.20214105793450882,
+            "row_type": "gap",
+            "top": 0.1668765743073048
+          },
+          {
+            "bottom": 0.21788413098236775,
+            "row_type": "data",
+            "top": 0.20214105793450882
+          },
+          {
+            "bottom": 0.2512594458438287,
+            "row_type": "gap",
+            "top": 0.21788413098236775
+          },
+          {
+            "bottom": 0.2751889168765743,
+            "row_type": "footer",
+            "top": 0.2512594458438287
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

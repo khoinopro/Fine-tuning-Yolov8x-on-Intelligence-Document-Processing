@@ -1,0 +1,234 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7263901421159487,
+        0.1929950206111735,
+        0.7746306113241598,
+        0.20837868167438295
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2054"
+    },
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.32462006079027356,
+        0.7597873900293256,
+        0.33913980071166355
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/5/99"
+    },
+    {
+      "bbox": [
+        0.10204714640198512,
+        0.1929950206111735,
+        0.2662502819760884,
+        0.20837868167438295
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CITY COMPTROLLER"
+    },
+    {
+      "bbox": [
+        0.10204714640198512,
+        0.19440494006178177,
+        0.29686442589668394,
+        0.2510333782587365
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "CITY COMPTROLLER\nROOM 203\nWATERTOWN MUNICIPAL\nBUILDING"
+    },
+    {
+      "bbox": [
+        0.3256231671554253,
+        0.1419492361741602,
+        0.6243429957139636,
+        0.16012992652158956
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE CITY OF WATERTOWN, N.Y."
+    },
+    {
+      "bbox": [
+        0.31077994586059104,
+        0.14292220889917553,
+        0.6447524249943605,
+        0.20907793899543795
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE CITY OF WATERTOWN, N.Y\nWATERTOWN MUNICIPAL BUILDING\n245 WASHINGTON STREET\nWATERTOWN, NEW YORK 13601"
+    },
+    {
+      "bbox": [
+        0.23306451612903226,
+        0.2589665653495441,
+        0.40241935483870966,
+        0.27271035521144077
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Starcom Media Services"
+    },
+    {
+      "bbox": [
+        0.2356361380554929,
+        0.25971885273075984,
+        0.39737252861602496,
+        0.3013799053746948
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Starcom Media Services\n35 West Wacker Drive\nChicago, IL 60601"
+    },
+    {
+      "bbox": [
+        0.6490417967395075,
+        0.734109168424999,
+        0.6744388675840289,
+        0.7454083042446048
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "250"
+    },
+    {
+      "bbox": [
+        0.6490417967395075,
+        0.7333407694524229,
+        0.6781496729077374,
+        0.7454083042446048
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "250"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.21451612903225806,
+        0.4291793313069909,
+        0.532258064516129,
+        0.45775075987841946
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Removal services of the Marlboro Sign located at\nthe Watertown Municipal Baseball Field"
+    },
+    {
+      "bbox": [
+        0.6427419354838709,
+        0.4291793313069909,
+        0.6774193548387096,
+        0.45775075987841946
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "250."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3077089836975373,
+        0.372385352084747,
+        0.412656087408949,
+        0.3931321243443047
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6347771418661117,
+        0.37545894797505186,
+        0.7111949358307319,
+        0.38957827909613973
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 408,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rybl0052",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10241935483870972,
+          0.3641337386018237,
+          0.8330645161290322,
+          0.7513677811550152
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.21451612903225806,
+            "right": 0.532258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6427419354838709,
+            "right": 0.6774193548387096
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40790273556231005,
+            "row_type": "header",
+            "top": 0.3641337386018237
+          },
+          {
+            "bottom": 0.4291793313069909,
+            "row_type": "gap",
+            "top": 0.40790273556231005
+          },
+          {
+            "bottom": 0.45775075987841946,
+            "row_type": "data",
+            "top": 0.4291793313069909
+          },
+          {
+            "bottom": 0.7306990881458967,
+            "row_type": "gap",
+            "top": 0.45775075987841946
+          },
+          {
+            "bottom": 0.7513677811550152,
+            "row_type": "footer",
+            "top": 0.7306990881458967
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

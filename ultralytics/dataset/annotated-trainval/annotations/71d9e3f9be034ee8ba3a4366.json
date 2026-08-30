@@ -1,0 +1,288 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7824850657108722,
+        0.17566242501875332,
+        0.8953434886499402,
+        0.18889001726414137
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "467-9049700"
+    },
+    {
+      "bbox": [
+        0.7818010752688171,
+        0.18836091357432586,
+        0.8666158900836319,
+        0.20000119475026734
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02/15/99"
+    },
+    {
+      "bbox": [
+        0.7782258064516129,
+        0.2283218964441672,
+        0.8768757467144564,
+        0.239154867796616
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "555007210"
+    },
+    {
+      "bbox": [
+        0.5971236559139784,
+        0.05608499112044534,
+        0.8385722819593787,
+        0.08624390143993009
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 218\nCOLUMBUS, OH 43216-0218"
+    },
+    {
+      "bbox": [
+        0.7818010752688171,
+        0.21428699437528642,
+        0.8570400238948624,
+        0.22592727555122794
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0010817"
+    },
+    {
+      "bbox": [
+        0.17646953405017918,
+        0.1867736025048793,
+        0.40834229390681004,
+        0.20053029844008288
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "STARCOM MEDIA SERVICES"
+    },
+    {
+      "bbox": [
+        0.17783751493428912,
+        0.1873027061946948,
+        0.40492234169653524,
+        0.2253981718614124
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "STARCOM MEDIA SERVICES\n35 WEST WACKER DRIVE\nCHICAGO, IL 60601"
+    },
+    {
+      "bbox": [
+        0.8036887694145758,
+        0.8174652007649815,
+        0.8871356033452807,
+        0.8328092077696317
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,501.61"
+    },
+    {
+      "bbox": [
+        0.8043727598566308,
+        0.8179943044547971,
+        0.8891875746714456,
+        0.8337963227390972
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1,501.61"
+    },
+    {
+      "bbox": [
+        0.11149044205495819,
+        0.2904779257087216,
+        0.28385603345280763,
+        0.30370551795410966
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "DUE UPON RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11048387096774194,
+        0.4697442295695571,
+        0.3975806451612903,
+        0.4890829694323144
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "ADVERTISER: PHILIP MORRIS"
+    },
+    {
+      "bbox": [
+        0.8032258064516129,
+        0.4697442295695571,
+        0.9048387096774193,
+        0.4890829694323144
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,802.00"
+    },
+    {
+      "bbox": [
+        0.11048387096774194,
+        0.5084217092950717,
+        0.3975806451612903,
+        0.527760449157829
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "PAINT AGENCY COMMISSION"
+    },
+    {
+      "bbox": [
+        0.8032258064516129,
+        0.5084217092950717,
+        0.9048387096774193,
+        0.527760449157829
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "(300.39)"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3031443417162507,
+        0.3715981405257532,
+        0.4185040176517939,
+        0.38401540512252963
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MARKET/LOCATION"
+    },
+    {
+      "bbox": [
+        0.7859899956320296,
+        0.3725179379032922,
+        0.8436698335998011,
+        0.38309560774499063
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1146,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "glnw0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1704,
+        2203
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07741935483870968,
+          0.3718028696194635,
+          0.9048387096774193,
+          0.8558951965065502
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11048387096774194,
+            "right": 0.3975806451612903
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8032258064516129,
+            "right": 0.9048387096774193
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3830318153462258,
+            "row_type": "header",
+            "top": 0.3718028696194635
+          },
+          {
+            "bottom": 0.39238927011852776,
+            "row_type": "gap",
+            "top": 0.3830318153462258
+          },
+          {
+            "bottom": 0.4697442295695571,
+            "row_type": "subsection-header",
+            "top": 0.39238927011852776
+          },
+          {
+            "bottom": 0.4890829694323144,
+            "row_type": "data",
+            "top": 0.4697442295695571
+          },
+          {
+            "bottom": 0.5084217092950717,
+            "row_type": "gap",
+            "top": 0.4890829694323144
+          },
+          {
+            "bottom": 0.527760449157829,
+            "row_type": "data",
+            "top": 0.5084217092950717
+          },
+          {
+            "bottom": 0.6200873362445415,
+            "row_type": "gap-with-text",
+            "top": 0.527760449157829
+          },
+          {
+            "bottom": 0.6631316281971303,
+            "row_type": "gap",
+            "top": 0.6200873362445415
+          },
+          {
+            "bottom": 0.7710542732376794,
+            "row_type": "gap-with-text",
+            "top": 0.6631316281971303
+          },
+          {
+            "bottom": 0.817841547099189,
+            "row_type": "gap",
+            "top": 0.7710542732376794
+          },
+          {
+            "bottom": 0.8558951965065502,
+            "row_type": "footer",
+            "top": 0.817841547099189
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

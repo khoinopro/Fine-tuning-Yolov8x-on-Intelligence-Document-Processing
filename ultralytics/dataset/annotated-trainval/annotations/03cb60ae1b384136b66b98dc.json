@@ -1,0 +1,188 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8292424943035153,
+        0.17161807274060617,
+        0.8931650962411284,
+        0.18877988026646336
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "00010"
+    },
+    {
+      "bbox": [
+        0.7241642445430554,
+        0.18966565349544073,
+        0.89579205248514,
+        0.20858196587322161
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 15, 2000"
+    },
+    {
+      "bbox": [
+        0.08668952932959863,
+        0.10429098167762811,
+        0.30034863717586713,
+        0.12343299776416108
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Reginald A. Redford"
+    },
+    {
+      "bbox": [
+        0.08931648557361012,
+        0.10553191489361702,
+        0.30004815362465465,
+        0.15973682137655124
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Reginald A. Redford\n3 Green Hill Road\nHarvard, MA 01451"
+    },
+    {
+      "bbox": [
+        0.1339747417218056,
+        0.257427110369892,
+        0.3336234162666794,
+        0.2943910035025074
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Richard Guilmenot\nGCI"
+    },
+    {
+      "bbox": [
+        0.1339747417218056,
+        0.25629179331306995,
+        0.35288776205609707,
+        0.3320149661553481
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Richard Guilmenot\nGCI\n92 Grandview Avenue\nGreat Neck, NY 11020"
+    },
+    {
+      "bbox": [
+        0.294219072606507,
+        0.5205014984174883,
+        0.3082295059079016,
+        0.5416237230646971
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$\u0303"
+    },
+    {
+      "bbox": [
+        0.29193548387096774,
+        0.5211615679377135,
+        0.40455123485498984,
+        0.5434650455927051
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,500.00"
+    },
+    {
+      "bbox": [
+        0.294219072606507,
+        0.5218216374579389,
+        0.405426886936327,
+        0.5409636535444718
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.478419452887538,
+        0.18225806451612903,
+        0.4972644376899696
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "50% of fee:"
+    },
+    {
+      "bbox": [
+        0.2846774193548387,
+        0.478419452887538,
+        0.4120967741935484,
+        0.4972644376899696
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ 7,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 805,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qnlx0059",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.054838709677419356,
+          0.478419452887538,
+          0.4120967741935484,
+          0.5458966565349544
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.054838709677419356,
+            "right": 0.18225806451612903
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.2846774193548387,
+            "right": 0.4120967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4972644376899696,
+            "row_type": "data",
+            "top": 0.478419452887538
+          },
+          {
+            "bottom": 0.5203647416413374,
+            "row_type": "gap",
+            "top": 0.4972644376899696
+          },
+          {
+            "bottom": 0.5458966565349544,
+            "row_type": "footer",
+            "top": 0.5203647416413374
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

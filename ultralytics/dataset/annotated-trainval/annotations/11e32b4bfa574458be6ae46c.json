@@ -1,0 +1,123 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.25887096774193546,
+        0.6565349544072948,
+        0.40726088427701335,
+        0.6756224321391741
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "20 January 1999"
+    },
+    {
+      "bbox": [
+        0.3256231671554253,
+        0.13495440729483282,
+        0.6447524249943605,
+        0.1559343825952597
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Ragnar Rylander, professor"
+    },
+    {
+      "bbox": [
+        0.3300510363098021,
+        0.1339819576025562,
+        0.6448812724014337,
+        0.20404328641721486
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Ragnar Rylander, professor\nBj\u00f6rk\u00e5sv\u00e4gen 21\n443 91 Lerum, Sweden"
+    },
+    {
+      "bbox": [
+        0.3887068576584706,
+        0.5824813484387953,
+        0.5083803293480713,
+        0.5985642668230597
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "019-24 93 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.5033434650455927,
+        0.4088709677419355,
+        0.5241633134703781
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Project children- infections"
+    },
+    {
+      "bbox": [
+        0.6629032258064517,
+        0.5066818804440038,
+        0.7384502594180014,
+        0.5234640561493232
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ 57,300"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 127,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "grlf0090",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15483870967741936,
+          0.5033434650455927,
+          0.7443548387096774,
+          0.5246200607902736
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15483870967741936,
+            "right": 0.4088709677419355
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6629032258064517,
+            "right": 0.7443548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5246200607902736,
+            "row_type": "data",
+            "top": 0.5033434650455927
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8330900302031472,
+        0.2176299724979932,
+        0.8953102373498463,
+        0.23045688639767847
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "26-0034"
+    },
+    {
+      "bbox": [
+        0.5296976927002166,
+        0.21591971731136853,
+        0.596322870264381,
+        0.2291741950077099
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "01/25/06"
+    },
+    {
+      "bbox": [
+        0.6756123377787586,
+        0.21677484490468085,
+        0.7515980774800369,
+        0.22960175880436612
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "RJR-3807"
+    },
+    {
+      "bbox": [
+        0.18500875753354756,
+        0.9650114890529875,
+        0.3265184321946241,
+        0.9752730201727358
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE RUSSELL AGENCY, INC."
+    },
+    {
+      "bbox": [
+        0.18398617511520737,
+        0.9658666166462999,
+        0.5996265980774801,
+        0.9757005839693919
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE RUSSELL AGENCY, INC. I 519 DEACON BLVD I WINSTON-SALEM, NC 27105"
+    },
+    {
+      "bbox": [
+        0.10076369829952143,
+        0.21891266388796174,
+        0.36781502985836245,
+        0.24456649168733224
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. REYNOLDS TOBACCO COMPANY\nATTN: JOE ANDREWS"
+    },
+    {
+      "bbox": [
+        0.10021307699733827,
+        0.21934081258721252,
+        0.36728838675415004,
+        0.2706478832833589
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. REYNOLDS TOBACCO COMPANY\nATTN: JOE ANDREWS\n401 NORTH MAIN STREET\nWINSTON-SALEM, NC 27102"
+    },
+    {
+      "bbox": [
+        0.8182232550442015,
+        0.8294737655129799,
+        0.8270331958791323,
+        0.8418731156160091
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8171220124398351,
+        0.8290462017163238,
+        0.8688804148450537,
+        0.8427282432093214
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 24,00"
+    },
+    {
+      "bbox": [
+        0.8176726337420183,
+        0.8294737655129799,
+        0.8699816574494201,
+        0.8427282432093214
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 24.00"
+    },
+    {
+      "bbox": [
+        0.8711514001885924,
+        0.07200727961603422,
+        0.9508245433214183,
+        0.08831081462343819
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 10 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.5072010018785222,
+        0.22016129032258064,
+        0.5228553537883531
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Mac outputs"
+    },
+    {
+      "bbox": [
+        0.3282258064516129,
+        0.5072010018785222,
+        0.3870967741935484,
+        0.5228553537883531
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$24.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3362031534396175,
+        0.3505260026591855,
+        0.446519813161992,
+        0.3647915957906639
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8448855288261222,
+        0.3505260026591855,
+        0.9263097300497796,
+        0.36547090974930574
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 296,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yhxh0229",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1817,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.012096774193548387,
+          0.345648090169067,
+          0.9733870967741935,
+          0.9542892924232936
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12580645161290321,
+            "right": 0.22016129032258064
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.3282258064516129,
+            "right": 0.3870967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3706950532247965,
+            "row_type": "header",
+            "top": 0.345648090169067
+          },
+          {
+            "bottom": 0.3907326236693801,
+            "row_type": "gap",
+            "top": 0.3706950532247965
+          },
+          {
+            "bottom": 0.40701314965560426,
+            "row_type": "gap-with-text",
+            "top": 0.3907326236693801
+          },
+          {
+            "bottom": 0.4596117720726362,
+            "row_type": "gap",
+            "top": 0.40701314965560426
+          },
+          {
+            "bottom": 0.4765184721352536,
+            "row_type": "gap-with-text",
+            "top": 0.4596117720726362
+          },
+          {
+            "bottom": 0.5072010018785222,
+            "row_type": "gap",
+            "top": 0.4765184721352536
+          },
+          {
+            "bottom": 0.5228553537883531,
+            "row_type": "data",
+            "top": 0.5072010018785222
+          },
+          {
+            "bottom": 0.5366311834690044,
+            "row_type": "gap-with-text",
+            "top": 0.5228553537883531
+          },
+          {
+            "bottom": 0.554164057608015,
+            "row_type": "gap",
+            "top": 0.5366311834690044
+          },
+          {
+            "bottom": 0.6330619912335629,
+            "row_type": "gap-with-text",
+            "top": 0.554164057608015
+          },
+          {
+            "bottom": 0.8015028177833438,
+            "row_type": "gap",
+            "top": 0.6330619912335629
+          },
+          {
+            "bottom": 0.8265497808390733,
+            "row_type": "gap-with-text",
+            "top": 0.8015028177833438
+          },
+          {
+            "bottom": 0.9542892924232936,
+            "row_type": "footer",
+            "top": 0.8265497808390733
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

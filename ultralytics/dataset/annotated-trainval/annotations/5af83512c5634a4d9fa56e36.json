@@ -1,0 +1,169 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7550728030338498,
+        0.3251334628227709,
+        0.863135758540506,
+        0.3396483495559303
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "20004307-02"
+    },
+    {
+      "bbox": [
+        0.1525192346707867,
+        0.32610112193831486,
+        0.23664419370444933,
+        0.3406160086714743
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/13/2000"
+    },
+    {
+      "bbox": [
+        0.7352384630990839,
+        0.04015785329507438,
+        0.8925452970644693,
+        0.0919276159766763
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "SOUTHEAST REGIONAL SALES\n4523 GREEN POINT DRIVE\nGREENSBORO. NC\n27410-8183"
+    },
+    {
+      "bbox": [
+        0.11011478377576976,
+        0.18433906151112459,
+        0.19834339934765985,
+        0.198853948244284
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Rick Evans"
+    },
+    {
+      "bbox": [
+        0.10874689826302729,
+        0.18561095265259553,
+        0.32418886651996814,
+        0.2530428587147458
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Rick Evans\nR. J. Reynolds Tobacco\n401 North Main Street\nWinston Salem, NC 27102"
+    }
+  ],
+  "line_item_extractions": [],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 72,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "qjbk0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1656,
+        2341
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10483870967741936,
+          0.3725042783799201,
+          0.8959677419354839,
+          0.5236737022247575
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.10483870967741936,
+            "right": 0.22983870967741934
+          },
+          {
+            "column_type": "",
+            "left": 0.26129032258064516,
+            "right": 0.3443548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.5040322580645161,
+            "right": 0.5887096774193549
+          },
+          {
+            "column_type": "",
+            "left": 0.7314516129032258,
+            "right": 0.8008064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.390188248716486,
+            "row_type": "header",
+            "top": 0.3725042783799201
+          },
+          {
+            "bottom": 0.3993154592127781,
+            "row_type": "gap",
+            "top": 0.390188248716486
+          },
+          {
+            "bottom": 0.41642897889332575,
+            "row_type": "data",
+            "top": 0.3993154592127781
+          },
+          {
+            "bottom": 0.41985168282943525,
+            "row_type": "gap",
+            "top": 0.41642897889332575
+          },
+          {
+            "bottom": 0.4352538505419281,
+            "row_type": "data",
+            "top": 0.41985168282943525
+          },
+          {
+            "bottom": 0.44266970907016545,
+            "row_type": "gap",
+            "top": 0.4352538505419281
+          },
+          {
+            "bottom": 0.4569309754706218,
+            "row_type": "data",
+            "top": 0.44266970907016545
+          },
+          {
+            "bottom": 0.46092413006274957,
+            "row_type": "gap",
+            "top": 0.4569309754706218
+          },
+          {
+            "bottom": 0.4740444951511694,
+            "row_type": "data",
+            "top": 0.46092413006274957
+          },
+          {
+            "bottom": 0.49914432401597264,
+            "row_type": "gap",
+            "top": 0.4740444951511694
+          },
+          {
+            "bottom": 0.5236737022247575,
+            "row_type": "footer",
+            "top": 0.49914432401597264
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

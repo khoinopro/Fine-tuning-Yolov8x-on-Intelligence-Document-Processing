@@ -1,0 +1,490 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.15601589142952982,
+        0.12351745846227406,
+        0.22148138312741097,
+        0.13565250701295362
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DM20004"
+    },
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.13706453455168474,
+        0.1829362805389389,
+        0.15077098800685323
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 21, 2000"
+    },
+    {
+      "bbox": [
+        0.6130506792642701,
+        0.07497726425955582,
+        0.830861100240398,
+        0.08909194745859508
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Florida Restaurant Association"
+    },
+    {
+      "bbox": [
+        0.6130506792642701,
+        0.0750792394574607,
+        0.8305646724181046,
+        0.12785140437323103
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Florida Restaurant Association\n230 South Adams Street\nTallahassee, FL 32301\nPO Box 1779 - 32302-1779"
+    },
+    {
+      "bbox": [
+        0.0403805836641136,
+        0.20412885240607398,
+        0.2233168642030525,
+        0.23923381428482554
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Frank Lester \nR.J. Reynolds Tobacco"
+    },
+    {
+      "bbox": [
+        0.03976875663889976,
+        0.20295613763016795,
+        0.2539082154637446,
+        0.2734719869813857
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Frank Lester \nRJ. Reynolds Tobacco\nPO Box 2959\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.780691284172863,
+        0.8455528472277076,
+        0.7929278246771398,
+        0.86245523628044
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7917041706267122,
+        0.7155344698989982,
+        0.870629856879298,
+        0.7320034643606347
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "1,000.00"
+    },
+    {
+      "bbox": [
+        0.8271901380891151,
+        0.7896449449763626,
+        0.870629856879298,
+        0.8056805448469034
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.7800794571476491,
+        0.8459862418188033,
+        0.8712416839045116,
+        0.863506567675614
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,000.00"
+    },
+    {
+      "bbox": [
+        0.7800794571476491,
+        0.846419636409899,
+        0.8712416839045116,
+        0.86245523628044
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,000.00"
+    },
+    {
+      "bbox": [
+        0.7787620808573854,
+        0.37513471153904915,
+        0.8655688720288623,
+        0.39197577603014006
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due upon"
+    },
+    {
+      "bbox": [
+        0.7906534221137521,
+        0.3932388558669719,
+        0.8542720978353141,
+        0.40965889374578546
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "receipt"
+    },
+    {
+      "bbox": [
+        0.7917041706267122,
+        0.7159678644900939,
+        0.870629856879298,
+        0.7324368589517304
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "1,000.00"
+    },
+    {
+      "bbox": [
+        0.8284137921395427,
+        0.7896449449763626,
+        0.8712416839045116,
+        0.805254140491148
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.7800794571476491,
+        0.8455528472277076,
+        0.870629856879298,
+        0.863506567675614
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$1,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09516129032258064,
+        0.47915476870359797,
+        0.10967741935483871,
+        0.5294117647058824
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.47915476870359797,
+        0.582258064516129,
+        0.5294117647058824
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "General Sponsorship of Lobby Dayand April\nBoard Meeting in Tallahassee, April 10-12,\n2000"
+    },
+    {
+      "bbox": [
+        0.6475806451612903,
+        0.47915476870359797,
+        0.7258064516129032,
+        0.5294117647058824
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,000.00"
+    },
+    {
+      "bbox": [
+        0.7895161290322581,
+        0.47915476870359797,
+        0.8685483870967742,
+        0.5294117647058824
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,000.00"
+    },
+    {
+      "bbox": [
+        0.7895161290322581,
+        0.5436893203883495,
+        0.8685483870967742,
+        0.5579668760708166
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.7895161290322581,
+        0.5716733295259852,
+        0.8685483870967742,
+        0.5859508852084523
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.7895161290322581,
+        0.6007995431182181,
+        0.8685483870967742,
+        0.6150770988006853
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.7895161290322581,
+        0.6299257567104511,
+        0.8685483870967742,
+        0.6453455168475157
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.7895161290322581,
+        0.6579097658480868,
+        0.8685483870967742,
+        0.6727584237578527
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.7895161290322581,
+        0.6870359794403198,
+        0.8685483870967742,
+        0.7018846373500857
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07895664792020374,
+        0.45134052836123545,
+        0.12652201294567061,
+        0.46565543317866265
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY."
+    },
+    {
+      "bbox": [
+        0.32391827780135823,
+        0.45007744852440357,
+        0.45888500106112057,
+        0.46565543317866265
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6217963762733447,
+        0.4504984751366809,
+        0.7347641182088285,
+        0.46565543317866265
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT PRICE"
+    },
+    {
+      "bbox": [
+        0.7858968856112054,
+        0.45007744852440357,
+        0.8590286343378607,
+        0.4660764597909399
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 951,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mmpb0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1659,
+        2344
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.035483870967741936,
+          0.4431753283837807,
+          0.896774193548387,
+          0.8686464877213022
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.09516129032258064,
+            "right": 0.10967741935483871
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.17903225806451614,
+            "right": 0.582258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.6475806451612903,
+            "right": 0.7258064516129032
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7895161290322581,
+            "right": 0.8685483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.47058823529411764,
+            "row_type": "header",
+            "top": 0.4431753283837807
+          },
+          {
+            "bottom": 0.47915476870359797,
+            "row_type": "gap",
+            "top": 0.47058823529411764
+          },
+          {
+            "bottom": 0.5294117647058824,
+            "row_type": "data",
+            "top": 0.47915476870359797
+          },
+          {
+            "bottom": 0.5436893203883495,
+            "row_type": "gap",
+            "top": 0.5294117647058824
+          },
+          {
+            "bottom": 0.5579668760708166,
+            "row_type": "data",
+            "top": 0.5436893203883495
+          },
+          {
+            "bottom": 0.5716733295259852,
+            "row_type": "gap",
+            "top": 0.5579668760708166
+          },
+          {
+            "bottom": 0.5859508852084523,
+            "row_type": "data",
+            "top": 0.5716733295259852
+          },
+          {
+            "bottom": 0.6007995431182181,
+            "row_type": "gap",
+            "top": 0.5859508852084523
+          },
+          {
+            "bottom": 0.6150770988006853,
+            "row_type": "data",
+            "top": 0.6007995431182181
+          },
+          {
+            "bottom": 0.6299257567104511,
+            "row_type": "gap",
+            "top": 0.6150770988006853
+          },
+          {
+            "bottom": 0.6453455168475157,
+            "row_type": "data",
+            "top": 0.6299257567104511
+          },
+          {
+            "bottom": 0.6579097658480868,
+            "row_type": "gap",
+            "top": 0.6453455168475157
+          },
+          {
+            "bottom": 0.6727584237578527,
+            "row_type": "data",
+            "top": 0.6579097658480868
+          },
+          {
+            "bottom": 0.6870359794403198,
+            "row_type": "gap",
+            "top": 0.6727584237578527
+          },
+          {
+            "bottom": 0.7018846373500857,
+            "row_type": "data",
+            "top": 0.6870359794403198
+          },
+          {
+            "bottom": 0.7150199885779555,
+            "row_type": "gap",
+            "top": 0.7018846373500857
+          },
+          {
+            "bottom": 0.8686464877213022,
+            "row_type": "footer",
+            "top": 0.7150199885779555
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

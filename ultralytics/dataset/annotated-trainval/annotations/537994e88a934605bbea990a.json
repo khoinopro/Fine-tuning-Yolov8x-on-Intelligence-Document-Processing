@@ -1,0 +1,262 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.763076923076923,
+        0.14021887824897403,
+        0.8225641025641025,
+        0.16586867305061562
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "03496"
+    },
+    {
+      "bbox": [
+        0.5832478632478633,
+        0.1872435020519836,
+        0.6447863247863247,
+        0.20776333789329687
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/28/99"
+    },
+    {
+      "bbox": [
+        0.2218218218218218,
+        0.06705364291433147,
+        0.2858858858858859,
+        0.09807846277021617
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "FSPS"
+    },
+    {
+      "bbox": [
+        0.1394871794871795,
+        0.1479138166894665,
+        0.43555555555555553,
+        0.16757865937072505
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "18818 Fonthill Avenue \u2022 Torrance, California 99504"
+    },
+    {
+      "bbox": [
+        0.0841025641025641,
+        0.2445280437756498,
+        0.17367521367521369,
+        0.26419288645690836
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "SEE FACTOR"
+    },
+    {
+      "bbox": [
+        0.08615384615384615,
+        0.24719775820656525,
+        0.31726495726495724,
+        0.3702120383036936
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "SEE FACTOR\n37-11 30TH STREET\nLONG ISLAND CITY, NY 11101\nATTN: SHELLY DIAMOND"
+    },
+    {
+      "bbox": [
+        0.8335042735042735,
+        0.8891928864569084,
+        0.8444444444444444,
+        0.9114227086183311
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8330645161290322,
+        0.8891928864569084,
+        0.897094017094017,
+        0.9097127222982216
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$929.88"
+    },
+    {
+      "bbox": [
+        0.8337482768127928,
+        0.8909028727770179,
+        0.8950427350427351,
+        0.9097127222982216
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$929.88"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.0532258064516129,
+        0.4899193548387097,
+        0.08951612903225807,
+        0.5131048387096774
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4/24"
+    },
+    {
+      "bbox": [
+        0.09838709677419355,
+        0.4899193548387097,
+        0.14516129032258066,
+        0.5131048387096774
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "25/99"
+    },
+    {
+      "bbox": [
+        0.3395161290322581,
+        0.4899193548387097,
+        0.589516129032258,
+        0.5131048387096774
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SEE SPREADSHEET FOR BREAKDOWN"
+    },
+    {
+      "bbox": [
+        0.8225806451612904,
+        0.4899193548387097,
+        0.8959677419354839,
+        0.5131048387096774
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$929.88"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.4164102564102564,
+        0.4121067031463748,
+        0.5094017094017094,
+        0.4334815321477429
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8225806451612904,
+        0.4122983870967742,
+        0.8629059829059829,
+        0.4334815321477429
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 351,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "txcd0007",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1872
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0532258064516129,
+          0.4122983870967742,
+          0.932258064516129,
+          0.9173387096774194
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.0532258064516129,
+            "right": 0.08951612903225807
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.09838709677419355,
+            "right": 0.14516129032258066
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3395161290322581,
+            "right": 0.589516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8225806451612904,
+            "right": 0.8959677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4324596774193548,
+            "row_type": "header",
+            "top": 0.4122983870967742
+          },
+          {
+            "bottom": 0.4899193548387097,
+            "row_type": "gap-with-text",
+            "top": 0.4324596774193548
+          },
+          {
+            "bottom": 0.5131048387096774,
+            "row_type": "data",
+            "top": 0.4899193548387097
+          },
+          {
+            "bottom": 0.6451612903225806,
+            "row_type": "gap",
+            "top": 0.5131048387096774
+          },
+          {
+            "bottom": 0.8850806451612904,
+            "row_type": "gap-with-text",
+            "top": 0.6451612903225806
+          },
+          {
+            "bottom": 0.9173387096774194,
+            "row_type": "footer",
+            "top": 0.8850806451612904
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

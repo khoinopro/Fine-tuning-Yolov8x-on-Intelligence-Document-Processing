@@ -1,0 +1,244 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7898583404074703,
+        0.18913512019894999,
+        0.8596800721561969,
+        0.20229234595192044
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59276-2"
+    },
+    {
+      "bbox": [
+        0.7600386424731183,
+        0.20612987012987016,
+        0.8865905312676854,
+        0.21983531362254766
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 08, 2002"
+    },
+    {
+      "bbox": [
+        0.3796556663837012,
+        0.3086465874550981,
+        0.41820308078664403,
+        0.32015915998894723
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "3328"
+    },
+    {
+      "bbox": [
+        0.04854345413223868,
+        0.9023060658120787,
+        0.28836260812882086,
+        0.9148693890136999
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Regents of The University of California"
+    },
+    {
+      "bbox": [
+        0.048002440577249575,
+        0.9033985286991763,
+        0.28981166646112644,
+        0.956639955788892
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Regents of The University of California\nCashier's Office\nOne Shields Avenue\nDavis, California 95616"
+    },
+    {
+      "bbox": [
+        0.21854838709677418,
+        0.29544072948328265,
+        0.3011062181663837,
+        0.3070019342359768
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "94-6036494"
+    },
+    {
+      "bbox": [
+        0.05527553763440861,
+        0.17214037026802986,
+        0.18691859436898697,
+        0.20503343465045595
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Attn: Richard Izac\nPhilip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.05527553763440861,
+        0.1727456940222898,
+        0.21019250495189584,
+        0.2340889748549323
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Attn: Richard Izac\nPhilip Morris U.S.A.\n615 Maury St.\nRichmond, VA 23224"
+    },
+    {
+      "bbox": [
+        0.8167687995189586,
+        0.7787432992539375,
+        0.8305876839275608,
+        0.7957380491848577
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8182234189303904,
+        0.7792915169936447,
+        0.9098644418505942,
+        0.7951898314451507
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$47,374.43"
+    },
+    {
+      "bbox": [
+        0.8185483870967742,
+        0.777920972644377,
+        0.911319061262026,
+        0.7954639403150041
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$47,374.43"
+    },
+    {
+      "bbox": [
+        0.7818579336445953,
+        0.23381486598507875,
+        0.8567708333333333,
+        0.2491649626968776
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$47,374.43"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05080645161290329,
+        0.5835866261398176,
+        0.3475806451612904,
+        0.6
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2nd payment due per agreement"
+    },
+    {
+      "bbox": [
+        0.6153225806451614,
+        0.5835866261398176,
+        0.7080645161290323,
+        0.6
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$47.374.43"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.13325542278083913,
+        0.3829787234042553,
+        0.29621746847460423,
+        0.39705647096464564
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Services"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 844,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hghl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05080645161290329,
+          0.3811550151975684,
+          0.9233870967741935,
+          0.8006079027355623
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05080645161290329,
+            "right": 0.3475806451612904
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6153225806451614,
+            "right": 0.7080645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3963525835866261,
+            "row_type": "header",
+            "top": 0.3811550151975684
+          },
+          {
+            "bottom": 0.5835866261398176,
+            "row_type": "gap",
+            "top": 0.3963525835866261
+          },
+          {
+            "bottom": 0.6,
+            "row_type": "data",
+            "top": 0.5835866261398176
+          },
+          {
+            "bottom": 0.7768996960486322,
+            "row_type": "gap",
+            "top": 0.6
+          },
+          {
+            "bottom": 0.8006079027355623,
+            "row_type": "footer",
+            "top": 0.7768996960486322
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.25967741935483873,
+        0.34524449149751607,
+        0.30050238798681556,
+        0.35813374997087727
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9977"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.35857820715961386,
+        0.3152425313559912,
+        0.37324529438792153
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/20/99"
+    },
+    {
+      "bbox": [
+        0.25481472894633445,
+        0.9113359976868456,
+        0.48073296593132325,
+        0.9258575271318016
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "657 WEST OHIO \u2022 CHICAGO, IL 60610"
+    },
+    {
+      "bbox": [
+        0.4255668848070819,
+        0.605723809822543,
+        0.6182103427012583,
+        0.6195852697472739
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Calabash Productions, Inc."
+    },
+    {
+      "bbox": [
+        0.41155645150568715,
+        0.6058525867374696,
+        0.6142494119623656,
+        0.6466481200765102
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Calabash Productions, Inc.\n657 W. Ohio Street\nChicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.475,
+        0.6483149341971375,
+        0.5572834132045434,
+        0.6609572720100895
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "36-3490009"
+    },
+    {
+      "bbox": [
+        0.2592774276178169,
+        0.21004718315922438,
+        0.3992243439201837,
+        0.22743039765203343
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI Advertising"
+    },
+    {
+      "bbox": [
+        0.24931865829292937,
+        0.20941766110787857,
+        0.44115600423549955,
+        0.25627073078783025
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI Advertising\n92 Grandview Ave.\nGreat Neck , NY 11020"
+    },
+    {
+      "bbox": [
+        0.7140029972570531,
+        0.5192577035387912,
+        0.7281549326134722,
+        0.533875406635017
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7140029972570531,
+        0.5192577035387912,
+        0.7989146093955677,
+        0.533875406635017
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 1,000.00"
+    },
+    {
+      "bbox": [
+        0.7155754345188774,
+        0.5192577035387912,
+        0.7978663178876849,
+        0.533875406635017
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,000.00"
+    },
+    {
+      "bbox": [
+        0.4194795207339749,
+        0.5789257303871047,
+        0.5103786595458272,
+        0.5934716020184841
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.19032258064516128,
+        0.43951367781155015,
+        0.47661290322580646,
+        0.46990881458966566
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Revised Character Designs for the\nGirlfriends"
+    },
+    {
+      "bbox": [
+        0.7201612903225807,
+        0.43951367781155015,
+        0.7887096774193548,
+        0.46990881458966566
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 226,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pnxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.19032258064516128,
+          0.43951367781155015,
+          0.8016129032258065,
+          0.5355623100303951
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.19032258064516128,
+            "right": 0.47661290322580646
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7201612903225807,
+            "right": 0.7887096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.46990881458966566,
+            "row_type": "data",
+            "top": 0.43951367781155015
+          },
+          {
+            "bottom": 0.5167173252279635,
+            "row_type": "gap",
+            "top": 0.46990881458966566
+          },
+          {
+            "bottom": 0.5355623100303951,
+            "row_type": "footer",
+            "top": 0.5167173252279635
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

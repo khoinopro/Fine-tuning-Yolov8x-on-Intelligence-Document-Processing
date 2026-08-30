@@ -1,0 +1,274 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.20723604535946274,
+        0.2682731477525903,
+        0.2753967380192196,
+        0.28073231577826135
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0225598"
+    },
+    {
+      "bbox": [
+        0.6306585300640128,
+        0.1671721949860133,
+        0.6959807411555307,
+        0.18029442493303416
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/6/2000"
+    },
+    {
+      "bbox": [
+        0.08606148063100612,
+        0.050687779237741634,
+        0.27470824617417156,
+        0.07944334630530661
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "640 N. LaSalle Suite 350\nChicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.6346994180349178,
+        0.18958795199143796,
+        0.6854753714777113,
+        0.20321845834376356
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "Camel"
+    },
+    {
+      "bbox": [
+        0.6362645348837209,
+        0.2533318853951739,
+        0.7689906851712928,
+        0.268347733286666
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Camel Club Page"
+    },
+    {
+      "bbox": [
+        0.6981307308787216,
+        0.6233622081256881,
+        0.7765219086854789,
+        0.6387750931476227
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "4,114.00"
+    },
+    {
+      "bbox": [
+        0.6967537471886255,
+        0.6233622081256881,
+        0.7765219086854789,
+        0.639394661618183
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "4,114.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.02258064516129032,
+        0.32153055396916047,
+        0.09919354838709678,
+        0.33466590519703027
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "LA Weekly"
+    },
+    {
+      "bbox": [
+        0.2120967741935484,
+        0.32153055396916047,
+        0.28225806451612906,
+        0.33466590519703027
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3-17-2000"
+    },
+    {
+      "bbox": [
+        0.7104838709677419,
+        0.32153055396916047,
+        0.771774193548387,
+        0.33466590519703027
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4,114.00"
+    },
+    {
+      "bbox": [
+        0.8266129032258065,
+        0.32153055396916047,
+        0.9451612903225807,
+        0.33466590519703027
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "CCP00LAMEDCL"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.024512529248245103,
+        0.29925756710451173,
+        0.1356943583384997,
+        0.31546360662435335
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Publication"
+    },
+    {
+      "bbox": [
+        0.2120967741935484,
+        0.29997439486034694,
+        0.2661360318380897,
+        0.31360490121267254
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Issue"
+    },
+    {
+      "bbox": [
+        0.7231196128232306,
+        0.29925756710451173,
+        0.771774193548387,
+        0.314844038153793
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "T\u00f3tal"
+    },
+    {
+      "bbox": [
+        0.8237960722356659,
+        0.2993548263897867,
+        0.9451612903225807,
+        0.3142244696832328
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Internal Use Only"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 161,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gypf0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1659,
+        2343
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.02258064516129032,
+          0.29925756710451173,
+          0.9556451612903226,
+          0.6436322101656197
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.02258064516129032,
+            "right": 0.09919354838709678
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.2120967741935484,
+            "right": 0.28225806451612906
+          },
+          {
+            "column_type": "",
+            "left": 0.31451612903225806,
+            "right": 0.4443548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.45806451612903226,
+            "right": 0.6193548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7104838709677419,
+            "right": 0.771774193548387
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.8266129032258065,
+            "right": 0.9451612903225807
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3163906339234723,
+            "row_type": "header",
+            "top": 0.29925756710451173
+          },
+          {
+            "bottom": 0.32153055396916047,
+            "row_type": "gap",
+            "top": 0.3163906339234723
+          },
+          {
+            "bottom": 0.33466590519703027,
+            "row_type": "data",
+            "top": 0.32153055396916047
+          },
+          {
+            "bottom": 0.5494003426613364,
+            "row_type": "gap",
+            "top": 0.33466590519703027
+          },
+          {
+            "bottom": 0.6179326099371788,
+            "row_type": "gap-with-text",
+            "top": 0.5494003426613364
+          },
+          {
+            "bottom": 0.6436322101656197,
+            "row_type": "footer",
+            "top": 0.6179326099371788
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

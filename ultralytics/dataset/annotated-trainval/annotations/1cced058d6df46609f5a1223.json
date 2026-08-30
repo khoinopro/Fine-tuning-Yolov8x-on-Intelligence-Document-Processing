@@ -1,0 +1,383 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2907618430255369,
+        0.10148704845273952,
+        0.3673376435065932,
+        0.12108920584994423
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "I24931"
+    },
+    {
+      "bbox": [
+        0.7201109670595861,
+        0.16828994545100992,
+        0.8461762849490797,
+        0.18189819568725246
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "NOVEMBER 30, 1999"
+    },
+    {
+      "bbox": [
+        0.6112399993176505,
+        0.22761154569117564,
+        0.6737943740297846,
+        0.24006331640119946
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "10002635"
+    },
+    {
+      "bbox": [
+        0.5490544027364487,
+        0.7773587442970686,
+        0.6259616620367167,
+        0.7871676874427729
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Landor Associates"
+    },
+    {
+      "bbox": [
+        0.5494508319080995,
+        0.777297522268201,
+        0.6731367334631696,
+        0.804946396894362
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Landor Associates\n230 Park Ave., South 7th Fl.\nNew York, NY 10003-1513"
+    },
+    {
+      "bbox": [
+        0.36391736749628967,
+        0.7862866772876291,
+        0.44189966053120894,
+        0.794747058482385
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Landor Associates"
+    },
+    {
+      "bbox": [
+        0.36460142269835044,
+        0.7767687484435287,
+        0.4726821446239402,
+        0.8137829161705858
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Regular Mail\nLandor Associates\nP.O. Box 101958\nAlanta, GA 30392-1958"
+    },
+    {
+      "bbox": [
+        0.24349806383377975,
+        0.1992726801327735,
+        0.35434059466744,
+        0.20939443457020923
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.24420770713566808,
+        0.19776141042741982,
+        0.3728100851230787,
+        0.2437647331739052
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\n120 PARK AVENUE\n13TH FLOOR\nNEW YORK, NY10017"
+    },
+    {
+      "bbox": [
+        0.7654577711059177,
+        0.5546837420811856,
+        0.7764026543388888,
+        0.568431861522664
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8088709677419355,
+        0.5311720698254364,
+        0.845492229747019,
+        0.5446370394124129
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.7664458982275976,
+        0.5557310553984396,
+        0.8441241193428975,
+        0.568431861522664
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$15,625.00"
+    },
+    {
+      "bbox": [
+        0.7672523498405007,
+        0.5557310553984395,
+        0.847544395353201,
+        0.568431861522664
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$15,625.00"
+    },
+    {
+      "bbox": [
+        0.8088709677419355,
+        0.5311720698254364,
+        0.8475806451612903,
+        0.5435794917630684
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.7645161290322581,
+        0.5541549682565133,
+        0.8467741935483871,
+        0.5685785536159601
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$15,625.00"
+    },
+    {
+      "bbox": [
+        0.20756247682610304,
+        0.8043302389283999,
+        0.2697122728958102,
+        0.8132953373331464
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "8734-031373"
+    },
+    {
+      "bbox": [
+        0.20845457916203186,
+        0.7955950148417241,
+        0.2673333333333333,
+        0.8038704902922592
+      ],
+      "fieldtype": "bank_num",
+      "page": 0,
+      "text": "053-100-494"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.18306451612903227,
+        0.45822942643391523,
+        0.42096774193548386,
+        0.47256857855361595
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Professional Fee"
+    },
+    {
+      "bbox": [
+        0.7790322580645161,
+        0.45822942643391523,
+        0.8508064516129032,
+        0.47256857855361595
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$15,625.00"
+    },
+    {
+      "bbox": [
+        0.18306451612903227,
+        0.4844139650872818,
+        0.42096774193548386,
+        0.5
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Out-of-Pocket Expenses (see attachment for detail)"
+    },
+    {
+      "bbox": [
+        0.7790322580645161,
+        0.4844139650872818,
+        0.8508064516129032,
+        0.5
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.18306451612903227,
+        0.5081047381546134,
+        0.42096774193548386,
+        0.5224438902743143
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Travel Expenses (see attachment for detail)"
+    },
+    {
+      "bbox": [
+        0.7790322580645161,
+        0.5081047381546134,
+        0.8508064516129032,
+        0.5224438902743143
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.18306451612903227,
+        0.5317955112219451,
+        0.42096774193548386,
+        0.5442643391521197
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Taxes"
+    },
+    {
+      "bbox": [
+        0.7790322580645161,
+        0.5317955112219451,
+        0.8508064516129032,
+        0.5442643391521197
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$0.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 668,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hqwl0218",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.18306451612903227,
+          0.4538653366583541,
+          0.8508064516129032,
+          0.5760598503740648
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.18306451612903227,
+            "right": 0.42096774193548386
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7790322580645161,
+            "right": 0.8508064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.45822942643391523,
+            "row_type": "gap",
+            "top": 0.4538653366583541
+          },
+          {
+            "bottom": 0.47256857855361595,
+            "row_type": "data",
+            "top": 0.45822942643391523
+          },
+          {
+            "bottom": 0.4844139650872818,
+            "row_type": "gap",
+            "top": 0.47256857855361595
+          },
+          {
+            "bottom": 0.5,
+            "row_type": "data",
+            "top": 0.4844139650872818
+          },
+          {
+            "bottom": 0.5081047381546134,
+            "row_type": "gap",
+            "top": 0.5
+          },
+          {
+            "bottom": 0.5224438902743143,
+            "row_type": "data",
+            "top": 0.5081047381546134
+          },
+          {
+            "bottom": 0.5317955112219451,
+            "row_type": "gap",
+            "top": 0.5224438902743143
+          },
+          {
+            "bottom": 0.5442643391521197,
+            "row_type": "data",
+            "top": 0.5317955112219451
+          },
+          {
+            "bottom": 0.5492518703241895,
+            "row_type": "gap",
+            "top": 0.5442643391521197
+          },
+          {
+            "bottom": 0.5760598503740648,
+            "row_type": "footer",
+            "top": 0.5492518703241895
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

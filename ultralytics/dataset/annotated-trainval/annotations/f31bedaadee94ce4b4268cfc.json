@@ -1,0 +1,177 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.1696517618820998,
+        0.2597026502908856,
+        0.2856871650561775,
+        0.27637491919844864
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 9, 1999"
+    },
+    {
+      "bbox": [
+        0.29730518463684763,
+        0.0732695653659634,
+        0.6683861002761724,
+        0.11034573097283644
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The NNPA Foundation"
+    },
+    {
+      "bbox": [
+        0.2906984027560288,
+        0.0732695653659634,
+        0.6749928821569913,
+        0.12976657962405566
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The NNPA Fondation\n3200 13th Street NW, Washington, DC 20010 202-588-8764"
+    },
+    {
+      "bbox": [
+        0.16805127356245733,
+        0.31100193923723335,
+        0.32089790808831137,
+        0.32967032967032966
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip-Morris USA"
+    },
+    {
+      "bbox": [
+        0.16627067733394074,
+        0.3107335784195074,
+        0.34795717905645873,
+        0.3645822951342516
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip-Morris USA\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7530297543917731,
+        0.4855798319327731,
+        0.7666339051087339,
+        0.5028933419521655
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7532195989985309,
+        0.48622107304460244,
+        0.8506595418899625,
+        0.5022521008403361
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$10,000.00"
+    },
+    {
+      "bbox": [
+        0.7548387096774194,
+        0.48622107304460244,
+        0.8506595418899625,
+        0.5022521008403361
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$10,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1685483870967742,
+        0.45054945054945056,
+        0.5959677419354839,
+        0.46929541047188106
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Third payment as indicated in contract with NNPA"
+    },
+    {
+      "bbox": [
+        0.7532258064516129,
+        0.45054945054945056,
+        0.8540322580645161,
+        0.46929541047188106
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$10,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 854,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gsvw0007",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1685483870967742,
+          0.45054945054945056,
+          0.8540322580645161,
+          0.5048480930833872
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1685483870967742,
+            "right": 0.5959677419354839
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7532258064516129,
+            "right": 0.8540322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.46929541047188106,
+            "row_type": "data",
+            "top": 0.45054945054945056
+          },
+          {
+            "bottom": 0.4854557207498384,
+            "row_type": "gap",
+            "top": 0.46929541047188106
+          },
+          {
+            "bottom": 0.5048480930833872,
+            "row_type": "footer",
+            "top": 0.4854557207498384
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

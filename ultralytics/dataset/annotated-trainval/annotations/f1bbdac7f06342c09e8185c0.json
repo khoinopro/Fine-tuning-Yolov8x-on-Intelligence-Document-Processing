@@ -1,0 +1,251 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7627143406775689,
+        0.160077875881375,
+        0.8122111148711173,
+        0.1760656787350044
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "047831"
+    },
+    {
+      "bbox": [
+        0.7627143406775689,
+        0.2689947828217253,
+        0.8725353084195044,
+        0.2849825856753548
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 31, 1999"
+    },
+    {
+      "bbox": [
+        0.7620967741935484,
+        0.21403671051237425,
+        0.7975167600324077,
+        0.23302222640105918
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "1000"
+    },
+    {
+      "bbox": [
+        0.12389659874208511,
+        0.0419679824907772,
+        0.2894014374517625,
+        0.07394358819803602
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "50 Cambridge Street\nBurlington, Massachusetts 01803-4610"
+    },
+    {
+      "bbox": [
+        0.031708870967741935,
+        0.7500278074697525,
+        0.17246532258064515,
+        0.794993502995585
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Post Office Box 4088\nBoston, MA 02211"
+    },
+    {
+      "bbox": [
+        0.763333064516129,
+        0.18585820817344187,
+        0.7958153225806451,
+        0.20384448638377495
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LORI"
+    },
+    {
+      "bbox": [
+        0.06496451612903226,
+        0.17786430674662715,
+        0.4416040322580645,
+        0.21983228923740436
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt. Planning/Info\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.06496451612903226,
+        0.1818612574600345,
+        0.4423774193548387,
+        0.3037682542189588
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk, Director, Mkt. Planning/Info\nLorillard Tobacco Company\n714 Green Valley Road\nPO Box 10529\nGreensboro NC\n27404-0529"
+    },
+    {
+      "bbox": [
+        0.8553661290322581,
+        0.8013886180381741,
+        0.8646467741935484,
+        0.8173764208918035
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.887075,
+        0.7374374066236564,
+        0.9257443548387096,
+        0.7554236848339895
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8545927419354838,
+        0.7973916673247667,
+        0.9249709677419354,
+        0.8173764208918035
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$3,355.00"
+    },
+    {
+      "bbox": [
+        0.8545927419354838,
+        0.8003893803598222,
+        0.926517741935484,
+        0.8163771832134517
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$3,355.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.035483870967741936,
+        0.4348279457768509,
+        0.3064516129032258,
+        0.4504692387904067
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Anchor Computer - 6,100,000 @ .55/M"
+    },
+    {
+      "bbox": [
+        0.853225806451613,
+        0.4348279457768509,
+        0.9241935483870968,
+        0.4504692387904067
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$3,355.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.019798714397799583,
+        0.4066897350891981,
+        0.11492532730102539,
+        0.42367677562117934
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "January NCOA"
+    },
+    {
+      "bbox": [
+        0.8549020920538132,
+        0.3727156540252356,
+        0.9330141888280069,
+        0.3917011699139205
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 177,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "srhx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2206,
+        1707
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.01935483870967742,
+          0.37017726798748696,
+          0.9516129032258065,
+          0.48175182481751827
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.035483870967741936,
+            "right": 0.3064516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.853225806451613,
+            "right": 0.9241935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4233576642335766,
+            "row_type": "header",
+            "top": 0.37017726798748696
+          },
+          {
+            "bottom": 0.4348279457768509,
+            "row_type": "gap",
+            "top": 0.4233576642335766
+          },
+          {
+            "bottom": 0.4504692387904067,
+            "row_type": "data",
+            "top": 0.4348279457768509
+          },
+          {
+            "bottom": 0.48175182481751827,
+            "row_type": "footer",
+            "top": 0.4504692387904067
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

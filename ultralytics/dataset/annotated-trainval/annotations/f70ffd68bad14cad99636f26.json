@@ -1,0 +1,176 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.750809055469587,
+        0.36490533607646036,
+        0.8113877812165219,
+        0.3768996960486322
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "832890"
+    },
+    {
+      "bbox": [
+        0.5941610373765028,
+        0.3376873653703779,
+        0.7630471818831092,
+        0.3524496545668972
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "September 17, 1990"
+    },
+    {
+      "bbox": [
+        0.02872048553375457,
+        0.22189565948518006,
+        0.35980091655755264,
+        0.23758059175648177
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MARKETING INFORMATION SYSTEMS, INC."
+    },
+    {
+      "bbox": [
+        0.6332183239108746,
+        0.21912773026083268,
+        0.956665696707682,
+        0.22995521810901504
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "100 SYLVAN AVENUE, ENGLEWOOD CLIFFS, NJ 07632"
+    },
+    {
+      "bbox": [
+        0.18051236459945244,
+        0.4391781035964479,
+        0.3573532912748483,
+        0.4534790712555759
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris, Inc."
+    },
+    {
+      "bbox": [
+        0.17990045827877632,
+        0.4392866498405399,
+        0.45417426706344616,
+        0.5346508173436603
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris, Inc.\n120 Park Avenue\nNew York, New York 10017\nAttention: Mr. Michael Azano"
+    },
+    {
+      "bbox": [
+        0.8309687834781574,
+        0.7657937520694363,
+        0.8413711909296513,
+        0.7805560412659557
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8282258064516129,
+        0.7667163951442189,
+        0.93438095167242,
+        0.780547112462006
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$110,000.00"
+    },
+    {
+      "bbox": [
+        0.829133064516129,
+        0.7667163951442189,
+        0.93438095167242,
+        0.7814786843407381
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$110,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3629032258064516,
+        0.6601823708206687,
+        0.6258064516129033,
+        0.6735562310030395
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Benson & Hedges Pack Test II"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 239,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kqbn0058",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.3629032258064516,
+          0.6601823708206687,
+          0.9362903225806452,
+          0.7866261398176292
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.3629032258064516,
+            "right": 0.6258064516129033
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6735562310030395,
+            "row_type": "data",
+            "top": 0.6601823708206687
+          },
+          {
+            "bottom": 0.7124620060790273,
+            "row_type": "gap-with-text",
+            "top": 0.6735562310030395
+          },
+          {
+            "bottom": 0.766565349544073,
+            "row_type": "gap",
+            "top": 0.7124620060790273
+          },
+          {
+            "bottom": 0.7866261398176292,
+            "row_type": "footer",
+            "top": 0.766565349544073
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

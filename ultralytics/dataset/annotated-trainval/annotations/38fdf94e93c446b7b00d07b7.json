@@ -1,0 +1,145 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.20863683662851196,
+        0.2183835895896374,
+        0.33518704900974056,
+        0.234775578154477
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 28, 1999"
+    },
+    {
+      "bbox": [
+        0.4063287900240528,
+        0.12584817027199444,
+        0.650536497159721,
+        0.14224015883683405
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CHRISTOPHER SCOTT"
+    },
+    {
+      "bbox": [
+        0.3639173674962897,
+        0.12606157280598448,
+        0.6922638644854233,
+        0.15863214740167364
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "CHRISTOPHER SCOTT\n2618 Van Dyke Avenue - Raleigh, NC 27607"
+    },
+    {
+      "bbox": [
+        0.6300148410979001,
+        0.264915686160795,
+        0.6402756691288105,
+        0.2797213532516179
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6293307858958394,
+        0.2659732338101395,
+        0.7025246925163336,
+        0.28077890090096236
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$4,000.00"
+    },
+    {
+      "bbox": [
+        0.6293307858958394,
+        0.2654444599854673,
+        0.7038928029204551,
+        0.2797213532516179
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$4,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.20806451612903226,
+        0.2655860349127182,
+        0.575,
+        0.2805486284289277
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Consulting Services for the month of January, 1999"
+    },
+    {
+      "bbox": [
+        0.6290322580645161,
+        0.2655860349127182,
+        0.7048387096774194,
+        0.2805486284289277
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$4,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 254,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tywx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.20806451612903226,
+          0.2655860349127182,
+          0.7048387096774194,
+          0.2805486284289277
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.20806451612903226,
+            "right": 0.575
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6290322580645161,
+            "right": 0.7048387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2805486284289277,
+            "row_type": "data",
+            "top": 0.2655860349127182
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

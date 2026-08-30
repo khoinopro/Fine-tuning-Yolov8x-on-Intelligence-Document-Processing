@@ -1,0 +1,167 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5461555266338198,
+        0.2534339699065741,
+        0.6020377428651111,
+        0.26725764099238725
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "A-2443"
+    },
+    {
+      "bbox": [
+        0.5461555266338198,
+        0.1618521489630621,
+        0.6661160174769918,
+        0.17682779263935966
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 12, 1999"
+    },
+    {
+      "bbox": [
+        0.6243906293576276,
+        0.3490476949167816,
+        0.6601552477456539,
+        0.3611434071168681
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "8851"
+    },
+    {
+      "bbox": [
+        0.5454104304174027,
+        0.32946416087854635,
+        0.625880821790462,
+        0.3438638182596017
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "CP040676"
+    },
+    {
+      "bbox": [
+        0.10878404759691364,
+        0.16242813525830432,
+        0.28835223575346286,
+        0.19180343631565722
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Department L 997\nColumbus, Ohio 43260"
+    },
+    {
+      "bbox": [
+        0.10878404759691364,
+        0.2676176324269136,
+        0.3442344519847541,
+        0.2837452486936956
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Research Center"
+    },
+    {
+      "bbox": [
+        0.10878404759691364,
+        0.2676176324269136,
+        0.3442344519847541,
+        0.3280961934273461
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Research Center\n4201 Commerce Road\nGate C, Door 17\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.6057632239471972,
+        0.1840996196167926,
+        0.8635665148275542,
+        0.19734730440736353
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET UPON OFFER ACCEPTANCE"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.18467741935483872,
+        0.479101684341859,
+        0.5411290322580645,
+        0.49719276356830944
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Completion of HPLC Separation Enhancement"
+    },
+    {
+      "bbox": [
+        0.7258064516129032,
+        0.479101684341859,
+        0.8120967741935484,
+        0.49719276356830944
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$40,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 319,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qkwh0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1703,
+        2203
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.18467741935483872,
+          0.479101684341859,
+          0.8120967741935484,
+          0.49719276356830944
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.18467741935483872,
+            "right": 0.5411290322580645
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7258064516129032,
+            "right": 0.8120967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.49719276356830944,
+            "row_type": "data",
+            "top": 0.479101684341859
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

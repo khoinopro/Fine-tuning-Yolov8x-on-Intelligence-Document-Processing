@@ -1,0 +1,156 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7530317226609557,
+        0.43750251061151796,
+        0.7937658947932005,
+        0.4524456703667501
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3513"
+    },
+    {
+      "bbox": [
+        0.5989024227011109,
+        0.23826038054175647,
+        0.7453252576629634,
+        0.25486389138090326
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 18, 2000"
+    },
+    {
+      "bbox": [
+        0.3965152957981193,
+        0.0881124136417243,
+        0.556222845494584,
+        0.10056809515128742
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL"
+    },
+    {
+      "bbox": [
+        0.3848890757052732,
+        0.08712917415177096,
+        0.5684609719081062,
+        0.13003369296641384
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL\n236 East 36th Street\nNew York, New York 10016"
+    },
+    {
+      "bbox": [
+        0.08995022913938816,
+        0.3552175837912446,
+        0.20009336686108797,
+        0.386587448333848
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc."
+    },
+    {
+      "bbox": [
+        0.08933832281871207,
+        0.3551173993632327,
+        0.2747459379835734,
+        0.42026392056340756
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc.\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.7222058626689868,
+        0.5553874375694603,
+        0.7354169455226878,
+        0.5711607728666497
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08790322580645162,
+        0.556838905775076,
+        0.40403225806451615,
+        0.5750759878419452
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Kent III Product Test (N=518 Callbacks)"
+    },
+    {
+      "bbox": [
+        0.7217741935483871,
+        0.556838905775076,
+        0.7935483870967742,
+        0.5750759878419452
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$400.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 497,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hxkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08790322580645162,
+          0.556838905775076,
+          0.7935483870967742,
+          0.5750759878419452
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08790322580645162,
+            "right": 0.40403225806451615
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7217741935483871,
+            "right": 0.7935483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5750759878419452,
+            "row_type": "data",
+            "top": 0.556838905775076
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

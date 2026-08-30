@@ -1,0 +1,198 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7040322580645161,
+        0.11852776044915783,
+        0.8193548387096774,
+        0.13849033063006863
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "425/6006"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.14784778540237056,
+        0.2306451612903226,
+        0.15970056144728634
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/27/2000"
+    },
+    {
+      "bbox": [
+        0.13709677419354838,
+        0.1752963194011229,
+        0.2645161290322581,
+        0.1852776044915783
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Labstat International Inc."
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.20087336244541484,
+        0.4161290322580645,
+        0.21272613849033062
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "262 Manitou Drive, Kitchener, Ontario N2C 1L3 CANADA"
+    },
+    {
+      "bbox": [
+        0.5346774193548387,
+        0.1222707423580786,
+        0.6072580645161291,
+        0.13287585776668745
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R5-472"
+    },
+    {
+      "bbox": [
+        0.11935483870967742,
+        0.07548346849656894,
+        0.29193548387096774,
+        0.08858390517779165
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.13790322580645162,
+        0.2283218964441672,
+        0.1717741935483871,
+        0.23892701185277604
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RD&E"
+    },
+    {
+      "bbox": [
+        0.43709677419354837,
+        0.22769806612601373,
+        0.4935483870967742,
+        0.23705552089831566
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Frank Hsu"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2645161290322581,
+        0.39925140361821587,
+        0.5774193548387097,
+        0.4897067997504679
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "To conduct chemical testing for a smoke\nchemistry study In accordance with the Service\nAgreement between Philip Morris USA & Labstat\nwith a total not-to-exceed of $2,880,636."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3842340353595574,
+        0.37014175911938735,
+        0.4708836302227283,
+        0.38368903748208943
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1096,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "srhm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1810,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11774193548387096,
+          0.36681222707423583,
+          0.8733870967741936,
+          0.7498440424204617
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2645161290322581,
+            "right": 0.5774193548387097
+          },
+          {
+            "column_type": "",
+            "left": 0.5903225806451613,
+            "right": 0.6548387096774193
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3867747972551466,
+            "row_type": "header",
+            "top": 0.36681222707423583
+          },
+          {
+            "bottom": 0.39925140361821587,
+            "row_type": "gap",
+            "top": 0.3867747972551466
+          },
+          {
+            "bottom": 0.4897067997504679,
+            "row_type": "data",
+            "top": 0.39925140361821587
+          },
+          {
+            "bottom": 0.5258889582033687,
+            "row_type": "gap",
+            "top": 0.4897067997504679
+          },
+          {
+            "bottom": 0.595134123518403,
+            "row_type": "gap-with-text",
+            "top": 0.5258889582033687
+          },
+          {
+            "bottom": 0.7267623206487835,
+            "row_type": "gap",
+            "top": 0.595134123518403
+          },
+          {
+            "bottom": 0.7498440424204617,
+            "row_type": "gap-with-text",
+            "top": 0.7267623206487835
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

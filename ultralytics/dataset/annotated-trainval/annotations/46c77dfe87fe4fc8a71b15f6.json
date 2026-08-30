@@ -1,0 +1,636 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7852097481607244,
+        0.07401466321559667,
+        0.8351403331918507,
+        0.0866245688004761
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "31693"
+    },
+    {
+      "bbox": [
+        0.23870923528579513,
+        0.7472739700952464,
+        0.2900077815506508,
+        0.7598838756801258
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "31693"
+    },
+    {
+      "bbox": [
+        0.6367859543010753,
+        0.07511117674471662,
+        0.7161277058573854,
+        0.08881759585871601
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "09/23/99"
+    },
+    {
+      "bbox": [
+        0.38166118421052636,
+        0.043860541164798025,
+        0.5314529393039049,
+        0.09868621762079557
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1901 E FRANKLIN ST\nSTUDIO 105\nRICHMOND, VA 23223"
+    },
+    {
+      "bbox": [
+        0.060190294284097334,
+        0.310861585505506,
+        0.13064029782116582,
+        0.3245680046195054
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "OPU4940"
+    },
+    {
+      "bbox": [
+        0.14705583262591965,
+        0.17927996201111193,
+        0.33857040534804755,
+        0.20559628670999075
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "BYRON WAMPLER\nOPUS EVENT MARKETING"
+    },
+    {
+      "bbox": [
+        0.14842379385964913,
+        0.17827850258156025,
+        0.34231859241047347,
+        0.2511015981684687
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "BYRONAAAMPLER\nOPUS EVENT MARKETING\n1901 E. FRANKLIN\nSTUDIO 105\nRICHMOND VA 23223"
+    },
+    {
+      "bbox": [
+        0.5252971137521222,
+        0.17763519171743203,
+        0.7188636283248444,
+        0.2044997731808708
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "BYRON WAMPLER\nOPUS EVENT MARKETING"
+    },
+    {
+      "bbox": [
+        0.5280330362195812,
+        0.17757661870258767,
+        0.7205325143120015,
+        0.24836031434566883
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "BYRON WAMPLER\nOPUS EVENT MARKETING\n1901 E. FRANKLIN\nSTUDIO 105\nRICHMOND VA 23223"
+    },
+    {
+      "bbox": [
+        0.8460840230616864,
+        0.509878791040777,
+        0.9151660653650255,
+        0.5224886966256566
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "2955.23"
+    },
+    {
+      "bbox": [
+        0.8570277129315224,
+        0.5383881427978958,
+        0.9165340265987549,
+        0.5526428186764551
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "132.99"
+    },
+    {
+      "bbox": [
+        0.8488199455291454,
+        0.5674457513195745,
+        0.9158500459818902,
+        0.5833451974918138
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "3088.22"
+    },
+    {
+      "bbox": [
+        0.231185448500283,
+        0.7620769027383657,
+        0.297531568336163,
+        0.7746868083232451
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "3088.22"
+    },
+    {
+      "bbox": [
+        0.8488199455291454,
+        0.5685422648486944,
+        0.9179019878324844,
+        0.5817004271981339
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "3088.22"
+    },
+    {
+      "bbox": [
+        0.7174956670911149,
+        0.30757204491814616,
+        0.7770019807583475,
+        0.32127846403214555
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 15"
+    },
+    {
+      "bbox": [
+        0.6744048882286362,
+        0.5394846563270157,
+        0.7407510080645161,
+        0.5531910754410151
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "2955.23"
+    },
+    {
+      "bbox": [
+        0.8570277129315224,
+        0.5389363995624558,
+        0.9172180072156197,
+        0.5526428186764551
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "132.99"
+    },
+    {
+      "bbox": [
+        0.8481359649122807,
+        0.5679940080841345,
+        0.913798104131296,
+        0.5822486839626938
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "3088.22"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.3658694246929541,
+        0.12016129032258065,
+        0.38073691014867483
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "175"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.3658694246929541,
+        0.1435483870967742,
+        0.38073691014867483
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "EA"
+    },
+    {
+      "bbox": [
+        0.1975806451612903,
+        0.3658694246929541,
+        0.2314516129032258,
+        0.38073691014867483
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "175"
+    },
+    {
+      "bbox": [
+        0.2411290322580645,
+        0.3658694246929541,
+        0.29838709677419356,
+        0.38073691014867483
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "99-227"
+    },
+    {
+      "bbox": [
+        0.3403225806451613,
+        0.3658694246929541,
+        0.6935483870967742,
+        0.38073691014867483
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "UNDERWATER CAMERA WITH FISH PACKAGING."
+    },
+    {
+      "bbox": [
+        0.7387096774193549,
+        0.3658694246929541,
+        0.7975806451612903,
+        0.38073691014867483
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "15.80"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.3658694246929541,
+        0.9185483870967742,
+        0.38073691014867483
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2765.00"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.45119586296056885,
+        0.12016129032258065,
+        0.46864899806076277
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.45119586296056885,
+        0.1435483870967742,
+        0.46864899806076277
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "EA"
+    },
+    {
+      "bbox": [
+        0.1975806451612903,
+        0.45119586296056885,
+        0.2314516129032258,
+        0.46864899806076277
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.3403225806451613,
+        0.45119586296056885,
+        0.6935483870967742,
+        0.46864899806076277
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "SET UP CHARGE."
+    },
+    {
+      "bbox": [
+        0.7387096774193549,
+        0.45119586296056885,
+        0.7975806451612903,
+        0.46864899806076277
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "72.00"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.45119586296056885,
+        0.9185483870967742,
+        0.46864899806076277
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "72.00"
+    },
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.4796380090497738,
+        0.12016129032258065,
+        0.4964447317388494
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.12016129032258065,
+        0.4796380090497738,
+        0.1435483870967742,
+        0.4964447317388494
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "EA"
+    },
+    {
+      "bbox": [
+        0.1975806451612903,
+        0.4796380090497738,
+        0.2314516129032258,
+        0.4964447317388494
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.3403225806451613,
+        0.4796380090497738,
+        0.6935483870967742,
+        0.4964447317388494
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "SHIPPING AND HANDLING:"
+    },
+    {
+      "bbox": [
+        0.7387096774193549,
+        0.4796380090497738,
+        0.7975806451612903,
+        0.4964447317388494
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "118.23"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.4796380090497738,
+        0.9185483870967742,
+        0.4964447317388494
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "118.23"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.05198252688172043,
+        0.3404674507917447,
+        0.12016129032258065,
+        0.35358758888170655
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ORDERED"
+    },
+    {
+      "bbox": [
+        0.052666507498585174,
+        0.3415639643208646,
+        0.12038058856819467,
+        0.3530773563766241
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ORDERED"
+    },
+    {
+      "bbox": [
+        0.15184369694397284,
+        0.3399191940271847,
+        0.22160971986417657,
+        0.35033607255382426
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SHIPPED"
+    },
+    {
+      "bbox": [
+        0.2411290322580645,
+        0.33882268049806474,
+        0.29838709677419356,
+        0.3508843293183842
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM #"
+    },
+    {
+      "bbox": [
+        0.3403225806451613,
+        0.3374272786037492,
+        0.44732332342954156,
+        0.3508843293183842
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7510107173174874,
+        0.3371779102043848,
+        0.8002573217317488,
+        0.34978781578926427
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PRICE"
+    },
+    {
+      "bbox": [
+        0.8495039261460102,
+        0.3371779102043848,
+        0.9090102398132428,
+        0.34923955902470427
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 418,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xyxk0009",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0532258064516129,
+          0.3374272786037492,
+          0.9185483870967742,
+          0.5843568196509373
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.08629032258064516,
+            "right": 0.12016129032258065
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.12016129032258065,
+            "right": 0.1435483870967742
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.1975806451612903,
+            "right": 0.2314516129032258
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.2411290322580645,
+            "right": 0.29838709677419356
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3403225806451613,
+            "right": 0.6935483870967742
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.7387096774193549,
+            "right": 0.7975806451612903
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8419354838709677,
+            "right": 0.9185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.35358758888170655,
+            "row_type": "header",
+            "top": 0.3374272786037492
+          },
+          {
+            "bottom": 0.3658694246929541,
+            "row_type": "gap",
+            "top": 0.35358758888170655
+          },
+          {
+            "bottom": 0.38073691014867483,
+            "row_type": "data",
+            "top": 0.3658694246929541
+          },
+          {
+            "bottom": 0.44020685197155784,
+            "row_type": "up-merge",
+            "top": 0.38073691014867483
+          },
+          {
+            "bottom": 0.45119586296056885,
+            "row_type": "gap",
+            "top": 0.44020685197155784
+          },
+          {
+            "bottom": 0.46864899806076277,
+            "row_type": "data",
+            "top": 0.45119586296056885
+          },
+          {
+            "bottom": 0.4796380090497738,
+            "row_type": "gap",
+            "top": 0.46864899806076277
+          },
+          {
+            "bottom": 0.4964447317388494,
+            "row_type": "data",
+            "top": 0.4796380090497738
+          },
+          {
+            "bottom": 0.5087265675500969,
+            "row_type": "gap",
+            "top": 0.4964447317388494
+          },
+          {
+            "bottom": 0.5843568196509373,
+            "row_type": "footer",
+            "top": 0.5087265675500969
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

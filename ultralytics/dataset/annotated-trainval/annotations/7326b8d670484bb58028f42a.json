@@ -1,0 +1,256 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6177060512200649,
+        0.10853275502930561,
+        0.7245108408249603,
+        0.12180654521274585
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "H400001430"
+    },
+    {
+      "bbox": [
+        0.6199082118304752,
+        0.12336816758726823,
+        0.7035903150260633,
+        0.1350803353961861
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/22/02"
+    },
+    {
+      "bbox": [
+        0.6199082118304752,
+        0.13742276895796968,
+        0.7024892347208581,
+        0.15069655914140995
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "12/22/02"
+    },
+    {
+      "bbox": [
+        0.628716854272116,
+        0.4919110479745506,
+        0.7839691773060361,
+        0.5067464605325132
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Ipsos-NPD, Inc."
+    },
+    {
+      "bbox": [
+        0.520942185090785,
+        0.4911377028175313,
+        0.8665502001964192,
+        0.5348556632739161
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Remit to: Ipsos-NPD, Inc.\nChurch Street Station, PO Box 6531\nNew York, NY 10249-6531"
+    },
+    {
+      "bbox": [
+        0.6584460225126539,
+        0.562964866015319,
+        0.8114961849361637,
+        0.5770194673860204
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Ipsos-NPD, Inc."
+    },
+    {
+      "bbox": [
+        0.23342902470348265,
+        0.5325132297121326,
+        0.340233814308378,
+        0.5465678310828339
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "11-3583627"
+    },
+    {
+      "bbox": [
+        0.11781559265694642,
+        0.10775194384204441,
+        0.3391327340031729,
+        0.12180654521274585
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. REYNOLDS TOBACCO"
+    },
+    {
+      "bbox": [
+        0.11891667296215155,
+        0.1086435157191527,
+        0.3996921507894538,
+        0.17880576188281283
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. REYNOLDS TOBACCO\n401 NORTH MAIN STREET\nWINSTON-SALEM NC 27101\nUNITED STATES\nAttn: CAROL MITCHELL"
+    },
+    {
+      "bbox": [
+        0.8203048273778046,
+        0.40680262856308075,
+        0.9194020548462641,
+        0.4216380411210433
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "26,000.00"
+    },
+    {
+      "bbox": [
+        0.8225069879882149,
+        0.436473453679006,
+        0.917199894235854,
+        0.44974724386244624
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "26,000.00"
+    },
+    {
+      "bbox": [
+        0.61880713152527,
+        0.15147737032867115,
+        0.7333194832666011,
+        0.1655319716993726
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.3453401943967982,
+        0.9266129032258065,
+        0.36363636363636365
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "26,000.00"
+    },
+    {
+      "bbox": [
+        0.13395654203197566,
+        0.36276588670997667,
+        0.23726945126487048,
+        0.3758031088804639
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "II4AB30211"
+    },
+    {
+      "bbox": [
+        0.3178184991413648,
+        0.36276588670997667,
+        0.5936114348054484,
+        0.37890720939724654
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Eclipse Ad Test with Lights"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8553958404040547,
+        0.27957599286020113,
+        0.9184342256987025,
+        0.2938548552374014
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 623,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sxvj0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1663,
+        2346
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11048387096774194,
+          0.27901658090337333,
+          0.9266129032258065,
+          0.45740423098913663
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8209677419354838,
+            "right": 0.9266129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.29559748427672955,
+            "row_type": "header",
+            "top": 0.27901658090337333
+          },
+          {
+            "bottom": 0.3453401943967982,
+            "row_type": "gap-with-text",
+            "top": 0.29559748427672955
+          },
+          {
+            "bottom": 0.36363636363636365,
+            "row_type": "data",
+            "top": 0.3453401943967982
+          },
+          {
+            "bottom": 0.3819325328759291,
+            "row_type": "up-merge",
+            "top": 0.36363636363636365
+          },
+          {
+            "bottom": 0.4025157232704403,
+            "row_type": "gap",
+            "top": 0.3819325328759291
+          },
+          {
+            "bottom": 0.45740423098913663,
+            "row_type": "footer",
+            "top": 0.4025157232704403
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

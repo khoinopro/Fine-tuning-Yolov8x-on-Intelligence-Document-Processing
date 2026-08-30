@@ -1,0 +1,230 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.725612512557205,
+        0.2496409675244833,
+        0.7865767259571903,
+        0.26316186036698996
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "608-39"
+    },
+    {
+      "bbox": [
+        0.6368993470253377,
+        0.3002614063466056,
+        0.7770049670722179,
+        0.3162695793074477
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 28, 2006"
+    },
+    {
+      "bbox": [
+        0.13521110056925995,
+        0.3557018735982382,
+        0.32303828552293784,
+        0.3728620296465222
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "Bellomy Research, Inc."
+    },
+    {
+      "bbox": [
+        0.13337565576515237,
+        0.35588797815273127,
+        0.4001269672954571,
+        0.40502435245056245
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "Bellomy Research, Inc.\n2150 Country Club Rd., Ste. 300\nWinston-Salem, NC 27104"
+    },
+    {
+      "bbox": [
+        0.13337565576515237,
+        0.382465537767146,
+        0.5218781393012614,
+        0.4330859765892683
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Mary Robin Gambrell\nBusiness Information and Research Department\nR. J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.1339874706998549,
+        0.3829745416768707,
+        0.5218935234292132,
+        0.4639846600110805
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Mary Robin Gambrell\nBusiness Information and Research Department\nR. J. Reynolds Tobacco Company\n401 North Main Street\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.5787769282285969,
+        0.27263243553116573,
+        0.5897895970532426,
+        0.28647734187567775
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5781651132938944,
+        0.2713344755613677,
+        0.6424056814376605,
+        0.2877753018454758
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$ 6,500"
+    },
+    {
+      "bbox": [
+        0.5781651132938944,
+        0.2713344755613677,
+        0.6424056814376605,
+        0.2877753018454758
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$ 6,500"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.20695553021664767,
+        0.3725806451612903,
+        0.22063854047890535
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Phase 1 Project Costs"
+    },
+    {
+      "bbox": [
+        0.5758064516129032,
+        0.20695553021664767,
+        0.6459677419354839,
+        0.22063854047890535
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "$ 3,000"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.23033067274800456,
+        0.3725806451612903,
+        0.24686431014823262
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "Phase 2 Project Costs"
+    },
+    {
+      "bbox": [
+        0.5758064516129032,
+        0.23033067274800456,
+        0.6459677419354839,
+        0.24686431014823262
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "3,500"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 374,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gplk0222",
+    "page_count": 3,
+    "page_sizes_at_200dpi": [
+      [
+        1653,
+        2339
+      ],
+      [
+        1653,
+        2339
+      ],
+      [
+        1653,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.19112903225806452,
+          0.20695553021664767,
+          0.6459677419354839,
+          0.290193842645382
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.19112903225806452,
+            "right": 0.3725806451612903
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5758064516129032,
+            "right": 0.6459677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.22063854047890535,
+            "row_type": "data",
+            "top": 0.20695553021664767
+          },
+          {
+            "bottom": 0.23033067274800456,
+            "row_type": "gap",
+            "top": 0.22063854047890535
+          },
+          {
+            "bottom": 0.24686431014823262,
+            "row_type": "data",
+            "top": 0.23033067274800456
+          },
+          {
+            "bottom": 0.27137970353477764,
+            "row_type": "gap",
+            "top": 0.24686431014823262
+          },
+          {
+            "bottom": 0.290193842645382,
+            "row_type": "footer",
+            "top": 0.27137970353477764
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

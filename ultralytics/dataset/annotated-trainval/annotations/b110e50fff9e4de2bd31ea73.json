@@ -1,0 +1,223 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7887968325830449,
+        0.09813614456028869,
+        0.8416348998523515,
+        0.11022538009392406
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "5198-1"
+    },
+    {
+      "bbox": [
+        0.10173616450080439,
+        0.08307822077487564,
+        0.2668048091378397,
+        0.09730085081444668
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "NEWMAN-STEIN, INC."
+    },
+    {
+      "bbox": [
+        0.09904116622101607,
+        0.08118854846974347,
+        0.2668048091378397,
+        0.12422225767506327
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "NEWMAN-STEIN, INC.\n902 BROADWAY\nNEW YORK, NY 10010"
+    },
+    {
+      "bbox": [
+        0.1852811111742427,
+        0.24821876017894332,
+        0.31800977645381806,
+        0.27666402025808534
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard"
+    },
+    {
+      "bbox": [
+        0.1852811111742427,
+        0.24884620660696338,
+        0.39414347785783843,
+        0.3051657288184211
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard\nP.O. Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.587823469576575,
+        0.5090911600959883,
+        0.601976523309425,
+        0.5233137901355595
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5884381719357947,
+        0.42625824361726244,
+        0.6786303363135228,
+        0.43879956450154267
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$245,000.00"
+    },
+    {
+      "bbox": [
+        0.587823469576575,
+        0.42438749433787526,
+        0.678403013466815,
+        0.44145465038536047
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$245,000.00"
+    },
+    {
+      "bbox": [
+        0.5910651281798062,
+        0.5100870726858725,
+        0.6733764238254998,
+        0.5239485326106033
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 84,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08548387096774193,
+        0.37142857142857144,
+        0.1532258064516129,
+        0.38541033434650457
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12/03/99"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.37142857142857144,
+        0.4064516129032258,
+        0.38541033434650457
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Coastal Lights Product Test"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09133048812118008,
+        0.35054269649276937,
+        0.13242921188795215,
+        0.3641337386018237
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.282375922875131,
+        0.35238368330069875,
+        0.44350783925031523,
+        0.3651496407475072
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CHARGE DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 105,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mxkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06290322580645161,
+          0.3513677811550152,
+          0.9080645161290323,
+          0.7544072948328268
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.08548387096774193,
+            "right": 0.1532258064516129
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.19112903225806452,
+            "right": 0.4064516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3641337386018237,
+            "row_type": "header",
+            "top": 0.3513677811550152
+          },
+          {
+            "bottom": 0.37142857142857144,
+            "row_type": "gap",
+            "top": 0.3641337386018237
+          },
+          {
+            "bottom": 0.38541033434650457,
+            "row_type": "data",
+            "top": 0.37142857142857144
+          },
+          {
+            "bottom": 0.4237082066869301,
+            "row_type": "gap",
+            "top": 0.38541033434650457
+          },
+          {
+            "bottom": 0.7544072948328268,
+            "row_type": "footer",
+            "top": 0.4237082066869301
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

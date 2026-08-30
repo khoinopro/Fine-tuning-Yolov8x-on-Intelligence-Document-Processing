@@ -1,0 +1,200 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7182954470796925,
+        0.10591170629869139,
+        0.7458314171210827,
+        0.12220581496002851
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "18599"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.14461021436936708,
+        0.7521253531305433,
+        0.15886755944803707
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/16/20"
+    },
+    {
+      "bbox": [
+        0.04675293299058737,
+        0.16419237609216733,
+        0.12914919113241463,
+        0.19894842650583777
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin"
+    },
+    {
+      "bbox": [
+        0.04675293299058737,
+        0.16359313384365576,
+        0.13794429733856473,
+        0.2372999304105776
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin\n2601 Northwind Drive\nRichmond VA 23233"
+    },
+    {
+      "bbox": [
+        0.07776725487543247,
+        0.6507770818835538,
+        0.20552774502792867,
+        0.6681551070903889
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Learfield Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.07684145422215351,
+        0.650177839635042,
+        0.3939281779701966,
+        0.6687543493389004
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Learfield Communications, Inc., 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.453027139874739,
+        0.8693548387096774,
+        0.4697286012526096
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3388430391000986,
+        0.4527275187504832,
+        0.3902249753570808,
+        0.47370099744838784
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$14,220.00"
+    },
+    {
+      "bbox": [
+        0.8591222652913737,
+        0.4521615153521055,
+        0.910483870967742,
+        0.4704923875961098
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$12,087.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03790322580645161,
+        0.3288100208768267,
+        0.13548387096774195,
+        0.3475991649269311
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Minnesota News Network"
+    },
+    {
+      "bbox": [
+        0.9283466050754752,
+        0.3514555787520297,
+        0.9394562129148226,
+        0.364638908219284
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "30"
+    },
+    {
+      "bbox": [
+        0.8825194727381667,
+        0.35025709425500656,
+        0.9102934923365353,
+        0.3658373927163071
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "14,220"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "64aeeac0-7311-4955-bc5d-4c7024bc78d3",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03790322580645161,
+          0.29436325678496866,
+          0.9459677419354838,
+          0.477035490605428
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.03790322580645161,
+            "right": 0.13548387096774195
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3288100208768267,
+            "row_type": "header",
+            "top": 0.29436325678496866
+          },
+          {
+            "bottom": 0.3475991649269311,
+            "row_type": "data",
+            "top": 0.3288100208768267
+          },
+          {
+            "bottom": 0.3653444676409186,
+            "row_type": "up-merge",
+            "top": 0.3475991649269311
+          },
+          {
+            "bottom": 0.477035490605428,
+            "row_type": "footer",
+            "top": 0.3653444676409186
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

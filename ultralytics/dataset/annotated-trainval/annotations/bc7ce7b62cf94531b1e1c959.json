@@ -1,0 +1,361 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4603016301228332,
+        0.4127807843427978,
+        0.5169541384456434,
+        0.42582845281340354
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "198658"
+    },
+    {
+      "bbox": [
+        0.3462097730838404,
+        0.4115946326636518,
+        0.429614854781311,
+        0.42404922529468453
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "07/17/00"
+    },
+    {
+      "bbox": [
+        0.653899476685152,
+        0.19545509707891437,
+        0.8424978520659221,
+        0.22070858749795996
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "4D West 27th St. 11th Floor.\nNew York, NY 10001"
+    },
+    {
+      "bbox": [
+        0.10737717722408813,
+        0.27156150656096956,
+        0.2895512770444427,
+        0.2860909120075437
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LaPlaca/Cohen Design"
+    },
+    {
+      "bbox": [
+        0.10691830039834414,
+        0.2722339801828698,
+        0.28925631858995676,
+        0.34178696621941135
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LaPlaca/Cohen Design\n43 West 24th Street\n10th Floor\nNew York, NY 10001\nAttention: Greg Hare"
+    },
+    {
+      "bbox": [
+        0.7871603533663499,
+        0.8675334413454199,
+        0.8003714362200509,
+        0.8816464255586947
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.8667032658034627,
+        0.8708305447731227,
+        0.8826747720364742
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,500.00"
+    },
+    {
+      "bbox": [
+        0.7871603533663499,
+        0.8675334413454199,
+        0.874133315486548,
+        0.8816464255586947
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,500.00"
+    },
+    {
+      "bbox": [
+        0.7356957678031608,
+        0.41456001186151675,
+        0.8670981134963456,
+        0.42879383201126847
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due on receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06693548387096775,
+        0.4851063829787234,
+        0.1153225806451613,
+        0.49969604863221884
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "USAGE"
+    },
+    {
+      "bbox": [
+        0.14677419354838708,
+        0.4851063829787234,
+        0.5306451612903226,
+        0.49969604863221884
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Use Fee -Bryce/Hand shake and Aids Ribbon"
+    },
+    {
+      "bbox": [
+        0.06693548387096775,
+        0.49969604863221884,
+        0.1153225806451613,
+        0.513677811550152
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "USAGE"
+    },
+    {
+      "bbox": [
+        0.14677419354838708,
+        0.49969604863221884,
+        0.5306451612903226,
+        0.513677811550152
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Use Fee - Without Credit line"
+    },
+    {
+      "bbox": [
+        0.6733870967741935,
+        0.49969604863221884,
+        0.7620967741935484,
+        0.513677811550152
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,500.00"
+    },
+    {
+      "bbox": [
+        0.8,
+        0.49969604863221884,
+        0.8766129032258064,
+        0.513677811550152
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,500.00"
+    },
+    {
+      "bbox": [
+        0.14677419354838708,
+        0.513677811550152,
+        0.5306451612903226,
+        0.5264437689969604
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Non-profit organization"
+    },
+    {
+      "bbox": [
+        0.6733870967741935,
+        0.513677811550152,
+        0.7620967741935484,
+        0.5264437689969604
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "0.00%"
+    },
+    {
+      "bbox": [
+        0.8,
+        0.513677811550152,
+        0.8766129032258064,
+        0.5264437689969604
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.08807388569133985,
+        0.43418180844368864,
+        0.12440436353901753,
+        0.44829479265696337
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Item"
+    },
+    {
+      "bbox": [
+        0.3291761477713827,
+        0.43418180844368864,
+        0.41614910989158077,
+        0.4499551437408781
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6861248230207019,
+        0.43650381792571724,
+        0.7207458003290859,
+        0.4489584105567499
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.7970693184862052,
+        0.4376899696048632,
+        0.8560823479891326,
+        0.4507376380754689
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 760,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gjbc0069",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06693548387096775,
+          0.4316109422492401,
+          0.8903225806451613,
+          0.8911854103343465
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.06693548387096775,
+            "right": 0.1153225806451613
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.14677419354838708,
+            "right": 0.5306451612903226
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6733870967741935,
+            "right": 0.7620967741935484
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8,
+            "right": 0.8766129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4547112462006079,
+            "row_type": "header",
+            "top": 0.4316109422492401
+          },
+          {
+            "bottom": 0.4851063829787234,
+            "row_type": "gap-with-text",
+            "top": 0.4547112462006079
+          },
+          {
+            "bottom": 0.49969604863221884,
+            "row_type": "data",
+            "top": 0.4851063829787234
+          },
+          {
+            "bottom": 0.513677811550152,
+            "row_type": "data",
+            "top": 0.49969604863221884
+          },
+          {
+            "bottom": 0.5264437689969604,
+            "row_type": "data",
+            "top": 0.513677811550152
+          },
+          {
+            "bottom": 0.7094224924012158,
+            "row_type": "gap",
+            "top": 0.5264437689969604
+          },
+          {
+            "bottom": 0.7993920972644377,
+            "row_type": "gap-with-text",
+            "top": 0.7094224924012158
+          },
+          {
+            "bottom": 0.8522796352583587,
+            "row_type": "gap",
+            "top": 0.7993920972644377
+          },
+          {
+            "bottom": 0.8911854103343465,
+            "row_type": "footer",
+            "top": 0.8522796352583587
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

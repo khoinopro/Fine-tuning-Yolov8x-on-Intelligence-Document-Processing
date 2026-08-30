@@ -1,0 +1,258 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8186181818181819,
+        0.1520221123072447,
+        0.8848,
+        0.16438754727960433
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "CORP9880"
+    },
+    {
+      "bbox": [
+        0.7086545454545455,
+        0.15129473377945882,
+        0.7697454545454546,
+        0.16438754727960433
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "6/11/1999"
+    },
+    {
+      "bbox": [
+        0.14763636363636365,
+        0.09383183008437591,
+        0.3288727272727273,
+        0.11059907834101383
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Indiana Black Expo Inc."
+    },
+    {
+      "bbox": [
+        0.1456,
+        0.09310445155659006,
+        0.3553454545454546,
+        0.15493162641838812
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Indiana Black Expo Inc.\n3145 N. Meridian Street\nIndianapolis, Indiana 46208"
+    },
+    {
+      "bbox": [
+        0.09516129032258064,
+        0.22548734361361655,
+        0.18021818181818183,
+        0.2523041474654378
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R / Reynolds\nMichael Suggs"
+    },
+    {
+      "bbox": [
+        0.09367272727272728,
+        0.22694210066918827,
+        0.2535272727272727,
+        0.2764038405586267
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R 7Reynolds\nMichael Suggs\n401 Nortb Matn Street\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.8349090909090909,
+        0.8837649112598196,
+        0.846109090909091,
+        0.8968577247599652
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8338709677419355,
+        0.8837649112598196,
+        0.8960000000000001,
+        0.897585103287751
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,500.00"
+    },
+    {
+      "bbox": [
+        0.8338709677419355,
+        0.8830375327320338,
+        0.8939636363636365,
+        0.8986175115207373
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,500.00"
+    },
+    {
+      "bbox": [
+        0.616,
+        0.39132964794879255,
+        0.7035636363636365,
+        0.4036950829211522
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due on receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15161290322580645,
+        0.44182027649769584,
+        0.3225806451612903,
+        0.45794930875576034
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Spomorship of Kick-Off Party"
+    },
+    {
+      "bbox": [
+        0.7064516129032258,
+        0.44182027649769584,
+        0.7661290322580645,
+        0.45794930875576034
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,500.00"
+    },
+    {
+      "bbox": [
+        0.8362903225806452,
+        0.44182027649769584,
+        0.9008064516129032,
+        0.45794930875576034
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3421090909090909,
+        0.42115216758801277,
+        0.44087272727272736,
+        0.43569973814373003
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6842181818181818,
+        0.4218795461157987,
+        0.7269818181818183,
+        0.43569973814373003
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.8064,
+        0.4226069246435845,
+        0.8766545454545455,
+        0.4349723596159442
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 384,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lyxf0221",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2367
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04112903225806452,
+          0.41935483870967744,
+          0.9008064516129032,
+          0.9141705069124424
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15161290322580645,
+            "right": 0.3225806451612903
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7064516129032258,
+            "right": 0.7661290322580645
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8362903225806452,
+            "right": 0.9008064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.44182027649769584,
+            "row_type": "header",
+            "top": 0.41935483870967744
+          },
+          {
+            "bottom": 0.45794930875576034,
+            "row_type": "data",
+            "top": 0.44182027649769584
+          },
+          {
+            "bottom": 0.8680875576036866,
+            "row_type": "gap-with-text",
+            "top": 0.45794930875576034
+          },
+          {
+            "bottom": 0.9141705069124424,
+            "row_type": "footer",
+            "top": 0.8680875576036866
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

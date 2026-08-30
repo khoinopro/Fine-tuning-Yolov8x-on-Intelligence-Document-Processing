@@ -1,0 +1,1545 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.1232904169024713,
+        0.17900342532762212,
+        0.29042987172231655,
+        0.19863128284410345
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "57 East 57th Street\nNew York, New York 10022, U.S.A."
+    },
+    {
+      "bbox": [
+        0.11928274428274428,
+        0.18082355619271503,
+        0.288266632016632,
+        0.2016138471268488
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "57 East 57th Street,\nNew York, New York 10022, U.S.A."
+    },
+    {
+      "bbox": [
+        0.08056734578381436,
+        0.22800942024031515,
+        0.29414143557819283,
+        0.25775059937339845
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Wells, John\nPrivate Adjudication"
+    },
+    {
+      "bbox": [
+        0.07895478236371319,
+        0.23110153485222215,
+        0.2923034934497817,
+        0.25951964363457997
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "Wells, John\nPrivate Adjudication"
+    },
+    {
+      "bbox": [
+        0.0788707319373703,
+        0.2278013298844932,
+        0.3358965289568006,
+        0.29670456608194856
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Wel1s, John\nPrivate Adjudication\n110 Swiss Ave\nDurham, NC 27705\nUnited States Of America"
+    },
+    {
+      "bbox": [
+        0.07701965065502184,
+        0.23066948491935,
+        0.3331331877729258,
+        0.29975626614282075
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 1,
+      "text": "We11s, John\nPrivate Adjudication\n110. Swiss Ave\nDurham, NC 27705\nUnited States of America"
+    },
+    {
+      "bbox": [
+        0.8036026200873363,
+        0.5395885715791999,
+        0.8509279475982533,
+        0.552684719129129
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.8047612339766164,
+        0.5388610078264261,
+        0.8527838427947598,
+        0.5518970051363654
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "0.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.39326556543837354,
+        0.20806451612903226,
+        0.4040660736975858
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "17-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.39326556543837354,
+        0.5766129032258065,
+        0.4040660736975858
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Room Charge Transient"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.39326556543837354,
+        0.7588709677419355,
+        0.4040660736975858
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "595.00"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.4040660736975858,
+        0.20806451612903226,
+        0.41804320203303685
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "17-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.4040660736975858,
+        0.5766129032258065,
+        0.41804320203303685
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "State Tax 8.25%"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.4040660736975858,
+        0.7588709677419355,
+        0.41804320203303685
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "49.09"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.41804320203303685,
+        0.20806451612903226,
+        0.4326556543837357
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "17-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.41804320203303685,
+        0.5766129032258065,
+        0.4326556543837357
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Occupancy Tax"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.41804320203303685,
+        0.7588709677419355,
+        0.4326556543837357
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "2.00"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.4326556543837357,
+        0.20806451612903226,
+        0.44599745870393903
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "17-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.4326556543837357,
+        0.5766129032258065,
+        0.44599745870393903
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "City Tax 5%"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.4326556543837357,
+        0.7588709677419355,
+        0.44599745870393903
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "29.75"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.44599745870393903,
+        0.20806451612903226,
+        0.4593392630241423
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "17-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.44599745870393903,
+        0.5766129032258065,
+        0.4593392630241423
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Telephone Local Call"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.44599745870393903,
+        0.7588709677419355,
+        0.4593392630241423
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.4593392630241423,
+        0.20806451612903226,
+        0.4720457433290978
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "17-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.4593392630241423,
+        0.5766129032258065,
+        0.4720457433290978
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Telephone Local Call"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.4593392630241423,
+        0.7588709677419355,
+        0.4720457433290978
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.4720457433290978,
+        0.20806451612903226,
+        0.4834815756035578
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "17-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.4720457433290978,
+        0.5766129032258065,
+        0.4834815756035578
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "5757 Restaurant"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.4720457433290978,
+        0.7588709677419355,
+        0.4834815756035578
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "212.94"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.4834815756035578,
+        0.20806451612903226,
+        0.49809402795425667
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.4834815756035578,
+        0.5766129032258065,
+        0.49809402795425667
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Room Charge Transient"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.4834815756035578,
+        0.7588709677419355,
+        0.49809402795425667
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "595.00"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.49809402795425667,
+        0.20806451612903226,
+        0.5108005082592122
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.49809402795425667,
+        0.5766129032258065,
+        0.5108005082592122
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "State Tax 8.25%"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.49809402795425667,
+        0.7588709677419355,
+        0.5108005082592122
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "49.09"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.5108005082592122,
+        0.20806451612903226,
+        0.525412960609911
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.5108005082592122,
+        0.5766129032258065,
+        0.525412960609911
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "Occupancy Tax"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.5108005082592122,
+        0.7588709677419355,
+        0.525412960609911
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "2.00"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.525412960609911,
+        0.20806451612903226,
+        0.5400254129606099
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.525412960609911,
+        0.5766129032258065,
+        0.5400254129606099
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "City Tax 5%"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.525412960609911,
+        0.7588709677419355,
+        0.5400254129606099
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "29.75"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.5400254129606099,
+        0.20806451612903226,
+        0.5508259212198221
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.5400254129606099,
+        0.5766129032258065,
+        0.5508259212198221
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "Special Calls"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.5400254129606099,
+        0.7588709677419355,
+        0.5508259212198221
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.5508259212198221,
+        0.20806451612903226,
+        0.5660736975857688
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.5508259212198221,
+        0.5766129032258065,
+        0.5660736975857688
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "Lobby Lounge East"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.5508259212198221,
+        0.7588709677419355,
+        0.5660736975857688
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "71.79"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.5660736975857688,
+        0.20806451612903226,
+        0.5787801778907242
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 14,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.5660736975857688,
+        0.5766129032258065,
+        0.5787801778907242
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 14,
+      "page": 0,
+      "text": "Telephone Local Call"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.5660736975857688,
+        0.7588709677419355,
+        0.5787801778907242
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 14,
+      "page": 0,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.5787801778907242,
+        0.20806451612903226,
+        0.590851334180432
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 15,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.5787801778907242,
+        0.5766129032258065,
+        0.590851334180432
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 15,
+      "page": 0,
+      "text": "Telephone Local Call"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.5787801778907242,
+        0.7588709677419355,
+        0.590851334180432
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 15,
+      "page": 0,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.590851334180432,
+        0.20806451612903226,
+        0.6060991105463787
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 16,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.590851334180432,
+        0.5766129032258065,
+        0.6060991105463787
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 16,
+      "page": 0,
+      "text": "Telephone Local Call"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.590851334180432,
+        0.7588709677419355,
+        0.6060991105463787
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 16,
+      "page": 0,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.6060991105463787,
+        0.20806451612903226,
+        0.6194409148665819
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 17,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.6060991105463787,
+        0.5766129032258065,
+        0.6194409148665819
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 17,
+      "page": 0,
+      "text": "Telephone Local Call"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.6060991105463787,
+        0.7588709677419355,
+        0.6194409148665819
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 17,
+      "page": 0,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.6194409148665819,
+        0.20806451612903226,
+        0.6321473951715375
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 18,
+      "page": 0,
+      "text": "18-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.6194409148665819,
+        0.5766129032258065,
+        0.6321473951715375
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 18,
+      "page": 0,
+      "text": "Interstate Call"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.6194409148665819,
+        0.7588709677419355,
+        0.6321473951715375
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 18,
+      "page": 0,
+      "text": "15.94"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.6321473951715375,
+        0.20806451612903226,
+        0.6467598475222364
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 19,
+      "page": 0,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.6321473951715375,
+        0.5766129032258065,
+        0.6467598475222364
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 19,
+      "page": 0,
+      "text": "Room Charge Transient"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.6321473951715375,
+        0.7588709677419355,
+        0.6467598475222364
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 19,
+      "page": 0,
+      "text": "595.00"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.6467598475222364,
+        0.20806451612903226,
+        0.6594663278271918
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 20,
+      "page": 0,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.6467598475222364,
+        0.5766129032258065,
+        0.6594663278271918
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 20,
+      "page": 0,
+      "text": "State Tax 8.25%"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.6467598475222364,
+        0.7588709677419355,
+        0.6594663278271918
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 20,
+      "page": 0,
+      "text": "49.09"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.6594663278271918,
+        0.20806451612903226,
+        0.6734434561626429
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 21,
+      "page": 0,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.6594663278271918,
+        0.5766129032258065,
+        0.6734434561626429
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 21,
+      "page": 0,
+      "text": "Occupancy Tax"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.6594663278271918,
+        0.7588709677419355,
+        0.6734434561626429
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 21,
+      "page": 0,
+      "text": "2.00"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.6734434561626429,
+        0.20806451612903226,
+        0.6867852604828463
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 22,
+      "page": 0,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.6734434561626429,
+        0.5766129032258065,
+        0.6867852604828463
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 22,
+      "page": 0,
+      "text": "City Tax 5%"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.6734434561626429,
+        0.7588709677419355,
+        0.6867852604828463
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 22,
+      "page": 0,
+      "text": "29.75"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.6867852604828463,
+        0.20806451612903226,
+        0.6994917407878017
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 23,
+      "page": 0,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.6867852604828463,
+        0.5766129032258065,
+        0.6994917407878017
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 23,
+      "page": 0,
+      "text": "Special Calls"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.6867852604828463,
+        0.7588709677419355,
+        0.6994917407878017
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 23,
+      "page": 0,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.6994917407878017,
+        0.20806451612903226,
+        0.7147395171537484
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 24,
+      "page": 0,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.6994917407878017,
+        0.5766129032258065,
+        0.7147395171537484
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 24,
+      "page": 0,
+      "text": "Telephone Local/Call"
+    },
+    {
+      "bbox": [
+        0.6879032258064516,
+        0.6994917407878017,
+        0.7588709677419355,
+        0.7147395171537484
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 24,
+      "page": 0,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.39405439595192915,
+        0.2064516129032258,
+        0.4060721062618596
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 26,
+      "page": 1,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.3161290322580645,
+        0.39405439595192915,
+        0.5282258064516129,
+        0.4060721062618596
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 26,
+      "page": 1,
+      "text": "Special Calls"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.39405439595192915,
+        0.757258064516129,
+        0.4060721062618596
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 26,
+      "page": 1,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.4060721062618596,
+        0.2064516129032258,
+        0.4206198608475648
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 27,
+      "page": 1,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.3161290322580645,
+        0.4060721062618596,
+        0.5282258064516129,
+        0.4206198608475648
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 27,
+      "page": 1,
+      "text": "Telephone Local Call"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.4060721062618596,
+        0.757258064516129,
+        0.4206198608475648
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 27,
+      "page": 1,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.4206198608475648,
+        0.2064516129032258,
+        0.43453510436432635
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 28,
+      "page": 1,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.3161290322580645,
+        0.4206198608475648,
+        0.5282258064516129,
+        0.43453510436432635
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 28,
+      "page": 1,
+      "text": "Telephone Local Call"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.4206198608475648,
+        0.757258064516129,
+        0.43453510436432635
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 28,
+      "page": 1,
+      "text": "1.25"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.43453510436432635,
+        0.2064516129032258,
+        0.4459203036053131
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 29,
+      "page": 1,
+      "text": "19-APR-01"
+    },
+    {
+      "bbox": [
+        0.3161290322580645,
+        0.43453510436432635,
+        0.5282258064516129,
+        0.4459203036053131
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 29,
+      "page": 1,
+      "text": "Room Service"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.43453510436432635,
+        0.757258064516129,
+        0.4459203036053131
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 29,
+      "page": 1,
+      "text": "37.81"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.4459203036053131,
+        0.2064516129032258,
+        0.46110056925996207
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 30,
+      "page": 1,
+      "text": "20-APR-01"
+    },
+    {
+      "bbox": [
+        0.3161290322580645,
+        0.4459203036053131,
+        0.5282258064516129,
+        0.46110056925996207
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 30,
+      "page": 1,
+      "text": "Lobby Lounge East"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.4459203036053131,
+        0.757258064516129,
+        0.46110056925996207
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 30,
+      "page": 1,
+      "text": "103.39"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.46110056925996207,
+        0.2064516129032258,
+        0.4731182795698925
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 31,
+      "page": 1,
+      "text": "20-APR-01"
+    },
+    {
+      "bbox": [
+        0.3161290322580645,
+        0.46110056925996207,
+        0.5282258064516129,
+        0.4731182795698925
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 31,
+      "page": 1,
+      "text": "Private Bar"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.46110056925996207,
+        0.757258064516129,
+        0.4731182795698925
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 31,
+      "page": 1,
+      "text": "4.87"
+    },
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.4731182795698925,
+        0.2064516129032258,
+        0.4864010120177103
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 32,
+      "page": 1,
+      "text": "20-APR-01"
+    },
+    {
+      "bbox": [
+        0.3161290322580645,
+        0.4731182795698925,
+        0.5282258064516129,
+        0.4864010120177103
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 32,
+      "page": 1,
+      "text": "Visa/Mastercard"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1379733520336606,
+        0.37928420563945275,
+        0.17175303477293613,
+        0.39202695563129203
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.4724397881704309,
+        0.37928420563945275,
+        0.5390476132901292,
+        0.39277652916022376
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7127037287807709,
+        0.38003377916838443,
+        0.7655317502539054,
+        0.39289077867390776
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Charges"
+    },
+    {
+      "bbox": [
+        0.13749067164179105,
+        0.38276454730322196,
+        0.17031716417910447,
+        0.3943314956810507
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 25,
+      "page": 1,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.47336753731343284,
+        0.38239141993619524,
+        0.538544776119403,
+        0.3950777504151042
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 25,
+      "page": 1,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7131436567164179,
+        0.38239141993619524,
+        0.7648700048146363,
+        0.39517377805300935
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 25,
+      "page": 1,
+      "text": "Charges"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 565,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rzwn0231",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1843,
+        2339
+      ],
+      [
+        1835,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05887096774193548,
+          0.37801778907242695,
+          0.8814516129032258,
+          0.7325285895806861
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.10403225806451613,
+            "right": 0.20806451612903226
+          },
+          {
+            "column_type": "",
+            "left": 0.20806451612903226,
+            "right": 0.2725806451612903
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.31370967741935485,
+            "right": 0.5766129032258065
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6879032258064516,
+            "right": 0.7588709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39326556543837354,
+            "row_type": "header",
+            "top": 0.37801778907242695
+          },
+          {
+            "bottom": 0.4040660736975858,
+            "row_type": "data",
+            "top": 0.39326556543837354
+          },
+          {
+            "bottom": 0.41804320203303685,
+            "row_type": "data",
+            "top": 0.4040660736975858
+          },
+          {
+            "bottom": 0.4326556543837357,
+            "row_type": "data",
+            "top": 0.41804320203303685
+          },
+          {
+            "bottom": 0.44599745870393903,
+            "row_type": "data",
+            "top": 0.4326556543837357
+          },
+          {
+            "bottom": 0.4593392630241423,
+            "row_type": "data",
+            "top": 0.44599745870393903
+          },
+          {
+            "bottom": 0.4720457433290978,
+            "row_type": "data",
+            "top": 0.4593392630241423
+          },
+          {
+            "bottom": 0.4834815756035578,
+            "row_type": "data",
+            "top": 0.4720457433290978
+          },
+          {
+            "bottom": 0.49809402795425667,
+            "row_type": "data",
+            "top": 0.4834815756035578
+          },
+          {
+            "bottom": 0.5108005082592122,
+            "row_type": "data",
+            "top": 0.49809402795425667
+          },
+          {
+            "bottom": 0.525412960609911,
+            "row_type": "data",
+            "top": 0.5108005082592122
+          },
+          {
+            "bottom": 0.5400254129606099,
+            "row_type": "data",
+            "top": 0.525412960609911
+          },
+          {
+            "bottom": 0.5508259212198221,
+            "row_type": "data",
+            "top": 0.5400254129606099
+          },
+          {
+            "bottom": 0.5660736975857688,
+            "row_type": "data",
+            "top": 0.5508259212198221
+          },
+          {
+            "bottom": 0.5787801778907242,
+            "row_type": "data",
+            "top": 0.5660736975857688
+          },
+          {
+            "bottom": 0.590851334180432,
+            "row_type": "data",
+            "top": 0.5787801778907242
+          },
+          {
+            "bottom": 0.6060991105463787,
+            "row_type": "data",
+            "top": 0.590851334180432
+          },
+          {
+            "bottom": 0.6194409148665819,
+            "row_type": "data",
+            "top": 0.6060991105463787
+          },
+          {
+            "bottom": 0.6321473951715375,
+            "row_type": "data",
+            "top": 0.6194409148665819
+          },
+          {
+            "bottom": 0.6467598475222364,
+            "row_type": "data",
+            "top": 0.6321473951715375
+          },
+          {
+            "bottom": 0.6594663278271918,
+            "row_type": "data",
+            "top": 0.6467598475222364
+          },
+          {
+            "bottom": 0.6734434561626429,
+            "row_type": "data",
+            "top": 0.6594663278271918
+          },
+          {
+            "bottom": 0.6867852604828463,
+            "row_type": "data",
+            "top": 0.6734434561626429
+          },
+          {
+            "bottom": 0.6994917407878017,
+            "row_type": "data",
+            "top": 0.6867852604828463
+          },
+          {
+            "bottom": 0.7147395171537484,
+            "row_type": "data",
+            "top": 0.6994917407878017
+          },
+          {
+            "bottom": 0.7325285895806861,
+            "row_type": "gap-with-text",
+            "top": 0.7147395171537484
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.055645161290322584,
+          0.38077166350411135,
+          0.8830645161290323,
+          0.5578747628083491
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.10887096774193548,
+            "right": 0.2064516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.2129032258064516,
+            "right": 0.2782258064516129
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3161290322580645,
+            "right": 0.5282258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6911290322580645,
+            "right": 0.757258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.7741935483870968,
+            "right": 0.8596774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39405439595192915,
+            "row_type": "header",
+            "top": 0.38077166350411135
+          },
+          {
+            "bottom": 0.4060721062618596,
+            "row_type": "data",
+            "top": 0.39405439595192915
+          },
+          {
+            "bottom": 0.4206198608475648,
+            "row_type": "data",
+            "top": 0.4060721062618596
+          },
+          {
+            "bottom": 0.43453510436432635,
+            "row_type": "data",
+            "top": 0.4206198608475648
+          },
+          {
+            "bottom": 0.4459203036053131,
+            "row_type": "data",
+            "top": 0.43453510436432635
+          },
+          {
+            "bottom": 0.46110056925996207,
+            "row_type": "data",
+            "top": 0.4459203036053131
+          },
+          {
+            "bottom": 0.4731182795698925,
+            "row_type": "data",
+            "top": 0.46110056925996207
+          },
+          {
+            "bottom": 0.4864010120177103,
+            "row_type": "data",
+            "top": 0.4731182795698925
+          },
+          {
+            "bottom": 0.5578747628083491,
+            "row_type": "footer",
+            "top": 0.4864010120177103
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

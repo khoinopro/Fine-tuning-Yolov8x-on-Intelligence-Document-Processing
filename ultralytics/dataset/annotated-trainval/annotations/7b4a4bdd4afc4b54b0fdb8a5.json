@@ -1,0 +1,188 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21247824923035738,
+        0.8351565952090837,
+        0.2609188863605943,
+        0.8509299305062732
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2322"
+    },
+    {
+      "bbox": [
+        0.6704624548253245,
+        0.1378091399649184,
+        0.8378028376388703,
+        0.15773335297189453
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "September 7, 1999"
+    },
+    {
+      "bbox": [
+        0.06935818498193014,
+        0.0772063254020326,
+        0.4568832820238255,
+        0.10626246937053947
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "AB Research Associates, Inc."
+    },
+    {
+      "bbox": [
+        0.10678958640074958,
+        0.9464001178313672,
+        0.44697496988354973,
+        0.9654941552963859
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "41 Kenosia Avenue, Danbury, CT 06810"
+    },
+    {
+      "bbox": [
+        0.0935785035470486,
+        0.20422318332150557,
+        0.33247891848480793,
+        0.2424112582515432
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.09467942711819034,
+        0.2033870257300065,
+        0.3423872306250837,
+        0.2731277533039647
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company\nPO BOX 10529\nGreensboro NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.7409215633783964,
+        0.5147088360135506,
+        0.7530317226609557,
+        0.5321425223946548
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7398206398072548,
+        0.5147088360135506,
+        0.8146834426448937,
+        0.5313123468526975
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$26,730"
+    },
+    {
+      "bbox": [
+        0.7409215633783964,
+        0.515539011555508,
+        0.8135825190737518,
+        0.53048217131074
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$26,730"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.4127659574468085,
+        0.41693548387096774,
+        0.4297872340425532
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Estimated Cost of Study"
+    },
+    {
+      "bbox": [
+        0.7419354838709677,
+        0.4127659574468085,
+        0.8209677419354838,
+        0.4297872340425532
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$40,500"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1006,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zxkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14838709677419354,
+          0.4127659574468085,
+          0.8209677419354838,
+          0.5343465045592705
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2064516129032258,
+            "right": 0.41693548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7419354838709677,
+            "right": 0.8209677419354838
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4297872340425532,
+            "row_type": "data",
+            "top": 0.4127659574468085
+          },
+          {
+            "bottom": 0.4613981762917933,
+            "row_type": "gap",
+            "top": 0.4297872340425532
+          },
+          {
+            "bottom": 0.5343465045592705,
+            "row_type": "footer",
+            "top": 0.4613981762917933
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6875353342201529,
+        0.35895533869163704,
+        0.7939162786830728,
+        0.3815400479835675
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "718231"
+    },
+    {
+      "bbox": [
+        0.001612903225806452,
+        0.41786784976236896,
+        0.09354838709677418,
+        0.4324575154158644
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05/10/01"
+    },
+    {
+      "bbox": [
+        0.005399900232790156,
+        0.35843974403219964,
+        0.21677128367143333,
+        0.37019696547594794
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.0064516129032258064,
+        0.3588538829683284,
+        0.2154036415031593,
+        0.3872115892373773
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY\n714 Green Valley Road\nGreensboro, N.C. 27408"
+    },
+    {
+      "bbox": [
+        0.7241415862986365,
+        0.6273173693029909,
+        0.8390484702361156,
+        0.6419153509993805
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0000011135"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.0016129032258064516,
+        0.41033434650455924,
+        0.0935483870967742,
+        0.435258358662614
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5/10/01"
+    },
+    {
+      "bbox": [
+        0.11209677419354838,
+        0.41033434650455924,
+        0.2870967741935484,
+        0.435258358662614
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4TH INSTALLMENT"
+    },
+    {
+      "bbox": [
+        0.29516129032258065,
+        0.41033434650455924,
+        0.3467741935483871,
+        0.435258358662614
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "D886"
+    },
+    {
+      "bbox": [
+        0.42096774193548386,
+        0.41033434650455924,
+        0.5298387096774193,
+        0.435258358662614
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "64,746.00"
+    },
+    {
+      "bbox": [
+        0.7290322580645161,
+        0.41033434650455924,
+        0.839516129032258,
+        0.435258358662614
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "64,746.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.018024609245094785,
+        0.3974760809816257,
+        0.09915405719986697,
+        0.40835097027430467
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE DATE"
+    },
+    {
+      "bbox": [
+        0.14081725972730294,
+        0.39747608098162573,
+        0.2967783505154639,
+        0.40886656493374196
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE # OR DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.3204626704356502,
+        0.39747608098162573,
+        0.38362362820086465,
+        0.4073197809554302
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BATCH NO."
+    },
+    {
+      "bbox": [
+        0.44927045227801793,
+        0.39696048632218844,
+        0.4957702859993348,
+        0.40783537561486743
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS"
+    },
+    {
+      "bbox": [
+        0.8137470901230462,
+        0.39696048632218844,
+        0.839516129032258,
+        0.41033434650455924
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1163,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xrwy0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0016129032258064516,
+          0.39696048632218844,
+          0.967741935483871,
+          0.6449848024316109
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.0016129032258064516,
+            "right": 0.0935483870967742
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.11209677419354838,
+            "right": 0.2870967741935484
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.29516129032258065,
+            "right": 0.3467741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.42096774193548386,
+            "right": 0.5298387096774193
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7290322580645161,
+            "right": 0.839516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41033434650455924,
+            "row_type": "header",
+            "top": 0.39696048632218844
+          },
+          {
+            "bottom": 0.435258358662614,
+            "row_type": "data",
+            "top": 0.41033434650455924
+          },
+          {
+            "bottom": 0.6449848024316109,
+            "row_type": "gap-with-text",
+            "top": 0.435258358662614
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.327775901795646,
+        0.14532337231267964,
+        0.3525137057047513,
+        0.16010202034447757
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2499"
+    },
+    {
+      "bbox": [
+        0.9138151214559087,
+        0.10170861886804244,
+        0.9615168319925016,
+        0.11866005534604951
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/5/2020"
+    },
+    {
+      "bbox": [
+        0.5499726626571897,
+        0.14287639317177392,
+        0.5976743731937827,
+        0.1622494634323534
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Statenets"
+    },
+    {
+      "bbox": [
+        0.06612903225806452,
+        0.1440501043841336,
+        0.23870967741935484,
+        0.16079648685792988
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "No on EE \u2013 A Bad Deal for Colorado"
+    },
+    {
+      "bbox": [
+        0.7866105600249941,
+        0.14626668416249525,
+        0.9147504491134889,
+        0.16563975442307474
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Commercial Space Experts"
+    },
+    {
+      "bbox": [
+        0.7866105600249941,
+        0.1438450503799228,
+        0.9166211044286494,
+        0.22739141587867193
+      ],
+      "fieldtype": "customer_other_address",
+      "page": 0,
+      "text": "Commercial Space Experts\n2400 Laramie Trail\nAustin, TX 78745"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.01532258064516129,
+        0.42171189979123175,
+        0.025806451612903226,
+        0.4384133611691023
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.757258064516129,
+        0.42171189979123175,
+        0.775,
+        0.4384133611691023
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.01712617193707294,
+        0.34729822874725136,
+        0.03758243286191006,
+        0.37808707881349707
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\nNo"
+    },
+    {
+      "bbox": [
+        0.7464156602574289,
+        0.34914555975122613,
+        0.7778136421420627,
+        0.3817817408214465
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 326,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "f67c5843-352d-473f-a09d-e6a51309ef63",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.01532258064516129,
+          0.33924843423799583,
+          0.9733870967741935,
+          0.48329853862212946
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.01532258064516129,
+            "right": 0.025806451612903226
+          },
+          {
+            "column_type": "",
+            "left": 0.050806451612903224,
+            "right": 0.16774193548387098
+          },
+          {
+            "column_type": "",
+            "left": 0.3338709677419355,
+            "right": 0.34838709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.38032258064516133,
+            "right": 0.3935483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.4080645161290323,
+            "right": 0.41854838709677417
+          },
+          {
+            "column_type": "",
+            "left": 0.43548387096774194,
+            "right": 0.44516129032258067
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.757258064516129,
+            "right": 0.775
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40187891440501045,
+            "row_type": "header",
+            "top": 0.33924843423799583
+          },
+          {
+            "bottom": 0.42171189979123175,
+            "row_type": "subsection-header",
+            "top": 0.40187891440501045
+          },
+          {
+            "bottom": 0.4384133611691023,
+            "row_type": "data",
+            "top": 0.42171189979123175
+          },
+          {
+            "bottom": 0.48329853862212946,
+            "row_type": "footer",
+            "top": 0.4384133611691023
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

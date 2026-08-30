@@ -1,0 +1,315 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8265353598014888,
+        0.09472880061115356,
+        0.8942537450601967,
+        0.10541249992820095
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/27/2020"
+    },
+    {
+      "bbox": [
+        0.12616027938608584,
+        0.06552668914455735,
+        0.175325682382134,
+        0.07834712832501423
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WCWG"
+    },
+    {
+      "bbox": [
+        0.5370967741935484,
+        0.09659442724458205,
+        0.6096774193548387,
+        0.10402476780185758
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "26809467"
+    },
+    {
+      "bbox": [
+        0.12523263027295287,
+        0.09472880061115356,
+        0.1688321385902031,
+        0.10470025330706445
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GMMB"
+    },
+    {
+      "bbox": [
+        0.8636413243268083,
+        0.702275168440582,
+        0.8998196397389946,
+        0.713671114378766
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "12.75"
+    },
+    {
+      "bbox": [
+        0.8636413243268083,
+        0.6887424826389886,
+        0.9007472888521275,
+        0.700850675198309
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "15.00"
+    },
+    {
+      "bbox": [
+        0.8627136752136753,
+        0.6894547292601252,
+        0.9007472888521275,
+        0.7001384285771725
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "15.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07096774193548387,
+        0.13622291021671826,
+        0.08225806451612903,
+        0.1523219814241486
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8"
+    },
+    {
+      "bbox": [
+        0.15725806451612903,
+        0.13622291021671826,
+        0.21935483870967742,
+        0.1523219814241486
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/24/2020"
+    },
+    {
+      "bbox": [
+        0.4290322580645161,
+        0.13622291021671826,
+        0.4403225806451613,
+        0.1523219814241486
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6838709677419355,
+        0.13622291021671826,
+        0.7120967741935483,
+        0.1523219814241486
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5.00"
+    },
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.13622291021671826,
+        0.7701612903225806,
+        0.1523219814241486
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3"
+    },
+    {
+      "bbox": [
+        0.8661290322580645,
+        0.13622291021671826,
+        0.9,
+        0.1523219814241486
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "15.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.0463824556566492,
+        0.12464315869888626,
+        0.1103902444628251,
+        0.13603910463707014
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Our Line #"
+    },
+    {
+      "bbox": [
+        0.17161508592960206,
+        0.12535540532002276,
+        0.2050104540023895,
+        0.13603910463707014
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.641005537174892,
+        0.12393091207774976,
+        0.7096515715467329,
+        0.13675135125820664
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Difference"
+    },
+    {
+      "bbox": [
+        0.7328427993750575,
+        0.12464315869888626,
+        0.7959229390681004,
+        0.13603910463707014
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "# Of Spots"
+    },
+    {
+      "bbox": [
+        0.8376671491590846,
+        0.12393091207774976,
+        0.8821943065894678,
+        0.13603910463707014
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rebate"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 920,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "c60ce9b5-2953-415a-86dc-6a29c4017d2e",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1689,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.031451612903225803,
+          0.1238390092879257,
+          0.9088709677419354,
+          0.7188854489164087
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.07096774193548387,
+            "right": 0.08225806451612903
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.15725806451612903,
+            "right": 0.21935483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.31209677419354837,
+            "right": 0.36612903225806454
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.4290322580645161,
+            "right": 0.4403225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.4975806451612903,
+            "right": 0.532258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.592741935483871,
+            "right": 0.625
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6838709677419355,
+            "right": 0.7120967741935483
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7596774193548387,
+            "right": 0.7701612903225806
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8661290322580645,
+            "right": 0.9
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": true,
+        "rows": [
+          {
+            "bottom": 0.13622291021671826,
+            "row_type": "header",
+            "top": 0.1238390092879257
+          },
+          {
+            "bottom": 0.1523219814241486,
+            "row_type": "data",
+            "top": 0.13622291021671826
+          },
+          {
+            "bottom": 0.6873065015479877,
+            "row_type": "gap-with-text",
+            "top": 0.1523219814241486
+          },
+          {
+            "bottom": 0.7188854489164087,
+            "row_type": "footer",
+            "top": 0.6873065015479877
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

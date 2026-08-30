@@ -1,0 +1,263 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.572940336854125,
+        0.059317604791103214,
+        0.6283200114187839,
+        0.07790968987488184
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KDVC-FM"
+    },
+    {
+      "bbox": [
+        0.7917242363688267,
+        0.0610882795609869,
+        0.9619654581787039,
+        0.07790968987488184
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Thompson Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.7930916357407936,
+        0.06197361694592873,
+        0.9626491578646873,
+        0.11952054696714827
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Thompson Communications, Inc.\n200 West Jefferson\nMarshfield, MO 65706"
+    },
+    {
+      "bbox": [
+        0.24749928632600632,
+        0.4355859933913848,
+        0.25638738224379104,
+        0.45417807847516345
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.2461318869540394,
+        0.4152232335377225,
+        0.3008278618327148,
+        0.43115930646667566
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,530.00"
+    },
+    {
+      "bbox": [
+        0.2467741935483871,
+        0.43647133077632666,
+        0.3015115615186983,
+        0.45240740370527976
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,300.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.02661290322580645,
+        0.29958246346555323,
+        0.037096774193548385,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.1967741935483871,
+        0.29958246346555323,
+        0.21451612903225806,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "RT"
+    },
+    {
+      "bbox": [
+        0.26129032258064516,
+        0.29958246346555323,
+        0.3008064516129032,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$34.00"
+    },
+    {
+      "bbox": [
+        0.8491935483870968,
+        0.29958246346555323,
+        0.864516129032258,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "45"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.019827290893519842,
+        0.2576331790180752,
+        0.04580787896089067,
+        0.2957026865705743
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\nNo"
+    },
+    {
+      "bbox": [
+        0.18459891521552954,
+        0.2594038537879589,
+        0.226988295746503,
+        0.29747336134045793
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Daypar\nCode"
+    },
+    {
+      "bbox": [
+        0.2666428775335427,
+        0.25851851640301704,
+        0.3015115615186983,
+        0.2771106014867956
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross"
+    },
+    {
+      "bbox": [
+        0.8402669140736512,
+        0.25851851640301704,
+        0.87376819868684,
+        0.29747336134045793
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "815c91a2-261c-4da9-a85f-733c5747da00",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.017741935483870968,
+          0.255741127348643,
+          0.9822580645161291,
+          0.37160751565762007
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.02661290322580645,
+            "right": 0.037096774193548385
+          },
+          {
+            "column_type": "",
+            "left": 0.04758064516129032,
+            "right": 0.175
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.1967741935483871,
+            "right": 0.21451612903225806
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.26129032258064516,
+            "right": 0.3008064516129032
+          },
+          {
+            "column_type": "",
+            "left": 0.31048387096774194,
+            "right": 0.3209677419354839
+          },
+          {
+            "column_type": "",
+            "left": 0.33306451612903226,
+            "right": 0.34919354838709676
+          },
+          {
+            "column_type": "",
+            "left": 0.36774193548387096,
+            "right": 0.3758064516129032
+          },
+          {
+            "column_type": "",
+            "left": 0.40161290322580645,
+            "right": 0.4104838709677419
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8491935483870968,
+            "right": 0.864516129032258
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.29958246346555323,
+            "row_type": "header",
+            "top": 0.255741127348643
+          },
+          {
+            "bottom": 0.32045929018789143,
+            "row_type": "data",
+            "top": 0.29958246346555323
+          },
+          {
+            "bottom": 0.37160751565762007,
+            "row_type": "footer",
+            "top": 0.32045929018789143
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

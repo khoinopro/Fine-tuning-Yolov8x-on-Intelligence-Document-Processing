@@ -1,0 +1,365 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8312745648512072,
+        0.09541764456927398,
+        0.908741011754904,
+        0.11001093138575117
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3021-2143"
+    },
+    {
+      "bbox": [
+        0.8454270888047671,
+        0.11169477217226778,
+        0.908741011754904,
+        0.12516549846440056
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "06/28/99"
+    },
+    {
+      "bbox": [
+        0.05288574740540834,
+        0.11057221164792339,
+        0.48639990219340346,
+        0.1458966565349544
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Applied Graphics Technologies, Inc.\nDigital Imaging Systems"
+    },
+    {
+      "bbox": [
+        0.05288574740540834,
+        0.11113349191009557,
+        0.4856550325116372,
+        0.17624200232207077
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Applied Graphics Technologies, Inc.\nDigital Imaging Systems\n1580 Emerson Street\nRochester, NY 14606"
+    },
+    {
+      "bbox": [
+        0.15080645161290324,
+        0.9373860182370821,
+        0.37338709677419357,
+        0.9501071637919914
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Applied Graphics Technologies, Inc."
+    },
+    {
+      "bbox": [
+        0.15120854539856188,
+        0.9371977177620308,
+        0.7255030700403906,
+        0.9501071637919914
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Applied Graphics Technologies, Inc., Department 5231, PO BOX 30000, Hartford, CT 06150-5231"
+    },
+    {
+      "bbox": [
+        0.8379783919871041,
+        0.14986182999997738,
+        0.9102307511184364,
+        0.162771276029938
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "21000162"
+    },
+    {
+      "bbox": [
+        0.33146700838601006,
+        0.20991881805240276,
+        0.428300067015631,
+        0.22451210486887996
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.33146700838601006,
+        0.21048009831457495,
+        0.5154498197822898,
+        0.255382519288351
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris\n120 Park Avenue\nNew York NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.8536206553041966,
+        0.5702607463669551,
+        0.8655385702124577,
+        0.5831701923969157
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8717741935483871,
+        0.5450031345692061,
+        0.9295973628443608,
+        0.5584738608613389
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$742.50"
+    },
+    {
+      "bbox": [
+        0.8524193548387097,
+        0.5708220266291273,
+        0.9273627537990617,
+        0.58429275292126
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$9,742.50"
+    },
+    {
+      "bbox": [
+        0.854365524985963,
+        0.5708220266291273,
+        0.9273627537990617,
+        0.5848540331834323
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$9,742.50"
+    },
+    {
+      "bbox": [
+        0.8126528228070493,
+        0.12572677872657279,
+        0.9094858814366702,
+        0.13975878528087776
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05806451612903226,
+        0.4601823708206687,
+        0.19274193548387097,
+        0.47416413373860183
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Extract Application"
+    },
+    {
+      "bbox": [
+        0.5629032258064516,
+        0.4601823708206687,
+        0.6129032258064516,
+        0.47416413373860183
+      ],
+      "fieldtype": "line_item_tax",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "742.50"
+    },
+    {
+      "bbox": [
+        0.6975806451612904,
+        0.4601823708206687,
+        0.7112903225806452,
+        0.47416413373860183
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7411290322580645,
+        0.4601823708206687,
+        0.8096774193548387,
+        0.47416413373860183
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$9000.00"
+    },
+    {
+      "bbox": [
+        0.8637096774193549,
+        0.4601823708206687,
+        0.9379032258064516,
+        0.47416413373860183
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$9,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.05806451612903226,
+        0.41398176291793315,
+        0.14673932730796402,
+        0.4279060398735309
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.5363061708717466,
+        0.4133127530570537,
+        0.6145174874572097,
+        0.4273447596113587
+      ],
+      "fieldtype": "line_item_tax",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Sales Tax"
+    },
+    {
+      "bbox": [
+        0.651016101863759,
+        0.4133127530570537,
+        0.71954411258626,
+        0.4279060398735309
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.7515735089022115,
+        0.4138740333192259,
+        0.7970105594899567,
+        0.4273447596113587
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price"
+    },
+    {
+      "bbox": [
+        0.8752218760754198,
+        0.4133127530570537,
+        0.9191691872996323,
+        0.4279060398735309
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 795,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nzjm0070",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05806451612903226,
+          0.41398176291793315,
+          0.9379032258064516,
+          0.5884498480243161
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05806451612903226,
+            "right": 0.19274193548387097
+          },
+          {
+            "column_type": "line_item_tax",
+            "left": 0.5629032258064516,
+            "right": 0.6129032258064516
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6975806451612904,
+            "right": 0.7112903225806452
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.7411290322580645,
+            "right": 0.8096774193548387
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8637096774193549,
+            "right": 0.9379032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42735562310030395,
+            "row_type": "header",
+            "top": 0.41398176291793315
+          },
+          {
+            "bottom": 0.4601823708206687,
+            "row_type": "gap",
+            "top": 0.42735562310030395
+          },
+          {
+            "bottom": 0.47416413373860183,
+            "row_type": "data",
+            "top": 0.4601823708206687
+          },
+          {
+            "bottom": 0.48936170212765956,
+            "row_type": "gap",
+            "top": 0.47416413373860183
+          },
+          {
+            "bottom": 0.5884498480243161,
+            "row_type": "footer",
+            "top": 0.48936170212765956
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

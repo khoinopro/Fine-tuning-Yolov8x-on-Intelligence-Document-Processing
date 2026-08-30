@@ -1,0 +1,335 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.26261603476649253,
+        0.43099487584327256,
+        0.31143172122896995,
+        0.44536137170471496
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "92999"
+    },
+    {
+      "bbox": [
+        0.06226783968719453,
+        0.8978445489601676,
+        0.5192693059628545,
+        0.9165682187994562
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "901 West Pratt Street Baltimore, Maryland 21223-2699"
+    },
+    {
+      "bbox": [
+        0.3847262952101662,
+        0.7435971736174577,
+        0.5659701857282503,
+        0.7596460334797049
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "B&0 Railroad Museum"
+    },
+    {
+      "bbox": [
+        0.38249253063637384,
+        0.7614242806564483,
+        0.596292878940389,
+        0.8129455071940348
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Attention: Kathy Hargest\n901 West Pratt Street\nBaltimore, Md 21223-2699"
+    },
+    {
+      "bbox": [
+        0.2447327168394863,
+        0.2558901544702762,
+        0.35653107157752434,
+        0.2732764193210441
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Phillip Morris"
+    },
+    {
+      "bbox": [
+        0.24640134899975555,
+        0.29110848583465215,
+        0.4432999439115241,
+        0.32454361054766734
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "1901 East Franklin Street\nRichmond VA. 23223"
+    },
+    {
+      "bbox": [
+        0.5800466153222538,
+        0.7095634395937733,
+        0.5911721824862376,
+        0.7241518369811952
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5795409077238908,
+        0.7091582063330116,
+        0.6447771879127058,
+        0.7252747252747253
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$400.00"
+    },
+    {
+      "bbox": [
+        0.5800466153222538,
+        0.7095634395937733,
+        0.64376577271598,
+        0.7249623035027187
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$400.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.48028442146089206,
+        0.4645161290322581,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Basic Rental of Facility for First 200 Guest"
+    },
+    {
+      "bbox": [
+        0.5766129032258065,
+        0.48028442146089206,
+        0.5903225806451613,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.5158371040723982,
+        0.4645161290322581,
+        0.5365223012281836
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "above 200 @$6.00/pp"
+    },
+    {
+      "bbox": [
+        0.5766129032258065,
+        0.5158371040723982,
+        0.5903225806451613,
+        0.5365223012281836
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.5507433742727861,
+        0.4645161290322581,
+        0.5694893341952165
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Rental of Lanterns@5.00/each"
+    },
+    {
+      "bbox": [
+        0.5766129032258065,
+        0.5507433742727861,
+        0.5903225806451613,
+        0.5694893341952165
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.5869424692954105,
+        0.4645161290322581,
+        0.6224951519069166
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Other Charges, Security/Ttrash Removal/\nCuratorial Damage$25.00"
+    },
+    {
+      "bbox": [
+        0.5766129032258065,
+        0.5869424692954105,
+        0.5903225806451613,
+        0.6224951519069166
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5903225806451613,
+        0.5869424692954105,
+        0.6427419354838709,
+        0.6224951519069166
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "400.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.41200990223882994,
+        0.3925097751710655,
+        0.42857142857142855
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CATERED EVENTS INVOICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 892,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "znxk0009",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13064516129032258,
+          0.3956043956043956,
+          0.8483870967741935,
+          0.7272139625080801
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13064516129032258,
+            "right": 0.4645161290322581
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.5766129032258065,
+            "right": 0.5903225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5903225806451613,
+            "right": 0.6427419354838709
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42857142857142855,
+            "row_type": "header",
+            "top": 0.3956043956043956
+          },
+          {
+            "bottom": 0.4460245636716225,
+            "row_type": "gap-with-text",
+            "top": 0.42857142857142855
+          },
+          {
+            "bottom": 0.48028442146089206,
+            "row_type": "gap",
+            "top": 0.4460245636716225
+          },
+          {
+            "bottom": 0.49967679379444085,
+            "row_type": "data",
+            "top": 0.48028442146089206
+          },
+          {
+            "bottom": 0.5158371040723982,
+            "row_type": "gap",
+            "top": 0.49967679379444085
+          },
+          {
+            "bottom": 0.5365223012281836,
+            "row_type": "data",
+            "top": 0.5158371040723982
+          },
+          {
+            "bottom": 0.5507433742727861,
+            "row_type": "gap",
+            "top": 0.5365223012281836
+          },
+          {
+            "bottom": 0.5694893341952165,
+            "row_type": "data",
+            "top": 0.5507433742727861
+          },
+          {
+            "bottom": 0.5869424692954105,
+            "row_type": "gap",
+            "top": 0.5694893341952165
+          },
+          {
+            "bottom": 0.6224951519069166,
+            "row_type": "data",
+            "top": 0.5869424692954105
+          },
+          {
+            "bottom": 0.636716224951519,
+            "row_type": "gap",
+            "top": 0.6224951519069166
+          },
+          {
+            "bottom": 0.7272139625080801,
+            "row_type": "footer",
+            "top": 0.636716224951519
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

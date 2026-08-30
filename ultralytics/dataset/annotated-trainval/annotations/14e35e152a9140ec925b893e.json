@@ -1,0 +1,200 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5058216120609786,
+        0.1540711338590902,
+        0.5388612819001095,
+        0.16817255966992217
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "64697"
+    },
+    {
+      "bbox": [
+        0.5046416238524383,
+        0.18070716039066173,
+        0.5715076223363935,
+        0.1948085862014937
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "06-05-2000"
+    },
+    {
+      "bbox": [
+        0.1734582666554367,
+        0.18070716039066173,
+        0.3543897919649625,
+        0.1942863111714629
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "KATZ KUTTER HAIGLER ALDERMAN"
+    },
+    {
+      "bbox": [
+        0.17308458586036155,
+        0.17980121683651798,
+        0.3543787172951276,
+        0.24609156445806252
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "KATZ KUTTER HAIGLER ALDERMAN\nBRYANT & YON \nPO BOX 1077\nTALLAHASSEE FL 323021877"
+    },
+    {
+      "bbox": [
+        0.4405289311884107,
+        0.3640256959314775,
+        0.48654847132148576,
+        0.37708257168224785
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1677.25"
+    },
+    {
+      "bbox": [
+        0.44170891939695106,
+        0.3640256959314775,
+        0.48654847132148576,
+        0.37708257168224785
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1677.25"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07661290322580645,
+        0.3372591006423983,
+        0.14758064516129032,
+        0.3511777301927195
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "FL/EXPENSE5"
+    },
+    {
+      "bbox": [
+        0.43951612903225806,
+        0.3372591006423983,
+        0.4870967741935484,
+        0.3511777301927195
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1677.25"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2245878589040817,
+        0.29685198352950287,
+        0.2521855195321256,
+        0.31137878272349984
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM"
+    },
+    {
+      "bbox": [
+        0.41967477024025435,
+        0.29685198352950287,
+        0.4615470829172866,
+        0.3120103826884562
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 768,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "glwl0083",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07661290322580645,
+          0.2944325481798715,
+          0.667741935483871,
+          0.3822269807280514
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07661290322580645,
+            "right": 0.14758064516129032
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.43951612903225806,
+            "right": 0.4870967741935484
+          },
+          {
+            "column_type": "",
+            "left": 0.4870967741935484,
+            "right": 0.5887096774193549
+          },
+          {
+            "column_type": "",
+            "left": 0.5887096774193549,
+            "right": 0.6072580645161291
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3169164882226981,
+            "row_type": "header",
+            "top": 0.2944325481798715
+          },
+          {
+            "bottom": 0.3372591006423983,
+            "row_type": "gap",
+            "top": 0.3169164882226981
+          },
+          {
+            "bottom": 0.3511777301927195,
+            "row_type": "data",
+            "top": 0.3372591006423983
+          },
+          {
+            "bottom": 0.35653104925053536,
+            "row_type": "gap",
+            "top": 0.3511777301927195
+          },
+          {
+            "bottom": 0.3822269807280514,
+            "row_type": "footer",
+            "top": 0.35653104925053536
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

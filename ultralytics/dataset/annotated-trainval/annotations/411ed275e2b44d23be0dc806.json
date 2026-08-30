@@ -1,0 +1,229 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3292966684294025,
+        0.14709768582785246,
+        0.35462718138551036,
+        0.16348203085044702
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1252"
+    },
+    {
+      "bbox": [
+        0.9137096774193548,
+        0.10372736076804338,
+        0.961814477245155,
+        0.12107549079196701
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/3/2018"
+    },
+    {
+      "bbox": [
+        0.07152144834665755,
+        0.1445677501993636,
+        0.20115407347497433,
+        0.16191588022328723
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr Jim Maxwell for Congress"
+    },
+    {
+      "bbox": [
+        0.2167993903008057,
+        0.5185163307150508,
+        0.22499455625719356,
+        0.5349006757376453
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.2161290322580645,
+        0.5185163307150508,
+        0.26448035586524404,
+        0.5358644607389744
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$4,750.00"
+    },
+    {
+      "bbox": [
+        0.2161290322580645,
+        0.5165887607123926,
+        0.26448035586524404,
+        0.5377920307416326
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$4,750.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05241935483870968,
+        0.46242171189979125,
+        0.17096774193548386,
+        0.5
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "MTuWThF 10:00p-10:30p\n13WHAM NW10FOX"
+    },
+    {
+      "bbox": [
+        0.22258064516129034,
+        0.46242171189979125,
+        0.2645161290322581,
+        0.5
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$475.00"
+    },
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.46242171189979125,
+        0.775,
+        0.5
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.05438610134693751,
+        0.3900919792879494,
+        0.10206706691137588,
+        0.42286066933313854
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Daypart\nProgram"
+    },
+    {
+      "bbox": [
+        0.22201449590941616,
+        0.3881644092852913,
+        0.25628518990885624,
+        0.42189688433180944
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "STN\nGross"
+    },
+    {
+      "bbox": [
+        0.7479951472921268,
+        0.3891281942866203,
+        0.7792857809437895,
+        0.42189688433180944
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 326,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "4563297a-83c7-49d3-865c-70a636b6672d",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1807
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.017741935483870968,
+          0.3862212943632568,
+          0.9701612903225807,
+          0.5438413361169102
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05241935483870968,
+            "right": 0.17096774193548386
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.22258064516129034,
+            "right": 0.2645161290322581
+          },
+          {
+            "column_type": "",
+            "left": 0.3346774193548387,
+            "right": 0.35080645161290325
+          },
+          {
+            "column_type": "",
+            "left": 0.38225806451612904,
+            "right": 0.392741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.4096774193548387,
+            "right": 0.42096774193548386
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7596774193548387,
+            "right": 0.775
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4363256784968685,
+            "row_type": "header",
+            "top": 0.3862212943632568
+          },
+          {
+            "bottom": 0.46242171189979125,
+            "row_type": "gap-with-text",
+            "top": 0.4363256784968685
+          },
+          {
+            "bottom": 0.5,
+            "row_type": "data",
+            "top": 0.46242171189979125
+          },
+          {
+            "bottom": 0.5438413361169102,
+            "row_type": "footer",
+            "top": 0.5
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4727716337019779,
+        0.165,
+        0.5023698578085315,
+        0.17732
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "009"
+    },
+    {
+      "bbox": [
+        0.152790832550047,
+        0.34162,
+        0.27358358498490093,
+        0.35836
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 2, 1999"
+    },
+    {
+      "bbox": [
+        0.15359078455292682,
+        0.23684000000000002,
+        0.3423794572325661,
+        0.26625
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Inc.\nYouth Smoking Prevention"
+    },
+    {
+      "bbox": [
+        0.152790832550047,
+        0.2364091273018415,
+        0.34440639955147073,
+        0.32674
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Inc.\nYouth Smoking Prevention\n120 Park Av\nNew Yor, NY 10017\nAttn: Denise Cusato"
+    },
+    {
+      "bbox": [
+        0.2567845929244245,
+        0.7498900000000001,
+        0.26798392096474216,
+        0.76291
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.25564516129032255,
+        0.75051,
+        0.32958022518648883,
+        0.7647700000000001
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$8,798.70"
+    },
+    {
+      "bbox": [
+        0.25564516129032255,
+        0.7498900000000001,
+        0.32958022518648883,
+        0.7647700000000001
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$8,798.70"
+    }
+  ],
+  "line_item_extractions": [],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 626,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pqgd0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1712,
+        2210
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1403225806451613,
+          0.495625,
+          0.4620967741935484,
+          0.70625
+        ],
+        "columns": [],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.508125,
+            "row_type": "data",
+            "top": 0.495625
+          },
+          {
+            "bottom": 0.523125,
+            "row_type": "data",
+            "top": 0.508125
+          },
+          {
+            "bottom": 0.53875,
+            "row_type": "data",
+            "top": 0.523125
+          },
+          {
+            "bottom": 0.70625,
+            "row_type": "data",
+            "top": 0.53875
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.16245080140084167,
+        0.23981700721860014,
+        0.291813598102348,
+        0.25341648078736523
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 16, 2002"
+    },
+    {
+      "bbox": [
+        0.3587674133361487,
+        0.18114499267907083,
+        0.6594269810411709,
+        0.19296247895578067
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "UNIVERSITY OF SOUTH CAROLINA"
+    },
+    {
+      "bbox": [
+        0.3590060691719321,
+        0.18200491478135047,
+        0.6578358829398071,
+        0.21087821570983664
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "UNIVERSITY OF SOUTH CAROLINA\nCOLUMBIA, S.C. 29208"
+    },
+    {
+      "bbox": [
+        0.7044626715546878,
+        0.2994223425108328,
+        0.869340499005829,
+        0.3108628054600324
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "University of South Carolina"
+    },
+    {
+      "bbox": [
+        0.6906592949783837,
+        0.2985293078141697,
+        0.8834968407050215,
+        0.3490575844390206
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "University of South Carolina\nFinancial Services\nAccounts Receivable\nColumbia, South Carolina 29208"
+    },
+    {
+      "bbox": [
+        0.16411879780260094,
+        0.2685966506754893,
+        0.3399603682556083,
+        0.29751559868596616
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DR. BRUCE D. DAVIES\nPHILLIP MORRIS, USA"
+    },
+    {
+      "bbox": [
+        0.16480088127702028,
+        0.26810922290737177,
+        0.34532964748919187,
+        0.32327785146715793
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DR. BRUCE D. DAVIES\nPHILLIP MORRIS, USA\n4201 COMMERCE RD.\nRICHMOND, VA. 23234"
+    },
+    {
+      "bbox": [
+        0.6096684422408982,
+        0.815514318378326,
+        0.6214755500890619,
+        0.8279081532399588
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6105118070871957,
+        0.8158321090158037,
+        0.6956916565632327,
+        0.82917931578987
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$61,869.38"
+    },
+    {
+      "bbox": [
+        0.6095841263462305,
+        0.8151965277408482,
+        0.6951856582454163,
+        0.8279635258358663
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$61,869.38"
+    },
+    {
+      "bbox": [
+        0.2713948101122478,
+        0.3575780291692642,
+        0.36627335532070504,
+        0.3687007014809861
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 20 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.45241935483870965,
+        0.886322188449848,
+        0.5411290322580645,
+        0.8996960486322189
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$16,256.25"
+    },
+    {
+      "bbox": [
+        0.45241935483870965,
+        0.8996960486322189,
+        0.5411290322580645,
+        0.9167173252279636
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "45,613.13"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.4328496744121491,
+        0.8416589787118363,
+        0.4994419320140182,
+        0.8531345165553721
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 467,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rkhl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15403225806451612,
+          0.841337386018237,
+          0.5411290322580645,
+          0.9167173252279636
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.16451612903225807,
+            "right": 0.2129032258064516
+          },
+          {
+            "column_type": "",
+            "left": 0.24596774193548387,
+            "right": 0.2887096774193548
+          },
+          {
+            "column_type": "",
+            "left": 0.3403225806451613,
+            "right": 0.3903225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.45241935483870965,
+            "right": 0.5411290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.8553191489361702,
+            "row_type": "header",
+            "top": 0.841337386018237
+          },
+          {
+            "bottom": 0.886322188449848,
+            "row_type": "gap",
+            "top": 0.8553191489361702
+          },
+          {
+            "bottom": 0.8996960486322189,
+            "row_type": "data",
+            "top": 0.886322188449848
+          },
+          {
+            "bottom": 0.9167173252279636,
+            "row_type": "data",
+            "top": 0.8996960486322189
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

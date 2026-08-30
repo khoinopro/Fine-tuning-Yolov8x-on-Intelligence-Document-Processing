@@ -1,0 +1,310 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7197149827673005,
+        0.10326089061549844,
+        0.7466115478449445,
+        0.12007080304127725
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "15428"
+    },
+    {
+      "bbox": [
+        0.7104838709677419,
+        0.14048283955829438,
+        0.7475806451612903,
+        0.15657620041753653
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "2/27/18"
+    },
+    {
+      "bbox": [
+        0.06585021105216281,
+        0.6548661707799365,
+        0.19384076211129614,
+        0.6728767912361281
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Learfield Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.06399527552956667,
+        0.6536654627495238,
+        0.3793343143709097,
+        0.6740774992665408
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Learfield Communications, Inc., 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.045445920303605315,
+        0.16209558410572428,
+        0.12983870967741937,
+        0.17890549653150312
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "StateNets Platinum"
+    },
+    {
+      "bbox": [
+        0.045445920303605315,
+        0.1608948760753115,
+        0.13726522867211402,
+        0.23413806593049064
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin\n2601 Northwind Drive\nRichmond VA 23233"
+    },
+    {
+      "bbox": [
+        0.8678522480361023,
+        0.3896561925949946,
+        0.8766588667892361,
+        0.4083099464958188
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.35151028153196767,
+        0.390230109884151,
+        0.3960287340742749,
+        0.4082407303403427
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,356.00"
+    },
+    {
+      "bbox": [
+        0.8686528497409326,
+        0.3917288319173084,
+        0.9142871469162628,
+        0.4072736268346619
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,002.60"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03870967741935484,
+        0.3058455114822547,
+        0.05241935483870968,
+        0.33194154488517746
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.06532258064516129,
+        0.3058455114822547,
+        0.12661290322580646,
+        0.33194154488517746
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Brownfield Iowa"
+    },
+    {
+      "bbox": [
+        0.8185483870967742,
+        0.3058455114822547,
+        0.8282258064516129,
+        0.33194154488517746
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.8741935483870967,
+        0.3058455114822547,
+        0.9040322580645161,
+        0.33194154488517746
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "589.00"
+    },
+    {
+      "bbox": [
+        0.925,
+        0.3058455114822547,
+        0.9532258064516129,
+        0.33194154488517746
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2356"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04266351701971111,
+        0.27376143093411215,
+        0.06214034000697054,
+        0.30377913169443144
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\n#"
+    },
+    {
+      "bbox": [
+        0.06863261433605701,
+        0.2881699272990654,
+        0.09923905045889324,
+        0.3049798397248442
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Vehicle"
+    },
+    {
+      "bbox": [
+        0.8004046780002324,
+        0.27376143093411215,
+        0.8245188397939821,
+        0.30137771563360594
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nUnits"
+    },
+    {
+      "bbox": [
+        0.863472485768501,
+        0.27256072290369937,
+        0.8857317120396546,
+        0.30137771563360594
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Unit\nRate"
+    },
+    {
+      "bbox": [
+        0.9089184060721064,
+        0.27496213896452487,
+        0.9469445842853271,
+        0.30137771563360594
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Extended\nTotal"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "7760ecb6-7276-4e1f-8a8e-6e278e7de2e2",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03870967741935484,
+          0.27348643006263046,
+          0.9532258064516129,
+          0.33194154488517746
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.03870967741935484,
+            "right": 0.05241935483870968
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.06532258064516129,
+            "right": 0.12661290322580646
+          },
+          {
+            "column_type": "",
+            "left": 0.16370967741935483,
+            "right": 0.23225806451612904
+          },
+          {
+            "column_type": "",
+            "left": 0.2879032258064516,
+            "right": 0.29838709677419356
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8185483870967742,
+            "right": 0.8282258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.8362903225806452,
+            "right": 0.8475806451612903
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.8741935483870967,
+            "right": 0.9040322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.925,
+            "right": 0.9532258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3058455114822547,
+            "row_type": "header",
+            "top": 0.27348643006263046
+          },
+          {
+            "bottom": 0.33194154488517746,
+            "row_type": "data",
+            "top": 0.3058455114822547
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

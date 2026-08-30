@@ -1,0 +1,188 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6675652523089278,
+        0.3526102525947297,
+        0.7953500200776336,
+        0.3683740050636706
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 23, 1999"
+    },
+    {
+      "bbox": [
+        0.05838441975639139,
+        0.1725716059757736,
+        0.36242403961986347,
+        0.1866760160795628
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CENTER FOR INDOOR AIR RESEARCH"
+    },
+    {
+      "bbox": [
+        0.060568273051032386,
+        0.8803341871223501,
+        0.2401553204191284,
+        0.9026695960018588
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1099 Winterson Road, Suite 280\nLinthicum, Maryland 21090"
+    },
+    {
+      "bbox": [
+        0.1058885892500566,
+        0.9237286958025385,
+        0.19652922164810505,
+        0.9333010138937565
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "cinrine@aul.com"
+    },
+    {
+      "bbox": [
+        0.10575291125685984,
+        0.38496742871518724,
+        0.2115058225137197,
+        0.40239052354927973
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.10465131843126757,
+        0.3841377575326114,
+        0.3668304109222327,
+        0.49780270954550077
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris\nOperations Center\nP.O. Box 26603\nRichmond, Virginia 23261\nAttention: Dr. Richard Carchman"
+    },
+    {
+      "bbox": [
+        0.6268063177620131,
+        0.6886270815379427,
+        0.6367206531923437,
+        0.7035611628243077
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.622399946459644,
+        0.6562699054174852,
+        0.7248480792397269,
+        0.6712039867038503
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "4,705,000.00"
+    },
+    {
+      "bbox": [
+        0.6268063177620131,
+        0.6886270815379427,
+        0.7237464864141347,
+        0.7043908340068836
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$702,985.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.5923450789793439,
+        0.425,
+        0.6397326852976913
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Assessment for CIAR 1999 operating and\nliquidation costs - $6,008,872.00\n90% of assessment"
+    },
+    {
+      "bbox": [
+        0.6096774193548387,
+        0.5923450789793439,
+        0.7217741935483871,
+        0.6397326852976913
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$5,407,985.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 208,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nsdl0063",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1762,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10725806451612903,
+          0.5923450789793439,
+          0.7338709677419355,
+          0.7077764277035237
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10725806451612903,
+            "right": 0.425
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6096774193548387,
+            "right": 0.7217741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6397326852976913,
+            "row_type": "data",
+            "top": 0.5923450789793439
+          },
+          {
+            "bottom": 0.6555285540704738,
+            "row_type": "gap",
+            "top": 0.6397326852976913
+          },
+          {
+            "bottom": 0.7077764277035237,
+            "row_type": "footer",
+            "top": 0.6555285540704738
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

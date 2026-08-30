@@ -1,0 +1,574 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7613534398935534,
+        0.20622179162217577,
+        0.800344586411013,
+        0.21891236341430967
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2000"
+    },
+    {
+      "bbox": [
+        0.7620374950956142,
+        0.22420010166103213,
+        0.8441241193428975,
+        0.23636189962849374
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "08/01/2018"
+    },
+    {
+      "bbox": [
+        0.7613534398935534,
+        0.2416496378752162,
+        0.8459677419354839,
+        0.25381143584267785
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "08/01/2018"
+    },
+    {
+      "bbox": [
+        0.06977363061019089,
+        0.06662550190870294,
+        0.33306451612903226,
+        0.07984484752550908
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PRESCOTT BROADCASTING LLC"
+    },
+    {
+      "bbox": [
+        0.06977363061019089,
+        0.06556795425935845,
+        0.33108271779737636,
+        0.11685901525256627
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PRESCOTT BROADCASTING LLC\nPO BOX 1631\nPRESCOTT, AZ 86302"
+    },
+    {
+      "bbox": [
+        0.07045768581225158,
+        0.13800996823945608,
+        0.21068900223469406,
+        0.1533444091549512
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "prescott@kyca.info"
+    },
+    {
+      "bbox": [
+        0.07319390662049437,
+        0.22525764931037662,
+        0.2685483870967742,
+        0.2581047381546135
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LANDSLIDE STRATEGIC\nMEDIA, LLC"
+    },
+    {
+      "bbox": [
+        0.07319390662049437,
+        0.22525764931037662,
+        0.2708858600160352,
+        0.29188315121907954
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LANDSLIDE STRATEGIC\nMEDIA, LLC\n8408 E. REDWING RD.\nSCOTTSDALE, AZ 85250"
+    },
+    {
+      "bbox": [
+        0.8509646713635046,
+        0.6784168170544911,
+        0.8673819962129612,
+        0.7027404129894144
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8660138858088398,
+        0.6091474460224269,
+        0.9193548387096774,
+        0.622366791639233
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "562.70"
+    },
+    {
+      "bbox": [
+        0.8762747138397502,
+        0.6271257560612833,
+        0.9185483870967742,
+        0.6392875540287448
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "15.47"
+    },
+    {
+      "bbox": [
+        0.8653298306067791,
+        0.6445752922754673,
+        0.9193548387096774,
+        0.6572658640676012
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "578.17"
+    },
+    {
+      "bbox": [
+        0.8673819962129612,
+        0.6620248284896514,
+        0.9193701915695741,
+        0.6741866264571131
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "578.17"
+    },
+    {
+      "bbox": [
+        0.8509646713635046,
+        0.6810606861778522,
+        0.9193548387096774,
+        0.7011540915153976
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.7613534398935534,
+        0.2590991740894003,
+        0.8112894696439843,
+        0.27126097205686195
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 10"
+    },
+    {
+      "bbox": [
+        0.8660138858088398,
+        0.6091474460224269,
+        0.9185483870967742,
+        0.6218380178145607
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "562.70"
+    },
+    {
+      "bbox": [
+        0.8769587690418109,
+        0.626596982236611,
+        0.9185483870967742,
+        0.6403451016780894
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "15.47"
+    },
+    {
+      "bbox": [
+        0.8660138858088398,
+        0.6435177446261229,
+        0.9193548387096774,
+        0.6572658640676012
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "578.17"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07580645161290323,
+        0.4021197007481297,
+        0.2879032258064516,
+        0.4170822942643391
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "POLITICAL ADVERTISING"
+    },
+    {
+      "bbox": [
+        0.5806451612903226,
+        0.4021197007481297,
+        0.6024193548387097,
+        0.4170822942643391
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "22"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.4021197007481297,
+        0.7338709677419355,
+        0.4170822942643391
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "19.00"
+    },
+    {
+      "bbox": [
+        0.8556451612903225,
+        0.4021197007481297,
+        0.9185483870967742,
+        0.4170822942643391
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "418.00T"
+    },
+    {
+      "bbox": [
+        0.07580645161290323,
+        0.45261845386533667,
+        0.2879032258064516,
+        0.46571072319201995
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "POLITICAL ADVERTISING"
+    },
+    {
+      "bbox": [
+        0.5806451612903226,
+        0.45261845386533667,
+        0.6024193548387097,
+        0.46571072319201995
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.45261845386533667,
+        0.7338709677419355,
+        0.46571072319201995
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "18.00"
+    },
+    {
+      "bbox": [
+        0.8556451612903225,
+        0.45261845386533667,
+        0.9185483870967742,
+        0.46571072319201995
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "180.00T"
+    },
+    {
+      "bbox": [
+        0.07580645161290323,
+        0.48753117206982544,
+        0.2879032258064516,
+        0.5012468827930174
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "POLITICAL ADVERTISING"
+    },
+    {
+      "bbox": [
+        0.5806451612903226,
+        0.48753117206982544,
+        0.6024193548387097,
+        0.5012468827930174
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "16"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.48753117206982544,
+        0.7338709677419355,
+        0.5012468827930174
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4.00"
+    },
+    {
+      "bbox": [
+        0.8556451612903225,
+        0.48753117206982544,
+        0.9185483870967742,
+        0.5012468827930174
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "64.00T"
+    },
+    {
+      "bbox": [
+        0.07580645161290323,
+        0.543640897755611,
+        0.2879032258064516,
+        0.557356608478803
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "COMMISSION - POLITICAL"
+    },
+    {
+      "bbox": [
+        0.5806451612903226,
+        0.543640897755611,
+        0.6024193548387097,
+        0.557356608478803
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.543640897755611,
+        0.7338709677419355,
+        0.557356608478803
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "-99.30"
+    },
+    {
+      "bbox": [
+        0.8556451612903225,
+        0.543640897755611,
+        0.9185483870967742,
+        0.557356608478803
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "-99.30T"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07580645161290323,
+        0.37718204488778057,
+        0.14878429386365877,
+        0.3921748529001847
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ACTIVITY"
+    },
+    {
+      "bbox": [
+        0.5715068046672731,
+        0.37718204488778057,
+        0.6024193548387097,
+        0.39232528896241736
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.6922846648968771,
+        0.37718204488778057,
+        0.7338709677419355,
+        0.39164834734098936
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.8556451612903225,
+        0.37718204488778057,
+        0.9185483870967742,
+        0.39089775561097256
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 819,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "42d80f66-80dc-46c4-ad1f-9f653e7290cc",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.031451612903225803,
+          0.37718204488778057,
+          0.9725806451612903,
+          0.7019950124688279
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07580645161290323,
+            "right": 0.2879032258064516
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.5806451612903226,
+            "right": 0.6024193548387097
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.682258064516129,
+            "right": 0.7338709677419355
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8556451612903225,
+            "right": 0.9185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39089775561097256,
+            "row_type": "header",
+            "top": 0.37718204488778057
+          },
+          {
+            "bottom": 0.4021197007481297,
+            "row_type": "gap",
+            "top": 0.39089775561097256
+          },
+          {
+            "bottom": 0.4170822942643391,
+            "row_type": "data",
+            "top": 0.4021197007481297
+          },
+          {
+            "bottom": 0.4463840399002494,
+            "row_type": "up-merge",
+            "top": 0.4170822942643391
+          },
+          {
+            "bottom": 0.45261845386533667,
+            "row_type": "gap",
+            "top": 0.4463840399002494
+          },
+          {
+            "bottom": 0.46571072319201995,
+            "row_type": "data",
+            "top": 0.45261845386533667
+          },
+          {
+            "bottom": 0.48316708229426436,
+            "row_type": "up-merge",
+            "top": 0.46571072319201995
+          },
+          {
+            "bottom": 0.48753117206982544,
+            "row_type": "gap",
+            "top": 0.48316708229426436
+          },
+          {
+            "bottom": 0.5012468827930174,
+            "row_type": "data",
+            "top": 0.48753117206982544
+          },
+          {
+            "bottom": 0.5174563591022444,
+            "row_type": "up-merge",
+            "top": 0.5012468827930174
+          },
+          {
+            "bottom": 0.543640897755611,
+            "row_type": "gap-with-text",
+            "top": 0.5174563591022444
+          },
+          {
+            "bottom": 0.557356608478803,
+            "row_type": "data",
+            "top": 0.543640897755611
+          },
+          {
+            "bottom": 0.5729426433915212,
+            "row_type": "up-merge",
+            "top": 0.557356608478803
+          },
+          {
+            "bottom": 0.5997506234413965,
+            "row_type": "gap",
+            "top": 0.5729426433915212
+          },
+          {
+            "bottom": 0.7019950124688279,
+            "row_type": "footer",
+            "top": 0.5997506234413965
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

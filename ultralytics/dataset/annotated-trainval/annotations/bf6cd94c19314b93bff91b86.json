@@ -1,0 +1,520 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7373043870505095,
+        0.22607850679191047,
+        0.7967287963080767,
+        0.23740018913814895
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "36164-01"
+    },
+    {
+      "bbox": [
+        0.7381108386634125,
+        0.17429745588945544,
+        0.7848373217363144,
+        0.18611887939984786
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/4/01"
+    },
+    {
+      "bbox": [
+        0.738772423923478,
+        0.25340347447357997,
+        0.778653754958998,
+        0.2657304231893782
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "1/4/02"
+    },
+    {
+      "bbox": [
+        0.23878080940098775,
+        0.1742847309987015,
+        0.4342766513607606,
+        0.18719471107267938
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Rochester Institute of Technology"
+    },
+    {
+      "bbox": [
+        0.23830515041811726,
+        0.175886524822695,
+        0.4339929705255368,
+        0.2513860008849583
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Rochester Institute of Technology\nController's Office\nRestricted Funds Accounting\n7 Lomb Memorial Drive\nRochester, NY 14623-5603"
+    },
+    {
+      "bbox": [
+        0.3132023400317291,
+        0.2820701742427294,
+        0.37990605169222635,
+        0.29147934359724326
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "16-0743140"
+    },
+    {
+      "bbox": [
+        0.13354479276837652,
+        0.3596107191656674,
+        0.260479119843998,
+        0.37337869365977894
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Phillip Morris USA"
+    },
+    {
+      "bbox": [
+        0.13422441003437335,
+        0.35955684771595964,
+        0.29835197977260713,
+        0.4139109132277198
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Phillip Morris USA\n4201 Commerce Drive\nRichmond, VA 23234\nattn: Dr. Bruce D. Davies"
+    },
+    {
+      "bbox": [
+        0.6606903272071155,
+        0.7107661251840048,
+        0.7310878566719485,
+        0.7236761052579826
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "19,796.40"
+    },
+    {
+      "bbox": [
+        0.6606903272071155,
+        0.7100489040687838,
+        0.7291852207404667,
+        0.7229588841427618
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "19,796.40"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.5027355623100304,
+        0.29354838709677417,
+        0.5191489361702127
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SALARIES- TENURED FACULTY"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.5027355623100304,
+        0.7306451612903225,
+        0.5191489361702127
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4,109.40"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.5191489361702127,
+        0.29354838709677417,
+        0.5343465045592705
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "SALARIES- FACULTY SUMMER"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.5191489361702127,
+        0.7306451612903225,
+        0.5343465045592705
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "4,516.20"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.5343465045592705,
+        0.29354838709677417,
+        0.5513677811550152
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "SALARIES-STUDENT CO-OP"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.5343465045592705,
+        0.7306451612903225,
+        0.5513677811550152
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "2,100.00"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.5513677811550152,
+        0.29354838709677417,
+        0.5671732522796352
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "FRINGE BENEFITS"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.5513677811550152,
+        0.7306451612903225,
+        0.5671732522796352
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "1,388.25"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.5671732522796352,
+        0.29354838709677417,
+        0.5829787234042553
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "SUPPLIES"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.5671732522796352,
+        0.7306451612903225,
+        0.5829787234042553
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "705.00"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.5829787234042553,
+        0.29354838709677417,
+        0.5981762917933131
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "RIT COMPUTER SERVICES"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.5829787234042553,
+        0.7306451612903225,
+        0.5981762917933131
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "175.50"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.5981762917933131,
+        0.29354838709677417,
+        0.6145896656534955
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "TRAVEL"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.5981762917933131,
+        0.7306451612903225,
+        0.6145896656534955
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "1,125.00"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.6145896656534955,
+        0.29354838709677417,
+        0.6316109422492401
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "EQUIOMENT-NON CAPITAL"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.6145896656534955,
+        0.7306451612903225,
+        0.6316109422492401
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "112.50"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.6316109422492401,
+        0.29354838709677417,
+        0.6443768996960486
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "FACILITIES & ADMIN. @ 39.1%"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.6316109422492401,
+        0.7306451612903225,
+        0.6443768996960486
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "5,564.55"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.6772036474164134,
+        0.29354838709677417,
+        0.6917933130699088
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "CAPITAL EQUIPMENT"
+    },
+    {
+      "bbox": [
+        0.6758064516129032,
+        0.6772036474164134,
+        0.7306451612903225,
+        0.6917933130699088
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1312818792722562,
+        0.4378634908424167,
+        0.2230840629662615,
+        0.4489804181283421
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CATEGORY"
+    },
+    {
+      "bbox": [
+        0.6278698573890514,
+        0.4367876591695852,
+        0.7039752946483304,
+        0.46296622987515146
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BALANCE\nDUE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 386,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nzvl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0935483870967742,
+          0.42735562310030395,
+          0.8758064516129033,
+          0.739209726443769
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.0935483870967742,
+            "right": 0.29354838709677417
+          },
+          {
+            "column_type": "",
+            "left": 0.3959677419354839,
+            "right": 0.4588709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.5645161290322581,
+            "right": 0.5943548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6758064516129032,
+            "right": 0.7306451612903225
+          },
+          {
+            "column_type": "",
+            "left": 0.8112903225806452,
+            "right": 0.8661290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.48814589665653496,
+            "row_type": "header",
+            "top": 0.42735562310030395
+          },
+          {
+            "bottom": 0.5027355623100304,
+            "row_type": "subsection-header",
+            "top": 0.48814589665653496
+          },
+          {
+            "bottom": 0.5191489361702127,
+            "row_type": "data",
+            "top": 0.5027355623100304
+          },
+          {
+            "bottom": 0.5343465045592705,
+            "row_type": "data",
+            "top": 0.5191489361702127
+          },
+          {
+            "bottom": 0.5513677811550152,
+            "row_type": "data",
+            "top": 0.5343465045592705
+          },
+          {
+            "bottom": 0.5671732522796352,
+            "row_type": "data",
+            "top": 0.5513677811550152
+          },
+          {
+            "bottom": 0.5829787234042553,
+            "row_type": "data",
+            "top": 0.5671732522796352
+          },
+          {
+            "bottom": 0.5981762917933131,
+            "row_type": "data",
+            "top": 0.5829787234042553
+          },
+          {
+            "bottom": 0.6145896656534955,
+            "row_type": "data",
+            "top": 0.5981762917933131
+          },
+          {
+            "bottom": 0.6316109422492401,
+            "row_type": "data",
+            "top": 0.6145896656534955
+          },
+          {
+            "bottom": 0.6443768996960486,
+            "row_type": "data",
+            "top": 0.6316109422492401
+          },
+          {
+            "bottom": 0.660790273556231,
+            "row_type": "gap-with-text",
+            "top": 0.6443768996960486
+          },
+          {
+            "bottom": 0.6772036474164134,
+            "row_type": "subsection-header",
+            "top": 0.660790273556231
+          },
+          {
+            "bottom": 0.6917933130699088,
+            "row_type": "data",
+            "top": 0.6772036474164134
+          },
+          {
+            "bottom": 0.7094224924012158,
+            "row_type": "gap",
+            "top": 0.6917933130699088
+          },
+          {
+            "bottom": 0.739209726443769,
+            "row_type": "footer",
+            "top": 0.7094224924012158
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

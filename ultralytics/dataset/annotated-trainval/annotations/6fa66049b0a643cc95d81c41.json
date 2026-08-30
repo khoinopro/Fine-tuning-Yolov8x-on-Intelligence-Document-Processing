@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7371058978468178,
+        0.5750043138413815,
+        0.7901004395220793,
+        0.5828743472215886
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "001542"
+    },
+    {
+      "bbox": [
+        0.7274705266331339,
+        0.5833662243078516,
+        0.7907886803230566,
+        0.5922200118605845
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "09/11/03"
+    },
+    {
+      "bbox": [
+        0.3028259524300652,
+        0.16822196350192686,
+        0.32622613966329755,
+        0.1790432593997116
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "059"
+    },
+    {
+      "bbox": [
+        0.21610761150691016,
+        0.35562713336810853,
+        0.23881955793916507,
+        0.36792406052468213
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "059"
+    },
+    {
+      "bbox": [
+        0.7281587674341113,
+        0.4210467858410801,
+        0.830706646779747,
+        0.43088432756633893
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Yankelovich"
+    },
+    {
+      "bbox": [
+        0.6510757977246402,
+        0.4208356480262079,
+        0.8300184059787696,
+        0.45400255062069733
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Yankelovich\n200 West Franklin Street\nChapel Hill, NC 27514"
+    },
+    {
+      "bbox": [
+        0.35788521650825894,
+        0.4889258237453663,
+        0.5388925471653205,
+        0.5081090301096212
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Post Office Box 601411\nCharlotte, NC 28260-1411"
+    },
+    {
+      "bbox": [
+        0.16655427383653587,
+        0.5745124367551185,
+        0.34412040048871045,
+        0.5853337326529033
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJReynolds Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.16586603303555847,
+        0.5741639006998629,
+        0.3565087349063041,
+        0.6123869723973653
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJReynolds Tobacco Co.\nPO Box 2959\nWinston-Salem, NC 27102\nATTN. Carol Mitchell"
+    },
+    {
+      "bbox": [
+        0.774959141900576,
+        0.746177539860886,
+        0.7859709947162148,
+        0.7569988357586708
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7756473827015534,
+        0.7471612940334119,
+        0.8465361852022278,
+        0.7565069586724078
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,500.00"
+    },
+    {
+      "bbox": [
+        0.7756473827015534,
+        0.7471612940334119,
+        0.8451597036002729,
+        0.7565069586724078
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22822580645161292,
+        0.6801152737752162,
+        0.5846774193548387,
+        0.6910662824207493
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Eclipse Targets, Camel Franchise and Private Label"
+    },
+    {
+      "bbox": [
+        0.7725806451612903,
+        0.6801152737752162,
+        0.8354838709677419,
+        0.6910662824207493
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "2,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 964,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rydl0187",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1690,
+        2365
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.22822580645161292,
+          0.6195965417867435,
+          0.8516129032258064,
+          0.7625360230547551
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.22822580645161292,
+            "right": 0.5846774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7725806451612903,
+            "right": 0.8354838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6276657060518732,
+            "row_type": "gap",
+            "top": 0.6195965417867435
+          },
+          {
+            "bottom": 0.646685878962536,
+            "row_type": "gap-with-text",
+            "top": 0.6276657060518732
+          },
+          {
+            "bottom": 0.6801152737752162,
+            "row_type": "gap",
+            "top": 0.646685878962536
+          },
+          {
+            "bottom": 0.6910662824207493,
+            "row_type": "data",
+            "top": 0.6801152737752162
+          },
+          {
+            "bottom": 0.7031700288184438,
+            "row_type": "data",
+            "top": 0.6910662824207493
+          },
+          {
+            "bottom": 0.7429394812680116,
+            "row_type": "gap-with-text",
+            "top": 0.7031700288184438
+          },
+          {
+            "bottom": 0.7625360230547551,
+            "row_type": "footer",
+            "top": 0.7429394812680116
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

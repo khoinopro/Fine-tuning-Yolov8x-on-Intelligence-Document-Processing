@@ -1,0 +1,190 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.23538075411494608,
+        0.2846894769764779,
+        0.3186446943460835,
+        0.29795890175080525
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DPW99-327"
+    },
+    {
+      "bbox": [
+        0.57083835946924,
+        0.0820291713322055,
+        0.6861268920969688,
+        0.09710806312121385
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "April 15, 1999"
+    },
+    {
+      "bbox": [
+        0.35467236079224873,
+        0.1849677392904862,
+        0.6621084477995253,
+        0.19944347540793425
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL"
+    },
+    {
+      "bbox": [
+        0.35787482003190785,
+        0.1849677392904862,
+        0.6653109070391844,
+        0.238648594059356
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL\nCOUNSELLORS AT LAW\n45O LEXINOTON AVENUE\nNEW YORK, N.Y. 10017"
+    },
+    {
+      "bbox": [
+        0.7469736176504922,
+        0.235029660029994,
+        0.8294369430717149,
+        0.2452833064465197
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 0,
+      "text": "135023295"
+    },
+    {
+      "bbox": [
+        0.3490680571228452,
+        0.9165285434035261,
+        0.4179209307755165,
+        0.9261790341484913
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "015.33.316"
+    },
+    {
+      "bbox": [
+        0.4939793377174209,
+        0.9376389919081377,
+        0.57083835946924,
+        0.9460831713099824
+      ],
+      "fieldtype": "bank_num",
+      "page": 0,
+      "text": "031100238"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.33171324422843257,
+        0.6330645161290323,
+        0.3675577156743621
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For expenses in connection with tobacco settlement attorney fee\narbitrations through March 31, 1999"
+    },
+    {
+      "bbox": [
+        0.7306451612903225,
+        0.33171324422843257,
+        0.8169354838709677,
+        0.3675577156743621
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$5,505.94"
+    },
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.4264884568651276,
+        0.6330645161290323,
+        0.4465370595382746
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Lorillard 9.1% share"
+    },
+    {
+      "bbox": [
+        0.7306451612903225,
+        0.4264884568651276,
+        0.8169354838709677,
+        0.4465370595382746
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$501.04"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 560,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mspl0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1762,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1596774193548387,
+          0.33171324422843257,
+          0.8169354838709677,
+          0.4465370595382746
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1596774193548387,
+            "right": 0.6330645161290323
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7306451612903225,
+            "right": 0.8169354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3675577156743621,
+            "row_type": "data",
+            "top": 0.33171324422843257
+          },
+          {
+            "bottom": 0.4264884568651276,
+            "row_type": "gap",
+            "top": 0.3675577156743621
+          },
+          {
+            "bottom": 0.4465370595382746,
+            "row_type": "data",
+            "top": 0.4264884568651276
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

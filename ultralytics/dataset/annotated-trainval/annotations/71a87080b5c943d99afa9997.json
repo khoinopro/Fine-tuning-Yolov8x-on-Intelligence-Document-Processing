@@ -1,0 +1,329 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8498592977301413,
+        0.1006748545572075,
+        0.9170798071551243,
+        0.11542340012928248
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "J99-1007"
+    },
+    {
+      "bbox": [
+        0.6770065592087567,
+        0.10131609566903683,
+        0.7410260919944547,
+        0.11635423400129283
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "08-02-99"
+    },
+    {
+      "bbox": [
+        0.26968228185975296,
+        0.8536522301228183,
+        0.6201892238614497,
+        0.869683257918552
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O.BOX 117 Atlantic Beach, New York 11509"
+    },
+    {
+      "bbox": [
+        0.16004883196424508,
+        0.2084033613445378,
+        0.26888203769993174,
+        0.22251066580478346
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "See Factor, Inc."
+    },
+    {
+      "bbox": [
+        0.16163544831598683,
+        0.20728970469740982,
+        0.3521477632684724,
+        0.26972204266321914
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "See Factor, Inc.\n37-11 30th Street\nLong Island City, NY 11101\nAttn: Ada"
+    },
+    {
+      "bbox": [
+        0.8570614951685325,
+        0.8998060762766645,
+        0.9218812721140516,
+        0.9132876535229476
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "195.00"
+    },
+    {
+      "bbox": [
+        0.8578617393283536,
+        0.8998060762766645,
+        0.9210810279542303,
+        0.9145701357466063
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "195.00"
+    },
+    {
+      "bbox": [
+        0.2144654348320884,
+        0.5468648998060762,
+        0.29849107161331706,
+        0.5623787976729153
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 15 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.4544279250161603,
+        0.4129032258064516,
+        0.46929541047188106
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Pick up at See Factor"
+    },
+    {
+      "bbox": [
+        0.8741935483870967,
+        0.4544279250161603,
+        0.9266129032258065,
+        0.46929541047188106
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "45.00"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.46929541047188106,
+        0.4129032258064516,
+        0.4854557207498384
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Express air freight from New York to Chicago"
+    },
+    {
+      "bbox": [
+        0.8741935483870967,
+        0.46929541047188106,
+        0.9266129032258065,
+        0.4854557207498384
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "65.00"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.4854557207498384,
+        0.4129032258064516,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Delivery in Chicago"
+    },
+    {
+      "bbox": [
+        0.8741935483870967,
+        0.4854557207498384,
+        0.9266129032258065,
+        0.49967679379444085
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "60.00"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.49967679379444085,
+        0.4129032258064516,
+        0.5158371040723982
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Handling"
+    },
+    {
+      "bbox": [
+        0.8741935483870967,
+        0.49967679379444085,
+        0.9266129032258065,
+        0.5158371040723982
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "25.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.32980745505926673,
+        0.24251214079757027,
+        0.345830639948287
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8238409466832521,
+        0.3305093389382393,
+        0.9113904656419392,
+        0.3445470165176908
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 290,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fkfc0007",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10725806451612903,
+          0.32255979314802846,
+          0.9564516129032258,
+          0.9166127989657401
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10725806451612903,
+            "right": 0.4129032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8741935483870967,
+            "right": 0.9266129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.345830639948287,
+            "row_type": "header",
+            "top": 0.32255979314802846
+          },
+          {
+            "bottom": 0.3762120232708468,
+            "row_type": "gap",
+            "top": 0.345830639948287
+          },
+          {
+            "bottom": 0.43891402714932126,
+            "row_type": "gap-with-text",
+            "top": 0.3762120232708468
+          },
+          {
+            "bottom": 0.4544279250161603,
+            "row_type": "gap",
+            "top": 0.43891402714932126
+          },
+          {
+            "bottom": 0.46929541047188106,
+            "row_type": "data",
+            "top": 0.4544279250161603
+          },
+          {
+            "bottom": 0.4854557207498384,
+            "row_type": "data",
+            "top": 0.46929541047188106
+          },
+          {
+            "bottom": 0.49967679379444085,
+            "row_type": "data",
+            "top": 0.4854557207498384
+          },
+          {
+            "bottom": 0.5158371040723982,
+            "row_type": "data",
+            "top": 0.49967679379444085
+          },
+          {
+            "bottom": 0.5313510019392372,
+            "row_type": "gap",
+            "top": 0.5158371040723982
+          },
+          {
+            "bottom": 0.577246283128636,
+            "row_type": "gap-with-text",
+            "top": 0.5313510019392372
+          },
+          {
+            "bottom": 0.7330316742081447,
+            "row_type": "gap",
+            "top": 0.577246283128636
+          },
+          {
+            "bottom": 0.8383968972204267,
+            "row_type": "gap-with-text",
+            "top": 0.7330316742081447
+          },
+          {
+            "bottom": 0.8532643826761473,
+            "row_type": "gap",
+            "top": 0.8383968972204267
+          },
+          {
+            "bottom": 0.9166127989657401,
+            "row_type": "footer",
+            "top": 0.8532643826761473
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

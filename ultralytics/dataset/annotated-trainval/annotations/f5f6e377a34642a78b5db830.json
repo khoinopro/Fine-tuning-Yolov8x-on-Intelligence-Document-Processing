@@ -1,0 +1,200 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8204792074252696,
+        0.1769912510911257,
+        0.8859678556804222,
+        0.19744043946420398
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9440"
+    },
+    {
+      "bbox": [
+        0.8653857090859458,
+        0.08743790890557604,
+        0.9486498475817827,
+        0.1036562307187071
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10-Jun-99"
+    },
+    {
+      "bbox": [
+        0.05519757495791438,
+        0.10154079743873348,
+        0.33399210610127855,
+        0.11634883039854878
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ONTARIO AIRPORT MARRIOTT"
+    },
+    {
+      "bbox": [
+        0.05613312707584513,
+        0.11846426367852239,
+        0.2366946858364803,
+        0.14878547402481085
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "2200 E. HOLT BLVD.\nONTARIO, CA 91761"
+    },
+    {
+      "bbox": [
+        0.05332647072205288,
+        0.6107961109787682,
+        0.33024989762955553,
+        0.6256041439385835
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ONTARIO AIRPORT MARRIOTT"
+    },
+    {
+      "bbox": [
+        0.05332647072205288,
+        0.6270144327918993,
+        0.26101904090267986,
+        0.6573356431381877
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "2200 EAST HOLT BLVD\nONTARIO, CA 91761"
+    },
+    {
+      "bbox": [
+        0.05332647072205288,
+        0.21549214109050552,
+        0.1627860685199509,
+        0.23241560733029443
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.054262022839983624,
+        0.23241560733029443,
+        0.28908560444060244,
+        0.28107057276968755
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "120 Park Ave.\nNew York, NY 10017-5592\nAttn. Lisa Frissora"
+    },
+    {
+      "bbox": [
+        0.8186081031894081,
+        0.5218068757268248,
+        0.8345124891942309,
+        0.5429612085265609
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8161290322580645,
+        0.521580547112462,
+        0.9449076391100596,
+        0.5443714973798767
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,517.30"
+    },
+    {
+      "bbox": [
+        0.8161290322580645,
+        0.5218068757268248,
+        0.943972086992129,
+        0.5471920750865081
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,517.30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.38306451612903225,
+        0.425531914893617,
+        0.7338709677419355,
+        0.44424098879445895
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Advance Deposit for October Race"
+    },
+    {
+      "bbox": [
+        0.8596774193548387,
+        0.425531914893617,
+        0.9458431912279905,
+        0.4428306999411432
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$7,517.30"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 357,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rgkb0062",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.38306451612903225,
+          0.425531914893617,
+          0.9508064516129032,
+          0.44559270516717325
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.38306451612903225,
+            "right": 0.7338709677419355
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8596774193548387,
+            "right": 0.9508064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.44559270516717325,
+            "row_type": "data",
+            "top": 0.425531914893617
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

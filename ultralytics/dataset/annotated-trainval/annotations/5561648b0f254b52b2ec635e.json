@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7181390953439072,
+        0.10773158073608062,
+        0.7450540188491304,
+        0.1227823162800919
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "18386"
+    },
+    {
+      "bbox": [
+        0.7169156897300335,
+        0.14496234760810847,
+        0.7499476413046254,
+        0.16080522712812034
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "7/29/20"
+    },
+    {
+      "bbox": [
+        0.07585114806017419,
+        0.6503502042964868,
+        0.20492044032385767,
+        0.6669852277924991
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Learfield Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.07646285086711108,
+        0.6511423482724874,
+        0.39087809363267184,
+        0.6685695157445004
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Learfield Communications, Inc., 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.04771281894107732,
+        0.16318165905612214,
+        0.12784588664980973,
+        0.1782323946001334
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "StateNets Platinum"
+    },
+    {
+      "bbox": [
+        0.04710111613414042,
+        0.16397380303212275,
+        0.13763313156079995,
+        0.23685104882417726
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin\n2601 Northwind Drive\nRichmond VA 23233"
+    },
+    {
+      "bbox": [
+        0.8594424437463286,
+        0.45310635427233914,
+        0.8673945802365081,
+        0.46974137776835156
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3394950578499732,
+        0.45310635427233914,
+        0.3933249048604194,
+        0.4705335217443522
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$102,850.00"
+    },
+    {
+      "bbox": [
+        0.8600541465532653,
+        0.4538984982483397,
+        0.9089903711082165,
+        0.4713256657203527
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$87,422.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03870967741935484,
+        0.3277661795407098,
+        0.08306451612903226,
+        0.36430062630480164
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Radio Iowa"
+    },
+    {
+      "bbox": [
+        0.8774193548387097,
+        0.3277661795407098,
+        0.9096774193548387,
+        0.36430062630480164
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "102,850"
+    },
+    {
+      "bbox": [
+        0.9217741935483871,
+        0.3277661795407098,
+        0.9379032258064516,
+        0.36430062630480164
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "187"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8771818251474982,
+        0.3128968705202342,
+        0.8985914233902894,
+        0.32715546208824486
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    },
+    {
+      "bbox": [
+        0.9144956963706484,
+        0.2954697030482211,
+        0.9401872142619978,
+        0.3279476060642455
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nUnits"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "bbadd5b6-bf08-49e5-9a63-6a7507766060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03870967741935484,
+          0.2954070981210856,
+          0.9451612903225807,
+          0.4780793319415449
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.03870967741935484,
+            "right": 0.08306451612903226
+          },
+          {
+            "column_type": "",
+            "left": 0.10161290322580645,
+            "right": 0.10967741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.13064516129032258,
+            "right": 0.15725806451612903
+          },
+          {
+            "column_type": "",
+            "left": 0.175,
+            "right": 0.20161290322580644
+          },
+          {
+            "column_type": "",
+            "left": 0.6419354838709678,
+            "right": 0.6693548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.6870967741935484,
+            "right": 0.714516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8774193548387097,
+            "right": 0.9096774193548387
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.9217741935483871,
+            "right": 0.9379032258064516
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3277661795407098,
+            "row_type": "header",
+            "top": 0.2954070981210856
+          },
+          {
+            "bottom": 0.36430062630480164,
+            "row_type": "data",
+            "top": 0.3277661795407098
+          },
+          {
+            "bottom": 0.4780793319415449,
+            "row_type": "footer",
+            "top": 0.36430062630480164
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

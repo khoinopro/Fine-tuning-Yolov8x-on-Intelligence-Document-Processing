@@ -1,0 +1,227 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6834993601952148,
+        0.3510656899547236,
+        0.7838519967860968,
+        0.3639826930016779
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "CTR-01-012"
+    },
+    {
+      "bbox": [
+        0.3016129032258065,
+        0.35060436841733233,
+        0.4626011784311392,
+        0.36582797915124277
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 12, 2001"
+    },
+    {
+      "bbox": [
+        0.20933999190174113,
+        0.0630656906155919,
+        0.5407949790794979,
+        0.08309128905750972
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Technology Concepts & Design, Inc."
+    },
+    {
+      "bbox": [
+        0.20856543066178918,
+        0.062386953791907666,
+        0.5409024775523777,
+        0.10157214790913892
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Technology Concepts & Design, Inc.\n7723 Ashron Avenue \u00b7 Manassas \u00b7 VA 20109-2879"
+    },
+    {
+      "bbox": [
+        0.30211567013092183,
+        0.7182315381481865,
+        0.5955088405992711,
+        0.7343715727133143
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Technology Concepts & Design, Inc."
+    },
+    {
+      "bbox": [
+        0.5879757727088675,
+        0.08966685869515437,
+        0.9265673505196382,
+        0.10311688749942752
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "4510 Weybridge Lane \u2e31 Suite 300 \u2e31 Greensboro, NC 27407-7876"
+    },
+    {
+      "bbox": [
+        0.30361656135683407,
+        0.7192545499149685,
+        0.5935567010309278,
+        0.7795791250691272
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Technology Concepts & Design, Inc.\nAttn: Lisa Cain\n4510 Weybridge Lane, Suite 300\nGreensboro, NC 27407-7876"
+    },
+    {
+      "bbox": [
+        0.3016698160933222,
+        0.2546494886399572,
+        0.4809583680514225,
+        0.2712570639860413
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Debevoise & Plimpton"
+    },
+    {
+      "bbox": [
+        0.30224891918856,
+        0.2541881671025659,
+        0.4834615064848687,
+        0.31709071555391083
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Debevoise & Plimpton\nAttn: Chris Hansen\n919 Third Avenue\nNew York, NY 10022"
+    },
+    {
+      "bbox": [
+        0.41976773598381145,
+        0.6352397569877193,
+        0.43139395607665754,
+        0.6504633677216297
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.41854392334245927,
+        0.6343171139129368,
+        0.5097179651231997,
+        0.6513860107964122
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 3,500.00"
+    },
+    {
+      "bbox": [
+        0.41976773598381145,
+        0.634778435450328,
+        0.5097179651231997,
+        0.6500020461842385
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 3,500.00"
+    },
+    {
+      "bbox": [
+        0.6537909974355514,
+        0.6357010785251105,
+        0.7716138703725748,
+        0.649079403109456
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 10 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3016129032258065,
+        0.5033434650455927,
+        0.45161290322580644,
+        0.5197568389057751
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hosting Web Site"
+    },
+    {
+      "bbox": [
+        0.7104838709677419,
+        0.5033434650455927,
+        0.7967741935483871,
+        0.5197568389057751
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$3,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 919,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hhcm0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.3016129032258065,
+          0.5033434650455927,
+          0.7967741935483871,
+          0.5750759878419452
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.3016129032258065,
+            "right": 0.45161290322580644
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7104838709677419,
+            "right": 0.7967741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5197568389057751,
+            "row_type": "data",
+            "top": 0.5033434650455927
+          },
+          {
+            "bottom": 0.5750759878419452,
+            "row_type": "up-merge",
+            "top": 0.5197568389057751
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

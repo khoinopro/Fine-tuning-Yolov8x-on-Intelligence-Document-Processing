@@ -1,0 +1,206 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6040254402368709,
+        0.1876954451098873,
+        0.7754597163783699,
+        0.20097293640383432
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 11, 2000"
+    },
+    {
+      "bbox": [
+        0.4269835008570983,
+        0.13699956926027143,
+        0.7674487688951224,
+        0.14907001589113236
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "EIGHTY PINE STREET, NEW YORK 10006-1702"
+    },
+    {
+      "bbox": [
+        0.5952133980052984,
+        0.9095752321366972,
+        0.684134915069347,
+        0.920438634104472
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-5510029"
+    },
+    {
+      "bbox": [
+        0.13858939146018387,
+        0.18836602752471734,
+        0.39493971092410785,
+        0.22518088974884315
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Small Business Congress\nc/o David H. Remes, Esq.\nCovington & Burling"
+    },
+    {
+      "bbox": [
+        0.13618610721520957,
+        0.18870654452436528,
+        0.45662400654511454,
+        0.2662204082937703
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Small Business Congress\nc/o David H. Remes, Esq.\nCovington & Burling\n1201 Pennsylvania Avenue, N.W.\nP.O. Box 7566\nWashington, DC 20044"
+    },
+    {
+      "bbox": [
+        0.7001568100358423,
+        0.4981741638561609,
+        0.7129743260090384,
+        0.5090375658239358
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7001568100358423,
+        0.49757064152461794,
+        0.8107078853046594,
+        0.5108481328185649
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$14,874.59"
+    },
+    {
+      "bbox": [
+        0.6975806451612904,
+        0.496048632218845,
+        0.8083046010596852,
+        0.5108481328185649
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "14,874.59"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.409726443768997,
+        0.6637096774193548,
+        0.4583586626139818
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For professional services rendered in connection\nwith the Advertising Restrictions - Tacoma\nmatter for the three-month period ended\nDecember 31. 1999 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "bbox": [
+        0.6983870967741935,
+        0.409726443768997,
+        0.8120967741935484,
+        0.4583586626139818
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$13,267.00"
+    },
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.46930091185410333,
+        0.6637096774193548,
+        0.4857142857142857
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Disbursements and Charges . . . . . . . . . . . . . . . . . . . . . . . . . . ."
+    },
+    {
+      "bbox": [
+        0.6983870967741935,
+        0.46930091185410333,
+        0.8120967741935484,
+        0.4857142857142857
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,607.59"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 648,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nnpj0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13951612903225807,
+          0.409726443768997,
+          0.8120967741935484,
+          0.5124620060790274
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13951612903225807,
+            "right": 0.6637096774193548
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6983870967741935,
+            "right": 0.8120967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4583586626139818,
+            "row_type": "data",
+            "top": 0.409726443768997
+          },
+          {
+            "bottom": 0.46930091185410333,
+            "row_type": "gap",
+            "top": 0.4583586626139818
+          },
+          {
+            "bottom": 0.4857142857142857,
+            "row_type": "data",
+            "top": 0.46930091185410333
+          },
+          {
+            "bottom": 0.5124620060790274,
+            "row_type": "footer",
+            "top": 0.4857142857142857
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

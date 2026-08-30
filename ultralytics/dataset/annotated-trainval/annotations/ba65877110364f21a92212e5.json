@@ -1,0 +1,271 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7638281509810442,
+        0.16550588567935837,
+        0.8992247256401729,
+        0.17891134682472695
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "R18-1730-098-01"
+    },
+    {
+      "bbox": [
+        0.6332183239108746,
+        0.18252050944078768,
+        0.7583575823079481,
+        0.19437918660784453
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 27, 2001"
+    },
+    {
+      "bbox": [
+        0.6325345028267376,
+        0.225830460833517,
+        0.8657174925174592,
+        0.23975151663832284
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The University of Tennessee"
+    },
+    {
+      "bbox": [
+        0.6318506817426005,
+        0.22311842232683674,
+        0.8752909876953775,
+        0.2844984802431611
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The University of Tennessee\nand Mail To: Univ, of Tennessee\nPO. Box 1071\nKnoxville, TN 37901-1071"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.729483282674772,
+        0.5627847522447622,
+        0.7445186882273939
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "University of Tennessee, Institute of Agriculture, Business Office"
+    },
+    {
+      "bbox": [
+        0.07658796142334554,
+        0.7276527019808382,
+        0.5604682420605152,
+        0.7749387731341919
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "University of Tennessee, Institute of Agriculture, Business Office\nPO. Box 1071\nKnoxville, TN 37901-1071"
+    },
+    {
+      "bbox": [
+        0.14291860658463584,
+        0.3598850722872029,
+        0.23728591619554373,
+        0.3717437494542597
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "62-6001636"
+    },
+    {
+      "bbox": [
+        0.10941137346192219,
+        0.20933143173152488,
+        0.24412412703691386,
+        0.2387203273194483
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris\nResearch Center"
+    },
+    {
+      "bbox": [
+        0.11283047888260725,
+        0.21052927523374265,
+        0.3200282673761224,
+        0.268624817566809
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris\nResearch Center\nPO Box 26583\nRichmond, VA 23261-6583"
+    },
+    {
+      "bbox": [
+        0.8062250581975391,
+        0.6563520014636235,
+        0.8171661955437313,
+        0.6702730572684293
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8024193548387096,
+        0.6558364068041864,
+        0.8943548387096775,
+        0.6711246200607903
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$39,150.00"
+    },
+    {
+      "bbox": [
+        0.8048574160292651,
+        0.6548052174853117,
+        0.8923865147988027,
+        0.6702730572684293
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$39,150.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07580645161290323,
+        0.5051671732522797,
+        0.26048387096774195,
+        0.5227963525835866
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Article 3, Compensation:"
+    },
+    {
+      "bbox": [
+        0.08227056764191047,
+        0.6128977842476344,
+        0.16556951737934486,
+        0.6260679688988713
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "174,000.00"
+    },
+    {
+      "bbox": [
+        0.803166416604151,
+        0.6089273609336585,
+        0.8946924231057766,
+        0.6268426856430617
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$39,150.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1737965741435359,
+        0.44710840099088767,
+        0.26048387096774195,
+        0.46382978723404256
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 924,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hswl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07580645161290323,
+          0.44680851063829785,
+          0.907258064516129,
+          0.6717325227963525
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07580645161290323,
+            "right": 0.26048387096774195
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.46382978723404256,
+            "row_type": "header",
+            "top": 0.44680851063829785
+          },
+          {
+            "bottom": 0.5051671732522797,
+            "row_type": "gap",
+            "top": 0.46382978723404256
+          },
+          {
+            "bottom": 0.5227963525835866,
+            "row_type": "data",
+            "top": 0.5051671732522797
+          },
+          {
+            "bottom": 0.5367781155015198,
+            "row_type": "gap",
+            "top": 0.5227963525835866
+          },
+          {
+            "bottom": 0.5945288753799393,
+            "row_type": "gap-with-text",
+            "top": 0.5367781155015198
+          },
+          {
+            "bottom": 0.6115501519756839,
+            "row_type": "gap",
+            "top": 0.5945288753799393
+          },
+          {
+            "bottom": 0.6267477203647417,
+            "row_type": "up-merge",
+            "top": 0.6115501519756839
+          },
+          {
+            "bottom": 0.6565349544072948,
+            "row_type": "gap",
+            "top": 0.6267477203647417
+          },
+          {
+            "bottom": 0.6717325227963525,
+            "row_type": "footer",
+            "top": 0.6565349544072948
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

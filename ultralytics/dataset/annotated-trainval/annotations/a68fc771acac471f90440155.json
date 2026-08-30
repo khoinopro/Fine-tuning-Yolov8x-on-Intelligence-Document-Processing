@@ -1,0 +1,271 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7857630272952855,
+        0.26362001003772606,
+        0.8460636138055494,
+        0.2769058991377706
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "012899"
+    },
+    {
+      "bbox": [
+        0.7050530115046244,
+        0.2797029284219905,
+        0.8460636138055494,
+        0.29578584680625497
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 28, 1999"
+    },
+    {
+      "bbox": [
+        0.13743232169432051,
+        0.9222428713716939,
+        0.30176798602998484,
+        0.9372289427851583
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WKA Communications, L.L.C."
+    },
+    {
+      "bbox": [
+        0.13743232169432051,
+        0.9217433356579118,
+        0.6562824232057124,
+        0.9382280142127227
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WKA Communications, L.L.C. \u2022 805 15th Street N.W., Suite 805 \u2022 Washington, DC 20005"
+    },
+    {
+      "bbox": [
+        0.1699018682767703,
+        0.36109422492401216,
+        0.5516129032258065,
+        0.4094631324276535
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Bill Adams\nCoalition for Responsible Tobacco Retailing\nc/o The Tobacco Institute"
+    },
+    {
+      "bbox": [
+        0.1699018682767703,
+        0.36066478535071234,
+        0.5509220577647017,
+        0.4575747138244495
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Bill Adams\nCoalition for Responsible Tobacco Retailing\nc/o The Tobacco Institute\n1875 I Street NW\nSuite 800\nWashington, DC 20006"
+    },
+    {
+      "bbox": [
+        0.7570042819920872,
+        0.5744660708494725,
+        0.8451359084301654,
+        0.5874539994078085
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "285,000.00"
+    },
+    {
+      "bbox": [
+        0.7563416381842821,
+        0.5744660708494725,
+        0.8457985522379704,
+        0.5879535351215907
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "285,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17096774193548386,
+        0.5069908814589665,
+        0.3951612903225806,
+        0.5258358662613982
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Training Services:"
+    },
+    {
+      "bbox": [
+        0.728225806451613,
+        0.5069908814589665,
+        0.7411290322580645,
+        0.5258358662613982
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.757258064516129,
+        0.5069908814589665,
+        0.8508064516129032,
+        0.5258358662613982
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "140,000.00"
+    },
+    {
+      "bbox": [
+        0.17096774193548386,
+        0.5258358662613982,
+        0.3951612903225806,
+        0.5404255319148936
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Materials Production:"
+    },
+    {
+      "bbox": [
+        0.728225806451613,
+        0.5258358662613982,
+        0.7411290322580645,
+        0.5404255319148936
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.757258064516129,
+        0.5258358662613982,
+        0.8508064516129032,
+        0.5404255319148936
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "15,000.00"
+    },
+    {
+      "bbox": [
+        0.17096774193548386,
+        0.5404255319148936,
+        0.3951612903225806,
+        0.5556231003039513
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Shipping and Fulfillment"
+    },
+    {
+      "bbox": [
+        0.728225806451613,
+        0.5404255319148936,
+        0.7411290322580645,
+        0.5556231003039513
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.757258064516129,
+        0.5404255319148936,
+        0.8508064516129032,
+        0.5556231003039513
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "130,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 880,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rtdh0076",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.17096774193548386,
+          0.5069908814589665,
+          0.8508064516129032,
+          0.5896656534954408
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17096774193548386,
+            "right": 0.3951612903225806
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.728225806451613,
+            "right": 0.7411290322580645
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.757258064516129,
+            "right": 0.8508064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5258358662613982,
+            "row_type": "data",
+            "top": 0.5069908814589665
+          },
+          {
+            "bottom": 0.5404255319148936,
+            "row_type": "data",
+            "top": 0.5258358662613982
+          },
+          {
+            "bottom": 0.5556231003039513,
+            "row_type": "data",
+            "top": 0.5404255319148936
+          },
+          {
+            "bottom": 0.5896656534954408,
+            "row_type": "footer",
+            "top": 0.5556231003039513
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

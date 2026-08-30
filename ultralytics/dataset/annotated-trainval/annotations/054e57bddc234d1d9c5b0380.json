@@ -1,0 +1,293 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7733351346857332,
+        0.13701678593258182,
+        0.8356293648154307,
+        0.1495224512368035
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02/24/99"
+    },
+    {
+      "bbox": [
+        0.05038659793814432,
+        0.07810427486184976,
+        0.4431160625207849,
+        0.0974473906336409
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Albertson's Oregon Team Championship"
+    },
+    {
+      "bbox": [
+        0.05128658131027602,
+        0.07722813134839182,
+        0.4457068826778366,
+        0.13147663815649963
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Albertson's Oregon Team Championship\n5671 SW Arctic Drive\nReaverton, OR 97005"
+    },
+    {
+      "bbox": [
+        0.09796724309943466,
+        0.22867953712905253,
+        0.21471982041902227,
+        0.24439186857325812
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds"
+    },
+    {
+      "bbox": [
+        0.09710259394745593,
+        0.2277239819597546,
+        0.2707931493182574,
+        0.2933733612197972
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. Reynolds\n1761 International Pkwy\nSuite 115\nRichardson, TX 7508"
+    },
+    {
+      "bbox": [
+        0.8635350848021283,
+        0.7690127609678211,
+        0.9340996009311606,
+        0.7821570983663134
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "22,500.00"
+    },
+    {
+      "bbox": [
+        0.8675673428666444,
+        0.8216616285306803,
+        0.9368348852677086,
+        0.8352633482883505
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "22,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.035483870967741936,
+        0.3574468085106383,
+        0.09758064516129032,
+        0.3781155015197568
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12/18/98"
+    },
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.3574468085106383,
+        0.16532258064516128,
+        0.3781155015197568
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1/18/99"
+    },
+    {
+      "bbox": [
+        0.29435483870967744,
+        0.3574468085106383,
+        0.49193548387096775,
+        0.3781155015197568
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Sponsor Aprrecitiation Outing"
+    },
+    {
+      "bbox": [
+        0.6483870967741936,
+        0.3574468085106383,
+        0.7161290322580646,
+        0.3781155015197568
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "22,500.00"
+    },
+    {
+      "bbox": [
+        0.8733870967741936,
+        0.3574468085106383,
+        0.942741935483871,
+        0.3781155015197568
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "22,500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.047108829398071164,
+        0.33972532110320636,
+        0.09094820419022281,
+        0.35318234171451857
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.10967741935483871,
+        0.339209726443769,
+        0.18941844030595276,
+        0.35627590967114214
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TILL DATE"
+    },
+    {
+      "bbox": [
+        0.29435483870967744,
+        0.339209726443769,
+        0.3973000498836049,
+        0.3521511523956441
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6066740106418355,
+        0.339209726443769,
+        0.6810857998004656,
+        0.35318234171451857
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SPONSOR"
+    },
+    {
+      "bbox": [
+        0.8739233455271035,
+        0.3392612859097127,
+        0.9518789491187228,
+        0.3516355577362068
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BALANCE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1109,
+    "currency": "eur",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ztnm0020",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.035483870967741936,
+          0.339209726443769,
+          0.942741935483871,
+          0.8407294832826747
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.035483870967741936,
+            "right": 0.09758064516129032
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.10967741935483871,
+            "right": 0.16532258064516128
+          },
+          {
+            "column_type": "",
+            "left": 0.17661290322580644,
+            "right": 0.26129032258064516
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.29435483870967744,
+            "right": 0.49193548387096775
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6483870967741936,
+            "right": 0.7161290322580646
+          },
+          {
+            "column_type": "",
+            "left": 0.8056451612903226,
+            "right": 0.8419354838709677
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8733870967741936,
+            "right": 0.942741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3574468085106383,
+            "row_type": "header",
+            "top": 0.339209726443769
+          },
+          {
+            "bottom": 0.3781155015197568,
+            "row_type": "data",
+            "top": 0.3574468085106383
+          },
+          {
+            "bottom": 0.7653495440729483,
+            "row_type": "gap-with-text",
+            "top": 0.3781155015197568
+          },
+          {
+            "bottom": 0.8407294832826747,
+            "row_type": "footer",
+            "top": 0.7653495440729483
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6523607738734079,
+        0.2818496826182272,
+        0.6926407696149174,
+        0.29571114254295794
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4016"
+    },
+    {
+      "bbox": [
+        0.3546390662187714,
+        0.6230323039403888,
+        0.3914164536349324,
+        0.63821390290557
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4016"
+    },
+    {
+      "bbox": [
+        0.637474688490676,
+        0.24818613708673815,
+        0.7574390236338677,
+        0.2640278055721447
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 9, 2000"
+    },
+    {
+      "bbox": [
+        0.611205126050561,
+        0.2976913511036338,
+        0.6803816404761971,
+        0.31287295006881516
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "117-3-99"
+    },
+    {
+      "bbox": [
+        0.22679386234354515,
+        0.17491842034173255,
+        0.3747790640895262,
+        0.1867996717057875
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "A&G RESEARCH, INC."
+    },
+    {
+      "bbox": [
+        0.22750215817198427,
+        0.17425835082150729,
+        0.7197859841363696,
+        0.18776705871988017
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "A&G RESEARCH, INC.276 FIFTH AVENUE NEW YORK, N.Y. 10001-4509"
+    },
+    {
+      "bbox": [
+        0.5481581761942851,
+        0.18943994978668863,
+        0.7048998987536377,
+        0.20198127067096885
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "agr@agresearchny.com"
+    },
+    {
+      "bbox": [
+        0.17162778121930372,
+        0.41782402644632244,
+        0.3546390662187714,
+        0.44884729389691036
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Natasha Coggins\nLorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.17162778121930372,
+        0.4177304964539007,
+        0.41155645150568715,
+        0.48515111750930046
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Natasha Coggins\nLorillard Tobacco Co.\nP.O. Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.6234642551892813,
+        0.6224455777161578,
+        0.6330964280839901,
+        0.6382872462015644
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6199616468639327,
+        0.6225922441644232,
+        0.7154077237296838,
+        0.6377738431296045
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$11,425.00"
+    },
+    {
+      "bbox": [
+        0.6209677419354839,
+        0.6206120356037473,
+        0.7154077237296838,
+        0.6382978723404256
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$11,425.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1774193548387097,
+        0.5537993920972645,
+        0.4112903225806452,
+        0.5708206686930091
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Newport Non-Menthol Study"
+    },
+    {
+      "bbox": [
+        0.7459677419354839,
+        0.5537993920972645,
+        0.8443548387096774,
+        0.5708206686930091
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$11,425.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 955,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tjkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1774193548387097,
+          0.5537993920972645,
+          0.8443548387096774,
+          0.6401215805471124
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1774193548387097,
+            "right": 0.4112903225806452
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7459677419354839,
+            "right": 0.8443548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5708206686930091,
+            "row_type": "data",
+            "top": 0.5537993920972645
+          },
+          {
+            "bottom": 0.5878419452887538,
+            "row_type": "gap",
+            "top": 0.5708206686930091
+          },
+          {
+            "bottom": 0.6401215805471124,
+            "row_type": "footer",
+            "top": 0.5878419452887538
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

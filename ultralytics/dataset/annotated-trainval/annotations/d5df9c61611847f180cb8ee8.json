@@ -1,0 +1,210 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7586875583887454,
+        0.2095740090853878,
+        0.8313629993955047,
+        0.22405676581080078
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1503-15"
+    },
+    {
+      "bbox": [
+        0.6650903995164038,
+        0.25983769419123287,
+        0.7928229928010112,
+        0.2743204509166458
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 4, 2015"
+    },
+    {
+      "bbox": [
+        0.6185483870967742,
+        0.4719674838752229,
+        0.7300578392042645,
+        0.4903306300686213
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "4534822716"
+    },
+    {
+      "bbox": [
+        0.14204745287684784,
+        0.7036915914818306,
+        0.33694977194042974,
+        0.719878201939645
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Bellomy Research, Inc"
+    },
+    {
+      "bbox": [
+        0.14094630983129086,
+        0.7037079074546444,
+        0.37769206462603727,
+        0.7675861064468879
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Bellomy Research, Inc.\n175 Sunnynoll Court\nWinston-Salem, NC 27106\n336.721.1140"
+    },
+    {
+      "bbox": [
+        0.3241935483870968,
+        0.868113476658578,
+        0.43054693081277134,
+        0.882596233383991
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "56-1173448"
+    },
+    {
+      "bbox": [
+        0.13874402374017697,
+        0.32644023282852475,
+        0.43605264604055616,
+        0.37569974799453665
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Carri Leslie\nStrategy and Planning Department\nR. J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.13953405017921147,
+        0.3269860803059926,
+        0.4350179211469534,
+        0.4068807374681364
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Carri Leslie\nStrategy and Planning Department\nR. J. Reynolds Tobacco Company\n401 North Main Street\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.7454738418420619,
+        0.601460367537739,
+        0.7630921305709732,
+        0.6184989048617542
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7465749848876189,
+        0.601460367537739,
+        0.8192504258943782,
+        0.6176469779955535
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$58,300"
+    },
+    {
+      "bbox": [
+        0.7465749848876189,
+        0.6031642212701405,
+        0.8203515689399351,
+        0.6184989048617542
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$58,300"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1435483870967742,
+        0.5389893948845914,
+        0.4588709677419355,
+        0.5539613225202745
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "January/February 2015 Project Costs"
+    },
+    {
+      "bbox": [
+        0.6362903225806451,
+        0.5389893948845914,
+        0.7104838709677419,
+        0.5539613225202745
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$58,300"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 136,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fnjn0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1810,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1435483870967742,
+          0.5389893948845914,
+          0.8274193548387097,
+          0.6238303181534622
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1435483870967742,
+            "right": 0.4588709677419355
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6362903225806451,
+            "right": 0.7104838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5539613225202745,
+            "row_type": "data",
+            "top": 0.5389893948845914
+          },
+          {
+            "bottom": 0.6044915782907049,
+            "row_type": "gap",
+            "top": 0.5539613225202745
+          },
+          {
+            "bottom": 0.6238303181534622,
+            "row_type": "footer",
+            "top": 0.6044915782907049
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

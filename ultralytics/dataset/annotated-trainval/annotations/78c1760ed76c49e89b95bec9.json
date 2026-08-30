@@ -1,0 +1,294 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7588011417697431,
+        0.23503681563023987,
+        0.8744571222491636,
+        0.25121343856835354
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "370G220-03"
+    },
+    {
+      "bbox": [
+        0.8432483656118597,
+        0.32495980784504824,
+        0.8952629600073663,
+        0.33637860050724616
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12.15.03"
+    },
+    {
+      "bbox": [
+        0.3638226535818681,
+        0.35220050768043715,
+        0.467891449907163,
+        0.36514225861882593
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "097D 370 G220"
+    },
+    {
+      "bbox": [
+        0.3689976520057702,
+        0.08231046377334311,
+        0.8102037997605966,
+        0.10492062367908037
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "NORTHWESTERN UNIVERSITY"
+    },
+    {
+      "bbox": [
+        0.3679022825881909,
+        0.08242241272101171,
+        0.8082908885116016,
+        0.15462948396726306
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "NORTHWESTERN UNIVERSITY\nAccounting Services for Research & Sponsored Programs\n633 N.Clark Street, Rm. G-547\nEvanston, IL 60208-1112"
+    },
+    {
+      "bbox": [
+        0.36620038438079017,
+        0.7203442377438675,
+        0.6130873603167113,
+        0.7339019797123008
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MICHAEL S. DANIELS, Director-ASRSP"
+    },
+    {
+      "bbox": [
+        0.3666592821055781,
+        0.7199996569306443,
+        0.7103736779717583,
+        0.747816504364114
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MICHAEL S. DANELS, Director-ASRSP\nRRoom G-547, 633 Clark Street, Evanston, II 60208-1112"
+    },
+    {
+      "bbox": [
+        0.2655803996194101,
+        0.2164812775541683,
+        0.4222361192105829,
+        0.2321821174646904
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS, INC."
+    },
+    {
+      "bbox": [
+        0.26496846321475703,
+        0.216425303080334,
+        0.4226089417091115,
+        0.2968886092171451
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS, INC.\n615 Maury Street,\nRichmond, VA 23224\nAttn: RICHARD ICAC\nResearch Centerr"
+    },
+    {
+      "bbox": [
+        0.81693510021178,
+        0.6394523890830818,
+        0.8310096375187993,
+        0.6546774459660123
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8175470366164329,
+        0.6385008230278986,
+        0.919740416193487,
+        0.6551532289936038
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$   43,200.00"
+    },
+    {
+      "bbox": [
+        0.8514592992203929,
+        0.6027158294163912,
+        0.88773470822521,
+        0.6179686073080636
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.8175470366164329,
+        0.6389766060554901,
+        0.919128479788834,
+        0.6551532289936038
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$   43,200.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16612903225806452,
+        0.5197492163009404,
+        0.25,
+        0.5341692789968652
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Per Agreement"
+    },
+    {
+      "bbox": [
+        0.2862903225806452,
+        0.5197492163009404,
+        0.32983870967741935,
+        0.5341692789968652
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2/13/03"
+    },
+    {
+      "bbox": [
+        0.8346774193548387,
+        0.5197492163009404,
+        0.9016129032258065,
+        0.5341692789968652
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "43,200.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.16612903225806452,
+        0.4769959631577574,
+        0.3120855948372929,
+        0.4915360501567398
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Charges:"
+    },
+    {
+      "bbox": [
+        0.831834897627623,
+        0.4769959631577574,
+        0.9073591098179798,
+        0.49178653565877317
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Cumulative"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 801,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kpjx0179",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1819,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.16612903225806452,
+          0.47648902821316613,
+          0.9274193548387096,
+          0.6576802507836991
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.16612903225806452,
+            "right": 0.25
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.2862903225806452,
+            "right": 0.32983870967741935
+          },
+          {
+            "column_type": "",
+            "left": 0.5483870967741935,
+            "right": 0.614516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8346774193548387,
+            "right": 0.9016129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4915360501567398,
+            "row_type": "header",
+            "top": 0.47648902821316613
+          },
+          {
+            "bottom": 0.5197492163009404,
+            "row_type": "gap-with-text",
+            "top": 0.4915360501567398
+          },
+          {
+            "bottom": 0.5341692789968652,
+            "row_type": "data",
+            "top": 0.5197492163009404
+          },
+          {
+            "bottom": 0.6175548589341693,
+            "row_type": "gap-with-text",
+            "top": 0.5341692789968652
+          },
+          {
+            "bottom": 0.6313479623824452,
+            "row_type": "gap",
+            "top": 0.6175548589341693
+          },
+          {
+            "bottom": 0.6576802507836991,
+            "row_type": "footer",
+            "top": 0.6313479623824452
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

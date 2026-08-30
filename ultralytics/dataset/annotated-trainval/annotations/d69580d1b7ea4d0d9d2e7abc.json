@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.214099812872324,
+        0.1239674385955277,
+        0.36348778519802916,
+        0.13673661681995974
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Burt Broadcasting, Inc"
+    },
+    {
+      "bbox": [
+        0.214099812872324,
+        0.12343538950284302,
+        0.6553794914934161,
+        0.13620456772727507
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Burt Broadcasting, Inc PO Box 1848 Alamogordo, NM 88310"
+    },
+    {
+      "bbox": [
+        0.14388058164088655,
+        0.2027107043128586,
+        0.31185599752785453,
+        0.21601193162997528
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Media Financial Services"
+    },
+    {
+      "bbox": [
+        0.14388058164088655,
+        0.2027107043128586,
+        0.3125444213634569,
+        0.2697488899911268
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Media Financial Services\nEst # 754\nPolitical Candidate"
+    },
+    {
+      "bbox": [
+        0.8653487613521261,
+        0.4282995196111579,
+        0.8749866950505588,
+        0.44106869783558994
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8646603375165238,
+        0.42776747051847325,
+        0.925930058885131,
+        0.4416007469282746
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$161.50"
+    },
+    {
+      "bbox": [
+        0.8653487613521261,
+        0.4288315687038426,
+        0.9245532112139264,
+        0.4416007469282746
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$161.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.7661290322580645,
+        0.3179551122194514,
+        0.7879032258064517,
+        0.3341645885286783
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.8016129032258065,
+        0.3179551122194514,
+        0.8443548387096774,
+        0.3341645885286783
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$19.00"
+    },
+    {
+      "bbox": [
+        0.8620967741935484,
+        0.3179551122194514,
+        0.925,
+        0.3341645885286783
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$190.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7600777019072287,
+        0.2925612797275105,
+        0.7954850482693666,
+        0.3059424609208686
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.8057138372184287,
+        0.2925612797275105,
+        0.8419080134997253,
+        0.30533422541207955
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.8647260811553253,
+        0.2925612797275105,
+        0.9245251550113806,
+        0.3059424609208686
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 32,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "0fe37b5d-fb6f-4e01-acee-455db9c86ee3",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07338709677419354,
+          0.2855361596009975,
+          0.9443548387096774,
+          0.45074812967581046
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.5879032258064516,
+            "right": 0.6104838709677419
+          },
+          {
+            "column_type": "",
+            "left": 0.660483870967742,
+            "right": 0.6814516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.7153225806451613,
+            "right": 0.7419354838709677
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7661290322580645,
+            "right": 0.7879032258064517
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.8016129032258065,
+            "right": 0.8443548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8620967741935484,
+            "right": 0.925
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3117206982543641,
+            "row_type": "header",
+            "top": 0.2855361596009975
+          },
+          {
+            "bottom": 0.3179551122194514,
+            "row_type": "gap",
+            "top": 0.3117206982543641
+          },
+          {
+            "bottom": 0.3341645885286783,
+            "row_type": "data",
+            "top": 0.3179551122194514
+          },
+          {
+            "bottom": 0.371571072319202,
+            "row_type": "gap",
+            "top": 0.3341645885286783
+          },
+          {
+            "bottom": 0.38840399002493764,
+            "row_type": "gap-with-text",
+            "top": 0.371571072319202
+          },
+          {
+            "bottom": 0.42082294264339154,
+            "row_type": "gap",
+            "top": 0.38840399002493764
+          },
+          {
+            "bottom": 0.45074812967581046,
+            "row_type": "footer",
+            "top": 0.42082294264339154
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

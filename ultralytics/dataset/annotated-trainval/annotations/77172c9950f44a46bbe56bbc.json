@@ -1,0 +1,293 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8449054025889818,
+        0.1565297552456461,
+        0.8755111965356739,
+        0.17017225684962442
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "329"
+    },
+    {
+      "bbox": [
+        0.7428860894333419,
+        0.15509370244522733,
+        0.7901859528055022,
+        0.17089028324983382
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "2/1/99"
+    },
+    {
+      "bbox": [
+        0.1706504874603432,
+        0.09477948482763893,
+        0.3839635967857722,
+        0.10770396003140786
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Lowell Junkins and Associates"
+    },
+    {
+      "bbox": [
+        0.16972303915892828,
+        0.09556792804406893,
+        0.38600508737151407,
+        0.13211685763852699
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Lowell Junkins and Associates\n321 East 6th Street Suite 200\nDes Moines, M. 50309"
+    },
+    {
+      "bbox": [
+        0.19012690179005629,
+        0.22043410486428144,
+        0.25041104138202536,
+        0.232640553667841
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "TILMC"
+    },
+    {
+      "bbox": [
+        0.18456221198156683,
+        0.2196029018399589,
+        0.3598499409489846,
+        0.2929547712854294
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "TILMC\n%Jim Savarese\n2101 L Street, NW\n3rd Floor\nWashington, DC 20037"
+    },
+    {
+      "bbox": [
+        0.822646643355024,
+        0.7840848290286493,
+        0.833776022972003,
+        0.7998814098332557
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8207917467521942,
+        0.7848028554288587,
+        0.8922052659611421,
+        0.798445357032837
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,750.00"
+    },
+    {
+      "bbox": [
+        0.822646643355024,
+        0.7855208818290681,
+        0.8922052659611421,
+        0.798445357032837
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,750.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.39325842696629215,
+        0.4443548387096774,
+        0.40886392009987516
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Consulting Service"
+    },
+    {
+      "bbox": [
+        0.5604838709677419,
+        0.39325842696629215,
+        0.6225806451612903,
+        0.40886392009987516
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,375.00"
+    },
+    {
+      "bbox": [
+        0.8338709677419355,
+        0.39325842696629215,
+        0.8983870967741936,
+        0.40886392009987516
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,375.00"
+    },
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.40886392009987516,
+        0.4443548387096774,
+        0.4363295880149813
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Lobbying Sen ices\nServices for the month of January 1999"
+    },
+    {
+      "bbox": [
+        0.5604838709677419,
+        0.40886392009987516,
+        0.6225806451612903,
+        0.4363295880149813
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,375.00"
+    },
+    {
+      "bbox": [
+        0.8338709677419355,
+        0.40886392009987516,
+        0.8983870967741936,
+        0.4363295880149813
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,375.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2879720425249366,
+        0.3751560549313358,
+        0.380753317111876,
+        0.3849828694866968
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.5604838709677419,
+        0.3751560549313358,
+        0.5960758977570373,
+        0.3849828694866968
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.8148996585752907,
+        0.3748160683558861,
+        0.8709185413447634,
+        0.3849828694866968
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 312,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mywx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1706,
+        2204
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15483870967741936,
+          0.3751560549313358,
+          0.8983870967741936,
+          0.8002496878901373
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15483870967741936,
+            "right": 0.4443548387096774
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.5604838709677419,
+            "right": 0.6225806451612903
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8338709677419355,
+            "right": 0.8983870967741936
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.38451935081148564,
+            "row_type": "header",
+            "top": 0.3751560549313358
+          },
+          {
+            "bottom": 0.39325842696629215,
+            "row_type": "gap",
+            "top": 0.38451935081148564
+          },
+          {
+            "bottom": 0.40886392009987516,
+            "row_type": "data",
+            "top": 0.39325842696629215
+          },
+          {
+            "bottom": 0.4363295880149813,
+            "row_type": "data",
+            "top": 0.40886392009987516
+          },
+          {
+            "bottom": 0.7771535580524345,
+            "row_type": "gap",
+            "top": 0.4363295880149813
+          },
+          {
+            "bottom": 0.8002496878901373,
+            "row_type": "footer",
+            "top": 0.7771535580524345
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

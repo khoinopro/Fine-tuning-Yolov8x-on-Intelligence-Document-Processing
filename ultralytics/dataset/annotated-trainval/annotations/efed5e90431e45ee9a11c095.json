@@ -1,0 +1,339 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8028202225995096,
+        0.15314616041065401,
+        0.8876155442369364,
+        0.16750361294915286
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1159901210"
+    },
+    {
+      "bbox": [
+        0.5963025844180343,
+        0.1536779179120799,
+        0.6694727409922656,
+        0.16750361294915286
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "21-Jan-99"
+    },
+    {
+      "bbox": [
+        0.23451964831074631,
+        0.08728513521977875,
+        0.4752233847108226,
+        0.1002299645955934
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. Box 25099, Richmond, VA U.S.A. 23260"
+    },
+    {
+      "bbox": [
+        0.215015985875167,
+        0.5274093339974767,
+        0.5051924269898835,
+        0.5414637201769326
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "UNIVERSAL LEAF NORTH AMERICA"
+    },
+    {
+      "bbox": [
+        0.2167751367666478,
+        0.5269716839130492,
+        0.5039850971514809,
+        0.5773393901613332
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "UNIVERSAL LEAF NORTH AMERICA\nP.O. BOX 25099\nRICHMOND, VA 23260"
+    },
+    {
+      "bbox": [
+        0.030088662516506322,
+        0.1244312553336564,
+        0.22156196943972836,
+        0.1361299203650258
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R. J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.029404829277494812,
+        0.12336774033080464,
+        0.2249811356347859,
+        0.1595272504277646
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R. J. Reynolds Tobacco Company\nP.O Box 2718\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.24207696661007358,
+        0.12336774033080464,
+        0.424660441426146,
+        0.14729682789496934
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "R. J. Reynolds Internatonal B.V.\n(Hilversum) Geneva Branch"
+    },
+    {
+      "bbox": [
+        0.7287709963733536,
+        0.40276911972177565,
+        0.7392363762168352,
+        0.417193358169112
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7274193548387097,
+        0.401476913576541,
+        0.8137615544236936,
+        0.41636612361646563
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$693,450.00"
+    },
+    {
+      "bbox": [
+        0.7274193548387097,
+        0.4004133985736892,
+        0.8130777211846821,
+        0.41636612361646563
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$693,450.00"
+    },
+    {
+      "bbox": [
+        0.19420863987926806,
+        0.4828358112947009,
+        0.49988209771741177,
+        0.4971932638331997
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "CASH DUE UPON RECEIPT OF INVOICE"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03387096774193549,
+        0.36363636363636365,
+        0.09435483870967742,
+        0.3786833855799373
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "FC-MIX"
+    },
+    {
+      "bbox": [
+        0.5274193548387097,
+        0.36363636363636365,
+        0.5967741935483871,
+        0.3786833855799373
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,035.000"
+    },
+    {
+      "bbox": [
+        0.6379032258064516,
+        0.36363636363636365,
+        0.6919354838709677,
+        0.3786833855799373
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$67.00"
+    },
+    {
+      "bbox": [
+        0.725,
+        0.36363636363636365,
+        0.8137096774193548,
+        0.3786833855799373
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$693,450.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.042397660818713455,
+        0.34298358841969395,
+        0.10736181852480664,
+        0.35893631346247035
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MARKS"
+    },
+    {
+      "bbox": [
+        0.517661761931711,
+        0.3312849233883245,
+        0.5627947557064705,
+        0.35893631346247035
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET\nLBS."
+    },
+    {
+      "bbox": [
+        0.5997217506130919,
+        0.3310344827586207,
+        0.6865685719675533,
+        0.3592476489028213
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PRICE PER\n100 LBS."
+    },
+    {
+      "bbox": [
+        0.7029805697038295,
+        0.3310344827586207,
+        0.8342765515940388,
+        0.3592476489028213
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL U.S.\nDOLLAR VALUE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1042,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gjbf0224",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1819,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03387096774193549,
+          0.3310344827586207,
+          0.8411290322580646,
+          0.419435736677116
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.03387096774193549,
+            "right": 0.09435483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.1346774193548387,
+            "right": 0.17983870967741936
+          },
+          {
+            "column_type": "",
+            "left": 0.19919354838709677,
+            "right": 0.26048387096774195
+          },
+          {
+            "column_type": "",
+            "left": 0.3088709677419355,
+            "right": 0.38225806451612904
+          },
+          {
+            "column_type": "",
+            "left": 0.43870967741935485,
+            "right": 0.49032258064516127
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.5274193548387097,
+            "right": 0.5967741935483871
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6379032258064516,
+            "right": 0.6919354838709677
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.725,
+            "right": 0.8137096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3592476489028213,
+            "row_type": "header",
+            "top": 0.3310344827586207
+          },
+          {
+            "bottom": 0.36363636363636365,
+            "row_type": "gap",
+            "top": 0.3592476489028213
+          },
+          {
+            "bottom": 0.3786833855799373,
+            "row_type": "data",
+            "top": 0.36363636363636365
+          },
+          {
+            "bottom": 0.38934169278996866,
+            "row_type": "up-merge",
+            "top": 0.3786833855799373
+          },
+          {
+            "bottom": 0.40188087774294673,
+            "row_type": "gap",
+            "top": 0.38934169278996866
+          },
+          {
+            "bottom": 0.419435736677116,
+            "row_type": "footer",
+            "top": 0.40188087774294673
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7879685598579608,
+        0.14286284289276807,
+        0.8423663893709976,
+        0.1546134663341646
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42012317"
+    },
+    {
+      "bbox": [
+        0.19759211602529572,
+        0.16883790523690773,
+        0.2703892114030363,
+        0.1812069825436409
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "May 14, 1999"
+    },
+    {
+      "bbox": [
+        0.18639256289025874,
+        0.19481296758104738,
+        0.36238554072655454,
+        0.2078004987531172
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Pathology Associates International"
+    },
+    {
+      "bbox": [
+        0.155993775809444,
+        0.22078802992518703,
+        0.4383825084285914,
+        0.23253865336658355
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "15 Worman's Mill's Court, Suite 1, Frederick, MD 21701"
+    },
+    {
+      "bbox": [
+        0.15241935483870966,
+        0.09351620947630923,
+        0.3282258064516129,
+        0.1084788029925187
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A"
+    },
+    {
+      "bbox": [
+        0.5713552946540522,
+        0.14489490559315996,
+        0.5942095064402143,
+        0.15461346633416456
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "470"
+    },
+    {
+      "bbox": [
+        0.1554086401459022,
+        0.09806911293195582,
+        0.3245298073635017,
+        0.11176344852155326
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.29838709677419356,
+        0.4183291770573566,
+        0.557258064516129,
+        0.48129675810473815
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Consulting services of Dr. William C. Hall\nto SAB as per attached agreement dated\nJune 30, 1999"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.4135834979152952,
+        0.3902443890274314,
+        0.4943802741037764,
+        0.40075810473815465
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 724,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "qzcm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14838709677419354,
+          0.38403990024937656,
+          0.9,
+          0.7612219451371571
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.29838709677419356,
+            "right": 0.557258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.6201612903225806,
+            "right": 0.6741935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40523690773067333,
+            "row_type": "header",
+            "top": 0.38403990024937656
+          },
+          {
+            "bottom": 0.4183291770573566,
+            "row_type": "gap",
+            "top": 0.40523690773067333
+          },
+          {
+            "bottom": 0.48129675810473815,
+            "row_type": "data",
+            "top": 0.4183291770573566
+          },
+          {
+            "bottom": 0.7412718204488778,
+            "row_type": "gap",
+            "top": 0.48129675810473815
+          },
+          {
+            "bottom": 0.7612219451371571,
+            "row_type": "gap-with-text",
+            "top": 0.7412718204488778
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

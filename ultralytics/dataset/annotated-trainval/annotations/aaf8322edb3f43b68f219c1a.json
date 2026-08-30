@@ -1,0 +1,265 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7601219891824584,
+        0.2038273556231003,
+        0.8249323903653838,
+        0.21709422492401217
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59275-1"
+    },
+    {
+      "bbox": [
+        0.7345178800731545,
+        0.2201094224924012,
+        0.8497363710650219,
+        0.23277325227963525
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 19, 2001"
+    },
+    {
+      "bbox": [
+        0.37983870967741934,
+        0.3171987841945289,
+        0.41686690143585353,
+        0.3286565349544073
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "3281"
+    },
+    {
+      "bbox": [
+        0.07761245573757733,
+        0.8713920972644377,
+        0.3008482820343204,
+        0.8816437689969605
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Regents of The University of California"
+    },
+    {
+      "bbox": [
+        0.07681232732791159,
+        0.870186018237082,
+        0.30244853885365186,
+        0.921444376899696
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Regents of The University of California\nCashier\u00b4s Office\nOne Shields Avenue\nDavis, California 95616"
+    },
+    {
+      "bbox": [
+        0.34645560138526793,
+        0.10161215805471124,
+        0.5800930970076656,
+        0.11367294832826746
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "UNIVERSITY OF CALIFORNIA, DAVIS"
+    },
+    {
+      "bbox": [
+        0.3480558582045994,
+        0.10161215805471124,
+        0.5784928401883341,
+        0.12995501519756839
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "UNIVERSITY OF CALIFORNIA DAVS\nAccounting Office"
+    },
+    {
+      "bbox": [
+        0.07761245573757733,
+        0.18966565349544073,
+        0.20963364333242537,
+        0.2188449848024316
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.07681232732791159,
+        0.18905288753799393,
+        0.23203723880306626,
+        0.24694468085106383
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Bruce D. Davies\nPhilip Morris U.S.A.\n4201 Commerce Road\nRichmond, VA 25234"
+    },
+    {
+      "bbox": [
+        0.792927253978754,
+        0.7548547112462006,
+        0.8041290517140744,
+        0.7699306990881459
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7937273823884198,
+        0.75500547112462,
+        0.8809413790419861,
+        0.7688753799392097
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$66,103.20"
+    },
+    {
+      "bbox": [
+        0.7532258064516129,
+        0.2480243161094225,
+        0.8281329040040468,
+        0.2590054711246201
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$66,103.20"
+    },
+    {
+      "bbox": [
+        0.7937273823884198,
+        0.755306990881459,
+        0.8801412506323202,
+        0.7685738601823708
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$66,103.20"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07661290322580645,
+        0.5386018237082066,
+        0.31129032258064515,
+        0.5556231003039513
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Amount due per agreement"
+    },
+    {
+      "bbox": [
+        0.603225806451613,
+        0.5386018237082066,
+        0.692741935483871,
+        0.5556231003039513
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$66.103.20"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.14962401260749444,
+        0.3862468085106383,
+        0.3056490524923149,
+        0.40071975683890576
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Services"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 935,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xrgl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07661290322580645,
+          0.38480243161094224,
+          0.8887096774193548,
+          0.7756838905775076
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07661290322580645,
+            "right": 0.31129032258064515
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.603225806451613,
+            "right": 0.692741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3993920972644377,
+            "row_type": "header",
+            "top": 0.38480243161094224
+          },
+          {
+            "bottom": 0.4133738601823708,
+            "row_type": "gap",
+            "top": 0.3993920972644377
+          },
+          {
+            "bottom": 0.5386018237082066,
+            "row_type": "gap-with-text",
+            "top": 0.4133738601823708
+          },
+          {
+            "bottom": 0.5556231003039513,
+            "row_type": "data",
+            "top": 0.5386018237082066
+          },
+          {
+            "bottom": 0.6346504559270517,
+            "row_type": "gap-with-text",
+            "top": 0.5556231003039513
+          },
+          {
+            "bottom": 0.7556231003039514,
+            "row_type": "gap",
+            "top": 0.6346504559270517
+          },
+          {
+            "bottom": 0.7756838905775076,
+            "row_type": "footer",
+            "top": 0.7556231003039514
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

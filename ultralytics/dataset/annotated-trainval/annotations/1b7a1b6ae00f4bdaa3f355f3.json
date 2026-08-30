@@ -1,0 +1,234 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.12802115537926073,
+        0.06810206561360875,
+        0.21843609636586359,
+        0.08015552855407047
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "AUG 13 99"
+    },
+    {
+      "bbox": [
+        0.41366835831923626,
+        0.9037083839611179,
+        0.6609092146454335,
+        0.918775212636695
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Canadian Tobacco Manufacturer's Council"
+    },
+    {
+      "bbox": [
+        0.29044799626669776,
+        0.904311057108141,
+        0.6929145034902487,
+        0.9338420413122722
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Hosted by the Canadian Tobacco Manufacturers' Council\nP.O. Box 2860, Station \"D\" - Ottawa, Ontario KIP 5W8 Canada"
+    },
+    {
+      "bbox": [
+        0.6329045869062202,
+        0.9326366950182259,
+        0.736121643430749,
+        0.9477035236938032
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "tsrc93@ecto.com"
+    },
+    {
+      "bbox": [
+        0.23623976744638236,
+        0.25031348724179825,
+        0.45207470493301444,
+        0.265778857837181
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Deborah Lynn Mereand"
+    },
+    {
+      "bbox": [
+        0.5403225806451613,
+        0.44471445929526127,
+        0.6112903225806452,
+        0.4629404617253949
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$275.00"
+    },
+    {
+      "bbox": [
+        0.5403225806451613,
+        0.44471445929526127,
+        0.6112903225806452,
+        0.4629404617253949
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$275.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.23709677419354838,
+        0.3663426488456865,
+        0.36935483870967745,
+        0.38153098420413123
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Registration Fee"
+    },
+    {
+      "bbox": [
+        0.5362903225806451,
+        0.3663426488456865,
+        0.6217741935483871,
+        0.38153098420413123
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$275.00"
+    },
+    {
+      "bbox": [
+        0.23709677419354838,
+        0.39125151883353587,
+        0.36935483870967745,
+        0.40643985419198053
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Guest Fee"
+    },
+    {
+      "bbox": [
+        0.5362903225806451,
+        0.39125151883353587,
+        0.6217741935483871,
+        0.40643985419198053
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.23709677419354838,
+        0.4155528554070474,
+        0.36935483870967745,
+        0.4313487241798299
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Banquet ticke"
+    },
+    {
+      "bbox": [
+        0.5362903225806451,
+        0.4155528554070474,
+        0.6217741935483871,
+        0.4313487241798299
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$0.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 176,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nxkm0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.23709677419354838,
+          0.3663426488456865,
+          0.6217741935483871,
+          0.4617253948967193
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.23709677419354838,
+            "right": 0.36935483870967745
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5362903225806451,
+            "right": 0.6217741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.38153098420413123,
+            "row_type": "data",
+            "top": 0.3663426488456865
+          },
+          {
+            "bottom": 0.39125151883353587,
+            "row_type": "gap",
+            "top": 0.38153098420413123
+          },
+          {
+            "bottom": 0.40643985419198053,
+            "row_type": "data",
+            "top": 0.39125151883353587
+          },
+          {
+            "bottom": 0.4155528554070474,
+            "row_type": "gap",
+            "top": 0.40643985419198053
+          },
+          {
+            "bottom": 0.4313487241798299,
+            "row_type": "data",
+            "top": 0.4155528554070474
+          },
+          {
+            "bottom": 0.4416767922235723,
+            "row_type": "gap",
+            "top": 0.4313487241798299
+          },
+          {
+            "bottom": 0.4617253948967193,
+            "row_type": "footer",
+            "top": 0.4416767922235723
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

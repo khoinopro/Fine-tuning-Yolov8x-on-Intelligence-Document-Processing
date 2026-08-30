@@ -1,0 +1,372 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3769342935364838,
+        0.08024316109422493,
+        0.42405108022854426,
+        0.09226430747824535
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4849"
+    },
+    {
+      "bbox": [
+        0.4558702089037019,
+        0.07980862596868223,
+        0.5482680633257946,
+        0.09272562901563658
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "04/01/99"
+    },
+    {
+      "bbox": [
+        0.03610247291989049,
+        0.07519541059476996,
+        0.29493884656588504,
+        0.08903505671650676
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1201 East Jefferson, Phoenix, AZ 85034"
+    },
+    {
+      "bbox": [
+        0.2884539732494099,
+        0.9192928580842068,
+        0.5720889063729346,
+        0.9343377186284743
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "1201 East Jefferson, Phoenix, AZ 85034"
+    },
+    {
+      "bbox": [
+        0.07832400904654208,
+        0.13885778275475924,
+        0.29004359600047613,
+        0.15269742887649604
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "KEVIN BERG & ASSOC"
+    },
+    {
+      "bbox": [
+        0.07771210272586597,
+        0.13869496338862117,
+        0.43567730032139035,
+        0.21313055027474676
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "KEVIN BERG & ASSOC\nATTN: ACCOUNTS PAYABLE\n640 N LASALLE ST     #545\nCHICAGO, IL                    60610"
+    },
+    {
+      "bbox": [
+        0.8444307225330319,
+        0.6744520876659735,
+        0.9288737947863349,
+        0.6869077691755365
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2051.05"
+    },
+    {
+      "bbox": [
+        0.8474902541364123,
+        0.6739907661285823,
+        0.9288737947863349,
+        0.6873690907129278
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2051.05"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03387096774193539,
+        0.27234042553191484,
+        0.08951612903225797,
+        0.28571428571428564
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "04/01"
+    },
+    {
+      "bbox": [
+        0.10080645161290314,
+        0.27234042553191484,
+        0.1435483870967741,
+        0.28571428571428564
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NRC"
+    },
+    {
+      "bbox": [
+        0.15725806451612895,
+        0.27234042553191484,
+        0.3620967741935483,
+        0.28571428571428564
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NATIONAL RATE"
+    },
+    {
+      "bbox": [
+        0.5580645161290322,
+        0.27234042553191484,
+        0.629032258064516,
+        0.28571428571428564
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "130.00"
+    },
+    {
+      "bbox": [
+        0.6572580645161289,
+        0.27234042553191484,
+        0.7379032258064515,
+        0.28571428571428564
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3090.00"
+    },
+    {
+      "bbox": [
+        0.7588709677419354,
+        0.27234042553191484,
+        0.8491935483870968,
+        0.28571428571428564
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2413.00"
+    },
+    {
+      "bbox": [
+        0.15725806451612895,
+        0.28571428571428564,
+        0.3620967741935483,
+        0.29908814589665655
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "AGENCY COMMISSION"
+    },
+    {
+      "bbox": [
+        0.7588709677419354,
+        0.28571428571428564,
+        0.8491935483870968,
+        0.29908814589665655
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "361.95-"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.03387096774193539,
+        0.25108372478585245,
+        0.07345828027730616,
+        0.26200607902735557
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.10080645161290314,
+        0.24889085382702406,
+        0.1435483870967741,
+        0.26200607902735557
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "REF. #"
+    },
+    {
+      "bbox": [
+        0.17309970996038482,
+        0.2390229345122962,
+        0.3702006402093944,
+        0.2620480795799945
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CHARGE OR CREDITS\nDESCRIPTION/PRODUCT CODE"
+    },
+    {
+      "bbox": [
+        0.5789385257498585,
+        0.24066758773141755,
+        0.629032258064516,
+        0.26200607902735557
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BILLED\nUNITS"
+    },
+    {
+      "bbox": [
+        0.67276147778721,
+        0.25053550704614536,
+        0.7113088921901528,
+        0.2636927327991158
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.7629478812959819,
+        0.2401193699917104,
+        0.8225872771646859,
+        0.26200607902735557
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS\nAMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1061,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tghb0089",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03387096774193539,
+          0.23586626139817624,
+          0.9419354838709677,
+          0.7045592705167173
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.03387096774193539,
+            "right": 0.08951612903225797
+          },
+          {
+            "column_type": "line_item_order_id",
+            "left": 0.10080645161290314,
+            "right": 0.1435483870967741
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.15725806451612895,
+            "right": 0.3620967741935483
+          },
+          {
+            "column_type": "",
+            "left": 0.3975806451612902,
+            "right": 0.4443548387096774
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.5580645161290322,
+            "right": 0.629032258064516
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6572580645161289,
+            "right": 0.7379032258064515
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7588709677419354,
+            "right": 0.8491935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.26200607902735557,
+            "row_type": "header",
+            "top": 0.23586626139817624
+          },
+          {
+            "bottom": 0.27234042553191484,
+            "row_type": "gap",
+            "top": 0.26200607902735557
+          },
+          {
+            "bottom": 0.28571428571428564,
+            "row_type": "data",
+            "top": 0.27234042553191484
+          },
+          {
+            "bottom": 0.29908814589665655,
+            "row_type": "data",
+            "top": 0.28571428571428564
+          },
+          {
+            "bottom": 0.3829787234042553,
+            "row_type": "gap",
+            "top": 0.29908814589665655
+          },
+          {
+            "bottom": 0.5282674772036474,
+            "row_type": "gap-with-text",
+            "top": 0.3829787234042553
+          },
+          {
+            "bottom": 0.5604863221884498,
+            "row_type": "gap",
+            "top": 0.5282674772036474
+          },
+          {
+            "bottom": 0.7045592705167173,
+            "row_type": "footer",
+            "top": 0.5604863221884498
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

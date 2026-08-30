@@ -1,0 +1,180 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4657804953104722,
+        0.10702758255228266,
+        0.5191855875623821,
+        0.11698363674319269
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "XN3JPU"
+    },
+    {
+      "bbox": [
+        0.6749963206272327,
+        0.09707152836137264,
+        0.7790536653242531,
+        0.10702758255228266
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "SEP 01 1999"
+    },
+    {
+      "bbox": [
+        0.2158226408530793,
+        0.10661274696099475,
+        0.2978572670957038,
+        0.1173984723344806
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "441003001"
+    },
+    {
+      "bbox": [
+        0.17673231559652666,
+        0.13523640275986104,
+        0.3358464564295367,
+        0.1460221281333469
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.17618174763516678,
+        0.1360660739424369,
+        0.445409480740156,
+        0.18543150930569902
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\nGERRY NIXON\nATTN GERRY NIXON 604-274-2003\nR AND D B2\nRIHMOND VA 23234"
+    },
+    {
+      "bbox": [
+        0.6973082585999197,
+        0.3476322254992747,
+        0.7391687859724267,
+        0.3592476220553364
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "9.82"
+    },
+    {
+      "bbox": [
+        0.6995114442511043,
+        0.3484618966818505,
+        0.7391687859724267,
+        0.3584179508727605
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09193548387096774,
+        0.23147023086269744,
+        0.2620967741935484,
+        0.24119076549210205
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "06 SEP 99 - MONDAY"
+    },
+    {
+      "bbox": [
+        0.35172285217125265,
+        0.25131138310168033,
+        0.5287645562842992,
+        0.2619802625729781
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DULLES INTL AIRPort"
+    },
+    {
+      "bbox": [
+        0.2872009866722756,
+        0.26079483152061167,
+        0.3344121077690881,
+        0.2714637109919094
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "41.25"
+    },
+    {
+      "bbox": [
+        0.580696789490793,
+        0.2412352191565658,
+        0.626334206551045,
+        0.2524968141540468
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "10SEP"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 942,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rpwc0062",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1762,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09193548387096774,
+          0.23147023086269744,
+          0.7443548387096774,
+          0.29586877278250306
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.09193548387096774,
+            "right": 0.2620967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.24119076549210205,
+            "row_type": "data",
+            "top": 0.23147023086269744
+          },
+          {
+            "bottom": 0.29586877278250306,
+            "row_type": "up-merge",
+            "top": 0.24119076549210205
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

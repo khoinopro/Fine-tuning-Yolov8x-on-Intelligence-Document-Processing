@@ -1,0 +1,208 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.615485824310749,
+        0.1129225173724266,
+        0.7170471034713696,
+        0.1265678449258837
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 15, 2000"
+    },
+    {
+      "bbox": [
+        0.05139245451501284,
+        0.11768170392835262,
+        0.326709175131153,
+        0.14493886329411076
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "101 WEST WASHINGTON STREET. SUITE 1338E\nINDIANAPOLIS, INDIANA 46204"
+    },
+    {
+      "bbox": [
+        0.19272170443129813,
+        0.1769552092157949,
+        0.31630832124120994,
+        0.2076735951676811
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Hurst Marshall\nR.J. Reynolds Co."
+    },
+    {
+      "bbox": [
+        0.19333351936600068,
+        0.17698065941128116,
+        0.3677007757562228,
+        0.24142055438242926
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Hurst Marshall\nR.J. Reynolds Co.\n401 N. Main Street\nWinston-Salem, NC 27101"
+    },
+    {
+      "bbox": [
+        0.7526229910744552,
+        0.8435551421788418,
+        0.7674875994081275,
+        0.8612080151093406
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7526229910744552,
+        0.8448160616738775,
+        0.8340810447429795,
+        0.8603674021126503
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,000.00"
+    },
+    {
+      "bbox": [
+        0.753144184618819,
+        0.8449719403385024,
+        0.8345155709342561,
+        0.8609801132993445
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.031451612903225803,
+        0.3312428734321551,
+        0.29758064516129035,
+        0.35347776510832385
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Sponsorship of Industry Luncheon"
+    },
+    {
+      "bbox": [
+        0.30806451612903224,
+        0.3312428734321551,
+        0.4096774193548387,
+        0.35347776510832385
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "June 6, 2000"
+    },
+    {
+      "bbox": [
+        0.75,
+        0.3312428734321551,
+        0.8314516129032258,
+        0.35347776510832385
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.031451612903225803,
+        0.2967363878317201,
+        0.21392958506217033,
+        0.314709236031927
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM/DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7597580030746179,
+        0.29547546833668453,
+        0.8180272677426135,
+        0.3106065022771122
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1023,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rncc0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1653,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.031451612903225803,
+          0.29418472063854045,
+          0.8314516129032258,
+          0.35347776510832385
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.031451612903225803,
+            "right": 0.29758064516129035
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.30806451612903224,
+            "right": 0.4096774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.75,
+            "right": 0.8314516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.314709236031927,
+            "row_type": "header",
+            "top": 0.29418472063854045
+          },
+          {
+            "bottom": 0.3312428734321551,
+            "row_type": "gap",
+            "top": 0.314709236031927
+          },
+          {
+            "bottom": 0.35347776510832385,
+            "row_type": "data",
+            "top": 0.3312428734321551
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

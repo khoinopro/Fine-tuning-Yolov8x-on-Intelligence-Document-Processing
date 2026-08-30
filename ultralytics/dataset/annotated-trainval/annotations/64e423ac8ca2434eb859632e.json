@@ -1,0 +1,295 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7170719816375297,
+        0.1395543082022301,
+        0.7989315090193753,
+        0.14952178662444793
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "PM08-021973"
+    },
+    {
+      "bbox": [
+        0.20104610016716215,
+        0.13872368500037863,
+        0.2642540896645365,
+        0.14952178662444793
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "AUG12/02"
+    },
+    {
+      "bbox": [
+        0.1989737070688876,
+        0.14952178662444793,
+        0.2642540896645365,
+        0.16115051145036874
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "AUG22/02"
+    },
+    {
+      "bbox": [
+        0.20929561868078964,
+        0.185019308141379,
+        0.24143379594898726,
+        0.1935448163225767
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "YSPP"
+    },
+    {
+      "bbox": [
+        0.36165656528344126,
+        0.08390255367818056,
+        0.5398823717350542,
+        0.10549875692631919
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "40 WEST 23RD STREET\nNEW YORK, NY 10010-5201"
+    },
+    {
+      "bbox": [
+        0.34922220669379384,
+        0.3962168775743392,
+        0.517086047654034,
+        0.40784560240026
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC."
+    },
+    {
+      "bbox": [
+        0.34818601014465655,
+        0.3962248167495419,
+        0.5181222442031712,
+        0.43110305205210164
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC.\nP.O. BOX 198261\nATLANTA, GA 30384-8261"
+    },
+    {
+      "bbox": [
+        0.20829947601112314,
+        0.17367941506174608,
+        0.23420438973955526,
+        0.18274671469850737
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LRL"
+    },
+    {
+      "bbox": [
+        0.5657872854634862,
+        0.17194861307443807,
+        0.7916781331754142,
+        0.18274671469850737
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.5657872854634862,
+        0.1724857421059953,
+        0.7902585459797785,
+        0.22926161400219058
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC.\n714 GREEN VALLEY ROAD\nB0X 10529\nGREENSBORO NC 27404\nJORDAN BRESSLER"
+    },
+    {
+      "bbox": [
+        0.26114550001712467,
+        0.17277923627628952,
+        0.48807254427818997,
+        0.18274671469850737
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.7844247573314533,
+        0.3638225727021313,
+        0.8010039021176498,
+        0.3737900511243491
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "CR"
+    },
+    {
+      "bbox": [
+        0.7149995885392552,
+        0.3638225727021313,
+        0.7999677055685126,
+        0.3746206743262006
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "93,750.00CR"
+    },
+    {
+      "bbox": [
+        0.7170719816375297,
+        0.3629919495002798,
+        0.8010039021176498,
+        0.3746206743262006
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "93,750.00CR"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.7169354838709677,
+        0.2837750484809308,
+        0.7838709677419354,
+        0.2954104718810601
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "93,750.00"
+    },
+    {
+      "bbox": [
+        0.12851234172755227,
+        0.2851902482078174,
+        0.18964793812665204,
+        0.2968189730337382
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "07/15/02"
+    },
+    {
+      "bbox": [
+        0.12643994862927768,
+        0.273653817665281,
+        0.42071976858426646,
+        0.2844519192893503
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "HOST EVENTS AND EXPERIENCRS HOOPITU"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7429768953659619,
+        0.23867534890413417,
+        0.8030762952159244,
+        0.2619327985559758
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Net\nOrdered"
+    },
+    {
+      "bbox": [
+        0.12643994862927768,
+        0.23867534890413417,
+        0.17721357953700462,
+        0.2619327985559758
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Insert Date"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1050,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tsfd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12580645161290321,
+          0.23787976729153198,
+          0.8088709677419355,
+          0.3768584356819651
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7169354838709677,
+            "right": 0.7838709677419354
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.27020038784744665,
+            "row_type": "header",
+            "top": 0.23787976729153198
+          },
+          {
+            "bottom": 0.2837750484809308,
+            "row_type": "down-merge",
+            "top": 0.27020038784744665
+          },
+          {
+            "bottom": 0.2954104718810601,
+            "row_type": "data",
+            "top": 0.2837750484809308
+          },
+          {
+            "bottom": 0.3076923076923077,
+            "row_type": "up-merge",
+            "top": 0.2954104718810601
+          },
+          {
+            "bottom": 0.31868131868131866,
+            "row_type": "gap-with-text",
+            "top": 0.3076923076923077
+          },
+          {
+            "bottom": 0.3270846800258565,
+            "row_type": "gap",
+            "top": 0.31868131868131866
+          },
+          {
+            "bottom": 0.3768584356819651,
+            "row_type": "footer",
+            "top": 0.3270846800258565
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

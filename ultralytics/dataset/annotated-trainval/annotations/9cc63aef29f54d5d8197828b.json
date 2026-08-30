@@ -1,0 +1,257 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7681102327391058,
+        0.0625012711598372,
+        0.8707073252688171,
+        0.07675594703839654
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 3, 1999"
+    },
+    {
+      "bbox": [
+        0.2585446731748727,
+        0.7050581992241283,
+        0.3891849709960385,
+        0.7215059021609275
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Transit Image, Inc."
+    },
+    {
+      "bbox": [
+        0.10670097623089982,
+        0.8810486206478804,
+        0.5417126485568761,
+        0.8958515532909997
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "35 Chiefs Way, P.O. Box 1409, Randolph, MA 02368"
+    },
+    {
+      "bbox": [
+        0.06771408106960951,
+        0.17215262407183227,
+        0.14842379385964913,
+        0.18531078642127166
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "See Factor"
+    },
+    {
+      "bbox": [
+        0.06703010045274477,
+        0.17336531542875222,
+        0.22639758418222977,
+        0.21491665170751034
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "See Factor\n37-11 30th Street\nLong island, NY 11101"
+    },
+    {
+      "bbox": [
+        0.7954694574136956,
+        0.6518772930618107,
+        0.8091490697509903,
+        0.66613196894037
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7975760909956461,
+        0.6524400923735257,
+        0.8809670345217884,
+        0.6655837121758101
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 31,000.00"
+    },
+    {
+      "bbox": [
+        0.7975760909956461,
+        0.6531419762524984,
+        0.8802830539049236,
+        0.6655837121758101
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 31,000.00"
+    },
+    {
+      "bbox": [
+        0.6381539155348048,
+        0.3086685584472661,
+        0.7318592600452745,
+        0.3240197478549454
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Upon receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.4227537168713639,
+        0.08629032258064516,
+        0.442792501616031
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.1774193548387097,
+        0.4227537168713639,
+        0.45564516129032256,
+        0.442792501616031
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20' x 27' Sony Jumbo Tron Video Screen"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.4227537168713639,
+        0.8725806451612903,
+        0.442792501616031
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 31,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.08579850186152045,
+        0.3468866151677354,
+        0.16284207854516505,
+        0.36162617662615953
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.3685834480980796,
+        0.34829038292568054,
+        0.4780203467964384,
+        0.3623280605051321
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.3451842275371687,
+        0.8623627350250745,
+        0.3581167572312966
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1148,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gldl0014",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07258064516129033,
+          0.3451842275371687,
+          0.8887096774193548,
+          0.6742081447963801
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.07258064516129033,
+            "right": 0.08629032258064516
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.1774193548387097,
+            "right": 0.45564516129032256
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7887096774193548,
+            "right": 0.8725806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.36199095022624433,
+            "row_type": "header",
+            "top": 0.3451842275371687
+          },
+          {
+            "bottom": 0.38396897220426635,
+            "row_type": "gap-with-text",
+            "top": 0.36199095022624433
+          },
+          {
+            "bottom": 0.4227537168713639,
+            "row_type": "gap",
+            "top": 0.38396897220426635
+          },
+          {
+            "bottom": 0.442792501616031,
+            "row_type": "data",
+            "top": 0.4227537168713639
+          },
+          {
+            "bottom": 0.649644473173885,
+            "row_type": "gap",
+            "top": 0.442792501616031
+          },
+          {
+            "bottom": 0.6742081447963801,
+            "row_type": "footer",
+            "top": 0.649644473173885
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

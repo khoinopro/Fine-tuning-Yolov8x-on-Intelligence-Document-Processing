@@ -1,0 +1,763 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8527533636513586,
+        0.11686812280577744,
+        0.9002362214001274,
+        0.12782450931881906
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "028652"
+    },
+    {
+      "bbox": [
+        0.1414795353330663,
+        0.15631111425272728,
+        0.1996218101274771,
+        0.16778115501519758
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/30/99"
+    },
+    {
+      "bbox": [
+        0.3866461273828319,
+        0.0832685374991164,
+        0.5775465962911474,
+        0.09495534977969415
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "LOENS L' ENFANT PLAZA"
+    },
+    {
+      "bbox": [
+        0.24596774193548387,
+        0.19064112532692443,
+        0.4637096774193548,
+        0.20232793760750217
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "THE PRIVATE ADJUDICATION CENTER"
+    },
+    {
+      "bbox": [
+        0.25001178161596643,
+        0.20232793760750217,
+        0.6230913782134359,
+        0.22204943333097713
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "110 South Avenue, Suite # Duke University School of Law\nDurham, NC 27705"
+    },
+    {
+      "bbox": [
+        0.24819455516440928,
+        0.23247221974677817,
+        0.3596882096377109,
+        0.24464991590343838
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Ms. Lashley Russ"
+    },
+    {
+      "bbox": [
+        0.8129341528226546,
+        0.7399168259113478,
+        0.8242451032764677,
+        0.7502678676445089
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8105103777254089,
+        0.6974166737572797,
+        0.8992205610781502,
+        0.7111774555489538
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,592.50"
+    },
+    {
+      "bbox": [
+        0.8476749292165093,
+        0.7187276420314349,
+        0.9009979813559145,
+        0.7321231078037612
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.8112903225806452,
+        0.7394297254977572,
+        0.9096774193548387,
+        0.7513677811550152
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,592.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.2796352583586626,
+        0.5459677419354839,
+        0.30030395136778115
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "American Harvest Buffet"
+    },
+    {
+      "bbox": [
+        0.6419354838709678,
+        0.2796352583586626,
+        0.6991935483870968,
+        0.30030395136778115
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "32.00"
+    },
+    {
+      "bbox": [
+        0.7330645161290322,
+        0.2796352583586626,
+        0.8153225806451613,
+        0.30030395136778115
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,120.00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.30030395136778115,
+        0.5459677419354839,
+        0.3191489361702128
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Subtotal for Food"
+    },
+    {
+      "bbox": [
+        0.7330645161290322,
+        0.30030395136778115,
+        0.8153225806451613,
+        0.3191489361702128
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,120.00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.3191489361702128,
+        0.5459677419354839,
+        0.3386018237082067
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Sales Tax (10.00% of Food Charges)"
+    },
+    {
+      "bbox": [
+        0.8362797191262753,
+        0.3270846720771648,
+        0.8992671834868871,
+        0.33891755613675456
+      ],
+      "fieldtype": "line_item_tax",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "112.00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.3386018237082067,
+        0.5459677419354839,
+        0.3586626139817629
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Gratuity (20.0% of Food Charges)"
+    },
+    {
+      "bbox": [
+        0.8401558707792363,
+        0.3468061678006397,
+        0.9021742972266076,
+        0.36141468315136194
+      ],
+      "fieldtype": "line_item_tax",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "224.00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.3586626139817629,
+        0.5459677419354839,
+        0.3768996960486322
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Total Food"
+    },
+    {
+      "bbox": [
+        0.8159299229482316,
+        0.3633137723142955,
+        0.904112373053088,
+        0.37865271343255374
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$1,456.00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.4231003039513678,
+        0.5459677419354839,
+        0.4419452887537994
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Assorted Soft Drinks on Consumption"
+    },
+    {
+      "bbox": [
+        0.6419354838709678,
+        0.4231003039513678,
+        0.6991935483870968,
+        0.4419452887537994
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "3.00"
+    },
+    {
+      "bbox": [
+        0.7330645161290322,
+        0.4231003039513678,
+        0.8153225806451613,
+        0.4419452887537994
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "45.00"
+    },
+    {
+      "bbox": [
+        0.12306781498150288,
+        0.4233548016129192,
+        0.14438664907278684,
+        0.43752503475412924
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "15"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.4419452887537994,
+        0.5459677419354839,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Natural Spring Water"
+    },
+    {
+      "bbox": [
+        0.6419354838709678,
+        0.4419452887537994,
+        0.6991935483870968,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "3.00"
+    },
+    {
+      "bbox": [
+        0.7330645161290322,
+        0.4419452887537994,
+        0.8153225806451613,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "60.00"
+    },
+    {
+      "bbox": [
+        0.12016070124178233,
+        0.44117716359180975,
+        0.14438664907278684,
+        0.45578567894253197
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.45896656534954405,
+        0.5459677419354839,
+        0.48024316109422494
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Subtotal for Beverage"
+    },
+    {
+      "bbox": [
+        0.7330645161290322,
+        0.45896656534954405,
+        0.8153225806451613,
+        0.48024316109422494
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "105.00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.48024316109422494,
+        0.5459677419354839,
+        0.49848024316109424
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Sales Tax (10.00% of Beverage Charges)"
+    },
+    {
+      "bbox": [
+        0.8517843257381182,
+        0.4857331354115125,
+        0.898298145573647,
+        0.4988807992271624
+      ],
+      "fieldtype": "line_item_tax",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "10.50"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.49848024316109424,
+        0.5459677419354839,
+        0.5203647416413374
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "Gratuity (20.0% of Beverage Charges)"
+    },
+    {
+      "bbox": [
+        0.8479081740851576,
+        0.5039937795999152,
+        0.898298145573647,
+        0.5178718691831012
+      ],
+      "fieldtype": "line_item_tax",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "21.-00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.5203647416413374,
+        0.5459677419354839,
+        0.5361702127659574
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "Total Beverage"
+    },
+    {
+      "bbox": [
+        0.8275583779071138,
+        0.5232770376955288,
+        0.8992671834868871,
+        0.5393464045813232
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "$136.50"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.562917933130699,
+        0.5459677419354839,
+        0.5817629179331307
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "Sub-Total Miscellaneous Charges"
+    },
+    {
+      "bbox": [
+        0.7330645161290322,
+        0.562917933130699,
+        0.8153225806451613,
+        0.5817629179331307
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 12,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.5817629179331307,
+        0.5459677419354839,
+        0.6085106382978723
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "Sales Tax ( 10.00% of Miscellaneus Charges)"
+    },
+    {
+      "bbox": [
+        0.8527533636513586,
+        0.5858014655639594,
+        0.9002362214001274,
+        0.5974882778445371
+      ],
+      "fieldtype": "line_item_tax",
+      "line_item_id": 13,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.6085106382978723,
+        0.5459677419354839,
+        0.6285714285714286
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 14,
+      "page": 0,
+      "text": "Total Miscellaneus"
+    },
+    {
+      "bbox": [
+        0.8459700982586772,
+        0.6120967931952592,
+        0.8992671834868871,
+        0.6267053085459815
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 14,
+      "page": 0,
+      "text": "$0.00"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.6516717325227963,
+        0.5459677419354839,
+        0.6717325227963525
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 15,
+      "page": 0,
+      "text": "Qurum"
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.6717325227963525,
+        0.5459677419354839,
+        0.6917933130699088
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 16,
+      "page": 0,
+      "text": "Total Room Rental"
+    },
+    {
+      "bbox": [
+        0.8459700982586772,
+        0.6741829834358286,
+        0.8992671834868871,
+        0.6887914987865508
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 16,
+      "page": 0,
+      "text": "$0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.26565349544072947,
+        0.25001178161596643,
+        0.2790226431987936
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "FOOD"
+    },
+    {
+      "bbox": [
+        0.6419354838709678,
+        0.26565349544072947,
+        0.6991935483870968,
+        0.2796352583586626
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price"
+    },
+    {
+      "bbox": [
+        0.7277474728433753,
+        0.26565349544072947,
+        0.8153225806451613,
+        0.27960699718731774
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Sub-Total"
+    },
+    {
+      "bbox": [
+        0.12016070124178233,
+        0.28413562357154637,
+        0.1463247248992672,
+        0.29699112153834695
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "35"
+    },
+    {
+      "bbox": [
+        0.8459700982586772,
+        0.26587497938314364,
+        0.8992671834868871,
+        0.2804834947338658
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 658,
+    "currency": "usd",
+    "document_type": "receipt",
+    "language": "eng",
+    "original_filename": "ztym0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05887096774193548,
+          0.26565349544072947,
+          0.9145161290322581,
+          0.7580547112462006
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.19112903225806452,
+            "right": 0.5459677419354839
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.6419354838709678,
+            "right": 0.6991935483870968
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7330645161290322,
+            "right": 0.8153225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2796352583586626,
+            "row_type": "header",
+            "top": 0.26565349544072947
+          },
+          {
+            "bottom": 0.30030395136778115,
+            "row_type": "data",
+            "top": 0.2796352583586626
+          },
+          {
+            "bottom": 0.3191489361702128,
+            "row_type": "data",
+            "top": 0.30030395136778115
+          },
+          {
+            "bottom": 0.3386018237082067,
+            "row_type": "data",
+            "top": 0.3191489361702128
+          },
+          {
+            "bottom": 0.3586626139817629,
+            "row_type": "data",
+            "top": 0.3386018237082067
+          },
+          {
+            "bottom": 0.3768996960486322,
+            "row_type": "data",
+            "top": 0.3586626139817629
+          },
+          {
+            "bottom": 0.4231003039513678,
+            "row_type": "gap-with-text",
+            "top": 0.3768996960486322
+          },
+          {
+            "bottom": 0.4419452887537994,
+            "row_type": "data",
+            "top": 0.4231003039513678
+          },
+          {
+            "bottom": 0.45896656534954405,
+            "row_type": "data",
+            "top": 0.4419452887537994
+          },
+          {
+            "bottom": 0.48024316109422494,
+            "row_type": "data",
+            "top": 0.45896656534954405
+          },
+          {
+            "bottom": 0.49848024316109424,
+            "row_type": "data",
+            "top": 0.48024316109422494
+          },
+          {
+            "bottom": 0.5203647416413374,
+            "row_type": "data",
+            "top": 0.49848024316109424
+          },
+          {
+            "bottom": 0.5361702127659574,
+            "row_type": "data",
+            "top": 0.5203647416413374
+          },
+          {
+            "bottom": 0.562917933130699,
+            "row_type": "gap-with-text",
+            "top": 0.5361702127659574
+          },
+          {
+            "bottom": 0.5817629179331307,
+            "row_type": "data",
+            "top": 0.562917933130699
+          },
+          {
+            "bottom": 0.6085106382978723,
+            "row_type": "data",
+            "top": 0.5817629179331307
+          },
+          {
+            "bottom": 0.6285714285714286,
+            "row_type": "data",
+            "top": 0.6085106382978723
+          },
+          {
+            "bottom": 0.6516717325227963,
+            "row_type": "gap-with-text",
+            "top": 0.6285714285714286
+          },
+          {
+            "bottom": 0.6717325227963525,
+            "row_type": "data",
+            "top": 0.6516717325227963
+          },
+          {
+            "bottom": 0.6917933130699088,
+            "row_type": "data",
+            "top": 0.6717325227963525
+          },
+          {
+            "bottom": 0.7580547112462006,
+            "row_type": "footer",
+            "top": 0.6917933130699088
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

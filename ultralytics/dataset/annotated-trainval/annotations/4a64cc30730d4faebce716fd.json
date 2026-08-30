@@ -1,0 +1,221 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5630345365151698,
+        0.13830107467562452,
+        0.6520811847943399,
+        0.15168504964423332
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "FE09-022430"
+    },
+    {
+      "bbox": [
+        0.34412819282887636,
+        0.3063994828700711,
+        0.392741935483871,
+        0.3174976284219982
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "90976"
+    },
+    {
+      "bbox": [
+        0.4120967741935484,
+        0.03122927492675392,
+        0.542741935483871,
+        0.0698125404007757
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Bozell"
+    },
+    {
+      "bbox": [
+        0.34412819282887636,
+        0.08476517480118922,
+        0.5314971819162969,
+        0.10558469141902516
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "40 WEST 23RD STREET\nNEW YORK, NY 10010-5201"
+    },
+    {
+      "bbox": [
+        0.10080645161290322,
+        0.6061453643215841,
+        0.275,
+        0.6180422309603475
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC."
+    },
+    {
+      "bbox": [
+        0.1029601870727905,
+        0.6061732385261797,
+        0.27456049886077466,
+        0.6410924100729516
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC.\nP.O. BOX 198261\nATLANTA, GA 30384-8261"
+    },
+    {
+      "bbox": [
+        0.18467741935483872,
+        0.22663530890115594,
+        0.4217741935483871,
+        0.24001928386976473
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.1882965583403286,
+        0.22623497559558942,
+        0.4183337330615182,
+        0.2846325337651275
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC.\nYOUTH SMOKING PREVENTION PRGM.\n714 GREEN VALLEY RD, BOX 10529\nGREENSBORO, NC 27404\nATTN: JORDAN BRESSLER"
+    },
+    {
+      "bbox": [
+        0.5685483870967742,
+        0.5631188930421667,
+        0.6476986624704957,
+        0.5753622150863421
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$99,666.00"
+    },
+    {
+      "bbox": [
+        0.5672797010228167,
+        0.5631188930421667,
+        0.648423157618673,
+        0.5747355798506694
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$99,666.00"
+    },
+    {
+      "bbox": [
+        0.5685483870967742,
+        0.5631188930421667,
+        0.6476986624704957,
+        0.5740142210730446
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$99,666.00"
+    },
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.6826115061409179,
+        0.3032258064516129,
+        0.6959666983676588
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET DUE IN 20 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15161290322580645,
+        0.40530058177117,
+        0.47580645161290325,
+        0.41952165481577247
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SERVICE FEE FOR THE MONTH OF SEPTEMBER 2002"
+    },
+    {
+      "bbox": [
+        0.5693548387096774,
+        0.40530058177117,
+        0.6524193548387097,
+        0.41952165481577247
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$99,666.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 831,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qsfd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15161290322580645,
+          0.40530058177117,
+          0.6524193548387097,
+          0.5765998707175177
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15161290322580645,
+            "right": 0.47580645161290325
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5693548387096774,
+            "right": 0.6524193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41952165481577247,
+            "row_type": "data",
+            "top": 0.40530058177117
+          },
+          {
+            "bottom": 0.5610859728506787,
+            "row_type": "gap",
+            "top": 0.41952165481577247
+          },
+          {
+            "bottom": 0.5765998707175177,
+            "row_type": "footer",
+            "top": 0.5610859728506787
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

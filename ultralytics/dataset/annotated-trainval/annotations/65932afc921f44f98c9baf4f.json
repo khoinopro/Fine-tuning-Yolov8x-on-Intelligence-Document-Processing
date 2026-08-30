@@ -1,0 +1,732 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8156385101429997,
+        0.15160645158607725,
+        0.8493057864981709,
+        0.16602148033879557
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "484"
+    },
+    {
+      "bbox": [
+        0.7823287329564349,
+        0.18962739969812764,
+        0.8821291985367475,
+        0.2057222691154641
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "Nov-30-1999"
+    },
+    {
+      "bbox": [
+        0.6299093781177253,
+        0.2615445386467304,
+        0.6646740937811773,
+        0.2737807641611816
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "5914"
+    },
+    {
+      "bbox": [
+        0.39798387096774196,
+        0.07837038823446253,
+        0.6947622214832058,
+        0.09229144403926835
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Northwest Teleproductions, Chicago Inc."
+    },
+    {
+      "bbox": [
+        0.3966162287994679,
+        0.07761997886834306,
+        0.6978536626344086,
+        0.12477390758381533
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Northwest Teleproductions, Chicago Inc.\n142 E. Ontario St.\nChicago, IL 60611"
+    },
+    {
+      "bbox": [
+        0.061543897572331224,
+        0.8620742705790876,
+        0.3610575324243432,
+        0.8765109210433307
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Northwest Teleproductions Chicago, Inc."
+    },
+    {
+      "bbox": [
+        0.06222771865646824,
+        0.8611129199286649,
+        0.36205477150537635,
+        0.9198208724360601
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Northwest Teleproductions Chicago, Inc.\nFB #37\nPO Box 1575\nMinneapolis, MN 55480-1575"
+    },
+    {
+      "bbox": [
+        0.181644911872298,
+        0.2943712863670951,
+        0.21403599933488526,
+        0.30729441702460303
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "1802"
+    },
+    {
+      "bbox": [
+        0.10156094113734619,
+        0.19846901650318713,
+        0.2810504655803126,
+        0.21190940502871117
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Jones, Day, Reavis & Pogue"
+    },
+    {
+      "bbox": [
+        0.10325698370468904,
+        0.19847793254254165,
+        0.27983240927419356,
+        0.23923592197888557
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Jones, Day, Reavis & Pogue\n77 West Wacker\nChicago, IL 60601"
+    },
+    {
+      "bbox": [
+        0.8622900731626204,
+        0.8435461270109231,
+        0.9190555370801462,
+        0.856402729325278
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "705.00"
+    },
+    {
+      "bbox": [
+        0.8619221815763217,
+        0.9180794930540253,
+        0.9170040738277352,
+        0.9316795496031169
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "705.00"
+    },
+    {
+      "bbox": [
+        0.6294708180911207,
+        0.3120927737745271,
+        0.6776666943797804,
+        0.3243090407860324
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 15"
+    },
+    {
+      "bbox": [
+        0.8633039611671587,
+        0.843814714143131,
+        0.9154448388908009,
+        0.8567241601730916
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "705.00"
+    },
+    {
+      "bbox": [
+        0.8767116154389524,
+        0.863459523319158,
+        0.9139550995272681,
+        0.878964890561665
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.8610693521218599,
+        0.843814714143131,
+        0.9139550995272681,
+        0.8570749603369492
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "705.00"
+    },
+    {
+      "bbox": [
+        0.8789462244842514,
+        0.8875945745925626,
+        0.9139550995272681,
+        0.9008548207863808
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.3702127659574468,
+        0.29435483870967744,
+        0.38358662613981764
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "VHS-30 Min Dubs"
+    },
+    {
+      "bbox": [
+        0.6459677419354839,
+        0.3702127659574468,
+        0.682258064516129,
+        0.38358662613981764
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.3702127659574468,
+        0.7024193548387097,
+        0.38358662613981764
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Ea"
+    },
+    {
+      "bbox": [
+        0.7249999999999999,
+        0.3702127659574468,
+        0.771774193548387,
+        0.38358662613981764
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "32.00"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.3702127659574468,
+        0.9112903225806451,
+        0.38358662613981764
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "32.00"
+    },
+    {
+      "bbox": [
+        0.25102108275524804,
+        0.35129128408702565,
+        0.333701617431309,
+        0.3630781695926418
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Nov-10-1999"
+    },
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.390273556231003,
+        0.29435483870967744,
+        0.40486322188449847
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Shipping, Local Messenger"
+    },
+    {
+      "bbox": [
+        0.6459677419354839,
+        0.390273556231003,
+        0.682258064516129,
+        0.40486322188449847
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.390273556231003,
+        0.7024193548387097,
+        0.40486322188449847
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Ea"
+    },
+    {
+      "bbox": [
+        0.7249999999999999,
+        0.390273556231003,
+        0.771774193548387,
+        0.40486322188449847
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "15.00"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.390273556231003,
+        0.9112903225806451,
+        0.40486322188449847
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "15.00"
+    },
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.425531914893617,
+        0.29435483870967744,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Smoke Editorial"
+    },
+    {
+      "bbox": [
+        0.6459677419354839,
+        0.425531914893617,
+        0.682258064516129,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.425531914893617,
+        0.7024193548387097,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Hr"
+    },
+    {
+      "bbox": [
+        0.7249999999999999,
+        0.425531914893617,
+        0.771774193548387,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "600.00"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.425531914893617,
+        0.9112903225806451,
+        0.4370820668693009
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "600.00"
+    },
+    {
+      "bbox": [
+        0.25325569180054697,
+        0.4062967497799012,
+        0.33146700838601006,
+        0.4186449155476896
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Nov-10-1999"
+    },
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.44559270516717325,
+        0.29435483870967744,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "VHS-15 Min Dubs"
+    },
+    {
+      "bbox": [
+        0.6459677419354839,
+        0.44559270516717325,
+        0.682258064516129,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.44559270516717325,
+        0.7024193548387097,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Ea"
+    },
+    {
+      "bbox": [
+        0.7249999999999999,
+        0.44559270516717325,
+        0.771774193548387,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "28.00"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.44559270516717325,
+        0.9112903225806451,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "28.00"
+    },
+    {
+      "bbox": [
+        0.12580645161290321,
+        0.4644376899696049,
+        0.29435483870967744,
+        0.4790273556231003
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Shipping, Local Messenger"
+    },
+    {
+      "bbox": [
+        0.6459677419354839,
+        0.4644376899696049,
+        0.682258064516129,
+        0.4790273556231003
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "2.00"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.4644376899696049,
+        0.7024193548387097,
+        0.4790273556231003
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Ea"
+    },
+    {
+      "bbox": [
+        0.7249999999999999,
+        0.4644376899696049,
+        0.771774193548387,
+        0.4790273556231003
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "15.00"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.4644376899696049,
+        0.9112903225806451,
+        0.4790273556231003
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "30.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.29571326366122697,
+        0.3333303156975152,
+        0.38211814674611944,
+        0.34630992176024733
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6331392295013675,
+        0.335575436746204,
+        0.7024121099056347,
+        0.34848488277616463
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.6331392295013675,
+        0.3366979972705484,
+        0.7024121099056347,
+        0.34848488277616463
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.7307171578127547,
+        0.33389159595968737,
+        0.7672157722193041,
+        0.3462397617274758
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.7992451685352556,
+        0.335575436746204,
+        0.8945884878013439,
+        0.3479236025139924
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 613,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tzpm0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.062096774193548296,
+          0.3325227963525836,
+          0.9112903225806451,
+          0.9379939209726443
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12580645161290321,
+            "right": 0.29435483870967744
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6459677419354839,
+            "right": 0.682258064516129
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.682258064516129,
+            "right": 0.7024193548387097
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.7249999999999999,
+            "right": 0.771774193548387
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8604838709677419,
+            "right": 0.9112903225806451
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.34832826747720363,
+            "row_type": "header",
+            "top": 0.3325227963525836
+          },
+          {
+            "bottom": 0.3635258358662614,
+            "row_type": "subsection-header",
+            "top": 0.34832826747720363
+          },
+          {
+            "bottom": 0.3702127659574468,
+            "row_type": "gap",
+            "top": 0.3635258358662614
+          },
+          {
+            "bottom": 0.38358662613981764,
+            "row_type": "data",
+            "top": 0.3702127659574468
+          },
+          {
+            "bottom": 0.390273556231003,
+            "row_type": "gap",
+            "top": 0.38358662613981764
+          },
+          {
+            "bottom": 0.40486322188449847,
+            "row_type": "data",
+            "top": 0.390273556231003
+          },
+          {
+            "bottom": 0.4218844984802432,
+            "row_type": "subsection-header",
+            "top": 0.40486322188449847
+          },
+          {
+            "bottom": 0.425531914893617,
+            "row_type": "gap",
+            "top": 0.4218844984802432
+          },
+          {
+            "bottom": 0.4370820668693009,
+            "row_type": "data",
+            "top": 0.425531914893617
+          },
+          {
+            "bottom": 0.44559270516717325,
+            "row_type": "gap",
+            "top": 0.4370820668693009
+          },
+          {
+            "bottom": 0.45896656534954405,
+            "row_type": "data",
+            "top": 0.44559270516717325
+          },
+          {
+            "bottom": 0.4644376899696049,
+            "row_type": "gap",
+            "top": 0.45896656534954405
+          },
+          {
+            "bottom": 0.4790273556231003,
+            "row_type": "data",
+            "top": 0.4644376899696049
+          },
+          {
+            "bottom": 0.5246200607902735,
+            "row_type": "gap",
+            "top": 0.4790273556231003
+          },
+          {
+            "bottom": 0.6510638297872339,
+            "row_type": "gap-with-text",
+            "top": 0.5246200607902735
+          },
+          {
+            "bottom": 0.7161094224924012,
+            "row_type": "gap",
+            "top": 0.6510638297872339
+          },
+          {
+            "bottom": 0.8188449848024316,
+            "row_type": "gap-with-text",
+            "top": 0.7161094224924012
+          },
+          {
+            "bottom": 0.840729483282675,
+            "row_type": "gap",
+            "top": 0.8188449848024316
+          },
+          {
+            "bottom": 0.9379939209726443,
+            "row_type": "footer",
+            "top": 0.840729483282675
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

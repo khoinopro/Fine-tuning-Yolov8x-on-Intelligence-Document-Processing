@@ -1,0 +1,215 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7563061190555371,
+        0.16241231772273484,
+        0.8123794479547722,
+        0.17788015750585243
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99-179"
+    },
+    {
+      "bbox": [
+        0.18258022946458263,
+        0.16086553374442306,
+        0.28925631858995676,
+        0.1792626378352591
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 30, 1999"
+    },
+    {
+      "bbox": [
+        0.7303209178583305,
+        0.07218325232121547,
+        0.8746071666112405,
+        0.08455752414770956
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Intervisual Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.7330562021948787,
+        0.07166765766177823,
+        0.8725557033588293,
+        0.10672809450351146
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "IIntervisual Communications, Inc.\n926 Colorado Avenue\nSanta Monica, CA 90401-2717"
+    },
+    {
+      "bbox": [
+        0.18394787163285667,
+        0.1990195385427798,
+        0.32618265713335554,
+        0.21294059434758567
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Leo Burnett USA"
+    },
+    {
+      "bbox": [
+        0.18394787163285667,
+        0.19850394388334258,
+        0.39456921058847344,
+        0.29111840123026783
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Leo Burnett USA\n35 West Wacker Drive\nChicago, IL 60601\nAttn: Michelle Mahoney"
+    },
+    {
+      "bbox": [
+        0.6592035251080811,
+        0.5424055817279906,
+        0.6721961257066844,
+        0.557357826851671
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6612549883604921,
+        0.543436771046865,
+        0.74878408713003,
+        0.5583699200720477
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$15,000.00"
+    },
+    {
+      "bbox": [
+        0.6598873461922181,
+        0.543436771046865,
+        0.750835550382441,
+        0.557357826851671
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$15,000.00"
+    },
+    {
+      "bbox": [
+        0.5272260558696376,
+        0.6568675961230609,
+        0.5839832058530097,
+        0.6713042465873039
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1814516129032258,
+        0.4857142857142857,
+        0.5096774193548387,
+        0.5234042553191489
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Concept exploration, initial \"looks like\"\nprototypes and concept explanation"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1814516129032258,
+        0.39214306202680843,
+        0.32082444071399646,
+        0.4085106382978723
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 866,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "shyw0057",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1814516129032258,
+          0.38966565349544074,
+          0.7612903225806451,
+          0.5653495440729484
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1814516129032258,
+            "right": 0.5096774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4085106382978723,
+            "row_type": "header",
+            "top": 0.38966565349544074
+          },
+          {
+            "bottom": 0.4279635258358663,
+            "row_type": "gap",
+            "top": 0.4085106382978723
+          },
+          {
+            "bottom": 0.4644376899696049,
+            "row_type": "gap-with-text",
+            "top": 0.4279635258358663
+          },
+          {
+            "bottom": 0.4857142857142857,
+            "row_type": "gap",
+            "top": 0.4644376899696049
+          },
+          {
+            "bottom": 0.5234042553191489,
+            "row_type": "data",
+            "top": 0.4857142857142857
+          },
+          {
+            "bottom": 0.541033434650456,
+            "row_type": "gap",
+            "top": 0.5234042553191489
+          },
+          {
+            "bottom": 0.5653495440729484,
+            "row_type": "footer",
+            "top": 0.541033434650456
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

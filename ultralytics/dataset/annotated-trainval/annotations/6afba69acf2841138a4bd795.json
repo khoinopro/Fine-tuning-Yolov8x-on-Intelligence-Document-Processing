@@ -1,0 +1,244 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.75793316388325,
+        0.1729090406678243,
+        0.8434400641408369,
+        0.18242696951192472
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "CRR0516-7RAD"
+    },
+    {
+      "bbox": [
+        0.7565650534791286,
+        0.1845420648106137,
+        0.7962402551986489,
+        0.19300244600536962
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/26/16"
+    },
+    {
+      "bbox": [
+        0.16827757970693094,
+        0.17238026684315205,
+        0.2948277920881595,
+        0.18242696951192472
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Comit\u00e9 Ricardo Rossell\u00f3"
+    },
+    {
+      "bbox": [
+        0.766825881510039,
+        0.5631441232759415,
+        0.7750345439347673,
+        0.5731908259447142
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6936319748895448,
+        0.5636728971006137,
+        0.7456201702461575,
+        0.572662052120042
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,500.00"
+    },
+    {
+      "bbox": [
+        0.7675099367120998,
+        0.5631441232759415,
+        0.8181300216645911,
+        0.5721332782953696
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,200.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.603225806451613,
+        0.2786783042394015,
+        0.6193548387096774,
+        0.29925187032418954
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "30"
+    },
+    {
+      "bbox": [
+        0.6419354838709678,
+        0.2786783042394015,
+        0.6774193548387096,
+        0.29925187032418954
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$50.00"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.2786783042394015,
+        0.7443548387096774,
+        0.29925187032418954
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.5958120809948653,
+        0.24905247142062767,
+        0.6265945650875966,
+        0.267030781459484
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    },
+    {
+      "bbox": [
+        0.6389075587246891,
+        0.24799492377128315,
+        0.6833711468586343,
+        0.26755955528415626
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Cost\nper Spot"
+    },
+    {
+      "bbox": [
+        0.7025246925163336,
+        0.24693737612193867,
+        0.7380955630234899,
+        0.267030781459484
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL\nCOST"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1144,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "343fd4ab-e770-4d45-8acd-4201d238bb37",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08306451612903226,
+          0.24750623441396508,
+          0.9112903225806451,
+          0.5741895261845387
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.09596774193548387,
+            "right": 0.1588709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.18467741935483872,
+            "right": 0.22903225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.26048387096774195,
+            "right": 0.325
+          },
+          {
+            "column_type": "",
+            "left": 0.34516129032258064,
+            "right": 0.4241935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.43790322580645163,
+            "right": 0.47419354838709676
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.603225806451613,
+            "right": 0.6193548387096774
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6419354838709678,
+            "right": 0.6774193548387096
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6919354838709677,
+            "right": 0.7443548387096774
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.26807980049875313,
+            "row_type": "header",
+            "top": 0.24750623441396508
+          },
+          {
+            "bottom": 0.2786783042394015,
+            "row_type": "gap",
+            "top": 0.26807980049875313
+          },
+          {
+            "bottom": 0.29925187032418954,
+            "row_type": "data",
+            "top": 0.2786783042394015
+          },
+          {
+            "bottom": 0.5617206982543641,
+            "row_type": "gap",
+            "top": 0.29925187032418954
+          },
+          {
+            "bottom": 0.5741895261845387,
+            "row_type": "footer",
+            "top": 0.5617206982543641
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7130987724807308,
+        0.14165398159069426,
+        0.7475806451612903,
+        0.15657620041753653
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/14/18"
+    },
+    {
+      "bbox": [
+        0.7209000537306709,
+        0.10427444368354917,
+        0.7489301905165681,
+        0.12127571238037449
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "16223"
+    },
+    {
+      "bbox": [
+        0.06563516985441051,
+        0.6179654946894036,
+        0.19348701113331432,
+        0.6347869050032986
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Learfield Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.06563516985441051,
+        0.61619481991952,
+        0.37945332572081075,
+        0.6347869050032986
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Learfield Communications, Inc., 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.046491578646874115,
+        0.16201674144435657,
+        0.12853554096488723,
+        0.17795281437330965
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "StateNets Platinum"
+    },
+    {
+      "bbox": [
+        0.04717527833285755,
+        0.1602460666744729,
+        0.13879103625463887,
+        0.2354997443945292
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin\n2601 Northwind Drive\nRichmond VA 23233"
+    },
+    {
+      "bbox": [
+        0.3527890379674565,
+        0.39308979891417656,
+        0.3616771338852412,
+        0.4099112092280715
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3534727376534399,
+        0.3913191241442929,
+        0.4026991150442478,
+        0.4081405344581878
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$10,360.00"
+    },
+    {
+      "bbox": [
+        0.8689342136311903,
+        0.38989575779021474,
+        0.9153591276828323,
+        0.41369753396577025
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$8,806.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04032258064516129,
+        0.3048016701461378,
+        0.05,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.06693548387096775,
+        0.3048016701461378,
+        0.10967741935483871,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Radio Iowa"
+    },
+    {
+      "bbox": [
+        0.8145161290322581,
+        0.3048016701461378,
+        0.8274193548387097,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.8741935483870967,
+        0.3048016701461378,
+        0.9040322580645161,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "518.00"
+    },
+    {
+      "bbox": [
+        0.9233870967741935,
+        0.3048016701461378,
+        0.9532258064516129,
+        0.32045929018789143
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10360"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04292112022178348,
+        0.27348643006263046,
+        0.06394372281120635,
+        0.30728219362289894
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\n#"
+    },
+    {
+      "bbox": [
+        0.07007531523312135,
+        0.2880140890998303,
+        0.10160921911725564,
+        0.3038819398835339
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Vehicle"
+    },
+    {
+      "bbox": [
+        0.8032385805392438,
+        0.2755464920554917,
+        0.8260130666777853,
+        0.3027485219704122
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nUnits"
+    },
+    {
+      "bbox": [
+        0.8654304465329532,
+        0.2755464920554917,
+        0.8873289908969353,
+        0.3027485219704122
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Unit\nRate"
+    },
+    {
+      "bbox": [
+        0.9092275352609174,
+        0.27441307414237,
+        0.9486449151160853,
+        0.3016151040572905
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Extended\nTotal"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "c27fdab2-69ef-4f10-83a2-e1079b3ba74f",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04032258064516129,
+          0.27348643006263046,
+          0.9532258064516129,
+          0.4144050104384134
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.04032258064516129,
+            "right": 0.05
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.06693548387096775,
+            "right": 0.10967741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.16693548387096774,
+            "right": 0.22903225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.2862903225806452,
+            "right": 0.29838709677419356
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8145161290322581,
+            "right": 0.8274193548387097
+          },
+          {
+            "column_type": "",
+            "left": 0.8362903225806452,
+            "right": 0.8483870967741935
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.8741935483870967,
+            "right": 0.9040322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9233870967741935,
+            "right": 0.9532258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3048016701461378,
+            "row_type": "header",
+            "top": 0.27348643006263046
+          },
+          {
+            "bottom": 0.32045929018789143,
+            "row_type": "data",
+            "top": 0.3048016701461378
+          },
+          {
+            "bottom": 0.33089770354906056,
+            "row_type": "gap",
+            "top": 0.32045929018789143
+          },
+          {
+            "bottom": 0.4144050104384134,
+            "row_type": "footer",
+            "top": 0.33089770354906056
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

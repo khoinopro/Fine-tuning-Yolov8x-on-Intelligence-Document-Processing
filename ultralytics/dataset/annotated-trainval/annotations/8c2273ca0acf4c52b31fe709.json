@@ -1,0 +1,197 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.45558076457242286,
+        0.38600489201073923,
+        0.5308268367990994,
+        0.4018681067509066
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0001YSP"
+    },
+    {
+      "bbox": [
+        0.6238583442793538,
+        0.16550620712241285,
+        0.7599853294894321,
+        0.1797831003885635
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 11, 1999"
+    },
+    {
+      "bbox": [
+        0.11218505313795399,
+        0.1649774332977406,
+        0.29277562648197747,
+        0.19670386277807536
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "92 Grandview Avenue\nGreat Neck, NY 11020"
+    },
+    {
+      "bbox": [
+        0.3276624417870729,
+        0.8449805718262484,
+        0.42016129032258065,
+        0.8566084788029925
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "11-267-1554"
+    },
+    {
+      "bbox": [
+        0.426166390883813,
+        0.28395154384899585,
+        0.6334351171082035,
+        0.3167355209786751
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Malaika Dowdell\nPhilip Morris Incorporated"
+    },
+    {
+      "bbox": [
+        0.42890261169205574,
+        0.2831347916282098,
+        0.6327574153600319,
+        0.35004827193302657
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Malaika Dowdell\nPhilip Morris Incorporated\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7770867095409494,
+        0.6948088056193307,
+        0.7907678135821633,
+        0.7096144727101535
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7770867095409494,
+        0.6940481602765848,
+        0.8930690102866274,
+        0.7101432465348257
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$22,000. 00"
+    },
+    {
+      "bbox": [
+        0.7757185991368282,
+        0.6946671093011412,
+        0.894670927793868,
+        0.7096144727101535
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 22,000. 00"
+    },
+    {
+      "bbox": [
+        0.32013783456440525,
+        0.8153692376446027,
+        0.3885433547704747,
+        0.8285885832614088
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.6217741935483871,
+        0.6172069825436409,
+        0.742741935483871,
+        0.6359102244389028
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ 22,000. 00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 615,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "krnx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1274193548387096,
+          0.415211970074813,
+          0.896774193548387,
+          0.8884039900249376
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6217741935483871,
+            "right": 0.742741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4713216957605985,
+            "row_type": "gap",
+            "top": 0.415211970074813
+          },
+          {
+            "bottom": 0.5829177057356608,
+            "row_type": "gap-with-text",
+            "top": 0.4713216957605985
+          },
+          {
+            "bottom": 0.6172069825436409,
+            "row_type": "gap",
+            "top": 0.5829177057356608
+          },
+          {
+            "bottom": 0.6359102244389028,
+            "row_type": "data",
+            "top": 0.6172069825436409
+          },
+          {
+            "bottom": 0.6932668329177057,
+            "row_type": "gap",
+            "top": 0.6359102244389028
+          },
+          {
+            "bottom": 0.8884039900249376,
+            "row_type": "footer",
+            "top": 0.6932668329177057
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

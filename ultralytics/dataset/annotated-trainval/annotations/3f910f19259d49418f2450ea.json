@@ -1,0 +1,178 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.2041532950460155,
+        0.7793563821577403,
+        0.22488761407412647
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "25581"
+    },
+    {
+      "bbox": [
+        0.5999807068992128,
+        0.29028046639355326,
+        0.7298734372588362,
+        0.3102173116128908
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 31, 1999"
+    },
+    {
+      "bbox": [
+        0.13743435858964742,
+        0.09237404951626355,
+        0.31438109527381847,
+        0.16215300778394462
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. Box 4406\nNew York. NY 10261-4406\nNew York Office"
+    },
+    {
+      "bbox": [
+        0.6940435108777194,
+        0.10632984116979975,
+        0.7713503375843961,
+        0.12161475583795847
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KPMG LLP"
+    },
+    {
+      "bbox": [
+        0.6416466616654164,
+        0.10776431500783909,
+        0.8160165041260315,
+        0.14886177763771966
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KPMG LLP\nP.O. Box 4406\nNew York, NY 10261-4406"
+    },
+    {
+      "bbox": [
+        0.7129032258064516,
+        0.16094822208359327,
+        0.7902475618904726,
+        0.17477967642285835
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-5565207"
+    },
+    {
+      "bbox": [
+        0.4423668417104276,
+        0.09170948800895229,
+        0.5162378094523631,
+        0.106994402677111
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-5565207"
+    },
+    {
+      "bbox": [
+        0.13228057014253564,
+        0.3106674984404242,
+        0.2559714928732183,
+        0.32629970008982295
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Citibank, N.A."
+    },
+    {
+      "bbox": [
+        0.13228057014253564,
+        0.3091858709499571,
+        0.394264816204051,
+        0.40073058890868285
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Citibank, N.A.\n111 Wall Street - 5th Floor\nNew York, NY 10043\nAttention: Ms. Kerry Monaghan"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.4909544603867748,
+        0.6104838709677419,
+        0.5689332501559575
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For professional tax sevices rendered in connection with the\npreparation of the 1998 extension of the Master Tobacco\nSettlement Agreement/Participating Manufacturers and\nSettling States."
+    },
+    {
+      "bbox": [
+        0.7048387096774194,
+        0.4909544603867748,
+        0.7983870967741935,
+        0.5689332501559575
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$2.500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 761,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jxkj0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13064516129032258,
+          0.4909544603867748,
+          0.7983870967741935,
+          0.5689332501559575
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13064516129032258,
+            "right": 0.6104838709677419
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7048387096774194,
+            "right": 0.7983870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5689332501559575,
+            "row_type": "data",
+            "top": 0.4909544603867748
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

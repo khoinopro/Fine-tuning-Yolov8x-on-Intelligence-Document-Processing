@@ -1,0 +1,209 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8370967741935483,
+        0.2282732094223636,
+        0.8982471147837516,
+        0.2480243161094225
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4752"
+    },
+    {
+      "bbox": [
+        0.791627443329615,
+        0.49313019896179816,
+        0.8614491750783416,
+        0.5066416974993907
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/18/99"
+    },
+    {
+      "bbox": [
+        0.12832099171671177,
+        0.49313019896179816,
+        0.16983661599973843,
+        0.5069908814589665
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "9902"
+    },
+    {
+      "bbox": [
+        0.2849481196935851,
+        0.2830303432129662,
+        0.6890272370113282,
+        0.3050754197743013
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1556 Third Avenue, New York NY 10128"
+    },
+    {
+      "bbox": [
+        0.10510491235053981,
+        0.37091718013691766,
+        0.3153225806451613,
+        0.40486322188449847
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.10443116278059274,
+        0.3723932866393551,
+        0.3153147781740297,
+        0.43288721102362
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company\nPO Box 10529\nGreensboro NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.7616364582756653,
+        0.6312138768523957,
+        0.7744377001046598,
+        0.6449285558191249
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7629032258064516,
+        0.6310030395136779,
+        0.8263164169905853,
+        0.6455927051671733
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$17,100."
+    },
+    {
+      "bbox": [
+        0.7608605018343062,
+        0.6303390739493278,
+        0.829275038040972,
+        0.6469321423288272
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$17,100."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3282258064516129,
+        0.556838905775076,
+        0.482258064516129,
+        0.5768996960486322
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Kent III Product Test"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.4405137330209122,
+        0.4924276463591912,
+        0.5528157537745988,
+        0.5093608211092022
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 489,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lxkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05161290322580645,
+          0.46200607902735563,
+          0.8943548387096775,
+          0.6486322188449848
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.3282258064516129,
+            "right": 0.482258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.48936170212765956,
+            "row_type": "gap-with-text",
+            "top": 0.46200607902735563
+          },
+          {
+            "bottom": 0.5069908814589665,
+            "row_type": "header",
+            "top": 0.48936170212765956
+          },
+          {
+            "bottom": 0.556838905775076,
+            "row_type": "gap",
+            "top": 0.5069908814589665
+          },
+          {
+            "bottom": 0.5768996960486322,
+            "row_type": "data",
+            "top": 0.556838905775076
+          },
+          {
+            "bottom": 0.5902735562310031,
+            "row_type": "gap",
+            "top": 0.5768996960486322
+          },
+          {
+            "bottom": 0.6072948328267477,
+            "row_type": "up-merge",
+            "top": 0.5902735562310031
+          },
+          {
+            "bottom": 0.6267477203647417,
+            "row_type": "gap",
+            "top": 0.6072948328267477
+          },
+          {
+            "bottom": 0.6486322188449848,
+            "row_type": "footer",
+            "top": 0.6267477203647417
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

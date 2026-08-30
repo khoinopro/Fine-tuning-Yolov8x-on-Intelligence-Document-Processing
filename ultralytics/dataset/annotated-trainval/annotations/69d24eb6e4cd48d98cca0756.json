@@ -1,0 +1,146 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6793318883080454,
+        0.3652080783353734,
+        0.7668494198648476,
+        0.38022745818033454
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "PMUSA080299C"
+    },
+    {
+      "bbox": [
+        0.6793318883080454,
+        0.3841799265605876,
+        0.7233966594415402,
+        0.3984088127294982
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/2/99"
+    },
+    {
+      "bbox": [
+        0.46635216116282036,
+        0.24979600163198695,
+        0.5875302817799312,
+        0.2703488372093023
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.4461558077266352,
+        0.24996350998775485,
+        0.6071146245059288,
+        0.30750203998368014
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Philip Morris USA\n120 Park Avenue 15th Floor\nNew York, New York 10017"
+    },
+    {
+      "bbox": [
+        0.28642101236771644,
+        0.4766676866585068,
+        0.3941348973607038,
+        0.491687066503468
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Brown & Williamson"
+    },
+    {
+      "bbox": [
+        0.2876450337880913,
+        0.4727816652708839,
+        0.4528879255386969,
+        0.5327927376580988
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Brown & Williamson\n401 South 4th Avenue Suite 200\nLouisville, KY 40202"
+    },
+    {
+      "bbox": [
+        0.7252326915721025,
+        0.4758771929824562,
+        0.7680734412852225,
+        0.491687066503468
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "63,366"
+    },
+    {
+      "bbox": [
+        0.7233966594415402,
+        0.4766676866585068,
+        0.7668494198648476,
+        0.491687066503468
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "63,366"
+    },
+    {
+      "bbox": [
+        0.6799438990182328,
+        0.40157078743370056,
+        0.7166645416294785,
+        0.418171154630763
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.29274193548387095,
+        0.6458333333333334,
+        0.3403225806451613,
+        0.6666666666666666
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$267,365"
+    },
+    {
+      "bbox": [
+        0.4129032258064516,
+        0.6458333333333334,
+        0.45645161290322583,
+        0.6666666666666666
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$63,366"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 510,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fkkj0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2207,
+        1709
+      ]
+    ],
+    "page_to_table_grid": {},
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8164007302897393,
+        0.09843613558783836,
+        0.8748941295940195,
+        0.11316807424724275
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "093099"
+    },
+    {
+      "bbox": [
+        0.6985783116911177,
+        0.0977665020124109,
+        0.7813046907071711,
+        0.11249844067181529
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/1/1999"
+    },
+    {
+      "bbox": [
+        0.7796334507270488,
+        0.3103379592100209,
+        0.8631954497331635,
+        0.32573953144485274
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "11/1/1999"
+    },
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.02343717513996152,
+        0.35096039582568117,
+        0.03950838095022084
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Miles Stiebel Entertainment"
+    },
+    {
+      "bbox": [
+        0.057657779314219046,
+        0.048213617430777976,
+        0.3802070954778212,
+        0.08437383050386145
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "11800 Sunrise Valley Drive, Suite 405\nReston, VA 20191-5302"
+    },
+    {
+      "bbox": [
+        0.20967741935483872,
+        0.8144796380090498,
+        0.2966450964717067,
+        0.8284111592406025
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "54-1270135"
+    },
+    {
+      "bbox": [
+        0.0814516129032258,
+        0.1667744020685197,
+        0.24919354838709679,
+        0.18414923324255478
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Patricia Jagoda"
+    },
+    {
+      "bbox": [
+        0.08189075902599227,
+        0.18214033251627235,
+        0.31419311626299073,
+        0.21629164486307342
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "407-K North Hamilton Street\nRichmond, VA 23221"
+    },
+    {
+      "bbox": [
+        0.7946746105481495,
+        0.8163577548829078,
+        0.8097157703692501,
+        0.836446762145732
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.792167750577966,
+        0.8144796380090498,
+        0.9032258064516129,
+        0.8351074949948771
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,575.00"
+    },
+    {
+      "bbox": [
+        0.7943548387096774,
+        0.8143488541566254,
+        0.9024193548387097,
+        0.8357771285703046
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,575.00"
+    },
+    {
+      "bbox": [
+        0.1395485383402113,
+        0.8438127314754343,
+        0.24232979711773225,
+        0.860553570861121
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "within 30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06774193548387097,
+        0.3826761473820297,
+        0.5314516129032258,
+        0.4040077569489334
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Entertainment provided on September 28, 29, and 30, 1999"
+    },
+    {
+      "bbox": [
+        0.8362903225806452,
+        0.3826761473820297,
+        0.9137096774193548,
+        0.4040077569489334
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,435.00"
+    },
+    {
+      "bbox": [
+        0.06774193548387097,
+        0.4040077569489334,
+        0.5314516129032258,
+        0.42210730446024564
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Additional Hour for DJ on September 30, 1999"
+    },
+    {
+      "bbox": [
+        0.8362903225806452,
+        0.4040077569489334,
+        0.9137096774193548,
+        0.42210730446024564
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "140.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3075081563425016,
+        0.3626373626373626,
+        0.44287859473240715,
+        0.38042627684402874
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7554004710152756,
+        0.3626373626373626,
+        0.8431405699716958,
+        0.3817655439948837
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 90,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yyxk0009",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06774193548387097,
+          0.3626373626373626,
+          0.9137096774193548,
+          0.42210730446024564
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06774193548387097,
+            "right": 0.5314516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8362903225806452,
+            "right": 0.9137096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3826761473820297,
+            "row_type": "header",
+            "top": 0.3626373626373626
+          },
+          {
+            "bottom": 0.4040077569489334,
+            "row_type": "data",
+            "top": 0.3826761473820297
+          },
+          {
+            "bottom": 0.42210730446024564,
+            "row_type": "data",
+            "top": 0.4040077569489334
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

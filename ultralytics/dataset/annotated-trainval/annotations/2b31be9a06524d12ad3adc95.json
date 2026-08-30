@@ -1,0 +1,202 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7501392206805992,
+        0.07603455655871237,
+        0.868228021326077,
+        0.0907509223442696
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 5, 2001"
+    },
+    {
+      "bbox": [
+        0.7226055624990112,
+        0.42922733541208596,
+        0.8737347529623947,
+        0.4460245636716225
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "January 19, 2001"
+    },
+    {
+      "bbox": [
+        0.38547121454223293,
+        0.05199782577563555,
+        0.6253199702574,
+        0.0698125404007757
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.6402568373071529,
+        0.21493681991375743,
+        0.7778006661991583,
+        0.2327835594733835
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Denise Mawyer"
+    },
+    {
+      "bbox": [
+        0.6063551893408134,
+        0.21571276511200205,
+        0.8155767882187938,
+        0.2560619154207219
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Denise Mawyer\nR&D, A2 for transmittal"
+    },
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.17120038863864914,
+        0.4258539132085621,
+        0.23006585178087807
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "University of Massachusetts-BELLE\nSchool of Public Health & Health Sciences\nEnvironmental Health Sciences Dept."
+    },
+    {
+      "bbox": [
+        0.15401034361851332,
+        0.17148388881205917,
+        0.4252235273492285,
+        0.27617713124229076
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "University of Massachusetts-BELLE\nSchool of Public Health & Health Sciences\nEnvironmental Health Sciences Dept.\nMorrill Science Center I. N344\nAmherst, MA 01003-5712"
+    },
+    {
+      "bbox": [
+        0.7746135835086776,
+        0.32621277491318534,
+        0.7862389058520147,
+        0.3404385951725573
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08709677419354839,
+        0.32191338073691017,
+        0.42258064516129035,
+        0.3639301874595992
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Sponsorship of the BELLE Newsletter published\nby the University of Massachusetts"
+    },
+    {
+      "bbox": [
+        0.7733870967741936,
+        0.32191338073691017,
+        0.8661290322580645,
+        0.3639301874595992
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$35,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.22568811360448807,
+        0.3046554834607907,
+        0.42258064516129035,
+        0.32191338073691017
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXPLANATION OF PAYMENT"
+    },
+    {
+      "bbox": [
+        0.7733870967741936,
+        0.30853520945201374,
+        0.857227384291725,
+        0.32191338073691017
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 287,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tjkm0021",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08709677419354839,
+          0.2967032967032967,
+          0.8661290322580645,
+          0.3639301874595992
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08709677419354839,
+            "right": 0.42258064516129035
+          },
+          {
+            "column_type": "",
+            "left": 0.5911290322580646,
+            "right": 0.7120967741935483
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7733870967741936,
+            "right": 0.8661290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.32191338073691017,
+            "row_type": "header",
+            "top": 0.2967032967032967
+          },
+          {
+            "bottom": 0.3639301874595992,
+            "row_type": "data",
+            "top": 0.32191338073691017
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

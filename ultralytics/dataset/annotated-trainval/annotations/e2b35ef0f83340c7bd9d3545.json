@@ -1,0 +1,268 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8010039021176498,
+        0.2325841068095965,
+        0.8517775330253768,
+        0.24670470124107177
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "01-344"
+    },
+    {
+      "bbox": [
+        0.6943548387096774,
+        0.23341473001144802,
+        0.7730265952909432,
+        0.24670470124107177
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "08/20/2001"
+    },
+    {
+      "bbox": [
+        0.12851234172755227,
+        0.1162968585503885,
+        0.45241935483870965,
+        0.13574660633484162
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Burns Sports Celebrity Service, Inc."
+    },
+    {
+      "bbox": [
+        0.12747614517841496,
+        0.8415847513028726,
+        0.5336651924402305,
+        0.854044099330645
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1007 Church Street, Suite 306 * Evenston, Illinois 60201"
+    },
+    {
+      "bbox": [
+        0.16892400714390635,
+        0.25276518279924937,
+        0.2963761826877923,
+        0.2643939076251702
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "BSMG Worldwide"
+    },
+    {
+      "bbox": [
+        0.16788781059476907,
+        0.2493247519743353,
+        0.38548908591359876,
+        0.29678821249737813
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "BSMG Worldwide\n625 N. Michigan Ave. Ste. 2500\nChicago, IL 60611"
+    },
+    {
+      "bbox": [
+        0.7875333469788651,
+        0.7788265650956974,
+        0.8010039021176498,
+        0.7954390291327271
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7879032258064517,
+        0.7801186343658627,
+        0.8590309088693376,
+        0.7950872656755009
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,017.50"
+    },
+    {
+      "bbox": [
+        0.7879032258064517,
+        0.7801186343658627,
+        0.8590309088693376,
+        0.7950872656755009
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,017.50"
+    },
+    {
+      "bbox": [
+        0.7077462126952941,
+        0.3537320489658971,
+        0.8310536020426311,
+        0.3678526433973724
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1435483870967742,
+        0.39689722042663217,
+        0.5717741935483871,
+        0.4117647058823529
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Julie Stoffer\u00b4s flight for her appearance at the \"TeenHip Awards\""
+    },
+    {
+      "bbox": [
+        0.8024193548387096,
+        0.39689722042663217,
+        0.864516129032258,
+        0.4117647058823529
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,000.50"
+    },
+    {
+      "bbox": [
+        0.1435483870967742,
+        0.4117647058823529,
+        0.5717741935483871,
+        0.42727860374919197
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Danny Roberts flight for his appearance at the \"TeenHip Awards\""
+    },
+    {
+      "bbox": [
+        0.8024193548387096,
+        0.4117647058823529,
+        0.864516129032258,
+        0.42727860374919197
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,017.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3689099411274022,
+        0.3784046353819526,
+        0.4466246823126986,
+        0.39086398340972495
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7512664677590601,
+        0.3784046353819526,
+        0.8020400986667872,
+        0.39169460661157646
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1012,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nkbd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1435483870967742,
+          0.3749191984486102,
+          0.8774193548387097,
+          0.806076276664512
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1435483870967742,
+            "right": 0.5717741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8024193548387096,
+            "right": 0.864516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39689722042663217,
+            "row_type": "header",
+            "top": 0.3749191984486102
+          },
+          {
+            "bottom": 0.4117647058823529,
+            "row_type": "data",
+            "top": 0.39689722042663217
+          },
+          {
+            "bottom": 0.42727860374919197,
+            "row_type": "data",
+            "top": 0.4117647058823529
+          },
+          {
+            "bottom": 0.5061409179056238,
+            "row_type": "gap",
+            "top": 0.42727860374919197
+          },
+          {
+            "bottom": 0.7440206851971558,
+            "row_type": "gap-with-text",
+            "top": 0.5061409179056238
+          },
+          {
+            "bottom": 0.7659987071751778,
+            "row_type": "gap",
+            "top": 0.7440206851971558
+          },
+          {
+            "bottom": 0.806076276664512,
+            "row_type": "footer",
+            "top": 0.7659987071751778
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

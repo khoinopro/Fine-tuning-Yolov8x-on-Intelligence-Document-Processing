@@ -1,0 +1,484 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6766129032258065,
+        0.1416565010821611,
+        0.7643073005093378,
+        0.15171896317513062
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "MG08-021969"
+    },
+    {
+      "bbox": [
+        0.16196661007357102,
+        0.1416565010821611,
+        0.22903225806451613,
+        0.15171896317513062
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "AUG12/02"
+    },
+    {
+      "bbox": [
+        0.16129032258064516,
+        0.15217554819222257,
+        0.22761361919118947,
+        0.16451453838267174
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "AUG22/02"
+    },
+    {
+      "bbox": [
+        0.16945400959043463,
+        0.18723903855909416,
+        0.20486587436332768,
+        0.19650347640152457
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "YSPP"
+    },
+    {
+      "bbox": [
+        0.32918619128466325,
+        0.08555491649516661,
+        0.5047270531712568,
+        0.10784841960641814
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "40 WEST 23RD STREET\nNEW YORK, NY 10010-5201"
+    },
+    {
+      "bbox": [
+        0.31086168783540724,
+        0.5324975261041853,
+        0.479771363893605,
+        0.5429864253393665
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC."
+    },
+    {
+      "bbox": [
+        0.31200207233738275,
+        0.5310949864895105,
+        0.4830597476337206,
+        0.5657472181048545
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC.\nP.O. BOX 198261\nATLANTA, GA 30384-8261"
+    },
+    {
+      "bbox": [
+        0.17072156196943972,
+        0.17590184378632767,
+        0.2,
+        0.18616677440206852
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LRL"
+    },
+    {
+      "bbox": [
+        0.5275347432107684,
+        0.1737980343643154,
+        0.7573033389926429,
+        0.18616677440206852
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.5296745897000567,
+        0.17520057397899022,
+        0.7573033389926429,
+        0.23032035373574045
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC.\n714 GREEN VALLEY ROAD\nBOX 10529\nGREENSBORO NC 27404\nJORDAN BRESSLER"
+    },
+    {
+      "bbox": [
+        0.22191169668131153,
+        0.1737980343643154,
+        0.45000452744765135,
+        0.18553584050934646
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.6928904959972283,
+        0.4991872102556574,
+        0.7730622524052065,
+        0.5097062573657188
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "309,224.05"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08790322580645162,
+        0.28765352294764057,
+        0.21129032258064517,
+        0.29799612152553334
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "FAMILY CIRCLE"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.28765352294764057,
+        0.7725806451612903,
+        0.29799612152553334
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "70,332.40"
+    },
+    {
+      "bbox": [
+        0.08811907902626215,
+        0.29861135717125575,
+        0.15397649598273175,
+        0.30902111548017375
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2002-08-10"
+    },
+    {
+      "bbox": [
+        0.08790322580645162,
+        0.319327731092437,
+        0.21129032258064517,
+        0.32967032967032966
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "FAMILY FUN"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.319327731092437,
+        0.7725806451612903,
+        0.32967032967032966
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "47,350.95"
+    },
+    {
+      "bbox": [
+        0.08904664827917017,
+        0.33132774042785507,
+        0.14933864971819164,
+        0.34322460706661845
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2002-01-09"
+    },
+    {
+      "bbox": [
+        0.08790322580645162,
+        0.35229476405946997,
+        0.21129032258064517,
+        0.3645765998707175
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "PARENTS MAGAZINE"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.35229476405946997,
+        0.7725806451612903,
+        0.3645765998707175
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "66,952.80"
+    },
+    {
+      "bbox": [
+        0.08719150977335412,
+        0.36627478617922254,
+        0.1549040652356398,
+        0.3766845444881406
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "2002-01-09"
+    },
+    {
+      "bbox": [
+        0.08790322580645162,
+        0.39689722042663217,
+        0.21129032258064517,
+        0.40982546864899805
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "PARENTS MAGAZINE"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.39689722042663217,
+        0.7725806451612903,
+        0.40982546864899805
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.08811907902626215,
+        0.4086573735798172,
+        0.1511937882240077,
+        0.4212977943835033
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "2002-01-09"
+    },
+    {
+      "bbox": [
+        0.08790322580645162,
+        0.43180349062702006,
+        0.21129032258064517,
+        0.4440853264382676
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "PEOPLE"
+    },
+    {
+      "bbox": [
+        0.6911290322580645,
+        0.43180349062702006,
+        0.7725806451612903,
+        0.4440853264382676
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "124,587.90"
+    },
+    {
+      "bbox": [
+        0.08904664827917017,
+        0.4443479734961074,
+        0.15304892672982373,
+        0.4525270693102572
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "2002-05-08"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15417862301396246,
+        0.2659652554532323,
+        0.19812325469427058,
+        0.2751416163005668
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Space"
+    },
+    {
+      "bbox": [
+        0.7058802014630052,
+        0.2525109989460476,
+        0.7661722029020267,
+        0.2770482863884971
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Net\nOrdered"
+    },
+    {
+      "bbox": [
+        0.09012373615792008,
+        0.25462536237359945,
+        0.1377924891670679,
+        0.27790198501074065
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Insert\nDate"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1050,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gtfd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08790322580645162,
+          0.2540400775694894,
+          0.8701612903225806,
+          0.48093083387201035
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08790322580645162,
+            "right": 0.21129032258064517
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.6951612903225807,
+            "right": 0.7725806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.28183581124757595,
+            "row_type": "header",
+            "top": 0.2540400775694894
+          },
+          {
+            "bottom": 0.28765352294764057,
+            "row_type": "gap",
+            "top": 0.28183581124757595
+          },
+          {
+            "bottom": 0.29799612152553334,
+            "row_type": "data",
+            "top": 0.28765352294764057
+          },
+          {
+            "bottom": 0.308338720103426,
+            "row_type": "up-merge",
+            "top": 0.29799612152553334
+          },
+          {
+            "bottom": 0.319327731092437,
+            "row_type": "gap",
+            "top": 0.308338720103426
+          },
+          {
+            "bottom": 0.32967032967032966,
+            "row_type": "data",
+            "top": 0.319327731092437
+          },
+          {
+            "bottom": 0.34259857789269554,
+            "row_type": "up-merge",
+            "top": 0.32967032967032966
+          },
+          {
+            "bottom": 0.35229476405946997,
+            "row_type": "gap",
+            "top": 0.34259857789269554
+          },
+          {
+            "bottom": 0.3645765998707175,
+            "row_type": "data",
+            "top": 0.35229476405946997
+          },
+          {
+            "bottom": 0.3884938590820944,
+            "row_type": "up-merge",
+            "top": 0.3645765998707175
+          },
+          {
+            "bottom": 0.39689722042663217,
+            "row_type": "gap",
+            "top": 0.3884938590820944
+          },
+          {
+            "bottom": 0.40982546864899805,
+            "row_type": "data",
+            "top": 0.39689722042663217
+          },
+          {
+            "bottom": 0.43180349062702006,
+            "row_type": "up-merge",
+            "top": 0.40982546864899805
+          },
+          {
+            "bottom": 0.4440853264382676,
+            "row_type": "data",
+            "top": 0.43180349062702006
+          },
+          {
+            "bottom": 0.4531351001939237,
+            "row_type": "up-merge",
+            "top": 0.4440853264382676
+          },
+          {
+            "bottom": 0.4654169360051713,
+            "row_type": "gap",
+            "top": 0.4531351001939237
+          },
+          {
+            "bottom": 0.48093083387201035,
+            "row_type": "footer",
+            "top": 0.4654169360051713
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

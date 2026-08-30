@@ -1,0 +1,223 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.808294930875576,
+        0.09685290763968073,
+        0.9103321622484829,
+        0.11099201824401368
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "00009613"
+    },
+    {
+      "bbox": [
+        0.808294930875576,
+        0.11169897377423033,
+        0.9083314322215633,
+        0.12725199543899657
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "06/30/00"
+    },
+    {
+      "bbox": [
+        0.025009125336496785,
+        0.0714025085518814,
+        0.4181072589778248,
+        0.08603462017048073
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Highways 37 & 121 Sonomo, CA 95476"
+    },
+    {
+      "bbox": [
+        0.6452354336816171,
+        0.20112884834663625,
+        0.7182620796641876,
+        0.21597491448118586
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "SME002"
+    },
+    {
+      "bbox": [
+        0.07802847104986997,
+        0.20042189281641962,
+        0.4131507505589269,
+        0.21621858490212925
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "SPORTS MARKETING ENTERPRISES"
+    },
+    {
+      "bbox": [
+        0.0770281060364101,
+        0.20150213671507333,
+        0.4149033719358492,
+        0.26192702394526796
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "SPORTS MARKETING ENTERERISES\nATTH: MARK CLODFELTER\n401 N MAIN ST\nWINSTON--SALEM NC 27101"
+    },
+    {
+      "bbox": [
+        0.8618456142914551,
+        0.9046842417099301,
+        0.8754621342198518,
+        0.9160045864692038
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8594426990099734,
+        0.9041182244719664,
+        0.9803894348445549,
+        0.917702638183095
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$43,200.00"
+    },
+    {
+      "bbox": [
+        0.8578407554889855,
+        0.9041182244719664,
+        0.9771855478025793,
+        0.9154385692312402
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$43,200.00"
+    },
+    {
+      "bbox": [
+        0.16259726738026523,
+        0.9035522072340028,
+        0.3452188287728784,
+        0.9154385692312402
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET DUE 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.017741935483870968,
+        0.3694412770809578,
+        0.4056451612903226,
+        0.4013683010262258
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "REPAINTING OF NASCAR WINSTON CUP\nSIGNAGE"
+    },
+    {
+      "bbox": [
+        0.49274193548387096,
+        0.3694412770809578,
+        0.5459677419354839,
+        0.4013683010262258
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.667741935483871,
+        0.3694412770809578,
+        0.7830645161290323,
+        0.4013683010262258
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "43,200.00"
+    },
+    {
+      "bbox": [
+        0.8669354838709677,
+        0.3694412770809578,
+        0.9814516129032258,
+        0.4013683010262258
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "43,200.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 873,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mrgp0185",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1654,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.017741935483870968,
+          0.3694412770809578,
+          0.9814516129032258,
+          0.4013683010262258
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.017741935483870968,
+            "right": 0.4056451612903226
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.49274193548387096,
+            "right": 0.5459677419354839
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.667741935483871,
+            "right": 0.7830645161290323
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8669354838709677,
+            "right": 0.9814516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4013683010262258,
+            "row_type": "data",
+            "top": 0.3694412770809578
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

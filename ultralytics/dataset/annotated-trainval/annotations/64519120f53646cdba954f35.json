@@ -1,0 +1,167 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6807553245579345,
+        0.13466334164588528,
+        0.8506609796056719,
+        0.1505861620015646
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 31, 1999"
+    },
+    {
+      "bbox": [
+        0.4338257725552228,
+        0.08755009418695617,
+        0.5901389751991413,
+        0.10155810925686914
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WORLDWDE PLAZA"
+    },
+    {
+      "bbox": [
+        0.3964465284447206,
+        0.10593561396621697,
+        0.6252528105756736,
+        0.13570264598978204
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "825 EIGHTH AVENUE\nNEw YORK. NY 1OO1O-7410"
+    },
+    {
+      "bbox": [
+        0.2032258064516129,
+        0.625107672494867,
+        0.3001666572510027,
+        0.63911568756478
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-1830405"
+    },
+    {
+      "bbox": [
+        0.15857861137788826,
+        0.19961421474626004,
+        0.323953448957686,
+        0.21449773075804263
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Citibank, N.A."
+    },
+    {
+      "bbox": [
+        0.15744590701090336,
+        0.21362222981617307,
+        0.38511948477487146,
+        0.24601576466534683
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "399 Park Avenue\nNew York, NY 10043"
+    },
+    {
+      "bbox": [
+        0.8212106660640641,
+        0.42024045209738964,
+        0.837068527201853,
+        0.4386259718766504
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.823476074798034,
+        0.42024045209738964,
+        0.9310829896616011,
+        0.43687496999291126
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$8,294.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.3341645885286783,
+        0.6427419354838709,
+        0.38341645885286785
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "FOR FEDERAL INCOME TAX ADVICE RENDERED\nwith respect to the Master Tobacco\nSettlement Agreement during March, 1999"
+    },
+    {
+      "bbox": [
+        0.8169354838709677,
+        0.3341645885286783,
+        0.9338709677419355,
+        0.38341645885286785
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$8,257.50"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 148,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mxkj0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1596774193548387,
+          0.3341645885286783,
+          0.9338709677419355,
+          0.38341645885286785
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1596774193548387,
+            "right": 0.6427419354838709
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8169354838709677,
+            "right": 0.9338709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.38341645885286785,
+            "row_type": "data",
+            "top": 0.3341645885286783
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

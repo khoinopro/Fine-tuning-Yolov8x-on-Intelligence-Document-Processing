@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.12642028872718783,
+        0.20563647416413372,
+        0.20963364333242537,
+        0.21588814589665656
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Qualtech, Inc."
+    },
+    {
+      "bbox": [
+        0.12642028872718783,
+        0.23277325227963525,
+        0.38406163663955795,
+        0.2448340425531915
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "5201 C Mussetter Road, ljamsville, MD 21754"
+    },
+    {
+      "bbox": [
+        0.5736920697303397,
+        0.1513629179331307,
+        0.600896435658975,
+        0.1604085106382979
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "472"
+    },
+    {
+      "bbox": [
+        0.094415152340558,
+        0.10070759878419452,
+        0.2808450717926767,
+        0.11337142857142858
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10564516129032259,
+        0.44559270516717325,
+        0.11693548387096774,
+        0.4595744680851064
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.18870967741935485,
+        0.44559270516717325,
+        0.20080645161290323,
+        0.4595744680851064
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.25564516129032255,
+        0.44559270516717325,
+        0.4637096774193548,
+        0.4595744680851064
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Provide professional services"
+    },
+    {
+      "bbox": [
+        0.8258064516129032,
+        0.44559270516717325,
+        0.8758064516129033,
+        0.4595744680851064
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "95000"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09681553756955523,
+        0.4159465045592705,
+        0.16402632398147787,
+        0.42740425531914894
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.19203081831977897,
+        0.4153434650455927,
+        0.23363749562239775,
+        0.4261981762917933
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "U of M"
+    },
+    {
+      "bbox": [
+        0.38406163663955795,
+        0.4153434650455927,
+        0.47447614693178725,
+        0.42740425531914894
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8017286664850772,
+        0.4135343465045593,
+        0.8881425347289778,
+        0.42740425531914894
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1054,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "rryx0008",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09435483870967742,
+          0.40911854103343465,
+          0.9016129032258065,
+          0.8170212765957446
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.10564516129032259,
+            "right": 0.11693548387096774
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.18870967741935485,
+            "right": 0.20080645161290323
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.25564516129032255,
+            "right": 0.4637096774193548
+          },
+          {
+            "column_type": "",
+            "left": 0.6217741935483871,
+            "right": 0.6733870967741935
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8258064516129032,
+            "right": 0.8758064516129033
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4328267477203647,
+            "row_type": "header",
+            "top": 0.40911854103343465
+          },
+          {
+            "bottom": 0.44559270516717325,
+            "row_type": "gap",
+            "top": 0.4328267477203647
+          },
+          {
+            "bottom": 0.4595744680851064,
+            "row_type": "data",
+            "top": 0.44559270516717325
+          },
+          {
+            "bottom": 0.6668693009118541,
+            "row_type": "gap",
+            "top": 0.4595744680851064
+          },
+          {
+            "bottom": 0.7604863221884498,
+            "row_type": "gap-with-text",
+            "top": 0.6668693009118541
+          },
+          {
+            "bottom": 0.8,
+            "row_type": "gap",
+            "top": 0.7604863221884498
+          },
+          {
+            "bottom": 0.8170212765957446,
+            "row_type": "gap-with-text",
+            "top": 0.8
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

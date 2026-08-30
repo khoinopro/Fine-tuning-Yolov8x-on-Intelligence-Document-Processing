@@ -1,0 +1,341 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.19109199051731438,
+        0.27165728086598434,
+        0.23840117263567862,
+        0.28346846699059236
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "101420"
+    },
+    {
+      "bbox": [
+        0.1920196215392431,
+        0.10433214410070413,
+        0.2620967741935484,
+        0.11417479920454413
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/14/2020"
+    },
+    {
+      "bbox": [
+        0.37198003979341293,
+        0.035433558373824045,
+        0.6266129032258064,
+        0.0544626915745814
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Key Broadcasting, Inc."
+    },
+    {
+      "bbox": [
+        0.1920196215392431,
+        0.1540216771249287,
+        0.27338709677419354,
+        0.16732513676528019
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Brian Pedigo"
+    },
+    {
+      "bbox": [
+        0.1920196215392431,
+        0.1548577736337495,
+        0.3135392854119041,
+        0.20669575718064026
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Brian Pedigo\n98 Foster Manog\nGlasgow KY 42142"
+    },
+    {
+      "bbox": [
+        0.6447035602404538,
+        0.1540216771249287,
+        0.7254074591482517,
+        0.16601278275143486
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Brian Pedigo"
+    },
+    {
+      "bbox": [
+        0.6456311912623826,
+        0.1548577736337495,
+        0.7662232241131148,
+        0.20669575718064026
+      ],
+      "fieldtype": "customer_other_address",
+      "page": 0,
+      "text": "Brian Pedigo\n98 Foster Manog\nGlasgow KY 42142"
+    },
+    {
+      "bbox": [
+        0.6447035602404538,
+        0.35367940673131776,
+        0.6549075014816697,
+        0.3648344158490031
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.19109199051731438,
+        0.3404246432064397,
+        0.24396695876725086,
+        0.35092347531720236
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$180.00"
+    },
+    {
+      "bbox": [
+        0.6437759292185251,
+        0.35420436035181574,
+        0.6966508974684615,
+        0.3653593694695011
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$180.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10483870967741936,
+        0.4580718767826583,
+        0.11854838709677419,
+        0.46833998859098686
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "9"
+    },
+    {
+      "bbox": [
+        0.2217741935483871,
+        0.4580718767826583,
+        0.29274193548387095,
+        0.46833998859098686
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2020-10-15"
+    },
+    {
+      "bbox": [
+        0.31290322580645163,
+        0.4580718767826583,
+        0.38387096774193546,
+        0.46833998859098686
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2020-10-28"
+    },
+    {
+      "bbox": [
+        0.7870967741935484,
+        0.4580718767826583,
+        0.8048387096774193,
+        0.46833998859098686
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.8629032258064516,
+        0.4580718767826583,
+        0.8951612903225806,
+        0.46833998859098686
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$180"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.11733248320123557,
+        0.43523886855772914,
+        0.14747719474817642,
+        0.44617177139331854
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.22925438894460468,
+        0.43578551369950863,
+        0.29495440129050143,
+        0.44671841653509803
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Start Date"
+    },
+    {
+      "bbox": [
+        0.32355323019400944,
+        0.43633215884128806,
+        0.38387096774193546,
+        0.4472333143183115
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "End Date"
+    },
+    {
+      "bbox": [
+        0.7837625002204625,
+        0.43633215884128806,
+        0.8602836910703893,
+        0.44671841653509803
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Spots"
+    },
+    {
+      "bbox": [
+        0.8772884001481507,
+        0.43633215884128806,
+        0.9344860579551668,
+        0.4456251262515391
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Subtotal"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 849,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "607b4932-4ddc-4323-b195-0156c8386732",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1654,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04596774193548387,
+          0.4295493439817456,
+          0.9540322580645161,
+          0.47632629777524244
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.04596774193548387,
+            "right": 0.07258064516129033
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.10483870967741936,
+            "right": 0.11854838709677419
+          },
+          {
+            "column_type": "",
+            "left": 0.1629032258064516,
+            "right": 0.1814516129032258
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.2217741935483871,
+            "right": 0.29274193548387095
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.31290322580645163,
+            "right": 0.38387096774193546
+          },
+          {
+            "column_type": "",
+            "left": 0.40161290322580645,
+            "right": 0.45645161290322583
+          },
+          {
+            "column_type": "",
+            "left": 0.47661290322580646,
+            "right": 0.5330645161290323
+          },
+          {
+            "column_type": "",
+            "left": 0.5540322580645162,
+            "right": 0.5637096774193548
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7870967741935484,
+            "right": 0.8048387096774193
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8629032258064516,
+            "right": 0.8951612903225806
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4472333143183115,
+            "row_type": "header",
+            "top": 0.4295493439817456
+          },
+          {
+            "bottom": 0.4580718767826583,
+            "row_type": "gap",
+            "top": 0.4472333143183115
+          },
+          {
+            "bottom": 0.46833998859098686,
+            "row_type": "data",
+            "top": 0.4580718767826583
+          },
+          {
+            "bottom": 0.47632629777524244,
+            "row_type": "gap",
+            "top": 0.46833998859098686
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

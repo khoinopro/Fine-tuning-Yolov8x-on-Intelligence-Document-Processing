@@ -1,0 +1,244 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8456388112776226,
+        0.15593799064067193,
+        0.8973901447802896,
+        0.17011417160800574
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "203796"
+    },
+    {
+      "bbox": [
+        0.13790322580645162,
+        0.3771626297577855,
+        0.1975806451612903,
+        0.39100346020761245
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/18/01"
+    },
+    {
+      "bbox": [
+        0.7098991318091517,
+        0.3786474571918654,
+        0.7489150358361961,
+        0.38987420120564037
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "23189"
+    },
+    {
+      "bbox": [
+        0.6683629667259335,
+        0.27092256959793504,
+        0.8434366268732538,
+        0.300062497141899
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 930826\nATLANTA, GA 31193-0826"
+    },
+    {
+      "bbox": [
+        0.47865852989276575,
+        0.3779670484637578,
+        0.5604967676080299,
+        0.39021440556969417
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "1120-02-000"
+    },
+    {
+      "bbox": [
+        0.16626492252984507,
+        0.21343028011930348,
+        0.30610363220726444,
+        0.22603132986804464
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.16510388655346891,
+        0.21296793189767094,
+        0.34210286579810995,
+        0.2718232868789761
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Co.\nVendor Code: IITL574660\nP.O. Box 21688\nGreensboro, NC 27420"
+    },
+    {
+      "bbox": [
+        0.8426618535918259,
+        0.6707915853580896,
+        0.8547738678158544,
+        0.6849677663254234
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$\u0301"
+    },
+    {
+      "bbox": [
+        0.8434366268732538,
+        0.6702183335111708,
+        0.9006934213868428,
+        0.6851820800878008
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$800.00"
+    },
+    {
+      "bbox": [
+        0.8434366268732538,
+        0.6702183335111708,
+        0.9040322580645161,
+        0.6851211072664359
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$800.00"
+    },
+    {
+      "bbox": [
+        0.8007776399697065,
+        0.37830725282781164,
+        0.8742672085344172,
+        0.38984497660167977
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET CASH"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.24435483870967742,
+        0.47058823529411764,
+        0.4782258064516129,
+        0.48385236447520186
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Balance of 06/01/00 - Six Months"
+    },
+    {
+      "bbox": [
+        0.8467741935483871,
+        0.47058823529411764,
+        0.8951612903225806,
+        0.48385236447520186
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "600.00"
+    },
+    {
+      "bbox": [
+        0.24435483870967742,
+        0.49653979238754326,
+        0.4782258064516129,
+        0.5121107266435986
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Balance of 09/01/00 - Nine Months"
+    },
+    {
+      "bbox": [
+        0.8467741935483871,
+        0.49653979238754326,
+        0.8951612903225806,
+        0.5121107266435986
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "200.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1051,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zxwm0180",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1673,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1693548387096774,
+          0.47058823529411764,
+          0.9056451612903226,
+          0.6891580161476355
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.24435483870967742,
+            "right": 0.4782258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8467741935483871,
+            "right": 0.8951612903225806
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.48385236447520186,
+            "row_type": "data",
+            "top": 0.47058823529411764
+          },
+          {
+            "bottom": 0.49653979238754326,
+            "row_type": "gap",
+            "top": 0.48385236447520186
+          },
+          {
+            "bottom": 0.5121107266435986,
+            "row_type": "data",
+            "top": 0.49653979238754326
+          },
+          {
+            "bottom": 0.668396770472895,
+            "row_type": "gap",
+            "top": 0.5121107266435986
+          },
+          {
+            "bottom": 0.6891580161476355,
+            "row_type": "footer",
+            "top": 0.668396770472895
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

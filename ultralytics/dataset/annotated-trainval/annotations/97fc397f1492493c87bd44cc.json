@@ -1,0 +1,209 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6689073504805634,
+        0.19357568389057753,
+        0.7281168527958286,
+        0.20684255319148934
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "22013"
+    },
+    {
+      "bbox": [
+        0.6681072220708977,
+        0.17548449848024317,
+        0.7385185221214833,
+        0.19116352583586627
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/26/00"
+    },
+    {
+      "bbox": [
+        0.6689073504805634,
+        0.21106382978723404,
+        0.7169150550605081,
+        0.22372765957446808
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "7579"
+    },
+    {
+      "bbox": [
+        0.43366959803883415,
+        0.9075744680851064,
+        0.9017447176932955,
+        0.918429179331307
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "575 \u2e31 LEXINGTON \u2e31 AVENUE \u2e31 NEW YORK \u2e31 NY \u2e31 10022 \u2e31 USA"
+    },
+    {
+      "bbox": [
+        0.6977119732285303,
+        0.9292838905775076,
+        0.9001444608739639,
+        0.9395355623100304
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "INFO@BLUEROCKNY.COM"
+    },
+    {
+      "bbox": [
+        0.09761566597922097,
+        0.20020911854103343,
+        0.12562016031752207,
+        0.21519756838905776
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.09761566597922097,
+        0.20056632252109155,
+        0.37846073777189776,
+        0.26955866261398176
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 GRANDVIEW AVENUE\nGREAT NECK, NY\n11020-1510\nYVONNE PENDARVIS/RUSS TILLMAN"
+    },
+    {
+      "bbox": [
+        0.8001284096657457,
+        0.803248632218845,
+        0.8497363710650219,
+        0.8171185410334347
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "82.91"
+    },
+    {
+      "bbox": [
+        0.8001284096657457,
+        0.847873556231003,
+        0.8505364994746878,
+        0.8629495440729483
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "82.91"
+    },
+    {
+      "bbox": [
+        0.1532258064516129,
+        0.8291793313069908,
+        0.27444404451535076,
+        0.8462006079027355
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09435483870967742,
+        0.4279635258358663,
+        0.38467741935483873,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TAX ON FINAL ELEMENTS FOR\n\"BROTHERS\" :60"
+    },
+    {
+      "bbox": [
+        0.8,
+        0.4279635258358663,
+        0.8556451612903225,
+        0.45896656534954405
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "82.91"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 19,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pjxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09435483870967742,
+          0.4279635258358663,
+          0.8556451612903225,
+          0.8650455927051671
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.09435483870967742,
+            "right": 0.38467741935483873
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8,
+            "right": 0.8556451612903225
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.45896656534954405,
+            "row_type": "data",
+            "top": 0.4279635258358663
+          },
+          {
+            "bottom": 0.772644376899696,
+            "row_type": "gap",
+            "top": 0.45896656534954405
+          },
+          {
+            "bottom": 0.7908814589665654,
+            "row_type": "gap-with-text",
+            "top": 0.772644376899696
+          },
+          {
+            "bottom": 0.8048632218844984,
+            "row_type": "gap",
+            "top": 0.7908814589665654
+          },
+          {
+            "bottom": 0.8650455927051671,
+            "row_type": "footer",
+            "top": 0.8048632218844984
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2293797129537672,
+        0.13405981820628785,
+        0.41673568352535745,
+        0.15230879905957487
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 11, 2002"
+    },
+    {
+      "bbox": [
+        0.3939728085960988,
+        0.914476726243424,
+        0.5743248176509941,
+        0.9278125199439031
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "RAMADA INN LAKE SHORE"
+    },
+    {
+      "bbox": [
+        0.19786188612863986,
+        0.914320747288142,
+        0.5734493224614072,
+        0.9432539652812997
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "RAMADA INN LAKE SHORE\n4900 S. Lake Shore Drive, Chicago, IL 60615 \u2022 Phone (773)"
+    },
+    {
+      "bbox": [
+        0.15671361221805694,
+        0.1993350189507376,
+        0.34757156354799473,
+        0.2175839998040246
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Linda Rahman"
+    },
+    {
+      "bbox": [
+        0.15321163145970948,
+        0.19824320107093277,
+        0.4727673756589172,
+        0.2877723877012824
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Linda Rahman\nHealthy Families\n3333 w. Arthington, Suite 150\nChicago, IL 60624-4102"
+    },
+    {
+      "bbox": [
+        0.6574968606617467,
+        0.6164880141708462,
+        0.6680028029367893,
+        0.6354388789031059
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6566213654721599,
+        0.6171898980498188,
+        0.7590543026538238,
+        0.6354388789031059
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5310.00"
+    },
+    {
+      "bbox": [
+        0.6548703750929862,
+        0.6164880141708462,
+        0.7599297978434106,
+        0.6361407627820784
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5310.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14919354838709678,
+        0.48093083387201035,
+        0.6516129032258065,
+        0.5707821590174531
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "50 - Box Lunches + $9.00 x 500 =\nRoom Rental for all\nBreakout rooms (Kenwood, Hyde Park\nLalkeview & Conf. Room C)."
+    },
+    {
+      "bbox": [
+        0.6516129032258065,
+        0.48093083387201035,
+        0.7661290322580645,
+        0.5707821590174531
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$4500.00"
+    },
+    {
+      "bbox": [
+        0.14919354838709678,
+        0.5707821590174531,
+        0.6516129032258065,
+        0.59469941822883
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "18% Service Charge"
+    },
+    {
+      "bbox": [
+        0.6516129032258065,
+        0.5707821590174531,
+        0.7661290322580645,
+        0.59469941822883
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 810.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 457,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jjkd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14919354838709678,
+          0.48093083387201035,
+          0.7661290322580645,
+          0.6380090497737556
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14919354838709678,
+            "right": 0.6516129032258065
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6516129032258065,
+            "right": 0.7661290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5707821590174531,
+            "row_type": "data",
+            "top": 0.48093083387201035
+          },
+          {
+            "bottom": 0.59469941822883,
+            "row_type": "data",
+            "top": 0.5707821590174531
+          },
+          {
+            "bottom": 0.6160310277957337,
+            "row_type": "gap",
+            "top": 0.59469941822883
+          },
+          {
+            "bottom": 0.6380090497737556,
+            "row_type": "footer",
+            "top": 0.6160310277957337
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

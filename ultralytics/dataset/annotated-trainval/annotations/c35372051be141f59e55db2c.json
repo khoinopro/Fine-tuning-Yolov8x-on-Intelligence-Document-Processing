@@ -1,0 +1,230 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.860094204967171,
+        0.1513926928250545,
+        0.8976976876962603,
+        0.16644342836906573
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "768881"
+    },
+    {
+      "bbox": [
+        0.8573594062232373,
+        0.16467275359918207,
+        0.9161575792178133,
+        0.18149416391307702
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/15/1999"
+    },
+    {
+      "bbox": [
+        0.7527533542677705,
+        0.08676306372430023,
+        0.9086368826719954,
+        0.10540786159667084
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 66338, BATON ROUGE, LA 70896"
+    },
+    {
+      "bbox": [
+        0.3850686580563547,
+        0.15031315240083507,
+        0.4920864703841995,
+        0.1644037355955505
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS INC"
+    },
+    {
+      "bbox": [
+        0.7217759955052302,
+        0.7854586094696842,
+        0.7752084437533466,
+        0.8013264602533877
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,750.00"
+    },
+    {
+      "bbox": [
+        0.8654271490073658,
+        0.7878732867386765,
+        0.9157597274081328,
+        0.8017843720583001
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,291.66"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2903225806451613,
+        0.24425887265135698,
+        0.5419354838709678,
+        0.2609603340292276
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "N/S MCDOWELL 0.25 MI W/O 32ND ST - E/F"
+    },
+    {
+      "bbox": [
+        0.8653225806451613,
+        0.24425887265135698,
+        0.9169354838709678,
+        0.2609603340292276
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,291.66"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.40205724779109075,
+        0.19624217118997914,
+        0.49490707589437505,
+        0.21333443843433916
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MARKET/LOCATION"
+    },
+    {
+      "bbox": [
+        0.8715620389548681,
+        0.19624217118997914,
+        0.932877963174018,
+        0.21446785634746085
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1152,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lyyx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2201,
+        1701
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2903225806451613,
+          0.19624217118997914,
+          0.9354838709677419,
+          0.8288100208768268
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2903225806451613,
+            "right": 0.5419354838709678
+          },
+          {
+            "column_type": "",
+            "left": 0.6161290322580645,
+            "right": 0.6443548387096775
+          },
+          {
+            "column_type": "",
+            "left": 0.6669354838709678,
+            "right": 0.6903225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.7209677419354839,
+            "right": 0.7741935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.8088709677419355,
+            "right": 0.8483870967741935
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8653225806451613,
+            "right": 0.9169354838709678
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2139874739039666,
+            "row_type": "header",
+            "top": 0.19624217118997914
+          },
+          {
+            "bottom": 0.22964509394572025,
+            "row_type": "gap",
+            "top": 0.2139874739039666
+          },
+          {
+            "bottom": 0.24425887265135698,
+            "row_type": "down-merge",
+            "top": 0.22964509394572025
+          },
+          {
+            "bottom": 0.2609603340292276,
+            "row_type": "data",
+            "top": 0.24425887265135698
+          },
+          {
+            "bottom": 0.30062630480167013,
+            "row_type": "gap",
+            "top": 0.2609603340292276
+          },
+          {
+            "bottom": 0.511482254697286,
+            "row_type": "gap-with-text",
+            "top": 0.30062630480167013
+          },
+          {
+            "bottom": 0.7453027139874739,
+            "row_type": "gap",
+            "top": 0.511482254697286
+          },
+          {
+            "bottom": 0.8016701461377871,
+            "row_type": "footer",
+            "top": 0.7453027139874739
+          },
+          {
+            "bottom": 0.8288100208768268,
+            "row_type": "gap",
+            "top": 0.8016701461377871
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

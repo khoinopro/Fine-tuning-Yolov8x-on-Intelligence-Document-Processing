@@ -1,0 +1,209 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6453555572227105,
+        0.2751367781155015,
+        0.6857100470835441,
+        0.28845037782047994
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3089"
+    },
+    {
+      "bbox": [
+        0.6281008015876104,
+        0.23955744680851063,
+        0.7881264835207595,
+        0.25704559270516714
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 20, 1999"
+    },
+    {
+      "bbox": [
+        0.2216355694774116,
+        0.1670419452887538,
+        0.36965932526557455,
+        0.17910273556231004
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "A&G RESEARCH, INC."
+    },
+    {
+      "bbox": [
+        0.22243569788707732,
+        0.16643890577507597,
+        0.7105140277831822,
+        0.17910273556231004
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "A&G RESEARCH, INC. 276 FIFTH AVENUE NEW YORK, N.Y. 10001-4509"
+    },
+    {
+      "bbox": [
+        0.5376862912953811,
+        0.17970577507598784,
+        0.6945114595898673,
+        0.1941787234042553
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "agr@agresearchny.com"
+    },
+    {
+      "bbox": [
+        0.16642670921047512,
+        0.40901155015197566,
+        0.3480558582045994,
+        0.44217872340425535
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Natasha Coggins\nLorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.16562658080080936,
+        0.40840851063829786,
+        0.40566510370053305,
+        0.47715501519756837
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Natasha Coggins\nLorillard Tobacco Co.\nP.O. Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.5896946379236546,
+        0.6138942249240121,
+        0.600896435658975,
+        0.6301762917933131
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5888945095139888,
+        0.6132911854103343,
+        0.6841097902642126,
+        0.6301762917933131
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$18,520.00"
+    },
+    {
+      "bbox": [
+        0.5896946379236546,
+        0.6138942249240121,
+        0.6825095334448811,
+        0.6301762917933131
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$18,520.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17258064516129032,
+        0.5452887537993921,
+        0.40403225806451615,
+        0.5641337386018237
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Newport Non-Menthol Study"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.5452887537993921,
+        0.839516129032258,
+        0.5641337386018237
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$18,520.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 955,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fkkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.17258064516129032,
+          0.5452887537993921,
+          0.839516129032258,
+          0.6334346504559271
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17258064516129032,
+            "right": 0.40403225806451615
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7403225806451613,
+            "right": 0.839516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5641337386018237,
+            "row_type": "data",
+            "top": 0.5452887537993921
+          },
+          {
+            "bottom": 0.5793313069908814,
+            "row_type": "gap",
+            "top": 0.5641337386018237
+          },
+          {
+            "bottom": 0.5969604863221885,
+            "row_type": "subsection-header",
+            "top": 0.5793313069908814
+          },
+          {
+            "bottom": 0.6139817629179332,
+            "row_type": "gap",
+            "top": 0.5969604863221885
+          },
+          {
+            "bottom": 0.6334346504559271,
+            "row_type": "footer",
+            "top": 0.6139817629179332
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

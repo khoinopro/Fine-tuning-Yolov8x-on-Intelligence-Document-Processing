@@ -1,0 +1,264 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6380290904082757,
+        0.1841420165449183,
+        0.6582160127318357,
+        0.19600683719858572
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "02"
+    },
+    {
+      "bbox": [
+        0.7732202974842382,
+        0.68531204095583,
+        0.8753783589398298,
+        0.696227675957204
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 15,2003"
+    },
+    {
+      "bbox": [
+        0.21024719495091165,
+        0.18319758157156532,
+        0.3313896263273893,
+        0.20997858396232377
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. Roger A. Walk\nPhilip Morris USA"
+    },
+    {
+      "bbox": [
+        0.21024719495091165,
+        0.18303651434941132,
+        0.3624261170106191,
+        0.2344308035364946
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. Roger A. Walk\nPhilip Morris USA\n615 Maury Street\nRichmond, VA 23224"
+    },
+    {
+      "bbox": [
+        0.4265014526147064,
+        0.38386103426753837,
+        0.43601263524343814,
+        0.39666933975877067
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.4249996869364856,
+        0.3827392120075047,
+        0.5075967992386295,
+        0.3978337311670645
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$21,600.00"
+    },
+    {
+      "bbox": [
+        0.4242893349674564,
+        0.3836841413133446,
+        0.5089569376851776,
+        0.39881015073050535
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$21,600.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.21129032258064517,
+        0.34021263289555975,
+        0.267741935483871,
+        0.3539712320200125
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Stipend"
+    },
+    {
+      "bbox": [
+        0.4435483870967742,
+        0.34021263289555975,
+        0.5153225806451613,
+        0.3539712320200125
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20,000.00"
+    },
+    {
+      "bbox": [
+        0.6274193548387097,
+        0.34021263289555975,
+        0.6387096774193548,
+        0.3539712320200125
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.21129032258064517,
+        0.3539712320200125,
+        0.267741935483871,
+        0.3689806128830519
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "IDC"
+    },
+    {
+      "bbox": [
+        0.4435483870967742,
+        0.3539712320200125,
+        0.5153225806451613,
+        0.3689806128830519
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,600.00"
+    },
+    {
+      "bbox": [
+        0.6274193548387097,
+        0.3539712320200125,
+        0.6387096774193548,
+        0.3689806128830519
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.4257163170357326,
+        0.29883091775366266,
+        0.4808929570090789,
+        0.31211229187604766
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Current"
+    },
+    {
+      "bbox": [
+        0.622639842457848,
+        0.29956877187157294,
+        0.7054048024178675,
+        0.3113744377581374
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Cumulative"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 119,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jpcj0179",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1714,
+        2210
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.21129032258064517,
+          0.29831144465290804,
+          0.7322580645161291,
+          0.40150093808630394
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.21129032258064517,
+            "right": 0.267741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4435483870967742,
+            "right": 0.5153225806451613
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.6274193548387097,
+            "right": 0.6387096774193548
+          },
+          {
+            "column_type": "",
+            "left": 0.6483870967741936,
+            "right": 0.7233870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.31081926203877425,
+            "row_type": "header",
+            "top": 0.29831144465290804
+          },
+          {
+            "bottom": 0.34021263289555975,
+            "row_type": "gap",
+            "top": 0.31081926203877425
+          },
+          {
+            "bottom": 0.3539712320200125,
+            "row_type": "data",
+            "top": 0.34021263289555975
+          },
+          {
+            "bottom": 0.3689806128830519,
+            "row_type": "data",
+            "top": 0.3539712320200125
+          },
+          {
+            "bottom": 0.383364602876798,
+            "row_type": "gap",
+            "top": 0.3689806128830519
+          },
+          {
+            "bottom": 0.40150093808630394,
+            "row_type": "footer",
+            "top": 0.383364602876798
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

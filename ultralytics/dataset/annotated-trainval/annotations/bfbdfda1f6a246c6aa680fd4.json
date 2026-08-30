@@ -1,0 +1,230 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3959677419354839,
+        0.2672306808772591,
+        0.5470462033560647,
+        0.2855504587155963
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 7, 2000"
+    },
+    {
+      "bbox": [
+        0.13613516205654738,
+        0.6179503173575512,
+        0.5345184277066891,
+        0.6345821109087075
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Idaho Governor's Challenge Cup for Education, Inc."
+    },
+    {
+      "bbox": [
+        0.13697034709983907,
+        0.6337901328244158,
+        0.3090184660179296,
+        0.6658657346730741
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. Box 44738\nBoise, ID 83711-0738"
+    },
+    {
+      "bbox": [
+        0.4637072956957491,
+        0.1741631816226132,
+        0.7202084484499742,
+        0.18781274737585124
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "ID GOVERNORS CHALLENGE"
+    },
+    {
+      "bbox": [
+        0.4637072956957491,
+        0.18781274737585124,
+        0.7009917497094297,
+        0.21957423275768548
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "P0 BOX 44738\nBOISE, ID 83711-0738"
+    },
+    {
+      "bbox": [
+        0.14448701248946438,
+        0.9440523057400105,
+        0.47020917937322804,
+        0.9589021214106858
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. Box 44738 Boise, Idaho 83711-0738"
+    },
+    {
+      "bbox": [
+        0.2056451612903226,
+        0.6997893337243235,
+        0.3015018006283043,
+        0.7155963302752294
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "82-0509099"
+    },
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.2993119266055046,
+        0.2838709677419355,
+        0.33494584033553787
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Mike Phillips\nRJ Reynolds"
+    },
+    {
+      "bbox": [
+        0.13028886675350548,
+        0.33322986364995055,
+        0.3440962378361811,
+        0.3677474372008106
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "P.O. Box 2959\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.012532629613398624,
+        0.6150178315922211,
+        0.2573366613951184,
+        0.6280111663163366
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 1,
+      "text": "R J REYNOLDS TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.6364110029882767,
+        0.43249263352495426,
+        0.7258064516129032,
+        0.4506880733944954
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,000.00"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.6167896499636913,
+        0.9391117123640035,
+        0.629418472063854
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "5,000.00"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.6163302936504661,
+        0.94078272964579,
+        0.629418472063854
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "5,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13548387096774195,
+        0.43405963302752293,
+        0.4685483870967742,
+        0.45355504587155965
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Corporate Sponsor Fee for September 2001"
+    },
+    {
+      "bbox": [
+        0.6387096774193548,
+        0.43405963302752293,
+        0.725,
+        0.45355504587155965
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$5,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 711,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yxxf0221",
+    "page_count": 3,
+    "page_sizes_at_200dpi": [
+      [
+        1663,
+        2339
+      ],
+      [
+        1654,
+        2339
+      ],
+      [
+        2339,
+        1655
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13548387096774195,
+          0.43405963302752293,
+          0.725,
+          0.45355504587155965
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13548387096774195,
+            "right": 0.4685483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6387096774193548,
+            "right": 0.725
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.45355504587155965,
+            "row_type": "data",
+            "top": 0.43405963302752293
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8298335870265208,
+        0.1025767916714556,
+        0.8920994086997248,
+        0.1180086983830905
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "J99-0469"
+    },
+    {
+      "bbox": [
+        0.6554892863415491,
+        0.10348455088978704,
+        0.7211514255605643,
+        0.11891645760142197
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "04-30-99"
+    },
+    {
+      "bbox": [
+        0.24679907499560916,
+        0.8560169428865718,
+        0.6000160997599673,
+        0.8732643680348696
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 117 Atlantic Beach, New York 11509"
+    },
+    {
+      "bbox": [
+        0.1407775825279277,
+        0.21270943029937892,
+        0.24906328669281658,
+        0.2278475638011978
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "See Factor, Inc."
+    },
+    {
+      "bbox": [
+        0.1407775825279277,
+        0.22697652623409334,
+        0.33333542529601273,
+        0.2749658489235874
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "37-11 30th Street\nLong Island City, NY 11101\nAttn: Ada"
+    },
+    {
+      "bbox": [
+        0.8398110957700514,
+        0.9040150787723604,
+        0.8988729551064809,
+        0.917633670346406
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "220.25"
+    },
+    {
+      "bbox": [
+        0.839002029203799,
+        0.9036845507433743,
+        0.9004910882389859,
+        0.9169851659857371
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "220.25"
+    },
+    {
+      "bbox": [
+        0.192457994262631,
+        0.5507433742727861,
+        0.2784980387565131,
+        0.5655339930205029
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 15 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.45895281189398834,
+        0.36532258064516127,
+        0.4738202973497091
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Pick up"
+    },
+    {
+      "bbox": [
+        0.8443548387096774,
+        0.45895281189398834,
+        0.9080645161290323,
+        0.4738202973497091
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "45.00"
+    },
+    {
+      "bbox": [
+        0.08377583279667467,
+        0.3812588716992154,
+        0.09849320882852293,
+        0.39759853762918185
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.09736110297991922,
+        0.3839821493542099,
+        0.12226743164920088,
+        0.39759853762918185
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PCS"
+    },
+    {
+      "bbox": [
+        0.1709479831391605,
+        0.38216663091754693,
+        0.1935901001112347,
+        0.39850629684751326
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "lbs"
+    },
+    {
+      "bbox": [
+        0.14377744277267138,
+        0.3812588716992154,
+        0.16981587729055678,
+        0.39759853762918185
+      ],
+      "fieldtype": "line_item_weight",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "107"
+    },
+    {
+      "bbox": [
+        0.25925223933025,
+        0.38216663091754693,
+        0.3124612142146244,
+        0.39759853762918185
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "14/20/99"
+    },
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.4738202973497091,
+        0.36532258064516127,
+        0.48933419521654814
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "air freight from New York to Los Angeles"
+    },
+    {
+      "bbox": [
+        0.8443548387096774,
+        0.4738202973497091,
+        0.9080645161290323,
+        0.48933419521654814
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "80.25"
+    },
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.48933419521654814,
+        0.36532258064516127,
+        0.5048480930833872
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Delivery to the Biltmore Hotel"
+    },
+    {
+      "bbox": [
+        0.8443548387096774,
+        0.48933419521654814,
+        0.9080645161290323,
+        0.5048480930833872
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "60-00"
+    },
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.5048480930833872,
+        0.36532258064516127,
+        0.5229476405946994
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Handling"
+    },
+    {
+      "bbox": [
+        0.8443548387096774,
+        0.5048480930833872,
+        0.9080645161290323,
+        0.5229476405946994
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "35.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.3331476331276478,
+        0.22642116972074236,
+        0.34948729905761416
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8003988349628242,
+        0.33096315449256625,
+        0.8943636203969323,
+        0.35039505827594564
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 290,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lhnf0017",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.33096315449256625,
+          0.9362903225806452,
+          0.5229476405946994
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08225806451612903,
+            "right": 0.36532258064516127
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8443548387096774,
+            "right": 0.9080645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.34970911441499675,
+            "row_type": "header",
+            "top": 0.33096315449256625
+          },
+          {
+            "bottom": 0.37879767291531996,
+            "row_type": "gap-with-text",
+            "top": 0.34970911441499675
+          },
+          {
+            "bottom": 0.4440853264382676,
+            "row_type": "subsection-header",
+            "top": 0.37879767291531996
+          },
+          {
+            "bottom": 0.45895281189398834,
+            "row_type": "gap",
+            "top": 0.4440853264382676
+          },
+          {
+            "bottom": 0.4738202973497091,
+            "row_type": "data",
+            "top": 0.45895281189398834
+          },
+          {
+            "bottom": 0.48933419521654814,
+            "row_type": "data",
+            "top": 0.4738202973497091
+          },
+          {
+            "bottom": 0.5048480930833872,
+            "row_type": "data",
+            "top": 0.48933419521654814
+          },
+          {
+            "bottom": 0.5229476405946994,
+            "row_type": "data",
+            "top": 0.5048480930833872
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

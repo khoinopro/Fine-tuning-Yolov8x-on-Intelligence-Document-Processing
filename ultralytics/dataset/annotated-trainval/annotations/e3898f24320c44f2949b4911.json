@@ -1,0 +1,199 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8604004449388208,
+        0.17095763972999434,
+        0.9062261208105623,
+        0.18295466707946761
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "03726"
+    },
+    {
+      "bbox": [
+        0.8108338975673453,
+        0.19645132284762507,
+        0.9230600425593654,
+        0.21144760703446666
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 01, 1999"
+    },
+    {
+      "bbox": [
+        0.13841224549015815,
+        0.31417215371433166,
+        0.2160353291096387,
+        0.32691899527314705
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "0044-1119"
+    },
+    {
+      "bbox": [
+        0.45919197659234895,
+        0.11772083086670662,
+        0.6574581660782511,
+        0.13571637189091657
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "E. Morris Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.3161036417275233,
+        0.9120740225497175,
+        0.41897760797020844,
+        0.9255706783178751
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "820 North Orleans"
+    },
+    {
+      "bbox": [
+        0.1032258064516129,
+        0.17065287653522948,
+        0.33548387096774196,
+        0.20555914673561732
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "KAREN MARRYSHOW\nPHILIP MORRIS USA(MEDIA)"
+    },
+    {
+      "bbox": [
+        0.1066148377424191,
+        0.20904820385282338,
+        0.31329798810272286,
+        0.24129021485453286
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "120 PARK AVENUE\nNEW YORK, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.8052225903177443,
+        0.8085996616605104,
+        0.8173804226918798,
+        0.8235959458473521
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8314086908158823,
+        0.4216955067574833,
+        0.8978091599361608,
+        0.43819141936300904
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "7,990.00"
+    },
+    {
+      "bbox": [
+        0.8052225903177443,
+        0.8085996616605104,
+        0.8884569811868259,
+        0.8235959458473521
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,990.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10564516129032259,
+        0.37233354880413705,
+        0.3911290322580645,
+        0.4040077569489334
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AGENCY FEE\nAGENCY FEE - MARCH 1999"
+    },
+    {
+      "bbox": [
+        0.832258064516129,
+        0.37233354880413705,
+        0.8987443778110943,
+        0.4040077569489334
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "7,990.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 514,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ttcl0024",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10564516129032259,
+          0.37233354880413705,
+          0.9032258064516129,
+          0.43956043956043955
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10564516129032259,
+            "right": 0.3911290322580645
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.832258064516129,
+            "right": 0.9032258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4040077569489334,
+            "row_type": "data",
+            "top": 0.37233354880413705
+          },
+          {
+            "bottom": 0.42081447963800905,
+            "row_type": "gap",
+            "top": 0.4040077569489334
+          },
+          {
+            "bottom": 0.43956043956043955,
+            "row_type": "footer",
+            "top": 0.42081447963800905
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

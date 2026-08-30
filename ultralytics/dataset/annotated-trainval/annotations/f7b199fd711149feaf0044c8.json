@@ -1,0 +1,178 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7633723171828813,
+        0.2808610029327303,
+        0.8456967827614275,
+        0.293476508974626
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0006922"
+    },
+    {
+      "bbox": [
+        0.7624368118922161,
+        0.2523101208379138,
+        0.8765684573533822,
+        0.2662535748842195
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "01/01/1999"
+    },
+    {
+      "bbox": [
+        0.17306847877307974,
+        0.0989321263285504,
+        0.4359454654500279,
+        0.16200965653802885
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "SAN ANTONIO\nHISPANIC CHAMBER\nOF COMMERCE"
+    },
+    {
+      "bbox": [
+        0.5042373516685945,
+        0.11818737239249646,
+        0.891536542004027,
+        0.13412274844541733
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "603 Navarro, Suite 100  San Antonio, Texas 78205"
+    },
+    {
+      "bbox": [
+        0.7624368118922161,
+        0.26691754888642455,
+        0.8204381399134645,
+        0.27953305492832026
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "04487"
+    },
+    {
+      "bbox": [
+        0.12816422482114553,
+        0.23703871878719796,
+        0.33023336760484945,
+        0.2678878076702919
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. J.J. Vigneault\nR.J. Reynolds"
+    },
+    {
+      "bbox": [
+        0.1319062459838067,
+        0.2655896008820145,
+        0.4312679389967014,
+        0.29214856097021596
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "11615 Angus Rd., Suite 104B\nAustin, TX 78759"
+    },
+    {
+      "bbox": [
+        0.806405560553485,
+        0.45933721675173195,
+        0.8868590155507005,
+        0.4719527227936276
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "1100.00"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.2933437162004729,
+        0.8887300261320311,
+        0.30910131654264456
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1100.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09758064516129032,
+        0.4567830566685747,
+        0.5887096774193549,
+        0.4758037537698262
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Membership Investment 01/05/1999 - 01/04/2000"
+    },
+    {
+      "bbox": [
+        0.8080645161290323,
+        0.4567830566685747,
+        0.8877945208413658,
+        0.4738118317632111
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1100.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 754,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hgvc0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1667,
+        2349
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09758064516129032,
+          0.4567830566685747,
+          0.8903225806451613,
+          0.477389811104751
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.09758064516129032,
+            "right": 0.5887096774193549
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8080645161290323,
+            "right": 0.8903225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.477389811104751,
+            "row_type": "data",
+            "top": 0.4567830566685747
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

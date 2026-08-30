@@ -1,0 +1,246 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2565007487365072,
+        0.26498743540268327,
+        0.32284894240968365,
+        0.2775598319728836
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0132598"
+    },
+    {
+      "bbox": [
+        0.6716899606913334,
+        0.1673095851265117,
+        0.7188860984588507,
+        0.17939842798247352
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/1/99"
+    },
+    {
+      "bbox": [
+        0.1422724152991826,
+        0.05174024742351662,
+        0.3262689523928371,
+        0.08026991656358654
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "640 N. LaSalle Suite 350\nChicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.6737419666812254,
+        0.18814139110604333,
+        0.7250421164285269,
+        0.20019123769472788
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "Camel"
+    },
+    {
+      "bbox": [
+        0.19152055905659202,
+        0.1542536348420729,
+        0.3597850502277407,
+        0.1677931388407502
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Cleveland Free Tlmes"
+    },
+    {
+      "bbox": [
+        0.6730579646845948,
+        0.2499972702612906,
+        0.8064383540275785,
+        0.26498743540268327
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Camel Club Page"
+    },
+    {
+      "bbox": [
+        0.7332501403880951,
+        0.612179002225907,
+        0.809858364010732,
+        0.6266856136530612
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,455.00"
+    },
+    {
+      "bbox": [
+        0.7325661383914644,
+        0.6131461096543839,
+        0.8078063580208399,
+        0.6271691673672996
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1,455.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2629032258064516,
+        0.31527936145952107,
+        0.31370967741935485,
+        0.3312428734321551
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4/14/99"
+    },
+    {
+      "bbox": [
+        0.7491935483870967,
+        0.31527936145952107,
+        0.8104838709677419,
+        0.3312428734321551
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,455.00"
+    },
+    {
+      "bbox": [
+        0.8564516129032258,
+        0.31527936145952107,
+        0.9846774193548387,
+        0.3312428734321551
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "CCP99CLMEDCL"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2629032258064516,
+        0.2949677656854686,
+        0.31370967741935485,
+        0.30802371596990735
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Issue"
+    },
+    {
+      "bbox": [
+        0.7612942222499532,
+        0.2944842119712301,
+        0.8104838709677419,
+        0.30957810718358036
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    },
+    {
+      "bbox": [
+        0.8577385037748799,
+        0.2969019805424225,
+        0.979490859175142,
+        0.31044148454109977
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Internal Use Only"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 161,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "qmmw0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1654,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07822580645161291,
+          0.2936145952109464,
+          0.9846774193548387,
+          0.3312428734321551
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.07822580645161291,
+            "right": 0.22741935483870968
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.2629032258064516,
+            "right": 0.31370967741935485
+          },
+          {
+            "column_type": "",
+            "left": 0.36532258064516127,
+            "right": 0.42096774193548386
+          },
+          {
+            "column_type": "",
+            "left": 0.5040322580645161,
+            "right": 0.6330645161290323
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7491935483870967,
+            "right": 0.8104838709677419
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.8564516129032258,
+            "right": 0.9846774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.30957810718358036,
+            "row_type": "header",
+            "top": 0.2936145952109464
+          },
+          {
+            "bottom": 0.31527936145952107,
+            "row_type": "gap",
+            "top": 0.30957810718358036
+          },
+          {
+            "bottom": 0.3312428734321551,
+            "row_type": "data",
+            "top": 0.31527936145952107
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

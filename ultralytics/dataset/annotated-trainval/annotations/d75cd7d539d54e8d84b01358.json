@@ -1,0 +1,252 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2608056969027366,
+        0.09116359844567128,
+        0.37533862701026344,
+        0.10783351395339792
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DW9470003"
+    },
+    {
+      "bbox": [
+        0.23655166464467206,
+        0.31701781173418764,
+        0.31693548387096776,
+        0.33472959696114724
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "3139011"
+    },
+    {
+      "bbox": [
+        0.2120967741935484,
+        0.24688279301745636,
+        0.549832914644672,
+        0.26695018179353147
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WXME-AM \"The Talk of the County\""
+    },
+    {
+      "bbox": [
+        0.2149925248597258,
+        0.24663372226848962,
+        0.5478117452898333,
+        0.30029001280898476
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WXME-AM \"The Talk of the County\"\n74 PLEASANT STREET\nHOULTON, ME 04730"
+    },
+    {
+      "bbox": [
+        0.18467498453714515,
+        0.14221522064971048,
+        0.5754343931392957,
+        0.1771178562440131
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "C/O Mainers for Responsible Gun Owners\nMedia Financial Services"
+    },
+    {
+      "bbox": [
+        0.183327538300586,
+        0.14377802522855984,
+        0.5754343931392957,
+        0.23077414678450825
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "C/O Mainers for Responsible Gun Owners\nMedia Financial Services\n1675 Palm Beach Lakes Blvd\nSUITE 1000\nWEST PALM BEACH, FL 33401"
+    },
+    {
+      "bbox": [
+        0.35714810281671505,
+        0.5275333784367128,
+        0.37129628830058603,
+        0.5447242288040559
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3580645161290323,
+        0.5259705738578635,
+        0.4774193548387097,
+        0.5447242288040559
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$190.00 USD"
+    },
+    {
+      "bbox": [
+        0.3580645161290323,
+        0.525449638998247,
+        0.4774193548387097,
+        0.5442032939444394
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$190.00 USD"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14596774193548387,
+        0.42144638403990026,
+        0.17016129032258065,
+        0.4395261845386534
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "19"
+    },
+    {
+      "bbox": [
+        0.17016129032258065,
+        0.42144638403990026,
+        0.5403225806451613,
+        0.4395261845386534
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(:60) second spots to run on WXME-AM"
+    },
+    {
+      "bbox": [
+        0.3872344649937915,
+        0.4904601703288948,
+        0.49811004103065787,
+        0.5074773757430324
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$10.00 USD"
+    },
+    {
+      "bbox": [
+        0.594831288211754,
+        0.4211758339999059,
+        0.6844753709649651,
+        0.43940855408648194
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11/5/2016"
+    },
+    {
+      "bbox": [
+        0.14582452284260022,
+        0.43940855408648194,
+        0.23625495719890968,
+        0.4558180021644003
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11/8/2016"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.14661087444569856,
+        0.3859102244389027,
+        0.36364391690084125,
+        0.40461346633416456
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ORDER DESCRIPTION:"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 183,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "0c74419c-1e26-433e-86f7-f14475baf634",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14596774193548387,
+          0.3859102244389027,
+          0.7645161290322581,
+          0.5473815461346634
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.14596774193548387,
+            "right": 0.17016129032258065
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.17016129032258065,
+            "right": 0.5403225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40461346633416456,
+            "row_type": "header",
+            "top": 0.3859102244389027
+          },
+          {
+            "bottom": 0.42144638403990026,
+            "row_type": "gap",
+            "top": 0.40461346633416456
+          },
+          {
+            "bottom": 0.4395261845386534,
+            "row_type": "data",
+            "top": 0.42144638403990026
+          },
+          {
+            "bottom": 0.5105985037406484,
+            "row_type": "up-merge",
+            "top": 0.4395261845386534
+          },
+          {
+            "bottom": 0.5236907730673317,
+            "row_type": "gap",
+            "top": 0.5105985037406484
+          },
+          {
+            "bottom": 0.5473815461346634,
+            "row_type": "footer",
+            "top": 0.5236907730673317
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

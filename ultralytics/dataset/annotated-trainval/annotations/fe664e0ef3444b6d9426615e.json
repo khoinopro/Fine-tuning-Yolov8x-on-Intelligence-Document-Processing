@@ -1,0 +1,260 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6414295897523193,
+        0.2816030974851548,
+        0.749063750106392,
+        0.2974309062431026
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99-F02004A"
+    },
+    {
+      "bbox": [
+        0.5609227381053706,
+        0.21433491026387658,
+        0.6895586858456039,
+        0.22950322699024323
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 3, 1999"
+    },
+    {
+      "bbox": [
+        0.6290322580645161,
+        0.29908814589665655,
+        0.7263118137713848,
+        0.3132587150010504
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "99-F02004"
+    },
+    {
+      "bbox": [
+        0.2423956294152694,
+        0.13189840631623176,
+        0.4926669291003489,
+        0.14508824694785494
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Rothstein-Tauber, Incorporated"
+    },
+    {
+      "bbox": [
+        0.2423956294152694,
+        0.13201390152708967,
+        0.5425461741424802,
+        0.17212742024268243
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Rothstein-Tauber, Incorporated\nMarket Research Services\n1351 Washington Blvd.\u2022Stamford, CT 06902"
+    },
+    {
+      "bbox": [
+        0.3036508426249042,
+        0.18333878477956211,
+        0.44803813090475786,
+        0.19586913337960415
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "RTi@ix.netcom.com"
+    },
+    {
+      "bbox": [
+        0.08925759639118222,
+        0.3679965536222866,
+        0.3299030768576049,
+        0.3838243623802344
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.09194344181762162,
+        0.3672920173016056,
+        0.3395288960762618,
+        0.4167989639592923
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Company\nPO Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.4270363435185973,
+        0.691477395112845,
+        0.44278768405821767,
+        0.7059862198076304
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.4266129032258065,
+        0.691477395112845,
+        0.5267948336028598,
+        0.7059862198076304
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.4274193548387097,
+        0.691477395112845,
+        0.5276699080772832,
+        0.7059862198076304
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.13388639458677332,
+        0.791720183913181,
+        0.20739265043833516,
+        0.8101859607974535
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.4306451612903226,
+        0.6553191489361702,
+        0.5306451612903226,
+        0.6741641337386018
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$14,250.00"
+    },
+    {
+      "bbox": [
+        0.5483870967741935,
+        0.6553191489361702,
+        0.6588709677419354,
+        0.6741641337386018
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Product Test"
+    },
+    {
+      "bbox": [
+        0.4306451612903226,
+        0.6741641337386018,
+        0.5306451612903226,
+        0.6887537993920972
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,550.00"
+    },
+    {
+      "bbox": [
+        0.5483870967741935,
+        0.6741641337386018,
+        0.6588709677419354,
+        0.6887537993920972
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Co-Op Fund"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 665,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zygm0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09112903225806451,
+          0.48753799392097263,
+          0.8419354838709677,
+          0.7088145896656535
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4306451612903226,
+            "right": 0.5306451612903226
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.5483870967741935,
+            "right": 0.6588709677419354
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5379939209726444,
+            "row_type": "gap",
+            "top": 0.48753799392097263
+          },
+          {
+            "bottom": 0.5720364741641337,
+            "row_type": "subsection-header",
+            "top": 0.5379939209726444
+          },
+          {
+            "bottom": 0.6553191489361702,
+            "row_type": "gap",
+            "top": 0.5720364741641337
+          },
+          {
+            "bottom": 0.6741641337386018,
+            "row_type": "data",
+            "top": 0.6553191489361702
+          },
+          {
+            "bottom": 0.6887537993920972,
+            "row_type": "data",
+            "top": 0.6741641337386018
+          },
+          {
+            "bottom": 0.7088145896656535,
+            "row_type": "footer",
+            "top": 0.6887537993920972
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

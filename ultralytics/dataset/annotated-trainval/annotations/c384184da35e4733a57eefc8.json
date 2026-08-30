@@ -1,0 +1,236 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7928229928010112,
+        0.2146855702825924,
+        0.8677007198988844,
+        0.2300202538742061
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "188059"
+    },
+    {
+      "bbox": [
+        0.7917218497554542,
+        0.2300202538742061,
+        0.8886224377644667,
+        0.2445030105996191
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "09/07/00"
+    },
+    {
+      "bbox": [
+        0.04624800791339232,
+        0.031521294049428245,
+        0.4041194977194043,
+        0.09711966274688702
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "snowbird ski and summer resort"
+    },
+    {
+      "bbox": [
+        0.8412732868055175,
+        0.4131845301073702,
+        0.8632961477166566,
+        0.43618655549479085
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$\u0301"
+    },
+    {
+      "bbox": [
+        0.8930270099466945,
+        0.4131845301073702,
+        0.9800173105456943,
+        0.43022306743138555
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "8330.00"
+    },
+    {
+      "bbox": [
+        0.8908247238555805,
+        0.4148883838397718,
+        0.9767138814090235,
+        0.43192692116378706
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "8330.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.0532258064516129,
+        0.33873986275733,
+        0.14516129032258066,
+        0.3605739238927012
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "08/31/00"
+    },
+    {
+      "bbox": [
+        0.16451612903225807,
+        0.33873986275733,
+        0.5612903225806452,
+        0.3605739238927012
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "MC 1 5405 4057 0403"
+    },
+    {
+      "bbox": [
+        0.6282258064516129,
+        0.33873986275733,
+        0.6556451612903226,
+        0.3605739238927012
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "CK"
+    },
+    {
+      "bbox": [
+        0.8919354838709678,
+        0.33873986275733,
+        0.9798387096774194,
+        0.3605739238927012
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8330.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.0532258064516129,
+        0.2757330006238303,
+        0.14516129032258066,
+        0.29070492825951344
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.4613789360883662,
+        0.27602430464904737,
+        0.5395600923229104,
+        0.2888032076420588
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8919354838709678,
+        0.2757330006238303,
+        0.9798387096774194,
+        0.29070492825951344
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PAYMENTS"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 288,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xkcn0231",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1704,
+        2203
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0532258064516129,
+          0.2757330006238303,
+          0.9798387096774194,
+          0.462882096069869
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.0532258064516129,
+            "right": 0.14516129032258066
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.16451612903225807,
+            "right": 0.5612903225806452
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.6282258064516129,
+            "right": 0.6556451612903226
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8919354838709678,
+            "right": 0.9798387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.29070492825951344,
+            "row_type": "header",
+            "top": 0.2757330006238303
+          },
+          {
+            "bottom": 0.33873986275733,
+            "row_type": "gap",
+            "top": 0.29070492825951344
+          },
+          {
+            "bottom": 0.3605739238927012,
+            "row_type": "data",
+            "top": 0.33873986275733
+          },
+          {
+            "bottom": 0.37804117280099814,
+            "row_type": "gap",
+            "top": 0.3605739238927012
+          },
+          {
+            "bottom": 0.462882096069869,
+            "row_type": "footer",
+            "top": 0.37804117280099814
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

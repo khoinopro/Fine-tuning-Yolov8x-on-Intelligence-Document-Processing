@@ -1,0 +1,237 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.1996218101274771,
+        0.10196743881985271,
+        0.2926494497985344,
+        0.1165759541705749
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "802 6629 321"
+    },
+    {
+      "bbox": [
+        0.6327817573458376,
+        0.10196743881985271,
+        0.6860788425740475,
+        0.117306379938111
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/14/00"
+    },
+    {
+      "bbox": [
+        0.23644525083060394,
+        0.7388987331885183,
+        0.43994321261104175,
+        0.7542376743067766
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Philip Morris Research Center"
+    },
+    {
+      "bbox": [
+        0.24225947831004505,
+        0.7535072485392404,
+        0.49808548740545255,
+        0.7987936461264792
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PO Box 26583 / 4201 Commerce Rd.\nDoor 17\nRichmond, Virginia 23261"
+    },
+    {
+      "bbox": [
+        0.3540322580645161,
+        0.19049503961614658,
+        0.7161190178844931,
+        0.20425531914893616
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Institut fur Biologische INBIFO c/o DANZAS brokers"
+    },
+    {
+      "bbox": [
+        0.3546678762459059,
+        0.21021653533962148,
+        0.5843298616838286,
+        0.26865059674251024
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Fuggerstrasse 3. D-51149 KOLN\nGermany\nDr. Klaus Rustemeier"
+    },
+    {
+      "bbox": [
+        0.21609545465256014,
+        0.4119601328903654,
+        0.2606711986616084,
+        0.42437737093847927
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1.60"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06774193548387097,
+        0.3495440729483283,
+        0.40483870967741936,
+        0.3878419452887538
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "EXPERIMENTAL CIGARETTES\n(T FOR HUMANUSE - U.S. TAX EXEMPT)"
+    },
+    {
+      "bbox": [
+        0.4282258064516129,
+        0.3495440729483283,
+        0.4588709677419355,
+        0.3878419452887538
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "200"
+    },
+    {
+      "bbox": [
+        0.4588709677419355,
+        0.3495440729483283,
+        0.5241935483870968,
+        0.3878419452887538
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "cigarettes"
+    },
+    {
+      "bbox": [
+        0.8504032258064517,
+        0.3495440729483283,
+        0.8927419354838709,
+        0.3878419452887538
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1.60"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10950128419614034,
+        0.3078014251269639,
+        0.3662963312047881,
+        0.32606206931536663
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM (LIST EACH SEPARATELY)"
+    },
+    {
+      "bbox": [
+        0.45254070548316405,
+        0.3085318508945,
+        0.49905452531869277,
+        0.3246012177802944
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY."
+    },
+    {
+      "bbox": [
+        0.8595366290440398,
+        0.30334346504559273,
+        0.9603165720210185,
+        0.34213143620116104
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "US DOLLARS\nVALUE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 441,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fgwk0058",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06774193548387097,
+          0.30334346504559273,
+          0.9653225806451613,
+          0.3878419452887538
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06774193548387097,
+            "right": 0.40483870967741936
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.4282258064516129,
+            "right": 0.4588709677419355
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.4588709677419355,
+            "right": 0.5241935483870968
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8504032258064517,
+            "right": 0.8927419354838709
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.34103343465045594,
+            "row_type": "header",
+            "top": 0.30334346504559273
+          },
+          {
+            "bottom": 0.3495440729483283,
+            "row_type": "gap",
+            "top": 0.34103343465045594
+          },
+          {
+            "bottom": 0.3878419452887538,
+            "row_type": "data",
+            "top": 0.3495440729483283
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21027640208807388,
+        0.28973126414311157,
+        0.27743273992772055,
+        0.30218389727247164
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0127998"
+    },
+    {
+      "bbox": [
+        0.6110125819836701,
+        0.19177055019214548,
+        0.6671596841118994,
+        0.20588353440542023
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/12/99"
+    },
+    {
+      "bbox": [
+        0.10228925113840738,
+        0.07650678330491512,
+        0.28011518004056174,
+        0.1055674994439914
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "640 N. LaSalle Suite 350\nChicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.615309187617189,
+        0.21410037808584773,
+        0.664880132399648,
+        0.2265549707168804
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "Camel"
+    },
+    {
+      "bbox": [
+        0.14949967474074924,
+        0.18029505523018755,
+        0.2761809780736999,
+        0.19571502705908517
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "NY Village Voice"
+    },
+    {
+      "bbox": [
+        0.14713915356063215,
+        0.17994253614360145,
+        0.2769475390754905,
+        0.21765883312328566
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "NY Village Voice\nWendy Silverman"
+    },
+    {
+      "bbox": [
+        0.615309187617189,
+        0.2757802654014382,
+        0.7427773313435121,
+        0.29060716139076287
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Camel Club Page"
+    },
+    {
+      "bbox": [
+        0.6704624548253245,
+        0.6392351673071515,
+        0.747527104805247,
+        0.6566688536882557
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "6,495.81"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03790322580645161,
+        0.34103343465045594,
+        0.15080645161290324,
+        0.356838905775076
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NY Village Voice"
+    },
+    {
+      "bbox": [
+        0.2153225806451613,
+        0.34103343465045594,
+        0.2685483870967742,
+        0.356838905775076
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3/30/99"
+    },
+    {
+      "bbox": [
+        0.6854838709677419,
+        0.34103343465045594,
+        0.7459677419354839,
+        0.356838905775076
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5,996.17"
+    },
+    {
+      "bbox": [
+        0.21688194351492437,
+        0.3586358341255707,
+        0.26862535135858656,
+        0.37191864279688813
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3/24/99"
+    },
+    {
+      "bbox": [
+        0.2153225806451613,
+        0.39696048632218844,
+        0.2685483870967742,
+        0.4115501519756839
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "3/30/99"
+    },
+    {
+      "bbox": [
+        0.6854838709677419,
+        0.39696048632218844,
+        0.7459677419354839,
+        0.4115501519756839
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "499.64"
+    },
+    {
+      "bbox": [
+        0.21578101994378265,
+        0.41508777097866983,
+        0.2675244277874448,
+        0.4292007551919446
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "3/24/99"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.03952098021640901,
+        0.3196201069834905,
+        0.1463036286857449,
+        0.33565839192173025
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Publication"
+    },
+    {
+      "bbox": [
+        0.21688194351492437,
+        0.3187874081116184,
+        0.2697262749297283,
+        0.33456074340880787
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Issue"
+    },
+    {
+      "bbox": [
+        0.6979855441038683,
+        0.31795723256966113,
+        0.747527104805247,
+        0.3362210944927225
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1059,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "fhhb0089",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03790322580645161,
+          0.31854103343465046,
+          0.9193548387096774,
+          0.4328267477203647
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.03790322580645161,
+            "right": 0.15080645161290324
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.2153225806451613,
+            "right": 0.2685483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.31693548387096776,
+            "right": 0.38064516129032255
+          },
+          {
+            "column_type": "",
+            "left": 0.4467741935483871,
+            "right": 0.5467741935483871
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.6854838709677419,
+            "right": 0.7459677419354839
+          },
+          {
+            "column_type": "",
+            "left": 0.7895161290322581,
+            "right": 0.910483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.34103343465045594,
+            "row_type": "header",
+            "top": 0.31854103343465046
+          },
+          {
+            "bottom": 0.356838905775076,
+            "row_type": "data",
+            "top": 0.34103343465045594
+          },
+          {
+            "bottom": 0.3738601823708207,
+            "row_type": "up-merge",
+            "top": 0.356838905775076
+          },
+          {
+            "bottom": 0.39696048632218844,
+            "row_type": "gap-with-text",
+            "top": 0.3738601823708207
+          },
+          {
+            "bottom": 0.4115501519756839,
+            "row_type": "data",
+            "top": 0.39696048632218844
+          },
+          {
+            "bottom": 0.4328267477203647,
+            "row_type": "up-merge",
+            "top": 0.4115501519756839
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

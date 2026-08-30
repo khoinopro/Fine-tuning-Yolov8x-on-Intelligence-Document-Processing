@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7166408188585608,
+        0.3342434725949829,
+        0.7517369727047146,
+        0.3478697052907016
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3166"
+    },
+    {
+      "bbox": [
+        0.7234404292455879,
+        0.43728005118808716,
+        0.8197103885189734,
+        0.44880060236486374
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 29, 1999"
+    },
+    {
+      "bbox": [
+        0.27465253086818797,
+        0.2309119170649578,
+        0.7807776844010602,
+        0.2524503388302359
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "TANZANIA CIGARETTE COMTANY LTD."
+    },
+    {
+      "bbox": [
+        0.4395856228586204,
+        0.25144855177138575,
+        0.6158445924106277,
+        0.2644717835364376
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O Box 40114 DAR ES SALAAM"
+    },
+    {
+      "bbox": [
+        0.22864115327429052,
+        0.3315915164793971,
+        0.4650688473721637,
+        0.3456165353032991
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "M/S. R.J. REYNOLDS TOBACCO CO."
+    },
+    {
+      "bbox": [
+        0.22934902062188892,
+        0.34361296118559886,
+        0.40348438813110094,
+        0.4087291200108581
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R &D 611-9\nWINSTON - SALEM\n27105 NC\nU.S.A.\nATTN: ROGER JENNINOS"
+    },
+    {
+      "bbox": [
+        0.7602495313207059,
+        0.5033979970721966,
+        0.7708675415346823,
+        0.521430164131499
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7418449802831469,
+        0.5341604204359438,
+        0.7673282047966902,
+        0.5481821314723873
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "0.5"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2717741935483871,
+        0.5251141552511416,
+        0.3282258064516129,
+        0.5542237442922374
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1 Case"
+    },
+    {
+      "bbox": [
+        0.3564516129032258,
+        0.5251141552511416,
+        0.5225806451612903,
+        0.5542237442922374
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Cigarctto samples"
+    },
+    {
+      "bbox": [
+        0.7403225806451613,
+        0.5251141552511416,
+        0.7661290322580645,
+        0.5542237442922374
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0.5"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.27963709677419357,
+        0.4492009132420091,
+        0.3407723325062034,
+        0.46168882545494033
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.44040012406947887,
+        0.4492009132420091,
+        0.5162531017369726,
+        0.46168882545494033
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7709832506203473,
+        0.44966567895871795,
+        0.8094758064516128,
+        0.46329191165443667
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 432,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qgyc0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1656,
+        2341
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.225,
+          0.4492009132420091,
+          0.8604838709677419,
+          0.7648401826484018
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.2717741935483871,
+            "right": 0.3282258064516129
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3564516129032258,
+            "right": 0.5225806451612903
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7403225806451613,
+            "right": 0.7661290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4754566210045662,
+            "row_type": "header",
+            "top": 0.4492009132420091
+          },
+          {
+            "bottom": 0.5005707762557078,
+            "row_type": "gap",
+            "top": 0.4754566210045662
+          },
+          {
+            "bottom": 0.5251141552511416,
+            "row_type": "gap-with-text",
+            "top": 0.5005707762557078
+          },
+          {
+            "bottom": 0.5542237442922374,
+            "row_type": "data",
+            "top": 0.5251141552511416
+          },
+          {
+            "bottom": 0.7648401826484018,
+            "row_type": "gap-with-text",
+            "top": 0.5542237442922374
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

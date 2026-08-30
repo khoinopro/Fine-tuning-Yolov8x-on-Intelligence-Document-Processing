@@ -1,0 +1,222 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8415169453866471,
+        0.17210787723957097,
+        0.8813506882632092,
+        0.18223716617655766
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42029"
+    },
+    {
+      "bbox": [
+        0.6491618975485126,
+        0.1717027056820915,
+        0.7094366400590997,
+        0.18142682306159874
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02-29-20"
+    },
+    {
+      "bbox": [
+        0.06545778622459979,
+        0.062261364726820534,
+        0.37626580630093165,
+        0.09021820219290376
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY"
+    },
+    {
+      "bbox": [
+        0.06493365802885555,
+        0.06320676142119001,
+        0.4087617544370743,
+        0.12155146569823325
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY\nP.O. BOX 8439\nHOT SPRINGS VILLAGE AR 71910"
+    },
+    {
+      "bbox": [
+        0.7642371476385257,
+        0.2022706480538838,
+        0.7951612903225806,
+        0.21158959387591153
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "4318"
+    },
+    {
+      "bbox": [
+        0.11367758023306948,
+        0.17228795280040327,
+        0.20959304005426463,
+        0.18201207017991047
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DICK GARRISON"
+    },
+    {
+      "bbox": [
+        0.11559937828575728,
+        0.17188278124292378,
+        0.33101606673663825,
+        0.21158959387591153
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DICK GARRISON\n17 GABALI WAY\nHOT SPRINGS VILLAGE, AR 71909"
+    },
+    {
+      "bbox": [
+        0.6634771138982737,
+        0.20007957841944304,
+        0.7599828759198408,
+        0.2122708072120256
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "DICK GARRISON"
+    },
+    {
+      "bbox": [
+        0.8297756794034553,
+        0.3034734980977276,
+        0.8439300082592255,
+        0.3186674315032076
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.9115562461256829,
+        0.3029925187032419,
+        0.9760370775797471,
+        0.31684415949454997
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "75.00"
+    },
+    {
+      "bbox": [
+        0.9123425977287812,
+        0.3029925187032419,
+        0.9744643743735503,
+        0.31697922543881524
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "75.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2661290322580645,
+        0.2880299251870324,
+        0.5056451612903226,
+        0.3011221945137157
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "WEBSITE STATIC IMAGE"
+    },
+    {
+      "bbox": [
+        0.8282258064516129,
+        0.2880299251870324,
+        0.8459677419354839,
+        0.3011221945137157
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.9129032258064517,
+        0.2880299251870324,
+        0.9774193548387097,
+        0.3011221945137157
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "75.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1093,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "f038482a-e8ef-451c-8f1b-247cd63728ce",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2661290322580645,
+          0.2880299251870324,
+          0.9774193548387097,
+          0.31982543640897754
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2661290322580645,
+            "right": 0.5056451612903226
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.8282258064516129,
+            "right": 0.8459677419354839
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9129032258064517,
+            "right": 0.9774193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3011221945137157,
+            "row_type": "data",
+            "top": 0.2880299251870324
+          },
+          {
+            "bottom": 0.31982543640897754,
+            "row_type": "footer",
+            "top": 0.3011221945137157
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

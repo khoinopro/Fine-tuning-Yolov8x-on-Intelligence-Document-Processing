@@ -1,0 +1,227 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6639183579335793,
+        0.2934004977808202,
+        0.7416304606594453,
+        0.3063175008277746
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "123198-24"
+    },
+    {
+      "bbox": [
+        0.6639183579335793,
+        0.27540895782256236,
+        0.7275566152838948,
+        0.2892486039442992
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/31/98"
+    },
+    {
+      "bbox": [
+        0.0917859481014165,
+        0.17899275650779597,
+        0.325,
+        0.18966565349544073
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Association of National Advertisers, Inc."
+    },
+    {
+      "bbox": [
+        0.0856668848946554,
+        0.17566979980877478,
+        0.3341008510891561,
+        0.18628019516877303
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "Association of National Advertisers, Inc."
+    },
+    {
+      "bbox": [
+        0.6890065170812999,
+        0.10379734591302603,
+        0.8682950690394001,
+        0.13424456738084697
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "708 Third Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.11136695036305203,
+        0.2749476362851711,
+        0.3897843262706821,
+        0.327538291547771
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Martin L. Orlowsky\nPresident & Chief Operating Officer\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.11197885668372815,
+        0.27481195348005605,
+        0.38841037578982374,
+        0.36029212070254807
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Martin L. Orlowsky\nPresident & Chief Operating Officer\nLorillard Tobacco Company\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.4889131502202119,
+        0.7828626489529118,
+        0.5017631829544102,
+        0.7990089027616046
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.48870967741935484,
+        0.783323970490303,
+        0.5770276603975717,
+        0.7987841945288754
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$16,330.00"
+    },
+    {
+      "bbox": [
+        0.48870967741935484,
+        0.783323970490303,
+        0.5776395667182478,
+        0.7990089027616046
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$16,330.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.18548387096774194,
+        0.7489361702127659,
+        0.2,
+        0.764741641337386
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.2,
+        0.7489361702127659,
+        0.357258064516129,
+        0.764741641337386
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Affiliate Memberships"
+    },
+    {
+      "bbox": [
+        0.3758064516129032,
+        0.7489361702127659,
+        0.4129032258064516,
+        0.764741641337386
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$500"
+    },
+    {
+      "bbox": [
+        0.47096774193548385,
+        0.7489361702127659,
+        0.5459677419354839,
+        0.764741641337386
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$1,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 569,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zycp0060",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ],
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.18548387096774194,
+          0.7489361702127659,
+          0.5459677419354839,
+          0.764741641337386
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.18548387096774194,
+            "right": 0.2
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2,
+            "right": 0.357258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.3758064516129032,
+            "right": 0.4129032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.47096774193548385,
+            "right": 0.5459677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.764741641337386,
+            "row_type": "data",
+            "top": 0.7489361702127659
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

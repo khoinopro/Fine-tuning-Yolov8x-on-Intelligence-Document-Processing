@@ -1,0 +1,610 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.36994720651812435,
+        0.3841180212807538,
+        0.651681493182574,
+        0.3975234824261224
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Westin Hotel, Seattle"
+    },
+    {
+      "bbox": [
+        0.3104547721982043,
+        0.3846336159401911,
+        0.6920269371466579,
+        0.41350691686867724
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Westin Hotel, Seattle\n1900 5th Avenue, Seattle, WA 98101"
+    },
+    {
+      "bbox": [
+        0.17519329896907218,
+        0.2151593145917447,
+        0.3166091619554373,
+        0.22840843413070328
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "John c Wells"
+    },
+    {
+      "bbox": [
+        0.17710966079148655,
+        0.21551856764477195,
+        0.6756152311273695,
+        0.2608908976752502
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "John c Wells\nPrivate Adjudication Center 110 Swift Ave #2\nDurham, NC 27705"
+    },
+    {
+      "bbox": [
+        0.906009365244537,
+        0.704959089186317,
+        0.939021852237253,
+        0.7206248467237907
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "US"
+    },
+    {
+      "bbox": [
+        0.6956035379812696,
+        0.6774979377382748,
+        0.7678459937565036,
+        0.6948224225444223
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "258.24"
+    },
+    {
+      "bbox": [
+        0.8326482830385016,
+        0.6791566650069486,
+        0.9035639958376691,
+        0.6929793922458959
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "258.24"
+    },
+    {
+      "bbox": [
+        0.8528616024973985,
+        0.7067159132289447,
+        0.939021852237253,
+        0.7215463618730539
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "0.00 US"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.46322188449848023,
+        0.1338709677419355,
+        0.48206686930091186
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "08/19"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.46322188449848023,
+        0.5411290322580645,
+        0.48206686930091186
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Room"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.46322188449848023,
+        0.7733870967741936,
+        0.48206686930091186
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "132.00"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.48206686930091186,
+        0.1338709677419355,
+        0.49544072948328266
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "08/19"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.48206686930091186,
+        0.5411290322580645,
+        0.49544072948328266
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Tax-State"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.48206686930091186,
+        0.7733870967741936,
+        0.496696665452843
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "11.35"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.49544072948328266,
+        0.1338709677419355,
+        0.5094224924012158
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "08/19"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.49544072948328266,
+        0.5411290322580645,
+        0.5094224924012158
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Tax-Occupancy"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.49544072948328266,
+        0.7733870967741936,
+        0.5094224924012158
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "9.24"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.5094224924012158,
+        0.1338709677419355,
+        0.5234042553191489
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "08/19"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.5094224924012158,
+        0.5411290322580645,
+        0.5234042553191489
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Local call #72055: -246-8600"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.5094224924012158,
+        0.7733870967741936,
+        0.5234042553191489
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "0.75"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.5234042553191489,
+        0.1338709677419355,
+        0.5379939209726444
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "08/19"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.5234042553191489,
+        0.5411290322580645,
+        0.5379939209726444
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Local Call #72055: 206-954-7352"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.5234042553191489,
+        0.7733870967741936,
+        0.5379939209726444
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "0.75"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.5379939209726444,
+        0.1338709677419355,
+        0.5519756838905775
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "08/19"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.5379939209726444,
+        0.5411290322580645,
+        0.5519756838905775
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Local Call #72055:206-246-8600"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.5379939209726444,
+        0.7733870967741936,
+        0.5519756838905775
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "0.75"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.5519756838905775,
+        0.1338709677419355,
+        0.5653495440729484
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "08/19"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.5519756838905775,
+        0.5411290322580645,
+        0.5653495440729484
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Local Call #72055: 206-954-7352"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.5519756838905775,
+        0.7733870967741936,
+        0.5653495440729484
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "0.75"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.5653495440729484,
+        0.1338709677419355,
+        0.5805471124620061
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "08/19"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.5653495440729484,
+        0.5411290322580645,
+        0.5805471124620061
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Parking Valet"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.5653495440729484,
+        0.7733870967741936,
+        0.5805471124620061
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "18.00"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.5805471124620061,
+        0.1338709677419355,
+        0.5951367781155015
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "08/20"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.5805471124620061,
+        0.5411290322580645,
+        0.5951367781155015
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Roy's"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.5805471124620061,
+        0.7733870967741936,
+        0.5951367781155015
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "83.90"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.5951367781155015,
+        0.1338709677419355,
+        0.609726443768997
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "08/20"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.5951367781155015,
+        0.5411290322580645,
+        0.609726443768997
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "Local Call #72055> 206-954-7352"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.5951367781155015,
+        0.7733870967741936,
+        0.609726443768997
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "0.75"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.4376899696048632,
+        0.1222684703433923,
+        0.45707151403452717
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.18270031217481794,
+        0.44137603020191585,
+        0.3191207075962539,
+        0.45707151403452717
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6894901144640999,
+        0.43861148475412637,
+        0.7709417273673257,
+        0.4589145443330534
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Charges"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 721,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jqpm0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07258064516129033,
+          0.4376899696048632,
+          0.9435483870967742,
+          0.7276595744680852
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.07258064516129033,
+            "right": 0.1338709677419355
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.17903225806451614,
+            "right": 0.5411290322580645
+          },
+          {
+            "column_type": "",
+            "left": 0.5629032258064516,
+            "right": 0.6120967741935484
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6919354838709677,
+            "right": 0.7733870967741936
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.46322188449848023,
+            "row_type": "header",
+            "top": 0.4376899696048632
+          },
+          {
+            "bottom": 0.48206686930091186,
+            "row_type": "data",
+            "top": 0.46322188449848023
+          },
+          {
+            "bottom": 0.49544072948328266,
+            "row_type": "data",
+            "top": 0.48206686930091186
+          },
+          {
+            "bottom": 0.5094224924012158,
+            "row_type": "data",
+            "top": 0.49544072948328266
+          },
+          {
+            "bottom": 0.5234042553191489,
+            "row_type": "data",
+            "top": 0.5094224924012158
+          },
+          {
+            "bottom": 0.5379939209726444,
+            "row_type": "data",
+            "top": 0.5234042553191489
+          },
+          {
+            "bottom": 0.5519756838905775,
+            "row_type": "data",
+            "top": 0.5379939209726444
+          },
+          {
+            "bottom": 0.5653495440729484,
+            "row_type": "data",
+            "top": 0.5519756838905775
+          },
+          {
+            "bottom": 0.5805471124620061,
+            "row_type": "data",
+            "top": 0.5653495440729484
+          },
+          {
+            "bottom": 0.5951367781155015,
+            "row_type": "data",
+            "top": 0.5805471124620061
+          },
+          {
+            "bottom": 0.609726443768997,
+            "row_type": "data",
+            "top": 0.5951367781155015
+          },
+          {
+            "bottom": 0.6735562310030395,
+            "row_type": "gap-with-text",
+            "top": 0.609726443768997
+          },
+          {
+            "bottom": 0.7276595744680852,
+            "row_type": "footer",
+            "top": 0.6735562310030395
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

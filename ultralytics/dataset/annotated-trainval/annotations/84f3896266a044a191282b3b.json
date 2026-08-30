@@ -1,0 +1,230 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6724748810153358,
+        0.2447784338157363,
+        0.8014045478582761,
+        0.26117350640888676
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "#98-D01002A"
+    },
+    {
+      "bbox": [
+        0.6001258593336859,
+        0.1722466386676936,
+        0.7605922792173453,
+        0.18929751416457008
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "February 3, 1999"
+    },
+    {
+      "bbox": [
+        0.6594891591750397,
+        0.26405904518933615,
+        0.7782157588577472,
+        0.28045411778248663
+      ],
+      "fieldtype": "order_id",
+      "page": 1,
+      "text": "F98-D01002"
+    },
+    {
+      "bbox": [
+        0.2615695399259651,
+        0.08305743625588648,
+        0.5287043892120572,
+        0.11256856692355731
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "Rothstein-Tauber, Incorporated\nMarket Research Services"
+    },
+    {
+      "bbox": [
+        0.2643521946060286,
+        0.08438397947548461,
+        0.5741544156530937,
+        0.1296194424204338
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "Rothstein-Tauber, Incorporated\nMarket Research Services\n1351 Washington Blvd.\u2022Stamford, CT 06902"
+    },
+    {
+      "bbox": [
+        0.3255705975674247,
+        0.1401122913817396,
+        0.47768905341089374,
+        0.15453995526371203
+      ],
+      "fieldtype": "vendor_email",
+      "page": 1,
+      "text": "RTi@ix.netcom.com"
+    },
+    {
+      "bbox": [
+        0.10468081891667297,
+        0.3376401289860438,
+        0.3561797990481227,
+        0.3567220858448995
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.10401828208808643,
+        0.33733266818700114,
+        0.37168316083704767,
+        0.39045356243575347
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 1,
+      "text": "Loriilard Tobacco Company\nPO Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.47305129561078796,
+        0.6873142452581633,
+        0.4888196721311476,
+        0.7023977120438617
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.475,
+        0.6860026394507113,
+        0.5797197250132206,
+        0.7023977120438617
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.475,
+        0.6860026394507113,
+        0.5778646218931782,
+        0.7037093178513137
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$15,800.00"
+    },
+    {
+      "bbox": [
+        0.15490111052353253,
+        0.7998500275402513,
+        0.23467054468535167,
+        0.8169009030371277
+      ],
+      "fieldtype": "payment_terms",
+      "page": 1,
+      "text": "30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.4661290322580645,
+        0.5188141391106044,
+        0.8887096774193548,
+        0.5746864310148233
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Panel Product Test - Newport Low Tar 100MM\nPrototype 1 (#1353/54)\n(Low Tar Menthol 100MM Panel)"
+    },
+    {
+      "bbox": [
+        0.46980487930402753,
+        0.6473830599366368,
+        0.5776327481564866,
+        0.6678864105809712
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "$14,250.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 665,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pjjf0152",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1653
+      ],
+      [
+        1654,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.10161290322580645,
+          0.5188141391106044,
+          0.9209677419354839,
+          0.7075256556442417
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.4661290322580645,
+            "right": 0.8887096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5746864310148233,
+            "row_type": "data",
+            "top": 0.5188141391106044
+          },
+          {
+            "bottom": 0.6465222348916762,
+            "row_type": "gap",
+            "top": 0.5746864310148233
+          },
+          {
+            "bottom": 0.6676168757126568,
+            "row_type": "up-merge",
+            "top": 0.6465222348916762
+          },
+          {
+            "bottom": 0.6830102622576967,
+            "row_type": "up-merge",
+            "top": 0.6676168757126568
+          },
+          {
+            "bottom": 0.7075256556442417,
+            "row_type": "footer",
+            "top": 0.6830102622576967
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

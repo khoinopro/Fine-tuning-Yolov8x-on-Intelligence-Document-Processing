@@ -1,0 +1,20 @@
+# Python & Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Large Model Weights (>100MB limit on GitHub)
+*.pt
+*.pth
+*.onnx
+
+# Large Processed Data Arrays & Caches
+*.npy
+*.cache
+labels.cache
+
+# Operating System
+.DS_Store
+Thumbs.db

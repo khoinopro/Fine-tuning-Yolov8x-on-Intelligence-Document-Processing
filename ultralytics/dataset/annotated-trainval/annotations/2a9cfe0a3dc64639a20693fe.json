@@ -1,0 +1,234 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5715729374821582,
+        0.059317604791103214,
+        0.6324222095346846,
+        0.07702435248994
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WCVO FM"
+    },
+    {
+      "bbox": [
+        0.7915672280902083,
+        0.05902344430513868,
+        0.8703497002569227,
+        0.07968036464476552
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Regional Reps"
+    },
+    {
+      "bbox": [
+        0.7930916357407936,
+        0.05843226740616138,
+        0.9011161861261776,
+        0.12129122173703195
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Regional Reps\n6505 Rockside Road\nSuite 200"
+    },
+    {
+      "bbox": [
+        0.24749928632600632,
+        0.45771942801493076,
+        0.25707108192977446,
+        0.4771968504836513
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.24801884099343421,
+        0.4598585173740322,
+        0.3008278618327148,
+        0.4780821878685931
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,720.00"
+    },
+    {
+      "bbox": [
+        0.248141592920354,
+        0.4598585173740322,
+        0.3015115615186983,
+        0.4771968504836513
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,720.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.028225806451612902,
+        0.2985386221294363,
+        0.03870967741935484,
+        0.32150313152400833
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.25564516129032255,
+        0.2985386221294363,
+        0.3008064516129032,
+        0.32150313152400833
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$100.00"
+    },
+    {
+      "bbox": [
+        0.8483870967741935,
+        0.2985386221294363,
+        0.8661290322580645,
+        0.32150313152400833
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "32"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.020510990579503282,
+        0.25851851640301704,
+        0.04512417927490722,
+        0.2985386221294363
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\nNo"
+    },
+    {
+      "bbox": [
+        0.26590065658007417,
+        0.2582386355522935,
+        0.3001441621467314,
+        0.2762252641018538
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross"
+    },
+    {
+      "bbox": [
+        0.8388995147016843,
+        0.25851851640301704,
+        0.8758192977447902,
+        0.2976532847444945
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "d283213c-bffc-4081-8cd4-08743d08148f",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016935483870967744,
+          0.2546972860125261,
+          0.9838709677419355,
+          0.4822546972860125
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.028225806451612902,
+            "right": 0.03870967741935484
+          },
+          {
+            "column_type": "",
+            "left": 0.04758064516129032,
+            "right": 0.1717741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.19516129032258064,
+            "right": 0.2161290322580645
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.25564516129032255,
+            "right": 0.3008064516129032
+          },
+          {
+            "column_type": "",
+            "left": 0.3088709677419355,
+            "right": 0.3209677419354839
+          },
+          {
+            "column_type": "",
+            "left": 0.33306451612903226,
+            "right": 0.34758064516129034
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8483870967741935,
+            "right": 0.8661290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2985386221294363,
+            "row_type": "header",
+            "top": 0.2546972860125261
+          },
+          {
+            "bottom": 0.32150313152400833,
+            "row_type": "data",
+            "top": 0.2985386221294363
+          },
+          {
+            "bottom": 0.3444676409185804,
+            "row_type": "gap-with-text",
+            "top": 0.32150313152400833
+          },
+          {
+            "bottom": 0.4822546972860125,
+            "row_type": "footer",
+            "top": 0.3444676409185804
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

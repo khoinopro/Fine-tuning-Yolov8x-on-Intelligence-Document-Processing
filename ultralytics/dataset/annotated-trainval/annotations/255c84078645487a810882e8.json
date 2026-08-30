@@ -1,0 +1,233 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7282776794112765,
+        0.2734706632265058,
+        0.7855703259005147,
+        0.2889016097408541
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "11664"
+    },
+    {
+      "bbox": [
+        0.6423387096774195,
+        0.21603325120087608,
+        0.7998934875228242,
+        0.23489329694063507
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 25, 2000"
+    },
+    {
+      "bbox": [
+        0.39607466762856847,
+        0.08838256977559998,
+        0.5960638798207272,
+        0.10544480118137999
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Manuel A. Guzm\u00e1n"
+    },
+    {
+      "bbox": [
+        0.39675873441203746,
+        0.08731771953733976,
+        0.5937699680511183,
+        0.1388785186291346
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Manuel A. Guzm\u00e1n\nP.O. Box 193850\nSan Juan, PR 00919-3850"
+    },
+    {
+      "bbox": [
+        0.4869874951585238,
+        0.7183962877235481,
+        0.5905549715044542,
+        0.7346845090442492
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "66-0547904"
+    },
+    {
+      "bbox": [
+        0.08593896973385715,
+        0.256120527306968,
+        0.43548387096774194,
+        0.3094762050933185
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Incorporated\nPHILIP MORRIS MANAGEMENT CORP.\nc/o Thomas J. Gardner, Esq."
+    },
+    {
+      "bbox": [
+        0.08704075139711172,
+        0.25662890742071803,
+        0.43643460785324123,
+        0.3446244721537785
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Incorporated\nPHILIP MORRIS MANAGEMENT CORP\nc/o Thomas J. Gardner, Esq.\n77 West Wacker\nChicago IL 60601-1692"
+    },
+    {
+      "bbox": [
+        0.6632725612792564,
+        0.6283824330565165,
+        0.6753921595750568,
+        0.6463852039899228
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6632725612792564,
+        0.6292397078628692,
+        0.7613311293089139,
+        0.6455279291835702
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$25,318.62"
+    },
+    {
+      "bbox": [
+        0.6632725612792564,
+        0.6283824330565165,
+        0.7613311293089139,
+        0.6463852039899228
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$25,318.62"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11774193548387096,
+        0.5348399246704332,
+        0.36935483870967745,
+        0.551789077212806
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Fees for professional services"
+    },
+    {
+      "bbox": [
+        0.6645161290322581,
+        0.5348399246704332,
+        0.7669354838709678,
+        0.551789077212806
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$23,634.75"
+    },
+    {
+      "bbox": [
+        0.11774193548387096,
+        0.5794099183929693,
+        0.36935483870967745,
+        0.5976145637162587
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Reimbursable costs"
+    },
+    {
+      "bbox": [
+        0.6645161290322581,
+        0.5794099183929693,
+        0.7669354838709678,
+        0.5976145637162587
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,683.87"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 808,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "khyx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1731,
+        2225
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11774193548387096,
+          0.5348399246704332,
+          0.7669354838709678,
+          0.6516007532956686
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11774193548387096,
+            "right": 0.36935483870967745
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6645161290322581,
+            "right": 0.7669354838709678
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.551789077212806,
+            "row_type": "data",
+            "top": 0.5348399246704332
+          },
+          {
+            "bottom": 0.5794099183929693,
+            "row_type": "gap",
+            "top": 0.551789077212806
+          },
+          {
+            "bottom": 0.5976145637162587,
+            "row_type": "data",
+            "top": 0.5794099183929693
+          },
+          {
+            "bottom": 0.6283741368487131,
+            "row_type": "gap",
+            "top": 0.5976145637162587
+          },
+          {
+            "bottom": 0.6516007532956686,
+            "row_type": "footer",
+            "top": 0.6283741368487131
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

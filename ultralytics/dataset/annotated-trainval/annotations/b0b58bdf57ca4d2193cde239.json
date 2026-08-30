@@ -1,0 +1,259 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8295986777350641,
+        0.16059998923020077,
+        0.889919586977919,
+        0.17268816046258145
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99.00.45"
+    },
+    {
+      "bbox": [
+        0.7967741935483871,
+        0.17383941486566531,
+        0.889919586977919,
+        0.18703241895261846
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 23, 1999"
+    },
+    {
+      "bbox": [
+        0.28000817130016525,
+        0.39650872817955113,
+        0.34777610637547124,
+        0.40927094029631805
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "99R-05-17"
+    },
+    {
+      "bbox": [
+        0.3045833565472542,
+        0.13987740997469097,
+        0.49448251527475995,
+        0.16808314285024595
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. Box 88737\nIndianapolis, IN 46208-0737"
+    },
+    {
+      "bbox": [
+        0.2881998997158616,
+        0.7617706478405625,
+        0.5198024031050941,
+        0.774434446274485
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MORNINGSTAR Enterprises, Inc."
+    },
+    {
+      "bbox": [
+        0.40735231303508085,
+        0.39650872817955113,
+        0.48182257135959294,
+        0.4088392198951616
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "35-1983509"
+    },
+    {
+      "bbox": [
+        0.16532397348041675,
+        0.2419073314479995,
+        0.3410737831262652,
+        0.26932668329177056
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Summitt Management\nc/o Indiana Black Expo, Inc."
+    },
+    {
+      "bbox": [
+        0.16308986573068138,
+        0.24133170424645756,
+        0.3425631882927554,
+        0.2942894067883159
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Summitt Management\nc/o Indiana Black Expo, Inc.\n3145 N. Meridian Street\nIndianapolis, IN 46208"
+    },
+    {
+      "bbox": [
+        0.8199175441528777,
+        0.7284562235513227,
+        0.8333221906512899,
+        0.7428469035898712
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8199175441528777,
+        0.7290318507528647,
+        0.8891748843946737,
+        0.7422712763883293
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 5,000.00"
+    },
+    {
+      "bbox": [
+        0.8201612903225807,
+        0.7278805963497809,
+        0.8891748843946737,
+        0.7422712763883293
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 5,000.00"
+    },
+    {
+      "bbox": [
+        0.8072576002377105,
+        0.39531198065892603,
+        0.8571526733151337,
+        0.4097026606974745
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "15 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.817741935483871,
+        0.6165835411471322,
+        0.8314516129032258,
+        0.635286783042394
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8314516129032258,
+        0.6165835411471322,
+        0.885483870967742,
+        0.635286783042394
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.810236410570691,
+        0.43143258755568265,
+        0.8787490482292422,
+        0.4458232675942311
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CHARGE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 455,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sskx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12258064516129032,
+          0.4307980049875312,
+          0.9024193548387097,
+          0.7493765586034913
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.7266129032258064,
+            "right": 0.7669354838709678
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.817741935483871,
+            "right": 0.8314516129032258
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8314516129032258,
+            "right": 0.885483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4445137157107232,
+            "row_type": "header",
+            "top": 0.4307980049875312
+          },
+          {
+            "bottom": 0.4644638403990025,
+            "row_type": "gap",
+            "top": 0.4445137157107232
+          },
+          {
+            "bottom": 0.5579800498753117,
+            "row_type": "gap-with-text",
+            "top": 0.4644638403990025
+          },
+          {
+            "bottom": 0.6165835411471322,
+            "row_type": "gap",
+            "top": 0.5579800498753117
+          },
+          {
+            "bottom": 0.635286783042394,
+            "row_type": "data",
+            "top": 0.6165835411471322
+          },
+          {
+            "bottom": 0.6483790523690773,
+            "row_type": "gap",
+            "top": 0.635286783042394
+          },
+          {
+            "bottom": 0.7493765586034913,
+            "row_type": "footer",
+            "top": 0.6483790523690773
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

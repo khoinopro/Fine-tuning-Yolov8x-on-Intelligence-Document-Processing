@@ -1,0 +1,199 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6617061947935717,
+        0.20684255319148934,
+        0.7225159539281684,
+        0.22191854103343464
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "21467"
+    },
+    {
+      "bbox": [
+        0.6625063232032374,
+        0.19056048632218844,
+        0.7305172380248258,
+        0.2038273556231003
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/21/00"
+    },
+    {
+      "bbox": [
+        0.6625063232032374,
+        0.22493373860182372,
+        0.7097138993735165,
+        0.2394066869300912
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "7757"
+    },
+    {
+      "bbox": [
+        0.4288688275808397,
+        0.9256656534954407,
+        0.8961438188256352,
+        0.9359173252279636
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "575 \u2e31 LEXINGTON \u2e31 AVENUE \u2e31 NEW YORK \u2e31 NY \u2e31 10022 \u2e31 USA"
+    },
+    {
+      "bbox": [
+        0.6945114595898673,
+        0.9479781155015198,
+        0.8977440756449667,
+        0.9588328267477203
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "INFO@BLUEROCKNY.COM"
+    },
+    {
+      "bbox": [
+        0.0928148955212265,
+        0.21287294832826748,
+        0.12161951826919334,
+        0.22613981762917934
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.09361502393089224,
+        0.21397178366646016,
+        0.2816452002023425,
+        0.26895562310030396
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 GRANDVIEW AVENUE\nGREAT NECK, NY\n11020-1510"
+    },
+    {
+      "bbox": [
+        0.7585217323631269,
+        0.8291793313069908,
+        0.8457357290166931,
+        0.8442553191489361
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "16,473.50"
+    },
+    {
+      "bbox": [
+        0.7561213471341297,
+        0.8725981762917933,
+        0.8465358574263591,
+        0.8882772036474164
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "16,473.50"
+    },
+    {
+      "bbox": [
+        0.14562337055916572,
+        0.8551100303951368,
+        0.26964327405735633,
+        0.873201215805471
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09032258064516129,
+        0.4425531914893617,
+        0.38064516129032255,
+        0.46261398176291796
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "THIRD 25% EDITORIAL BILLING"
+    },
+    {
+      "bbox": [
+        0.760483870967742,
+        0.4425531914893617,
+        0.85,
+        0.46261398176291796
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "16,473.50"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 19,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jljd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09032258064516129,
+          0.4425531914893617,
+          0.85,
+          0.8924012158054712
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.09032258064516129,
+            "right": 0.38064516129032255
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.760483870967742,
+            "right": 0.85
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.46261398176291796,
+            "row_type": "data",
+            "top": 0.4425531914893617
+          },
+          {
+            "bottom": 0.8297872340425532,
+            "row_type": "gap",
+            "top": 0.46261398176291796
+          },
+          {
+            "bottom": 0.8924012158054712,
+            "row_type": "footer",
+            "top": 0.8297872340425532
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

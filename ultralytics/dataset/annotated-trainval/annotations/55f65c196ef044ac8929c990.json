@@ -1,0 +1,184 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.457567478604345,
+        0.05071634248104837,
+        0.5099440421329823,
+        0.06412411118293472
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "QMJCPS"
+    },
+    {
+      "bbox": [
+        0.6583443054641211,
+        0.03964035964035964,
+        0.755822909809085,
+        0.05129928894634777
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "AUG 16 1999"
+    },
+    {
+      "bbox": [
+        0.2218729427254773,
+        0.05188223541164718,
+        0.3004377880184332,
+        0.06412411118293472
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "460001201"
+    },
+    {
+      "bbox": [
+        0.18695523370638578,
+        0.07286830816242582,
+        0.4059183673469388,
+        0.09502027384380325
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DEL I7AUG PM HOLD FOR PUP\nPHILIP MORRIS CO"
+    },
+    {
+      "bbox": [
+        0.18622778143515473,
+        0.09443732737850385,
+        0.4757537853851218,
+        0.13990715167185755
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "KIM CARLSON\nATTN ELLISSA BAYLISS 917-663-2123\n120 PARK AVE 12TH FLOOR\nNEW YORK NY 10017"
+    },
+    {
+      "bbox": [
+        0.1433080974325214,
+        0.13932420520655814,
+        0.32007899934167217,
+        0.1509831345125463
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "CARLSON/KIMBERLY*USA"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09838709677419355,
+        0.19263089851325146,
+        0.17903225806451614,
+        0.20361990950226244
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "25 AUG 99"
+    },
+    {
+      "bbox": [
+        0.39209677419354844,
+        0.2046142093200917,
+        0.5615931533903885,
+        0.2599941235235353
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "COACH CLASS\n730A\n1112A\nSNACK\nEQP-BOEING 757 JET"
+    },
+    {
+      "bbox": [
+        0.09838709677419355,
+        0.27020038784744665,
+        0.17903225806451614,
+        0.28118939883645766
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "28 AUG 99"
+    },
+    {
+      "bbox": [
+        0.3942791310072416,
+        0.28214608920491274,
+        0.5601382488479263,
+        0.3375260034083563
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "COACH CLASS\n740A\n1125A\nSNACK\nEQP-BOEING 757 JET"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 699,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ptyx0022",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09838709677419355,
+          0.19263089851325146,
+          0.7508064516129033,
+          0.34065934065934067
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.09838709677419355,
+            "right": 0.17903225806451614
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.20361990950226244,
+            "row_type": "data",
+            "top": 0.19263089851325146
+          },
+          {
+            "bottom": 0.259857789269554,
+            "row_type": "up-merge",
+            "top": 0.20361990950226244
+          },
+          {
+            "bottom": 0.27020038784744665,
+            "row_type": "gap",
+            "top": 0.259857789269554
+          },
+          {
+            "bottom": 0.28118939883645766,
+            "row_type": "data",
+            "top": 0.27020038784744665
+          },
+          {
+            "bottom": 0.34065934065934067,
+            "row_type": "up-merge",
+            "top": 0.28118939883645766
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

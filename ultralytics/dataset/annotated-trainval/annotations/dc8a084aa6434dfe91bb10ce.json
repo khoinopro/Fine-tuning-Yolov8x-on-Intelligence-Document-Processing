@@ -1,0 +1,227 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8032258064516129,
+        0.1693050042225802,
+        0.9258142631829543,
+        0.18601823708206686
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 30, 2000"
+    },
+    {
+      "bbox": [
+        0.24248704449581412,
+        0.07349768151245623,
+        0.5689372837925276,
+        0.12324306351174061
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Congressional Hispanic\nCaucus Institute"
+    },
+    {
+      "bbox": [
+        0.24189241746612974,
+        0.07424563095896448,
+        0.5696229630861324,
+        0.185088673564905
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Congressional Hispanic\nCaucus Institute\n504 C Street, NE\nWashington, D.C. 20002"
+    },
+    {
+      "bbox": [
+        0.07539684915450905,
+        0.6565494110716364,
+        0.5177993592396727,
+        0.679405397395632
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Congressional Hispanic Caucus Institute"
+    },
+    {
+      "bbox": [
+        0.07539684915450905,
+        0.6563520014636235,
+        0.5162849185234454,
+        0.7237729002598585
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Congressional Hispanic Caucus Institute\n504 C Street, NE\nWashington, DC 20002"
+    },
+    {
+      "bbox": [
+        0.25638874836329006,
+        0.742727675199875,
+        0.3922319515533865,
+        0.7593352505459592
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "8399 79863 01"
+    },
+    {
+      "bbox": [
+        0.08015972800857041,
+        0.2551108101773484,
+        0.18540761516486132,
+        0.2735562310030395
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R J Reynolds"
+    },
+    {
+      "bbox": [
+        0.08077163432924651,
+        0.2541881671025659,
+        0.26740306213546006,
+        0.3413779376695078
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R J Reynolds\n1455 Pennsylvania Ave.\nSuite 925\nWashington, DC 20004\nAtt: Bert Gomez"
+    },
+    {
+      "bbox": [
+        0.7532566807522914,
+        0.5388235556729528,
+        0.7697781514105464,
+        0.555431131019037
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7524193548387097,
+        0.5383622341355616,
+        0.8658474437566958,
+        0.5580547112462007
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 15,000.00"
+    },
+    {
+      "bbox": [
+        0.8483870967741935,
+        0.20113619030257485,
+        0.9239785442209261,
+        0.21519756838905776
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$15,000.00"
+    },
+    {
+      "bbox": [
+        0.7524193548387097,
+        0.5388235556729528,
+        0.8670712563980478,
+        0.5563537740938195
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 15,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.075,
+        0.46504559270516715,
+        0.3411290322580645,
+        0.4844984802431611
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Benefactor Sponsor for Gala 2000"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.08253237351072136,
+        0.4105114406427433,
+        0.20383628756633074,
+        0.4293340176154455
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Sponsorship"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 7,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yrmd0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.075,
+          0.4072948328267477,
+          0.9129032258064517,
+          0.5574468085106383
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.075,
+            "right": 0.3411290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42857142857142855,
+            "row_type": "header",
+            "top": 0.4072948328267477
+          },
+          {
+            "bottom": 0.46504559270516715,
+            "row_type": "gap",
+            "top": 0.42857142857142855
+          },
+          {
+            "bottom": 0.4844984802431611,
+            "row_type": "data",
+            "top": 0.46504559270516715
+          },
+          {
+            "bottom": 0.5337386018237082,
+            "row_type": "gap",
+            "top": 0.4844984802431611
+          },
+          {
+            "bottom": 0.5574468085106383,
+            "row_type": "footer",
+            "top": 0.5337386018237082
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

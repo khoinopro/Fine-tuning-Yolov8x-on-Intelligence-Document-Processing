@@ -1,0 +1,200 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7168061066068656,
+        0.10689854839242686,
+        0.7443490886090507,
+        0.12204250941468735
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "16223"
+    },
+    {
+      "bbox": [
+        0.7140518084066472,
+        0.1440501043841336,
+        0.7471033868092692,
+        0.16212946506184742
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/14/18"
+    },
+    {
+      "bbox": [
+        0.046943040664997875,
+        0.16325961892706334,
+        0.12838638832475321,
+        0.18156226678884174
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "StateNets Platinum"
+    },
+    {
+      "bbox": [
+        0.046943040664997875,
+        0.1636256718842989,
+        0.13743564917583714,
+        0.23903258107482592
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin\n2601 Northwind Drive\nRichmond VA 23233"
+    },
+    {
+      "bbox": [
+        0.07748429603740613,
+        0.6512082109220756,
+        0.20587068436215933,
+        0.6709750706127963
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Learfield Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.07635313843102064,
+        0.6493779461358977,
+        0.3919461106125726,
+        0.6713411235700318
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Learfield Communications, Inc., 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.8669354838709677,
+        0.4572025052192067,
+        0.8733870967741936,
+        0.47286012526096033
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.33878170311245454,
+        0.45463777288657553,
+        0.3879870589902234,
+        0.4751367384917673
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$10,360.00"
+    },
+    {
+      "bbox": [
+        0.8669153585187741,
+        0.4572025052192067,
+        0.9112903225806451,
+        0.474807719109696
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$8,806.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04516129032258064,
+        0.33298538622129437,
+        0.08790322580645162,
+        0.35073068893528186
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Radio Iowa"
+    },
+    {
+      "bbox": [
+        0.9250041326217352,
+        0.3521429448606164,
+        0.9385780238983612,
+        0.3675171690645103
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.8820201435790865,
+        0.3536071566895587,
+        0.9114302413451093,
+        0.36971348680792376
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "10,360"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "c27fdab2-69ef-4f10-83a2-e1079b3ba74f",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03951612903225806,
+          0.2964509394572025,
+          0.9443548387096774,
+          0.4780793319415449
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04516129032258064,
+            "right": 0.08790322580645162
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.33298538622129437,
+            "row_type": "header",
+            "top": 0.2964509394572025
+          },
+          {
+            "bottom": 0.35073068893528186,
+            "row_type": "data",
+            "top": 0.33298538622129437
+          },
+          {
+            "bottom": 0.3705636743215031,
+            "row_type": "up-merge",
+            "top": 0.35073068893528186
+          },
+          {
+            "bottom": 0.4780793319415449,
+            "row_type": "footer",
+            "top": 0.3705636743215031
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

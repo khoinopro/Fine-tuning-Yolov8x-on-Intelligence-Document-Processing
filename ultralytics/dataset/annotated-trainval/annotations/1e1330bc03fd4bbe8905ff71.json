@@ -1,0 +1,286 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7850758094274491,
+        0.5858783524868579,
+        0.8689069753600761,
+        0.6024859278329421
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "004238"
+    },
+    {
+      "bbox": [
+        0.7091994256636115,
+        0.6610737630816279,
+        0.856668848946554,
+        0.6772200168903209
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 5, 2001"
+    },
+    {
+      "bbox": [
+        0.04344534876800381,
+        0.630626541613807,
+        0.20498861742649685,
+        0.6633803707685841
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "TAX\nFOUNDATION"
+    },
+    {
+      "bbox": [
+        0.04589297405070825,
+        0.630112076549843,
+        0.2215100880847518,
+        0.7035153445216207
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "TAX\nFOUNDATION\n1250 H Street, NW, Suite 750\nWashington, DC 20005-3908"
+    },
+    {
+      "bbox": [
+        0.36897951136769436,
+        0.6315491846885893,
+        0.6871707981192715,
+        0.6822945538016243
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Michael Stojsavljovich\nManager, Fiscal and Economic Issues\nPhilip Morris Management Corp."
+    },
+    {
+      "bbox": [
+        0.3689339533788557,
+        0.6315715139014351,
+        0.6884830468566047,
+        0.7155097044937926
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Michael Stojsavljovich\nManager, Fiscal and Economic Issues\nPhilip Morris Management Corp.\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7881353410308297,
+        0.9124940009598466,
+        0.800985373765028,
+        0.9263336470815833
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7881353410308297,
+        0.9106487148102815,
+        0.884204633376979,
+        0.9254110040068008
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$82.500.00"
+    },
+    {
+      "bbox": [
+        0.7875234347101536,
+        0.911571357885064,
+        0.8860403523390072,
+        0.9254110040068008
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$82.500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12741935483870967,
+        0.8079027355623101,
+        0.4790322580645161,
+        0.8376899696048632
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2001 General Support Contribution"
+    },
+    {
+      "bbox": [
+        0.7838709677419354,
+        0.8079027355623101,
+        0.8927419354838709,
+        0.8376899696048632
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$50.000.00"
+    },
+    {
+      "bbox": [
+        0.12741935483870967,
+        0.8376899696048632,
+        0.4790322580645161,
+        0.870516717325228
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2001 Annual Dinner Contribution"
+    },
+    {
+      "bbox": [
+        0.7838709677419354,
+        0.8376899696048632,
+        0.8927419354838709,
+        0.870516717325228
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$7,500.00"
+    },
+    {
+      "bbox": [
+        0.12741935483870967,
+        0.8772036474164133,
+        0.4790322580645161,
+        0.9033434650455927
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "2001 Excise Tax Conference Contribution"
+    },
+    {
+      "bbox": [
+        0.7838709677419354,
+        0.8772036474164133,
+        0.8927419354838709,
+        0.9033434650455927
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$25.000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04647986814221804,
+        0.7593634970002089,
+        0.14524958794443138,
+        0.7746875891919248
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6865463856840123,
+        0.7506068728906569,
+        0.7514245349658583,
+        0.7659309650823728
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1123,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hqjj0073",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04596774193548387,
+          0.7489361702127659,
+          0.8927419354838709,
+          0.9331306990881459
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12741935483870967,
+            "right": 0.4790322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7838709677419354,
+            "right": 0.8927419354838709
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.7738601823708207,
+            "row_type": "header",
+            "top": 0.7489361702127659
+          },
+          {
+            "bottom": 0.8079027355623101,
+            "row_type": "gap",
+            "top": 0.7738601823708207
+          },
+          {
+            "bottom": 0.8376899696048632,
+            "row_type": "data",
+            "top": 0.8079027355623101
+          },
+          {
+            "bottom": 0.870516717325228,
+            "row_type": "data",
+            "top": 0.8376899696048632
+          },
+          {
+            "bottom": 0.8772036474164133,
+            "row_type": "gap",
+            "top": 0.870516717325228
+          },
+          {
+            "bottom": 0.9033434650455927,
+            "row_type": "data",
+            "top": 0.8772036474164133
+          },
+          {
+            "bottom": 0.9100303951367781,
+            "row_type": "gap",
+            "top": 0.9033434650455927
+          },
+          {
+            "bottom": 0.9331306990881459,
+            "row_type": "footer",
+            "top": 0.9100303951367781
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

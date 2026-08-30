@@ -1,0 +1,370 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.25,
+        0.35379939209726446,
+        0.38387096774193546,
+        0.3667576678640509
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "26924 DKU AT"
+    },
+    {
+      "bbox": [
+        0.7520382357102433,
+        0.3124841116330478,
+        0.8698624080362195,
+        0.3234484664271899
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 12, 2000"
+    },
+    {
+      "bbox": [
+        0.7520382357102433,
+        0.25985520862116607,
+        0.888045150679117,
+        0.2713677811550152
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "B26924-kentucky.DOC"
+    },
+    {
+      "bbox": [
+        0.07927675792303339,
+        0.16610997513125172,
+        0.3622002334465195,
+        0.17817076540480797
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "INBIFO Institut f\u00fcr biologische Forschung GmbH"
+    },
+    {
+      "bbox": [
+        0.07897367911065696,
+        0.16556175739154463,
+        0.5142079619411432,
+        0.17752521915334127
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "INBIFO Institut f\u00fcr biologische Forschung GmbH Fuggerstr.3 51149 K\u00f6ln"
+    },
+    {
+      "bbox": [
+        0.09236833262591963,
+        0.0783951367781155,
+        0.5091167940011319,
+        0.09429345122962145
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "INBIFO Institut f\u00fcr biologische Forschung GmbH"
+    },
+    {
+      "bbox": [
+        0.8036772248160725,
+        0.8952395689416967,
+        0.8393154003961517,
+        0.9051074882564245
+      ],
+      "fieldtype": "vendor_registration_id",
+      "page": 0,
+      "text": "B 367"
+    },
+    {
+      "bbox": [
+        0.1323703664402943,
+        0.9073003592152529,
+        0.2189202214204867,
+        0.9166200607902737
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "DE121967434"
+    },
+    {
+      "bbox": [
+        0.08000406762874929,
+        0.20887095882840565,
+        0.39129262167515566,
+        0.2401193699917104
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "University of Kentucky\nTobacco and Health Research Institute"
+    },
+    {
+      "bbox": [
+        0.08000406762874929,
+        0.2101625479053786,
+        0.39269480805482637,
+        0.3265098453812607
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "University of Kentucky\nTobacco and Health Research Institute\nAttn. Mr. Arthur Vaught\nCooper & University Drives\nLexington, KY 40546-0236\nU.S.A."
+    },
+    {
+      "bbox": [
+        0.7934948889360498,
+        0.7965603757944184,
+        0.8269511353989814,
+        0.8075247305885604
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "USD"
+    },
+    {
+      "bbox": [
+        0.7927675792303339,
+        0.7965603757944184,
+        0.8793174342105264,
+        0.8086211660679746
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "USD 20,000"
+    },
+    {
+      "bbox": [
+        0.7942221986417657,
+        0.7960121580547113,
+        0.8785901245048104,
+        0.8086211660679746
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "USD 20,000"
+    },
+    {
+      "bbox": [
+        0.26546804258630446,
+        0.8793412544901906,
+        0.3534725169779287,
+        0.8897573915446256
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 DAYS NET"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12096774193548387,
+        0.43039513677811553,
+        0.18387096774193548,
+        0.44437689969604866
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "500,000"
+    },
+    {
+      "bbox": [
+        0.2153225806451613,
+        0.43039513677811553,
+        0.47096774193548385,
+        0.44437689969604866
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Reference Cigarettes, Type 1R4F"
+    },
+    {
+      "bbox": [
+        0.7143857578266768,
+        0.4601999911898154,
+        0.7940839661034865,
+        0.4749482401656315
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "USD 40.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.12436995967741936,
+        0.3900569218016026,
+        0.17528163907753255,
+        0.40321414755457313
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Menge"
+    },
+    {
+      "bbox": [
+        0.2647407328805886,
+        0.3906051395413098,
+        0.3120158637521222,
+        0.4015694943354518
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Artikel"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 36,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zkkv0056",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07903225806451612,
+          0.3829787234042553,
+          0.8846774193548387,
+          0.8127659574468085
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.12096774193548387,
+            "right": 0.18387096774193548
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2153225806451613,
+            "right": 0.47096774193548385
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41702127659574467,
+            "row_type": "header",
+            "top": 0.3829787234042553
+          },
+          {
+            "bottom": 0.43039513677811553,
+            "row_type": "gap",
+            "top": 0.41702127659574467
+          },
+          {
+            "bottom": 0.44437689969604866,
+            "row_type": "data",
+            "top": 0.43039513677811553
+          },
+          {
+            "bottom": 0.460790273556231,
+            "row_type": "gap",
+            "top": 0.44437689969604866
+          },
+          {
+            "bottom": 0.48753799392097263,
+            "row_type": "gap-with-text",
+            "top": 0.460790273556231
+          },
+          {
+            "bottom": 0.5015197568389058,
+            "row_type": "gap",
+            "top": 0.48753799392097263
+          },
+          {
+            "bottom": 0.5428571428571428,
+            "row_type": "gap-with-text",
+            "top": 0.5015197568389058
+          },
+          {
+            "bottom": 0.5574468085106383,
+            "row_type": "gap",
+            "top": 0.5428571428571428
+          },
+          {
+            "bottom": 0.5841945288753799,
+            "row_type": "gap-with-text",
+            "top": 0.5574468085106383
+          },
+          {
+            "bottom": 0.5987841945288754,
+            "row_type": "gap",
+            "top": 0.5841945288753799
+          },
+          {
+            "bottom": 0.6127659574468085,
+            "row_type": "gap-with-text",
+            "top": 0.5987841945288754
+          },
+          {
+            "bottom": 0.6273556231003039,
+            "row_type": "gap",
+            "top": 0.6127659574468085
+          },
+          {
+            "bottom": 0.6401215805471124,
+            "row_type": "gap-with-text",
+            "top": 0.6273556231003039
+          },
+          {
+            "bottom": 0.6547112462006079,
+            "row_type": "gap",
+            "top": 0.6401215805471124
+          },
+          {
+            "bottom": 0.6693009118541033,
+            "row_type": "gap-with-text",
+            "top": 0.6547112462006079
+          },
+          {
+            "bottom": 0.6832826747720365,
+            "row_type": "gap",
+            "top": 0.6693009118541033
+          },
+          {
+            "bottom": 0.7246200607902735,
+            "row_type": "gap-with-text",
+            "top": 0.6832826747720365
+          },
+          {
+            "bottom": 0.7398176291793314,
+            "row_type": "gap",
+            "top": 0.7246200607902735
+          },
+          {
+            "bottom": 0.7793313069908815,
+            "row_type": "gap-with-text",
+            "top": 0.7398176291793314
+          },
+          {
+            "bottom": 0.7939209726443769,
+            "row_type": "gap",
+            "top": 0.7793313069908815
+          },
+          {
+            "bottom": 0.8127659574468085,
+            "row_type": "footer",
+            "top": 0.7939209726443769
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

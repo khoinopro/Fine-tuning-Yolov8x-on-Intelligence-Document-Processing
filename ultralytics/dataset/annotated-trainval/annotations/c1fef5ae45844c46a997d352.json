@@ -1,0 +1,240 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7178271678601958,
+        0.10723009341612708,
+        0.7456679118299719,
+        0.12323458499924879
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "20509"
+    },
+    {
+      "bbox": [
+        0.716902386257225,
+        0.14424048020209604,
+        0.749160450773354,
+        0.1608386869863478
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/4/22"
+    },
+    {
+      "bbox": [
+        0.07741084908669488,
+        0.6349893064726667,
+        0.1140791460224977,
+        0.6521244616032212
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Learfield"
+    },
+    {
+      "bbox": [
+        0.07690156718480873,
+        0.635648350900765,
+        0.30047632211282876,
+        0.6534425504594178
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Learfield, 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.04685393497352584,
+        0.16311349595431762,
+        0.12782975737342378,
+        0.18024865108487217
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "StateNets Platinum"
+    },
+    {
+      "bbox": [
+        0.045835371169753544,
+        0.16311349595431762,
+        0.1390339592149191,
+        0.23890360518561668
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin\n2601 Northwind Drive\nRichmond VA 23233"
+    },
+    {
+      "bbox": [
+        0.859667850383822,
+        0.45309304431754893,
+        0.8683256427158866,
+        0.47022819944810346
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.33718234363395655,
+        0.45012632577529826,
+        0.38899706157770675,
+        0.4701319402542004
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$11,816.00"
+    },
+    {
+      "bbox": [
+        0.8601771322857081,
+        0.4517749554613524,
+        0.9100867586705509,
+        0.4715462883043
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$10,043.60"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.8814516129032258,
+        0.3465553235908142,
+        0.9088709677419354,
+        0.36430062630480164
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11,816"
+    },
+    {
+      "bbox": [
+        0.9274193548387096,
+        0.3465553235908142,
+        0.9370967741935484,
+        0.36430062630480164
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "14"
+    },
+    {
+      "bbox": [
+        0.03972398834711974,
+        0.3318288695474704,
+        0.1359782678036022,
+        0.3469868913937302
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Wisconsin Radio Network"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8764741531460649,
+        0.315352758845014,
+        0.8993918387309418,
+        0.3285336474069791
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    },
+    {
+      "bbox": [
+        0.9141610138856401,
+        0.29558142600206644,
+        0.9406436727837199,
+        0.3298517362631756
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nUnits"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "e39ffb2d-1f40-4892-917a-7cbae99b7dc4",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03790322580645161,
+          0.29436325678496866,
+          0.9459677419354838,
+          0.477035490605428
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8814516129032258,
+            "right": 0.9088709677419354
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.9274193548387096,
+            "right": 0.9370967741935484
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3288100208768267,
+            "row_type": "header",
+            "top": 0.29436325678496866
+          },
+          {
+            "bottom": 0.3465553235908142,
+            "row_type": "down-merge",
+            "top": 0.3288100208768267
+          },
+          {
+            "bottom": 0.36430062630480164,
+            "row_type": "data",
+            "top": 0.3465553235908142
+          },
+          {
+            "bottom": 0.3736951983298539,
+            "row_type": "gap",
+            "top": 0.36430062630480164
+          },
+          {
+            "bottom": 0.4498956158663883,
+            "row_type": "gap-with-text",
+            "top": 0.3736951983298539
+          },
+          {
+            "bottom": 0.477035490605428,
+            "row_type": "footer",
+            "top": 0.4498956158663883
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

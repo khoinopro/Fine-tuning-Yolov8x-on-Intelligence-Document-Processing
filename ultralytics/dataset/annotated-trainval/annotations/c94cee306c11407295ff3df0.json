@@ -1,0 +1,177 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8008549464760399,
+        0.12807662323198574,
+        0.8653638910841296,
+        0.15703307718008688
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "11639"
+    },
+    {
+      "bbox": [
+        0.7903225806451613,
+        0.41318632364405833,
+        0.8433364465838062,
+        0.4315068493150685
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/28/00"
+    },
+    {
+      "bbox": [
+        0.22263452834255337,
+        0.20380888740394254,
+        0.4460557511315468,
+        0.21940082414522774
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "876 N. LIBERTY STREET \u2022 WINSTON-SALEM, NC 27101"
+    },
+    {
+      "bbox": [
+        0.2257813061283138,
+        0.28622341017930725,
+        0.42560169552410376,
+        0.3018153469205925
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "SPORTS MARKETING ENTERPRISE"
+    },
+    {
+      "bbox": [
+        0.22342122278899346,
+        0.28632775478989775,
+        0.42544666953132027,
+        0.3831161599287226
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "SPORTS MARKETING ENTERPRISE\nP.O. BOX 2959\nW/S, NC 27102-2959"
+    },
+    {
+      "bbox": [
+        0.42019424118259735,
+        0.4149617804776582,
+        0.47534473884418754,
+        0.4310754639137513
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET# 10"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.21854838709677418,
+        0.454337899543379,
+        0.23709677419354838,
+        0.4863013698630137
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.36129032258064514,
+        0.454337899543379,
+        0.7096774193548387,
+        0.4863013698630137
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "10oz. VINYL BANNER \"NASCAR WINSTON CUP SERIES\""
+    },
+    {
+      "bbox": [
+        0.7983870967741935,
+        0.454337899543379,
+        0.8661290322580645,
+        0.4863013698630137
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "21,604.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 394,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xxlv0189",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2340,
+        1654
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.21854838709677418,
+          0.454337899543379,
+          0.8758064516129033,
+          0.821917808219178
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.21854838709677418,
+            "right": 0.23709677419354838
+          },
+          {
+            "column_type": "",
+            "left": 0.27903225806451615,
+            "right": 0.3540322580645161
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.36129032258064514,
+            "right": 0.7096774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7983870967741935,
+            "right": 0.8661290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4863013698630137,
+            "row_type": "data",
+            "top": 0.454337899543379
+          },
+          {
+            "bottom": 0.523972602739726,
+            "row_type": "gap-with-text",
+            "top": 0.4863013698630137
+          },
+          {
+            "bottom": 0.821917808219178,
+            "row_type": "gap",
+            "top": 0.523972602739726
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

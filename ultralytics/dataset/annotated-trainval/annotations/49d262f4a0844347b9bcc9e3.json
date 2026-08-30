@@ -1,0 +1,290 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4845002455773485,
+        0.45353447372320543,
+        0.49817666726008886,
+        0.4656347017770855
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.21125684723067556,
+        0.2863532225234353,
+        0.33590839926962873,
+        0.3003124705252365
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 14, 2001"
+    },
+    {
+      "bbox": [
+        0.40003533422015297,
+        0.7342067950386488,
+        0.5108143498503492,
+        0.7476122561840174
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Tulane Universily"
+    },
+    {
+      "bbox": [
+        0.3414043583535109,
+        0.9002552612993499,
+        0.6089890673505196,
+        0.9506382420758525
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Grants and Contracts Accounting\n6401 Freret Street, Room 210\nTulane University\nNew Orleans, Louisiana 70118-5698"
+    },
+    {
+      "bbox": [
+        0.6208603452315864,
+        0.3051175143780575,
+        0.6731723033663986,
+        0.31791722870003947
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "541308"
+    },
+    {
+      "bbox": [
+        0.39922283839725065,
+        0.3372897692954717,
+        0.5121065375302665,
+        0.351792975613989
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Phillip Morris, Inc."
+    },
+    {
+      "bbox": [
+        0.38772655470568673,
+        0.33823009659083825,
+        0.5217554871965414,
+        0.41556929550642624
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Phillip Morris, Inc.\nResearch Center\n615 Maury Street\nRichmond, VA 23224\nAttn.: Richard lzac"
+    },
+    {
+      "bbox": [
+        0.6295790049207218,
+        0.7032924112591733,
+        0.639674295087089,
+        0.7147083726814816
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6282023744434898,
+        0.7029464730342548,
+        0.7144712176833555,
+        0.7164380638060737
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$114,902.10"
+    },
+    {
+      "bbox": [
+        0.6291201280949777,
+        0.7026005348093365,
+        0.7126357103803796,
+        0.7150543109064
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$114,902.10"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.20241935483870968,
+        0.5841945288753799,
+        0.3403225806451613,
+        0.61580547112462
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "22.5% of Total Award\nminus Equipment"
+    },
+    {
+      "bbox": [
+        0.6370967741935484,
+        0.5841945288753799,
+        0.7209677419354839,
+        0.61580547112462
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "114,902.10"
+    },
+    {
+      "bbox": [
+        0.20241935483870968,
+        0.61580547112462,
+        0.3403225806451613,
+        0.6334346504559271
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Equipment"
+    },
+    {
+      "bbox": [
+        0.6370967741935484,
+        0.61580547112462,
+        0.7209677419354839,
+        0.6334346504559271
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.20241935483870968,
+        0.6674772036474164,
+        0.3403225806451613,
+        0.6832826747720365
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Paid to Date"
+    },
+    {
+      "bbox": [
+        0.6370967741935484,
+        0.6674772036474164,
+        0.7209677419354839,
+        0.6832826747720365
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.6002665676879471,
+        0.5708790003591495,
+        0.7180203131326764,
+        0.583731250105455
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Cumulative Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 352,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fjwl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.20241935483870968,
+          0.5653495440729484,
+          0.7209677419354839,
+          0.7173252279635258
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.20241935483870968,
+            "right": 0.3403225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.43548387096774194,
+            "right": 0.5
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6370967741935484,
+            "right": 0.7209677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5841945288753799,
+            "row_type": "header",
+            "top": 0.5653495440729484
+          },
+          {
+            "bottom": 0.61580547112462,
+            "row_type": "data",
+            "top": 0.5841945288753799
+          },
+          {
+            "bottom": 0.6334346504559271,
+            "row_type": "data",
+            "top": 0.61580547112462
+          },
+          {
+            "bottom": 0.6504559270516718,
+            "row_type": "gap-with-text",
+            "top": 0.6334346504559271
+          },
+          {
+            "bottom": 0.6674772036474164,
+            "row_type": "gap",
+            "top": 0.6504559270516718
+          },
+          {
+            "bottom": 0.6832826747720365,
+            "row_type": "data",
+            "top": 0.6674772036474164
+          },
+          {
+            "bottom": 0.6990881458966566,
+            "row_type": "gap",
+            "top": 0.6832826747720365
+          },
+          {
+            "bottom": 0.7173252279635258,
+            "row_type": "footer",
+            "top": 0.6990881458966566
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

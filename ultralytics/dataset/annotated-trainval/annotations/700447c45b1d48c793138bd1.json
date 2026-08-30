@@ -1,0 +1,248 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6486839598679198,
+        0.16386468583474476,
+        0.7078867157734315,
+        0.1737064087077024
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05-31-22"
+    },
+    {
+      "bbox": [
+        0.5659274193548387,
+        0.0693841462543514,
+        0.8816754508509018,
+        0.08267047213284422
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KMAQ-YOUR HOMETOWN STATION"
+    },
+    {
+      "bbox": [
+        0.5659274193548387,
+        0.0688920601107035,
+        0.8835852171704344,
+        0.11514815761360443
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KMAQ-YOUR HOMETOWN STATION\nBOX 940\nMAQUOKETA, IOWA 52060"
+    },
+    {
+      "bbox": [
+        0.8441167132334264,
+        0.16435677197839269,
+        0.8835852171704344,
+        0.17321432256405453
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "#9596"
+    },
+    {
+      "bbox": [
+        0.09930784861569723,
+        0.16435677197839269,
+        0.282008826517653,
+        0.1737064087077024
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "S.A.M. MARKETING SERVICES"
+    },
+    {
+      "bbox": [
+        0.09867125984251969,
+        0.16435677197839269,
+        0.2813722377444755,
+        0.21996250621060334
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "S.A.M. MARKETING SERVICES\nPO BOX 71695\nDES MOINES, IA 50325\nATTN: CAROLYN HIKJI"
+    },
+    {
+      "bbox": [
+        0.8371142367284735,
+        0.8530313300136038,
+        0.8453898907797817,
+        0.8623809667429136
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.9249634874269748,
+        0.8535234161572517,
+        0.9548831597663195,
+        0.8618888805992657
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.9236903098806197,
+        0.8530313300136038,
+        0.9555197485394971,
+        0.8623809667429136
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.6747840995681992,
+        0.9253679931298425,
+        0.9173244221488444,
+        0.9406226635829269
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "due by 28th of month"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.012096774193548387,
+        0.26807980049875313,
+        0.07419354838709677,
+        0.2830423940149626
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "May-2022"
+    },
+    {
+      "bbox": [
+        0.07419354838709677,
+        0.26807980049875313,
+        0.36693548387096775,
+        0.2830423940149626
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Invoice #134641 -- ORDER #139"
+    },
+    {
+      "bbox": [
+        0.012096774193548387,
+        0.2830423940149626,
+        0.07419354838709677,
+        0.2986284289276808
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "05-18-22"
+    },
+    {
+      "bbox": [
+        0.07419354838709677,
+        0.2830423940149626,
+        0.36693548387096775,
+        0.2986284289276808
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "CCPAY 026311, applied to Invoice #134641"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 412,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "b3e3981f-5fe0-4b83-b0d5-d55814b0c4cd",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.012096774193548387,
+          0.25311720698254364,
+          0.9709677419354839,
+          0.40523690773067333
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.012096774193548387,
+            "right": 0.07419354838709677
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.07419354838709677,
+            "right": 0.36693548387096775
+          },
+          {
+            "column_type": "",
+            "left": 0.7185483870967742,
+            "right": 0.7669354838709678
+          },
+          {
+            "column_type": "",
+            "left": 0.8137096774193548,
+            "right": 0.8604838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.26807980049875313,
+            "row_type": "header",
+            "top": 0.25311720698254364
+          },
+          {
+            "bottom": 0.2830423940149626,
+            "row_type": "data",
+            "top": 0.26807980049875313
+          },
+          {
+            "bottom": 0.2986284289276808,
+            "row_type": "data",
+            "top": 0.2830423940149626
+          },
+          {
+            "bottom": 0.31483790523690774,
+            "row_type": "gap-with-text",
+            "top": 0.2986284289276808
+          },
+          {
+            "bottom": 0.3428927680798005,
+            "row_type": "footer",
+            "top": 0.31483790523690774
+          },
+          {
+            "bottom": 0.40523690773067333,
+            "row_type": "gap-with-text",
+            "top": 0.3428927680798005
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.45558076457242286,
+        0.11421514612920504,
+        0.5150935671517033,
+        0.12849203939535567
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "583178"
+    },
+    {
+      "bbox": [
+        0.6867914228689377,
+        0.04917596569451884,
+        0.7770867095409494,
+        0.06398163278534172
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KZZL-FM"
+    },
+    {
+      "bbox": [
+        0.7011565821122123,
+        0.13536609911609485,
+        0.926210743590181,
+        0.15122931385626223
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Inland Northwest Broadcasting"
+    },
+    {
+      "bbox": [
+        0.5862353081660155,
+        0.13536609911609485,
+        0.9255266883881202,
+        0.2183835895896374
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Inland Northwest Broadcasting\nMary McCollum (mmccollum@inlandradio.com)\n1114 N Almon Street\nPO Box 8849\nMoscow, ID 83843"
+    },
+    {
+      "bbox": [
+        0.05882874737721977,
+        0.13536609911609485,
+        0.17375002132341652,
+        0.17026517154446305
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dave Wilson\nDave Wilson ()"
+    },
+    {
+      "bbox": [
+        0.8783268794459322,
+        0.3368289263162204,
+        0.887903652274782,
+        0.3505770457576988
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8783268794459322,
+        0.3368289263162204,
+        0.9241585779839989,
+        0.34899072428368205
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$96.00"
+    },
+    {
+      "bbox": [
+        0.879010934647993,
+        0.3363001524915482,
+        0.9221064123778169,
+        0.34846195045900985
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$96.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05887096774193548,
+        0.29987531172069826,
+        0.17016129032258065,
+        0.3316708229426434
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "RFSaSunMT, 6a-\n7p, 60"
+    },
+    {
+      "bbox": [
+        0.7387096774193549,
+        0.29987531172069826,
+        0.7790322580645161,
+        0.3316708229426434
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$8.00"
+    },
+    {
+      "bbox": [
+        0.8088709677419355,
+        0.29987531172069826,
+        0.825,
+        0.3316708229426434
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12"
+    },
+    {
+      "bbox": [
+        0.8766129032258064,
+        0.29987531172069826,
+        0.9282258064516129,
+        0.3316708229426434
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$96.00"
+    },
+    {
+      "bbox": [
+        0.17853840773784138,
+        0.303516175361869,
+        0.2551525903686392,
+        0.31514919950465836
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/29/2020"
+    },
+    {
+      "bbox": [
+        0.1792224629399021,
+        0.3183218424526918,
+        0.2476279831459716,
+        0.329426092770809
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11/3/2020"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.05887096774193548,
+        0.2813076747256346,
+        0.15596458606983846,
+        0.2961133418164575
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7326231214070044,
+        0.2818364485503069,
+        0.7695621023182818,
+        0.29558456799178523
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.7873475375718599,
+        0.2813076747256346,
+        0.820866242472834,
+        0.29505579416711303
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Ads"
+    },
+    {
+      "bbox": [
+        0.881063100254175,
+        0.28236522237497913,
+        0.9241585779839989,
+        0.29505579416711303
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    },
+    {
+      "bbox": [
+        0.20179628460790502,
+        0.2813076747256346,
+        0.22094983026560447,
+        0.29505579416711303
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "St"
+    },
+    {
+      "bbox": [
+        0.22642227188209002,
+        0.2818364485503069,
+        0.2565207007727606,
+        0.29452702034244077
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "End"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 289,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "cee1fe63-c29a-44c2-a7f9-06cc7a706568",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05887096774193548,
+          0.27805486284289277,
+          0.9282258064516129,
+          0.35723192019950123
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05887096774193548,
+            "right": 0.17016129032258065
+          },
+          {
+            "column_type": "",
+            "left": 0.29516129032258065,
+            "right": 0.317741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.33145161290322583,
+            "right": 0.47258064516129034
+          },
+          {
+            "column_type": "",
+            "left": 0.4879032258064516,
+            "right": 0.5048387096774194
+          },
+          {
+            "column_type": "",
+            "left": 0.5233870967741936,
+            "right": 0.5330645161290323
+          },
+          {
+            "column_type": "",
+            "left": 0.5532258064516129,
+            "right": 0.5629032258064516
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7387096774193549,
+            "right": 0.7790322580645161
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8088709677419355,
+            "right": 0.825
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8766129032258064,
+            "right": 0.9282258064516129
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.29987531172069826,
+            "row_type": "header",
+            "top": 0.27805486284289277
+          },
+          {
+            "bottom": 0.3316708229426434,
+            "row_type": "data",
+            "top": 0.29987531172069826
+          },
+          {
+            "bottom": 0.35723192019950123,
+            "row_type": "footer",
+            "top": 0.3316708229426434
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

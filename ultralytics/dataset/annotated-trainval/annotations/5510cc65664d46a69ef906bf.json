@@ -1,0 +1,199 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6709677419354839,
+        0.2605439950120801,
+        0.7582110869944865,
+        0.2752334190632063
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "PM02/00-1"
+    },
+    {
+      "bbox": [
+        0.1497954244941746,
+        0.25977086743044187,
+        0.28317491205748074,
+        0.2752334190632063
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 28, 2000"
+    },
+    {
+      "bbox": [
+        0.39579471404161815,
+        0.8415886785746723,
+        0.5805573032037602,
+        0.8561102080196283
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Element 104 Productions, Inc"
+    },
+    {
+      "bbox": [
+        0.22766951442488234,
+        0.8402685395342218,
+        0.5823086073664345,
+        0.8686515289039086
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Element 104 Productions, Inc\n89 Fifth Avenue Suite 602 New York, NY 10003 PH 212"
+    },
+    {
+      "bbox": [
+        0.33537472042935373,
+        0.6554490738711447,
+        0.5674225219837027,
+        0.6686504642756502
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Element 104 Productions, Inc."
+    },
+    {
+      "bbox": [
+        0.15082142055235387,
+        0.30638297872340425,
+        0.18878327470498715,
+        0.3231673291247759
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.14876942843599533,
+        0.3079591028330881,
+        0.32729274255918966,
+        0.3884875843005716
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 Grandview Avenue\nGreat Neck, NY 11020\nAttn: Russ Tillman"
+    },
+    {
+      "bbox": [
+        0.5971297058603399,
+        0.6038126412594497,
+        0.6104676546166704,
+        0.6200483204738524
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5971297058603399,
+        0.6038126412594497,
+        0.693573335329192,
+        0.6200483204738524
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$154,375.50"
+    },
+    {
+      "bbox": [
+        0.5967741935483871,
+        0.604585768841088,
+        0.6945993313873713,
+        0.6208214480554906
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$154,375.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14838709677419354,
+        0.5379939209726444,
+        0.3185483870967742,
+        0.5574468085106383
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Production Cost"
+    },
+    {
+      "bbox": [
+        0.5935483870967742,
+        0.5379939209726444,
+        0.6693548387096774,
+        0.5574468085106383
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$308,751"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 656,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qmjd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14838709677419354,
+          0.5379939209726444,
+          0.7008064516129032,
+          0.6231003039513677
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14838709677419354,
+            "right": 0.3185483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5935483870967742,
+            "right": 0.6693548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5574468085106383,
+            "row_type": "data",
+            "top": 0.5379939209726444
+          },
+          {
+            "bottom": 0.6024316109422493,
+            "row_type": "gap",
+            "top": 0.5574468085106383
+          },
+          {
+            "bottom": 0.6231003039513677,
+            "row_type": "footer",
+            "top": 0.6024316109422493
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

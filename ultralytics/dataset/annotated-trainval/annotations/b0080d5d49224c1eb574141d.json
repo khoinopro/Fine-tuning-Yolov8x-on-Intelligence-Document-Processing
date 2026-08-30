@@ -1,0 +1,210 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.834640221402214,
+        0.14762289196519257,
+        0.8921594155457683,
+        0.16007857347475568
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "200752"
+    },
+    {
+      "bbox": [
+        0.08138354064992262,
+        0.3547562622538533,
+        0.1401265474348292,
+        0.3667506222260253
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/18/99"
+    },
+    {
+      "bbox": [
+        0.6896465708184526,
+        0.354940022913813,
+        0.7312704628963578,
+        0.3665920943731048
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "23030"
+    },
+    {
+      "bbox": [
+        0.2931031276038567,
+        0.1070265966747646,
+        0.6473968872753244,
+        0.12778606585736982
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "IIT RESEARCH INSTITUTE"
+    },
+    {
+      "bbox": [
+        0.64564417062181,
+        0.24962322318559826,
+        0.8365194471504895,
+        0.2765126188608871
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 92003\nCHICAGO, ILLINOIS 60675"
+    },
+    {
+      "bbox": [
+        0.44363208249017977,
+        0.3547562622538533,
+        0.5280751547434829,
+        0.36490533607646036
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "1120-02-000"
+    },
+    {
+      "bbox": [
+        0.10769551243899535,
+        0.20298147645213976,
+        0.35796519759552436,
+        0.24772966557908876
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co.\nCharles Gaworski, M.S., D.B.A.T.\nManager Toxicology"
+    },
+    {
+      "bbox": [
+        0.10953123140102371,
+        0.20314429581827784,
+        0.3590060691719321,
+        0.27587027935995356
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillad Tobacco Co.\nCharles Gaworski, M.S., D.B.A.T.\nManager Toxicology\nP.O. Box 21688\nGreensboro, NC 27420"
+    },
+    {
+      "bbox": [
+        0.8052687180097607,
+        0.6495407246468472,
+        0.8144473128199025,
+        0.6624577276938016
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8046568116890847,
+        0.649079403109456,
+        0.8946070408284729,
+        0.6624577276938016
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$143,700.00"
+    },
+    {
+      "bbox": [
+        0.8040449053684086,
+        0.649079403109456,
+        0.8959677419354839,
+        0.6638416923059753
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$143,700.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1975806451612903,
+        0.46261398176291796,
+        0.3580645161290323,
+        0.47416413373860183
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Contract Authorization"
+    },
+    {
+      "bbox": [
+        0.8032258064516129,
+        0.46261398176291796,
+        0.8862903225806451,
+        0.47416413373860183
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "143,700.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1051,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xxpy0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1975806451612903,
+          0.46261398176291796,
+          0.9008064516129032,
+          0.6680851063829787
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1975806451612903,
+            "right": 0.3580645161290323
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8032258064516129,
+            "right": 0.8862903225806451
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.47416413373860183,
+            "row_type": "data",
+            "top": 0.46261398176291796
+          },
+          {
+            "bottom": 0.6492401215805471,
+            "row_type": "data",
+            "top": 0.47416413373860183
+          },
+          {
+            "bottom": 0.6680851063829787,
+            "row_type": "footer",
+            "top": 0.6492401215805471
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

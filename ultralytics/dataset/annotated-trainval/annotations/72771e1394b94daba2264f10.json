@@ -1,0 +1,239 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5869660322329219,
+        0.0834037374529801,
+        0.6233072687501572,
+        0.09899322108905115
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "200913"
+    },
+    {
+      "bbox": [
+        0.5765041611143238,
+        0.0685937279987126,
+        0.6238578935458728,
+        0.08496268581658721
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/09/99"
+    },
+    {
+      "bbox": [
+        0.35164005647876617,
+        0.08362935844929913,
+        0.3984196806777452,
+        0.09878367172534662
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "LL-08712"
+    },
+    {
+      "bbox": [
+        0.37820136852394914,
+        0.06959758689740331,
+        0.4099163679808841,
+        0.08475190017345079
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "29712"
+    },
+    {
+      "bbox": [
+        0.03350940074199836,
+        0.06950949390298847,
+        0.1946299440357165,
+        0.08575002986163063
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "IIT RESEARCH INSTITUTE (ITRI)"
+    },
+    {
+      "bbox": [
+        0.03305036785512167,
+        0.06874301169974202,
+        0.1942229022889798,
+        0.11433337314884086
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "IIT RESEARCH INSTITUTE (ITRI)\n10 W 35TH STREET\nCHIAGO IL 60616"
+    },
+    {
+      "bbox": [
+        0.032591334968244984,
+        0.12862504479244594,
+        0.1464314909136641,
+        0.14356633787439674
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO CO"
+    },
+    {
+      "bbox": [
+        0.032591334968244984,
+        0.12586748621079527,
+        0.1938579341805148,
+        0.20333151020219992
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO CO\nPO BOX 21688\nGREENSBORONC 27420\nSUBCHRONIC COMPARATIVE INHAL-"
+    },
+    {
+      "bbox": [
+        0.401194743130227,
+        0.35079557670667083,
+        0.4530654593472929,
+        0.36573686978862163
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "15,690.00"
+    },
+    {
+      "bbox": [
+        0.3992125556641685,
+        0.3788578319011873,
+        0.45392092972738135,
+        0.396818499487614
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "15,690.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1032258064516129,
+        0.273972602739726,
+        0.2717741935483871,
+        0.2922374429223744
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "ADDITIONAL HISTOPATHOLOGY SN-4"
+    },
+    {
+      "bbox": [
+        0.40161290322580645,
+        0.273972602739726,
+        0.4588709677419355,
+        0.2922374429223744
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "15,690.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1032258064516129,
+        0.23124359517524323,
+        0.16848593461496686,
+        0.2454337899543379
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.4055555555555555,
+        0.2191780821917808,
+        0.44718149234278265,
+        0.2492042627616699
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CURRENT\nAMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 153,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pnmw0152",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2340,
+        1654
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1032258064516129,
+          0.2191780821917808,
+          0.4588709677419355,
+          0.4018264840182648
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1032258064516129,
+            "right": 0.2717741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.40161290322580645,
+            "right": 0.4588709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2454337899543379,
+            "row_type": "header",
+            "top": 0.2191780821917808
+          },
+          {
+            "bottom": 0.273972602739726,
+            "row_type": "gap",
+            "top": 0.2454337899543379
+          },
+          {
+            "bottom": 0.2922374429223744,
+            "row_type": "data",
+            "top": 0.273972602739726
+          },
+          {
+            "bottom": 0.3070776255707763,
+            "row_type": "gap-with-text",
+            "top": 0.2922374429223744
+          },
+          {
+            "bottom": 0.3207762557077626,
+            "row_type": "gap",
+            "top": 0.3070776255707763
+          },
+          {
+            "bottom": 0.4018264840182648,
+            "row_type": "footer",
+            "top": 0.3207762557077626
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

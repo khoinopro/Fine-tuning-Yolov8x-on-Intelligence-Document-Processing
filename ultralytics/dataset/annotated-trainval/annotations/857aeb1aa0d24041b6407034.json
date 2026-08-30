@@ -1,0 +1,274 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7825183043556828,
+        0.3359079630676757,
+        0.7970281329847151,
+        0.3484061913304282
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.7586807287508441,
+        0.29294530341446373,
+        0.8208657085895539,
+        0.3077869494764824
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/21/01"
+    },
+    {
+      "bbox": [
+        0.5145161290322581,
+        0.4091614772093071,
+        0.5897448668556828,
+        0.42009742693921565
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "SB020060"
+    },
+    {
+      "bbox": [
+        0.7348431531460055,
+        0.3083945118408645,
+        0.8447032841943926,
+        0.32245501863646114
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "8-112678-59573"
+    },
+    {
+      "bbox": [
+        0.31405812290407,
+        0.7603269873355237,
+        0.6467477650411667,
+        0.7728252155982762
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA"
+    },
+    {
+      "bbox": [
+        0.31405812290407,
+        0.7601800775552575,
+        0.6488581655480591,
+        0.8040707862551577
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE REGENTS OF THE UNIVERSITY OF CALIFORNIA\nCASHIER'S OFFICE\nSANTA BARBARA, CALIFORNIA 93106-2003"
+    },
+    {
+      "bbox": [
+        0.16170492229923125,
+        0.2930610362482061,
+        0.34411419649277963,
+        0.30555926451095866
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Incorporated"
+    },
+    {
+      "bbox": [
+        0.1606685059685861,
+        0.29358425998012055,
+        0.34325558916138826,
+        0.34930306343059264
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Incorporated\nResearch Center\nP.O. Box 26583\nRichmond Virginia 23261"
+    },
+    {
+      "bbox": [
+        0.7863355423179942,
+        0.5755806216364401,
+        0.7949553003234248,
+        0.5861618469979388
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.785483870967742,
+        0.5736636187351862,
+        0.8623223618153603,
+        0.588505264797205
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$52,604.10"
+    },
+    {
+      "bbox": [
+        0.7846774193548387,
+        0.5744447580016083,
+        0.8612859454847152,
+        0.5877241255307829
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$52,604.10"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.20887096774193548,
+        0.4905775075987842,
+        0.2693548387096774,
+        0.502127659574468
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/30/01"
+    },
+    {
+      "bbox": [
+        0.7838709677419354,
+        0.4905775075987842,
+        0.8669354838709677,
+        0.502127659574468
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$52,604.10"
+    },
+    {
+      "bbox": [
+        0.21248932250084415,
+        0.46198964354984284,
+        0.2622373063718119,
+        0.4760501503454395
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8/1/01"
+    },
+    {
+      "bbox": [
+        0.31405812290407,
+        0.463551922082687,
+        0.6467477650411667,
+        0.5041711639366329
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "\"Smoking-Incduced Reactive Oxygen Species\nModulare Gap Junction Hemichannel Activity\"\n2nd Quarter"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.16274133862987641,
+        0.43464976922507165,
+        0.29022054729923125,
+        0.44636685822140215
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATES OF SERVICE"
+    },
+    {
+      "bbox": [
+        0.16274133862987641,
+        0.43464976922507165,
+        0.29332979629116673,
+        0.4471479974878242
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATES OF SERVICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 641,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nxxl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1620967741935484,
+          0.43465045592705165,
+          0.8669354838709677,
+          0.5908814589665653
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.20887096774193548,
+            "right": 0.2693548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7838709677419354,
+            "right": 0.8669354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.44680851063829785,
+            "row_type": "header",
+            "top": 0.43465045592705165
+          },
+          {
+            "bottom": 0.4613981762917933,
+            "row_type": "gap",
+            "top": 0.44680851063829785
+          },
+          {
+            "bottom": 0.4905775075987842,
+            "row_type": "down-merge",
+            "top": 0.4613981762917933
+          },
+          {
+            "bottom": 0.502127659574468,
+            "row_type": "data",
+            "top": 0.4905775075987842
+          },
+          {
+            "bottom": 0.5732522796352584,
+            "row_type": "gap",
+            "top": 0.502127659574468
+          },
+          {
+            "bottom": 0.5908814589665653,
+            "row_type": "footer",
+            "top": 0.5732522796352584
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

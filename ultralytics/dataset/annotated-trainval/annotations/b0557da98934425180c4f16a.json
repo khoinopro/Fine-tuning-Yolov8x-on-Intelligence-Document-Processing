@@ -1,0 +1,245 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2640805727410044,
+        0.26739754363283774,
+        0.40252281239007637,
+        0.2827873303167421
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99CART-SGN-03"
+    },
+    {
+      "bbox": [
+        0.1616493202838875,
+        0.11862960568842923,
+        0.26968228185975296,
+        0.13658435681965092
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 14, 1999"
+    },
+    {
+      "bbox": [
+        0.1584483436446026,
+        0.893409179056238,
+        0.2864874092159987,
+        0.9184175824175823
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PO BOX 3024\nPortland, Oregon 97208"
+    },
+    {
+      "bbox": [
+        0.3825167083945457,
+        0.6827614738202973,
+        0.5801770158703884,
+        0.6981254040077569
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "AUTO RACING OFFICE"
+    },
+    {
+      "bbox": [
+        0.3818000601180212,
+        0.6823488269236705,
+        0.5800423990254552,
+        0.7274790153327125
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "AUTO RACING OFFICE\nPO BOX 3024\nPORTLAND, OR 97208"
+    },
+    {
+      "bbox": [
+        0.1608490761240663,
+        0.17858564964447315,
+        0.30569326905170807,
+        0.19589915966386554
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.1618661560800615,
+        0.1783187012521037,
+        0.3898001309683114,
+        0.2401123105968921
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris USA\nAttn: Greg Leonard 12th Floor\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.6618019201721534,
+        0.49087007110536524,
+        0.6730053384096505,
+        0.5062598577892695
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.660483870967742,
+        0.49087007110536524,
+        0.7426265803140971,
+        0.5069010989010989
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,108.00"
+    },
+    {
+      "bbox": [
+        0.660483870967742,
+        0.4902288299935359,
+        0.7426265803140971,
+        0.5069010989010989
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,108.00"
+    },
+    {
+      "bbox": [
+        0.1576480994847814,
+        0.5490627020038784,
+        0.3537079186409816,
+        0.5662572721396251
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Payment due upon receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16048387096774194,
+        0.4447317388493859,
+        0.42016129032258065,
+        0.46218487394957986
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Installation and removal of banners"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.4447317388493859,
+        0.742741935483871,
+        0.46218487394957986
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,108.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.16048387096774194,
+        0.40206851971557855,
+        0.30060857557725706,
+        0.4166654801534304
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6628804487088233,
+        0.40077569489334197,
+        0.7311505281439513,
+        0.4166654801534304
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 358,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ftfv0025",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.16048387096774194,
+          0.40206851971557855,
+          0.7806451612903226,
+          0.5093729799612152
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.16048387096774194,
+            "right": 0.42016129032258065
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6725806451612903,
+            "right": 0.742741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4156431803490627,
+            "row_type": "header",
+            "top": 0.40206851971557855
+          },
+          {
+            "bottom": 0.4447317388493859,
+            "row_type": "gap",
+            "top": 0.4156431803490627
+          },
+          {
+            "bottom": 0.46218487394957986,
+            "row_type": "data",
+            "top": 0.4447317388493859
+          },
+          {
+            "bottom": 0.491273432449903,
+            "row_type": "gap",
+            "top": 0.46218487394957986
+          },
+          {
+            "bottom": 0.5093729799612152,
+            "row_type": "footer",
+            "top": 0.491273432449903
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7810832339571993,
+        0.3918931705693106,
+        0.8756538529633021,
+        0.4067580840335002
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1088-006"
+    },
+    {
+      "bbox": [
+        0.7201097965784321,
+        0.13226164259136453,
+        0.8206655885607286,
+        0.14619691380987931
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "09-14-16"
+    },
+    {
+      "bbox": [
+        0.36607753851391606,
+        0.037825280471807256,
+        0.5942986637160609,
+        0.05225088255298936
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WALO RADIO ORIENTAL"
+    },
+    {
+      "bbox": [
+        0.36451229891905695,
+        0.037472855164265094,
+        0.5942986637160609,
+        0.08391808410025564
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WALO RADIO ORIENTAL\nP.O. BOX 9230\nHUMACAO, PR 00792"
+    },
+    {
+      "bbox": [
+        0.12949059494425055,
+        0.162658751001305,
+        0.4397399778704571,
+        0.1762807552797823
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PARTIDO INDEPENDENTISTA PR"
+    },
+    {
+      "bbox": [
+        0.12925483019831474,
+        0.16361387466087576,
+        0.4390560898799898,
+        0.2068923834421397
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PARTIDO INDEPENDENTISTA PR\n963 AVE ROOSEVELT\nSAN JUAN, PR 00920"
+    },
+    {
+      "bbox": [
+        0.8849510596646524,
+        0.2691712131517634,
+        0.9581270746446507,
+        0.2844770272329421
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "188.16"
+    },
+    {
+      "bbox": [
+        0.8856349476551196,
+        0.2860603873103054,
+        0.9594948506255853,
+        0.29925505462166635
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "188.16"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03467741935483871,
+        0.4971997510889857,
+        0.04596774193548387,
+        0.5127566894835096
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.055645161290322584,
+        0.4971997510889857,
+        0.15483870967741936,
+        0.5127566894835096
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "09/19/16"
+    },
+    {
+      "bbox": [
+        0.1629032258064516,
+        0.4971997510889857,
+        0.2620967741935484,
+        0.5127566894835096
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "09/30/16"
+    },
+    {
+      "bbox": [
+        0.38387096774193546,
+        0.4971997510889857,
+        0.40241935483870966,
+        0.5127566894835096
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6"
+    },
+    {
+      "bbox": [
+        0.8258064516129032,
+        0.4971997510889857,
+        0.8879032258064516,
+        0.5127566894835096
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "<PKG>"
+    },
+    {
+      "bbox": [
+        0.9169354838709678,
+        0.4971997510889857,
+        0.9467741935483871,
+        0.5127566894835096
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.020140012509945484,
+        0.42094734281051316,
+        0.07267924529111376,
+        0.44865013608468474
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "LINE\n#"
+    },
+    {
+      "bbox": [
+        0.08143578408797512,
+        0.4202716649257772,
+        0.1357263246285157,
+        0.4506771697388924
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BEG\nDATE"
+    },
+    {
+      "bbox": [
+        0.19001686516905622,
+        0.42094734281051316,
+        0.23905348243147992,
+        0.4506771697388924
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "END\nDATE"
+    },
+    {
+      "bbox": [
+        0.36427198722659765,
+        0.4222986985799849,
+        0.40455206569215996,
+        0.4527042033931001
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PER\nWK"
+    },
+    {
+      "bbox": [
+        0.8362494283774259,
+        0.42094734281051316,
+        0.8879032258064516,
+        0.4536403235843186
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT\nCOST"
+    },
+    {
+      "bbox": [
+        0.8940425844367109,
+        0.42162302069524904,
+        0.957089663774113,
+        0.4527042033931001
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "###\nSPOTS"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 839,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "9644b718-1135-4edf-9c76-a019d5eeb320",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1805,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.021774193548387097,
+          0.4131922837585563,
+          0.9669354838709677,
+          0.5239576851275669
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.03467741935483871,
+            "right": 0.04596774193548387
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.055645161290322584,
+            "right": 0.15483870967741936
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.1629032258064516,
+            "right": 0.2620967741935484
+          },
+          {
+            "column_type": "",
+            "left": 0.2701612903225806,
+            "right": 0.2830645161290323
+          },
+          {
+            "column_type": "",
+            "left": 0.2830645161290323,
+            "right": 0.29516129032258065
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.38387096774193546,
+            "right": 0.40241935483870966
+          },
+          {
+            "column_type": "",
+            "left": 0.425,
+            "right": 0.47258064516129034
+          },
+          {
+            "column_type": "",
+            "left": 0.4830645161290323,
+            "right": 0.5467741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.5790322580645161,
+            "right": 0.6129032258064516
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.8258064516129032,
+            "right": 0.8879032258064516
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.9169354838709678,
+            "right": 0.9467741935483871
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4536403235843186,
+            "row_type": "header",
+            "top": 0.4131922837585563
+          },
+          {
+            "bottom": 0.46670815183571873,
+            "row_type": "gap",
+            "top": 0.4536403235843186
+          },
+          {
+            "bottom": 0.48102053515868076,
+            "row_type": "subsection-header",
+            "top": 0.46670815183571873
+          },
+          {
+            "bottom": 0.4971997510889857,
+            "row_type": "gap",
+            "top": 0.48102053515868076
+          },
+          {
+            "bottom": 0.5127566894835096,
+            "row_type": "data",
+            "top": 0.4971997510889857
+          },
+          {
+            "bottom": 0.5239576851275669,
+            "row_type": "gap",
+            "top": 0.5127566894835096
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

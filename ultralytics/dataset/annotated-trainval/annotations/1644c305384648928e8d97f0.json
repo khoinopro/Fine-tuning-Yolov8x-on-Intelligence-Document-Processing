@@ -1,0 +1,229 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5742178133028835,
+        0.059908781690080536,
+        0.6276363117328005,
+        0.07790968987488184
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KCDZ-FM"
+    },
+    {
+      "bbox": [
+        0.7922509277761918,
+        0.05990878169008051,
+        0.9100042820439624,
+        0.07879502725982368
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Jamestown Associates"
+    },
+    {
+      "bbox": [
+        0.7917242363688267,
+        0.0610882795609869,
+        0.9605980588067371,
+        0.12483257127679931
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Jamestown Associates\n5937 Jones Creek Road, Suite A\nBaton Rouge, LA 70817"
+    },
+    {
+      "bbox": [
+        0.2461318869540394,
+        0.4214205952323154,
+        0.25638738224379104,
+        0.43824200554621034
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.2467741935483871,
+        0.4214205952323154,
+        0.3032258064516129,
+        0.4384133611691023
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,008.17"
+    },
+    {
+      "bbox": [
+        0.2467741935483871,
+        0.42228022927382347,
+        0.3015115615186983,
+        0.4391273429311522
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,008.17"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.025806451612903226,
+        0.2849686847599165,
+        0.037096774193548385,
+        0.3058455114822547
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.26129032258064516,
+        0.2849686847599165,
+        0.3008064516129032,
+        0.3058455114822547
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$21.18"
+    },
+    {
+      "bbox": [
+        0.8498387096774191,
+        0.2886199874910396,
+        0.8648801027690551,
+        0.30544139780493446
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "56"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.019827290893519842,
+        0.24346778085900575,
+        0.04512417927490722,
+        0.280651951026563
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\nNo"
+    },
+    {
+      "bbox": [
+        0.2653925206965459,
+        0.2445101942315985,
+        0.3008278618327148,
+        0.26205986594278435
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross"
+    },
+    {
+      "bbox": [
+        0.8409506137596345,
+        0.24346778085900575,
+        0.8758192977447902,
+        0.2849686847599165
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "3928a87e-a4f8-46de-ab09-0383a30ec78a",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016129032258064516,
+          0.24008350730688935,
+          0.9862903225806452,
+          0.44467640918580376
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.025806451612903226,
+            "right": 0.037096774193548385
+          },
+          {
+            "column_type": "",
+            "left": 0.04758064516129032,
+            "right": 0.17983870967741936
+          },
+          {
+            "column_type": "",
+            "left": 0.1967741935483871,
+            "right": 0.21693548387096775
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.26129032258064516,
+            "right": 0.3008064516129032
+          },
+          {
+            "column_type": "",
+            "left": 0.3096774193548387,
+            "right": 0.3209677419354839
+          },
+          {
+            "column_type": "",
+            "left": 0.33306451612903226,
+            "right": 0.34838709677419355
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.85,
+            "right": 0.8653225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2849686847599165,
+            "row_type": "header",
+            "top": 0.24008350730688935
+          },
+          {
+            "bottom": 0.3058455114822547,
+            "row_type": "data",
+            "top": 0.2849686847599165
+          },
+          {
+            "bottom": 0.44467640918580376,
+            "row_type": "footer",
+            "top": 0.3058455114822547
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

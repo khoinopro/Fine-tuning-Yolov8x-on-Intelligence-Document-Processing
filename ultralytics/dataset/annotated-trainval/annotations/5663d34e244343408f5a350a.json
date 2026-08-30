@@ -1,0 +1,259 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.20403225806451614,
+        0.1667705735660848,
+        0.24435483870967742,
+        0.17612219451371572
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9-28-01"
+    },
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.19139650872817954,
+        0.2540322580645161,
+        0.20261845386533667
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Dr. Robert A. Libby"
+    },
+    {
+      "bbox": [
+        0.13870967741935483,
+        0.2169576059850374,
+        0.325,
+        0.22880299251870323
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Rt. 1, Box 667, Kirksville, MO 63501"
+    },
+    {
+      "bbox": [
+        0.5459677419354839,
+        0.14027431421446385,
+        0.5935483870967742,
+        0.14962593516209477
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "2R6-472"
+    },
+    {
+      "bbox": [
+        0.13870967741935483,
+        0.09413965087281795,
+        0.30483870967741933,
+        0.10723192019950124
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2854838709677419,
+        0.43640897755610975,
+        0.542741935483871,
+        0.45012468827930174
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7/1/01 - 6/30/03, daily rate NTE $ 1,450"
+    },
+    {
+      "bbox": [
+        0.6733870967741935,
+        0.43640897755610975,
+        0.717741935483871,
+        0.45012468827930174
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "per year"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.43640897755610975,
+        0.8572580645161291,
+        0.45012468827930174
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "150,000.00"
+    },
+    {
+      "bbox": [
+        0.2854838709677419,
+        0.48753117206982544,
+        0.542741935483871,
+        0.5031172069825436
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Reimbursement for travel expenses"
+    },
+    {
+      "bbox": [
+        0.6733870967741935,
+        0.48753117206982544,
+        0.717741935483871,
+        0.5031172069825436
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "per year"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.48753117206982544,
+        0.8572580645161291,
+        0.5031172069825436
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "70,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3976711794528943,
+        0.3848067842307857,
+        0.47884376102661247,
+        0.3974705826647083
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6733870967741935,
+        0.38216957605985036,
+        0.717741935483871,
+        0.4014962593516209
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT\nPRICE"
+    },
+    {
+      "bbox": [
+        0.7648095529927387,
+        0.38595803863386957,
+        0.8415139190669861,
+        0.3968949554631664
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1054,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "mjgm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13709677419354838,
+          0.38216957605985036,
+          0.8758064516129033,
+          0.5031172069825436
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2854838709677419,
+            "right": 0.542741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.603225806451613,
+            "right": 0.65
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6733870967741935,
+            "right": 0.717741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7887096774193548,
+            "right": 0.8572580645161291
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4014962593516209,
+            "row_type": "header",
+            "top": 0.38216957605985036
+          },
+          {
+            "bottom": 0.41209476309226933,
+            "row_type": "gap",
+            "top": 0.4014962593516209
+          },
+          {
+            "bottom": 0.4251870324189526,
+            "row_type": "gap-with-text",
+            "top": 0.41209476309226933
+          },
+          {
+            "bottom": 0.43640897755610975,
+            "row_type": "gap",
+            "top": 0.4251870324189526
+          },
+          {
+            "bottom": 0.45012468827930174,
+            "row_type": "data",
+            "top": 0.43640897755610975
+          },
+          {
+            "bottom": 0.48753117206982544,
+            "row_type": "gap",
+            "top": 0.45012468827930174
+          },
+          {
+            "bottom": 0.5031172069825436,
+            "row_type": "data",
+            "top": 0.48753117206982544
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

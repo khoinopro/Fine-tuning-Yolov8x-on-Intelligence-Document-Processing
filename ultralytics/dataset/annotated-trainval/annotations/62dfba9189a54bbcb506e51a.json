@@ -1,0 +1,134 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.29838709677419356,
+        0.5945288753799393,
+        0.4849101628298709,
+        0.6124970860954132
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "LOKO PICTURES INC."
+    },
+    {
+      "bbox": [
+        0.08268053467606093,
+        0.8771407297096053,
+        0.6212213145931065,
+        0.8979080994099767
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "548 south spring st.,suite # 921, los angeles, ca 90013"
+    },
+    {
+      "bbox": [
+        0.37338709677419357,
+        0.6164133738601824,
+        0.46330894205864775,
+        0.6322120553042115
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "95-4732707"
+    },
+    {
+      "bbox": [
+        0.18398281139627973,
+        0.31796526852055124,
+        0.39850527974497835,
+        0.35444848556174424
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Russell Tillman (prod.)\nG.C.I."
+    },
+    {
+      "bbox": [
+        0.13556628208146929,
+        0.31796526852055124,
+        0.39850527974497835,
+        0.3914929828651095
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Attn. Russell Tillman (prod.)\nG.C.I.\n92 Grandview Avenue,\nGreat Neck, New York"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.5051671732522797,
+        0.5314516129032258,
+        0.5294832826747721
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Character Design for 'Girlfriends' characters"
+    },
+    {
+      "bbox": [
+        0.7508064516129033,
+        0.5051671732522797,
+        0.8459677419354839,
+        0.5294832826747721
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ 3000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 274,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hyxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13064516129032258,
+          0.5051671732522797,
+          0.8459677419354839,
+          0.5294832826747721
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13064516129032258,
+            "right": 0.5314516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7508064516129033,
+            "right": 0.8459677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5294832826747721,
+            "row_type": "data",
+            "top": 0.5051671732522797
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

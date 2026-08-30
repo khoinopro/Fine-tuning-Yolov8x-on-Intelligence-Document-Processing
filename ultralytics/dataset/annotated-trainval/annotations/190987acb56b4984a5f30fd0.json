@@ -1,0 +1,202 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.691884373488147,
+        0.07623124867824788,
+        0.7680677154049035,
+        0.08805697951450045
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "021455"
+    },
+    {
+      "bbox": [
+        0.09233227211011752,
+        0.11998973032745117,
+        0.18808425800209125,
+        0.1340207875028386
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "JUN25/99"
+    },
+    {
+      "bbox": [
+        0.0902804438410038,
+        0.16740502698910525,
+        0.16483020428546905,
+        0.17998459549117676
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "090366"
+    },
+    {
+      "bbox": [
+        0.0901258540399062,
+        0.1364154375925708,
+        0.12885762602399808,
+        0.149582950873707
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "RJL"
+    },
+    {
+      "bbox": [
+        0.6889749832233093,
+        0.12217788852098764,
+        0.8289386207219439,
+        0.14950333335154198
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "SCIENCE LTD\nSCIENCE LTD"
+    },
+    {
+      "bbox": [
+        0.6880464129094683,
+        0.12240887811631107,
+        0.9096438659737504,
+        0.19837011868651203
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "SCIENCE LTD\nSCIENCE LTD\n2 BLOOMSBURY PLACE\nLONDON\nWC1A 2QA"
+    },
+    {
+      "bbox": [
+        0.49603914040919517,
+        0.31143016115426114,
+        0.5963980835557221,
+        0.323681974149455
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "20000.00"
+    },
+    {
+      "bbox": [
+        0.4960391404091952,
+        0.3114301611542613,
+        0.5963980835557221,
+        0.323681974149455
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "20000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06370967741935483,
+        0.2932116371933828,
+        0.17580645161290323,
+        0.3091842555618939
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "ART OTHER"
+    },
+    {
+      "bbox": [
+        0.4935483870967742,
+        0.2932116371933828,
+        0.6024193548387097,
+        0.3091842555618939
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.014362797883796059,
+        0.28009127210496293,
+        0.1641462615290978,
+        0.29174922333650427
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "WORK CATEGORY"
+    },
+    {
+      "bbox": [
+        0.4935483870967742,
+        0.28009127210496293,
+        0.6024193548387097,
+        0.2932116371933828
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 744,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "yfmy0185",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1655,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016935483870967744,
+          0.28009127210496293,
+          0.6024193548387097,
+          0.3262977752424415
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06370967741935483,
+            "right": 0.17580645161290323
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4935483870967742,
+            "right": 0.6024193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2932116371933828,
+            "row_type": "header",
+            "top": 0.28009127210496293
+          },
+          {
+            "bottom": 0.3091842555618939,
+            "row_type": "data",
+            "top": 0.2932116371933828
+          },
+          {
+            "bottom": 0.3262977752424415,
+            "row_type": "footer",
+            "top": 0.3091842555618939
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

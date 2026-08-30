@@ -1,0 +1,174 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.458353889943074,
+        0.051474006812596666,
+        0.5109819734345351,
+        0.06372972272035778
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "QM6SHK"
+    },
+    {
+      "bbox": [
+        0.6590749525616698,
+        0.03921829090483556,
+        0.7569876660341556,
+        0.05049354953997578
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "AUG 16 1999"
+    },
+    {
+      "bbox": [
+        0.22213946869070209,
+        0.051474006812596666,
+        0.2998576850094877,
+        0.06274926544773689
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "460001201"
+    },
+    {
+      "bbox": [
+        0.186646110056926,
+        0.08431932544539644,
+        0.32861954459203035,
+        0.09461412680791578
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS CO"
+    },
+    {
+      "bbox": [
+        0.18603415559772296,
+        0.08431932544539644,
+        0.47671252371916506,
+        0.13873470407585578
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS CO\nSTEVEN SAMPSON\nATTN ELLISSA BAYLISS 917-663-2123\n120 PARK AVE 12TH FLOOR\nNEW YORK NY 10017"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09730075901328272,
+        0.1931500827063151,
+        0.2839468690702087,
+        0.2039351127051449
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "25 AUG 99 - WEDNESDAY"
+    },
+    {
+      "bbox": [
+        0.09791271347248577,
+        0.27109643587967575,
+        0.2759914611005692,
+        0.2813912372421951
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "28 AUG 99 - SATURDAY"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 889,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zjnb0025",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0967741935483871,
+          0.19186046511627908,
+          0.75,
+          0.3417312661498708
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.0967741935483871,
+            "right": 0.125
+          },
+          {
+            "column_type": "",
+            "left": 0.29596774193548386,
+            "right": 0.31693548387096776
+          },
+          {
+            "column_type": "",
+            "left": 0.40161290322580645,
+            "right": 0.5
+          },
+          {
+            "column_type": "",
+            "left": 0.6540322580645161,
+            "right": 0.7185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.20348837209302326,
+            "row_type": "down-merge",
+            "top": 0.19186046511627908
+          },
+          {
+            "bottom": 0.21511627906976744,
+            "row_type": "data",
+            "top": 0.20348837209302326
+          },
+          {
+            "bottom": 0.26098191214470284,
+            "row_type": "up-merge",
+            "top": 0.21511627906976744
+          },
+          {
+            "bottom": 0.268733850129199,
+            "row_type": "gap",
+            "top": 0.26098191214470284
+          },
+          {
+            "bottom": 0.2810077519379845,
+            "row_type": "down-merge",
+            "top": 0.268733850129199
+          },
+          {
+            "bottom": 0.2926356589147287,
+            "row_type": "data",
+            "top": 0.2810077519379845
+          },
+          {
+            "bottom": 0.3417312661498708,
+            "row_type": "up-merge",
+            "top": 0.2926356589147287
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

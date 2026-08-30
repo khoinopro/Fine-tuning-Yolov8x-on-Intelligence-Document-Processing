@@ -1,0 +1,251 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8608415883498435,
+        0.12073656927377081,
+        0.9053678774024215,
+        0.13648481743991484
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2818"
+    },
+    {
+      "bbox": [
+        0.7421048175429684,
+        0.12204892328761616,
+        0.8042560960121921,
+        0.13779717145376016
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/7/99"
+    },
+    {
+      "bbox": [
+        0.7615850690034713,
+        0.3720523629251525,
+        0.8895981500296334,
+        0.3864882570774511
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "Doral Web Site"
+    },
+    {
+      "bbox": [
+        0.0621512784692236,
+        0.0505256295330454,
+        0.2996248200829735,
+        0.1148309762114668
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "InterActive8\na wholly owned subsidiary of\nLuminant Worldwide Corp."
+    },
+    {
+      "bbox": [
+        0.06307890949115232,
+        0.051817577212881376,
+        0.3005687730583672,
+        0.14829600356452285
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "InterActive8\na wholly owned subsidiary of\nLuminant Worldwide Corp.\n114 W 26th St. 12th Fl.\nNew York, NY 10001"
+    },
+    {
+      "bbox": [
+        0.07699337482008298,
+        0.900143610086542,
+        0.17068410803488274,
+        0.915891858252686
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-3791654"
+    },
+    {
+      "bbox": [
+        0.08870967741935484,
+        0.19829669199265346,
+        0.358993205486411,
+        0.21404494015879746
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.09183547117094235,
+        0.19700456242255845,
+        0.35999156497335477,
+        0.26988666431828434
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company\n401 North Main Street\nWinston-Salem, NC 27102\nAttn: Danielle Lamphier"
+    },
+    {
+      "bbox": [
+        0.8357955507577681,
+        0.8975189020588513,
+        0.8497100160866989,
+        0.915891858252686
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8354838709677419,
+        0.8988312560726966,
+        0.9294862839725679,
+        0.9156628598629073
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$33,000.00"
+    },
+    {
+      "bbox": [
+        0.8376508128016256,
+        0.8988312560726966,
+        0.9294862839725679,
+        0.9145795042388406
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$33,000.00"
+    },
+    {
+      "bbox": [
+        0.5704930784861569,
+        0.37100247570908956,
+        0.689229849293032,
+        0.3887192548960016
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due on receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.062096774193548386,
+        0.4209925841414718,
+        0.5508064516129032,
+        0.44266970907016545
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Phase I Doral web site: Concept development and production"
+    },
+    {
+      "bbox": [
+        0.8435483870967742,
+        0.4209925841414718,
+        0.9290322580645162,
+        0.44266970907016545
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "33,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3320919058504784,
+        0.40092415122974984,
+        0.4378418423503514,
+        0.4140476913682032
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7894139996613326,
+        0.4015803282366725,
+        0.8580586952840573,
+        0.4140476913682032
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 315,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mqgd0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1656,
+        2341
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.062096774193548386,
+          0.39361095265259555,
+          0.9467741935483871,
+          0.9252709640616087
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.062096774193548386,
+            "right": 0.5508064516129032
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8435483870967742,
+            "right": 0.9290322580645162
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4209925841414718,
+            "row_type": "header",
+            "top": 0.39361095265259555
+          },
+          {
+            "bottom": 0.44266970907016545,
+            "row_type": "data",
+            "top": 0.4209925841414718
+          },
+          {
+            "bottom": 0.87906446092413,
+            "row_type": "gap-with-text",
+            "top": 0.44266970907016545
+          },
+          {
+            "bottom": 0.9252709640616087,
+            "row_type": "footer",
+            "top": 0.87906446092413
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

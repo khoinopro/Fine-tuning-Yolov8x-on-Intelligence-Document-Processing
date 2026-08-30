@@ -1,0 +1,229 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.572940336854125,
+        0.059317604791103214,
+        0.710363973736797,
+        0.08145103941464919
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Kansas Ag Network-Radio"
+    },
+    {
+      "bbox": [
+        0.7910405366828434,
+        0.059317604791103214,
+        0.8717170996288895,
+        0.07702435248994
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mentzer Media"
+    },
+    {
+      "bbox": [
+        0.7924079360548102,
+        0.059317604791103214,
+        0.8956465886383101,
+        0.14430999374551975
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mentzer Media\n600 Fairmount Ave.\nSuite 306\nTowson, MD 21286"
+    },
+    {
+      "bbox": [
+        0.2461318869540394,
+        0.451522066320338,
+        0.25707108192977446,
+        0.47011415140411655
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.2467741935483871,
+        0.4506367289353961,
+        0.3021952612046817,
+        0.4697286012526096
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$4,845.00"
+    },
+    {
+      "bbox": [
+        0.24745789323437056,
+        0.4517591082653385,
+        0.3015115615186983,
+        0.4692288140191747
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$4,845.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.027419354838709678,
+        0.29958246346555323,
+        0.035483870967741936,
+        0.33507306889352817
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.25564516129032255,
+        0.29958246346555323,
+        0.3,
+        0.33507306889352817
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$475.00"
+    },
+    {
+      "bbox": [
+        0.85,
+        0.29958246346555323,
+        0.8653225806451613,
+        0.33507306889352817
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.0191435912075364,
+        0.25674784163313336,
+        0.047858978018840995,
+        0.29958246346555323
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Line\nNo"
+    },
+    {
+      "bbox": [
+        0.2652169568940908,
+        0.2575118021185267,
+        0.3008278618327148,
+        0.2771106014867956
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross"
+    },
+    {
+      "bbox": [
+        0.8395832143876677,
+        0.2576331790180752,
+        0.8744518983728233,
+        0.29958246346555323
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nSpots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "9422dc3a-a782-4fef-bec7-444bdb67b15d",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016935483870967744,
+          0.255741127348643,
+          0.9814516129032258,
+          0.4759916492693111
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.027419354838709678,
+            "right": 0.035483870967741936
+          },
+          {
+            "column_type": "",
+            "left": 0.04596774193548387,
+            "right": 0.17419354838709677
+          },
+          {
+            "column_type": "",
+            "left": 0.1879032258064516,
+            "right": 0.22741935483870968
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.25564516129032255,
+            "right": 0.3
+          },
+          {
+            "column_type": "",
+            "left": 0.3096774193548387,
+            "right": 0.3209677419354839
+          },
+          {
+            "column_type": "",
+            "left": 0.33145161290322583,
+            "right": 0.34919354838709676
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.85,
+            "right": 0.8653225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.29958246346555323,
+            "row_type": "header",
+            "top": 0.255741127348643
+          },
+          {
+            "bottom": 0.33507306889352817,
+            "row_type": "data",
+            "top": 0.29958246346555323
+          },
+          {
+            "bottom": 0.4759916492693111,
+            "row_type": "footer",
+            "top": 0.33507306889352817
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

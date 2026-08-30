@@ -1,0 +1,264 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5983731236026828,
+        0.3703755458515284,
+        0.7423666560204407,
+        0.3855271366188397
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 28, 1999"
+    },
+    {
+      "bbox": [
+        0.5503752794634302,
+        0.24196631316281972,
+        0.7095681291919514,
+        0.2555807860262009
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Weiland & Associates"
+    },
+    {
+      "bbox": [
+        0.5499283154121863,
+        0.24285859362532464,
+        0.7578614097968936,
+        0.3005308958152165
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Weiland & Associates\nNorthbank Center, Suite 303\n432 North Saginaw Street\nFlint, MI 48502"
+    },
+    {
+      "bbox": [
+        0.1839917358671351,
+        0.23949095446038676,
+        0.41998113621846056,
+        0.2694946974422957
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "The Tobacco Industry\nLabor Management Committee"
+    },
+    {
+      "bbox": [
+        0.18262544802867384,
+        0.24074217886606253,
+        0.41928614097968936,
+        0.3005308958152165
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "The Tobacco Industry\nLabor Management Committee\nPO Box 65311\nWashington, DC 20035"
+    },
+    {
+      "bbox": [
+        0.7527661889172789,
+        0.7593162819713037,
+        0.7647656499520921,
+        0.7747872738615096
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7524193548387097,
+        0.7596257018091079,
+        0.8343625239540083,
+        0.7732401746724891
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,750.00"
+    },
+    {
+      "bbox": [
+        0.7524193548387097,
+        0.7583880224578914,
+        0.8343625239540083,
+        0.7726213349968808
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,750.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17983870967741936,
+        0.4922021210230817,
+        0.5653225806451613,
+        0.5102932002495322
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "January 1999"
+    },
+    {
+      "bbox": [
+        0.760483870967742,
+        0.4922021210230817,
+        0.8379032258064516,
+        0.5102932002495322
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$2,750.00"
+    },
+    {
+      "bbox": [
+        0.17983870967741936,
+        0.5676855895196506,
+        0.5653225806451613,
+        0.5851528384279476
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "None"
+    },
+    {
+      "bbox": [
+        0.760483870967742,
+        0.5676855895196506,
+        0.8379032258064516,
+        0.5851528384279476
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "None"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.464756891191999,
+        0.41235184029943855,
+        0.5653225806451613,
+        0.4304271478334119
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 24,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hywx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.17983870967741936,
+          0.41235184029943855,
+          0.8379032258064516,
+          0.777292576419214
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17983870967741936,
+            "right": 0.5653225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.760483870967742,
+            "right": 0.8379032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4310667498440424,
+            "row_type": "header",
+            "top": 0.41235184029943855
+          },
+          {
+            "bottom": 0.4616344354335621,
+            "row_type": "gap",
+            "top": 0.4310667498440424
+          },
+          {
+            "bottom": 0.47723019338739864,
+            "row_type": "subsection-header",
+            "top": 0.4616344354335621
+          },
+          {
+            "bottom": 0.4922021210230817,
+            "row_type": "gap",
+            "top": 0.47723019338739864
+          },
+          {
+            "bottom": 0.5102932002495322,
+            "row_type": "data",
+            "top": 0.4922021210230817
+          },
+          {
+            "bottom": 0.5383655645664379,
+            "row_type": "gap",
+            "top": 0.5102932002495322
+          },
+          {
+            "bottom": 0.5539613225202745,
+            "row_type": "subsection-header",
+            "top": 0.5383655645664379
+          },
+          {
+            "bottom": 0.5676855895196506,
+            "row_type": "gap",
+            "top": 0.5539613225202745
+          },
+          {
+            "bottom": 0.5851528384279476,
+            "row_type": "data",
+            "top": 0.5676855895196506
+          },
+          {
+            "bottom": 0.6444167186525265,
+            "row_type": "gap",
+            "top": 0.5851528384279476
+          },
+          {
+            "bottom": 0.6606363069245166,
+            "row_type": "gap-with-text",
+            "top": 0.6444167186525265
+          },
+          {
+            "bottom": 0.7585776668746101,
+            "row_type": "gap",
+            "top": 0.6606363069245166
+          },
+          {
+            "bottom": 0.777292576419214,
+            "row_type": "footer",
+            "top": 0.7585776668746101
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

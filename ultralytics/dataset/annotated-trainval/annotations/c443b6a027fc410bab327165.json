@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.24109540150995193,
+        0.3013940918628539,
+        0.3192587508579272,
+        0.31671921517791424
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "3137743"
+    },
+    {
+      "bbox": [
+        0.2190775566231983,
+        0.22987684972590547,
+        0.547143445435827,
+        0.24860755599986817
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WXME-AM \"The Talk of the County\""
+    },
+    {
+      "bbox": [
+        0.21797666437886065,
+        0.22987684972590547,
+        0.547143445435827,
+        0.2818119898491656
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WXME-AM \"The Talk of the County\"\n74 PLEASANT STREET\nHOULTON, ME 04730"
+    },
+    {
+      "bbox": [
+        0.18935346602608097,
+        0.14388588001362232,
+        0.5757666437886066,
+        0.16091379480813384
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "C/O Maine Senate Democratic Camp.Cmte"
+    },
+    {
+      "bbox": [
+        0.19045435827041865,
+        0.14303448427389676,
+        0.5757666437886066,
+        0.21114614345194282
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "C/O Maine Senate Democratic Camp.Cmte\n1675 Palm Beach Lakes Blvd\nSUITE 1000\nWEST PALM BEACH, FL 33401"
+    },
+    {
+      "bbox": [
+        0.35889087165408373,
+        0.5108374438353456,
+        0.3710006863417982,
+        0.5295681501093082
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.35778997940974605,
+        0.5116888395750712,
+        0.4766863417982155,
+        0.5270139628901315
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$130.00 USD"
+    },
+    {
+      "bbox": [
+        0.35889087165408373,
+        0.5116888395750712,
+        0.4766863417982155,
+        0.5278653586298571
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$130.00 USD"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15241935483870966,
+        0.40586034912718205,
+        0.175,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "13"
+    },
+    {
+      "bbox": [
+        0.17903225806451614,
+        0.40586034912718205,
+        0.5403225806451613,
+        0.4233167082294264
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(:60) second spots to run on WXME-AM"
+    },
+    {
+      "bbox": [
+        0.39081674673987643,
+        0.47678161424632254,
+        0.4976032944406314,
+        0.493809529040834
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$10.00 USD"
+    },
+    {
+      "bbox": [
+        0.5900782429649966,
+        0.4069671635888253,
+        0.6792505147563487,
+        0.42229228690388565
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "9/28/2016"
+    },
+    {
+      "bbox": [
+        0.15082223747426218,
+        0.42484647412306237,
+        0.2421962937542896,
+        0.43932020169839714
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/3/2016"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15192312971859986,
+        0.37120854252035107,
+        0.35999176389842136,
+        0.3873850615751371
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ORDER DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 183,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "bdba9b85-0c7f-466b-b419-897c8b2fe5f7",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15241935483870966,
+          0.371571072319202,
+          0.760483870967742,
+          0.5305486284289277
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.15241935483870966,
+            "right": 0.175
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.17903225806451614,
+            "right": 0.5403225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3859102244389027,
+            "row_type": "header",
+            "top": 0.371571072319202
+          },
+          {
+            "bottom": 0.40586034912718205,
+            "row_type": "gap",
+            "top": 0.3859102244389027
+          },
+          {
+            "bottom": 0.4233167082294264,
+            "row_type": "data",
+            "top": 0.40586034912718205
+          },
+          {
+            "bottom": 0.493142144638404,
+            "row_type": "up-merge",
+            "top": 0.4233167082294264
+          },
+          {
+            "bottom": 0.5105985037406484,
+            "row_type": "gap",
+            "top": 0.493142144638404
+          },
+          {
+            "bottom": 0.5305486284289277,
+            "row_type": "footer",
+            "top": 0.5105985037406484
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

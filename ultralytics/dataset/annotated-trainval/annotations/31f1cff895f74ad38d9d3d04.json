@@ -1,0 +1,252 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.1404648956356736,
+        0.39349711385627845,
+        0.18086002902109607,
+        0.4052536181366945
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/3/00"
+    },
+    {
+      "bbox": [
+        0.27450329277821184,
+        0.3928055547809598,
+        0.3672284853220225,
+        0.4038704999860573
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "143-0-1204-001"
+    },
+    {
+      "bbox": [
+        0.6707494675814883,
+        0.3942081901664779,
+        0.7066512029163121,
+        0.4047693024900823
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "23030"
+    },
+    {
+      "bbox": [
+        0.21115637906016296,
+        0.8699813167507878,
+        0.3984429065743944,
+        0.8858871754831155
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "IIT Research Institute"
+    },
+    {
+      "bbox": [
+        0.20197566692711239,
+        0.871731826473329,
+        0.4094597611340551,
+        0.9192568319295489
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "IT Research Institute\nP.O. Box 930826\nAtlanta, GA 31193-0826"
+    },
+    {
+      "bbox": [
+        0.636223350820404,
+        0.2911463707091269,
+        0.7987219555753989,
+        0.3174256155712334
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 930826\nATLANTA, GA 31193-0826"
+    },
+    {
+      "bbox": [
+        0.4553633217993079,
+        0.3928055547809598,
+        0.5297270900770175,
+        0.4045620590613759
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "1120-02-000"
+    },
+    {
+      "bbox": [
+        0.16300432517843036,
+        0.24896126711469285,
+        0.2962713748175525,
+        0.2623354712585193
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.16190294460290042,
+        0.24833282619669209,
+        0.4868102143842312,
+        0.3171270570277038
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Loillard Tobacco CO.\nDr. Chris Coggins\nSenior Vice President, Science and Technology\nP.O. Box 21688\nGreensboro, NC 27420-1688"
+    },
+    {
+      "bbox": [
+        0.7640409583723732,
+        0.6757628911532745,
+        0.7750501940837906,
+        0.6907060509085066
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7618391112300897,
+        0.6749327156113172,
+        0.8466102262080043,
+        0.6890456998245919
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$119,750.00"
+    },
+    {
+      "bbox": [
+        0.7618391112300897,
+        0.6765930666952319,
+        0.8477111497791461,
+        0.6890456998245919
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$119,750.00"
+    },
+    {
+      "bbox": [
+        0.7541326462320974,
+        0.39267303134582165,
+        0.8245917547851693,
+        0.40678601555909644
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET CASH"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.23225806451612904,
+        0.496048632218845,
+        0.4112903225806452,
+        0.511854103343465
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Termination of In-Life Phase"
+    },
+    {
+      "bbox": [
+        0.7693548387096775,
+        0.496048632218845,
+        0.8467741935483871,
+        0.511854103343465
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "119,750.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 58,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zrxx0095",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08951612903225807,
+          0.41519756838905775,
+          0.8467741935483871,
+          0.6948328267477204
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.23225806451612904,
+            "right": 0.4112903225806452
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7693548387096775,
+            "right": 0.8467741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.44072948328267475,
+            "row_type": "gap",
+            "top": 0.41519756838905775
+          },
+          {
+            "bottom": 0.4723404255319149,
+            "row_type": "gap-with-text",
+            "top": 0.44072948328267475
+          },
+          {
+            "bottom": 0.496048632218845,
+            "row_type": "gap",
+            "top": 0.4723404255319149
+          },
+          {
+            "bottom": 0.511854103343465,
+            "row_type": "data",
+            "top": 0.496048632218845
+          },
+          {
+            "bottom": 0.556838905775076,
+            "row_type": "gap",
+            "top": 0.511854103343465
+          },
+          {
+            "bottom": 0.6741641337386018,
+            "row_type": "gap-with-text",
+            "top": 0.556838905775076
+          },
+          {
+            "bottom": 0.6948328267477204,
+            "row_type": "footer",
+            "top": 0.6741641337386018
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

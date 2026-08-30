@@ -1,0 +1,193 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.49607961399276235,
+        0.3171987841945289,
+        0.6361020856842678,
+        0.3346869300911854
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 22, 1999"
+    },
+    {
+      "bbox": [
+        0.3156261691469904,
+        0.894968719392531,
+        0.6813217924028715,
+        0.9097578870139399
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1320 18TH STREET NW, SUITE 200, WASHINGTON DC 20036"
+    },
+    {
+      "bbox": [
+        0.094415152340558,
+        0.24709544072948328,
+        0.21763492742908283,
+        0.26127529464489013
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Grover G. Norquist"
+    },
+    {
+      "bbox": [
+        0.21813892583970731,
+        0.4867213585087672,
+        0.3667640936998453,
+        0.5019353859387254
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Grover G. Norquist"
+    },
+    {
+      "bbox": [
+        0.25844147632203585,
+        0.6684693009118542,
+        0.35845752753025406,
+        0.6835452887537994
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "52-140-3587"
+    },
+    {
+      "bbox": [
+        0.25844147632203585,
+        0.719727659574468,
+        0.3576573991205883,
+        0.7342006079027356
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "52-140-0492"
+    },
+    {
+      "bbox": [
+        0.37045945367524025,
+        0.9232534954407294,
+        0.5056811549087513,
+        0.9353142857142858
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "amtxreform@AOL.COM"
+    },
+    {
+      "bbox": [
+        0.21763492742908283,
+        0.38338237082066867,
+        0.4160667730261878,
+        0.4352437689969605
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Kirk Blalock\nManager of Public Affairs\nPhilip Morris"
+    },
+    {
+      "bbox": [
+        0.5873707217127427,
+        0.5834998861537684,
+        0.5998578893361143,
+        0.6009779933427061
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5879653487424271,
+        0.5866369823158853,
+        0.6599152193342347,
+        0.600529836748118
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$200,000"
+    },
+    {
+      "bbox": [
+        0.5885599757721115,
+        0.5852925125321209,
+        0.6611044733936033,
+        0.6000816801535298
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$200,000"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15806451612903225,
+        0.5537993920972645,
+        0.36451612903225805,
+        0.5689969604863222
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For 1999 General Support:"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1094,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sncn0073",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15806451612903225,
+          0.5537993920972645,
+          0.6645161290322581,
+          0.601823708206687
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15806451612903225,
+            "right": 0.36451612903225805
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5689969604863222,
+            "row_type": "data",
+            "top": 0.5537993920972645
+          },
+          {
+            "bottom": 0.5860182370820669,
+            "row_type": "gap",
+            "top": 0.5689969604863222
+          },
+          {
+            "bottom": 0.601823708206687,
+            "row_type": "footer",
+            "top": 0.5860182370820669
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

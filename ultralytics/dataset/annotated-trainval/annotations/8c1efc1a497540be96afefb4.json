@@ -1,0 +1,282 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6459795054111989,
+        0.034268569546831794,
+        0.7048579720338426,
+        0.048071476168018185
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "10432"
+    },
+    {
+      "bbox": [
+        0.6441976489303763,
+        0.07747191764949812,
+        0.7427184085324412,
+        0.0923620516144522
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "20/May/02"
+    },
+    {
+      "bbox": [
+        0.04304033507733194,
+        0.4287123814748794,
+        0.1285314473402748,
+        0.4433633797551784
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "AccuColor Plus, Inc."
+    },
+    {
+      "bbox": [
+        0.044219522832682885,
+        0.42853505038378986,
+        0.14268170040448602,
+        0.47429327142380956
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "AccuColor Plus, Inc.\n2134 W. Division St\nChicago, Illineis 60622"
+    },
+    {
+      "bbox": [
+        0.306195753056419,
+        0.034028123235239,
+        0.44533990818782954,
+        0.05056957290654439
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Weber:Shandwick"
+    },
+    {
+      "bbox": [
+        0.30737494081176997,
+        0.03209675478583042,
+        0.5591315265791947,
+        0.11579014589626277
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Weber Shandwick\n676 North St. Clair, Suite 1000\nChicago, IL 60611\nAttn: Ms. Sarah Trego"
+    },
+    {
+      "bbox": [
+        0.6535975786147812,
+        0.3527792409874588,
+        0.6665686439236415,
+        0.3664850135722547
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6541134632616488,
+        0.3513293429259817,
+        0.7504977318548387,
+        0.3669439803893586
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$3,253.00"
+    },
+    {
+      "bbox": [
+        0.6540322580645161,
+        0.3523066281397072,
+        0.7471464678749631,
+        0.3684550743374273
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$3,253.00"
+    },
+    {
+      "bbox": [
+        0.6451467270371071,
+        0.09767332190622029,
+        0.8385335189146607,
+        0.11468738442527725
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "1% ten days, net 30 days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3064516129032258,
+        0.24692954104718812,
+        0.5556451612903226,
+        0.26373626373626374
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Base price:"
+    },
+    {
+      "bbox": [
+        0.6516129032258065,
+        0.24692954104718812,
+        0.7524193548387097,
+        0.26373626373626374
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$3,185.00"
+    },
+    {
+      "bbox": [
+        0.3064516129032258,
+        0.2689075630252101,
+        0.5556451612903226,
+        0.28312863606981253
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Reimbursement of tax on paper:"
+    },
+    {
+      "bbox": [
+        0.6516129032258065,
+        0.2689075630252101,
+        0.7524193548387097,
+        0.28312863606981253
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$11.00"
+    },
+    {
+      "bbox": [
+        0.3064516129032258,
+        0.2902391725921138,
+        0.5556451612903226,
+        0.3070458952811894
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Messenger:"
+    },
+    {
+      "bbox": [
+        0.6516129032258065,
+        0.2902391725921138,
+        0.7524193548387097,
+        0.3070458952811894
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$57.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 174,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tgfd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2532258064516129,
+          0.16548157724628312,
+          0.7524193548387097,
+          0.37233354880413705
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.3064516129032258,
+            "right": 0.5556451612903226
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6516129032258065,
+            "right": 0.7524193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.17970265029088558,
+            "row_type": "header",
+            "top": 0.16548157724628312
+          },
+          {
+            "bottom": 0.21978021978021978,
+            "row_type": "subsection-header",
+            "top": 0.17970265029088558
+          },
+          {
+            "bottom": 0.24692954104718812,
+            "row_type": "gap",
+            "top": 0.21978021978021978
+          },
+          {
+            "bottom": 0.26373626373626374,
+            "row_type": "data",
+            "top": 0.24692954104718812
+          },
+          {
+            "bottom": 0.2689075630252101,
+            "row_type": "gap",
+            "top": 0.26373626373626374
+          },
+          {
+            "bottom": 0.28312863606981253,
+            "row_type": "data",
+            "top": 0.2689075630252101
+          },
+          {
+            "bottom": 0.2902391725921138,
+            "row_type": "gap",
+            "top": 0.28312863606981253
+          },
+          {
+            "bottom": 0.3070458952811894,
+            "row_type": "data",
+            "top": 0.2902391725921138
+          },
+          {
+            "bottom": 0.34906270200387846,
+            "row_type": "gap",
+            "top": 0.3070458952811894
+          },
+          {
+            "bottom": 0.37233354880413705,
+            "row_type": "footer",
+            "top": 0.34906270200387846
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

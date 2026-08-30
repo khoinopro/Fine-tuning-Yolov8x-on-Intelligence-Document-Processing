@@ -1,0 +1,250 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.698072383949646,
+        0.3413626978664831,
+        0.8061565696302124,
+        0.36315180624093946
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "738525"
+    },
+    {
+      "bbox": [
+        0.013080251770259637,
+        0.3408439095718532,
+        0.2244295830055075,
+        0.3522572520537113
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.014684058423806922,
+        0.3383221003480023,
+        0.224604041507373,
+        0.3670404566384569
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY\n714 Green Valley Road\nGreensboro, N.C. 27408"
+    },
+    {
+      "bbox": [
+        0.7456748418339453,
+        0.6074675229567675,
+        0.8636061860501445,
+        0.6188834843790758
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0000011135"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.02258064516129032,
+        0.39878419452887537,
+        0.11048387096774194,
+        0.4145896656534954
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11/21/01"
+    },
+    {
+      "bbox": [
+        0.13548387096774195,
+        0.39878419452887537,
+        0.2717741935483871,
+        0.4145896656534954
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10TH INSTALL"
+    },
+    {
+      "bbox": [
+        0.4403225806451613,
+        0.39878419452887537,
+        0.5483870967741935,
+        0.4145896656534954
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "64, 746. 00"
+    },
+    {
+      "bbox": [
+        0.5685483870967742,
+        0.39878419452887537,
+        0.5854838709677419,
+        0.4145896656534954
+      ],
+      "fieldtype": "line_item_discount_rate",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "X"
+    },
+    {
+      "bbox": [
+        0.7548387096774194,
+        0.39878419452887537,
+        0.8629032258064516,
+        0.4145896656534954
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "64, 746.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.02258064516129032,
+        0.3781155015197568,
+        0.11048387096774194,
+        0.3878419452887538
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE DATE"
+    },
+    {
+      "bbox": [
+        0.14997753739363295,
+        0.3782652746575041,
+        0.30575130811648843,
+        0.38809744064138146
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE # OR DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.4600760205070383,
+        0.3781155015197568,
+        0.5013741829777487,
+        0.38973613497202764
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS"
+    },
+    {
+      "bbox": [
+        0.6042573245714487,
+        0.3799039689881503,
+        0.6723630661898135,
+        0.3875512091978327
+      ],
+      "fieldtype": "line_item_discount_rate",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DISCOUNT"
+    },
+    {
+      "bbox": [
+        0.8245141910819048,
+        0.3788115061010528,
+        0.8513217702295589,
+        0.3878419452887538
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1114,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fqvm0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.02258064516129032,
+          0.3781155015197568,
+          0.8629032258064516,
+          0.4145896656534954
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.02258064516129032,
+            "right": 0.11048387096774194
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.13548387096774195,
+            "right": 0.2717741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.31693548387096776,
+            "right": 0.36370967741935484
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.4403225806451613,
+            "right": 0.5483870967741935
+          },
+          {
+            "column_type": "line_item_discount_rate",
+            "left": 0.5685483870967742,
+            "right": 0.5854838709677419
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7548387096774194,
+            "right": 0.8629032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3878419452887538,
+            "row_type": "header",
+            "top": 0.3781155015197568
+          },
+          {
+            "bottom": 0.39878419452887537,
+            "row_type": "gap",
+            "top": 0.3878419452887538
+          },
+          {
+            "bottom": 0.4145896656534954,
+            "row_type": "data",
+            "top": 0.39878419452887537
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

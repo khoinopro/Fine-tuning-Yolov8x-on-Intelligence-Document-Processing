@@ -1,0 +1,384 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7205080412754485,
+        0.12858894041282426,
+        0.8091744910290973,
+        0.14644451556533286
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "990402"
+    },
+    {
+      "bbox": [
+        0.7249786185739518,
+        0.1516283922225128,
+        0.7905470856186669,
+        0.1648760770130837
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "04/02/99"
+    },
+    {
+      "bbox": [
+        0.7644687180440644,
+        0.39469460881472707,
+        0.8643116110439715,
+        0.4062143347195713
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "P0290014-15-16"
+    },
+    {
+      "bbox": [
+        0.1067802821108187,
+        0.16121260993221737,
+        0.4682578849238443,
+        0.17408252437678443
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "8800 North 22nd Avenue \u2022 Phoenix, Arizona 85021-4258"
+    },
+    {
+      "bbox": [
+        0.6109233794965395,
+        0.2750097481789155,
+        0.7719690911614226,
+        0.2885570265416177
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE WINONA GROUP"
+    },
+    {
+      "bbox": [
+        0.6100481310635782,
+        0.2756871120970506,
+        0.8122305190776433,
+        0.3163289471851571
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE WINONA GROUP\nP.O. Box 75683\nChicago, Illinois 60675-5683"
+    },
+    {
+      "bbox": [
+        0.14231337733568838,
+        0.3710791707097963,
+        0.17137212977595984,
+        0.3818789137455878
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "P02"
+    },
+    {
+      "bbox": [
+        0.12145068327600632,
+        0.26495369581141837,
+        0.251097424932602,
+        0.2897211065068336
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. David Titus\nPHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.12145068327600632,
+        0.26552968210666056,
+        0.2525876173654365,
+        0.31333654461176436
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. David Titus\nPHILIP MORRIS USA\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.8151352607604351,
+        0.8240923919177975,
+        0.8270568002231106,
+        0.836188104117884
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.8235164056225553,
+        0.8911350748349911,
+        0.8350361315273995
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$371,700.00"
+    },
+    {
+      "bbox": [
+        0.8153225806451613,
+        0.8234560199625702,
+        0.8926252672678257,
+        0.8356121178226418
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$371,700.00"
+    },
+    {
+      "bbox": [
+        0.7314516129032258,
+        0.3705552089831566,
+        0.8106646834619318,
+        0.3825988966146405
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.47161572052401746,
+        0.25161290322580643,
+        0.4840923268870867
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Basic CTS"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.47161572052401746,
+        0.8991935483870968,
+        0.4840923268870867
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "181,800.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.4928259513412352,
+        0.25161290322580643,
+        0.5059263880224579
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Sample Augment"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.4928259513412352,
+        0.8991935483870968,
+        0.5059263880224579
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "107,100.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.5127885215221459,
+        0.25161290322580643,
+        0.5265127885215222
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Ad & lmagery Tracking"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.5127885215221459,
+        0.8991935483870968,
+        0.5265127885215222
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "81,000.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.5346225826575172,
+        0.25161290322580643,
+        0.5508421709295072
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Weekly Splines"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.5346225826575172,
+        0.8991935483870968,
+        0.5508421709295072
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "1.800.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.35019522171609185,
+        0.41427814285296233,
+        0.4112931114623036,
+        0.42579786875780656
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.811409779678349,
+        0.4131261702624779,
+        0.8991935483870968,
+        0.42545227698066124
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Extended Price"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 777,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tslj0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11612903225806452,
+          0.412975670617592,
+          0.8991935483870968,
+          0.8384279475982532
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11612903225806452,
+            "right": 0.25161290322580643
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8217741935483871,
+            "right": 0.8991935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42545227698066124,
+            "row_type": "header",
+            "top": 0.412975670617592
+          },
+          {
+            "bottom": 0.4410480349344978,
+            "row_type": "gap-with-text",
+            "top": 0.42545227698066124
+          },
+          {
+            "bottom": 0.4510293200249532,
+            "row_type": "gap",
+            "top": 0.4410480349344978
+          },
+          {
+            "bottom": 0.4622582657517155,
+            "row_type": "gap-with-text",
+            "top": 0.4510293200249532
+          },
+          {
+            "bottom": 0.47161572052401746,
+            "row_type": "gap",
+            "top": 0.4622582657517155
+          },
+          {
+            "bottom": 0.4840923268870867,
+            "row_type": "data",
+            "top": 0.47161572052401746
+          },
+          {
+            "bottom": 0.4928259513412352,
+            "row_type": "gap",
+            "top": 0.4840923268870867
+          },
+          {
+            "bottom": 0.5059263880224579,
+            "row_type": "data",
+            "top": 0.4928259513412352
+          },
+          {
+            "bottom": 0.5127885215221459,
+            "row_type": "gap",
+            "top": 0.5059263880224579
+          },
+          {
+            "bottom": 0.5265127885215222,
+            "row_type": "data",
+            "top": 0.5127885215221459
+          },
+          {
+            "bottom": 0.5346225826575172,
+            "row_type": "gap",
+            "top": 0.5265127885215222
+          },
+          {
+            "bottom": 0.5508421709295072,
+            "row_type": "data",
+            "top": 0.5346225826575172
+          },
+          {
+            "bottom": 0.8209606986899564,
+            "row_type": "gap-with-text",
+            "top": 0.5508421709295072
+          },
+          {
+            "bottom": 0.8384279475982532,
+            "row_type": "footer",
+            "top": 0.8209606986899564
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

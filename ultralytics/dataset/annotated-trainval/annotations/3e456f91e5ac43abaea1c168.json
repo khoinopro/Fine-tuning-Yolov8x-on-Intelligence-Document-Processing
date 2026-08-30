@@ -1,0 +1,251 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.08272671043867161,
+        0.624314136084126,
+        0.15081715672280901,
+        0.6331661679466817
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Unwired Media"
+    },
+    {
+      "bbox": [
+        0.08272671043867161,
+        0.6341497270425211,
+        0.21127129127414596,
+        0.666115397657305
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. Box 1506\nPowell, Ohio 43065-1506\nAttn. : Bill Gavin"
+    },
+    {
+      "bbox": [
+        0.3538157769530878,
+        0.10425726415898758,
+        0.4861785136549624,
+        0.1175353119528209
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Unwired Media"
+    },
+    {
+      "bbox": [
+        0.30290703206775144,
+        0.12146954833617891,
+        0.5440872109620325,
+        0.14605852573216654
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Bill Johnson 6th Congressional Dist\nCadiz, OH"
+    },
+    {
+      "bbox": [
+        0.7207203079178885,
+        0.3168125625519798,
+        0.7292060258290096,
+        0.3259892022948647
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7207203079178885,
+        0.2967113516866128,
+        0.7642803265283103,
+        0.30545100858459845
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$616.00"
+    },
+    {
+      "bbox": [
+        0.7201545933904804,
+        0.3163755797070805,
+        0.7648460410557184,
+        0.3259892022948647
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$445.06"
+    },
+    {
+      "bbox": [
+        0.7201545933904804,
+        0.3163755797070805,
+        0.7642803265283103,
+        0.3255522194499655
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$445.06"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.29354838709677417,
+        0.21806853582554517,
+        0.3217741935483871,
+        0.22866043613707165
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$8.80"
+    },
+    {
+      "bbox": [
+        0.35080645161290325,
+        0.21806853582554517,
+        0.36532258064516127,
+        0.22866043613707165
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "70"
+    },
+    {
+      "bbox": [
+        0.7266129032258064,
+        0.21806853582554517,
+        0.7677419354838709,
+        0.22866043613707165
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$616.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.29824039711992895,
+        0.20896197050741674,
+        0.3203008532369081,
+        0.2165009906198412
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.3444825070574428,
+        0.20830640354111896,
+        0.37078535858153333,
+        0.21781212455243676
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Spots"
+    },
+    {
+      "bbox": [
+        0.6410259460145272,
+        0.20830640354111896,
+        0.7360556031338219,
+        0.2168287741029901
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total $ Amount /Wk"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 276,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "3d17798c-8d67-421e-9fc5-83e909129640",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07903225806451611,
+          0.1956386292834891,
+          0.7677419354838709,
+          0.2866043613707165
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.0943548387096774,
+            "right": 0.12661290322580643
+          },
+          {
+            "column_type": "",
+            "left": 0.16209677419354837,
+            "right": 0.21774193548387097
+          },
+          {
+            "column_type": "",
+            "left": 0.24919354838709679,
+            "right": 0.2669354838709677
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.29354838709677417,
+            "right": 0.3217741935483871
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.35080645161290325,
+            "right": 0.36532258064516127
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7266129032258064,
+            "right": 0.7677419354838709
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.20685358255451713,
+            "row_type": "gap-with-text",
+            "top": 0.1956386292834891
+          },
+          {
+            "bottom": 0.21806853582554517,
+            "row_type": "header",
+            "top": 0.20685358255451713
+          },
+          {
+            "bottom": 0.22866043613707165,
+            "row_type": "data",
+            "top": 0.21806853582554517
+          },
+          {
+            "bottom": 0.2866043613707165,
+            "row_type": "gap",
+            "top": 0.22866043613707165
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

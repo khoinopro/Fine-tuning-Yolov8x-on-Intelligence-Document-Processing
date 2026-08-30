@@ -1,0 +1,300 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7977558458937879,
+        0.05963953017415958,
+        0.8702132342583463,
+        0.0732870199165302
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "45082A"
+    },
+    {
+      "bbox": [
+        0.6332775743062403,
+        0.24087819395284132,
+        0.747035674038597,
+        0.2517961857467378
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/18/1999"
+    },
+    {
+      "bbox": [
+        0.21302472179180165,
+        0.14097856903868844,
+        0.384748732215805,
+        0.15517195837075387
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "DUKE UNIVERSITY"
+    },
+    {
+      "bbox": [
+        0.21302472179180165,
+        0.1424797929103492,
+        0.49778225806451615,
+        0.21017134203250745
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DUKE UNIVERSITY\nCAROL WESTROM\n110 SWIFT AVENUE, SUITE 2\nDURHAM, NC 27705"
+    },
+    {
+      "bbox": [
+        0.7781923510353571,
+        0.07290400972053462,
+        0.8368828356106494,
+        0.08788983394086675
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "12039"
+    },
+    {
+      "bbox": [
+        0.8520988871672066,
+        0.8385700072199623,
+        0.9122385195097901,
+        0.8529769137302552
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "35.70"
+    },
+    {
+      "bbox": [
+        0.8629674954218904,
+        0.8669567858840932,
+        0.9115139456261446,
+        0.8773288780882949
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "2.30"
+    },
+    {
+      "bbox": [
+        0.8463022960980419,
+        0.89261406659975,
+        0.9136876672770814,
+        0.9076549210206561
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$38.00"
+    },
+    {
+      "bbox": [
+        0.8435483870967742,
+        0.8937058657791396,
+        0.9122385195097901,
+        0.9076549210206561
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$38.00"
+    },
+    {
+      "bbox": [
+        0.8513743132835612,
+        0.8402077059890468,
+        0.9115139456261446,
+        0.8529769137302552
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "35.70"
+    },
+    {
+      "bbox": [
+        0.8651412170728272,
+        0.8669567858840932,
+        0.9100647978588533,
+        0.8778747776779897
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "2.30"
+    },
+    {
+      "bbox": [
+        0.8435483870967742,
+        0.8919999295613432,
+        0.9129630933934357,
+        0.9076549210206561
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$38.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03870967741935484,
+        0.3335358444714459,
+        0.2314516129032258,
+        0.35479951397326853
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "FLIPCHART PACKAGE"
+    },
+    {
+      "bbox": [
+        0.4967741935483871,
+        0.3335358444714459,
+        0.5185483870967742,
+        0.35479951397326853
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7548387096774194,
+        0.3335358444714459,
+        0.817741935483871,
+        0.35479951397326853
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "30.00"
+    },
+    {
+      "bbox": [
+        0.8540322580645161,
+        0.3335358444714459,
+        0.9185483870967742,
+        0.35479951397326853
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "30.00"
+    },
+    {
+      "bbox": [
+        0.4767696154387942,
+        0.30959330480567737,
+        0.5354601000140865,
+        0.3210571961892687
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/18"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.03870967741935484,
+        0.28120652614154645,
+        0.13332159459078743,
+        0.29404617253948967
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Location"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1039,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nzym0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03870967741935484,
+          0.2776427703523694,
+          0.9185483870967742,
+          0.9173754556500607
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.03870967741935484,
+            "right": 0.2314516129032258
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.4967741935483871,
+            "right": 0.5185483870967742
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7548387096774194,
+            "right": 0.817741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8540322580645161,
+            "right": 0.9185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.29404617253948967,
+            "row_type": "header",
+            "top": 0.2776427703523694
+          },
+          {
+            "bottom": 0.3086269744835966,
+            "row_type": "gap",
+            "top": 0.29404617253948967
+          },
+          {
+            "bottom": 0.32320777642770354,
+            "row_type": "down-merge",
+            "top": 0.3086269744835966
+          },
+          {
+            "bottom": 0.3335358444714459,
+            "row_type": "gap",
+            "top": 0.32320777642770354
+          },
+          {
+            "bottom": 0.35479951397326853,
+            "row_type": "data",
+            "top": 0.3335358444714459
+          },
+          {
+            "bottom": 0.75273390036452,
+            "row_type": "gap",
+            "top": 0.35479951397326853
+          },
+          {
+            "bottom": 0.9173754556500607,
+            "row_type": "footer",
+            "top": 0.75273390036452
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

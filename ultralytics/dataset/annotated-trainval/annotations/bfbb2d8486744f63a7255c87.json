@@ -1,0 +1,341 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.24822705354173596,
+        0.2500634098270679,
+        0.3145576987030263,
+        0.26243768165356196
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0125398"
+    },
+    {
+      "bbox": [
+        0.6532258064516129,
+        0.15313161385286425,
+        0.704335716661124,
+        0.16756826431710733
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/4/99"
+    },
+    {
+      "bbox": [
+        0.13676421682740272,
+        0.039700788776668515,
+        0.3172929830395743,
+        0.0685740897051547
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "640 N. LaSalle Suite 350\nChicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.6557844196873961,
+        0.17220861625204265,
+        0.7077548220818091,
+        0.187160861375723
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "Camel"
+    },
+    {
+      "bbox": [
+        0.1859993348852677,
+        0.1428197206641192,
+        0.37661290322580643,
+        0.15683890577507598
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Atlanta Creative Loafing"
+    },
+    {
+      "bbox": [
+        0.7152768540073163,
+        0.5965430209689022,
+        0.7946000997672098,
+        0.6120108607520198
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "4,212.70"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.30151975683890575,
+        0.3040322580645161,
+        0.3148936170212766
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3/20/99"
+    },
+    {
+      "bbox": [
+        0.48629032258064514,
+        0.30151975683890575,
+        0.6435483870967742,
+        0.3148936170212766
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "B & W + Spot Color"
+    },
+    {
+      "bbox": [
+        0.7314516129032258,
+        0.30151975683890575,
+        0.7911290322580645,
+        0.3148936170212766
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3,467.25"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.33799392097264436,
+        0.3040322580645161,
+        0.3556231003039514
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "3/20/99"
+    },
+    {
+      "bbox": [
+        0.48629032258064514,
+        0.33799392097264436,
+        0.6435483870967742,
+        0.3556231003039514
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Dottie's"
+    },
+    {
+      "bbox": [
+        0.7314516129032258,
+        0.33799392097264436,
+        0.7911290322580645,
+        0.3556231003039514
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "745.45"
+    },
+    {
+      "bbox": [
+        0.25161290322580643,
+        0.3556231003039514,
+        0.3040322580645161,
+        0.37142857142857144
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "3/20/99"
+    },
+    {
+      "bbox": [
+        0.48629032258064514,
+        0.3556231003039514,
+        0.6435483870967742,
+        0.37142857142857144
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Metropolitan Pizza Bar *"
+    },
+    {
+      "bbox": [
+        0.7314516129032258,
+        0.3556231003039514,
+        0.7911290322580645,
+        0.37142857142857144
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.253013801130695,
+        0.2796352583586626,
+        0.3040322580645161,
+        0.29595133451698347
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Issue"
+    },
+    {
+      "bbox": [
+        0.4882482540738277,
+        0.2796352583586626,
+        0.5627847522447622,
+        0.2954357398575462
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Ad Info"
+    },
+    {
+      "bbox": [
+        0.7419458762886598,
+        0.27945230541499133,
+        0.7925486365147988,
+        0.2944045505386717
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1059,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ffxb0089",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0717741935483871,
+          0.2796352583586626,
+          0.9653225806451613,
+          0.6164133738601824
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.0717741935483871,
+            "right": 0.23225806451612904
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.25161290322580643,
+            "right": 0.3040322580645161
+          },
+          {
+            "column_type": "",
+            "left": 0.3532258064516129,
+            "right": 0.42096774193548386
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.48629032258064514,
+            "right": 0.6435483870967742
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7314516129032258,
+            "right": 0.7911290322580645
+          },
+          {
+            "column_type": "",
+            "left": 0.8362903225806452,
+            "right": 0.9653225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2936170212765957,
+            "row_type": "header",
+            "top": 0.2796352583586626
+          },
+          {
+            "bottom": 0.30151975683890575,
+            "row_type": "gap",
+            "top": 0.2936170212765957
+          },
+          {
+            "bottom": 0.3148936170212766,
+            "row_type": "data",
+            "top": 0.30151975683890575
+          },
+          {
+            "bottom": 0.33799392097264436,
+            "row_type": "gap",
+            "top": 0.3148936170212766
+          },
+          {
+            "bottom": 0.3556231003039514,
+            "row_type": "data",
+            "top": 0.33799392097264436
+          },
+          {
+            "bottom": 0.37142857142857144,
+            "row_type": "data",
+            "top": 0.3556231003039514
+          },
+          {
+            "bottom": 0.4066869300911854,
+            "row_type": "up-merge",
+            "top": 0.37142857142857144
+          },
+          {
+            "bottom": 0.4316109422492401,
+            "row_type": "gap",
+            "top": 0.4066869300911854
+          },
+          {
+            "bottom": 0.4838905775075988,
+            "row_type": "gap-with-text",
+            "top": 0.4316109422492401
+          },
+          {
+            "bottom": 0.548936170212766,
+            "row_type": "gap",
+            "top": 0.4838905775075988
+          },
+          {
+            "bottom": 0.5975683890577508,
+            "row_type": "gap-with-text",
+            "top": 0.548936170212766
+          },
+          {
+            "bottom": 0.6164133738601824,
+            "row_type": "footer",
+            "top": 0.5975683890577508
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

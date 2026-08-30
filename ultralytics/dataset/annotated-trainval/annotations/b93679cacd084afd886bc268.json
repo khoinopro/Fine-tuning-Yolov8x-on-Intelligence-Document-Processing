@@ -1,0 +1,156 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.747527104805247,
+        0.4292007551919446,
+        0.7937658947932005,
+        0.44414391494717675
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3512"
+    },
+    {
+      "bbox": [
+        0.6000033462722527,
+        0.22912844958022574,
+        0.7420224869495382,
+        0.24656213596132986
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 18, 2000"
+    },
+    {
+      "bbox": [
+        0.3903962325913582,
+        0.10979452589911197,
+        0.5507156886084991,
+        0.12317285048345754
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL"
+    },
+    {
+      "bbox": [
+        0.37999382513986435,
+        0.11023160735965558,
+        0.561730002380669,
+        0.15039082118953992
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL\n236 East 36th Street\nNew York, New York 10016"
+    },
+    {
+      "bbox": [
+        0.09056213546006428,
+        0.34645247458081124,
+        0.19948146054041185,
+        0.37828366066080593
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc."
+    },
+    {
+      "bbox": [
+        0.08995022913938816,
+        0.3458764260800789,
+        0.2759697506249256,
+        0.4114988113529743
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc.\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.7409215633783964,
+        0.5470856821498868,
+        0.7541326462320974,
+        0.5645193685309909
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08951612903225807,
+        0.5483282674772036,
+        0.5153225806451613,
+        0.5671732522796352
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Maverick Ultra 100's Product Test (N=1058 Callbacks)"
+    },
+    {
+      "bbox": [
+        0.7411290322580645,
+        0.5483282674772036,
+        0.8120967741935484,
+        0.5671732522796352
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$375.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 497,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ykkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08951612903225807,
+          0.5483282674772036,
+          0.8120967741935484,
+          0.5671732522796352
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08951612903225807,
+            "right": 0.5153225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7411290322580645,
+            "right": 0.8120967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5671732522796352,
+            "row_type": "data",
+            "top": 0.5483282674772036
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

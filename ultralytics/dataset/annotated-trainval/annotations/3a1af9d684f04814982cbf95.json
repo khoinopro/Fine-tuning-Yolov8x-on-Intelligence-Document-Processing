@@ -1,0 +1,242 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.27758168306110076,
+        0.39362146394224695,
+        0.33449906834801657,
+        0.40550271530630183
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "100118"
+    },
+    {
+      "bbox": [
+        0.16287126040593206,
+        0.3256343033590436,
+        0.29772168093185564,
+        0.3414759718444501
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 26, 1999"
+    },
+    {
+      "bbox": [
+        0.3020999413385414,
+        0.5896621114491537,
+        0.4518364472471968,
+        0.6041836408941097
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "November 15, 1999"
+    },
+    {
+      "bbox": [
+        0.2758303788984265,
+        0.408142993387203,
+        0.31611037463993613,
+        0.4233245923523843
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "TBD"
+    },
+    {
+      "bbox": [
+        0.1619956083245949,
+        0.622812274052406,
+        0.3406286329173768,
+        0.6386539425378126
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Tip Nunn's Events, Inc."
+    },
+    {
+      "bbox": [
+        0.16021894966495245,
+        0.6195491941615603,
+        0.5062918809412499,
+        0.6732626816688915
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Tip Nunn's Events, Inc. (Tax ID 84-1060640)\n2801 Youngfield, Suite 210\nGolden, Colorado 80401"
+    },
+    {
+      "bbox": [
+        0.40483870967741936,
+        0.624865825909076,
+        0.5,
+        0.636747077273131
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "84-1060640"
+    },
+    {
+      "bbox": [
+        0.27758168306110076,
+        0.36039796811486186,
+        0.421188624400396,
+        0.37359935851936743
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.7224129403803811,
+        0.5577587546622192,
+        0.7320451132750899,
+        0.5709601450667248
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7193548387096774,
+        0.557098685141994,
+        0.806475540188749,
+        0.572644376899696
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$40,000.00"
+    },
+    {
+      "bbox": [
+        0.7232885924617182,
+        0.557098685141994,
+        0.806475540188749,
+        0.57162021458695
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$40,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16370967741935483,
+        0.4723404255319149,
+        0.175,
+        0.4899696048632219
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "I."
+    },
+    {
+      "bbox": [
+        0.21774193548387097,
+        0.4723404255319149,
+        0.3540322580645161,
+        0.4899696048632219
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Professional Fees"
+    },
+    {
+      "bbox": [
+        0.7193548387096774,
+        0.4723404255319149,
+        0.8064516129032258,
+        0.4899696048632219
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$40,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 621,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nnkv0076",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.16370967741935483,
+          0.45714285714285713,
+          0.8387096774193549,
+          0.5781155015197569
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.16370967741935483,
+            "right": 0.175
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.21774193548387097,
+            "right": 0.3540322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7193548387096774,
+            "right": 0.8064516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4723404255319149,
+            "row_type": "gap",
+            "top": 0.45714285714285713
+          },
+          {
+            "bottom": 0.4899696048632219,
+            "row_type": "data",
+            "top": 0.4723404255319149
+          },
+          {
+            "bottom": 0.5051671732522797,
+            "row_type": "gap",
+            "top": 0.4899696048632219
+          },
+          {
+            "bottom": 0.5240121580547112,
+            "row_type": "gap-with-text",
+            "top": 0.5051671732522797
+          },
+          {
+            "bottom": 0.5544072948328268,
+            "row_type": "gap",
+            "top": 0.5240121580547112
+          },
+          {
+            "bottom": 0.5781155015197569,
+            "row_type": "footer",
+            "top": 0.5544072948328268
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

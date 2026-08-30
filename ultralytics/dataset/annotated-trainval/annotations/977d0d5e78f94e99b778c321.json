@@ -1,0 +1,310 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8355000998701686,
+        0.18301343737752718,
+        0.8785516328772595,
+        0.19384721379733846
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "10-1005"
+    },
+    {
+      "bbox": [
+        0.7248676720263656,
+        0.1822395962046835,
+        0.7849395785478877,
+        0.19307337262449484
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/17/2010"
+    },
+    {
+      "bbox": [
+        0.08510186757215618,
+        0.8887565870109511,
+        0.17020373514431236,
+        0.9015249663628716
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Pendar Corp"
+    },
+    {
+      "bbox": [
+        0.08560246679316888,
+        0.889397573098717,
+        0.39497278537900726,
+        0.912620738238322
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Pendar Corn\n10807 Wellhrorth Avenue Los Angeles, CA 90024"
+    },
+    {
+      "bbox": [
+        0.13766478577848795,
+        0.25614142821125363,
+        0.30436432637571154,
+        0.27858282222372
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Nutter McClennen & Fish L.L.P\nDavid L Ferrera"
+    },
+    {
+      "bbox": [
+        0.13866598422051332,
+        0.2553977573166946,
+        0.307140785725252,
+        0.31301875441526317
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Nutter McClennen & Fish LLP\nDavid L Ferrera\nWorld Trsde Center West\n155 Seaport Blvd.\nBoston, MA 02210-2804"
+    },
+    {
+      "bbox": [
+        0.8445698197215068,
+        0.8517492947996744,
+        0.8533218385787245,
+        0.8645999328589445
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.846012683511435,
+        0.8527729724737205,
+        0.8890642165185259,
+        0.8643805900663756
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$900.00"
+    },
+    {
+      "bbox": [
+        0.8455120842904225,
+        0.8531598930601424,
+        0.8895648157395385,
+        0.8636067488935318
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$900.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.20806451612903226,
+        0.4463840399002494,
+        0.27419354838709675,
+        0.47194513715710723
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/28/2010"
+    },
+    {
+      "bbox": [
+        0.31451612903225806,
+        0.4463840399002494,
+        0.5161290322580645,
+        0.47194513715710723
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Consulting Services: Metal-on-Metal\nIssues by Patricia A. Campbell, Ph.D."
+    },
+    {
+      "bbox": [
+        0.6846774193548387,
+        0.4463840399002494,
+        0.6951612903225807,
+        0.47194513715710723
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3"
+    },
+    {
+      "bbox": [
+        0.7588709677419355,
+        0.4463840399002494,
+        0.8008064516129032,
+        0.47194513715710723
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "300.00"
+    },
+    {
+      "bbox": [
+        0.8540322580645161,
+        0.4463840399002494,
+        0.8911290322580645,
+        0.47194513715710723
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "900.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.21442446200183335,
+        0.42925639425753986,
+        0.30632066000261904,
+        0.4427833816883504
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date of Sevice"
+    },
+    {
+      "bbox": [
+        0.4192217032607272,
+        0.42925639425753986,
+        0.4892378541184687,
+        0.44210703231680987
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.62839495394823,
+        0.4285800448859994,
+        0.6669038369199877,
+        0.4427833816883504
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hours"
+    },
+    {
+      "bbox": [
+        0.7264175651490681,
+        0.43128544237216143,
+        0.7719280632066,
+        0.44210703231680987
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate/Hr"
+    },
+    {
+      "bbox": [
+        0.8279409838927931,
+        0.4306090930006209,
+        0.8769522894932122,
+        0.4441360804314315
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 599,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "njgn0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.20806451612903226,
+          0.42643391521197005,
+          0.9008064516129032,
+          0.8796758104738155
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.20806451612903226,
+            "right": 0.27419354838709675
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.31451612903225806,
+            "right": 0.5161290322580645
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6846774193548387,
+            "right": 0.6951612903225807
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7588709677419355,
+            "right": 0.8008064516129032
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8540322580645161,
+            "right": 0.8911290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4463840399002494,
+            "row_type": "header",
+            "top": 0.42643391521197005
+          },
+          {
+            "bottom": 0.47194513715710723,
+            "row_type": "data",
+            "top": 0.4463840399002494
+          },
+          {
+            "bottom": 0.7443890274314214,
+            "row_type": "gap",
+            "top": 0.47194513715710723
+          },
+          {
+            "bottom": 0.8366583541147132,
+            "row_type": "gap-with-text",
+            "top": 0.7443890274314214
+          },
+          {
+            "bottom": 0.8796758104738155,
+            "row_type": "footer",
+            "top": 0.8366583541147132
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

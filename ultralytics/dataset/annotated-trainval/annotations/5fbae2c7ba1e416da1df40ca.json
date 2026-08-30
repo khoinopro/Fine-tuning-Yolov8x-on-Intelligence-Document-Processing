@@ -1,0 +1,235 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4648625815269687,
+        0.22199973558755787,
+        0.6881016871806295,
+        0.23564217758467534
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "001070 - 08955 - 001 LEG"
+    },
+    {
+      "bbox": [
+        0.39570223114799147,
+        0.16432941259974304,
+        0.5734180681977684,
+        0.17735174359699155
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 22, 1999"
+    },
+    {
+      "bbox": [
+        0.19522475979627257,
+        0.06945242961978963,
+        0.73187406083821,
+        0.08557531561638303
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KATZ, KUTTER, HAIGLER, ALDERMAN, BRYANT & YON"
+    },
+    {
+      "bbox": [
+        0.33792269791998514,
+        0.1153406436100939,
+        0.5883006752413459,
+        0.138904861605115
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "POST OFFICE BOX 1877\nTALLAHASSEE, FLORIDA 32302-1877"
+    },
+    {
+      "bbox": [
+        0.47580645161290325,
+        0.1550277476017084,
+        0.554158223788433,
+        0.1644774414620217
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "59-2852956"
+    },
+    {
+      "bbox": [
+        0.043772346941043885,
+        0.2505248415815308,
+        0.3615597796950787,
+        0.26416728357864827
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R. J. Reynolds Nabisco, Inc."
+    },
+    {
+      "bbox": [
+        0.04552324188734711,
+        0.2494742795950067,
+        0.3612340585146287,
+        0.3075750535694766
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R. J. Reynolds Nabisco, Inc.\nc/o Joe Murray\n401 North Main Street\nWinston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.8272978354117356,
+        0.5545859438575833,
+        0.8833264736934388,
+        0.5669881638549629
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "20.00"
+    },
+    {
+      "bbox": [
+        0.8246714929922808,
+        0.5539658328577144,
+        0.8842019211665904,
+        0.5676082748548318
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "20.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04758064516129032,
+        0.4214734437464306,
+        0.13870967741935483,
+        0.4380354083380925
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "12/30/98"
+    },
+    {
+      "bbox": [
+        0.2056451612903226,
+        0.4214734437464306,
+        0.6669354838709678,
+        0.4380354083380925
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Payment for Lobbyist Registration for JLW"
+    },
+    {
+      "bbox": [
+        0.8241935483870968,
+        0.4214734437464306,
+        0.8887096774193548,
+        0.4380354083380925
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "20.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 361,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nmcc0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1657,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04758064516129032,
+          0.39520274129069105,
+          0.8887096774193548,
+          0.5693889206167904
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.04758064516129032,
+            "right": 0.13870967741935483
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2056451612903226,
+            "right": 0.6669354838709678
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8241935483870968,
+            "right": 0.8887096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4077669902912621,
+            "row_type": "subsection-header",
+            "top": 0.39520274129069105
+          },
+          {
+            "bottom": 0.4214734437464306,
+            "row_type": "gap",
+            "top": 0.4077669902912621
+          },
+          {
+            "bottom": 0.4380354083380925,
+            "row_type": "data",
+            "top": 0.4214734437464306
+          },
+          {
+            "bottom": 0.4591661907481439,
+            "row_type": "gap",
+            "top": 0.4380354083380925
+          },
+          {
+            "bottom": 0.48201027984009137,
+            "row_type": "gap-with-text",
+            "top": 0.4591661907481439
+          },
+          {
+            "bottom": 0.4945745288406625,
+            "row_type": "gap",
+            "top": 0.48201027984009137
+          },
+          {
+            "bottom": 0.5088520845231297,
+            "row_type": "subsection-header",
+            "top": 0.4945745288406625
+          },
+          {
+            "bottom": 0.5231296402055968,
+            "row_type": "gap",
+            "top": 0.5088520845231297
+          },
+          {
+            "bottom": 0.5693889206167904,
+            "row_type": "footer",
+            "top": 0.5231296402055968
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

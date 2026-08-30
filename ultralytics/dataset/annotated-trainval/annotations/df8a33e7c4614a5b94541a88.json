@@ -1,0 +1,240 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7429364050425614,
+        0.25595041124957785,
+        0.7859794271677385,
+        0.2680883291088285
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "03921"
+    },
+    {
+      "bbox": [
+        0.7449885706487436,
+        0.2698554571164428,
+        0.8359154569181693,
+        0.2834227700243236
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 31, 1999"
+    },
+    {
+      "bbox": [
+        0.6983870967741935,
+        0.6134663341645885,
+        0.7750345439347673,
+        0.628428927680798
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "09/30/1999"
+    },
+    {
+      "bbox": [
+        0.2948277920881595,
+        0.8756494536572387,
+        0.5458760512444345,
+        0.8883400254493725
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "820 North Orleans Suite 402 Chicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.09858156633288413,
+        0.2564791850742501,
+        0.3878592995684141,
+        0.2680883291088285
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA BENSON & HEDGES"
+    },
+    {
+      "bbox": [
+        0.10055611470292215,
+        0.2553082872528823,
+        0.3898762085479353,
+        0.29664211564112974
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA BENSON & HEDGES\n120 PARK AVENUE\nNEW YORK, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.8277067944934409,
+        0.8428654765275594,
+        0.8386516777264121,
+        0.8544985006703488
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.5434515626119379,
+        0.903636921922178,
+        0.5567988373798746
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$22,604.40"
+    },
+    {
+      "bbox": [
+        0.8266129032258065,
+        0.8421354275051086,
+        0.901584756315996,
+        0.8560848221443655
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$22,604.40"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10887096774193548,
+        0.37718204488778057,
+        0.4306451612903226,
+        0.40648379052369077
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SUPPLEMENTS NEWSPAPER ADVERTISING\nBET WEEKEND"
+    },
+    {
+      "bbox": [
+        0.8330645161290322,
+        0.37718204488778057,
+        0.9088709677419354,
+        0.40648379052369077
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "21,896.00"
+    },
+    {
+      "bbox": [
+        0.12247040751784587,
+        0.362305287505873,
+        0.24131743019788562,
+        0.37364921030756443
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "A9007-4NBH0801"
+    },
+    {
+      "bbox": [
+        0.12247040751784592,
+        0.40726083342368696,
+        0.2369693683925183,
+        0.4218258701073402
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "AUGUST 1, 1999"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8435239902412579,
+        0.30610972568578554,
+        0.894251377970543,
+        0.3342956015757707
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Current\nBilling"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 435,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lffj0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10887096774193548,
+          0.30610972568578554,
+          0.9088709677419354,
+          0.5592269326683291
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10887096774193548,
+            "right": 0.4306451612903226
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8330645161290322,
+            "right": 0.9088709677419354
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3403990024937656,
+            "row_type": "header",
+            "top": 0.30610972568578554
+          },
+          {
+            "bottom": 0.37718204488778057,
+            "row_type": "down-merge",
+            "top": 0.3403990024937656
+          },
+          {
+            "bottom": 0.40648379052369077,
+            "row_type": "data",
+            "top": 0.37718204488778057
+          },
+          {
+            "bottom": 0.4239401496259352,
+            "row_type": "up-merge",
+            "top": 0.40648379052369077
+          },
+          {
+            "bottom": 0.45698254364089774,
+            "row_type": "gap",
+            "top": 0.4239401496259352
+          },
+          {
+            "bottom": 0.5592269326683291,
+            "row_type": "footer",
+            "top": 0.45698254364089774
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

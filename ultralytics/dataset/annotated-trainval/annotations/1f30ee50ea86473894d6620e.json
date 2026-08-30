@@ -1,0 +1,335 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6620967741935484,
+        0.15865864184481426,
+        0.7429768953659619,
+        0.17028736667073507
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "PR12-018798"
+    },
+    {
+      "bbox": [
+        0.16451612903225807,
+        0.15948926504666577,
+        0.22280622769904512,
+        0.17028736667073507
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "DEC11/01"
+    },
+    {
+      "bbox": [
+        0.1647792209473572,
+        0.17065287653522948,
+        0.22280622769904512,
+        0.18108546829480437
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "DEC31/01"
+    },
+    {
+      "bbox": [
+        0.1658154174964945,
+        0.21264914996516085,
+        0.20104610016716215,
+        0.22261662838737867
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "P7021"
+    },
+    {
+      "bbox": [
+        0.3554393859886175,
+        0.1279896574014221,
+        0.5201946373014458,
+        0.1503524098262994
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "40 WEST 23RD STREET\nNEW YORK, NY 10010-5201"
+    },
+    {
+      "bbox": [
+        0.5150136545557593,
+        0.5723397917575509,
+        0.6694069403772147,
+        0.5831378933816203
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC."
+    },
+    {
+      "bbox": [
+        0.5150136545557593,
+        0.5742970133746467,
+        0.6723802788847236,
+        0.6050420168067226
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC.\nP.O. BOX 198261\nATLANTA, GA 30384-8261"
+    },
+    {
+      "bbox": [
+        0.1647792209473572,
+        0.19105294671702222,
+        0.18757554502837748,
+        0.20102042513924004
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LRL"
+    },
+    {
+      "bbox": [
+        0.5314255533612374,
+        0.19161429628203924,
+        0.7467741935483871,
+        0.20168067226890757
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.528484209694544,
+        0.19021052852409406,
+        0.744170884430847,
+        0.24172096202996288
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPAANY INC.\nYOUTH SMOKING PREVENTION PRGM.\n714 GREEN VALLEY RD, BOX 10529\nGREENSBORO NC 27404\nATTN: JORDAN BRESSLER"
+    },
+    {
+      "bbox": [
+        0.20726327946198586,
+        0.19022232351517074,
+        0.4196835720351292,
+        0.20102042513924004
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.6808051024177249,
+        0.34471823905954707,
+        0.7409045022676873,
+        0.3563469638854679
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2,151.69"
+    },
+    {
+      "bbox": [
+        0.46048387096774196,
+        0.36631444230768573,
+        0.5243394234979949,
+        0.37711254393175503
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2,151.69"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.2837750484809308,
+        0.25725806451612904,
+        0.29476405946994183
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Non-Comissionable Charges"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.2837750484809308,
+        0.7443548387096774,
+        0.29476405946994183
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2,151.69"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.3031674208144796,
+        0.25725806451612904,
+        0.3148028442146089
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Commissionable Charges"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.3031674208144796,
+        0.7443548387096774,
+        0.3148028442146089
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.32320620555914675,
+        0.25725806451612904,
+        0.3367808661926309
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Agency Commission"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.32320620555914675,
+        0.7443548387096774,
+        0.3367808661926309
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.26057919553878617,
+        0.23627678283782982,
+        0.27472527472527475
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "This is a Progress Bill"
+    },
+    {
+      "bbox": [
+        0.6600811714349791,
+        0.2589179491350832,
+        0.7443548387096774,
+        0.27472527472527475
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Invoice Amt"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 830,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gkbd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07258064516129033,
+          0.259857789269554,
+          0.7443548387096774,
+          0.36005171299288946
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07258064516129033,
+            "right": 0.25725806451612904
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.682258064516129,
+            "right": 0.7443548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.27472527472527475,
+            "row_type": "header",
+            "top": 0.259857789269554
+          },
+          {
+            "bottom": 0.2837750484809308,
+            "row_type": "gap",
+            "top": 0.27472527472527475
+          },
+          {
+            "bottom": 0.29476405946994183,
+            "row_type": "data",
+            "top": 0.2837750484809308
+          },
+          {
+            "bottom": 0.3031674208144796,
+            "row_type": "gap",
+            "top": 0.29476405946994183
+          },
+          {
+            "bottom": 0.3148028442146089,
+            "row_type": "data",
+            "top": 0.3031674208144796
+          },
+          {
+            "bottom": 0.32320620555914675,
+            "row_type": "gap",
+            "top": 0.3148028442146089
+          },
+          {
+            "bottom": 0.3367808661926309,
+            "row_type": "data",
+            "top": 0.32320620555914675
+          },
+          {
+            "bottom": 0.34195216548157725,
+            "row_type": "gap",
+            "top": 0.3367808661926309
+          },
+          {
+            "bottom": 0.36005171299288946,
+            "row_type": "footer",
+            "top": 0.34195216548157725
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

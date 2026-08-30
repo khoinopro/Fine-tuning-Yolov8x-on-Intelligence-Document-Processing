@@ -1,0 +1,351 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6964540099993152,
+        0.05947751605995717,
+        0.7420313677145401,
+        0.0764710920770878
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "000207"
+    },
+    {
+      "bbox": [
+        0.6956544072323814,
+        0.03929764453961456,
+        0.7572238202862818,
+        0.05947751605995717
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "7/7/2000"
+    },
+    {
+      "bbox": [
+        0.8411821108143277,
+        0.3770449678800857,
+        0.889158276830354,
+        0.39510064239828696
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "000218"
+    },
+    {
+      "bbox": [
+        0.18390863639476748,
+        0.3749207708779443,
+        0.2598708992534758,
+        0.3929764453961456
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "FILM SHOOT"
+    },
+    {
+      "bbox": [
+        0.21029552770358192,
+        0.045670235546038544,
+        0.37021608109033627,
+        0.06691220556745182
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "RACING EXPERIENCE, INC."
+    },
+    {
+      "bbox": [
+        0.21029552770358192,
+        0.047664223393512443,
+        0.3694164783234025,
+        0.11152034261241969
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "RACING EXPERIENCE, INC.\n10 VANGUARD DRIVE SUITE 30\nP.O. BOX 41 90 READING, PA 19606"
+    },
+    {
+      "bbox": [
+        0.24619880692284626,
+        0.12147751605995717,
+        0.2912123013323052,
+        0.1349036402569593
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "51-0386737"
+    },
+    {
+      "bbox": [
+        0.6982093132844964,
+        0.0982441113490364,
+        0.7508064516129033,
+        0.11284796573875804
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "BURNETT"
+    },
+    {
+      "bbox": [
+        0.06902069142783704,
+        0.24428265524625267,
+        0.17605277813477274,
+        0.2608779443254818
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LEO BURNETT CO."
+    },
+    {
+      "bbox": [
+        0.06902069142783704,
+        0.24529638755946345,
+        0.211563423724457,
+        0.2987152034261242
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LEO BURNETT CO.\n35 WEST WOCKER DRIVE\nCHICAGO, IL, 60601"
+    },
+    {
+      "bbox": [
+        0.4947733260506362,
+        0.245610278372591,
+        0.601305262819689,
+        0.2633832976445396
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "LEO BURNETT CO."
+    },
+    {
+      "bbox": [
+        0.4947733260506362,
+        0.2441338454173108,
+        0.6373160583472561,
+        0.3007066381156317
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "LEO BURNETT CO.\n35 WEST WOCKER DRIVE\nCHICAGO, IL, 60601"
+    },
+    {
+      "bbox": [
+        0.8691682076570099,
+        0.8841970021413277,
+        0.9003527155674269,
+        0.9011905781584583
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.8475789329497979,
+        0.9213704496788008,
+        0.8995531128004931,
+        0.9394261241970021
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "2200.00"
+    },
+    {
+      "bbox": [
+        0.8459797274159305,
+        0.9213704496788008,
+        0.8995531128004931,
+        0.9383640256959315
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "2200.00"
+    },
+    {
+      "bbox": [
+        0.5397318676802959,
+        0.37624839400428267,
+        0.5877080336963222,
+        0.3943040685224839
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30"
+    },
+    {
+      "bbox": [
+        0.8683686048900761,
+        0.8826038543897216,
+        0.9003527155674269,
+        0.8995974304068522
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.8483785357167316,
+        0.9208394004282655,
+        0.9011523183343607,
+        0.9378329764453962
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "2200.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.041935483870967745,
+        0.44967880085653106,
+        0.10080645161290322,
+        0.4678800856531049
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "MARLBORO"
+    },
+    {
+      "bbox": [
+        0.2056451612903226,
+        0.44967880085653106,
+        0.34596774193548385,
+        0.4678800856531049
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "RACING SCHOOL VIDEO"
+    },
+    {
+      "bbox": [
+        0.8516129032258064,
+        0.44967880085653106,
+        0.9040322580645161,
+        0.4678800856531049
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2200.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.059970207520032875,
+        0.4150149892933619,
+        0.17431340319156222,
+        0.43413276231263387
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM NO/SERIAL NO."
+    },
+    {
+      "bbox": [
+        0.28465858502842273,
+        0.41395289079229125,
+        0.36222005342099856,
+        0.43413276231263387
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8395829052804602,
+        0.4150149892933619,
+        0.92434079857544,
+        0.43413276231263387
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXTENDED PRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 705,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xfkb0062",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.041935483870967745,
+          0.4089935760171306,
+          0.9298387096774193,
+          0.9518201284796574
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.041935483870967745,
+            "right": 0.10080645161290322
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2056451612903226,
+            "right": 0.34596774193548385
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8516129032258064,
+            "right": 0.9040322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.43897216274089934,
+            "row_type": "header",
+            "top": 0.4089935760171306
+          },
+          {
+            "bottom": 0.44967880085653106,
+            "row_type": "gap",
+            "top": 0.43897216274089934
+          },
+          {
+            "bottom": 0.4678800856531049,
+            "row_type": "data",
+            "top": 0.44967880085653106
+          },
+          {
+            "bottom": 0.8051391862955032,
+            "row_type": "gap",
+            "top": 0.4678800856531049
+          },
+          {
+            "bottom": 0.9518201284796574,
+            "row_type": "footer",
+            "top": 0.8051391862955032
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

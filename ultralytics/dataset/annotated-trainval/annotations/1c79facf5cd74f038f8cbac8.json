@@ -1,0 +1,254 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8317204301075268,
+        0.15351189407679308,
+        0.9055903367289191,
+        0.1688630834844724
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DL-16469"
+    },
+    {
+      "bbox": [
+        0.8399281975099039,
+        0.1825695025984718,
+        0.9049063561120543,
+        0.19737243524159115
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "06/15/99"
+    },
+    {
+      "bbox": [
+        0.19083059210526318,
+        0.0844315417422362,
+        0.2911290322580645,
+        0.10084033613445378
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "D.L. Blair Inc."
+    },
+    {
+      "bbox": [
+        0.18998242942235802,
+        0.08282229504128967,
+        0.6723529463780419,
+        0.09978273114991551
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "D.L. Blair lnc. \u2022 1051 Franklin Avenue \u2022 Garden City, New York 11530"
+    },
+    {
+      "bbox": [
+        0.17783496038483304,
+        0.21337269653018914,
+        0.4322757498585173,
+        0.24123297640638913
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Vickl Bemer\nPHILIP MORRIS INCORPORATED"
+    },
+    {
+      "bbox": [
+        0.17783496038483304,
+        0.211968928772244,
+        0.43512108250668174,
+        0.27029058492806785
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Vicki Bemer\nPHILIP MORRIS INCORPORATED\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.8228286820882853,
+        0.5307125480940561,
+        0.8966985887096774,
+        0.5455154807371755
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "81,045.23"
+    },
+    {
+      "bbox": [
+        0.82351266270515,
+        0.5307125480940561,
+        0.8987505305602717,
+        0.5455154807371755
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "81,045.23"
+    },
+    {
+      "bbox": [
+        0.7749500389077533,
+        0.30318599080166636,
+        0.8973825693265421,
+        0.32127846403214555
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 10 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04596774193548387,
+        0.42921784098254684,
+        0.45483870967741935,
+        0.4608920491273432
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "D.L. Blair management fee @ $225.00 per event.\n(Line Item No. 1 per revised budget)"
+    },
+    {
+      "bbox": [
+        0.7838709677419354,
+        0.42921784098254684,
+        0.8,
+        0.4608920491273432
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8193548387096774,
+        0.42921784098254684,
+        0.8991935483870968,
+        0.4608920491273432
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "29,025.00"
+    },
+    {
+      "bbox": [
+        0.04596774193548387,
+        0.4718810601163542,
+        0.45483870967741935,
+        0.5171299288946348
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Ford Model Management expenses for on-site personnel\nPlease see Attachments A and B.\n(Line ltem No. 2 per revised budget)"
+    },
+    {
+      "bbox": [
+        0.8193548387096774,
+        0.4718810601163542,
+        0.8991935483870968,
+        0.5171299288946348
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "52,020.23"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 291,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hxmv0028",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04596774193548387,
+          0.367808661926309,
+          0.9137096774193548,
+          0.5468648998060762
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04596774193548387,
+            "right": 0.45483870967741935
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.7838709677419354,
+            "right": 0.8
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8193548387096774,
+            "right": 0.8991935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3988364576599871,
+            "row_type": "gap",
+            "top": 0.367808661926309
+          },
+          {
+            "bottom": 0.4169360051712993,
+            "row_type": "subsection-header",
+            "top": 0.3988364576599871
+          },
+          {
+            "bottom": 0.42921784098254684,
+            "row_type": "gap",
+            "top": 0.4169360051712993
+          },
+          {
+            "bottom": 0.4608920491273432,
+            "row_type": "data",
+            "top": 0.42921784098254684
+          },
+          {
+            "bottom": 0.4718810601163542,
+            "row_type": "gap",
+            "top": 0.4608920491273432
+          },
+          {
+            "bottom": 0.5171299288946348,
+            "row_type": "data",
+            "top": 0.4718810601163542
+          },
+          {
+            "bottom": 0.5281189398836458,
+            "row_type": "gap",
+            "top": 0.5171299288946348
+          },
+          {
+            "bottom": 0.5468648998060762,
+            "row_type": "footer",
+            "top": 0.5281189398836458
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

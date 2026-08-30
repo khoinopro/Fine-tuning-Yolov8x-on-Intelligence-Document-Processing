@@ -1,0 +1,259 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6008064516129032,
+        0.10528257916841217,
+        0.6715047836951368,
+        0.11635423400129283
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "904401"
+    },
+    {
+      "bbox": [
+        0.6058426444761215,
+        0.07439968849361873,
+        0.6855127067285266,
+        0.08773548219409773
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/17/99"
+    },
+    {
+      "bbox": [
+        0.08667399705110732,
+        0.04281491393985273,
+        0.2880378906560875,
+        0.07459371413763743
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "901 Mittel Drive\nWood Dale, Illinois 60191"
+    },
+    {
+      "bbox": [
+        0.8623627350250745,
+        0.10528257916841217,
+        0.9420327972774797,
+        0.11861837286889114
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "PMORR55"
+    },
+    {
+      "bbox": [
+        0.0726660740177174,
+        0.1930180640399844,
+        0.2679015012955895,
+        0.20705574161943596
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.0726746006890072,
+        0.19376710358830077,
+        0.4679803832246677,
+        0.2524710324658498
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\nATTENTION: ACCOUNTS PAYABLE\n120 PARK AVENUE\nNEW YORK NY 10017"
+    },
+    {
+      "bbox": [
+        0.8395998600958159,
+        0.49280047251639064,
+        0.9324023501920241,
+        0.506707596627265
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "26024.25"
+    },
+    {
+      "bbox": [
+        0.5716983320822335,
+        0.01473955878094962,
+        0.8781216484376381,
+        0.030181004118346334
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET UPON RECEIPT OF INVOICE"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.4,
+        0.4906270200387847,
+        0.49274193548387096,
+        0.5080801551389786
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "28.59808"
+    },
+    {
+      "bbox": [
+        0.8379032258064516,
+        0.4906270200387847,
+        0.9419354838709677,
+        0.5080801551389786
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "26024.25"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.4316191017483342,
+        0.3135861363652565,
+        0.49274193548387096,
+        0.34259857789269554
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT\nPRICE"
+    },
+    {
+      "bbox": [
+        0.8501058023708583,
+        0.314288020244229,
+        0.9341533405711978,
+        0.3423633754031322
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE\nTOTAL"
+    },
+    {
+      "bbox": [
+        0.027140324159200136,
+        0.3135861363652565,
+        0.06566211250102244,
+        0.3416614915241596
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "JOB\nNO."
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1145,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lhvk0022",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.012903225806451613,
+          0.30575307045895284,
+          0.9419354838709677,
+          0.5436328377504848
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.4,
+            "right": 0.49274193548387096
+          },
+          {
+            "column_type": "",
+            "left": 0.5330645161290323,
+            "right": 0.6282258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8379032258064516,
+            "right": 0.9419354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.34259857789269554,
+            "row_type": "header",
+            "top": 0.30575307045895284
+          },
+          {
+            "bottom": 0.356819650937298,
+            "row_type": "gap",
+            "top": 0.34259857789269554
+          },
+          {
+            "bottom": 0.37297996121525534,
+            "row_type": "data",
+            "top": 0.356819650937298
+          },
+          {
+            "bottom": 0.38461538461538464,
+            "row_type": "gap",
+            "top": 0.37297996121525534
+          },
+          {
+            "bottom": 0.40336134453781514,
+            "row_type": "gap-with-text",
+            "top": 0.38461538461538464
+          },
+          {
+            "bottom": 0.4175824175824176,
+            "row_type": "gap",
+            "top": 0.40336134453781514
+          },
+          {
+            "bottom": 0.4447317388493859,
+            "row_type": "gap-with-text",
+            "top": 0.4175824175824176
+          },
+          {
+            "bottom": 0.4738202973497091,
+            "row_type": "gap",
+            "top": 0.4447317388493859
+          },
+          {
+            "bottom": 0.4906270200387847,
+            "row_type": "down-merge",
+            "top": 0.4738202973497091
+          },
+          {
+            "bottom": 0.5080801551389786,
+            "row_type": "data",
+            "top": 0.4906270200387847
+          },
+          {
+            "bottom": 0.5436328377504848,
+            "row_type": "footer",
+            "top": 0.5080801551389786
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

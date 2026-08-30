@@ -1,0 +1,250 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7620967741935484,
+        0.04463964288285694,
+        0.8211148728820263,
+        0.057393826563673214
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "22598"
+    },
+    {
+      "bbox": [
+        0.6620967741935484,
+        0.07358182892778617,
+        0.7525866569634071,
+        0.08682655813478767
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/30/01"
+    },
+    {
+      "bbox": [
+        0.03609968517141546,
+        0.014225820259371993,
+        0.2930804948662374,
+        0.031027795733678087
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CITY NEWS SERVICE, INC."
+    },
+    {
+      "bbox": [
+        0.03387096774193549,
+        0.01535118940767931,
+        0.3756814694110016,
+        0.05935600866841417
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "CITY NEWS SERVICE, INC.\n1900 Avenue of the Stars #1870\nLos Angeles, CA 90067"
+    },
+    {
+      "bbox": [
+        0.6400045879542471,
+        0.05886546314222894,
+        0.8945379613662611,
+        0.07358182892778617
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "City News Service, Inc."
+    },
+    {
+      "bbox": [
+        0.6626433735702195,
+        0.10350510602508588,
+        0.7207699852869054,
+        0.11635423400129283
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "75687"
+    },
+    {
+      "bbox": [
+        0.1376682909079403,
+        0.1780680260052425,
+        0.3083769716337863,
+        0.19180330073842927
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "WEBER SHANDWICK"
+    },
+    {
+      "bbox": [
+        0.13705643183723837,
+        0.17873170524655196,
+        0.4319725039155816,
+        0.22368875994046997
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "WEBER SHANDWICK\n676 N. ST. CLAIR, STE 1000\nCHICAGO, IL"
+    },
+    {
+      "bbox": [
+        0.6632552326409213,
+        0.2683284028233269,
+        0.6754924140549605,
+        0.28010149545177265
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6614196554288155,
+        0.2676147382029735,
+        0.7434087709028778,
+        0.2805920409779579
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$114.00"
+    },
+    {
+      "bbox": [
+        0.6638670917116233,
+        0.2673473117709564,
+        0.7434087709028778,
+        0.28108258650414314
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$114.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3056451612903226,
+        0.2960568842921784,
+        0.575,
+        0.3102779573367809
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "\"TAKE 10\" WORKSHOPS 11/8"
+    },
+    {
+      "bbox": [
+        0.7169354838709677,
+        0.2960568842921784,
+        0.7975806451612903,
+        0.3102779573367809
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$114.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1104,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tmfd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03467741935483871,
+          0.28118939883645766,
+          0.9314516129032258,
+          0.9696186166774402
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.22741935483870968,
+            "right": 0.2838709677419355
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3056451612903226,
+            "right": 0.575
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7169354838709677,
+            "right": 0.7975806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2960568842921784,
+            "row_type": "gap-with-text",
+            "top": 0.28118939883645766
+          },
+          {
+            "bottom": 0.3102779573367809,
+            "row_type": "data",
+            "top": 0.2960568842921784
+          },
+          {
+            "bottom": 0.5171299288946348,
+            "row_type": "gap",
+            "top": 0.3102779573367809
+          },
+          {
+            "bottom": 0.6199095022624435,
+            "row_type": "gap-with-text",
+            "top": 0.5171299288946348
+          },
+          {
+            "bottom": 0.6296056884292178,
+            "row_type": "gap",
+            "top": 0.6199095022624435
+          },
+          {
+            "bottom": 0.8474466709760827,
+            "row_type": "gap-with-text",
+            "top": 0.6296056884292178
+          },
+          {
+            "bottom": 0.8933419521654816,
+            "row_type": "gap",
+            "top": 0.8474466709760827
+          },
+          {
+            "bottom": 0.9127343244990304,
+            "row_type": "gap-with-text",
+            "top": 0.8933419521654816
+          },
+          {
+            "bottom": 0.9398836457659987,
+            "row_type": "gap",
+            "top": 0.9127343244990304
+          },
+          {
+            "bottom": 0.9696186166774402,
+            "row_type": "gap-with-text",
+            "top": 0.9398836457659987
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,342 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4063287900240528,
+        0.03807171537640168,
+        0.5294587263949779,
+        0.04970473951919108
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "September 1, 2020"
+    },
+    {
+      "bbox": [
+        0.4063287900240528,
+        0.03860048920107393,
+        0.5287746711929172,
+        0.04970473951919108
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "September 1, 2020"
+    },
+    {
+      "bbox": [
+        0.37554630593132154,
+        0.5176695743541284,
+        0.48089080704866854,
+        0.5287738246722455
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "William McEntee"
+    },
+    {
+      "bbox": [
+        0.3748622507292608,
+        0.48541437104912144,
+        0.38512307876017127,
+        0.49863371666592754
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8229184080790161,
+        0.30457372301121344,
+        0.9077412531345421,
+        0.3162067471540028
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$469.39 USD"
+    },
+    {
+      "bbox": [
+        0.3911290322580645,
+        0.3749006416926221,
+        0.46048387096774196,
+        0.38547611818606703
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$0.00 USD"
+    },
+    {
+      "bbox": [
+        0.37623036113338226,
+        0.4452275603740307,
+        0.46048387096774196,
+        0.45527426304280344
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$469.39 USD"
+    },
+    {
+      "bbox": [
+        0.782559151157435,
+        0.09729438373969318,
+        0.9048387096774193,
+        0.11157127700584381
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$469.39 USD"
+    },
+    {
+      "bbox": [
+        0.3769144163354429,
+        0.4610907751141981,
+        0.46048387096774196,
+        0.4727237992569875
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "-$13.91 USD"
+    },
+    {
+      "bbox": [
+        0.3769144163354429,
+        0.48541437104912144,
+        0.4612903225806452,
+        0.4975062344139651
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$455.48 USD"
+    },
+    {
+      "bbox": [
+        0.7784548199450708,
+        0.03807171537640168,
+        0.9207383019736954,
+        0.05023351334386333
+      ],
+      "fieldtype": "payment_reference",
+      "page": 0,
+      "text": "55372700VC994534P"
+    },
+    {
+      "bbox": [
+        0.3748622507292608,
+        0.35745110547843795,
+        0.46048387096774196,
+        0.3690841296212274
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "$469.39 USD"
+    },
+    {
+      "bbox": [
+        0.39264768598283895,
+        0.3749006416926221,
+        0.46048387096774196,
+        0.38600489201073923
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "$0.00 USD"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.2674563591022444,
+        0.17661290322580644,
+        0.2786783042394015
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "KYKD"
+    },
+    {
+      "bbox": [
+        0.6612903225806451,
+        0.2674563591022444,
+        0.6709677419354839,
+        0.2786783042394015
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7104838709677419,
+        0.2674563591022444,
+        0.7975806451612903,
+        0.2786783042394015
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$469.39 USD"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.2674563591022444,
+        0.9056451612903226,
+        0.2786783042394015
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$469.39 USD"
+    },
+    {
+      "bbox": [
+        0.09234745227819383,
+        0.2828939961996514,
+        0.22163388546766516,
+        0.29452702034244077
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Advertising - 33004"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.612229405844322,
+        0.23371803050513254,
+        0.6724262636256632,
+        0.24587982847259418
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.7620374950956142,
+        0.2342468043298048,
+        0.7975806451612903,
+        0.24482228082324967
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price"
+    },
+    {
+      "bbox": [
+        0.8495965609593831,
+        0.2342468043298048,
+        0.9091093635386637,
+        0.24482228082324967
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Subtotal"
+    },
+    {
+      "bbox": [
+        0.09303150748025452,
+        0.239005768751855,
+        0.1792224629399021,
+        0.2516963405439889
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Order details"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 999,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "6a5aaf08-1f52-486c-807f-f63d7433e457",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08064516129032258,
+          0.23254364089775562,
+          0.9241935483870968,
+          0.3179551122194514
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.13951612903225807,
+            "right": 0.17661290322580644
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6612903225806451,
+            "right": 0.6709677419354839
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.7104838709677419,
+            "right": 0.7975806451612903
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8217741935483871,
+            "right": 0.9056451612903226
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.26122194513715713,
+            "row_type": "header",
+            "top": 0.23254364089775562
+          },
+          {
+            "bottom": 0.2674563591022444,
+            "row_type": "gap",
+            "top": 0.26122194513715713
+          },
+          {
+            "bottom": 0.2786783042394015,
+            "row_type": "data",
+            "top": 0.2674563591022444
+          },
+          {
+            "bottom": 0.293640897755611,
+            "row_type": "up-merge",
+            "top": 0.2786783042394015
+          },
+          {
+            "bottom": 0.30423940149625933,
+            "row_type": "gap",
+            "top": 0.293640897755611
+          },
+          {
+            "bottom": 0.3179551122194514,
+            "row_type": "footer",
+            "top": 0.30423940149625933
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

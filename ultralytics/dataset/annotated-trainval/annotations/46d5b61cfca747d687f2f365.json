@@ -1,0 +1,252 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3588279969620658,
+        0.1356343964753837,
+        0.44292830875004996,
+        0.14925976963729437
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "28-Jun-00"
+    },
+    {
+      "bbox": [
+        0.6287499500339769,
+        0.13811173705027655,
+        0.7745238237998161,
+        0.1504984399247408
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Hyatt at Fisherman's Wharf"
+    },
+    {
+      "bbox": [
+        0.6271480393332534,
+        0.13953696455189393,
+        0.7921448415077748,
+        0.19818724599142823
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Hyatt at Fisherman's Wharf\nDept. 1866\nP.O.Box 61000\nSan Francisco, Ca 94161-1866"
+    },
+    {
+      "bbox": [
+        0.13135667745932766,
+        0.2310120086087585,
+        0.19062737338609745,
+        0.24401804662694598
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "C-42103"
+    },
+    {
+      "bbox": [
+        0.2827372386776992,
+        0.18332320254207107,
+        0.5294314865891194,
+        0.197567910847705
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PRIVATE ADJUDICATION CENTER"
+    },
+    {
+      "bbox": [
+        0.2827372386776992,
+        0.18288825531254085,
+        0.5304005236640981,
+        0.24339871148322278
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PRIVATE ADJUDICATION CENTER\nATTN: LASHLEY RUSS\n110 SWIFT AVENUE, STE 2\nDURHAM, NC 27705"
+    },
+    {
+      "bbox": [
+        0.8193773234200744,
+        0.7276499956593473,
+        0.8321926090258623,
+        0.7431333742524275
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8193773234200744,
+        0.6912468564117513,
+        0.8938661710037175,
+        0.704872229573662
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$6,700.00"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.7286821956980745,
+        0.8943548387096775,
+        0.7435462391474315
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$6,700.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.2744853399875234,
+        0.21693548387096775,
+        0.2925764192139738
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5/20/2000"
+    },
+    {
+      "bbox": [
+        0.2991935483870968,
+        0.2744853399875234,
+        0.3774193548387097,
+        0.2925764192139738
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "DEPOSIT"
+    },
+    {
+      "bbox": [
+        0.6580645161290323,
+        0.2744853399875234,
+        0.7379032258064516,
+        0.2925764192139738
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "-$6,700.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15378342726945676,
+        0.26074009550747274,
+        0.19463215013790622,
+        0.27436546866938344
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.35402226485989524,
+        0.261359430651196,
+        0.44693308550185873,
+        0.27498480381310664
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6591862533477235,
+        0.2625981009386424,
+        0.7352770116320902,
+        0.2774621443879995
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Payment"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 632,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lmcn0231",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13064516129032258,
+          0.2613849033063007,
+          0.9064516129032258,
+          0.7086712414223332
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.13064516129032258,
+            "right": 0.21693548387096775
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2991935483870968,
+            "right": 0.3774193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6580645161290323,
+            "right": 0.7379032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2744853399875234,
+            "row_type": "header",
+            "top": 0.2613849033063007
+          },
+          {
+            "bottom": 0.2925764192139738,
+            "row_type": "data",
+            "top": 0.2744853399875234
+          },
+          {
+            "bottom": 0.33250155957579536,
+            "row_type": "up-merge",
+            "top": 0.2925764192139738
+          },
+          {
+            "bottom": 0.6899563318777293,
+            "row_type": "gap-with-text",
+            "top": 0.33250155957579536
+          },
+          {
+            "bottom": 0.7086712414223332,
+            "row_type": "footer",
+            "top": 0.6899563318777293
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8618685033648226,
+        0.1327075757527889,
+        0.903392675533438,
+        0.14783957534999953
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2853"
+    },
+    {
+      "bbox": [
+        0.740499817332662,
+        0.13284135756086918,
+        0.8097613475912596,
+        0.14722740319534117
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/22/99"
+    },
+    {
+      "bbox": [
+        0.0803775783247924,
+        0.06394518513657382,
+        0.3126321908906637,
+        0.12580137778229775
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "InterActive8\na wholly owned subsidiary of\nLuminant Worldwide Corp."
+    },
+    {
+      "bbox": [
+        0.08071466936273736,
+        0.06219137313876085,
+        0.37894853243183474,
+        0.15915115173304942
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "InterActive8\na wholly owned subsidiary of\nLuminant Worldwide Corp.\n114 W 26th St. 12th Fl.\nNew York, NY 10001 (212) 807-1762"
+    },
+    {
+      "bbox": [
+        0.09277624732170188,
+        0.8995869812704941,
+        0.18341479309221245,
+        0.9127486825956495
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-3791654"
+    },
+    {
+      "bbox": [
+        0.10902277911075565,
+        0.2084446186611795,
+        0.36853974742537793,
+        0.2251732101616628
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.11012764209661621,
+        0.20861043273316632,
+        0.37894853243183474,
+        0.2766781560897628
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company\n401 North Main Street\nWinston-Salem, NC 27102\nAttn: Christopher J. Gunzenhauser"
+    },
+    {
+      "bbox": [
+        0.8341311452748403,
+        0.8971382926518605,
+        0.8473848948922262,
+        0.9121365104409911
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8345586855850786,
+        0.8968322065745314,
+        0.924769691045351,
+        0.9130547686729786
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$46,129.70"
+    },
+    {
+      "bbox": [
+        0.8341311452748403,
+        0.8968322065745314,
+        0.9239146104248745,
+        0.9130547686729786
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$46,129.70"
+    },
+    {
+      "bbox": [
+        0.5750417172704563,
+        0.38015890804285596,
+        0.6926153025859771,
+        0.39668755621863233
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due on receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.4330254041570439,
+        0.5467741935483871,
+        0.4497690531177829
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Out of pocket expenses including Travel, Lodging, & Meals"
+    },
+    {
+      "bbox": [
+        0.8443548387096774,
+        0.4330254041570439,
+        0.9258064516129032,
+        0.4497690531177829
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "46,129.70"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3406552468113837,
+        0.40704387990762125,
+        0.44661742701160617,
+        0.4222611509284941
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.793402744030516,
+        0.4090959652609525,
+        0.8608332223397486,
+        0.4203804101188453
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 315,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "phld0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1696,
+        2369
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.40704387990762125,
+          0.9419354838709677,
+          0.9232101616628176
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08225806451612903,
+            "right": 0.5467741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8443548387096774,
+            "right": 0.9258064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4289838337182448,
+            "row_type": "header",
+            "top": 0.40704387990762125
+          },
+          {
+            "bottom": 0.4330254041570439,
+            "row_type": "gap",
+            "top": 0.4289838337182448
+          },
+          {
+            "bottom": 0.4497690531177829,
+            "row_type": "data",
+            "top": 0.4330254041570439
+          },
+          {
+            "bottom": 0.46709006928406466,
+            "row_type": "gap",
+            "top": 0.4497690531177829
+          },
+          {
+            "bottom": 0.5034642032332564,
+            "row_type": "gap-with-text",
+            "top": 0.46709006928406466
+          },
+          {
+            "bottom": 0.5739030023094688,
+            "row_type": "gap",
+            "top": 0.5034642032332564
+          },
+          {
+            "bottom": 0.6062355658198614,
+            "row_type": "gap-with-text",
+            "top": 0.5739030023094688
+          },
+          {
+            "bottom": 0.8770207852193995,
+            "row_type": "gap",
+            "top": 0.6062355658198614
+          },
+          {
+            "bottom": 0.9232101616628176,
+            "row_type": "footer",
+            "top": 0.8770207852193995
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

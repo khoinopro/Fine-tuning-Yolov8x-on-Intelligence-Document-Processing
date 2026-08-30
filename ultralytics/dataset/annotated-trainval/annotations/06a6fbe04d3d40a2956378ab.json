@@ -1,0 +1,212 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6760009151223977,
+        0.12532704791108876,
+        0.8490734385724091,
+        0.1442443381618191
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 31, 1999"
+    },
+    {
+      "bbox": [
+        0.4296270876229696,
+        0.07882204271137656,
+        0.589464653397392,
+        0.09537467168076565
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WORLDWIDE PLAZA"
+    },
+    {
+      "bbox": [
+        0.3950125829329673,
+        0.09773933296210695,
+        0.6230610844200413,
+        0.1284799296195438
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "825 EIGHTH AVENUE\nNEW YORK, NY 10019-7410"
+    },
+    {
+      "bbox": [
+        0.19954243880118966,
+        0.6203294761385336,
+        0.2993136582017845,
+        0.6337292233994677
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-1833405"
+    },
+    {
+      "bbox": [
+        0.14919354838709678,
+        0.19101123595505617,
+        0.3227293525509037,
+        0.2088784131851479
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Citibank, N.A."
+    },
+    {
+      "bbox": [
+        0.15271105010295127,
+        0.20809019275803414,
+        0.3838137725920842,
+        0.23961900984258477
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "399 Park Avenue\nNew York, NY 10043"
+    },
+    {
+      "bbox": [
+        0.8205673758865248,
+        0.41381572423472696,
+        0.8327842598947609,
+        0.43273301448545737
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8205673758865248,
+        0.4130275038076132,
+        0.9274651109585909,
+        0.4287919123498885
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$8,294.00"
+    },
+    {
+      "bbox": [
+        0.8195493022191719,
+        0.41381572423472696,
+        0.9264470372912377,
+        0.4295801327770023
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$8,294.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.3289637952559301,
+        0.6419354838709678,
+        0.3732833957553059
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "FOR FEDERAL INCOME TAX ADVICE RENDERED\nwith respect to the Master Tobacco\nSettlement Agreement during March, 1999"
+    },
+    {
+      "bbox": [
+        0.817741935483871,
+        0.3289637952559301,
+        0.9362903225806452,
+        0.3732833957553059
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$8,257.50"
+    },
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.383270911360799,
+        0.6419354838709678,
+        0.40636704119850187
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Disbursements"
+    },
+    {
+      "bbox": [
+        0.817741935483871,
+        0.383270911360799,
+        0.9362903225806452,
+        0.40636704119850187
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "36.50"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 478,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kxkj0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1811,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15403225806451612,
+          0.3289637952559301,
+          0.9362903225806452,
+          0.40636704119850187
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15403225806451612,
+            "right": 0.6419354838709678
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.817741935483871,
+            "right": 0.9362903225806452
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3732833957553059,
+            "row_type": "data",
+            "top": 0.3289637952559301
+          },
+          {
+            "bottom": 0.383270911360799,
+            "row_type": "gap",
+            "top": 0.3732833957553059
+          },
+          {
+            "bottom": 0.40636704119850187,
+            "row_type": "data",
+            "top": 0.383270911360799
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

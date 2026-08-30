@@ -1,0 +1,228 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6471469296908349,
+        0.2811406129941091,
+        0.7196320929144336,
+        0.29338756459434306
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "222059-02"
+    },
+    {
+      "bbox": [
+        0.5863838765597779,
+        0.13784541633137815,
+        0.6877940235199583,
+        0.15202380176392563
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 22, 2002"
+    },
+    {
+      "bbox": [
+        0.657258064516129,
+        0.26734133661531173,
+        0.7025338704618451,
+        0.2792501616031028
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "36900"
+    },
+    {
+      "bbox": [
+        0.1057273308008395,
+        0.8968607108076927,
+        0.18838400843545314,
+        0.9202114944578398
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "6555 Sierra Dr.\nIrving, TX 75039"
+    },
+    {
+      "bbox": [
+        0.5858973119744114,
+        0.20971612984564952,
+        0.7058635249250885,
+        0.22169990869397235
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Weber Shandwick"
+    },
+    {
+      "bbox": [
+        0.5852176167169005,
+        0.20778931376823068,
+        0.7446061546032109,
+        0.25165935581477944
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Weber Shandwick\nP. O. Box 100583\nAtlanta, GA 30384-0583"
+    },
+    {
+      "bbox": [
+        0.14020161290322586,
+        0.1805103270142116,
+        0.3308243585401966,
+        0.19375960097410547
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Weber Shandwick Worldwide"
+    },
+    {
+      "bbox": [
+        0.13844532628213205,
+        0.18037647554023187,
+        0.3310466185625354,
+        0.2370299328126948
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Weber Shandwick Worldwide\nAttn: Sarah Trego\n676 St. Clair, Suite 1000\nChicago, IL 60611-2976"
+    },
+    {
+      "bbox": [
+        0.6985672764131742,
+        0.4814349597374214,
+        0.7086773302637519,
+        0.4943980549900362
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.4814349597374214,
+        0.7565315851564864,
+        0.4964447317388494
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 325.00"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.4813416214105986,
+        0.756178324299474,
+        0.4935245303748616
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 325.00"
+    },
+    {
+      "bbox": [
+        0.3278652904826478,
+        0.7495790094203502,
+        0.41211573923746214,
+        0.763082233641824
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "due upon receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.3257918552036199,
+        0.36935483870967745,
+        0.34065934065934067
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For Professional Services Rendered:"
+    },
+    {
+      "bbox": [
+        0.6975806451612904,
+        0.3257918552036199,
+        0.7104838709677419,
+        0.34065934065934067
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7104838709677419,
+        0.3257918552036199,
+        0.7588709677419355,
+        0.34065934065934067
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "325.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 924,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jxgd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1403225806451613,
+          0.3257918552036199,
+          0.7588709677419355,
+          0.34065934065934067
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1403225806451613,
+            "right": 0.36935483870967745
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.6975806451612904,
+            "right": 0.7104838709677419
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7104838709677419,
+            "right": 0.7588709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.34065934065934067,
+            "row_type": "data",
+            "top": 0.3257918552036199
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

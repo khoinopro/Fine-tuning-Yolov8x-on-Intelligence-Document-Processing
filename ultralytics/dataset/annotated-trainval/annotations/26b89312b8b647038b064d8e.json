@@ -1,0 +1,403 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.746907381641097,
+        0.21367812803936154,
+        0.8014527113617225,
+        0.2261639681903999
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "97529"
+    },
+    {
+      "bbox": [
+        0.7963618139211307,
+        0.09038932433205561,
+        0.8509071436417562,
+        0.10174008810572686
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "97529"
+    },
+    {
+      "bbox": [
+        0.7149074548716634,
+        0.22701527547342526,
+        0.7999981692358391,
+        0.23950111562446363
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05/07/01"
+    },
+    {
+      "bbox": [
+        0.7461801105781554,
+        0.2553921849076034,
+        0.7999981692358391,
+        0.26560787230390753
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "00001"
+    },
+    {
+      "bbox": [
+        0.1738177840430596,
+        0.8694685050632188,
+        0.47563527516385345,
+        0.8808192688368901
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "100 South Charles Street \u2022 Baltimore, MD 21201-2773"
+    },
+    {
+      "bbox": [
+        0.8225435721870309,
+        0.09080611018937011,
+        0.8836343414741313,
+        0.1015893357743578
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "23-1416352"
+    },
+    {
+      "bbox": [
+        0.7359983156969719,
+        0.24120373019051436,
+        0.7999981692358391,
+        0.25312203215286916
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "946632"
+    },
+    {
+      "bbox": [
+        0.04799989015415034,
+        0.2128268207563362,
+        0.19999954230895978,
+        0.22644773728474168
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "CITIBANK, N.A."
+    },
+    {
+      "bbox": [
+        0.04799989015415034,
+        0.21205570908692917,
+        0.37454459741496104,
+        0.29568739630413643
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "CITIBANK, N.A.\nATTN: LINDA R. ALPERT, ESQUIRE\nSSB LEGAL DEPT.\n7 WORLD TRADE CENTER\n31ST FLOOR\nNEW YORK, NY 10048"
+    },
+    {
+      "bbox": [
+        0.795634542858189,
+        0.3230799816923165,
+        0.8603616674599979,
+        0.33556582184335493
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "309.32"
+    },
+    {
+      "bbox": [
+        0.7941800007323057,
+        0.32251244350363295,
+        0.8603616674599979,
+        0.33556582184335493
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "309.32"
+    },
+    {
+      "bbox": [
+        0.48508979898209514,
+        0.4187101664854969,
+        0.658180311962213,
+        0.43006093025916814
+      ],
+      "fieldtype": "payment_terms",
+      "page": 1,
+      "text": "DUE UPON RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.684078036500944,
+        0.25161290322580643,
+        0.6979232221522971
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SHERRY HAMBURG FLAX"
+    },
+    {
+      "bbox": [
+        0.38387096774193546,
+        0.684078036500944,
+        0.41935483870967744,
+        0.6979232221522971
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0.6"
+    },
+    {
+      "bbox": [
+        0.6330645161290323,
+        0.684078036500944,
+        0.7016129032258065,
+        0.6979232221522971
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "180.00"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.24040276903713026,
+        0.3709677419354839,
+        0.2542479546884833
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "PHOTOCOPYING"
+    },
+    {
+      "bbox": [
+        0.6346774193548387,
+        0.24040276903713026,
+        0.7,
+        0.2542479546884833
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "3.00"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.2542479546884833,
+        0.3709677419354839,
+        0.26620516047828824
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "FEDERAL EXPRESS"
+    },
+    {
+      "bbox": [
+        0.6346774193548387,
+        0.2542479546884833,
+        0.7,
+        0.26620516047828824
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "126.32"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.042908992713558636,
+        0.6577767606842497,
+        0.15345419428069276,
+        0.6708301390239717
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Timekeeper"
+    },
+    {
+      "bbox": [
+        0.3432719417084691,
+        0.6566416843068826,
+        0.3985445424920362,
+        0.6691275244579209
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hours"
+    },
+    {
+      "bbox": [
+        0.6239985720039545,
+        0.6566416843068826,
+        0.6785439017245799,
+        0.6696950626466046
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Value"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1141,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "shfn0231",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1826,
+        2339
+      ],
+      [
+        1826,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04112903225806452,
+          0.658275645059786,
+          0.8693548387096774,
+          0.7432347388294525
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04112903225806452,
+            "right": 0.25161290322580643
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.38387096774193546,
+            "right": 0.41935483870967744
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6330645161290323,
+            "right": 0.7016129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.672120830711139,
+            "row_type": "header",
+            "top": 0.658275645059786
+          },
+          {
+            "bottom": 0.684078036500944,
+            "row_type": "gap",
+            "top": 0.672120830711139
+          },
+          {
+            "bottom": 0.6979232221522971,
+            "row_type": "data",
+            "top": 0.684078036500944
+          },
+          {
+            "bottom": 0.7256135934550031,
+            "row_type": "gap",
+            "top": 0.6979232221522971
+          },
+          {
+            "bottom": 0.7432347388294525,
+            "row_type": "gap-with-text",
+            "top": 0.7256135934550031
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.049193548387096775,
+          0.21397105097545627,
+          0.8653225806451613,
+          0.43612334801762115
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.20725806451612902,
+            "right": 0.3709677419354839
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6346774193548387,
+            "right": 0.7
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.22592825676526118,
+            "row_type": "subsection-header",
+            "top": 0.21397105097545627
+          },
+          {
+            "bottom": 0.24040276903713026,
+            "row_type": "gap",
+            "top": 0.22592825676526118
+          },
+          {
+            "bottom": 0.2542479546884833,
+            "row_type": "data",
+            "top": 0.24040276903713026
+          },
+          {
+            "bottom": 0.26620516047828824,
+            "row_type": "data",
+            "top": 0.2542479546884833
+          },
+          {
+            "bottom": 0.28193832599118945,
+            "row_type": "gap",
+            "top": 0.26620516047828824
+          },
+          {
+            "bottom": 0.2932662051604783,
+            "row_type": "gap-with-text",
+            "top": 0.28193832599118945
+          },
+          {
+            "bottom": 0.3222152297042165,
+            "row_type": "gap",
+            "top": 0.2932662051604783
+          },
+          {
+            "bottom": 0.43612334801762115,
+            "row_type": "footer",
+            "top": 0.3222152297042165
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

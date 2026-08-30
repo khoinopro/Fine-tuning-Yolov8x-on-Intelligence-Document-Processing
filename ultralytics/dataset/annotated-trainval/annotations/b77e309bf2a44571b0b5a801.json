@@ -1,0 +1,242 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7501118190465883,
+        0.2518985816766111,
+        0.8063186081643601,
+        0.2660323270603133
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/21/02"
+    },
+    {
+      "bbox": [
+        0.1049498027951914,
+        0.26425449830536696,
+        0.2340734587091699,
+        0.27936604272241117
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.10436019706042436,
+        0.26501565495074825,
+        0.2570680823650839,
+        0.3051445596691337
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Philip Morris USA\nPO Box 26603\nRichmond, VA 23261"
+    },
+    {
+      "bbox": [
+        0.10436019706042436,
+        0.3305280050662855,
+        0.16273116480235986,
+        0.3429728063509101
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "INBIFO"
+    },
+    {
+      "bbox": [
+        0.10553940852995843,
+        0.3304961766992794,
+        0.22581897842243157,
+        0.3834184105259403
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "INBIFO\nFuggerstrasse 3\n51149-D Koeln\nGERMANY"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06370967741935483,
+        0.47477203647416416,
+        0.1032258064516129,
+        0.4857142857142857
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2000"
+    },
+    {
+      "bbox": [
+        0.225,
+        0.47477203647416416,
+        0.375,
+        0.4857142857142857
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "TEST CIGARETTES"
+    },
+    {
+      "bbox": [
+        0.6266129032258064,
+        0.47477203647416416,
+        0.6693548387096774,
+        0.4857142857142857
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$0.07"
+    },
+    {
+      "bbox": [
+        0.739516129032258,
+        0.47477203647416416,
+        0.8112903225806452,
+        0.4857142857142857
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$143.42"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.03436758410628823,
+        0.461153135831204,
+        0.09501954113409292,
+        0.47459783366884845
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.26746137974255724,
+        0.4616012924257921,
+        0.4083879857777505,
+        0.47459783366884845
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Product Description"
+    },
+    {
+      "bbox": [
+        0.5951008730986395,
+        0.46070497923661585,
+        0.6676453707201313,
+        0.47414967707426026
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Unit Price"
+    },
+    {
+      "bbox": [
+        0.7039176195308773,
+        0.46070497923661585,
+        0.7841922685382658,
+        0.47414967707426026
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Price"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 55,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pykc0072",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.025806451612903226,
+          0.46261398176291796,
+          0.8112903225806452,
+          0.6030395136778115
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.06370967741935483,
+            "right": 0.1032258064516129
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.225,
+            "right": 0.375
+          },
+          {
+            "column_type": "",
+            "left": 0.4508064516129032,
+            "right": 0.4870967741935484
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6266129032258064,
+            "right": 0.6693548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.739516129032258,
+            "right": 0.8112903225806452
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.47477203647416416,
+            "row_type": "header",
+            "top": 0.46261398176291796
+          },
+          {
+            "bottom": 0.4857142857142857,
+            "row_type": "data",
+            "top": 0.47477203647416416
+          },
+          {
+            "bottom": 0.4990881458966565,
+            "row_type": "gap",
+            "top": 0.4857142857142857
+          },
+          {
+            "bottom": 0.5148936170212766,
+            "row_type": "gap-with-text",
+            "top": 0.4990881458966565
+          },
+          {
+            "bottom": 0.6030395136778115,
+            "row_type": "gap",
+            "top": 0.5148936170212766
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

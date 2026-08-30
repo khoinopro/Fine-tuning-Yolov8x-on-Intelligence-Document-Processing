@@ -1,0 +1,227 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.1882793017456359,
+        0.22983870967741934,
+        0.2013715710723192
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/23/01"
+    },
+    {
+      "bbox": [
+        0.12903225806451613,
+        0.21633416458852867,
+        0.3548387096774194,
+        0.22880299251870323
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Covance Clinical Research Unit Inc."
+    },
+    {
+      "bbox": [
+        0.12741935483870967,
+        0.24438902743142144,
+        0.4637096774193548,
+        0.2587281795511222
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "3301 Kinsman Boulevard, Madison, Wisconsin 53704"
+    },
+    {
+      "bbox": [
+        0.4258064516129032,
+        0.16084788029925187,
+        0.5137096774193548,
+        0.1745635910224439
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R1-472"
+    },
+    {
+      "bbox": [
+        0.13306451612903225,
+        0.11408977556109726,
+        0.25887096774193546,
+        0.128428927680798
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.12903225806451613,
+        0.2718204488778055,
+        0.3814516129032258,
+        0.2855361596009975
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "4201 Commerce Road, Gate C, Door 17"
+    },
+    {
+      "bbox": [
+        0.771774193548387,
+        0.7618453865336658,
+        0.7838709677419354,
+        0.7736907730673317
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7725806451612903,
+        0.7618453865336658,
+        0.8556451612903225,
+        0.7743142144638404
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$450,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2782258064516129,
+        0.456359102244389,
+        0.5411290322580645,
+        0.4850374064837905
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Sample Analysis on a per sample basis\nreceived from MDS Pharma Services Inc."
+    },
+    {
+      "bbox": [
+        0.7741935483870968,
+        0.456359102244389,
+        0.8604838709677419,
+        0.4850374064837905
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$450,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2846774193548387,
+        0.39900249376558605,
+        0.35161290322580646,
+        0.4096009975062344
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.728225806451613,
+        0.39900249376558605,
+        0.7637096774193548,
+        0.422069825436409
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nPrice"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 490,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "xrcf0221",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13306451612903225,
+          0.39713216957605985,
+          0.8604838709677419,
+          0.7755610972568578
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2782258064516129,
+            "right": 0.5411290322580645
+          },
+          {
+            "column_type": "",
+            "left": 0.5733870967741935,
+            "right": 0.6491935483870968
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7741935483870968,
+            "right": 0.8604838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4226932668329177,
+            "row_type": "header",
+            "top": 0.39713216957605985
+          },
+          {
+            "bottom": 0.456359102244389,
+            "row_type": "gap",
+            "top": 0.4226932668329177
+          },
+          {
+            "bottom": 0.4850374064837905,
+            "row_type": "data",
+            "top": 0.456359102244389
+          },
+          {
+            "bottom": 0.49875311720698257,
+            "row_type": "gap",
+            "top": 0.4850374064837905
+          },
+          {
+            "bottom": 0.5268079800498753,
+            "row_type": "gap-with-text",
+            "top": 0.49875311720698257
+          },
+          {
+            "bottom": 0.743142144638404,
+            "row_type": "gap",
+            "top": 0.5268079800498753
+          },
+          {
+            "bottom": 0.7755610972568578,
+            "row_type": "footer",
+            "top": 0.743142144638404
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

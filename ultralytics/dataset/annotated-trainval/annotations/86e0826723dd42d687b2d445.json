@@ -1,0 +1,783 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2680826311678383,
+        0.3732328236756852,
+        0.3241611407488657,
+        0.3876607033923802
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "100104"
+    },
+    {
+      "bbox": [
+        0.25030164032507357,
+        0.1605906745698647,
+        0.3056962656429177,
+        0.17450327286810627
+      ],
+      "fieldtype": "document_id",
+      "page": 2,
+      "text": "100104"
+    },
+    {
+      "bbox": [
+        0.15387395921623373,
+        0.3077920835321045,
+        0.30843180269565074,
+        0.3222199632487995
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "September 24, 1999"
+    },
+    {
+      "bbox": [
+        0.2653470941151053,
+        0.39178295474000735,
+        0.30774791843246746,
+        0.4041497087828887
+      ],
+      "fieldtype": "order_id",
+      "page": 1,
+      "text": "TBD"
+    },
+    {
+      "bbox": [
+        0.2667148626414718,
+        0.3577743811220835,
+        0.47940286849146596,
+        0.371686979420325
+      ],
+      "fieldtype": "order_id",
+      "page": 1,
+      "text": "Virginia Slims Opinion Poll"
+    },
+    {
+      "bbox": [
+        0.15250619068986723,
+        0.4568774901805646,
+        0.3296322148543318,
+        0.4723359327341663
+      ],
+      "fieldtype": "vendor_name",
+      "page": 2,
+      "text": "Tip Nunn's Events, Inc."
+    },
+    {
+      "bbox": [
+        0.15250619068986723,
+        0.4568774901805646,
+        0.3604070066975786,
+        0.50479866209673
+      ],
+      "fieldtype": "vendor_address",
+      "page": 2,
+      "text": "Tip Nunn's Events, Inc. \n2801 Youngfield, Suite 210\nGolden, Colorado 80401"
+    },
+    {
+      "bbox": [
+        0.3959689883831081,
+        0.45842333443592476,
+        0.48870967741935484,
+        0.4697595256418994
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 2,
+      "text": "84-1060640"
+    },
+    {
+      "bbox": [
+        0.2653470941151053,
+        0.33973953147621483,
+        0.41169832643632315,
+        0.35622853686672334
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.7085040966578584,
+        0.39195203145543733,
+        0.7214978976583404,
+        0.40741047400903907
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 2,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7096774193548387,
+        0.3914367500369839,
+        0.7864669026607501,
+        0.4058646297536789
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 2,
+      "text": "52,371.95"
+    },
+    {
+      "bbox": [
+        0.7096774193548387,
+        0.3924673128738907,
+        0.7857830183975669,
+        0.4053493483352255
+      ],
+      "fieldtype": "amount_due",
+      "page": 2,
+      "text": "$2,371.95"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.48784933171324424,
+        0.3911290322580645,
+        0.5048602673147023
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Airfare (R. Crews)"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.48784933171324424,
+        0.510483870967742,
+        0.5048602673147023
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "$ 284.00"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.5048602673147023,
+        0.3911290322580645,
+        0.5194410692588093
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "Meal"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.5048602673147023,
+        0.510483870967742,
+        0.5194410692588093
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "4.75"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.5194410692588093,
+        0.3911290322580645,
+        0.5364520048602673
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "Cabs"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.5194410692588093,
+        0.510483870967742,
+        0.5364520048602673
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "37.00"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.5364520048602673,
+        0.3911290322580645,
+        0.5540704738760632
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "Parking"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.5364520048602673,
+        0.510483870967742,
+        0.5540704738760632
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 1,
+      "text": "30.00"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.5540704738760632,
+        0.3911290322580645,
+        0.5874848116646415
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "Mileage\n(70 miles @.30/mile)"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.5540704738760632,
+        0.510483870967742,
+        0.5874848116646415
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 1,
+      "text": "21.00"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.6360874848116647,
+        0.3911290322580645,
+        0.6518833535844472
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "Airfare (R. Crews)"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.6360874848116647,
+        0.510483870967742,
+        0.6518833535844472
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 1,
+      "text": "$1,028.00"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.6518833535844472,
+        0.3911290322580645,
+        0.669501822600243
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "Hotel"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.6518833535844472,
+        0.510483870967742,
+        0.669501822600243
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 1,
+      "text": "508.84"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.669501822600243,
+        0.3911290322580645,
+        0.6852976913730255
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 1,
+      "text": "Meals"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.669501822600243,
+        0.510483870967742,
+        0.6852976913730255
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 1,
+      "text": "12.86"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.6852976913730255,
+        0.3911290322580645,
+        0.7023086269744836
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 1,
+      "text": "Car Service"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.6852976913730255,
+        0.510483870967742,
+        0.7023086269744836
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 1,
+      "text": "106.25"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.7023086269744836,
+        0.3911290322580645,
+        0.7187120291616039
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 1,
+      "text": "Cabs"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.7023086269744836,
+        0.510483870967742,
+        0.7187120291616039
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 1,
+      "text": "25.00"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.7187120291616039,
+        0.3911290322580645,
+        0.7351154313487241
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 1,
+      "text": "Parking"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.7187120291616039,
+        0.510483870967742,
+        0.7351154313487241
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 1,
+      "text": "24.00"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.7351154313487241,
+        0.3911290322580645,
+        0.7503037667071689
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 1,
+      "text": "Toll (no receipt)"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.7351154313487241,
+        0.510483870967742,
+        0.7503037667071689
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 1,
+      "text": "3.50"
+    },
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.7503037667071689,
+        0.3911290322580645,
+        0.7861482381530984
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 1,
+      "text": "Mileage\n(70 miles @).30/mile)"
+    },
+    {
+      "bbox": [
+        0.42983870967741933,
+        0.7503037667071689,
+        0.510483870967742,
+        0.7861482381530984
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 12,
+      "page": 1,
+      "text": "21.00"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.275820170109356,
+        0.3467741935483871,
+        0.2910085054678007
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 2,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.45,
+        0.275820170109356,
+        0.5056451612903226,
+        0.2910085054678007
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 13,
+      "page": 2,
+      "text": "$73.60"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.2910085054678007,
+        0.3467741935483871,
+        0.3086269744835966
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 14,
+      "page": 2,
+      "text": "Local Delivery"
+    },
+    {
+      "bbox": [
+        0.45,
+        0.2910085054678007,
+        0.5056451612903226,
+        0.3086269744835966
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 14,
+      "page": 2,
+      "text": "61.96"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.3086269744835966,
+        0.3467741935483871,
+        0.3238153098420413
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 15,
+      "page": 2,
+      "text": "Telephone"
+    },
+    {
+      "bbox": [
+        0.45,
+        0.3086269744835966,
+        0.5056451612903226,
+        0.3238153098420413
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 15,
+      "page": 2,
+      "text": "44.54"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.3238153098420413,
+        0.3467741935483871,
+        0.342041312272175
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 16,
+      "page": 2,
+      "text": "Photocopies (231)"
+    },
+    {
+      "bbox": [
+        0.45,
+        0.3238153098420413,
+        0.5056451612903226,
+        0.342041312272175
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 16,
+      "page": 2,
+      "text": "34.65"
+    },
+    {
+      "bbox": [
+        0.20725806451612902,
+        0.342041312272175,
+        0.3467741935483871,
+        0.3572296476306197
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 17,
+      "page": 2,
+      "text": "Fax Charges (34)"
+    },
+    {
+      "bbox": [
+        0.45,
+        0.342041312272175,
+        0.5056451612903226,
+        0.3572296476306197
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 17,
+      "page": 2,
+      "text": "51.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 621,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lnkv0076",
+    "page_count": 3,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ],
+      [
+        1692,
+        2245
+      ],
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.14677419354838708,
+          0.4532199270959903,
+          0.792741935483871,
+          0.7861482381530984
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2064516129032258,
+            "right": 0.3911290322580645
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.42983870967741933,
+            "right": 0.510483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4732685297691373,
+            "row_type": "subsection-header",
+            "top": 0.4532199270959903
+          },
+          {
+            "bottom": 0.48784933171324424,
+            "row_type": "gap",
+            "top": 0.4732685297691373
+          },
+          {
+            "bottom": 0.5048602673147023,
+            "row_type": "data",
+            "top": 0.48784933171324424
+          },
+          {
+            "bottom": 0.5194410692588093,
+            "row_type": "data",
+            "top": 0.5048602673147023
+          },
+          {
+            "bottom": 0.5364520048602673,
+            "row_type": "data",
+            "top": 0.5194410692588093
+          },
+          {
+            "bottom": 0.5540704738760632,
+            "row_type": "data",
+            "top": 0.5364520048602673
+          },
+          {
+            "bottom": 0.5874848116646415,
+            "row_type": "data",
+            "top": 0.5540704738760632
+          },
+          {
+            "bottom": 0.6026731470230863,
+            "row_type": "gap",
+            "top": 0.5874848116646415
+          },
+          {
+            "bottom": 0.6190765492102066,
+            "row_type": "subsection-header",
+            "top": 0.6026731470230863
+          },
+          {
+            "bottom": 0.6360874848116647,
+            "row_type": "gap",
+            "top": 0.6190765492102066
+          },
+          {
+            "bottom": 0.6518833535844472,
+            "row_type": "data",
+            "top": 0.6360874848116647
+          },
+          {
+            "bottom": 0.669501822600243,
+            "row_type": "data",
+            "top": 0.6518833535844472
+          },
+          {
+            "bottom": 0.6852976913730255,
+            "row_type": "data",
+            "top": 0.669501822600243
+          },
+          {
+            "bottom": 0.7023086269744836,
+            "row_type": "data",
+            "top": 0.6852976913730255
+          },
+          {
+            "bottom": 0.7187120291616039,
+            "row_type": "data",
+            "top": 0.7023086269744836
+          },
+          {
+            "bottom": 0.7351154313487241,
+            "row_type": "data",
+            "top": 0.7187120291616039
+          },
+          {
+            "bottom": 0.7503037667071689,
+            "row_type": "data",
+            "top": 0.7351154313487241
+          },
+          {
+            "bottom": 0.7861482381530984,
+            "row_type": "data",
+            "top": 0.7503037667071689
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "2": {
+        "bbox": [
+          0.1532258064516129,
+          0.24119076549210205,
+          0.7943548387096774,
+          0.40643985419198053
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.20725806451612902,
+            "right": 0.3467741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.45,
+            "right": 0.5056451612903226
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.25698663426488455,
+            "row_type": "subsection-header",
+            "top": 0.24119076549210205
+          },
+          {
+            "bottom": 0.275820170109356,
+            "row_type": "gap",
+            "top": 0.25698663426488455
+          },
+          {
+            "bottom": 0.2910085054678007,
+            "row_type": "data",
+            "top": 0.275820170109356
+          },
+          {
+            "bottom": 0.3086269744835966,
+            "row_type": "data",
+            "top": 0.2910085054678007
+          },
+          {
+            "bottom": 0.3238153098420413,
+            "row_type": "data",
+            "top": 0.3086269744835966
+          },
+          {
+            "bottom": 0.342041312272175,
+            "row_type": "data",
+            "top": 0.3238153098420413
+          },
+          {
+            "bottom": 0.3572296476306197,
+            "row_type": "data",
+            "top": 0.342041312272175
+          },
+          {
+            "bottom": 0.3882138517618469,
+            "row_type": "gap",
+            "top": 0.3572296476306197
+          },
+          {
+            "bottom": 0.40643985419198053,
+            "row_type": "footer",
+            "top": 0.3882138517618469
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6744388675840289,
+        0.19649130721644836,
+        0.7319563501015114,
+        0.20907793899543795
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "20971"
+    },
+    {
+      "bbox": [
+        0.6781496729077374,
+        0.17900987419007394,
+        0.7440164674035642,
+        0.1922957632901185
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/26/00"
+    },
+    {
+      "bbox": [
+        0.6772219715768103,
+        0.21397274024282276,
+        0.7226793367922401,
+        0.22655937202181234
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "7579"
+    },
+    {
+      "bbox": [
+        0.18461256485450034,
+        0.8971471429135346,
+        0.4341642228739003,
+        0.9328092662873384
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE BLUE ROCK \nEDITING COMPANY"
+    },
+    {
+      "bbox": [
+        0.4369473268666817,
+        0.8971471429135346,
+        0.8989425896683962,
+        0.9097337746925241
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "575 \u25aa LEXINGTON \u25aa AVENUE \u25aa NEW YORK \u25aa NY \u25aa10022 \u25aa USA"
+    },
+    {
+      "bbox": [
+        0.7031485945909635,
+        0.9218971100104499,
+        0.9001703128918258,
+        0.9311380832936039
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "INFO@BLUEROCKNY.COM"
+    },
+    {
+      "bbox": [
+        0.1100951945460592,
+        0.2036598904777151,
+        0.13637209564628922,
+        0.21746902684809763
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.10946875704940222,
+        0.2036598904777151,
+        0.38685145499661633,
+        0.2720110978903858
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 GRANDVIEW AVENUE\nGREAT NECK, NY\n11020-1510\nYVONNE PENDARVIS/RUSS TILLMAN"
+    },
+    {
+      "bbox": [
+        0.7681367020076698,
+        0.8042857792132897,
+        0.8507021204601849,
+        0.8182709256343893
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "16,322.25"
+    },
+    {
+      "bbox": [
+        0.7634981953530341,
+        0.8483389904397532,
+        0.8497744191292578,
+        0.8616248795397978
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "16,322.25"
+    },
+    {
+      "bbox": [
+        0.15645161290322582,
+        0.8287597854502139,
+        0.2783103992781413,
+        0.8441434465134234
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.42857142857142855,
+        0.3951612903225806,
+        0.4480243161094225
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "THIRD 25% EDITORIAL BILLING"
+    },
+    {
+      "bbox": [
+        0.7701612903225806,
+        0.42857142857142855,
+        0.8572580645161291,
+        0.4480243161094225
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "16,322.25"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 19,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "skxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07419354838709677,
+          0.31793313069908813,
+          0.9040322580645161,
+          0.8668693009118541
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10403225806451613,
+            "right": 0.3951612903225806
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7701612903225806,
+            "right": 0.8572580645161291
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.33617021276595743,
+            "row_type": "gap-with-text",
+            "top": 0.31793313069908813
+          },
+          {
+            "bottom": 0.42857142857142855,
+            "row_type": "gap",
+            "top": 0.33617021276595743
+          },
+          {
+            "bottom": 0.4480243161094225,
+            "row_type": "data",
+            "top": 0.42857142857142855
+          },
+          {
+            "bottom": 0.8036474164133739,
+            "row_type": "gap",
+            "top": 0.4480243161094225
+          },
+          {
+            "bottom": 0.8668693009118541,
+            "row_type": "footer",
+            "top": 0.8036474164133739
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

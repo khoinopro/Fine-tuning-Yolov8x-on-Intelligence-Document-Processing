@@ -1,0 +1,352 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8180779428336484,
+        0.1094224924012158,
+        0.8698746004770803,
+        0.12000206705721521
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "020248"
+    },
+    {
+      "bbox": [
+        0.8080278450819377,
+        0.15145891958677649,
+        0.89152096486538,
+        0.16427467432104215
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "Nov 1, 2001"
+    },
+    {
+      "bbox": [
+        0.06447523778090307,
+        0.12303124533784114,
+        0.4456058679034686,
+        0.13701206868431282
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "American Assoclation for Laboratory Accreditation"
+    },
+    {
+      "bbox": [
+        0.06370215333846378,
+        0.12374271826494082,
+        0.44448370468905885,
+        0.1647407015992602
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "American Association for Laboratory Accreditation\n5301 Buckeystown Pike, Suite 350\nFrederick, MD 21704-8307"
+    },
+    {
+      "bbox": [
+        0.09740863974734942,
+        0.9030995793948711,
+        0.5408498759305211,
+        0.9184832404580805
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "5301 Buckeystown Pike, Suite 350 \u00b7 Frederick, MD 21704-8373"
+    },
+    {
+      "bbox": [
+        0.13266129032258064,
+        0.3224974743365911,
+        0.18461256485450034,
+        0.3357833634366356
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "112579"
+    },
+    {
+      "bbox": [
+        0.16049233025039478,
+        0.207739989948065,
+        0.36736972704714643,
+        0.22110516411734701
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.16049233025039478,
+        0.20778464775321312,
+        0.3998392736295962,
+        0.2629207527166711
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Co.\nAnalytical Chemistry Divisions\nBGTC P.O. Box 1487\nWinston Salem, NC 27102-1487"
+    },
+    {
+      "bbox": [
+        0.7980679206740999,
+        0.6702770146550409,
+        0.8305577446584532,
+        0.6827940699462933
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "US$"
+    },
+    {
+      "bbox": [
+        0.8460636107722067,
+        0.6712760860826053,
+        0.8964245401653942,
+        0.6832649432133768
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "200.00"
+    },
+    {
+      "bbox": [
+        0.8460636107722067,
+        0.670776550368823,
+        0.8957618963575891,
+        0.6832649432133768
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "200.00"
+    },
+    {
+      "bbox": [
+        0.12251042641926971,
+        0.8475571490855864,
+        0.2511463741595029,
+        0.8614064817487908
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "301-662-6756"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.40364741641337387,
+        0.15645161290322582,
+        0.417629179331307
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.1693548387096774,
+        0.40364741641337387,
+        0.2540322580645161,
+        0.417629179331307
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "membfee1"
+    },
+    {
+      "bbox": [
+        0.3419354838709677,
+        0.40364741641337387,
+        0.5169354838709678,
+        0.417629179331307
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2002 Membership Dues"
+    },
+    {
+      "bbox": [
+        0.6951612903225807,
+        0.40364741641337387,
+        0.7508064516129033,
+        0.417629179331307
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "200.00"
+    },
+    {
+      "bbox": [
+        0.8387096774193549,
+        0.40364741641337387,
+        0.8911290322580645,
+        0.417629179331307
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "200.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.0840071495446421,
+        0.3760203666311575,
+        0.14876266065197036,
+        0.3892102072627806
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.21964369308026216,
+        0.3756838905775076,
+        0.2540322580645161,
+        0.3892102072627806
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Item"
+    },
+    {
+      "bbox": [
+        0.44191260958379436,
+        0.37536087459957634,
+        0.5259197591284364,
+        0.3898696992943618
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.6536806323942463,
+        0.3766798586627386,
+        0.7254367392969614,
+        0.3892102072627806
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Unit Price"
+    },
+    {
+      "bbox": [
+        0.7831916546089028,
+        0.3756838905775076,
+        0.8566979104604647,
+        0.3898696992943618
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Extension"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1067,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yxxx0065",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ],
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06774193548387097,
+          0.3756838905775076,
+          0.9032258064516129,
+          0.7173252279635258
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.1217741935483871,
+            "right": 0.15645161290322582
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.1693548387096774,
+            "right": 0.2540322580645161
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3419354838709677,
+            "right": 0.5169354838709678
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6951612903225807,
+            "right": 0.7508064516129033
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8387096774193549,
+            "right": 0.8911290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39574468085106385,
+            "row_type": "header",
+            "top": 0.3756838905775076
+          },
+          {
+            "bottom": 0.40364741641337387,
+            "row_type": "gap",
+            "top": 0.39574468085106385
+          },
+          {
+            "bottom": 0.417629179331307,
+            "row_type": "data",
+            "top": 0.40364741641337387
+          },
+          {
+            "bottom": 0.48328267477203646,
+            "row_type": "gap",
+            "top": 0.417629179331307
+          },
+          {
+            "bottom": 0.6468085106382979,
+            "row_type": "gap-with-text",
+            "top": 0.48328267477203646
+          },
+          {
+            "bottom": 0.7173252279635258,
+            "row_type": "footer",
+            "top": 0.6468085106382979
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

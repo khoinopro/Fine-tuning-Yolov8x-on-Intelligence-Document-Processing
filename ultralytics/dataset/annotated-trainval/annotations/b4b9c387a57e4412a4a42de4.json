@@ -1,0 +1,248 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.56475772134523,
+        0.15835960758895712,
+        0.6308112560054907,
+        0.1728333351642919
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42025254"
+    },
+    {
+      "bbox": [
+        0.11784561721528722,
+        0.21497742428070793,
+        0.34307911249389145,
+        0.22745238221749445
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Covance Clinical Research Unit Inc."
+    },
+    {
+      "bbox": [
+        0.11674425630673314,
+        0.2434991815615147,
+        0.4510072920528983,
+        0.2545673261779472
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "3301 Kinsman Boulevard, Madison, Wisconsin 53704"
+    },
+    {
+      "bbox": [
+        0.41796646479627575,
+        0.16048809693827104,
+        0.5022205743006632,
+        0.17113054368484074
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R1-472"
+    },
+    {
+      "bbox": [
+        0.12280174130378062,
+        0.11238423764377602,
+        0.24615416306183827,
+        0.12515517373965965
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.1161935758524561,
+        0.2711695431025959,
+        0.37060794572845,
+        0.2826633855888912
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "4201 Commerce Road, Gate C, Door 17"
+    },
+    {
+      "bbox": [
+        0.41679983516106134,
+        0.2709281841268389,
+        0.47096545250578076,
+        0.2829851975565673
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Jan Oey"
+    },
+    {
+      "bbox": [
+        0.7509741523386524,
+        0.7567549017364845,
+        0.7601547654479269,
+        0.770939623418518
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.74821996840587,
+        0.7567549017364845,
+        0.8446164060532522,
+        0.7702303873344163
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$1,107,106.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.75,
+        0.4825436408977556,
+        0.85,
+        0.49625935162094764
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,107,106.00"
+    },
+    {
+      "bbox": [
+        0.2662377801689599,
+        0.4695142876753072,
+        0.3984386089425124,
+        0.4815713011050356
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Increase Line Item 1"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7170058838343367,
+        0.3957537349287332,
+        0.7518922136495798,
+        0.4198677617881901
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total\nPrice"
+    },
+    {
+      "bbox": [
+        0.27082808672359715,
+        0.3950444988446316,
+        0.33876462373222826,
+        0.40710151227436
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 490,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "fqcf0221",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11693548387096774,
+          0.3940149625935162,
+          0.85,
+          0.7724438902743143
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.5629032258064516,
+            "right": 0.6411290322580645
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.75,
+            "right": 0.85
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.422069825436409,
+            "row_type": "header",
+            "top": 0.3940149625935162
+          },
+          {
+            "bottom": 0.43703241895261846,
+            "row_type": "gap",
+            "top": 0.422069825436409
+          },
+          {
+            "bottom": 0.4544887780548628,
+            "row_type": "gap-with-text",
+            "top": 0.43703241895261846
+          },
+          {
+            "bottom": 0.4669576059850374,
+            "row_type": "gap",
+            "top": 0.4544887780548628
+          },
+          {
+            "bottom": 0.4825436408977556,
+            "row_type": "down-merge",
+            "top": 0.4669576059850374
+          },
+          {
+            "bottom": 0.49625935162094764,
+            "row_type": "data",
+            "top": 0.4825436408977556
+          },
+          {
+            "bottom": 0.5243142144638404,
+            "row_type": "gap",
+            "top": 0.49625935162094764
+          },
+          {
+            "bottom": 0.5835411471321695,
+            "row_type": "gap-with-text",
+            "top": 0.5243142144638404
+          },
+          {
+            "bottom": 0.7394014962593516,
+            "row_type": "gap",
+            "top": 0.5835411471321695
+          },
+          {
+            "bottom": 0.7724438902743143,
+            "row_type": "footer",
+            "top": 0.7394014962593516
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

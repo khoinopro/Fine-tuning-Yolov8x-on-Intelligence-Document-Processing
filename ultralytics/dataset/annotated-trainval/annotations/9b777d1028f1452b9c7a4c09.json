@@ -1,0 +1,281 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3412267209843698,
+        0.224178946690007,
+        0.4704689058862654,
+        0.24016238113256191
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "30.10.062PF"
+    },
+    {
+      "bbox": [
+        0.2352344529431327,
+        0.13962142254229748,
+        0.603814017292983,
+        0.15612045164428962
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "FABRIQUES DE TABAC REUNIES SA"
+    },
+    {
+      "bbox": [
+        0.23455063185899566,
+        0.13962142254229748,
+        0.603814017292983,
+        0.16952591278965817
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "FABRIQUES DE TABAC REUNIES SA\nCH-2003 NEUCH\u00c2TEL (SUISSE)"
+    },
+    {
+      "bbox": [
+        0.4896158962421018,
+        0.22624132532775604,
+        0.6762990522115065,
+        0.24016238113256191
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "PHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.4909835384103758,
+        0.22624132532775604,
+        0.7132253907549052,
+        0.2958466043517853
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 1,
+      "text": "PHILIP MORRIS USA\nPurchase dept.\n120 Park Avenue\nUSA - NEW-YORK 10017"
+    },
+    {
+      "bbox": [
+        0.15591120718323911,
+        0.37421699258624774,
+        0.2208742101762554,
+        0.38762245373161636
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 1,
+      "text": "163.011"
+    },
+    {
+      "bbox": [
+        0.6113360492184902,
+        0.6227336184350039,
+        0.6482623877618889,
+        0.6361390795803725
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "CHF"
+    },
+    {
+      "bbox": [
+        0.6824534419687396,
+        0.6222180237755667,
+        0.7330562021948787,
+        0.635107890261498
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "50.00"
+    },
+    {
+      "bbox": [
+        0.6824534419687396,
+        0.6217024291161294,
+        0.7323723811107417,
+        0.6356234849209352
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "50.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2629032258064516,
+        0.4656534954407295,
+        0.3379032258064516,
+        0.48206686930091186
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "Ashtray"
+    },
+    {
+      "bbox": [
+        0.603225806451613,
+        0.4656534954407295,
+        0.6508064516129032,
+        0.48206686930091186
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "50.00"
+    },
+    {
+      "bbox": [
+        0.682258064516129,
+        0.4656534954407295,
+        0.7306451612903225,
+        0.48206686930091186
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "50.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2629032258064516,
+        0.390273556231003,
+        0.364586623054365,
+        0.4043280687349417
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.5928011504624409,
+        0.390273556231003,
+        0.6633064516129032,
+        0.4206686930091185
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Price\nper unit."
+    },
+    {
+      "bbox": [
+        0.6707280622603203,
+        0.390273556231003,
+        0.74216106474171,
+        0.4206686930091185
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Amount\nCHF"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 172,
+    "currency": "chf",
+    "document_type": "proforma",
+    "language": "eng",
+    "original_filename": "rkwk0071",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        2337,
+        1762
+      ],
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.09274193548387087,
+          0.390273556231003,
+          0.7532258064516129,
+          0.8954407294832827
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.21935483870967742,
+            "right": 0.23225806451612904
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2629032258064516,
+            "right": 0.3379032258064516
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.603225806451613,
+            "right": 0.6508064516129032
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.682258064516129,
+            "right": 0.7306451612903225
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4206686930091185,
+            "row_type": "header",
+            "top": 0.390273556231003
+          },
+          {
+            "bottom": 0.4656534954407295,
+            "row_type": "gap",
+            "top": 0.4206686930091185
+          },
+          {
+            "bottom": 0.48206686930091186,
+            "row_type": "data",
+            "top": 0.4656534954407295
+          },
+          {
+            "bottom": 0.6212765957446809,
+            "row_type": "gap",
+            "top": 0.48206686930091186
+          },
+          {
+            "bottom": 0.6328267477203647,
+            "row_type": "gap-with-text",
+            "top": 0.6212765957446809
+          },
+          {
+            "bottom": 0.6772036474164134,
+            "row_type": "gap",
+            "top": 0.6328267477203647
+          },
+          {
+            "bottom": 0.7495440729483283,
+            "row_type": "gap-with-text",
+            "top": 0.6772036474164134
+          },
+          {
+            "bottom": 0.8662613981762918,
+            "row_type": "gap",
+            "top": 0.7495440729483283
+          },
+          {
+            "bottom": 0.8954407294832827,
+            "row_type": "gap-with-text",
+            "top": 0.8662613981762918
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

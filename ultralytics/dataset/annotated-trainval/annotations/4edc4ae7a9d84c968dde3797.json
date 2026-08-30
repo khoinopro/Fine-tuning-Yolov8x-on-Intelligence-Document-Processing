@@ -1,0 +1,256 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.498439332238876,
+        0.10113664108220256,
+        0.5980417030893546,
+        0.11270455754585319
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2800039315"
+    },
+    {
+      "bbox": [
+        0.11670149030978828,
+        0.034373237491990415,
+        0.4120887789693623,
+        0.05883111801513744
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MORGAN COUNTY INDUSTRIES, INC.\nMORGAN COUNTY INDUSTRIES"
+    },
+    {
+      "bbox": [
+        0.11627401232330553,
+        0.033712213694067523,
+        0.41166130098287956,
+        0.08659411752789893
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MORGAN COUNTY INDUSTRIES, INC.\nMORGAN COUNTY INDUSTRIES\n389 GLENN AVE\nWEST LIBERTY,KY 41472"
+    },
+    {
+      "bbox": [
+        0.5437519988060465,
+        0.1421201165534219,
+        0.5736754578598384,
+        0.1533575211181111
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "482"
+    },
+    {
+      "bbox": [
+        0.13935782359337356,
+        0.20954454394155694,
+        0.32830309361874505,
+        0.2204514366072847
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "JIM TOM TRENT MAYOR"
+    },
+    {
+      "bbox": [
+        0.13807538963392532,
+        0.2098750558405184,
+        0.32744813764577957,
+        0.261434912078504
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "JIM TOM TRENT MAYOR\nACCOUNTS PAYABLE\n314 BRIDGE STREET\nMOREHEAD, KY 40351"
+    },
+    {
+      "bbox": [
+        0.439019892117775,
+        0.4468520873958754,
+        0.4479969298339125,
+        0.4590810276574489
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7570635140609342,
+        0.44652157549691396,
+        0.8066509604929322,
+        0.4590810276574489
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$4.00"
+    },
+    {
+      "bbox": [
+        0.43730998017184397,
+        0.4461910635979525,
+        0.48732490459032474,
+        0.45842000385952597
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$4.00"
+    },
+    {
+      "bbox": [
+        0.43859241413129224,
+        0.44718259929483684,
+        0.4877523825768075,
+        0.45842000385952597
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$4.00"
+    },
+    {
+      "bbox": [
+        0.7570635140609342,
+        0.445860551698991,
+        0.8062234825064495,
+        0.45842000385952597
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "$4.00"
+    },
+    {
+      "bbox": [
+        0.43730998017184397,
+        0.4461910635979525,
+        0.48732490459032474,
+        0.4580894919605646
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$4.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.02258064516129032,
+        0.3628428927680798,
+        0.09274193548387097,
+        0.37468827930174564
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "31-Oct-18"
+    },
+    {
+      "bbox": [
+        0.2685483870967742,
+        0.3628428927680798,
+        0.3088709677419355,
+        0.37468827930174564
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$4.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.02137389932413705,
+        0.35166466049497885,
+        0.06283926401296293,
+        0.36389360075655236
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.26247148370040296,
+        0.3523256842929018,
+        0.3030818924162633,
+        0.36323257695862954
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 256,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "c4e6682f-87e2-4d94-a1f9-2ed4a0413e08",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.02258064516129032,
+          0.3485037406483791,
+          0.9887096774193549,
+          0.3933915211970075
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.02258064516129032,
+            "right": 0.09274193548387097
+          },
+          {
+            "column_type": "",
+            "left": 0.11774193548387096,
+            "right": 0.2056451612903226
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.2685483870967742,
+            "right": 0.3088709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3516209476309227,
+            "row_type": "gap",
+            "top": 0.3485037406483791
+          },
+          {
+            "bottom": 0.3628428927680798,
+            "row_type": "header",
+            "top": 0.3516209476309227
+          },
+          {
+            "bottom": 0.37468827930174564,
+            "row_type": "data",
+            "top": 0.3628428927680798
+          },
+          {
+            "bottom": 0.3933915211970075,
+            "row_type": "gap",
+            "top": 0.37468827930174564
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

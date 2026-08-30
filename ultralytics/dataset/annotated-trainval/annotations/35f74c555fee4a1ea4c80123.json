@@ -1,0 +1,257 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7489695340501792,
+        0.11111177486125963,
+        0.8522520908004778,
+        0.12381026341683217
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "20050708JHW-1"
+    },
+    {
+      "bbox": [
+        0.49931302270011946,
+        0.11111177486125963,
+        0.5752359617682198,
+        0.12381026341683217
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 8, 2005"
+    },
+    {
+      "bbox": [
+        0.5622401433691756,
+        0.05132305791210564,
+        0.9028673835125447,
+        0.06878347967601788
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "520 San Antonio Road \u2022 Mountain View, CA \u2022 94040"
+    },
+    {
+      "bbox": [
+        0.2038291517323775,
+        0.15238186266687034,
+        0.4261260454002389,
+        0.16613855860207394
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Holdings, Inc."
+    },
+    {
+      "bbox": [
+        0.20451314217443248,
+        0.19735567630118972,
+        0.36388291517323773,
+        0.22698548293085896
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "401 N. Main Street\nWinston-Salem, NC 27101"
+    },
+    {
+      "bbox": [
+        0.24692054958183987,
+        0.7470944100195172,
+        0.5153225806451613,
+        0.759825327510917
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net thirty (30) unless otherwise stated above."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08709677419354839,
+        0.3156581409856519,
+        0.10564516129032259,
+        0.34435433562071116
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.24435483870967742,
+        0.3156581409856519,
+        0.2879032258064516,
+        0.34435433562071116
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7/8/05"
+    },
+    {
+      "bbox": [
+        0.325,
+        0.3156581409856519,
+        0.3741935483870968,
+        0.34435433562071116
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8/26/05"
+    },
+    {
+      "bbox": [
+        0.39919354838709675,
+        0.3156581409856519,
+        0.742741935483871,
+        0.34435433562071116
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Set-up for Eclipse offers: $4.00/Off on Three Packs or One\nCarton Any Style Eclipse"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10488052568697734,
+        0.3047688456920293,
+        0.12653823178016724,
+        0.3164040065096822
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Qty"
+    },
+    {
+      "bbox": [
+        0.25376045400238945,
+        0.30529282902355626,
+        0.30505973715651136,
+        0.3153457991300512
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Start Date"
+    },
+    {
+      "bbox": [
+        0.33173536439665474,
+        0.30529282902355626,
+        0.38029868578255677,
+        0.31587490281986663
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "End Date"
+    },
+    {
+      "bbox": [
+        0.5485603345280764,
+        0.30529282902355626,
+        0.6087514934289128,
+        0.31587490281986663
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 487,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "kjbg0229",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1703,
+        2202
+      ],
+      [
+        1701,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08709677419354839,
+          0.3031815346225827,
+          0.9137096774193548,
+          0.6618839675608235
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.08709677419354839,
+            "right": 0.10564516129032259
+          },
+          {
+            "column_type": "",
+            "left": 0.14838709677419354,
+            "right": 0.20967741935483872
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.24435483870967742,
+            "right": 0.2879032258064516
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.325,
+            "right": 0.3741935483870968
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.39919354838709675,
+            "right": 0.742741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3156581409856519,
+            "row_type": "header",
+            "top": 0.3031815346225827
+          },
+          {
+            "bottom": 0.34435433562071116,
+            "row_type": "data",
+            "top": 0.3156581409856519
+          },
+          {
+            "bottom": 0.5826575171553338,
+            "row_type": "gap",
+            "top": 0.34435433562071116
+          },
+          {
+            "bottom": 0.5882719900187149,
+            "row_type": "gap",
+            "top": 0.5826575171553338
+          },
+          {
+            "bottom": 0.6618839675608235,
+            "row_type": "footer",
+            "top": 0.5882719900187149
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

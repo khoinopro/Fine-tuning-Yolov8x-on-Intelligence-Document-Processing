@@ -1,0 +1,384 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7005216383469519,
+        0.6312464912233461,
+        0.7784546735859597,
+        0.6437878121076263
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "127710228"
+    },
+    {
+      "bbox": [
+        0.400172974448304,
+        0.3916412553815711,
+        0.47372774928062594,
+        0.40352250674562606
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "26-Jan-99"
+    },
+    {
+      "bbox": [
+        0.3879138453095837,
+        0.40748292386697765,
+        0.4824842700939976,
+        0.42002424475125794
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "A6346K0126"
+    },
+    {
+      "bbox": [
+        0.09632170222430744,
+        0.7707411898788619,
+        0.2740790747357521,
+        0.7964839011676477
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "RISA LEMKIN\nFLIK INTERNATIONAL"
+    },
+    {
+      "bbox": [
+        0.28633820387447245,
+        0.16567744705857873,
+        0.5411529595435878,
+        0.1848194631451117
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DOWDELL, MALAIKA"
+    },
+    {
+      "bbox": [
+        0.4089294952616757,
+        0.6327133168557851,
+        0.41856166815638457,
+        0.6472348463007411
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.41243210358702437,
+        0.6188518569310544,
+        0.4544634034912083,
+        0.6313931778153345
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "$4.52"
+    },
+    {
+      "bbox": [
+        0.4064516129032258,
+        0.6333733863760104,
+        0.45971731597923127,
+        0.6452546377400653
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$59.28"
+    },
+    {
+      "bbox": [
+        0.4064516129032258,
+        0.6341801626319474,
+        0.45971731597923127,
+        0.6460614139960023
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$59.28"
+    },
+    {
+      "bbox": [
+        0.41155645150568715,
+        0.6176784246263155,
+        0.4518364472471968,
+        0.6302197455105958
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "$4.52"
+    },
+    {
+      "bbox": [
+        0.4080538431803385,
+        0.6335200931117221,
+        0.4570903597352198,
+        0.6467214835162276
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$59.28"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.4978723404255319,
+        0.2806451612903226,
+        0.5112462006079027
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "FOOD COST"
+    },
+    {
+      "bbox": [
+        0.40483870967741936,
+        0.4978723404255319,
+        0.4612903225806452,
+        0.5112462006079027
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$29.20"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.5112462006079027,
+        0.2806451612903226,
+        0.5252279635258359
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "BEVERAGE COST"
+    },
+    {
+      "bbox": [
+        0.40483870967741936,
+        0.5112462006079027,
+        0.4612903225806452,
+        0.5252279635258359
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$7.00"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.5252279635258359,
+        0.2806451612903226,
+        0.5398176291793313
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "PAPER COST"
+    },
+    {
+      "bbox": [
+        0.40483870967741936,
+        0.5252279635258359,
+        0.4612903225806452,
+        0.5398176291793313
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$5.95"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.5398176291793313,
+        0.2806451612903226,
+        0.556838905775076
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "LINEN COST"
+    },
+    {
+      "bbox": [
+        0.40483870967741936,
+        0.5398176291793313,
+        0.4612903225806452,
+        0.556838905775076
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$5.00"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.556838905775076,
+        0.2806451612903226,
+        0.5714285714285714
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "SERVICE / DELIVERY"
+    },
+    {
+      "bbox": [
+        0.40483870967741936,
+        0.556838905775076,
+        0.4612903225806452,
+        0.5714285714285714
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$5.00"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.5714285714285714,
+        0.2806451612903226,
+        0.5866261398176292
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "CHINA / RENTAL COST"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.5866261398176292,
+        0.2806451612903226,
+        0.6012158054711246
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "FLOWERS"
+    },
+    {
+      "bbox": [
+        0.10725806451612903,
+        0.6012158054711246,
+        0.2806451612903226,
+        0.6164133738601824
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "FEE"
+    },
+    {
+      "bbox": [
+        0.40483870967741936,
+        0.6012158054711246,
+        0.4612903225806452,
+        0.6164133738601824
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$2.61"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 308,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tphy0066",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10725806451612903,
+          0.4978723404255319,
+          0.4612903225806452,
+          0.6480243161094225
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10725806451612903,
+            "right": 0.2806451612903226
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.40483870967741936,
+            "right": 0.4612903225806452
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5112462006079027,
+            "row_type": "data",
+            "top": 0.4978723404255319
+          },
+          {
+            "bottom": 0.5252279635258359,
+            "row_type": "data",
+            "top": 0.5112462006079027
+          },
+          {
+            "bottom": 0.5398176291793313,
+            "row_type": "data",
+            "top": 0.5252279635258359
+          },
+          {
+            "bottom": 0.556838905775076,
+            "row_type": "data",
+            "top": 0.5398176291793313
+          },
+          {
+            "bottom": 0.5714285714285714,
+            "row_type": "data",
+            "top": 0.556838905775076
+          },
+          {
+            "bottom": 0.5866261398176292,
+            "row_type": "data",
+            "top": 0.5714285714285714
+          },
+          {
+            "bottom": 0.6012158054711246,
+            "row_type": "data",
+            "top": 0.5866261398176292
+          },
+          {
+            "bottom": 0.6164133738601824,
+            "row_type": "data",
+            "top": 0.6012158054711246
+          },
+          {
+            "bottom": 0.6480243161094225,
+            "row_type": "footer",
+            "top": 0.6164133738601824
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

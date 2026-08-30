@@ -1,0 +1,249 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7641138701941672,
+        0.2806727013490011,
+        0.8531368453624197,
+        0.3022629091450781
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "046-8182900"
+    },
+    {
+      "bbox": [
+        0.7650411928521698,
+        0.24708793366621462,
+        0.829953778912354,
+        0.2638803175076079
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "01/11/99"
+    },
+    {
+      "bbox": [
+        0.32549025295892314,
+        0.456725755995829,
+        0.39782142028312834,
+        0.4725856595363523
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "000000992"
+    },
+    {
+      "bbox": [
+        0.7631865475361647,
+        0.31545692502045847,
+        0.8540641680204223,
+        0.3346482208391936
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "AZPHOE02-61"
+    },
+    {
+      "bbox": [
+        0.4249321393940709,
+        0.09768293264396935,
+        0.5236765073626697,
+        0.11482028924817449
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHOENIX DIVISION"
+    },
+    {
+      "bbox": [
+        0.41764228672524817,
+        0.10025353613460013,
+        0.5707291927705256,
+        0.16880296255142072
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PHOENIX DIVISION\n2850 East Camelback Road\nSuite 300\nPhoenix, AZ 85016"
+    },
+    {
+      "bbox": [
+        0.4217741935483871,
+        0.09384775808133472,
+        0.5266129032258065,
+        0.11887382690302398
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHOENIX DIVISION"
+    },
+    {
+      "bbox": [
+        0.3341403379732787,
+        0.2656290273651798,
+        0.39179644544487663,
+        0.28154327424400416
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0000489"
+    },
+    {
+      "bbox": [
+        0.3354657657312464,
+        0.2827663839693849,
+        0.4521034084324102,
+        0.2990468727433799
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LEO BURNETT USA"
+    },
+    {
+      "bbox": [
+        0.3341403379732787,
+        0.2827663839693849,
+        0.5084340881460403,
+        0.38730425925503636
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LEO BURNETT USA\n35 WEST WACKER DRIVE\nSECTION B\nCHICAGO, IL 60601-0000"
+    },
+    {
+      "bbox": [
+        0.821235039026434,
+        0.7703241793590215,
+        0.8828674297719352,
+        0.7866046681330163
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,458.27"
+    },
+    {
+      "bbox": [
+        0.8218977529054178,
+        0.768610443698601,
+        0.8855182852878708,
+        0.7874615359632267
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1,458.27"
+    },
+    {
+      "bbox": [
+        0.7649043593128038,
+        0.402727880198821,
+        0.8530453052176604,
+        0.4198652368030262
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.30806451612903224,
+        0.59436913451512,
+        0.47580645161290325,
+        0.6475495307612096
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MARKET: 046 PHOENIX\nPEMANENT BULLETIN TOTAL FACES"
+    },
+    {
+      "bbox": [
+        0.567741935483871,
+        0.59436913451512,
+        0.575,
+        0.6475495307612096
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.59436913451512,
+        0.8838709677419355,
+        0.6475495307612096
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1,750.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 355,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mnyx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2203,
+        1704
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.30806451612903224,
+          0.59436913451512,
+          0.8927419354838709,
+          0.7914494264859229
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.30806451612903224,
+            "right": 0.47580645161290325
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.567741935483871,
+            "right": 0.575
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8209677419354838,
+            "right": 0.8838709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6475495307612096,
+            "row_type": "data",
+            "top": 0.59436913451512
+          },
+          {
+            "bottom": 0.6819603753910324,
+            "row_type": "gap",
+            "top": 0.6475495307612096
+          },
+          {
+            "bottom": 0.7914494264859229,
+            "row_type": "footer",
+            "top": 0.6819603753910324
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

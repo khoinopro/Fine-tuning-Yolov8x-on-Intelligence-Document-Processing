@@ -1,0 +1,227 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7572580645161291,
+        0.26051334932785586,
+        0.8123794479547722,
+        0.2742963588206188
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "362334"
+    },
+    {
+      "bbox": [
+        0.6730898736282008,
+        0.23026457490467742,
+        0.7617766877286333,
+        0.24303435352056255
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 9, 1999"
+    },
+    {
+      "bbox": [
+        0.35925756568007966,
+        0.10264325423390537,
+        0.5798802793481875,
+        0.12889866485931337
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "LAW OFFICES\nGABLE & GOTWALS"
+    },
+    {
+      "bbox": [
+        0.3583222480877951,
+        0.10260333722801343,
+        0.5798802793481875,
+        0.17220861625204265
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "LAW OFFICES\nGABLE & GOTWALS\n2000 NationsBank Center\n15 West Sixth Street\nTulsa, Oklahoma 74119-5447"
+    },
+    {
+      "bbox": [
+        0.6990709178583305,
+        0.2448924943554859,
+        0.802805952776854,
+        0.25779732971862673
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "003881 00001"
+    },
+    {
+      "bbox": [
+        0.06446416694379782,
+        0.2292333855858029,
+        0.3384914366478217,
+        0.2742963588206188
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris, R. J. Reynolds,\nBrown & Williamson Tabacco Corp. &\nLorillard, Inc."
+    },
+    {
+      "bbox": [
+        0.06633064516129032,
+        0.22995521810901504,
+        0.3384914366478217,
+        0.3341053393153402
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris, R. J. Reynolds,\nBrown & Williamson Tabacco Corp. &\nLorillard, Inc.\nAttn: Thomas F. Gardner, Esq.\nJones, Day, Reavis & Pogue\n77 West Wacker\nChicago IL 60601-1692"
+    },
+    {
+      "bbox": [
+        0.6630965247755237,
+        0.6153439307439946,
+        0.7460488027934818,
+        0.6279942951945746
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "114,512.26"
+    },
+    {
+      "bbox": [
+        0.6650253574991685,
+        0.6153056769466816,
+        0.7453649817093448,
+        0.6290254845134492
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "114,512.26"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1693548387096774,
+        0.48145896656534953,
+        0.38064516129032255,
+        0.4948328267477204
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Fees For Professional Services"
+    },
+    {
+      "bbox": [
+        0.6629032258064517,
+        0.48145896656534953,
+        0.7540322580645161,
+        0.4948328267477204
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "102,270.00"
+    },
+    {
+      "bbox": [
+        0.1693548387096774,
+        0.4948328267477204,
+        0.38064516129032255,
+        0.511854103343465
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Expenses and Advances"
+    },
+    {
+      "bbox": [
+        0.6629032258064517,
+        0.4948328267477204,
+        0.7540322580645161,
+        0.511854103343465
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12,242.26"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 671,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ghkp0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1693548387096774,
+          0.48145896656534953,
+          0.7540322580645161,
+          0.6303951367781155
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1693548387096774,
+            "right": 0.38064516129032255
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6629032258064517,
+            "right": 0.7540322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4948328267477204,
+            "row_type": "data",
+            "top": 0.48145896656534953
+          },
+          {
+            "bottom": 0.511854103343465,
+            "row_type": "data",
+            "top": 0.4948328267477204
+          },
+          {
+            "bottom": 0.5240121580547112,
+            "row_type": "gap-with-text",
+            "top": 0.511854103343465
+          },
+          {
+            "bottom": 0.5416413373860183,
+            "row_type": "subsection-header",
+            "top": 0.5240121580547112
+          },
+          {
+            "bottom": 0.5689969604863222,
+            "row_type": "gap",
+            "top": 0.5416413373860183
+          },
+          {
+            "bottom": 0.6303951367781155,
+            "row_type": "footer",
+            "top": 0.5689969604863222
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

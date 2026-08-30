@@ -1,0 +1,232 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5614710212822915,
+        0.2573544180067753,
+        0.6110125819836701,
+        0.2722975777620074
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1-Sep"
+    },
+    {
+      "bbox": [
+        0.5620967741935484,
+        0.26990881458966565,
+        0.6266129032258064,
+        0.28475021089136754
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/08/01"
+    },
+    {
+      "bbox": [
+        0.5650828716501464,
+        0.31234979567874277,
+        0.6911325021108271,
+        0.3259769968679417
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "PHIMOR.POLEN"
+    },
+    {
+      "bbox": [
+        0.5650828716501464,
+        0.3001570367199859,
+        0.6897055251622156,
+        0.31199118512113233
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "PHIMOR.POLLEN"
+    },
+    {
+      "bbox": [
+        0.29835028777941375,
+        0.1444505443005771,
+        0.6077098112702449,
+        0.1610540551397239
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CALIFORNIA INSTITUTE OF TECHNOLOGY"
+    },
+    {
+      "bbox": [
+        0.3029947720885044,
+        0.1473889391779142,
+        0.6064652031598793,
+        0.18719471107267938
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "CALIFORNIA INSTITUTE OF TECHNOLOGY\nM/C 102-6\nPasadena, CA 91125"
+    },
+    {
+      "bbox": [
+        0.24330410922232634,
+        0.6541783270623837,
+        0.3082585999196895,
+        0.6682913112756584
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "3CR1256"
+    },
+    {
+      "bbox": [
+        0.0967741935483871,
+        0.2573544180067753,
+        0.19156070137866418,
+        0.2735562310030395
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.10036404538567413,
+        0.2589168225947788,
+        0.3177402005574897,
+        0.31342562735157425
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris\n4201 Commerce Road\nRichmond, VA 23234\nAttention: Dr. Bruce D. Davies"
+    },
+    {
+      "bbox": [
+        0.5713793334225673,
+        0.5711607728666497,
+        0.5823885691339847,
+        0.5861039326218818
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6207349726459941,
+        0.5328952886091983,
+        0.6924809262481596,
+        0.5454253310659721
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "52,550.00"
+    },
+    {
+      "bbox": [
+        0.6161290322580645,
+        0.5719909484086071,
+        0.6891781555347344,
+        0.5861039326218818
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "52,550.00"
+    },
+    {
+      "bbox": [
+        0.5612903225806452,
+        0.28475021089136754,
+        0.6605541426850489,
+        0.29908814589665655
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.5717741935483871,
+        0.44680851063829785,
+        0.5814516129032258,
+        0.46200607902735563
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6225806451612903,
+        0.44680851063829785,
+        0.6887096774193548,
+        0.46200607902735563
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "52,550.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 476,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zzdl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09838709677419355,
+          0.44680851063829785,
+          0.8064516129032258,
+          0.6036474164133738
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_currency",
+            "left": 0.5717741935483871,
+            "right": 0.5814516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6225806451612903,
+            "right": 0.6887096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.46200607902735563,
+            "row_type": "data",
+            "top": 0.44680851063829785
+          },
+          {
+            "bottom": 0.502127659574468,
+            "row_type": "gap-with-text",
+            "top": 0.46200607902735563
+          },
+          {
+            "bottom": 0.6036474164133738,
+            "row_type": "footer",
+            "top": 0.502127659574468
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6882099774462539,
+        0.13273691014867486,
+        0.773836102547125,
+        0.1429967679379444
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "PM07-021693"
+    },
+    {
+      "bbox": [
+        0.1736529826812059,
+        0.13273691014867486,
+        0.23767251546690396,
+        0.1429967679379444
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "JUL10/02"
+    },
+    {
+      "bbox": [
+        0.17445322684102715,
+        0.14492049127343246,
+        0.23847275962672518,
+        0.15453910795087267
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "JUL20/02"
+    },
+    {
+      "bbox": [
+        0.33850327960437837,
+        0.077590174531351,
+        0.5137567506052267,
+        0.10003361344537816
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "40 WEST 23RD STREET\nNEW YORK, NY 10010-5201"
+    },
+    {
+      "bbox": [
+        0.32089790808831137,
+        0.3802559793148028,
+        0.48870967741935484,
+        0.39172592113768584
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC."
+    },
+    {
+      "bbox": [
+        0.3216981522481326,
+        0.3821797026502909,
+        0.4881489374909475,
+        0.4148829993535876
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE, INC.\nP.O. BOX 198261\nATLANTA, GA 30384-8261"
+    },
+    {
+      "bbox": [
+        0.5385643195596846,
+        0.16576082740788625,
+        0.7642331726292703,
+        0.17858564964447315
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.5377640753998635,
+        0.16576082740788625,
+        0.7626326843096278,
+        0.21128894634776987
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY INC.\n714 GREEN VALLEY ROAD\nBOX 10529\nGREENSBORO NC 27404"
+    },
+    {
+      "bbox": [
+        0.1814516129032258,
+        0.1667744020685197,
+        0.461740880216847,
+        0.17922689075630252
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "LRILORILLARD TOBACCO COMPANY INC."
+    },
+    {
+      "bbox": [
+        0.7090163256016058,
+        0.34659082094376215,
+        0.7802380558256948,
+        0.35877440206851974
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "93,750.00"
+    },
+    {
+      "bbox": [
+        0.7082160814417844,
+        0.34787330316742077,
+        0.781038299985516,
+        0.359415643180349
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "93,750.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.2902391725921138,
+        0.16532258064516128,
+        0.3025210084033613
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "08/15/02"
+    },
+    {
+      "bbox": [
+        0.18225806451612903,
+        0.2902391725921138,
+        0.2661290322580645,
+        0.3025210084033613
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SPONSORSHIP"
+    },
+    {
+      "bbox": [
+        0.7098165697614269,
+        0.2802223658694247,
+        0.7802380558256948,
+        0.2891997414350356
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "93,750.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.2449541047188106,
+        0.15044590204639036,
+        0.26739754363283774
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Insert\nDate"
+    },
+    {
+      "bbox": [
+        0.16805127356245733,
+        0.25777892695539756,
+        0.20886372571333983,
+        0.2680387847446671
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Space"
+    },
+    {
+      "bbox": [
+        0.7146180347203542,
+        0.2449541047188106,
+        0.7746363467069461,
+        0.26739754363283774
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Net\nOrdered"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1050,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pzkd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10161290322580645,
+          0.24175824175824176,
+          0.8774193548387097,
+          0.36069812540400775
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.10161290322580645,
+            "right": 0.16532258064516128
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.18225806451612903,
+            "right": 0.2661290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2727860374919198,
+            "row_type": "header",
+            "top": 0.24175824175824176
+          },
+          {
+            "bottom": 0.2792501616031028,
+            "row_type": "gap",
+            "top": 0.2727860374919198
+          },
+          {
+            "bottom": 0.2902391725921138,
+            "row_type": "down-merge",
+            "top": 0.2792501616031028
+          },
+          {
+            "bottom": 0.3025210084033613,
+            "row_type": "data",
+            "top": 0.2902391725921138
+          },
+          {
+            "bottom": 0.31286360698125404,
+            "row_type": "gap",
+            "top": 0.3025210084033613
+          },
+          {
+            "bottom": 0.36069812540400775,
+            "row_type": "footer",
+            "top": 0.31286360698125404
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

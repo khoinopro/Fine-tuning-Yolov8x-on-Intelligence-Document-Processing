@@ -1,0 +1,253 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.1282258064516129,
+        0.1093680527363761,
+        0.21235914300914058,
+        0.12344139650872818
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "09/07/00"
+    },
+    {
+      "bbox": [
+        0.3153225806451613,
+        0.2169576059850374,
+        0.3975673453595783,
+        0.2292234529954184
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "08183569"
+    },
+    {
+      "bbox": [
+        0.36653769889248927,
+        0.11086624523961414,
+        0.4683537263626252,
+        0.12285178526551836
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BostonCoach"
+    },
+    {
+      "bbox": [
+        0.4159911979494124,
+        0.12285178526551836,
+        0.5459278425303478,
+        0.13783371029789865
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "SAN FRANCISCO"
+    },
+    {
+      "bbox": [
+        0.42665763892247427,
+        0.16405207910456415,
+        0.5255646370363206,
+        0.1767867153820874
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "JOHN WELLS"
+    },
+    {
+      "bbox": [
+        0.55368525414712,
+        0.4292321521776953,
+        0.6060477825603328,
+        0.4419667884552185
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "97.75"
+    },
+    {
+      "bbox": [
+        0.5527155776950234,
+        0.4292321521776953,
+        0.6060477825603328,
+        0.4419667884552185
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "97.75"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.35161290322580646,
+        0.3628428927680798,
+        0.4629032258064516,
+        0.3759351620947631
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Fare"
+    },
+    {
+      "bbox": [
+        0.5516129032258065,
+        0.3628428927680798,
+        0.6096774193548387,
+        0.3759351620947631
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "75.00"
+    },
+    {
+      "bbox": [
+        0.35161290322580646,
+        0.3759351620947631,
+        0.4629032258064516,
+        0.3871571072319202
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Service Fee"
+    },
+    {
+      "bbox": [
+        0.5516129032258065,
+        0.3759351620947631,
+        0.6096774193548387,
+        0.3871571072319202
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "13.50"
+    },
+    {
+      "bbox": [
+        0.35161290322580646,
+        0.3871571072319202,
+        0.4629032258064516,
+        0.4014962593516209
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Parking"
+    },
+    {
+      "bbox": [
+        0.5516129032258065,
+        0.3871571072319202,
+        0.6096774193548387,
+        0.4014962593516209
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "3.00"
+    },
+    {
+      "bbox": [
+        0.35161290322580646,
+        0.4014962593516209,
+        0.4629032258064516,
+        0.415211970074813
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Other"
+    },
+    {
+      "bbox": [
+        0.5516129032258065,
+        0.4014962593516209,
+        0.6096774193548387,
+        0.415211970074813
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "6.25"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1149,
+    "currency": "other",
+    "document_type": "receipt",
+    "language": "eng",
+    "original_filename": "jkcn0231",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.35161290322580646,
+          0.3628428927680798,
+          0.6096774193548387,
+          0.44576059850374067
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.35161290322580646,
+            "right": 0.4629032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5516129032258065,
+            "right": 0.6096774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3759351620947631,
+            "row_type": "data",
+            "top": 0.3628428927680798
+          },
+          {
+            "bottom": 0.3871571072319202,
+            "row_type": "data",
+            "top": 0.3759351620947631
+          },
+          {
+            "bottom": 0.4014962593516209,
+            "row_type": "data",
+            "top": 0.3871571072319202
+          },
+          {
+            "bottom": 0.415211970074813,
+            "row_type": "data",
+            "top": 0.4014962593516209
+          },
+          {
+            "bottom": 0.42643391521197005,
+            "row_type": "gap-with-text",
+            "top": 0.415211970074813
+          },
+          {
+            "bottom": 0.44576059850374067,
+            "row_type": "footer",
+            "top": 0.42643391521197005
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

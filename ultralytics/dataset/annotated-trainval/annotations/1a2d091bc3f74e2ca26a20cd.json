@@ -1,0 +1,308 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8417837545726639,
+        0.19644156524559356,
+        0.9354672430994346,
+        0.20881583707208762
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99055516"
+    },
+    {
+      "bbox": [
+        0.8417837545726639,
+        0.22428367685520523,
+        0.9354672430994346,
+        0.23717354334113655
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "06/01/99"
+    },
+    {
+      "bbox": [
+        0.8308426172264716,
+        0.25315697778369145,
+        0.8793939142001994,
+        0.2655312496101855
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "5516"
+    },
+    {
+      "bbox": [
+        0.36789574326571334,
+        0.8734173530867072,
+        0.41576321915530423,
+        0.8852760302537641
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "5516"
+    },
+    {
+      "bbox": [
+        0.03624251745926172,
+        0.2510945991459424,
+        0.27284461257066844,
+        0.2789367107555541
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk\nLorillard Tobacco Co"
+    },
+    {
+      "bbox": [
+        0.03761015962753575,
+        0.25315697778369145,
+        0.33780761556368477,
+        0.3212154728294089
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Andrew Pasheluk\nLorillard Tobacco Co\n714 Green Valley Rd\nBox 10529\nGreensboro NC 27408-7018"
+    },
+    {
+      "bbox": [
+        0.8727916959612355,
+        0.5050724821008424,
+        0.9245242475437747,
+        0.5171727101547224
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1.55"
+    },
+    {
+      "bbox": [
+        0.8746071666112405,
+        0.6589299747608099,
+        0.9217908214166944,
+        0.6718198412467411
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "6.20"
+    },
+    {
+      "bbox": [
+        0.36789574326571334,
+        0.8718705691083954,
+        0.41576321915530423,
+        0.8842448409348895
+      ],
+      "fieldtype": "payment_reference",
+      "page": 0,
+      "text": "5516"
+    },
+    {
+      "bbox": [
+        0.4868806119055537,
+        0.6888344650081706,
+        0.6250124709012305,
+        0.7001775475157901
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "UPON RECEIPT"
+    },
+    {
+      "bbox": [
+        0.601762554040572,
+        0.31038798498122655,
+        0.8787100931160624,
+        0.32018428351053435
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "PAYMENT DUE UPON RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09112903225806451,
+        0.43343465045592705,
+        0.10483870967741936,
+        0.44680851063829785
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.1282258064516129,
+        0.43343465045592705,
+        0.32741935483870965,
+        0.44680851063829785
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2 OZ. MAIL PIECES"
+    },
+    {
+      "bbox": [
+        0.5758064516129032,
+        0.43343465045592705,
+        0.6258064516129033,
+        0.44680851063829785
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.55"
+    },
+    {
+      "bbox": [
+        0.8733870967741936,
+        0.43343465045592705,
+        0.9217741935483871,
+        0.44680851063829785
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.55"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.047867475889590956,
+        0.40835097027430467,
+        0.10667608912537413,
+        0.4196940527819243
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "# PCS"
+    },
+    {
+      "bbox": [
+        0.1282258064516129,
+        0.4073197809554302,
+        0.2598520119720652,
+        0.42006079027355625
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.5224393082806784,
+        0.3923675358317499,
+        0.6373212504156966,
+        0.4069261878860381
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PIECE RATE"
+    },
+    {
+      "bbox": [
+        0.8404161124043898,
+        0.40783537561486743,
+        0.904011473229132,
+        0.4202096474413615
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 484,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hywl0010",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03951612903225806,
+          0.39270516717325227,
+          0.9387096774193548,
+          0.521580547112462
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.09112903225806451,
+            "right": 0.10483870967741936
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.1282258064516129,
+            "right": 0.32741935483870965
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.5758064516129032,
+            "right": 0.6258064516129033
+          },
+          {
+            "column_type": "",
+            "left": 0.7161290322580646,
+            "right": 0.7629032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8733870967741936,
+            "right": 0.9217741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42006079027355625,
+            "row_type": "header",
+            "top": 0.39270516717325227
+          },
+          {
+            "bottom": 0.43343465045592705,
+            "row_type": "gap",
+            "top": 0.42006079027355625
+          },
+          {
+            "bottom": 0.44680851063829785,
+            "row_type": "data",
+            "top": 0.43343465045592705
+          },
+          {
+            "bottom": 0.460790273556231,
+            "row_type": "gap",
+            "top": 0.44680851063829785
+          },
+          {
+            "bottom": 0.521580547112462,
+            "row_type": "footer",
+            "top": 0.460790273556231
+          }
+        ],
+        "table_border_type": "row_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

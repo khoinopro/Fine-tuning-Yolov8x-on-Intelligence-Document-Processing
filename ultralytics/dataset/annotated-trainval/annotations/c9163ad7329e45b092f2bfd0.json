@@ -1,0 +1,296 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3940434098789439,
+        0.23432467716200733,
+        0.5280181783235303,
+        0.24884620660696338
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "30.06.082PF"
+    },
+    {
+      "bbox": [
+        0.2644469018410433,
+        0.3240941319126448,
+        0.35901732662545727,
+        0.3372955223171503
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "26.06.2000"
+    },
+    {
+      "bbox": [
+        0.16287126040593206,
+        0.30693232438678764,
+        0.2320477748315682,
+        0.32079378431151845
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "CCA/alc"
+    },
+    {
+      "bbox": [
+        0.2994729850945299,
+        0.147195500492271,
+        0.6742520759068369,
+        0.166337516578804
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "FABRIQUES DE TABAC REUNIES SA"
+    },
+    {
+      "bbox": [
+        0.29882981376787493,
+        0.14900685657736623,
+        0.6749314100432324,
+        0.18019897650353478
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "FABRIQUES DE TABAC REUNIES SA\nCH-2003 NEUCH\u00c2TEL (SUISSE)"
+    },
+    {
+      "bbox": [
+        0.1593686520805834,
+        0.38152018017224376,
+        0.22679386234354515,
+        0.3947215705767492
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "163.011"
+    },
+    {
+      "bbox": [
+        0.5840599115291089,
+        0.23630488572268318,
+        0.7732007610979367,
+        0.25016634564741397
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.5805573032037602,
+        0.23459557004395032,
+        0.8485068400929329,
+        0.336635452796925
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\nResearch & Development - WSA\n4201 Commerce Rd, Door #17\nUS - 23234 RICHMOND\nUSA\nAttn.Dr. Dan Hirnikel"
+    },
+    {
+      "bbox": [
+        0.7372990257631129,
+        0.6230323039403888,
+        0.7775790215046225,
+        0.6362336943448942
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "CHF"
+    },
+    {
+      "bbox": [
+        0.8126051047581092,
+        0.6207587221957359,
+        0.8774033587770594,
+        0.6359403211609173
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "150.00"
+    },
+    {
+      "bbox": [
+        0.8108538005954348,
+        0.6200986526755107,
+        0.8756520546143852,
+        0.6359403211609173
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "150.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.26048387096774195,
+        0.470516717325228,
+        0.27580645161290324,
+        0.502127659574468
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.32016129032258067,
+        0.470516717325228,
+        0.6048387096774194,
+        0.502127659574468
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Electronic system for filtration\nfor the Bistrot Table (smoke station)"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.470516717325228,
+        0.7806451612903226,
+        0.502127659574468
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "150.00"
+    },
+    {
+      "bbox": [
+        0.8129032258064516,
+        0.470516717325228,
+        0.8693548387096774,
+        0.502127659574468
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "150.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.32016129032258067,
+        0.3951367781155015,
+        0.42206427648173317,
+        0.41129667454006397
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7171590278923581,
+        0.3951367781155015,
+        0.7924651068873543,
+        0.4249240121580547
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price\nper unit."
+    },
+    {
+      "bbox": [
+        0.8055998881074118,
+        0.3951367781155015,
+        0.8782790108583967,
+        0.4249240121580547
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount\nCHF"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 172,
+    "currency": "chf",
+    "document_type": "proforma",
+    "language": "eng",
+    "original_filename": "jjmp0056",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0967741935483871,
+          0.3951367781155015,
+          0.8935483870967742,
+          0.8905775075987842
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.26048387096774195,
+            "right": 0.27580645161290324
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.32016129032258067,
+            "right": 0.6048387096774194
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7233870967741935,
+            "right": 0.7806451612903226
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8129032258064516,
+            "right": 0.8693548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4249240121580547,
+            "row_type": "header",
+            "top": 0.3951367781155015
+          },
+          {
+            "bottom": 0.470516717325228,
+            "row_type": "gap",
+            "top": 0.4249240121580547
+          },
+          {
+            "bottom": 0.502127659574468,
+            "row_type": "data",
+            "top": 0.470516717325228
+          },
+          {
+            "bottom": 0.5337386018237082,
+            "row_type": "up-merge",
+            "top": 0.502127659574468
+          },
+          {
+            "bottom": 0.6060790273556231,
+            "row_type": "gap",
+            "top": 0.5337386018237082
+          },
+          {
+            "bottom": 0.8905775075987842,
+            "row_type": "footer",
+            "top": 0.6060790273556231
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

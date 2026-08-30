@@ -1,0 +1,243 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8399664851277754,
+        0.16883790523690773,
+        0.8783649530193308,
+        0.17749625935162094
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "43249"
+    },
+    {
+      "bbox": [
+        0.646774193548387,
+        0.16821945137157107,
+        0.7079717517505536,
+        0.17811471321695763
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10-31-20"
+    },
+    {
+      "bbox": [
+        0.06399744648592574,
+        0.05875311720698254,
+        0.3743850619426656,
+        0.08720199501246882
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY"
+    },
+    {
+      "bbox": [
+        0.06399744648592574,
+        0.05875311720698254,
+        0.40878368942885074,
+        0.11750623441396509
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY\nP.O.BOX 8439\nHOT SPRINGS VILLAGE AR71910"
+    },
+    {
+      "bbox": [
+        0.9055638677758493,
+        0.19790523690773068,
+        0.9435483870967742,
+        0.20718204488778055
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "19172"
+    },
+    {
+      "bbox": [
+        0.11279549943144412,
+        0.16883790523690773,
+        0.35038601951044346,
+        0.17811471321695763
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "SETH LOUTON FOR CITY BOARD POS #3"
+    },
+    {
+      "bbox": [
+        0.11199553135037005,
+        0.16883790523690773,
+        0.3495860514293694,
+        0.20903740648379052
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "SETH LOUTON FOR CITY BOARD POS #3\n2104 HOBSON AVENUE\nHOT SPRINGS, AR 71913"
+    },
+    {
+      "bbox": [
+        0.6615736030482574,
+        0.19852369077306734,
+        0.8983641550461826,
+        0.2078004987531172
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "SETH LOUTON FOR CITY BOARD POS #3"
+    },
+    {
+      "bbox": [
+        0.8975641869651086,
+        0.42163092269326685,
+        0.9735611546671455,
+        0.4352369077306733
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "207.00"
+    },
+    {
+      "bbox": [
+        0.8983641550461826,
+        0.42101246882793014,
+        0.9727611865860714,
+        0.43585536159600996
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "207.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.027419354838709678,
+        0.3248129675810474,
+        0.05241935483870968,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "18"
+    },
+    {
+      "bbox": [
+        0.18225806451612903,
+        0.3248129675810474,
+        0.2435483870967742,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "11.50"
+    },
+    {
+      "bbox": [
+        0.825,
+        0.3248129675810474,
+        0.8435483870967742,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8983870967741936,
+        0.3248129675810474,
+        0.9766129032258064,
+        0.3485037406483791
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "207.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1093,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "4bb0db10-0fc1-4ef0-ac1f-7fd5ac91d568",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.027419354838709678,
+          0.3248129675810474,
+          0.9766129032258064,
+          0.4382793017456359
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.027419354838709678,
+            "right": 0.05241935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.07419354838709677,
+            "right": 0.14838709677419354
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.18225806451612903,
+            "right": 0.2435483870967742
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.825,
+            "right": 0.8435483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8983870967741936,
+            "right": 0.9766129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3485037406483791,
+            "row_type": "data",
+            "top": 0.3248129675810474
+          },
+          {
+            "bottom": 0.39276807980049877,
+            "row_type": "up-merge",
+            "top": 0.3485037406483791
+          },
+          {
+            "bottom": 0.40523690773067333,
+            "row_type": "gap",
+            "top": 0.39276807980049877
+          },
+          {
+            "bottom": 0.4382793017456359,
+            "row_type": "footer",
+            "top": 0.40523690773067333
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7240729157358593,
+        0.12628942729178577,
+        0.7481428628866459,
+        0.13662568911021156
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "006"
+    },
+    {
+      "bbox": [
+        0.6976767044946833,
+        0.13774835620354486,
+        0.7493223821431912,
+        0.1498061726524736
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "01/05/04"
+    },
+    {
+      "bbox": [
+        0.6502427645933745,
+        0.38761899429024665,
+        0.7127572851902827,
+        0.39869675300951474
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "UTA02-400"
+    },
+    {
+      "bbox": [
+        0.6360885335148291,
+        0.2015023800090583,
+        0.8147857008814631,
+        0.21304171200829594
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The University of Texas at Austin"
+    },
+    {
+      "bbox": [
+        0.6367954626019142,
+        0.19970109255823543,
+        0.8129032258064516,
+        0.26360544217687076
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The University of Texas at Austin\nOffice of Accounting\nAttn: Contracts & Grants\nP.O. Box 7159\nAustin, Texas 78713-7159"
+    },
+    {
+      "bbox": [
+        0.23780417389060543,
+        0.13785655529857568,
+        0.41296278348760307,
+        0.15078060713772187
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The University of Texas at Austin"
+    },
+    {
+      "bbox": [
+        0.5731100884639444,
+        0.7759582856870592,
+        0.6358919229746909,
+        0.7858028724485746
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "26-7605-35"
+    },
+    {
+      "bbox": [
+        0.2837503350906979,
+        0.20204700304936152,
+        0.40883446608969404,
+        0.2250426177276937
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Tapas Sengupta, Ph.D.\nPhillip Morris USA"
+    },
+    {
+      "bbox": [
+        0.2816908146528157,
+        0.19906305838165042,
+        0.41159786768726075,
+        0.252052337453962
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Tapas Sengupta, Ph.D.\nPhillip Morris USA\n615 Maury Street\nRichmond, VA 23224"
+    },
+    {
+      "bbox": [
+        0.6889993627265861,
+        0.552092944414747,
+        0.6975755248940162,
+        0.5631707031340151
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6875767469057597,
+        0.15007710033439023,
+        0.7443156087065101,
+        0.1629586841641348
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$4,582.22"
+    },
+    {
+      "bbox": [
+        0.6889143358347141,
+        0.5522636311658609,
+        0.7443156087065101,
+        0.5629515977114595
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$4,582.22"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.30483870967741933,
+        0.48042929292929293,
+        0.4782258064516129,
+        0.51010101010101
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EQUIPMENT EXPENDITURES\nTHIS QUARTER:"
+    },
+    {
+      "bbox": [
+        0.6870967741935484,
+        0.48042929292929293,
+        0.7451612903225806,
+        0.51010101010101
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$4,582.22"
+    },
+    {
+      "bbox": [
+        0.6479565336249317,
+        0.4209998222295154,
+        0.6966716785128485,
+        0.4323042017649418
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "07/01/03"
+    },
+    {
+      "bbox": [
+        0.734561235647895,
+        0.42241286967144365,
+        0.7868849097867687,
+        0.43371724920687016
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "09/30/03"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 806,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "szxx0179",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1755,
+        2242
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2056451612903226,
+          0.3428030303030303,
+          0.7959677419354839,
+          0.5681818181818182
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.30483870967741933,
+            "right": 0.4782258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6870967741935484,
+            "right": 0.7451612903225806
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3547979797979798,
+            "row_type": "header",
+            "top": 0.3428030303030303
+          },
+          {
+            "bottom": 0.3869949494949495,
+            "row_type": "gap",
+            "top": 0.3547979797979798
+          },
+          {
+            "bottom": 0.43623737373737376,
+            "row_type": "subsection-header",
+            "top": 0.3869949494949495
+          },
+          {
+            "bottom": 0.48042929292929293,
+            "row_type": "gap",
+            "top": 0.43623737373737376
+          },
+          {
+            "bottom": 0.51010101010101,
+            "row_type": "data",
+            "top": 0.48042929292929293
+          },
+          {
+            "bottom": 0.55239898989899,
+            "row_type": "gap-with-text",
+            "top": 0.51010101010101
+          },
+          {
+            "bottom": 0.5681818181818182,
+            "row_type": "footer",
+            "top": 0.55239898989899
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

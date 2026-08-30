@@ -1,0 +1,403 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.723836200225519,
+        0.05311691552669346,
+        0.8388462048685577,
+        0.06476836796480687
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "SO73892-IN"
+    },
+    {
+      "bbox": [
+        0.7246912931968427,
+        0.11205955727244363,
+        0.8149036016714938,
+        0.1240536994881486
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/29/99"
+    },
+    {
+      "bbox": [
+        0.05002293882243693,
+        0.30465121227890635,
+        0.13082922461252733,
+        0.3169880442722029
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "PENDING"
+    },
+    {
+      "bbox": [
+        0.15648201375223858,
+        0.06682450663035629,
+        0.6225076831236596,
+        0.08704320350825896
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "AAA FLAG & BANNER MFG. CO., INC."
+    },
+    {
+      "bbox": [
+        0.18854800017687764,
+        0.08807127284103367,
+        0.5831734064427689,
+        0.09972272527914708
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "8955 NATIONAL BOULEVARD \u00b7 LOS ANGELES, CALIFORNIA 90034"
+    },
+    {
+      "bbox": [
+        0.7237397811949873,
+        0.0824979819712041,
+        0.8036371711293137,
+        0.09396295831765543
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0022756"
+    },
+    {
+      "bbox": [
+        0.11720356422272775,
+        0.18667972355417484,
+        0.33295760552398257,
+        0.19864317713308058
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A"
+    },
+    {
+      "bbox": [
+        0.11751444900846443,
+        0.201634040527807,
+        0.5017680441789989,
+        0.24375536667020425
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "ATTN: WADDY PLATT\n120 PARK AVENUE\nNEW YORK NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.5776239318987484,
+        0.18643048493794764,
+        0.79368885798574,
+        0.19839393851685339
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A"
+    },
+    {
+      "bbox": [
+        0.8477828107039219,
+        0.8232351493984505,
+        0.9373176289960853,
+        0.8364447960584924
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "1,200.00"
+    },
+    {
+      "bbox": [
+        0.8807365979920099,
+        0.8366940346747195,
+        0.9382502833532953,
+        0.8496544427185341
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "99.00"
+    },
+    {
+      "bbox": [
+        0.8474719259181852,
+        0.8818062242118432,
+        0.936695859424612,
+        0.8959276018099548
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,299.00"
+    },
+    {
+      "bbox": [
+        0.8484045802753952,
+        0.8823047014442977,
+        0.936695859424612,
+        0.8959276018099548
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1,299.00"
+    },
+    {
+      "bbox": [
+        0.768507190341069,
+        0.3053173048783233,
+        0.8944155285644237,
+        0.3165330426085475
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    },
+    {
+      "bbox": [
+        0.8471610411324485,
+        0.8229859107822234,
+        0.937628513781822,
+        0.8366940346747195
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "1,200.00"
+    },
+    {
+      "bbox": [
+        0.8810474827777466,
+        0.8371925119071739,
+        0.938561168139032,
+        0.8494052041023069
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "99.00"
+    },
+    {
+      "bbox": [
+        0.8477828107039219,
+        0.8823047014442977,
+        0.9360740898531386,
+        0.8955143481043394
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "1,299.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05161290322580645,
+        0.4078862314156432,
+        0.09758064516129032,
+        0.4356819650937298
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "/E02"
+    },
+    {
+      "bbox": [
+        0.1532258064516129,
+        0.4078862314156432,
+        0.4588709677419355,
+        0.4356819650937298
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10' x20' CUSTOM VINYL BANNER\n(FOR WINNER CIRCLE)"
+    },
+    {
+      "bbox": [
+        0.589516129032258,
+        0.4078862314156432,
+        0.646774193548387,
+        0.4356819650937298
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.000"
+    },
+    {
+      "bbox": [
+        0.667741935483871,
+        0.4078862314156432,
+        0.7709677419354839,
+        0.4356819650937298
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,200.000"
+    },
+    {
+      "bbox": [
+        0.8475806451612903,
+        0.4078862314156432,
+        0.9387096774193548,
+        0.4356819650937298
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,200.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.050272575339558576,
+        0.3761041404881431,
+        0.13474418152235426,
+        0.38624689063250267
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SALES CODE"
+    },
+    {
+      "bbox": [
+        0.25170486700622524,
+        0.3762120232708468,
+        0.34062234719864176,
+        0.3867951473970626
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.5940371657470289,
+        0.3762120232708468,
+        0.6620932371250708,
+        0.3865210190147826
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.7393830468307867,
+        0.3761041404881431,
+        0.7804218838426712,
+        0.38706927577934264
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PRICE"
+    },
+    {
+      "bbox": [
+        0.8679714028013582,
+        0.377200654017263,
+        0.925767764926429,
+        0.38624689063250267
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 893,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lmnb0025",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0467741935483871,
+          0.3762120232708468,
+          0.942741935483871,
+          0.8713639301874596
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.05161290322580645,
+            "right": 0.09758064516129032
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.1532258064516129,
+            "right": 0.4588709677419355
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.589516129032258,
+            "right": 0.646774193548387
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.667741935483871,
+            "right": 0.7709677419354839
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8475806451612903,
+            "right": 0.9387096774193548
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3884938590820944,
+            "row_type": "header",
+            "top": 0.3762120232708468
+          },
+          {
+            "bottom": 0.4078862314156432,
+            "row_type": "gap",
+            "top": 0.3884938590820944
+          },
+          {
+            "bottom": 0.4356819650937298,
+            "row_type": "data",
+            "top": 0.4078862314156432
+          },
+          {
+            "bottom": 0.8209437621202327,
+            "row_type": "gap",
+            "top": 0.4356819650937298
+          },
+          {
+            "bottom": 0.8500323206205559,
+            "row_type": "footer",
+            "top": 0.8209437621202327
+          },
+          {
+            "bottom": 0.8713639301874596,
+            "row_type": "gap",
+            "top": 0.8500323206205559
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

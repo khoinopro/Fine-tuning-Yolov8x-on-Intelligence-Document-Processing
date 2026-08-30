@@ -1,0 +1,212 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.823621418710797,
+        0.2960226095072683,
+        0.8856063791459287,
+        0.3100303951367781
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99-692"
+    },
+    {
+      "bbox": [
+        0.7144739883793695,
+        0.30922933740115566,
+        0.8849326295759815,
+        0.32649967387777756
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 20, 1999"
+    },
+    {
+      "bbox": [
+        0.42469123272574466,
+        0.5503513134196142,
+        0.4702251409552773,
+        0.5661929819050209
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "1170"
+    },
+    {
+      "bbox": [
+        0.17738491132392512,
+        0.12176151681453623,
+        0.8123852554711283,
+        0.15020677689367828
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "33 Bleecker Street; New York, NY 10012"
+    },
+    {
+      "bbox": [
+        0.10325985663082438,
+        0.3828869645007742,
+        0.13973654114644588,
+        0.3986781254242393
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GCI"
+    },
+    {
+      "bbox": [
+        0.10141216838658924,
+        0.38341143924228516,
+        0.29951969526830974,
+        0.4289012142583278
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GCI\n92 Grandview Avenue\nGreat Neck, NY 11020"
+    },
+    {
+      "bbox": [
+        0.7835205100069764,
+        0.6547842374148497,
+        0.797081441906618,
+        0.6716736105868403
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.783196444513972,
+        0.6546360824350315,
+        0.8849326295759815,
+        0.6719064189116534
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,082.50"
+    },
+    {
+      "bbox": [
+        0.7830645161290323,
+        0.6571758377992406,
+        0.8862801287158757,
+        0.6708905167659698
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,082.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.6249240121580547,
+        0.44516129032258067,
+        0.6395136778115501
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Additional Character Designs as Agreed"
+    },
+    {
+      "bbox": [
+        0.7919354838709678,
+        0.6249240121580547,
+        0.885483870967742,
+        0.6395136778115501
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$1,000.00"
+    },
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.6395136778115501,
+        0.44516129032258067,
+        0.6553191489361702
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NY Sales Tax"
+    },
+    {
+      "bbox": [
+        0.7919354838709678,
+        0.6395136778115501,
+        0.885483870967742,
+        0.6553191489361702
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "82.50"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 294,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ynxd0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10161290322580645,
+          0.6249240121580547,
+          0.885483870967742,
+          0.6759878419452887
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10161290322580645,
+            "right": 0.44516129032258067
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7919354838709678,
+            "right": 0.885483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6395136778115501,
+            "row_type": "data",
+            "top": 0.6249240121580547
+          },
+          {
+            "bottom": 0.6553191489361702,
+            "row_type": "data",
+            "top": 0.6395136778115501
+          },
+          {
+            "bottom": 0.6759878419452887,
+            "row_type": "footer",
+            "top": 0.6553191489361702
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

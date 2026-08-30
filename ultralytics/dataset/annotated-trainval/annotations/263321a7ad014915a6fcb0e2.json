@@ -1,0 +1,264 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7819343036978758,
+        0.10437308105905481,
+        0.8626589299763966,
+        0.11705392268305212
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "00004161"
+    },
+    {
+      "bbox": [
+        0.7819343036978758,
+        0.1282715902735113,
+        0.8530814319433516,
+        0.14144015657535466
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/12/99"
+    },
+    {
+      "bbox": [
+        0.1169822974036192,
+        0.054137439240911606,
+        0.4179893784421715,
+        0.08193774587813649
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MDM LIMOUSINE AND SEDAN SERVICE\nA DIVISION OF MDM TOLLFORD, INC."
+    },
+    {
+      "bbox": [
+        0.11818137959100099,
+        0.05369754507430513,
+        0.41582343991881704,
+        0.11363899339746528
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MDM LIMOUSINE AND SEDAN SERVICE\nA DIVISION OF MOM TOLLFORD, INC.\nP.O. BOX 641110\nSAN FRANCISCO, CA 94164"
+    },
+    {
+      "bbox": [
+        0.17444728560188827,
+        0.8598586070425871,
+        0.2685483870967742,
+        0.8729154686601495
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "94-3231667"
+    },
+    {
+      "bbox": [
+        0.1169822974036192,
+        0.17411770999104,
+        0.3701018882769473,
+        0.18728627629288339
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. REYNOLDS TOBACCO CO."
+    },
+    {
+      "bbox": [
+        0.11561408339889849,
+        0.17358044172062542,
+        0.3748906372934697,
+        0.231669221976874
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. REYNOLDS TOBACCO CO.\nATTN. CHARLES A. BLIXT\nP.O. BOX 2959\nWINSTON - SALEM, NC 27102"
+    },
+    {
+      "bbox": [
+        0.8407675059008655,
+        0.9120451475721144,
+        0.8565019669551533,
+        0.9315541346859565
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8435039339103069,
+        0.9110696982164224,
+        0.9406471282454759,
+        0.9310664100081105
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$232.00"
+    },
+    {
+      "bbox": [
+        0.8441880409126672,
+        0.9125328722499605,
+        0.9419354838709677,
+        0.9300909606524183
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$232.00"
+    },
+    {
+      "bbox": [
+        0.7128394964594806,
+        0.2443500636008713,
+        0.7757773406766325,
+        0.2589818039362528
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.36745255894192064,
+        0.6814516129032258,
+        0.39735480161012077
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "3/11/99 130PM: MR. C. BLIXT - N27R, KAISERAIROAK TO 171 12TH ST.\nOAKLAND / STANDBY & RETURN. {SEDAN}"
+    },
+    {
+      "bbox": [
+        0.8693548387096774,
+        0.36745255894192064,
+        0.942741935483871,
+        0.39735480161012077
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$200.00"
+    },
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.39735480161012077,
+        0.6814516129032258,
+        0.410580793559517
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "15% GRATUITY"
+    },
+    {
+      "bbox": [
+        0.8693548387096774,
+        0.39735480161012077,
+        0.942741935483871,
+        0.410580793559517
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$30.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 63,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hqbb0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1668,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09435483870967742,
+          0.34560092006900517,
+          0.942741935483871,
+          0.9332949971247844
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11612903225806452,
+            "right": 0.6814516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8693548387096774,
+            "right": 0.942741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.36745255894192064,
+            "row_type": "gap",
+            "top": 0.34560092006900517
+          },
+          {
+            "bottom": 0.39735480161012077,
+            "row_type": "data",
+            "top": 0.36745255894192064
+          },
+          {
+            "bottom": 0.410580793559517,
+            "row_type": "data",
+            "top": 0.39735480161012077
+          },
+          {
+            "bottom": 0.6020701552616446,
+            "row_type": "gap",
+            "top": 0.410580793559517
+          },
+          {
+            "bottom": 0.61644623346751,
+            "row_type": "gap-with-text",
+            "top": 0.6020701552616446
+          },
+          {
+            "bottom": 0.6336975273145485,
+            "row_type": "gap",
+            "top": 0.61644623346751
+          },
+          {
+            "bottom": 0.7705577918343876,
+            "row_type": "gap-with-text",
+            "top": 0.6336975273145485
+          },
+          {
+            "bottom": 0.8326624496837263,
+            "row_type": "gap",
+            "top": 0.7705577918343876
+          },
+          {
+            "bottom": 0.9332949971247844,
+            "row_type": "footer",
+            "top": 0.8326624496837263
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

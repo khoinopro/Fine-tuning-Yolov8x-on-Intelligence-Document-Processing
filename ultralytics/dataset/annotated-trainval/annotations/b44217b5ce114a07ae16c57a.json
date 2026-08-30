@@ -1,0 +1,308 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.09402800825676934,
+        0.18311728245213704,
+        0.15122030193872182,
+        0.21071029761615767
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/5/20"
+    },
+    {
+      "bbox": [
+        0.2693548387096774,
+        0.22826948908417083,
+        0.3266746266240337,
+        0.25460827628619054
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0636R"
+    },
+    {
+      "bbox": [
+        0.48855789857125514,
+        0.8395802092462282,
+        0.6814607196341118,
+        0.8583936286762422
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "OLDENBURG FOR ASSEMBLY"
+    },
+    {
+      "bbox": [
+        0.4934047031205731,
+        0.857891926008642,
+        0.6184522604929776,
+        0.9135796590042836
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "E4299 County Rd. Y\nViroqua, Wi 54665\n608-792-7896"
+    },
+    {
+      "bbox": [
+        0.30340996478730725,
+        0.09908400899807414,
+        0.5709535759096612,
+        0.12667702416209478
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "OLDENBURG FOR ASSEMBLY"
+    },
+    {
+      "bbox": [
+        0.7977840288177439,
+        0.73497758573255,
+        0.8132938033755616,
+        0.7763671084785809
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7983870967741935,
+        0.7390396659707724,
+        0.9161290322580645,
+        0.7738586525545791
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,032.00"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.7390396659707724,
+        0.9137096774193548,
+        0.7766179540709812
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,032.00"
+    },
+    {
+      "bbox": [
+        0.02714210547618084,
+        0.7693434433741756,
+        0.34024567936212413,
+        0.7856484068801879
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "All bills are due and payable by the 25 th  of the month following broadcast"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.037096774193548385,
+        0.3058455114822547,
+        0.08870967741935484,
+        0.33402922755741127
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/5"
+    },
+    {
+      "bbox": [
+        0.17983870967741936,
+        0.3058455114822547,
+        0.2120967741935484,
+        0.33402922755741127
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "BTA"
+    },
+    {
+      "bbox": [
+        0.9290322580645162,
+        0.3058455114822547,
+        0.9693548387096774,
+        0.33402922755741127
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$6.00"
+    },
+    {
+      "bbox": [
+        0.037096774193548385,
+        0.33402922755741127,
+        0.08870967741935484,
+        0.36430062630480164
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "10/11"
+    },
+    {
+      "bbox": [
+        0.037096774193548385,
+        0.36430062630480164,
+        0.08870967741935484,
+        0.395615866388309
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "10/18"
+    },
+    {
+      "bbox": [
+        0.037096774193548385,
+        0.395615866388309,
+        0.08870967741935484,
+        0.430062630480167
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "10/25"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.022295300926862834,
+        0.2818371607515658,
+        0.08870967741935484,
+        0.30352316680422714
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BEGIN DATE"
+    },
+    {
+      "bbox": [
+        0.17983870967741936,
+        0.2818371607515658,
+        0.25009511474480917,
+        0.30352316680422714
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BEGIN TIME"
+    },
+    {
+      "bbox": [
+        0.9290322580645162,
+        0.2818371607515658,
+        0.9693548387096774,
+        0.3058455114822547
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1015,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "3d2186e9-766f-4f2f-a3e7-5f8ded03c8ef",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.024193548387096774,
+          0.2818371607515658,
+          0.9822580645161291,
+          0.651356993736952
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.037096774193548385,
+            "right": 0.08870967741935484
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.17983870967741936,
+            "right": 0.2153225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.5951612903225807,
+            "right": 0.6362903225806451
+          },
+          {
+            "column_type": "",
+            "left": 0.6362903225806451,
+            "right": 0.8338709677419355
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.9290322580645162,
+            "right": 0.9693548387096774
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3058455114822547,
+            "row_type": "header",
+            "top": 0.2818371607515658
+          },
+          {
+            "bottom": 0.33402922755741127,
+            "row_type": "data",
+            "top": 0.3058455114822547
+          },
+          {
+            "bottom": 0.36430062630480164,
+            "row_type": "data",
+            "top": 0.33402922755741127
+          },
+          {
+            "bottom": 0.395615866388309,
+            "row_type": "data",
+            "top": 0.36430062630480164
+          },
+          {
+            "bottom": 0.430062630480167,
+            "row_type": "data",
+            "top": 0.395615866388309
+          },
+          {
+            "bottom": 0.4613778705636743,
+            "row_type": "data",
+            "top": 0.430062630480167
+          },
+          {
+            "bottom": 0.651356993736952,
+            "row_type": "gap-with-text",
+            "top": 0.4613778705636743
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

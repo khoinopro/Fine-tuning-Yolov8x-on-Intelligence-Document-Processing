@@ -1,0 +1,238 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7576902843205241,
+        0.26317236893394264,
+        0.8447416246203879,
+        0.2802229731183953
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "046-9004800"
+    },
+    {
+      "bbox": [
+        0.7588356966928907,
+        0.22758849933160677,
+        0.8206879648006887,
+        0.24612176474949005
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02/05/99"
+    },
+    {
+      "bbox": [
+        0.7588356966928907,
+        0.29537417548154205,
+        0.8435962122480213,
+        0.31580684272073123
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "AZPHOE02-08"
+    },
+    {
+      "bbox": [
+        0.3301785230221121,
+        0.43705772307024915,
+        0.4015935406420633,
+        0.4550683435264408
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "000000991"
+    },
+    {
+      "bbox": [
+        0.4283764277645286,
+        0.0811757025303288,
+        0.50267128691567,
+        0.09451965363120475
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHOENIX DIVISON"
+    },
+    {
+      "bbox": [
+        0.42021687675949004,
+        0.07879502725982368,
+        0.538315641306102,
+        0.13955548859666114
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PHOENIX DIVISION\n2850 East Camelback Road\nSuite, 37\nPhoenix, AZ 85016"
+    },
+    {
+      "bbox": [
+        0.34073977675027284,
+        0.24606905809049637,
+        0.3933278486931835,
+        0.26207354967361807
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0000489"
+    },
+    {
+      "bbox": [
+        0.3384197147527915,
+        0.2630480167014614,
+        0.4551961686260196,
+        0.2790783219806849
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LEO BURNET USA"
+    },
+    {
+      "bbox": [
+        0.3391150442477876,
+        0.26383054071266804,
+        0.5077842405689302,
+        0.36810330641179945
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "LEO BURNETT USA\n35 WEST WACKER DRIVE\nSECTION B\n\nCHICAGO, IL 60601-0000"
+    },
+    {
+      "bbox": [
+        0.810939008239827,
+        0.7510107858536735,
+        0.8759007441693047,
+        0.7690158388846855
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,458.27"
+    },
+    {
+      "bbox": [
+        0.810939008239827,
+        0.7510107858536735,
+        0.8743540361709838,
+        0.7690158388846855
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1,458.27"
+    },
+    {
+      "bbox": [
+        0.7583509362969163,
+        0.38490802562669174,
+        0.8449665842028867,
+        0.4029130786577037
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.31209677419354837,
+        0.6116910229645094,
+        0.4768500806025122,
+        0.6670146137787056
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MARKET: 046 PHOENIX\nPERMANENT BULLETIN\nTOTAL FACES"
+    },
+    {
+      "bbox": [
+        0.5612903225806452,
+        0.6116910229645094,
+        0.5733870967741935,
+        0.6670146137787056
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8120967741935484,
+        0.6116910229645094,
+        0.8751273901701444,
+        0.6670146137787056
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1,750.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 355,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mpyx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.31209677419354837,
+          0.6116910229645094,
+          0.8830645161290323,
+          0.7724425887265136
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.31209677419354837,
+            "right": 0.475
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.5612903225806452,
+            "right": 0.5733870967741935
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8120967741935484,
+            "right": 0.8830645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6670146137787056,
+            "row_type": "data",
+            "top": 0.6116910229645094
+          },
+          {
+            "bottom": 0.7505219206680585,
+            "row_type": "gap-with-text",
+            "top": 0.6670146137787056
+          },
+          {
+            "bottom": 0.7724425887265136,
+            "row_type": "footer",
+            "top": 0.7505219206680585
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

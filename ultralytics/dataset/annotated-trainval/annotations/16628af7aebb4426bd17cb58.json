@@ -1,0 +1,260 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7048387096774194,
+        0.3536547808738267,
+        0.8146834426448937,
+        0.3752393449647175
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "695504"
+    },
+    {
+      "bbox": [
+        0.01774528329960719,
+        0.3566015484034183,
+        0.22518152600880847,
+        0.36767326530080774
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.01774528329960719,
+        0.3557933130699088,
+        0.22803659675473756,
+        0.38289687603471817
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY\n714 Green Vailey Road\nGreensboro, N.C. 27408"
+    },
+    {
+      "bbox": [
+        0.7410185543387692,
+        0.6269359693146771,
+        0.8578926615879062,
+        0.6393916508242402
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "0000011135"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.029838709677419355,
+        0.4121580547112462,
+        0.11451612903225807,
+        0.42857142857142855
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "/02/00"
+    },
+    {
+      "bbox": [
+        0.13064516129032258,
+        0.4121580547112462,
+        0.20080645161290323,
+        0.42857142857142855
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "100200"
+    },
+    {
+      "bbox": [
+        0.4314516129032258,
+        0.4121580547112462,
+        0.5467741935483871,
+        0.4308611062758593
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "103,217.00"
+    },
+    {
+      "bbox": [
+        0.5701612903225807,
+        0.4121580547112462,
+        0.582258064516129,
+        0.42857142857142855
+      ],
+      "fieldtype": "line_item_discount_amount",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "X"
+    },
+    {
+      "bbox": [
+        0.739516129032258,
+        0.4121580547112462,
+        0.8620967741935484,
+        0.4308611062758593
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "103, 217.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.029838709677419355,
+        0.39209726443769,
+        0.11119328068531657,
+        0.4059558400171391
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE DATE"
+    },
+    {
+      "bbox": [
+        0.14972560567527773,
+        0.39433338242973637,
+        0.3082585999196895,
+        0.4059558400171391
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE # OR DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.45908512916610894,
+        0.39209726443769,
+        0.5097276134386294,
+        0.4042954889332244
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GR0SS"
+    },
+    {
+      "bbox": [
+        0.6055079641279615,
+        0.39267303134582165,
+        0.6748661491098915,
+        0.40678601555909644
+      ],
+      "fieldtype": "line_item_discount_amount",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DISCOUNT"
+    },
+    {
+      "bbox": [
+        0.8212889840717441,
+        0.39209726443769,
+        0.8576194619194217,
+        0.4051256644751818
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 749,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fsyl0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.029838709677419355,
+          0.39209726443769,
+          0.8620967741935484,
+          0.6401215805471124
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.029838709677419355,
+            "right": 0.11451612903225807
+          },
+          {
+            "column_type": "line_item_order_id",
+            "left": 0.13064516129032258,
+            "right": 0.20080645161290323
+          },
+          {
+            "column_type": "",
+            "left": 0.31451612903225806,
+            "right": 0.36451612903225805
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4314516129032258,
+            "right": 0.5467741935483871
+          },
+          {
+            "column_type": "line_item_discount_amount",
+            "left": 0.5701612903225807,
+            "right": 0.582258064516129
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.739516129032258,
+            "right": 0.8620967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4054711246200608,
+            "row_type": "header",
+            "top": 0.39209726443769
+          },
+          {
+            "bottom": 0.4121580547112462,
+            "row_type": "gap",
+            "top": 0.4054711246200608
+          },
+          {
+            "bottom": 0.42857142857142855,
+            "row_type": "data",
+            "top": 0.4121580547112462
+          },
+          {
+            "bottom": 0.6212765957446809,
+            "row_type": "gap",
+            "top": 0.42857142857142855
+          },
+          {
+            "bottom": 0.6401215805471124,
+            "row_type": "footer",
+            "top": 0.6212765957446809
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

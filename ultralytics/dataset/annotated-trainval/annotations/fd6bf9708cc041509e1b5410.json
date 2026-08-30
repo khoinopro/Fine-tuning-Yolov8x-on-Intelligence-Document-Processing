@@ -1,0 +1,314 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2539947219585353,
+        0.3382997589316757,
+        0.369606124809248,
+        0.3580629753482708
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "002-7113223-5355246"
+    },
+    {
+      "bbox": [
+        0.062046966101198316,
+        0.21653186945810646,
+        0.13408924438194017,
+        0.23428643405970528
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Amazon.com"
+    },
+    {
+      "bbox": [
+        0.062255720605900795,
+        0.21623283400564713,
+        0.21002754094518178,
+        0.29785252082009045
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Amazon.com\n1 Centerpoint Blvd\nP.O. Box 15550\nNew Castle, DE 19720-5550\nUSA"
+    },
+    {
+      "bbox": [
+        0.42621224107116695,
+        0.1349036402569593,
+        0.5042029240280097,
+        0.1570990429935233
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Katy Lauler"
+    },
+    {
+      "bbox": [
+        0.37011367964606956,
+        0.1325297997706561,
+        0.5623538718467083,
+        0.24245921664318335
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Katy Lauler\nBSMG - 625 N. Michigan Ave.\n25th Floor\nChicago, IL 60611-3110\nUSA"
+    },
+    {
+      "bbox": [
+        0.8507566435205532,
+        0.5866007376009519,
+        0.8811578916527497,
+        0.6020616503162194
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "16.55"
+    },
+    {
+      "bbox": [
+        0.8514407723184201,
+        0.605670563629067,
+        0.8811578916527497,
+        0.6220395632980547
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "16.55"
+    },
+    {
+      "bbox": [
+        0.8577202543142597,
+        0.6257832249975832,
+        0.8818420204506168,
+        0.64201747627989
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04758064516129032,
+        0.46466809421841543,
+        0.06048387096774194,
+        0.5064239828693791
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.08387096774193549,
+        0.46466809421841543,
+        0.42258064516129035,
+        0.5064239828693791
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Parenting Teens With Love & Logic : Preparing Adolescents for\nResponsible Adulthood (84-5-390)"
+    },
+    {
+      "bbox": [
+        0.4870967741935484,
+        0.46466809421841543,
+        0.5314516129032258,
+        0.5064239828693791
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Fay Jim"
+    },
+    {
+      "bbox": [
+        0.7911290322580645,
+        0.46466809421841543,
+        0.8274193548387097,
+        0.5064239828693791
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$12.60"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.46466809421841543,
+        0.8798387096774194,
+        0.5064239828693791
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$12.60"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04758064516129032,
+        0.381442997917195,
+        0.06568827034563207,
+        0.40004367219163744
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Qty"
+    },
+    {
+      "bbox": [
+        0.08387096774193549,
+        0.38493062434365294,
+        0.11035631235613469,
+        0.4012062143337901
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Title"
+    },
+    {
+      "bbox": [
+        0.4895967474649119,
+        0.381442997917195,
+        0.550029980773239,
+        0.4012062143337901
+      ],
+      "fieldtype": "line_item_person_name",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Author/Artist"
+    },
+    {
+      "bbox": [
+        0.7996455096554596,
+        0.3715203426124197,
+        0.8274193548387097,
+        0.40469384076024806
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Our\nPrice"
+    },
+    {
+      "bbox": [
+        0.8556995231588355,
+        0.381442997917195,
+        0.8798387096774194,
+        0.40004367219163744
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 56,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "rphm0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04758064516129032,
+          0.3715203426124197,
+          0.8870967741935484,
+          0.6498929336188437
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.04758064516129032,
+            "right": 0.06048387096774194
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.08387096774193549,
+            "right": 0.42258064516129035
+          },
+          {
+            "column_type": "line_item_person_name",
+            "left": 0.4870967741935484,
+            "right": 0.5314516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.6169354838709677,
+            "right": 0.6790322580645162
+          },
+          {
+            "column_type": "",
+            "left": 0.7475806451612903,
+            "right": 0.7846774193548387
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7911290322580645,
+            "right": 0.8274193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8419354838709677,
+            "right": 0.8798387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4143468950749465,
+            "row_type": "header",
+            "top": 0.3715203426124197
+          },
+          {
+            "bottom": 0.43790149892933616,
+            "row_type": "gap",
+            "top": 0.4143468950749465
+          },
+          {
+            "bottom": 0.46466809421841543,
+            "row_type": "gap-with-text",
+            "top": 0.43790149892933616
+          },
+          {
+            "bottom": 0.5064239828693791,
+            "row_type": "data",
+            "top": 0.46466809421841543
+          },
+          {
+            "bottom": 0.5321199143468951,
+            "row_type": "gap",
+            "top": 0.5064239828693791
+          },
+          {
+            "bottom": 0.6498929336188437,
+            "row_type": "footer",
+            "top": 0.5321199143468951
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

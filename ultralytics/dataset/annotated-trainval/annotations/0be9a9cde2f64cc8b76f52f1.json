@@ -1,0 +1,218 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4868708039621111,
+        0.1581623470691798,
+        0.5445862241430547,
+        0.17076081003671076
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "225450"
+    },
+    {
+      "bbox": [
+        0.49338954451959294,
+        0.13645274039446376,
+        0.5413139559198409,
+        0.14946594424875087
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "80048"
+    },
+    {
+      "bbox": [
+        0.7238132023013657,
+        0.5615507376955978,
+        0.7346348435852926,
+        0.5767328088589327
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.723426715112654,
+        0.5610550041607958,
+        0.8127052557050513,
+        0.5768567516981444
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$33,859.42"
+    },
+    {
+      "bbox": [
+        0.7240837480513251,
+        0.5614112457535272,
+        0.8119129616860535,
+        0.5772099398130908
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$33,859.42"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14193548387096774,
+        0.22947640594699417,
+        0.3604838709677419,
+        0.248868778280543
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TeenH.l.P. Grant Program"
+    },
+    {
+      "bbox": [
+        0.7217741935483871,
+        0.22947640594699417,
+        0.817741935483871,
+        0.248868778280543
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$11,932.50"
+    },
+    {
+      "bbox": [
+        0.14193548387096774,
+        0.3581124757595346,
+        0.3604838709677419,
+        0.3775048480930834
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Cool News Program"
+    },
+    {
+      "bbox": [
+        0.7217741935483871,
+        0.3581124757595346,
+        0.817741935483871,
+        0.3775048480930834
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$4,321.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 853,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ylgd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14193548387096774,
+          0.19457013574660634,
+          0.817741935483871,
+          0.5804783451842276
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14193548387096774,
+            "right": 0.3604838709677419
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7217741935483871,
+            "right": 0.817741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.21266968325791855,
+            "row_type": "subsection-header",
+            "top": 0.19457013574660634
+          },
+          {
+            "bottom": 0.22947640594699417,
+            "row_type": "gap",
+            "top": 0.21266968325791855
+          },
+          {
+            "bottom": 0.248868778280543,
+            "row_type": "data",
+            "top": 0.22947640594699417
+          },
+          {
+            "bottom": 0.3438914027149321,
+            "row_type": "up-merge",
+            "top": 0.248868778280543
+          },
+          {
+            "bottom": 0.3581124757595346,
+            "row_type": "gap",
+            "top": 0.3438914027149321
+          },
+          {
+            "bottom": 0.3775048480930834,
+            "row_type": "data",
+            "top": 0.3581124757595346
+          },
+          {
+            "bottom": 0.45054945054945056,
+            "row_type": "up-merge",
+            "top": 0.3775048480930834
+          },
+          {
+            "bottom": 0.4673561732385262,
+            "row_type": "gap",
+            "top": 0.45054945054945056
+          },
+          {
+            "bottom": 0.486748545572075,
+            "row_type": "gap-with-text",
+            "top": 0.4673561732385262
+          },
+          {
+            "bottom": 0.5048480930833872,
+            "row_type": "gap",
+            "top": 0.486748545572075
+          },
+          {
+            "bottom": 0.5229476405946994,
+            "row_type": "data",
+            "top": 0.5048480930833872
+          },
+          {
+            "bottom": 0.5591467356173239,
+            "row_type": "gap",
+            "top": 0.5229476405946994
+          },
+          {
+            "bottom": 0.5804783451842276,
+            "row_type": "footer",
+            "top": 0.5591467356173239
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

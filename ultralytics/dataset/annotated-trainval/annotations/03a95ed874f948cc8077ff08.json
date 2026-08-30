@@ -1,0 +1,273 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7354838709677419,
+        0.003740648379052369,
+        0.8048387096774193,
+        0.014962593516209476
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/12/2018"
+    },
+    {
+      "bbox": [
+        0.17101380051517373,
+        0.003172642948033473,
+        0.23805121031712184,
+        0.014805667090822875
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WCMP-AM"
+    },
+    {
+      "bbox": [
+        0.7346752870131864,
+        0.13840399002493767,
+        0.8233870967741935,
+        0.14911421855757326
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Regional Reps"
+    },
+    {
+      "bbox": [
+        0.7346752870131864,
+        0.13642364676543936,
+        0.8625936097985364,
+        0.1866571601093027
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Regional Reps\n6505 Rockside Road\nSuite 200\nCleveland, OH 44131"
+    },
+    {
+      "bbox": [
+        0.17238191091929514,
+        0.1232043011486332,
+        0.2141092782449975,
+        0.13483732529142262
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "GMMB"
+    },
+    {
+      "bbox": [
+        0.7353593422152471,
+        0.01797831003885635,
+        0.8236024632810767,
+        0.03066888183099024
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Regional Reps"
+    },
+    {
+      "bbox": [
+        0.7353593422152471,
+        0.01797831003885635,
+        0.8598573889902936,
+        0.06768304955804742
+      ],
+      "fieldtype": "customer_other_address",
+      "page": 0,
+      "text": "Regional Reps\n6505 Rockside Road\nSuite 200\nCleveland, OH 44131"
+    },
+    {
+      "bbox": [
+        0.5055167943228536,
+        0.016920762389511856,
+        0.515777622353764,
+        0.02961133418164575
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5062008495249143,
+        0.01797831003885635,
+        0.556136879275345,
+        0.029082560356973503
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$144.90"
+    },
+    {
+      "bbox": [
+        0.5055167943228536,
+        0.018507083863528593,
+        0.557258064516129,
+        0.029925187032418952
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$144.90"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.02338709677419355,
+        0.44825436408977554,
+        0.03306451612903226,
+        0.4625935162094763
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.27903225806451615,
+        0.44825436408977554,
+        0.31693548387096776,
+        0.4625935162094763
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$4.83"
+    },
+    {
+      "bbox": [
+        0.9459677419354838,
+        0.44825436408977554,
+        0.9685483870967742,
+        0.4625935162094763
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "30"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.02338709677419355,
+        0.43516209476309226,
+        0.03967520171952031,
+        0.4446987865493585
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Ln"
+    },
+    {
+      "bbox": [
+        0.28251479845106703,
+        0.43516209476309226,
+        0.3126132273417376,
+        0.4452275603740307
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.9241585779839989,
+        0.43516209476309226,
+        0.9638337797035191,
+        0.4446987865493585
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Spots"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 302,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "72dca3b3-c8dc-47ba-b819-259ba9031ed2",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.02338709677419355,
+          0.43516209476309226,
+          0.9685483870967742,
+          0.4781795511221945
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.02338709677419355,
+            "right": 0.03306451612903226
+          },
+          {
+            "column_type": "",
+            "left": 0.07661290322580645,
+            "right": 0.1435483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.14838709677419354,
+            "right": 0.2532258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.27903225806451615,
+            "right": 0.31693548387096776
+          },
+          {
+            "column_type": "",
+            "left": 0.3435483870967742,
+            "right": 0.36129032258064514
+          },
+          {
+            "column_type": "",
+            "left": 0.38548387096774195,
+            "right": 0.40403225806451615
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.9459677419354838,
+            "right": 0.9685483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.44825436408977554,
+            "row_type": "header",
+            "top": 0.43516209476309226
+          },
+          {
+            "bottom": 0.4625935162094763,
+            "row_type": "data",
+            "top": 0.44825436408977554
+          },
+          {
+            "bottom": 0.4781795511221945,
+            "row_type": "footer",
+            "top": 0.4625935162094763
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

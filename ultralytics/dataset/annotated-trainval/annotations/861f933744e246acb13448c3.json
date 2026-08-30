@@ -1,0 +1,644 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8174930306650736,
+        0.16098819508391196,
+        0.8718476204699324,
+        0.1707606414308587
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "146-2000"
+    },
+    {
+      "bbox": [
+        0.7048992333666037,
+        0.16131550189935995,
+        0.7633316698167301,
+        0.1692166693393286
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05/25/00"
+    },
+    {
+      "bbox": [
+        0.600091847352885,
+        0.8757127245965254,
+        0.6381193059950306,
+        0.8862476145164837
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "05/25"
+    },
+    {
+      "bbox": [
+        0.308734070091597,
+        0.4706462192303574,
+        0.37841958843891355,
+        0.48183953977031296
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "123456789"
+    },
+    {
+      "bbox": [
+        0.07048992333666036,
+        0.14761537376703748,
+        0.2689747074688356,
+        0.15802334879937302
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.0. Box 2959, Winston-Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.6048387096774194,
+        0.16013032728570736,
+        0.6631617787593705,
+        0.17066521720566555
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "1234560"
+    },
+    {
+      "bbox": [
+        0.20147434621000931,
+        0.25048323005068734,
+        0.3051104307712731,
+        0.2610188895248998
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "XYZ COMPANY"
+    },
+    {
+      "bbox": [
+        0.20292380193813886,
+        0.2494545514878508,
+        0.3951145702818068,
+        0.28457371446521357
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "XYZ COMPANY\nP.O. BOX 5308\nBROOKLYN NY 11206-5308"
+    },
+    {
+      "bbox": [
+        0.7406718770742068,
+        0.25048323005068734,
+        0.8483870967741935,
+        0.2610188895248998
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "XYZ COMPANY"
+    },
+    {
+      "bbox": [
+        0.7413966049382716,
+        0.2494545514878508,
+        0.939556478158381,
+        0.28457371446521357
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "XYZ COMPANY\n123 NEW YORK STREET\nBROOKLYN NY 11206-5308"
+    },
+    {
+      "bbox": [
+        0.8501057845479889,
+        0.8784272002521922,
+        0.9080840136731715,
+        0.8875644757564785
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "3,509.22"
+    },
+    {
+      "bbox": [
+        0.8544541517323776,
+        0.8902570037248119,
+        0.9066345579450419,
+        0.9000294500717586
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "3,681.60"
+    },
+    {
+      "bbox": [
+        0.37841958843891355,
+        0.8751859881380107,
+        0.48044447747881674,
+        0.8876961699179611
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "TERMS BY EFT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09274193548387097,
+        0.529479107040641,
+        0.10241935483870968,
+        0.5432169433314253
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6"
+    },
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.529479107040641,
+        0.19516129032258064,
+        0.5432169433314253
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "15706"
+    },
+    {
+      "bbox": [
+        0.307258064516129,
+        0.529479107040641,
+        0.6120967741935484,
+        0.5432169433314253
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "DORAL MENTHOL"
+    },
+    {
+      "bbox": [
+        0.6362903225806451,
+        0.529479107040641,
+        0.6774193548387096,
+        0.5432169433314253
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "36,000"
+    },
+    {
+      "bbox": [
+        0.7169354838709677,
+        0.529479107040641,
+        0.7870967741935484,
+        0.5432169433314253
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "595.2000"
+    },
+    {
+      "bbox": [
+        0.8879032258064516,
+        0.529479107040641,
+        0.9580645161290322,
+        0.5432169433314253
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3,571.20"
+    },
+    {
+      "bbox": [
+        0.09274193548387097,
+        0.5432169433314253,
+        0.10241935483870968,
+        0.5558099599313108
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.5432169433314253,
+        0.19516129032258064,
+        0.5558099599313108
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "16612"
+    },
+    {
+      "bbox": [
+        0.307258064516129,
+        0.5432169433314253,
+        0.6120967741935484,
+        0.5558099599313108
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "DORAL FULL FLAVOR"
+    },
+    {
+      "bbox": [
+        0.6362903225806451,
+        0.5432169433314253,
+        0.6774193548387096,
+        0.5558099599313108
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "12,000"
+    },
+    {
+      "bbox": [
+        0.7169354838709677,
+        0.5432169433314253,
+        0.7870967741935484,
+        0.5558099599313108
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,190.4000"
+    },
+    {
+      "bbox": [
+        0.8879032258064516,
+        0.5432169433314253,
+        0.9580645161290322,
+        0.5558099599313108
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1,190.40"
+    },
+    {
+      "bbox": [
+        0.307258064516129,
+        0.5918717801946194,
+        0.6120967741935484,
+        0.6010303377218088
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "DISCOUNTABLE GROSS"
+    },
+    {
+      "bbox": [
+        0.8879032258064516,
+        0.5918717801946194,
+        0.9580645161290322,
+        0.6010303377218088
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "4.761.60"
+    },
+    {
+      "bbox": [
+        0.307258064516129,
+        0.6010303377218088,
+        0.6120967741935484,
+        0.6136233543216943
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "STD TERMS DISCOUNT OF 2.00%"
+    },
+    {
+      "bbox": [
+        0.8879032258064516,
+        0.6010303377218088,
+        0.9580645161290322,
+        0.6136233543216943
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "95.23-"
+    },
+    {
+      "bbox": [
+        0.307258064516129,
+        0.6136233543216943,
+        0.6120967741935484,
+        0.6256439610761305
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "LEVEL II TERMS DISCOUNT OF 1.25%"
+    },
+    {
+      "bbox": [
+        0.8879032258064516,
+        0.6136233543216943,
+        0.9580645161290322,
+        0.6256439610761305
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "59.52"
+    },
+    {
+      "bbox": [
+        0.307258064516129,
+        0.6256439610761305,
+        0.6120967741935484,
+        0.6393817973669147
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "LESS 4.50/CART RETAIL TRADE DISC240 CART"
+    },
+    {
+      "bbox": [
+        0.8879032258064516,
+        0.6256439610761305,
+        0.9580645161290322,
+        0.6393817973669147
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "1,080.00-"
+    },
+    {
+      "bbox": [
+        0.307258064516129,
+        0.6393817973669147,
+        0.6120967741935484,
+        0.6531196336576989
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "EFT DISCOUNTABLE AMT"
+    },
+    {
+      "bbox": [
+        0.8879032258064516,
+        0.6393817973669147,
+        0.9580645161290322,
+        0.6531196336576989
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "3,526.85"
+    },
+    {
+      "bbox": [
+        0.307258064516129,
+        0.6531196336576989,
+        0.6120967741935484,
+        0.6657126502575844
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "EFT TERMS DISCOUNT OF .50%"
+    },
+    {
+      "bbox": [
+        0.8879032258064516,
+        0.6531196336576989,
+        0.9580645161290322,
+        0.6657126502575844
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "17.63"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.06863492535411667,
+        0.5029092995165215,
+        0.12706736180424302,
+        0.5121273281964849
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.5014310246136233,
+        0.19848478413217524,
+        0.5114688975764875
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM NO"
+    },
+    {
+      "bbox": [
+        0.43592452589776803,
+        0.5014310246136233,
+        0.4962119603304381,
+        0.5134441894364796
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM NAME"
+    },
+    {
+      "bbox": [
+        0.6288443160823123,
+        0.5029092995165215,
+        0.6844942555586231,
+        0.5299049549364143
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CIGT\nQUANTITY"
+    },
+    {
+      "bbox": [
+        0.7225217142007688,
+        0.5014310246136233,
+        0.7846641466159825,
+        0.5127857588164823
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM PRICE"
+    },
+    {
+      "bbox": [
+        0.8375315891184779,
+        0.502250868896524,
+        0.9358464821932935,
+        0.5121273281964849
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BILLING AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1025,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zndw0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1661,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06532258064516129,
+          0.5014310246136233,
+          0.9580645161290322,
+          0.9290211791642816
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.09274193548387097,
+            "right": 0.10241935483870968
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.15483870967741936,
+            "right": 0.19516129032258064
+          },
+          {
+            "column_type": "",
+            "left": 0.22419354838709676,
+            "right": 0.25806451612903225
+          },
+          {
+            "column_type": "",
+            "left": 0.27419354838709675,
+            "right": 0.29193548387096774
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.307258064516129,
+            "right": 0.6120967741935484
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6362903225806451,
+            "right": 0.6774193548387096
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7169354838709677,
+            "right": 0.7870967741935484
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8879032258064516,
+            "right": 0.9580645161290322
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.529479107040641,
+            "row_type": "header",
+            "top": 0.5014310246136233
+          },
+          {
+            "bottom": 0.5432169433314253,
+            "row_type": "data",
+            "top": 0.529479107040641
+          },
+          {
+            "bottom": 0.5558099599313108,
+            "row_type": "data",
+            "top": 0.5432169433314253
+          },
+          {
+            "bottom": 0.5918717801946194,
+            "row_type": "gap",
+            "top": 0.5558099599313108
+          },
+          {
+            "bottom": 0.6010303377218088,
+            "row_type": "data",
+            "top": 0.5918717801946194
+          },
+          {
+            "bottom": 0.6136233543216943,
+            "row_type": "data",
+            "top": 0.6010303377218088
+          },
+          {
+            "bottom": 0.6256439610761305,
+            "row_type": "data",
+            "top": 0.6136233543216943
+          },
+          {
+            "bottom": 0.6393817973669147,
+            "row_type": "data",
+            "top": 0.6256439610761305
+          },
+          {
+            "bottom": 0.6531196336576989,
+            "row_type": "data",
+            "top": 0.6393817973669147
+          },
+          {
+            "bottom": 0.6657126502575844,
+            "row_type": "data",
+            "top": 0.6531196336576989
+          },
+          {
+            "bottom": 0.86090440755581,
+            "row_type": "gap",
+            "top": 0.6657126502575844
+          },
+          {
+            "bottom": 0.9290211791642816,
+            "row_type": "footer",
+            "top": 0.86090440755581
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

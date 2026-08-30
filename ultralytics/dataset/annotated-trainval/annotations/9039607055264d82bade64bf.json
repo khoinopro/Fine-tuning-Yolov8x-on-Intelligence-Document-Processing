@@ -1,0 +1,287 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6911260095758571,
+        0.2555366848320324,
+        0.7556560429462688,
+        0.26828352639084774
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/14/99"
+    },
+    {
+      "bbox": [
+        0.20013662523576922,
+        0.8925788531068235,
+        0.3806336750979349,
+        0.9075751372936651
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. Box 351316, Miami, FL 33135"
+    },
+    {
+      "bbox": [
+        0.24689751898244425,
+        0.2297430691659107,
+        0.4498397978430139,
+        0.2447393533527523
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Henry Cardenas & Assoc."
+    },
+    {
+      "bbox": [
+        0.1842379213618997,
+        0.2642345227956464,
+        0.5096937418387579,
+        0.2942270911693296
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "1221 Brickell Ave. Suite 1700\nMiami State FL Zip 33131"
+    },
+    {
+      "bbox": [
+        0.1861083571117667,
+        0.25073786702748896,
+        0.33013190985152585,
+        0.26498433700498847
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Roberbo Riadigos"
+    },
+    {
+      "bbox": [
+        0.6967373168254581,
+        0.6334430348991841,
+        0.7079599313246602,
+        0.6484393190860256
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.633593006894058,
+        0.7809069255694733,
+        0.6478394768715574
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$6,047.60"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.6350926353127421,
+        0.7790364898196063,
+        0.6485892910808996
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$6,047.60"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14193548387096774,
+        0.3574660633484163,
+        0.1532258064516129,
+        0.38332255979314805
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.19032258064516128,
+        0.3574660633484163,
+        0.3685483870967742,
+        0.38332255979314805
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "HoteI Banda Gorda\nCalle Ocho"
+    },
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.35571185633538016,
+        0.7902591043188083,
+        0.38195535366235306
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$547.60"
+    },
+    {
+      "bbox": [
+        0.14193548387096774,
+        0.40982546864899805,
+        0.1532258064516129,
+        0.43956043956043955
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.19032258064516128,
+        0.40982546864899805,
+        0.3685483870967742,
+        0.43956043956043955
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Pasajes Banda Gorda\nCalle Ocho"
+    },
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.40982546864899805,
+        0.7935483870967742,
+        0.43956043956043955
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$5,500.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.12812484886588962,
+        0.32227014946347754,
+        0.15711660298882818,
+        0.33576680523163493
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Qty"
+    },
+    {
+      "bbox": [
+        0.33387278135125986,
+        0.32227014946347754,
+        0.41991282584514195,
+        0.3387660620690033
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7080645161290322,
+        0.32571928796169697,
+        0.7668786574454708,
+        0.3407155721485386
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 574,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "knhn0004",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12338709677419354,
+          0.32191338073691017,
+          0.7935483870967742,
+          0.649644473173885
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.14193548387096774,
+            "right": 0.1532258064516129
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.19032258064516128,
+            "right": 0.3685483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7080645161290322,
+            "right": 0.7935483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.34130575307045896,
+            "row_type": "header",
+            "top": 0.32191338073691017
+          },
+          {
+            "bottom": 0.3574660633484163,
+            "row_type": "gap-with-text",
+            "top": 0.34130575307045896
+          },
+          {
+            "bottom": 0.38332255979314805,
+            "row_type": "data",
+            "top": 0.3574660633484163
+          },
+          {
+            "bottom": 0.40982546864899805,
+            "row_type": "data",
+            "top": 0.38332255979314805
+          },
+          {
+            "bottom": 0.43956043956043955,
+            "row_type": "data",
+            "top": 0.40982546864899805
+          },
+          {
+            "bottom": 0.5759534583063994,
+            "row_type": "gap",
+            "top": 0.43956043956043955
+          },
+          {
+            "bottom": 0.649644473173885,
+            "row_type": "footer",
+            "top": 0.5759534583063994
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

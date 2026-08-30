@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.770800131889872,
+        0.13801215232452368,
+        0.824756141122163,
+        0.14908720158513358
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42025254"
+    },
+    {
+      "bbox": [
+        0.13544059460350608,
+        0.16442188517674733,
+        0.2246331812936198,
+        0.17568129910994768
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 31, 2001"
+    },
+    {
+      "bbox": [
+        0.13491875365007389,
+        0.19059239837211628,
+        0.2691491463121371,
+        0.20070763739186548
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Covance Laboratories Inc."
+    },
+    {
+      "bbox": [
+        0.13423039266206327,
+        0.21667906742304838,
+        0.3207762204129307,
+        0.22679430644279758
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P. O. Box 7545, Madison, WI 53704"
+    },
+    {
+      "bbox": [
+        0.548623707444433,
+        0.14001620327337033,
+        0.6167714452574805,
+        0.14853429929000123
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R1-472"
+    },
+    {
+      "bbox": [
+        0.13285367068604212,
+        0.0947638181850187,
+        0.30219047373664504,
+        0.10594381920684676
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.2347310969116081,
+        0.2329480938748885,
+        0.35244082586141745,
+        0.25234859449269026
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RD&E\n4201 Commerce Road"
+    },
+    {
+      "bbox": [
+        0.4481230031948882,
+        0.2422333554729411,
+        0.49286646741557594,
+        0.25234859449269026
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Jan Oey"
+    },
+    {
+      "bbox": [
+        0.39491196409702356,
+        0.48576853699028877,
+        0.40395211749201565,
+        0.4982807568824629
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3930087739086041,
+        0.48576853699028877,
+        0.4857892955940495,
+        0.4997527827521304
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,107,106.00"
+    },
+    {
+      "bbox": [
+        0.39329450418160095,
+        0.4862462909404648,
+        0.48563321385902025,
+        0.49788657211640625
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,107,106.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2838709677419355,
+        0.40923268870867124,
+        0.40483870967741936,
+        0.4217092950717405
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "CHANGE ORDER:"
+    },
+    {
+      "bbox": [
+        0.6112903225806452,
+        0.40923268870867124,
+        0.6741935483870968,
+        0.4217092950717405
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,107,106"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.39727271686622867,
+        0.3810973690385573,
+        0.48076421163488176,
+        0.3924522254717359
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6174700657066325,
+        0.37683929787611536,
+        0.6670144691957234,
+        0.3981296536883252
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NOT TO\nEXCEED"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1054,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "ysnm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1703,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13064516129032258,
+          0.3786650031191516,
+          0.8903225806451613,
+          0.7535870243293824
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2838709677419355,
+            "right": 0.40483870967741936
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6112903225806452,
+            "right": 0.6741935483870968
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40361821584529006,
+            "row_type": "header",
+            "top": 0.3786650031191516
+          },
+          {
+            "bottom": 0.40923268870867124,
+            "row_type": "gap",
+            "top": 0.40361821584529006
+          },
+          {
+            "bottom": 0.4217092950717405,
+            "row_type": "data",
+            "top": 0.40923268870867124
+          },
+          {
+            "bottom": 0.4597629444791017,
+            "row_type": "gap",
+            "top": 0.4217092950717405
+          },
+          {
+            "bottom": 0.4990642545227698,
+            "row_type": "gap-with-text",
+            "top": 0.4597629444791017
+          },
+          {
+            "bottom": 0.7330006238303182,
+            "row_type": "gap",
+            "top": 0.4990642545227698
+          },
+          {
+            "bottom": 0.7535870243293824,
+            "row_type": "gap-with-text",
+            "top": 0.7330006238303182
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

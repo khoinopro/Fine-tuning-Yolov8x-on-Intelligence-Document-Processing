@@ -1,0 +1,167 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7588709677419355,
+        0.1960691179923026,
+        0.8647201424775691,
+        0.2097837969590318
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9728-000207"
+    },
+    {
+      "bbox": [
+        0.18266098652296273,
+        0.48622205817057484,
+        0.2870921698647606,
+        0.5004446882101458
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9728-000207"
+    },
+    {
+      "bbox": [
+        0.14231086539344098,
+        0.2600709531703722,
+        0.2649332871238101,
+        0.2753094853556269
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 22, 2001"
+    },
+    {
+      "bbox": [
+        0.3673432217557667,
+        0.6652465987327978,
+        0.6132618147864519,
+        0.6799771798452107
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PricewaterhouseCoopers LLP"
+    },
+    {
+      "bbox": [
+        0.36666947218581963,
+        0.6646900471542986,
+        0.6147077343759096,
+        0.7439790150232802
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PricewaterhouseCoopers LLP\nAttention: TED MARTENS,\n1177 Avenue of the Americas\nSuite 458\nNew York, New York, 10036"
+    },
+    {
+      "bbox": [
+        0.6065243190869811,
+        0.7632811557912694,
+        0.6974805110298374,
+        0.7768996960486322
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-4008324"
+    },
+    {
+      "bbox": [
+        0.14028961668359974,
+        0.3563559212159309,
+        0.3599319764863488,
+        0.3893727409506494
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ronald Milstein\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.1409633662535468,
+        0.35599750128940616,
+        0.3616442828694687,
+        0.4188339031754751
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ronald Milstein\nLorillard Tobacco Company\n714 Green Valley Road\nGreensboro, NC 27408"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13951612903225807,
+        0.5653495440729484,
+        0.7096774193548387,
+        0.6206686930091185
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total due for professional tax services rendered during the period\nDecember 1, 2000 through February 28, 2001 and fourth quarterly retainer\nbilling:"
+    },
+    {
+      "bbox": [
+        0.7612903225806451,
+        0.5653495440729484,
+        0.8669354838709677,
+        0.6206686930091185
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$9,443.45"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1058,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kggl0060",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13951612903225807,
+          0.5653495440729484,
+          0.8669354838709677,
+          0.6206686930091185
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13951612903225807,
+            "right": 0.7096774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7612903225806451,
+            "right": 0.8669354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6206686930091185,
+            "row_type": "data",
+            "top": 0.5653495440729484
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

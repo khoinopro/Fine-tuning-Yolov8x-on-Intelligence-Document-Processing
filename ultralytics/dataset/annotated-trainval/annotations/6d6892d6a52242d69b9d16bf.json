@@ -1,0 +1,248 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.18557851073255205,
+        0.18931655129011957,
+        0.24157202690185656,
+        0.20180239144115794
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/22/01"
+    },
+    {
+      "bbox": [
+        0.14158360517095567,
+        0.216785399622404,
+        0.42875035238210296,
+        0.22927123977344244
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MDS Pharma Services Inc., ATTN: Robert Earl"
+    },
+    {
+      "bbox": [
+        0.14238351254480286,
+        0.24425424795468847,
+        0.3983538721759092,
+        0.2573643801132788
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "621 Rose Street, Lincoln, Nebraska 68502"
+    },
+    {
+      "bbox": [
+        0.45594720309290804,
+        0.16236626809314034,
+        0.540737384720712,
+        0.17480176211453743
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "050-2R7-472"
+    },
+    {
+      "bbox": [
+        0.1479828641617333,
+        0.11362114537444934,
+        0.2679689702388144,
+        0.12673127753303964
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.14238351254480286,
+        0.271567023285085,
+        0.3855553541943538,
+        0.2846771554436753
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "4201 Commerce Road, Gate C, Door 17"
+    },
+    {
+      "bbox": [
+        0.7615118199025411,
+        0.7466532410320956,
+        0.7703108010148605,
+        0.7597633731906859
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7599120051548467,
+        0.7472775330396476,
+        0.838302927791873,
+        0.759139081183134
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$105,000.00"
+    },
+    {
+      "bbox": [
+        0.7615183498080647,
+        0.7485521233048616,
+        0.8394208044176187,
+        0.7581187696552631
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$105,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2879032258064516,
+        0.47073631214600375,
+        0.5443548387096774,
+        0.526117054751416
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Provide the following services:\nDevelop and validate a sensitive, rugged,\nselective, and accurate analytical method\nfor quantitation of 3-HPMA in human urine."
+    },
+    {
+      "bbox": [
+        0.7637096774193548,
+        0.47073631214600375,
+        0.8475806451612903,
+        0.526117054751416
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$105,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.293566006201925,
+        0.3968936438011328,
+        0.35675868873585437,
+        0.4081308999370673
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7183168217147919,
+        0.3979861548143486,
+        0.7519129314163746,
+        0.4204606670862177
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Price"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 490,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "lglm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1740,
+        2231
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14838709677419354,
+          0.39773442416614224,
+          0.8475806451612903,
+          0.7614852108244179
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2879032258064516,
+            "right": 0.5443548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.567741935483871,
+            "right": 0.6475806451612903
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7637096774193548,
+            "right": 0.8475806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42164883574575207,
+            "row_type": "header",
+            "top": 0.39773442416614224
+          },
+          {
+            "bottom": 0.4380113278791693,
+            "row_type": "gap",
+            "top": 0.42164883574575207
+          },
+          {
+            "bottom": 0.4524858401510384,
+            "row_type": "gap-with-text",
+            "top": 0.4380113278791693
+          },
+          {
+            "bottom": 0.47073631214600375,
+            "row_type": "gap",
+            "top": 0.4524858401510384
+          },
+          {
+            "bottom": 0.526117054751416,
+            "row_type": "data",
+            "top": 0.47073631214600375
+          },
+          {
+            "bottom": 0.6884833228445564,
+            "row_type": "gap",
+            "top": 0.526117054751416
+          },
+          {
+            "bottom": 0.7023285084959093,
+            "row_type": "gap-with-text",
+            "top": 0.6884833228445564
+          },
+          {
+            "bottom": 0.7293895531780994,
+            "row_type": "gap",
+            "top": 0.7023285084959093
+          },
+          {
+            "bottom": 0.7614852108244179,
+            "row_type": "footer",
+            "top": 0.7293895531780994
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

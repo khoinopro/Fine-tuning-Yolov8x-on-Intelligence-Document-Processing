@@ -1,0 +1,218 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8600759309079024,
+        0.1262748174521755,
+        0.9063284137480201,
+        0.13796693017922876
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2053"
+    },
+    {
+      "bbox": [
+        0.7763809619591181,
+        0.12237744654315771,
+        0.8369496894878435,
+        0.13640798181562167
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "6/03/00"
+    },
+    {
+      "bbox": [
+        0.2521861564377844,
+        0.07249109890773037,
+        0.5032710632841375,
+        0.08574215999839076
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KEVIN BERG AND ASSOCIATES, INC."
+    },
+    {
+      "bbox": [
+        0.2520184123040953,
+        0.07247488584474886,
+        0.5048368830599496,
+        0.12237744654315771
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KEVIN BERG AND ASSOCIATES, INC.\nDBA KBA MARKETING\n640 N. LASALLE ST. SUME 35D\nCHICAGO, IL 606ID"
+    },
+    {
+      "bbox": [
+        0.1354536997460589,
+        0.21357592581417334,
+        0.30834988560078447,
+        0.2291654094502444
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJ Reynolds - Camel"
+    },
+    {
+      "bbox": [
+        0.12774495260603927,
+        0.21346118721461185,
+        0.31385613355794134,
+        0.2759338603584575
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJ Reynolds - Camel\n401 North Main Street\nWinston-Salom, NC"
+    },
+    {
+      "bbox": [
+        0.8435571870364318,
+        0.9026311025285136,
+        0.858974681316471,
+        0.922897431255406
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8446584366278631,
+        0.9026311025285136,
+        0.9481758982224122,
+        0.9197795345281917
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$30,212.00"
+    },
+    {
+      "bbox": [
+        0.8443548387096774,
+        0.9034105767103172,
+        0.9508064516129032,
+        0.9212328767123288
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$30,212.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1431624468860785,
+        0.42013658399211473,
+        0.31936238151509816,
+        0.4349465934463822
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Camel Webside Project"
+    },
+    {
+      "bbox": [
+        0.8443548387096774,
+        0.4246575342465753,
+        0.9580645161290322,
+        0.4383561643835616
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$30,212.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.507676061649863,
+        0.4123418421740792,
+        0.6431297613959219,
+        0.42637237744654316
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8443548387096774,
+        0.4126712328767123,
+        0.9580645161290322,
+        0.4246575342465753
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 46,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hydb0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1658,
+        2343
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07661290322580645,
+          0.4126712328767123,
+          0.9580645161290322,
+          0.9332191780821918
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07661290322580645,
+            "right": 0.3362903225806452
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8443548387096774,
+            "right": 0.9580645161290322
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4246575342465753,
+            "row_type": "header",
+            "top": 0.4126712328767123
+          },
+          {
+            "bottom": 0.4383561643835616,
+            "row_type": "data",
+            "top": 0.4246575342465753
+          },
+          {
+            "bottom": 0.8961187214611872,
+            "row_type": "gap",
+            "top": 0.4383561643835616
+          },
+          {
+            "bottom": 0.9332191780821918,
+            "row_type": "footer",
+            "top": 0.8961187214611872
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

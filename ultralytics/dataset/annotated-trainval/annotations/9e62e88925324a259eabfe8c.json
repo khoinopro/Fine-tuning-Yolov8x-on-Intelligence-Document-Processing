@@ -1,0 +1,360 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2616419899606988,
+        0.3805179331306991,
+        0.27204365928635355,
+        0.3937848024316109
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.6649067084322346,
+        0.32322917933130696,
+        0.789726740340091,
+        0.33830516717325226
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 25, 2001"
+    },
+    {
+      "bbox": [
+        0.29764776839565743,
+        0.3948401215805471,
+        0.36485855480758006,
+        0.40810699088145896
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "46-991-1"
+    },
+    {
+      "bbox": [
+        0.17042735125880384,
+        0.1465386018237082,
+        0.41686690143585353,
+        0.17669057750759878
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "NEW YORK MEDICAL COLLEGE\nRESTRICTED FUNDS"
+    },
+    {
+      "bbox": [
+        0.17042735125880384,
+        0.14748248975816042,
+        0.4187778580363277,
+        0.20623951367781157
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "NEW YORK MEDICAL COLLEGE\nRESTRICTED FUNDS\nADMINISTRATION BUILDING\nVALHALLA, NY 10595"
+    },
+    {
+      "bbox": [
+        0.1728277364878011,
+        0.23639148936170212,
+        0.3200513638662983,
+        0.2662613981762918
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Tapas Sengupta\nPhilip Morris USA"
+    },
+    {
+      "bbox": [
+        0.17202760807813533,
+        0.23651821505660545,
+        0.3376541888789447,
+        0.3081531914893617
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Tapas Sengupta\nPhilip Morris USA\n4201 Commerce Road\nGate C - Door 17\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.7001123584575275,
+        0.6674139817629179,
+        0.7121142846025137,
+        0.6812838905775076
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7008064516129032,
+        0.6692231003039514,
+        0.7849259698820966,
+        0.6820668693009119
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$91,024.43"
+    },
+    {
+      "bbox": [
+        0.7009124868671932,
+        0.6674139817629179,
+        0.7825255846530994,
+        0.6824899696048632
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$91,024.43"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17258064516129032,
+        0.5100303951367782,
+        0.3,
+        0.5264437689969604
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Salaries"
+    },
+    {
+      "bbox": [
+        0.7056451612903226,
+        0.5100303951367782,
+        0.7903225806451613,
+        0.5264437689969604
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "166,000.00"
+    },
+    {
+      "bbox": [
+        0.17258064516129032,
+        0.5264437689969604,
+        0.3,
+        0.5404255319148936
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Fringe Benefits"
+    },
+    {
+      "bbox": [
+        0.7056451612903226,
+        0.5264437689969604,
+        0.7903225806451613,
+        0.5404255319148936
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "41,500.00"
+    },
+    {
+      "bbox": [
+        0.17258064516129032,
+        0.5404255319148936,
+        0.3,
+        0.5531914893617021
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Travel - Domestic"
+    },
+    {
+      "bbox": [
+        0.7056451612903226,
+        0.5404255319148936,
+        0.7903225806451613,
+        0.5531914893617021
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "3,000.00"
+    },
+    {
+      "bbox": [
+        0.17258064516129032,
+        0.5531914893617021,
+        0.3,
+        0.5671732522796352
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Supplies"
+    },
+    {
+      "bbox": [
+        0.7056451612903226,
+        0.5531914893617021,
+        0.7903225806451613,
+        0.5671732522796352
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "45,000.00"
+    },
+    {
+      "bbox": [
+        0.17258064516129032,
+        0.5671732522796352,
+        0.3,
+        0.5817629179331307
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Other Expense"
+    },
+    {
+      "bbox": [
+        0.7056451612903226,
+        0.5671732522796352,
+        0.7903225806451613,
+        0.5817629179331307
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "3,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3144504649986381,
+        0.46735562310030393,
+        0.37205971049457176,
+        0.49328632218844987
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Budget\nDetail"
+    },
+    {
+      "bbox": [
+        0.613698490213627,
+        0.46735562310030393,
+        0.6889105607222071,
+        0.4950954407294833
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Approved\nBudget"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1140,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sjwl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.17258064516129032,
+          0.4668693009118541,
+          0.7903225806451613,
+          0.6857142857142857
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17258064516129032,
+            "right": 0.3
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7056451612903226,
+            "right": 0.7903225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4966565349544073,
+            "row_type": "header",
+            "top": 0.4668693009118541
+          },
+          {
+            "bottom": 0.5100303951367782,
+            "row_type": "gap",
+            "top": 0.4966565349544073
+          },
+          {
+            "bottom": 0.5264437689969604,
+            "row_type": "data",
+            "top": 0.5100303951367782
+          },
+          {
+            "bottom": 0.5404255319148936,
+            "row_type": "data",
+            "top": 0.5264437689969604
+          },
+          {
+            "bottom": 0.5531914893617021,
+            "row_type": "data",
+            "top": 0.5404255319148936
+          },
+          {
+            "bottom": 0.5671732522796352,
+            "row_type": "data",
+            "top": 0.5531914893617021
+          },
+          {
+            "bottom": 0.5817629179331307,
+            "row_type": "data",
+            "top": 0.5671732522796352
+          },
+          {
+            "bottom": 0.5957446808510638,
+            "row_type": "gap",
+            "top": 0.5817629179331307
+          },
+          {
+            "bottom": 0.6249240121580547,
+            "row_type": "gap-with-text",
+            "top": 0.5957446808510638
+          },
+          {
+            "bottom": 0.6382978723404256,
+            "row_type": "gap",
+            "top": 0.6249240121580547
+          },
+          {
+            "bottom": 0.6857142857142857,
+            "row_type": "footer",
+            "top": 0.6382978723404256
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7182727526261969,
+        0.25573791508754296,
+        0.8173705494096867,
+        0.2735934902400516
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "106-Revised2"
+    },
+    {
+      "bbox": [
+        0.7205080412754485,
+        0.2897211065068336,
+        0.7778804499395742,
+        0.3035447775926467
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/22/99"
+    },
+    {
+      "bbox": [
+        0.7212531374918657,
+        0.3058487227736156,
+        0.7711745839918193,
+        0.31909640756418645
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "216-99"
+    },
+    {
+      "bbox": [
+        0.31964627684298597,
+        0.8462678642846228,
+        0.7056061169471043,
+        0.8600915353704358
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "156 Almeria Avenue Suite 205 Coral Gables, Florida 33134 USA"
+    },
+    {
+      "bbox": [
+        0.35913637631309847,
+        0.25703388425183793,
+        0.453763595798085,
+        0.2720095279281355
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.35764618388026403,
+        0.25588191166135354,
+        0.5178418704099657,
+        0.33536802040477903
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris\nMs. Christina Hollis\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7041159245142697,
+        0.7558380159315952,
+        0.7190178488426141,
+        0.7725416184936192
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.704861020730687,
+        0.7564140022268373,
+        0.7652138142604815,
+        0.7719656321983772
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$19,300"
+    },
+    {
+      "bbox": [
+        0.7056451612903226,
+        0.7554780244970688,
+        0.7659589104768988,
+        0.7716056407638507
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$19,300"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22258064516129034,
+        0.4198378041172801,
+        0.4064516129032258,
+        0.4416718652526513
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Retainer Payment"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.4198378041172801,
+        0.771774193548387,
+        0.4416718652526513
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$12,900"
+    },
+    {
+      "bbox": [
+        0.22258064516129034,
+        0.4940736119775421,
+        0.4064516129032258,
+        0.5152838427947598
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Cancellation Fee"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.4940736119775421,
+        0.771774193548387,
+        0.5152838427947598
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$6,400"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3656391187133962,
+        0.38231229698224983,
+        0.5007046574323697,
+        0.3966385625611695
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6936845774844288,
+        0.38116032439176545,
+        0.7823510272380775,
+        0.39779053515165397
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1055,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "znfk0218",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1703,
+        2202
+      ],
+      [
+        2225,
+        1732
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.22258064516129034,
+          0.38116032439176545,
+          0.8048387096774193,
+          0.7729257641921398
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.22258064516129034,
+            "right": 0.4064516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6967741935483871,
+            "right": 0.771774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39737991266375544,
+            "row_type": "header",
+            "top": 0.38116032439176545
+          },
+          {
+            "bottom": 0.4198378041172801,
+            "row_type": "gap",
+            "top": 0.39737991266375544
+          },
+          {
+            "bottom": 0.4416718652526513,
+            "row_type": "data",
+            "top": 0.4198378041172801
+          },
+          {
+            "bottom": 0.47723019338739864,
+            "row_type": "up-merge",
+            "top": 0.4416718652526513
+          },
+          {
+            "bottom": 0.4940736119775421,
+            "row_type": "gap",
+            "top": 0.47723019338739864
+          },
+          {
+            "bottom": 0.5152838427947598,
+            "row_type": "data",
+            "top": 0.4940736119775421
+          },
+          {
+            "bottom": 0.5333749220212103,
+            "row_type": "up-merge",
+            "top": 0.5152838427947598
+          },
+          {
+            "bottom": 0.67747972551466,
+            "row_type": "gap",
+            "top": 0.5333749220212103
+          },
+          {
+            "bottom": 0.7729257641921398,
+            "row_type": "footer",
+            "top": 0.67747972551466
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

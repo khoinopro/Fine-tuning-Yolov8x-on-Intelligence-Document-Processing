@@ -1,0 +1,253 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7856877157481252,
+        0.21117571095860285,
+        0.857196029776675,
+        0.22559169011622332
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "59276-2"
+    },
+    {
+      "bbox": [
+        0.7576218136702008,
+        0.22893684691339924,
+        0.884099368373562,
+        0.24194303308502182
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 08, 2002"
+    },
+    {
+      "bbox": [
+        0.3787700124985121,
+        0.3321515069216832,
+        0.41932100157906615,
+        0.3446071884312464
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "3328"
+    },
+    {
+      "bbox": [
+        0.04956441197476491,
+        0.9272562901563657,
+        0.2894316896798,
+        0.9397119716659289
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Regens of The University of California"
+    },
+    {
+      "bbox": [
+        0.04956441197476491,
+        0.9280703869870561,
+        0.28994013967409377,
+        0.9669299423720112
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Regents of The University of California\nCashier's Office\n\u00d3ne Shields Avenue"
+    },
+    {
+      "bbox": [
+        0.7026484712815214,
+        0.3036548298613685,
+        0.8946375272643784,
+        0.31907480169026614
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "emmontoya@ucdavis.edu"
+    },
+    {
+      "bbox": [
+        0.05568347518152601,
+        0.1946776887790977,
+        0.189079053088918,
+        0.22697019639648355
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Attn: Richard Izac\nPhilip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.05690728782287823,
+        0.19541037592671906,
+        0.2129433995952863,
+        0.25649477478952204
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Attn: Richard lzac\nPhilip Morris U.S.A.\n615 Maury St.\nRichmond, VA 23224"
+    },
+    {
+      "bbox": [
+        0.8150592191405784,
+        0.8045447612102994,
+        0.8272973455541007,
+        0.8197683719442098
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8138192612137203,
+        0.8050199130486017,
+        0.9057020810281725,
+        0.8215072138381306
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$47,374.43"
+    },
+    {
+      "bbox": [
+        0.8156711254612546,
+        0.8056794050801828,
+        0.9039519320793259,
+        0.8211523365563835
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$47,374.43"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.054838709677419356,
+        0.609726443768997,
+        0.35080645161290325,
+        0.6237082066869301
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2nd payment due per agreement"
+    },
+    {
+      "bbox": [
+        0.614516129032258,
+        0.609726443768997,
+        0.7064516129032258,
+        0.6237082066869301
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$47,374.43"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1347614690611967,
+        0.40712640074536893,
+        0.29840039577836414,
+        0.4203162413769921
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description of Services"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 844,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jzfl0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.054838709677419356,
+          0.40364741641337387,
+          0.917741935483871,
+          0.8261398176291793
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.054838709677419356,
+            "right": 0.35080645161290325
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.614516129032258,
+            "right": 0.7064516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42006079027355625,
+            "row_type": "header",
+            "top": 0.40364741641337387
+          },
+          {
+            "bottom": 0.44376899696048633,
+            "row_type": "gap",
+            "top": 0.42006079027355625
+          },
+          {
+            "bottom": 0.5841945288753799,
+            "row_type": "gap-with-text",
+            "top": 0.44376899696048633
+          },
+          {
+            "bottom": 0.609726443768997,
+            "row_type": "gap",
+            "top": 0.5841945288753799
+          },
+          {
+            "bottom": 0.6237082066869301,
+            "row_type": "data",
+            "top": 0.609726443768997
+          },
+          {
+            "bottom": 0.6717325227963525,
+            "row_type": "gap",
+            "top": 0.6237082066869301
+          },
+          {
+            "bottom": 0.7732522796352583,
+            "row_type": "gap-with-text",
+            "top": 0.6717325227963525
+          },
+          {
+            "bottom": 0.8036474164133739,
+            "row_type": "gap",
+            "top": 0.7732522796352583
+          },
+          {
+            "bottom": 0.8261398176291793,
+            "row_type": "footer",
+            "top": 0.8036474164133739
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

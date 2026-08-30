@@ -1,0 +1,211 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21950656800798135,
+        0.8084524259976134,
+        0.2639549384768873,
+        0.8234046711212937
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2498"
+    },
+    {
+      "bbox": [
+        0.6730988545504675,
+        0.13288628458621876,
+        0.8342617226471567,
+        0.150553640555678
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 16, 2000"
+    },
+    {
+      "bbox": [
+        0.11419812105088128,
+        0.9450850107484855,
+        0.449954273362155,
+        0.9605528505316031
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "41 Kenosia Avenue, Danbury, CT 06810"
+    },
+    {
+      "bbox": [
+        0.09915405719986697,
+        0.20005072786165434,
+        0.3384914366478217,
+        0.23309686244682296
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson.\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.09983787828400399,
+        0.20005072786165434,
+        0.34396200532091786,
+        0.26295327631299925
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson,\nLorillard Tobacco Company\nPO BOX 10529\nGreensboro NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.7453649817093448,
+        0.4970332516975123,
+        0.7590414033920851,
+        0.5119854968211927
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7446811606252078,
+        0.49754884635694957,
+        0.8192176587961423,
+        0.5114699021617554
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$13,770"
+    },
+    {
+      "bbox": [
+        0.7453649817093448,
+        0.49754884635694957,
+        0.8178500166278683,
+        0.5125010914806299
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$13,770"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2120967741935484,
+        0.3981762917933131,
+        0.42016129032258065,
+        0.4145896656534954
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Estimated Cost of Study"
+    },
+    {
+      "bbox": [
+        0.7435483870967742,
+        0.3981762917933131,
+        0.8225806451612904,
+        0.4145896656534954
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$40,500"
+    },
+    {
+      "bbox": [
+        0.2120967741935484,
+        0.443161094224924,
+        0.42016129032258065,
+        0.4644376899696049
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Amount Billed To Date"
+    },
+    {
+      "bbox": [
+        0.7435483870967742,
+        0.443161094224924,
+        0.8225806451612904,
+        0.4644376899696049
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "26,730"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 67,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qxkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15,
+          0.3981762917933131,
+          0.8225806451612904,
+          0.5185410334346504
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2120967741935484,
+            "right": 0.42016129032258065
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7435483870967742,
+            "right": 0.8225806451612904
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4145896656534954,
+            "row_type": "data",
+            "top": 0.3981762917933131
+          },
+          {
+            "bottom": 0.443161094224924,
+            "row_type": "gap",
+            "top": 0.4145896656534954
+          },
+          {
+            "bottom": 0.4644376899696049,
+            "row_type": "data",
+            "top": 0.443161094224924
+          },
+          {
+            "bottom": 0.49544072948328266,
+            "row_type": "gap",
+            "top": 0.4644376899696049
+          },
+          {
+            "bottom": 0.5185410334346504,
+            "row_type": "footer",
+            "top": 0.49544072948328266
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

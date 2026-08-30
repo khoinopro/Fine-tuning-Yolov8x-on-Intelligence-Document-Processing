@@ -1,0 +1,223 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8636631996942986,
+        0.13283562421546843,
+        0.9424586144070076,
+        0.14677880398247056
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9903-208"
+    },
+    {
+      "bbox": [
+        0.7465068593977708,
+        0.13136792108209977,
+        0.8211551470203372,
+        0.14677880398247056
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/30/00"
+    },
+    {
+      "bbox": [
+        0.14206308600948975,
+        0.07265979574735397,
+        0.4323619823194704,
+        0.08733682708104043
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ORZECHOWSKI AND WALKER"
+    },
+    {
+      "bbox": [
+        0.14206308600948975,
+        0.07131276261939656,
+        0.5184148694399289,
+        0.14898035868252352
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "ORZECHOWSKI AND WALKER\nP.O.BOX 715\n2111 WILSON BOULEVARD, SUITE 700\nARLINGTON, VA 22216"
+    },
+    {
+      "bbox": [
+        0.08064516129032258,
+        0.2142931481174282,
+        0.2923964430271583,
+        0.23043788258448328
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJ Reynolds Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.08296652497495799,
+        0.2133181815893922,
+        0.3411251863363336,
+        0.3038230392529156
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJ Reynolds Tobacco Co.\nc/o Keith Teel, Esq.\nCovington & Burling\n1201 Pennsylvania Avenue, NW\nWashington, DC 20044"
+    },
+    {
+      "bbox": [
+        0.8698838903295125,
+        0.9186275886276494,
+        0.880251708054869,
+        0.9369738777947575
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8693548387096774,
+        0.9208291433277024,
+        0.9507528685872928,
+        0.9369738777947575
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$8,318.00"
+    },
+    {
+      "bbox": [
+        0.867741935483871,
+        0.9208291433277024,
+        0.9507528685872928,
+        0.9347723230947045
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$8,318.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04435483870967742,
+        0.4500285551113649,
+        0.17983870967741936,
+        0.4648772130211308
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Consulting Fees"
+    },
+    {
+      "bbox": [
+        0.8879032258064516,
+        0.4500285551113649,
+        0.9661290322580646,
+        0.4648772130211308
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8,318.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3193527691130851,
+        0.4239844447001787,
+        0.4396194547272199,
+        0.4386614760338651
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.798345948024553,
+        0.4239844447001787,
+        0.8771413627372621,
+        0.4386614760338651
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 384,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ntcb0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1658,
+        2343
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04435483870967742,
+          0.4180468303826385,
+          0.9661290322580646,
+          0.9548829240434038
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04435483870967742,
+            "right": 0.17983870967741936
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8879032258064516,
+            "right": 0.9661290322580646
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.44431753283837805,
+            "row_type": "header",
+            "top": 0.4180468303826385
+          },
+          {
+            "bottom": 0.4500285551113649,
+            "row_type": "gap",
+            "top": 0.44431753283837805
+          },
+          {
+            "bottom": 0.4648772130211308,
+            "row_type": "data",
+            "top": 0.4500285551113649
+          },
+          {
+            "bottom": 0.905197030268418,
+            "row_type": "gap",
+            "top": 0.4648772130211308
+          },
+          {
+            "bottom": 0.9548829240434038,
+            "row_type": "footer",
+            "top": 0.905197030268418
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

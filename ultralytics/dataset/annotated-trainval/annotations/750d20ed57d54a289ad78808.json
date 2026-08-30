@@ -1,0 +1,245 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8532060646632255,
+        0.13042682319741095,
+        0.8949226133662017,
+        0.1446974425294432
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2759"
+    },
+    {
+      "bbox": [
+        0.7329359876569278,
+        0.12998355791534974,
+        0.8010845460500364,
+        0.14427868602287774
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/17/99"
+    },
+    {
+      "bbox": [
+        0.07005414095371347,
+        0.060148975471392044,
+        0.30473560267252664,
+        0.12029795333288971
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "InterActive8\na wholly owned subsidiary of\nLuminant Worldwide Corp."
+    },
+    {
+      "bbox": [
+        0.07046050242369697,
+        0.05970842019761246,
+        0.3680364107179511,
+        0.15465459657742242
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "InterActive8\na wholly owned subsidiary of\nLuminant Worldwide Corp.\n114 W 26th St. 12th Fl.\nNew York, NY 10001 (212) 807-1762"
+    },
+    {
+      "bbox": [
+        0.08369579378200782,
+        0.8970818406634391,
+        0.1738195338208582,
+        0.9103585948335522
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-3791654"
+    },
+    {
+      "bbox": [
+        0.10059399503929227,
+        0.20588452938331495,
+        0.35903707309187793,
+        0.2217692174082716
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.10056013452702382,
+        0.2045747511688689,
+        0.36940457581355696,
+        0.27162437057110583
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. Reynolds Tobacco Company\n401 North Main Street\nWinston-Salem, NC 27102\nAttn: Christopher J. Gunzenhauser"
+    },
+    {
+      "bbox": [
+        0.8163488055451943,
+        0.8946161808989543,
+        0.8269515984909414,
+        0.9090783595485415
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8160174682656397,
+        0.8941420111071645,
+        0.9154186521320188,
+        0.9090783595485415
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$200,000.00"
+    },
+    {
+      "bbox": [
+        0.8163488055451943,
+        0.8941420111071645,
+        0.9140933030138004,
+        0.9090783595485415
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$200,000.00"
+    },
+    {
+      "bbox": [
+        0.5669180853179155,
+        0.37672789957695646,
+        0.6832174704415791,
+        0.3933238422895977
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due on receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.4298903635314484,
+        0.507258064516129,
+        0.447201384881708
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Second billing for Internet Marketing Plan Development"
+    },
+    {
+      "bbox": [
+        0.8241935483870968,
+        0.4298903635314484,
+        0.932258064516129,
+        0.447201384881708
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "200,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3327505024783188,
+        0.4056242600511076,
+        0.43408134323037556,
+        0.4173666867108627
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7816746861528203,
+        0.40536898990633025,
+        0.8494664458108866,
+        0.4178772270004173
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 315,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "phld0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1693,
+        2367
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07258064516129033,
+          0.40507789959607615,
+          0.932258064516129,
+          0.9197922677437969
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07258064516129033,
+            "right": 0.507258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8241935483870968,
+            "right": 0.932258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4171956145412579,
+            "row_type": "header",
+            "top": 0.40507789959607615
+          },
+          {
+            "bottom": 0.4298903635314484,
+            "row_type": "gap",
+            "top": 0.4171956145412579
+          },
+          {
+            "bottom": 0.447201384881708,
+            "row_type": "data",
+            "top": 0.4298903635314484
+          },
+          {
+            "bottom": 0.8736295441431045,
+            "row_type": "gap",
+            "top": 0.447201384881708
+          },
+          {
+            "bottom": 0.9197922677437969,
+            "row_type": "footer",
+            "top": 0.8736295441431045
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

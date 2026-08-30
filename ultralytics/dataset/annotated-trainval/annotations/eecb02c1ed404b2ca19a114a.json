@@ -1,0 +1,256 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7294330789456807,
+        0.21497161236325274,
+        0.7949929455524914,
+        0.22690067293369914
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "100021"
+    },
+    {
+      "bbox": [
+        0.7084284614891297,
+        0.22839180550500493,
+        0.7937199384339126,
+        0.2408179102658866
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "06/11/01"
+    },
+    {
+      "bbox": [
+        0.7408901430128905,
+        0.2557292359789446,
+        0.7956294491117809,
+        0.267658296549391
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "00001"
+    },
+    {
+      "bbox": [
+        0.16799982902085947,
+        0.8694094281773938,
+        0.4706257836543941,
+        0.8791259673797828
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "100 South Charles Street \u2022 Baltimore, MD 21201-2773"
+    },
+    {
+      "bbox": [
+        0.8190698734754359,
+        0.09363210504120269,
+        0.8790294084121736,
+        0.10334864424359164
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "23-1416352"
+    },
+    {
+      "bbox": [
+        0.7308275390402371,
+        0.24158849744121633,
+        0.7941810099167901,
+        0.2539550018806205
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "946632"
+    },
+    {
+      "bbox": [
+        0.045818135187507124,
+        0.21420552332539294,
+        0.1957169725293514,
+        0.22745534951046878
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "CITIBANK, N.A."
+    },
+    {
+      "bbox": [
+        0.045818135187507124,
+        0.2138867593910853,
+        0.3682420494699647,
+        0.29591278480002736
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "CITIBANK, N.A.\nATTN: LINDA R. ALPERT, ESQUIRE\nSSB LEGAL DEPT.\nWORLD TRADE CENTER\n31ST FLOOR\nNEW YORK, NY 10048"
+    },
+    {
+      "bbox": [
+        0.7964781205241667,
+        0.7245127933183083,
+        0.8516417623292503,
+        0.7377701179901895
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "60.00"
+    },
+    {
+      "bbox": [
+        0.7973267919365526,
+        0.7245127933183083,
+        0.8516417623292503,
+        0.7377701179901895
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "60.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.043548387096774284,
+        0.46536523929471035,
+        0.12741935483870978,
+        0.49181360201511337
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "05/07/01"
+    },
+    {
+      "bbox": [
+        0.21209677419354847,
+        0.46536523929471035,
+        0.6096774193548388,
+        0.49181360201511337
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "RECEIPT/REVIEW OF REVISED PRE-HEARING\nINFORMATION REPORT ON APPEAL"
+    },
+    {
+      "bbox": [
+        0.6919354838709678,
+        0.46536523929471035,
+        0.7346774193548388,
+        0.49181360201511337
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0.2"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.06237734881036363,
+        0.4396355864399932,
+        0.10884210863849163,
+        0.4515646470104395
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.6721477586096325,
+        0.4396355864399932,
+        0.7275235682678125,
+        0.4515646470104395
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hours"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1141,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "thfn0231",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1742,
+        2232
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.043548387096774284,
+          0.43954659949622166,
+          0.7346774193548388,
+          0.5371536523929471
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.043548387096774284,
+            "right": 0.12741935483870978
+          },
+          {
+            "column_type": "",
+            "left": 0.14838709677419365,
+            "right": 0.18387096774193556
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.21209677419354847,
+            "right": 0.6096774193548388
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6919354838709678,
+            "right": 0.7346774193548388
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.45843828715365237,
+            "row_type": "header",
+            "top": 0.43954659949622166
+          },
+          {
+            "bottom": 0.46536523929471035,
+            "row_type": "gap",
+            "top": 0.45843828715365237
+          },
+          {
+            "bottom": 0.49181360201511337,
+            "row_type": "data",
+            "top": 0.46536523929471035
+          },
+          {
+            "bottom": 0.5207808564231738,
+            "row_type": "gap",
+            "top": 0.49181360201511337
+          },
+          {
+            "bottom": 0.5371536523929471,
+            "row_type": "footer",
+            "top": 0.5207808564231738
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4961672269980424,
+        0.5355075296439009,
+        0.5933004936590348,
+        0.5513353384018487
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "R11210R000"
+    },
+    {
+      "bbox": [
+        0.14438728827985362,
+        0.5391347358175973,
+        0.19426653332198485,
+        0.5510055923860582
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/2/99"
+    },
+    {
+      "bbox": [
+        0.6738073453059834,
+        0.5391347358175973,
+        0.8374462720231509,
+        0.5523245764492204
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "Agree 12/1/87 & 29273"
+    },
+    {
+      "bbox": [
+        0.25902204442931315,
+        0.537815751754435,
+        0.3194021831645246,
+        0.5523245764492204
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "L08698"
+    },
+    {
+      "bbox": [
+        0.6585197040239441,
+        0.44350839123832925,
+        0.8470720912418077,
+        0.46790959640683216
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P. O. BOX 92003\nCHICAGO, ILLINOIS 60675"
+    },
+    {
+      "bbox": [
+        0.21264309728487532,
+        0.36239087135384673,
+        0.253771597582773,
+        0.3775591880802134
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "7622"
+    },
+    {
+      "bbox": [
+        0.21176802281045193,
+        0.38745156855393076,
+        0.3071511405225976,
+        0.4013009012171351
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard, Inc."
+    },
+    {
+      "bbox": [
+        0.21266835716661123,
+        0.38772718389681454,
+        0.38678291769512296,
+        0.44548686733307274
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard, Inc.\nMr. Charles Gaworski\nP. O. Box 21688\nGreensboro, NC 27420"
+    },
+    {
+      "bbox": [
+        0.8208198570091072,
+        0.7574265982709608,
+        0.8330708996510341,
+        0.7699569468710029
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.7567671062393797,
+        0.9022017831304792,
+        0.7686379628078406
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$31,800.00"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.7567671062393797,
+        0.9022017831304792,
+        0.7699569468710029
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$31,800.00"
+    },
+    {
+      "bbox": [
+        0.8619483573070049,
+        0.5371562597228537,
+        0.9319543152608732,
+        0.5490271162913146
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET CASH"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17258064516129032,
+        0.59209726443769,
+        0.4137096774193548,
+        0.6091185410334347
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Submission of Draft Final Report"
+    },
+    {
+      "bbox": [
+        0.832258064516129,
+        0.59209726443769,
+        0.910483870967742,
+        0.6091185410334347
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "31,800.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1051,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yjpy0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07419354838709677,
+          0.5604863221884498,
+          0.95,
+          0.7750759878419453
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17258064516129032,
+            "right": 0.4137096774193548
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.832258064516129,
+            "right": 0.910483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.59209726443769,
+            "row_type": "gap",
+            "top": 0.5604863221884498
+          },
+          {
+            "bottom": 0.6091185410334347,
+            "row_type": "data",
+            "top": 0.59209726443769
+          },
+          {
+            "bottom": 0.6510638297872341,
+            "row_type": "up-merge",
+            "top": 0.6091185410334347
+          },
+          {
+            "bottom": 0.6595744680851063,
+            "row_type": "gap",
+            "top": 0.6510638297872341
+          },
+          {
+            "bottom": 0.7550151975683891,
+            "row_type": "gap-with-text",
+            "top": 0.6595744680851063
+          },
+          {
+            "bottom": 0.7750759878419453,
+            "row_type": "footer",
+            "top": 0.7550151975683891
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

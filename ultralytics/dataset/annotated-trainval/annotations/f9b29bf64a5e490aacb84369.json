@@ -1,0 +1,297 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.862639405204461,
+        0.14573661632485163,
+        0.8821183595155296,
+        0.15837703712853773
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "97"
+    },
+    {
+      "bbox": [
+        0.74112783307351,
+        0.14201884550023805,
+        0.7902890034776352,
+        0.15688992879869232
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/26/99"
+    },
+    {
+      "bbox": [
+        0.1029601870727905,
+        0.07361186232734852,
+        0.3329973617939801,
+        0.08997005395564821
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CENTRAL DISTRIBUTION"
+    },
+    {
+      "bbox": [
+        0.10574289483151457,
+        0.07346640645103669,
+        0.33309856041312963,
+        0.12268643721224755
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "CENTRAL DISTRIBUION\n2215 S 162 ST\nNEW BERLIN WI 53151"
+    },
+    {
+      "bbox": [
+        0.12522184914258305,
+        0.211912937002973,
+        0.245805852020626,
+        0.22604046613650455
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "GMR MARKETING"
+    },
+    {
+      "bbox": [
+        0.123366710636767,
+        0.21217536788471045,
+        0.27456049886077466,
+        0.2520648619087995
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "GMR MARKETING\n2725 S MOORLAND RD\nNEW BERLIN, WL 53151"
+    },
+    {
+      "bbox": [
+        0.8635669744573691,
+        0.8754606919331794,
+        0.8737702362393573,
+        0.8903317752316336
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8637096774193549,
+        0.8762042460981022,
+        0.9062351600911381,
+        0.889588221066711
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$50.00"
+    },
+    {
+      "bbox": [
+        0.864516129032258,
+        0.8762042460981022,
+        0.9062351600911381,
+        0.889588221066711
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$50.00"
+    },
+    {
+      "bbox": [
+        0.696604508933925,
+        0.36686963178030796,
+        0.7364899868089699,
+        0.38099716091383956
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08709677419354839,
+        0.4169360051712993,
+        0.3064516129032258,
+        0.43374272786037493
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PICK UP & DELIVERLY ON 3/23/99"
+    },
+    {
+      "bbox": [
+        0.6120967741935484,
+        0.4169360051712993,
+        0.6258064516129033,
+        0.43374272786037493
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7225806451612903,
+        0.4169360051712993,
+        0.7629032258064516,
+        0.43374272786037493
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "50.00"
+    },
+    {
+      "bbox": [
+        0.8725806451612903,
+        0.4169360051712993,
+        0.9145161290322581,
+        0.43374272786037493
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "50.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2301506981222918,
+        0.39570258483140097,
+        0.33368127106403467,
+        0.4100266603004109
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.5370182956186809,
+        0.3927184024420239,
+        0.5697905633124699,
+        0.40823615086678466
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.6770452575830526,
+        0.3933152389198992,
+        0.7202450649975927,
+        0.4070424779110338
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.8126032739528166,
+        0.3951057483535255,
+        0.8848512277323063,
+        0.41062349677828636
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 778,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kmcw0012",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08709677419354839,
+          0.39172592113768584,
+          0.9145161290322581,
+          0.9017453135100194
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08709677419354839,
+            "right": 0.3064516129032258
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6120967741935484,
+            "right": 0.6258064516129033
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7225806451612903,
+            "right": 0.7629032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8725806451612903,
+            "right": 0.9145161290322581
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4169360051712993,
+            "row_type": "header",
+            "top": 0.39172592113768584
+          },
+          {
+            "bottom": 0.43374272786037493,
+            "row_type": "data",
+            "top": 0.4169360051712993
+          },
+          {
+            "bottom": 0.45895281189398834,
+            "row_type": "gap-with-text",
+            "top": 0.43374272786037493
+          },
+          {
+            "bottom": 0.5067873303167421,
+            "row_type": "gap",
+            "top": 0.45895281189398834
+          },
+          {
+            "bottom": 0.8564964447317388,
+            "row_type": "gap-with-text",
+            "top": 0.5067873303167421
+          },
+          {
+            "bottom": 0.9017453135100194,
+            "row_type": "footer",
+            "top": 0.8564964447317388
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

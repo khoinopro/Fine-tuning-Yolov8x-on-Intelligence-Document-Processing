@@ -1,0 +1,170 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7596774193548387,
+        0.4517029443273464,
+        0.7994925588281129,
+        0.4668693009118541
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3519"
+    },
+    {
+      "bbox": [
+        0.6096331034751441,
+        0.25153470129589617,
+        0.7370071684587813,
+        0.2666227595844723
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 23, 2000"
+    },
+    {
+      "bbox": [
+        0.40214956365903065,
+        0.10595169692519309,
+        0.5623685133239832,
+        0.11862566588759706
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL"
+    },
+    {
+      "bbox": [
+        0.39013314243415925,
+        0.10637857363111758,
+        0.5735838398005298,
+        0.1469912154701202
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WINIFRED E MEAHL\n236 East 36th Street\nNew York New York 10016"
+    },
+    {
+      "bbox": [
+        0.09452918030232195,
+        0.36647217080869293,
+        0.20908572931276295,
+        0.3978553320489313
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc."
+    },
+    {
+      "bbox": [
+        0.09292699080567243,
+        0.3685696665345139,
+        0.2811842566619916,
+        0.43125024513816984
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc.\n714 Green Valley Road\nGreensboro, NC 27408"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09274193548387097,
+        0.548936170212766,
+        0.3935483870967742,
+        0.5854103343465046
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "A&G #117-3-99 - LTC #5543-899\nNewport Non-menthol Study (N=401)"
+    },
+    {
+      "bbox": [
+        0.7137096774193549,
+        0.548936170212766,
+        0.7862903225806451,
+        0.5854103343465046
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$400.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 497,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sjkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09274193548387097,
+          0.4656534954407295,
+          0.7862903225806451,
+          0.5854103343465046
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.09274193548387097,
+            "right": 0.3935483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7137096774193549,
+            "right": 0.7862903225806451
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.48206686930091186,
+            "row_type": "gap",
+            "top": 0.4656534954407295
+          },
+          {
+            "bottom": 0.49969604863221884,
+            "row_type": "gap-with-text",
+            "top": 0.48206686930091186
+          },
+          {
+            "bottom": 0.5130699088145897,
+            "row_type": "gap",
+            "top": 0.49969604863221884
+          },
+          {
+            "bottom": 0.5300911854103344,
+            "row_type": "gap-with-text",
+            "top": 0.5130699088145897
+          },
+          {
+            "bottom": 0.548936170212766,
+            "row_type": "gap",
+            "top": 0.5300911854103344
+          },
+          {
+            "bottom": 0.5854103343465046,
+            "row_type": "data",
+            "top": 0.548936170212766
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

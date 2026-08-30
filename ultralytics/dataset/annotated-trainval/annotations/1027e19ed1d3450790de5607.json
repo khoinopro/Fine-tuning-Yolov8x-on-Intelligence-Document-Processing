@@ -1,0 +1,223 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.24225147002253117,
+        0.2300202538742061,
+        0.33694977194042974,
+        0.24535493746581988
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DPW99-485"
+    },
+    {
+      "bbox": [
+        0.5858081002363027,
+        0.009371195528208398,
+        0.6882144034730999,
+        0.026409732852223665
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 3, 1999"
+    },
+    {
+      "bbox": [
+        0.4432100758366764,
+        0.9153954177327203,
+        0.6023252459196571,
+        0.9243406498278284
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MORGAN GUARANTY TRUST CO."
+    },
+    {
+      "bbox": [
+        0.36613006264768916,
+        0.9268964304264306,
+        0.6430675386052647,
+        0.9358416625215387
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "5OO STANTON CHRISTINA RD. NEWARK, DE 19713"
+    },
+    {
+      "bbox": [
+        0.35897263285156894,
+        0.12182554186670917,
+        0.6838098312908721,
+        0.13801215232452368
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL"
+    },
+    {
+      "bbox": [
+        0.3596289523124276,
+        0.12262835845719619,
+        0.684015869208938,
+        0.18060849563456186
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL\nCOUNSELLORS AT LAW\n45O LEXINOTON AVENUE\nNEW YORK, NY. 100l7"
+    },
+    {
+      "bbox": [
+        0.7752047040720997,
+        0.1767748247366584,
+        0.8577904324888719,
+        0.18699794713106754
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 0,
+      "text": "135023295"
+    },
+    {
+      "bbox": [
+        0.7719012749354289,
+        0.38421901665654434,
+        0.7829127053909986,
+        0.40466526144536263
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3540174891465626,
+        0.9158213811658207,
+        0.426692930153322,
+        0.9239146863947278
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "015-33-316"
+    },
+    {
+      "bbox": [
+        0.5076269440017586,
+        0.9375455162539401,
+        0.5874598148046382,
+        0.9464907483490482
+      ],
+      "fieldtype": "bank_num",
+      "page": 0,
+      "text": "031100238"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15241935483870966,
+        0.28446662507797876,
+        0.6508064516129032,
+        0.32252027448534
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For expenses in connection with tobacco settlement attorney fee\narbitrations through May 31, 1999"
+    },
+    {
+      "bbox": [
+        0.7548387096774194,
+        0.28446662507797876,
+        0.8435483870967742,
+        0.32252027448534
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$6,340.10"
+    },
+    {
+      "bbox": [
+        0.15241935483870966,
+        0.3855271366188397,
+        0.6508064516129032,
+        0.40611353711790393
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Lorillard 9.1% share"
+    },
+    {
+      "bbox": [
+        0.7548387096774194,
+        0.3855271366188397,
+        0.8435483870967742,
+        0.40611353711790393
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$576.95"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 560,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ljdj0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1703,
+        2203
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15241935483870966,
+          0.28446662507797876,
+          0.8435483870967742,
+          0.40611353711790393
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15241935483870966,
+            "right": 0.6508064516129032
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7548387096774194,
+            "right": 0.8435483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.32252027448534,
+            "row_type": "data",
+            "top": 0.28446662507797876
+          },
+          {
+            "bottom": 0.3855271366188397,
+            "row_type": "gap",
+            "top": 0.32252027448534
+          },
+          {
+            "bottom": 0.40611353711790393,
+            "row_type": "data",
+            "top": 0.3855271366188397
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

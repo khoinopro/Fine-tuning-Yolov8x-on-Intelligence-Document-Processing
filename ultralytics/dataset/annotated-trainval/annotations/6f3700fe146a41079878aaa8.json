@@ -1,0 +1,217 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.26370967741935486,
+        0.49456210646823123,
+        0.3461099198209957,
+        0.5052362094110707
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "L/C 2573 CY"
+    },
+    {
+      "bbox": [
+        0.08017964857067926,
+        0.11950285239368244,
+        0.2602656846460938,
+        0.12944259815043485
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Gallaher International Limited"
+    },
+    {
+      "bbox": [
+        0.08017964857067926,
+        0.11797437389247309,
+        0.3436270653029111,
+        0.1673943546762168
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Gallaher International Limited\nMembers Hill, Brooklands Road, Weybridge\nSurrey\nKT13 0QU"
+    },
+    {
+      "bbox": [
+        0.25581125972550045,
+        0.8238693812471831,
+        0.39071670017775445,
+        0.8338091270039354
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "GALLAHER LIMITED"
+    },
+    {
+      "bbox": [
+        0.08081599498790687,
+        0.20647562776526607,
+        0.24881144913599673,
+        0.21641537352201848
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "TLAIS ENTERPRISES LTD"
+    },
+    {
+      "bbox": [
+        0.07928081336286576,
+        0.20633378149918133,
+        0.24894613216410896,
+        0.2839531697451416
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "TLAIS ENTERPRISES LTD\nPO BOX 56275\nFLAT 402\nEDEN BEACH HOUSE\n3305 LIMASSOL\nCYPRUS"
+    },
+    {
+      "bbox": [
+        0.24875264376238612,
+        0.8117396055575793,
+        0.31857794727463484,
+        0.8205151688609045
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "280568441"
+    },
+    {
+      "bbox": [
+        0.4938685529668426,
+        0.8236124264973722,
+        0.5564203873632321,
+        0.8334204090128532
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "86288188"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14596774193548387,
+        0.42072123640526615,
+        0.4435483870967742,
+        0.44361763022323986
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Freight difference between delivery to Cyprus\nand Durban"
+    },
+    {
+      "bbox": [
+        0.8540322580645161,
+        0.42072123640526615,
+        0.8951612903225806,
+        0.44361763022323986
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8,720"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2176304746918437,
+        0.3591862671190077,
+        0.3875349680916164,
+        0.37002962612637397
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION OF GOODS"
+    },
+    {
+      "bbox": [
+        0.7687064720109567,
+        0.3591862671190077,
+        0.8616130489261881,
+        0.36912601287576013
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "U S DOLLARS"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 881,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jpbm0189",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1666,
+        2347
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.35718374356038923,
+          0.8951612903225806,
+          0.792215226101889
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14596774193548387,
+            "right": 0.4435483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8540322580645161,
+            "right": 0.8951612903225806
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.38065254722381225,
+            "row_type": "header",
+            "top": 0.35718374356038923
+          },
+          {
+            "bottom": 0.42072123640526615,
+            "row_type": "gap",
+            "top": 0.38065254722381225
+          },
+          {
+            "bottom": 0.44361763022323986,
+            "row_type": "data",
+            "top": 0.42072123640526615
+          },
+          {
+            "bottom": 0.49456210646823123,
+            "row_type": "gap",
+            "top": 0.44361763022323986
+          },
+          {
+            "bottom": 0.5048654836863194,
+            "row_type": "subsection-header",
+            "top": 0.49456210646823123
+          },
+          {
+            "bottom": 0.792215226101889,
+            "row_type": "gap",
+            "top": 0.5048654836863194
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2656426320090276,
+        0.3773519756838906,
+        0.32645239114362423,
+        0.39182492401215807
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "100122"
+    },
+    {
+      "bbox": [
+        0.15362465465582317,
+        0.31101762917933135,
+        0.28804622747966846,
+        0.3266966565349544
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 26, 1999"
+    },
+    {
+      "bbox": [
+        0.26794951016639196,
+        0.39457489657458766,
+        0.3082295059079016,
+        0.4084363564993185
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "TBD"
+    },
+    {
+      "bbox": [
+        0.18642991945211876,
+        0.9411939209726443,
+        0.5880943811043231,
+        0.955063829787234
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "2801 YOUNGFIELD SUITE 210 GOLDEN, COLORADO 80401"
+    },
+    {
+      "bbox": [
+        0.14962401260749444,
+        0.6071100303951368,
+        0.33306451612903226,
+        0.6237082066869301
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Tip Nunn's Events, Inc."
+    },
+    {
+      "bbox": [
+        0.14882388419782872,
+        0.605723809822543,
+        0.4973703554767295,
+        0.6577653495440728
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Tip Nunn's Events, Inc. (Tax ID 84-1060640)\n2801 Youngield, Suite 210\nGolden, Colorado 80401"
+    },
+    {
+      "bbox": [
+        0.3943548387096774,
+        0.6089191489361703,
+        0.49112903225806454,
+        0.6215829787234043
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "84-1060640"
+    },
+    {
+      "bbox": [
+        0.2656426320090276,
+        0.34403404255319153,
+        0.4128662593875248,
+        0.36109422492401216
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.7121142846025137,
+        0.5418310030395137,
+        0.7257164675668314,
+        0.5569069908814589
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7112903225806452,
+        0.5424340425531915,
+        0.7921271255690883,
+        0.5575100303951368
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,750.00"
+    },
+    {
+      "bbox": [
+        0.7129144130121794,
+        0.5424340425531915,
+        0.792927253978754,
+        0.5575100303951368
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,750.00"
+    },
+    {
+      "bbox": [
+        0.1504241410171602,
+        0.5743951367781155,
+        0.3943548387096774,
+        0.5908814589665653
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due Immediately Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14838709677419354,
+        0.45714285714285713,
+        0.1685483870967742,
+        0.4735562310030395
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "I."
+    },
+    {
+      "bbox": [
+        0.20887096774193548,
+        0.45714285714285713,
+        0.3419354838709677,
+        0.4735562310030395
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Professional Fees"
+    },
+    {
+      "bbox": [
+        0.7129032258064516,
+        0.45714285714285713,
+        0.7959677419354839,
+        0.4735562310030395
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$1,750.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 621,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hmkv0076",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14838709677419354,
+          0.45714285714285713,
+          0.7959677419354839,
+          0.5610942249240122
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.14838709677419354,
+            "right": 0.1685483870967742
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.20887096774193548,
+            "right": 0.3419354838709677
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7129032258064516,
+            "right": 0.7959677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4735562310030395,
+            "row_type": "data",
+            "top": 0.45714285714285713
+          },
+          {
+            "bottom": 0.4917933130699088,
+            "row_type": "gap",
+            "top": 0.4735562310030395
+          },
+          {
+            "bottom": 0.5094224924012158,
+            "row_type": "gap-with-text",
+            "top": 0.4917933130699088
+          },
+          {
+            "bottom": 0.539209726443769,
+            "row_type": "gap",
+            "top": 0.5094224924012158
+          },
+          {
+            "bottom": 0.5610942249240122,
+            "row_type": "footer",
+            "top": 0.539209726443769
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

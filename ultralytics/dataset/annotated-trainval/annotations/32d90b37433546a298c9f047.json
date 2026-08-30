@@ -1,0 +1,253 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2703892114030363,
+        0.10884788029925187,
+        0.3487860833482953,
+        0.12245386533665835
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7800993"
+    },
+    {
+      "bbox": [
+        0.2247910307818142,
+        0.24861845386533665,
+        0.32478704091607313,
+        0.26346134663341647
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WXME-AM"
+    },
+    {
+      "bbox": [
+        0.2239910627007401,
+        0.24861845386533665,
+        0.4327827318610729,
+        0.30056857855361596
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WXME-AM\n274 Britton, Road\nMonticello, ME 04760"
+    },
+    {
+      "bbox": [
+        0.1879032258064516,
+        0.15956109725685785,
+        0.4685483870967742,
+        0.19451371571072318
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "C/O Mainers for Healthcare\nMEDIA FINANCIAL SERVICES"
+    },
+    {
+      "bbox": [
+        0.1903924032956291,
+        0.15956109725685785,
+        0.5559778163464799,
+        0.2300648379052369
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "C/O Mainers for Healthcare\nMEDIA FINANCIAL SERVICES\n1655 Palm Beach Lakes Blvd. Suite 903\nWEST PALM BEACH, FL 33401"
+    },
+    {
+      "bbox": [
+        0.34398627486185085,
+        0.4381745635910224,
+        0.3535858918347397,
+        0.4542543640897756
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3435483870967742,
+        0.4394114713216958,
+        0.45161290322580644,
+        0.4536359102244389
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$380.00 USD"
+    },
+    {
+      "bbox": [
+        0.3435483870967742,
+        0.4394114713216958,
+        0.45161290322580644,
+        0.456359102244389
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$380.00 USD"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15241935483870966,
+        0.35286783042394015,
+        0.1774193548387097,
+        0.371571072319202
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "38"
+    },
+    {
+      "bbox": [
+        0.1774193548387097,
+        0.35286783042394015,
+        0.5016129032258064,
+        0.371571072319202
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(:60) second spots to run on WXME"
+    },
+    {
+      "bbox": [
+        0.4239830829692581,
+        0.4072518703241895,
+        0.5207792207792208,
+        0.4220947630922693
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$10.00 USD"
+    },
+    {
+      "bbox": [
+        0.5671307952386642,
+        0.3717913862262272,
+        0.6493997724965105,
+        0.38939186838335627
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3146217"
+    },
+    {
+      "bbox": [
+        0.5903764438326651,
+        0.3540648379052369,
+        0.68957248588585,
+        0.3695261845386534
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/17/2017"
+    },
+    {
+      "bbox": [
+        0.15199393540407363,
+        0.3732369077306733,
+        0.24959004129511042,
+        0.3880798004987531
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/23/2017"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15359387156622178,
+        0.32066832917705734,
+        0.3599856364833323,
+        0.33365586034912714
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ORDER DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 183,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "04514071-bd83-468b-b35d-34a1a27af9dd",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15241935483870966,
+          0.3204488778054863,
+          0.7701612903225806,
+          0.4551122194513716
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.15241935483870966,
+            "right": 0.1774193548387097
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.1774193548387097,
+            "right": 0.5016129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.33541147132169574,
+            "row_type": "header",
+            "top": 0.3204488778054863
+          },
+          {
+            "bottom": 0.35286783042394015,
+            "row_type": "gap",
+            "top": 0.33541147132169574
+          },
+          {
+            "bottom": 0.371571072319202,
+            "row_type": "data",
+            "top": 0.35286783042394015
+          },
+          {
+            "bottom": 0.42082294264339154,
+            "row_type": "up-merge",
+            "top": 0.371571072319202
+          },
+          {
+            "bottom": 0.4395261845386534,
+            "row_type": "gap",
+            "top": 0.42082294264339154
+          },
+          {
+            "bottom": 0.4551122194513716,
+            "row_type": "footer",
+            "top": 0.4395261845386534
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

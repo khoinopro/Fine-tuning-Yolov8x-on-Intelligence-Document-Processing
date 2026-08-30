@@ -1,0 +1,311 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7397934084829126,
+        0.18038415421847798,
+        0.7923231198581249,
+        0.19512371567690212
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "021346"
+    },
+    {
+      "bbox": [
+        0.7187815239328277,
+        0.20565197386149078,
+        0.8562342686979664,
+        0.22179530307786008
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 27, 2001"
+    },
+    {
+      "bbox": [
+        0.4009767701127938,
+        0.10809011468430248,
+        0.5918347214427315,
+        0.148799379664712
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "POWELLTATE\nA CASSIDY COMPANY"
+    },
+    {
+      "bbox": [
+        0.23638367447046213,
+        0.903090605224581,
+        0.5296745629820637,
+        0.9171282828040325
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "700 Thirteenth Street, NW, Suite 1000, Washington, DC 20005"
+    },
+    {
+      "bbox": [
+        0.7196570191224145,
+        0.2522882607558742,
+        0.7905721294789511,
+        0.264220286698408
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "LORIL001"
+    },
+    {
+      "bbox": [
+        0.14708316513260136,
+        0.1792923373427261,
+        0.39047082783775133,
+        0.1954356665590954
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.14795866032218824,
+        0.17878154677060284,
+        0.5340520389299981,
+        0.2389524670553952
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Company\nP. O. Box 10529\nGreensbor0, NC 27404-0529\nAttention: Steve Watsop, VP External Affairs"
+    },
+    {
+      "bbox": [
+        0.8010780717539935,
+        0.57047563606922,
+        0.8098330236498623,
+        0.5845133136486715
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8129032258064516,
+        0.5115173902355235,
+        0.8754951628688775,
+        0.5262569516939475
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$3,262.50"
+    },
+    {
+      "bbox": [
+        0.7983870967741935,
+        0.5697737521902474,
+        0.8772461532480512,
+        0.5856496444731739
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$3,262.50"
+    },
+    {
+      "bbox": [
+        0.7205325143120015,
+        0.2713951034393628,
+        0.8903785810918543,
+        0.28683654877675946
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due 30 Days from Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12983870967741937,
+        0.45184227537168714,
+        0.3379032258064516,
+        0.4660633484162896
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Mark Wilcox/Vice President (@"
+    },
+    {
+      "bbox": [
+        0.3379032258064516,
+        0.45184227537168714,
+        0.3725806451612903,
+        0.4660633484162896
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$225"
+    },
+    {
+      "bbox": [
+        0.5532258064516129,
+        0.45184227537168714,
+        0.5935483870967742,
+        0.4660633484162896
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "14.50"
+    },
+    {
+      "bbox": [
+        0.807258064516129,
+        0.45184227537168714,
+        0.8830645161290323,
+        0.4660633484162896
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$3,262.50"
+    },
+    {
+      "bbox": [
+        0.1299343093605747,
+        0.3838295767160336,
+        0.2186699352653574,
+        0.3973864712578803
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SUDC01217"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.0433114364535249,
+        0.3273778205378753,
+        0.12570880336510887,
+        0.34517124462404897
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.8239736691158396,
+        0.32967032967032966,
+        0.8767924940591627,
+        0.34601855053291436
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 620,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yfwd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04516129032258064,
+          0.32967032967032966,
+          0.8830645161290323,
+          0.5966386554621849
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12983870967741937,
+            "right": 0.3379032258064516
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.3379032258064516,
+            "right": 0.3725806451612903
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.5532258064516129,
+            "right": 0.5935483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.807258064516129,
+            "right": 0.8830645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.35358758888170655,
+            "row_type": "header",
+            "top": 0.32967032967032966
+          },
+          {
+            "bottom": 0.3813833225597931,
+            "row_type": "gap",
+            "top": 0.35358758888170655
+          },
+          {
+            "bottom": 0.4169360051712993,
+            "row_type": "subsection-header",
+            "top": 0.3813833225597931
+          },
+          {
+            "bottom": 0.4253393665158371,
+            "row_type": "gap",
+            "top": 0.4169360051712993
+          },
+          {
+            "bottom": 0.4414996767937944,
+            "row_type": "subsection-header",
+            "top": 0.4253393665158371
+          },
+          {
+            "bottom": 0.45184227537168714,
+            "row_type": "gap",
+            "top": 0.4414996767937944
+          },
+          {
+            "bottom": 0.4660633484162896,
+            "row_type": "data",
+            "top": 0.45184227537168714
+          },
+          {
+            "bottom": 0.4731738849385908,
+            "row_type": "gap",
+            "top": 0.4660633484162896
+          },
+          {
+            "bottom": 0.5966386554621849,
+            "row_type": "footer",
+            "top": 0.4731738849385908
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

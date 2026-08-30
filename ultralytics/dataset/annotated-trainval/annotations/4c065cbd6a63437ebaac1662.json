@@ -1,0 +1,324 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8211777123367939,
+        0.29403456209232265,
+        0.8638122211037156,
+        0.3056816478787452
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "5045D"
+    },
+    {
+      "bbox": [
+        0.7124288204095737,
+        0.2945004455237795,
+        0.7600064606277326,
+        0.30661341474165893
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "11/8/99"
+    },
+    {
+      "bbox": [
+        0.6450786543864657,
+        0.5223174292885697,
+        0.6988352089186712,
+        0.5339645150749922
+      ],
+      "fieldtype": "order_id",
+      "page": 1,
+      "text": "10/31/99"
+    },
+    {
+      "bbox": [
+        0.059317577414847424,
+        0.22601558109961523,
+        0.27310801268086,
+        0.24437689969604864
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "Califomia Celebrations, Inc."
+    },
+    {
+      "bbox": [
+        0.05746390312063344,
+        0.2525709366926585,
+        0.2687827726610274,
+        0.2865804271890122
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "4051 Glencoe Avenue #7\nMarna Del Rey, CA 90292"
+    },
+    {
+      "bbox": [
+        0.1512316469729335,
+        0.95155642015381,
+        0.5393187410431821,
+        0.9683261507900116
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "4051 Glencoe, Suite 7 Marina Del Rey, CA 90282"
+    },
+    {
+      "bbox": [
+        0.08465112610243851,
+        0.3601900093592025,
+        0.1927821265982541,
+        0.37370062887145256
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.08341534323962918,
+        0.37370062887145256,
+        0.2459207896990549,
+        0.4105054199565477
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 1,
+      "text": "Marlboro Racing\n120 Park Ave\nNew York, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.8125272322971286,
+        0.8885018064136933,
+        0.8236492780624126,
+        0.9006147756315728
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8131451237285334,
+        0.8880359229822363,
+        0.8780237240260228,
+        0.8996830087686588
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$-4,655.00"
+    },
+    {
+      "bbox": [
+        0.8119093408657241,
+        0.8885018064136933,
+        0.8774058325946181,
+        0.9001488922001157
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$-4,655.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04758064516129032,
+        0.6182370820668693,
+        0.29354838709677417,
+        0.643161094224924
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "Hard Beverages- 35% credit of $13,300.00\n10/31/99 Mariboro Racing Event."
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.6182370820668693,
+        0.7298387096774194,
+        0.643161094224924
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "4,655.00"
+    },
+    {
+      "bbox": [
+        0.8241935483870968,
+        0.6182370820668693,
+        0.8895161290322581,
+        0.643161094224924
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "-4,655.00T"
+    },
+    {
+      "bbox": [
+        0.04758064516129032,
+        0.643161094224924,
+        0.29354838709677417,
+        0.6541033434650456
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "Sales Tax"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.643161094224924,
+        0.7298387096774194,
+        0.6541033434650456
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.8241935483870968,
+        0.643161094224924,
+        0.8895161290322581,
+        0.6541033434650456
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.19972366343334094,
+        0.5480260078610056,
+        0.29686442589668394,
+        0.5595632153487863
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.647535528987142,
+        0.5476758408908518,
+        0.6892820888788631,
+        0.5588639580277314
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.7866907286262126,
+        0.5476758408908518,
+        0.8507021204601849,
+        0.5580073422018711
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 160,
+    "currency": "usd",
+    "document_type": "credit_note",
+    "language": "eng",
+    "original_filename": "qplf0052",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1762
+      ],
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.04758064516129032,
+          0.541033434650456,
+          0.8991935483870968,
+          0.9142857142857143
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04758064516129032,
+            "right": 0.29354838709677417
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6725806451612903,
+            "right": 0.7298387096774194
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8241935483870968,
+            "right": 0.8895161290322581
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5665653495440729,
+            "row_type": "header",
+            "top": 0.541033434650456
+          },
+          {
+            "bottom": 0.6048632218844985,
+            "row_type": "gap-with-text",
+            "top": 0.5665653495440729
+          },
+          {
+            "bottom": 0.6182370820668693,
+            "row_type": "gap",
+            "top": 0.6048632218844985
+          },
+          {
+            "bottom": 0.643161094224924,
+            "row_type": "data",
+            "top": 0.6182370820668693
+          },
+          {
+            "bottom": 0.6541033434650456,
+            "row_type": "data",
+            "top": 0.643161094224924
+          },
+          {
+            "bottom": 0.8680851063829788,
+            "row_type": "gap",
+            "top": 0.6541033434650456
+          },
+          {
+            "bottom": 0.9142857142857143,
+            "row_type": "footer",
+            "top": 0.8680851063829788
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

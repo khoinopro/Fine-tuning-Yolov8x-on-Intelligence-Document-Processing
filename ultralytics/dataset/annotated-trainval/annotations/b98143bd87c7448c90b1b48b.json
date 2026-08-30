@@ -1,0 +1,230 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.13439463762044407,
+        0.17316708229426434,
+        0.1815927544038143,
+        0.1873915211970075
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4260"
+    },
+    {
+      "bbox": [
+        0.14079438226903662,
+        0.19048379052369077,
+        0.2415903604843697,
+        0.20408977556109725
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "04/07/2020"
+    },
+    {
+      "bbox": [
+        0.054397829513036886,
+        0.10204488778054863,
+        0.11279549943144412,
+        0.11812468827930175
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KNLR"
+    },
+    {
+      "bbox": [
+        0.05359786143196281,
+        0.10204488778054863,
+        0.21039160532248088,
+        0.1546134663341646
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KNLR\nP.O. Box 7408\nBend, OR 97708"
+    },
+    {
+      "bbox": [
+        0.6663734115347019,
+        0.12059850374064837,
+        0.8143675065334052,
+        0.1379152119700748
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "State of Oregon"
+    },
+    {
+      "bbox": [
+        0.6663734115347019,
+        0.1218354114713217,
+        0.8655654637221458,
+        0.1558503740648379
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "State of Oregon\nCounty of Deschutes"
+    },
+    {
+      "bbox": [
+        0.6743730923454425,
+        0.39843890274314214,
+        0.746370219642109,
+        0.4126633416458853
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "225.84"
+    },
+    {
+      "bbox": [
+        0.6735731242643686,
+        0.4157556109725686,
+        0.7487701238853312,
+        0.43059850374064834
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "191.96"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06370967741935483,
+        0.34663341645885287,
+        0.1596774193548387,
+        0.36034912718204487
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "04/06/20"
+    },
+    {
+      "bbox": [
+        0.06370967741935483,
+        0.3640897755610973,
+        0.1596774193548387,
+        0.378428927680798
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "04/07/20"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07039719113451831,
+        0.31309226932668327,
+        0.11759530791788855,
+        0.3266982543640898
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 925,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "23efcaee-f904-4677-bd9b-a934ae5bf877",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06370967741935483,
+          0.31296758104738154,
+          0.8330645161290322,
+          0.4314214463840399
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.06370967741935483,
+            "right": 0.1596774193548387
+          },
+          {
+            "column_type": "",
+            "left": 0.1685483870967742,
+            "right": 0.24193548387096775
+          },
+          {
+            "column_type": "",
+            "left": 0.2653225806451613,
+            "right": 0.3362903225806452
+          },
+          {
+            "column_type": "",
+            "left": 0.3580645161290323,
+            "right": 0.42983870967741933
+          },
+          {
+            "column_type": "",
+            "left": 0.4532258064516129,
+            "right": 0.5233870967741936
+          },
+          {
+            "column_type": "",
+            "left": 0.5475806451612903,
+            "right": 0.617741935483871
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3266832917705736,
+            "row_type": "header",
+            "top": 0.31296758104738154
+          },
+          {
+            "bottom": 0.34663341645885287,
+            "row_type": "gap",
+            "top": 0.3266832917705736
+          },
+          {
+            "bottom": 0.36034912718204487,
+            "row_type": "data",
+            "top": 0.34663341645885287
+          },
+          {
+            "bottom": 0.3640897755610973,
+            "row_type": "gap",
+            "top": 0.36034912718204487
+          },
+          {
+            "bottom": 0.378428927680798,
+            "row_type": "data",
+            "top": 0.3640897755610973
+          },
+          {
+            "bottom": 0.3983790523690773,
+            "row_type": "gap",
+            "top": 0.378428927680798
+          },
+          {
+            "bottom": 0.4314214463840399,
+            "row_type": "footer",
+            "top": 0.3983790523690773
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

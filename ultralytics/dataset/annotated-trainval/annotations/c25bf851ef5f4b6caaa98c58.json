@@ -1,0 +1,364 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21763492742908283,
+        0.3666480243161094,
+        0.27684442974434803,
+        0.38172401215805474
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "100175"
+    },
+    {
+      "bbox": [
+        0.10801733530487567,
+        0.30151975683890575,
+        0.2568412195027044,
+        0.3178018237082067
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 23, 1999"
+    },
+    {
+      "bbox": [
+        0.21978864569284784,
+        0.3854805972935954,
+        0.26094429351569465,
+        0.39868198769810087
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "TBD"
+    },
+    {
+      "bbox": [
+        0.13762208646250826,
+        0.9291331306990881,
+        0.5376862912953811,
+        0.9417969604863222
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "2801 YOUNGFIELD SUITE 210 GOLDEN, COLORADO 80401"
+    },
+    {
+      "bbox": [
+        0.09761566597922097,
+        0.6945507598784195,
+        0.2784446865636795,
+        0.7096267477203647
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Tip Nunn's Events, Inc."
+    },
+    {
+      "bbox": [
+        0.09841579438888673,
+        0.6948331950529553,
+        0.4457068826778366,
+        0.7439999999999999
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Tip Nunn's Events, Inc, (Tax ID 84-1060640)\n2801 Youngfield, Suite 210\nGolden, Colorado 80401"
+    },
+    {
+      "bbox": [
+        0.34516129032258064,
+        0.6945507598784195,
+        0.4376702400871629,
+        0.7108328267477203
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "84-1060640"
+    },
+    {
+      "bbox": [
+        0.21763492742908283,
+        0.3346869300911854,
+        0.36245816957858285,
+        0.3503659574468085
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.6585056811549087,
+        0.6119343465045592,
+        0.6737081209385579,
+        0.6282164133738601
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.660906066383906,
+        0.6131404255319148,
+        0.7241162107474999,
+        0.6276133738601823
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$689.13"
+    },
+    {
+      "bbox": [
+        0.660906066383906,
+        0.6131404255319148,
+        0.7241162107474999,
+        0.6270103343465045
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$689.13"
+    },
+    {
+      "bbox": [
+        0.10001605120821822,
+        0.6610820668693009,
+        0.34325558916138826,
+        0.6785514667915831
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due Immediately Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15725806451612903,
+        0.48024316109422494,
+        0.35161290322580646,
+        0.4978723404255319
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.4,
+        0.48024316109422494,
+        0.4153225806451613,
+        0.4978723404255319
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.4258064516129032,
+        0.48024316109422494,
+        0.4814516129032258,
+        0.4978723404255319
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "129.40"
+    },
+    {
+      "bbox": [
+        0.15725806451612903,
+        0.4978723404255319,
+        0.35161290322580646,
+        0.513677811550152
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Local Delivery"
+    },
+    {
+      "bbox": [
+        0.4258064516129032,
+        0.4978723404255319,
+        0.4814516129032258,
+        0.513677811550152
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "23.30"
+    },
+    {
+      "bbox": [
+        0.15725806451612903,
+        0.513677811550152,
+        0.35161290322580646,
+        0.5306990881458966
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Storage"
+    },
+    {
+      "bbox": [
+        0.4258064516129032,
+        0.513677811550152,
+        0.4814516129032258,
+        0.5306990881458966
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "231.90"
+    },
+    {
+      "bbox": [
+        0.15725806451612903,
+        0.5306990881458966,
+        0.35161290322580646,
+        0.5458966565349544
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Magazines for Reference"
+    },
+    {
+      "bbox": [
+        0.4258064516129032,
+        0.5306990881458966,
+        0.4814516129032258,
+        0.5458966565349544
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "147.84"
+    },
+    {
+      "bbox": [
+        0.15725806451612903,
+        0.5458966565349544,
+        0.35161290322580646,
+        0.5653495440729484
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Telephone"
+    },
+    {
+      "bbox": [
+        0.4258064516129032,
+        0.5458966565349544,
+        0.4814516129032258,
+        0.5653495440729484
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "156.69"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 621,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tmkv0076",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10403225806451613,
+          0.4474164133738602,
+          0.7322580645161291,
+          0.6297872340425532
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15725806451612903,
+            "right": 0.35161290322580646
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.4,
+            "right": 0.4153225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4258064516129032,
+            "right": 0.4814516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4644376899696049,
+            "row_type": "subsection-header",
+            "top": 0.4474164133738602
+          },
+          {
+            "bottom": 0.48024316109422494,
+            "row_type": "gap",
+            "top": 0.4644376899696049
+          },
+          {
+            "bottom": 0.4978723404255319,
+            "row_type": "data",
+            "top": 0.48024316109422494
+          },
+          {
+            "bottom": 0.513677811550152,
+            "row_type": "data",
+            "top": 0.4978723404255319
+          },
+          {
+            "bottom": 0.5306990881458966,
+            "row_type": "data",
+            "top": 0.513677811550152
+          },
+          {
+            "bottom": 0.5458966565349544,
+            "row_type": "data",
+            "top": 0.5306990881458966
+          },
+          {
+            "bottom": 0.5653495440729484,
+            "row_type": "data",
+            "top": 0.5458966565349544
+          },
+          {
+            "bottom": 0.6091185410334347,
+            "row_type": "gap",
+            "top": 0.5653495440729484
+          },
+          {
+            "bottom": 0.6297872340425532,
+            "row_type": "footer",
+            "top": 0.6091185410334347
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

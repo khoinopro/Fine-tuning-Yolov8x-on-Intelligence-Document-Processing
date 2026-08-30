@@ -1,0 +1,123 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.267741935483871,
+        0.6601823708206687,
+        0.41653789758628473,
+        0.677720204102339
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "20 January 1999"
+    },
+    {
+      "bbox": [
+        0.3367555831265509,
+        0.13649503227087736,
+        0.6503186329799233,
+        0.15957052386569157
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Ragnar Rylander, professor"
+    },
+    {
+      "bbox": [
+        0.3356586995480754,
+        0.13699956926027143,
+        0.6520911251363565,
+        0.20572150705532002
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Ragnar Rylander, professor\nBj\u00f6rk\u00e5sv\u00e4gen 21\n443 91 Lerum, Sweden"
+    },
+    {
+      "bbox": [
+        0.3961284683058877,
+        0.5840197230809722,
+        0.5158019399954884,
+        0.6001026414652366
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "019-24 93 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.5069908814589665,
+        0.5556451612903226,
+        0.5270516717325228
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Project alcohol-magnesium (Final invoice)"
+    },
+    {
+      "bbox": [
+        0.667741935483871,
+        0.5082202337465407,
+        0.7486549740581999,
+        0.5236038948097502
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ 23,743"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 127,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "frlf0090",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1596774193548387,
+          0.5069908814589665,
+          0.7540322580645161,
+          0.5270516717325228
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1596774193548387,
+            "right": 0.5556451612903226
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.667741935483871,
+            "right": 0.7540322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5270516717325228,
+            "row_type": "data",
+            "top": 0.5069908814589665
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

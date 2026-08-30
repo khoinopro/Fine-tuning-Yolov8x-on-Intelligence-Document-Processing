@@ -1,0 +1,240 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.30325595417545975,
+        0.10007963325656972,
+        0.5683470433696542,
+        0.12943632567849686
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "OLDENBURG FOR ASSEMBLY"
+    },
+    {
+      "bbox": [
+        0.4930487962444549,
+        0.8386673266900544,
+        0.6488027046815108,
+        0.8613520435615435
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Oldenburg For Assembly"
+    },
+    {
+      "bbox": [
+        0.4920173134071235,
+        0.8373329315799668,
+        0.6467397390068478,
+        0.8987151066439961
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Oldenburg For Assembly\nE4299 County Rd Y\nViroqua, Wi 54665"
+    },
+    {
+      "bbox": [
+        0.7973362332572462,
+        0.7365861007683533,
+        0.8159029243292132,
+        0.7752835589608935
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7967741935483871,
+        0.7390396659707724,
+        0.9161290322580645,
+        0.7739491638508059
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,344.00"
+    },
+    {
+      "bbox": [
+        0.7959677419354839,
+        0.7390396659707724,
+        0.9159567595503683,
+        0.7739491638508059
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,344.00"
+    },
+    {
+      "bbox": [
+        0.15080645161290324,
+        0.7703549060542797,
+        0.3393578534820621,
+        0.7859587198415944
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "by the 25th of the month following broadcast"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.302713987473904,
+        0.08548387096774193,
+        0.33402922755741127
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/11"
+    },
+    {
+      "bbox": [
+        0.9290322580645162,
+        0.302713987473904,
+        0.9709677419354839,
+        0.33402922755741127
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$6.00"
+    },
+    {
+      "bbox": [
+        0.10108531805848658,
+        0.3396035555172933,
+        0.16297428829837632,
+        0.36362266749887
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "11/6/18"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.021661139583961413,
+        0.2822245657835266,
+        0.09077048968517164,
+        0.3022404924348406
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BEGIN DATE"
+    },
+    {
+      "bbox": [
+        0.9334919677850037,
+        0.2822245657835266,
+        0.96546793574228,
+        0.3022404924348406
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.11140014643180154,
+        0.28355896089361426,
+        0.16606873681037082,
+        0.3022404924348406
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "END DATE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1015,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "9146885f-39f9-4cdc-af0a-1d5e20a75033",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.013709677419354839,
+          0.2807933194154488,
+          0.9854838709677419,
+          0.7818371607515657
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.04112903225806452,
+            "right": 0.08548387096774193
+          },
+          {
+            "column_type": "",
+            "left": 0.17580645161290323,
+            "right": 0.2153225806451613
+          },
+          {
+            "column_type": "",
+            "left": 0.5983870967741935,
+            "right": 0.6274193548387097
+          },
+          {
+            "column_type": "",
+            "left": 0.6395161290322581,
+            "right": 0.7161290322580646
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.9290322580645162,
+            "right": 0.9709677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.302713987473904,
+            "row_type": "header",
+            "top": 0.2807933194154488
+          },
+          {
+            "bottom": 0.33402922755741127,
+            "row_type": "data",
+            "top": 0.302713987473904
+          },
+          {
+            "bottom": 0.3663883089770355,
+            "row_type": "up-merge",
+            "top": 0.33402922755741127
+          },
+          {
+            "bottom": 0.6764091858037579,
+            "row_type": "gap",
+            "top": 0.3663883089770355
+          },
+          {
+            "bottom": 0.7818371607515657,
+            "row_type": "footer",
+            "top": 0.6764091858037579
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

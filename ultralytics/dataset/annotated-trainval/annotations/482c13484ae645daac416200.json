@@ -1,0 +1,317 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2,
+        0.23419114392720772,
+        0.2735175634022034,
+        0.24933077343361304
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7007894"
+    },
+    {
+      "bbox": [
+        0.10279854731894894,
+        0.27251333111529624,
+        0.23741569261757256,
+        0.2892392820957183
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "FTI Consulting"
+    },
+    {
+      "bbox": [
+        0.10341044343394268,
+        0.13814911924594878,
+        0.39650868251594595,
+        0.21384726677797553
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Brown & Williamson Tobacco Corp.\nLorillard Tobacco Company\nPhilip Morris Inc.\nR.J. Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.7263206884975737,
+        0.31367419883583575,
+        0.7385586107974486,
+        0.3292869417643163
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7948530533768731,
+        0.314214463840399,
+        0.8768471327860347,
+        0.33023316860846663
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "69,418.65"
+    },
+    {
+      "bbox": [
+        0.7942411572618793,
+        0.31367419883583575,
+        0.8768471327860347,
+        0.33023316860846663
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "69,418.65"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.41334164588528677,
+        0.31129032258064515,
+        0.4295511221945137
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AG Fee Arbitration Issues"
+    },
+    {
+      "bbox": [
+        0.792741935483871,
+        0.41334164588528677,
+        0.8766129032258064,
+        0.4295511221945137
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "35,590.94"
+    },
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.5130922693266833,
+        0.31129032258064515,
+        0.5293017456359103
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "AG Fee Arbitration Issues"
+    },
+    {
+      "bbox": [
+        0.792741935483871,
+        0.5130922693266833,
+        0.8766129032258064,
+        0.5293017456359103
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "69,418.65"
+    },
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.6134663341645885,
+        0.31129032258064515,
+        0.6321695760598504
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "AG Fee Arbitration Issues"
+    },
+    {
+      "bbox": [
+        0.792741935483871,
+        0.6134663341645885,
+        0.8766129032258064,
+        0.6321695760598504
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "9,676.96"
+    },
+    {
+      "bbox": [
+        0.10161290322580645,
+        0.71571072319202,
+        0.31129032258064515,
+        0.7325436408977556
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "AG Fee Arbitration Issues"
+    },
+    {
+      "bbox": [
+        0.792741935483871,
+        0.71571072319202,
+        0.8766129032258064,
+        0.7325436408977556
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "7,524.98"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 452,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "msxx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10161290322580645,
+          0.3946384039900249,
+          0.8895161290322581,
+          0.7793017456359103
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.10161290322580645,
+            "right": 0.31129032258064515
+          },
+          {
+            "column_type": "",
+            "left": 0.47580645161290325,
+            "right": 0.5580645161290323
+          },
+          {
+            "column_type": "",
+            "left": 0.625,
+            "right": 0.7096774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.792741935483871,
+            "right": 0.8766129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.41334164588528677,
+            "row_type": "subsection-header",
+            "top": 0.3946384039900249
+          },
+          {
+            "bottom": 0.4295511221945137,
+            "row_type": "data",
+            "top": 0.41334164588528677
+          },
+          {
+            "bottom": 0.4532418952618454,
+            "row_type": "gap",
+            "top": 0.4295511221945137
+          },
+          {
+            "bottom": 0.4713216957605985,
+            "row_type": "gap-with-text",
+            "top": 0.4532418952618454
+          },
+          {
+            "bottom": 0.49438902743142144,
+            "row_type": "gap",
+            "top": 0.4713216957605985
+          },
+          {
+            "bottom": 0.5130922693266833,
+            "row_type": "subsection-header",
+            "top": 0.49438902743142144
+          },
+          {
+            "bottom": 0.5293017456359103,
+            "row_type": "data",
+            "top": 0.5130922693266833
+          },
+          {
+            "bottom": 0.5554862842892768,
+            "row_type": "gap",
+            "top": 0.5293017456359103
+          },
+          {
+            "bottom": 0.5741895261845387,
+            "row_type": "gap-with-text",
+            "top": 0.5554862842892768
+          },
+          {
+            "bottom": 0.5947630922693267,
+            "row_type": "gap",
+            "top": 0.5741895261845387
+          },
+          {
+            "bottom": 0.6134663341645885,
+            "row_type": "subsection-header",
+            "top": 0.5947630922693267
+          },
+          {
+            "bottom": 0.6321695760598504,
+            "row_type": "data",
+            "top": 0.6134663341645885
+          },
+          {
+            "bottom": 0.6552369077306733,
+            "row_type": "gap",
+            "top": 0.6321695760598504
+          },
+          {
+            "bottom": 0.6714463840399002,
+            "row_type": "gap-with-text",
+            "top": 0.6552369077306733
+          },
+          {
+            "bottom": 0.6951371571072319,
+            "row_type": "gap",
+            "top": 0.6714463840399002
+          },
+          {
+            "bottom": 0.71571072319202,
+            "row_type": "subsection-header",
+            "top": 0.6951371571072319
+          },
+          {
+            "bottom": 0.7325436408977556,
+            "row_type": "data",
+            "top": 0.71571072319202
+          },
+          {
+            "bottom": 0.7543640897755611,
+            "row_type": "gap",
+            "top": 0.7325436408977556
+          },
+          {
+            "bottom": 0.7793017456359103,
+            "row_type": "gap-with-text",
+            "top": 0.7543640897755611
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

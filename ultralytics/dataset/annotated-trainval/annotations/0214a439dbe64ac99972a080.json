@@ -1,0 +1,176 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.11374912083943202,
+        0.3430445632798574,
+        0.17373400878210124,
+        0.35778015448603684
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/27/2000"
+    },
+    {
+      "bbox": [
+        0.12130277339517555,
+        0.45518241235888296,
+        0.1403225806451613,
+        0.46844919786096256
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "164"
+    },
+    {
+      "bbox": [
+        0.12485743342140782,
+        0.385630421865716,
+        0.16262569620012549,
+        0.3991871657754011
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "175288"
+    },
+    {
+      "bbox": [
+        0.09597582070827076,
+        0.22014973262032086,
+        0.1946176364362157,
+        0.24608437314319664
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "LYNN LARSON\nPHILIP MORRIS IISA"
+    },
+    {
+      "bbox": [
+        0.09775315072138689,
+        0.24667379679144383,
+        0.23460756173132857,
+        0.30207961972667857
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RESEARCH CENTER\n4201 COMMERCE ROAD\nDOOR 17 GATE C\nRICHMOND, VA 23234 USA"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06290322580645161,
+        0.5657754010695187,
+        0.12983870967741937,
+        0.5850267379679145
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INT J CANCER"
+    },
+    {
+      "bbox": [
+        0.49516129032258066,
+        0.5657754010695187,
+        0.5032258064516129,
+        0.5850267379679145
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.6790322580645162,
+        0.5657754010695187,
+        0.7048387096774194,
+        0.5850267379679145
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "9.50"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 83,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "ygxj0008",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2337,
+        1762
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06290322580645161,
+          0.5657754010695187,
+          0.832258064516129,
+          0.5850267379679145
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06290322580645161,
+            "right": 0.12983870967741937
+          },
+          {
+            "column_type": "",
+            "left": 0.22258064516129034,
+            "right": 0.24596774193548387
+          },
+          {
+            "column_type": "",
+            "left": 0.25483870967741934,
+            "right": 0.267741935483871
+          },
+          {
+            "column_type": "",
+            "left": 0.29838709677419356,
+            "right": 0.3088709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.3387096774193548,
+            "right": 0.357258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.3725806451612903,
+            "right": 0.3911290322580645
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.49516129032258066,
+            "right": 0.5032258064516129
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.6790322580645162,
+            "right": 0.7048387096774194
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5850267379679145,
+            "row_type": "data",
+            "top": 0.5657754010695187
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

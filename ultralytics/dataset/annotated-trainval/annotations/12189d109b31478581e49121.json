@@ -1,0 +1,199 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.742741935483871,
+        0.20594168779232053,
+        0.864268577557002,
+        0.21980314771705128
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2232-002068-2"
+    },
+    {
+      "bbox": [
+        0.15586604375523475,
+        0.30693232438678764,
+        0.26794951016639196,
+        0.3214538538317437
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 16, 1999"
+    },
+    {
+      "bbox": [
+        0.3502608058120856,
+        0.6809717351282244,
+        0.6558633821987564,
+        0.6960527902402921
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PRICEWATERHOUSECOOPERS LLP"
+    },
+    {
+      "bbox": [
+        0.351484037246425,
+        0.6821317344354862,
+        0.6564682407715331,
+        0.7646268799454468
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PRICEWATERHOUSECOOPERS LLP\nAttention: Ted Martens\n1177 Avenue of the Americas\nSuite 448\nNew York, New York 10036"
+    },
+    {
+      "bbox": [
+        0.6085781698065496,
+        0.8011043878092247,
+        0.7005216383469519,
+        0.8149658477339553
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-4008324"
+    },
+    {
+      "bbox": [
+        0.15499039167389755,
+        0.39142122549358827,
+        0.37040080368284034,
+        0.42376463198462677
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Ronald Milstein\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.15591120718323911,
+        0.3918519411723126,
+        0.37063102760226135,
+        0.45630127360196926
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Ronald Milstein\nLorillard Tobacco Company\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.6672468592561396,
+        0.5930358023462743,
+        0.6751277279881741,
+        0.608877470831681
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6672468592561396,
+        0.5930358023462743,
+        0.743428590332473,
+        0.606897262271005
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$8,974.50"
+    },
+    {
+      "bbox": [
+        0.6663712071748025,
+        0.5936958718664996,
+        0.743428590332473,
+        0.606897262271005
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$8,974.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15403225806451612,
+        0.5592705167173252,
+        0.42983870967741933,
+        0.5738601823708207
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For Professional Services Rendered:"
+    },
+    {
+      "bbox": [
+        0.6637096774193548,
+        0.5592705167173252,
+        0.7451612903225806,
+        0.5738601823708207
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$8,974.50"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 882,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yxwv0061",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15403225806451612,
+          0.5592705167173252,
+          0.7451612903225806,
+          0.6139817629179332
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15403225806451612,
+            "right": 0.42983870967741933
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6637096774193548,
+            "right": 0.7451612903225806
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5738601823708207,
+            "row_type": "data",
+            "top": 0.5592705167173252
+          },
+          {
+            "bottom": 0.5933130699088146,
+            "row_type": "gap",
+            "top": 0.5738601823708207
+          },
+          {
+            "bottom": 0.6139817629179332,
+            "row_type": "footer",
+            "top": 0.5933130699088146
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

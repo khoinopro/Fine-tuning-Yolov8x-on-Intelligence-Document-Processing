@@ -1,0 +1,271 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.06422034168081493,
+        0.15121982708689072,
+        0.1737310766836446,
+        0.1666700564262325
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 20, 2003"
+    },
+    {
+      "bbox": [
+        0.8194264643463496,
+        0.8421223903641222,
+        0.9069582979626485,
+        0.8547322959490015
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "bozell newyork"
+    },
+    {
+      "bbox": [
+        0.7920495543293719,
+        0.8429695354938778,
+        0.9063083616298816,
+        0.8969480668201196
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "bozell newyork\n40 west 23rd street\nnew york ny 10010"
+    },
+    {
+      "bbox": [
+        0.06478185130164117,
+        0.18409577868819843,
+        0.24896894453876628,
+        0.2176579355303102
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Jordan Bressler\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.06292621675155631,
+        0.1847625296567117,
+        0.29821554895302776,
+        0.25329462522670865
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Jordan Bressler\nLorillard Tobacco Company\n714 Green Valley Road, Box 10529\nGreensboro, NC 27404"
+    },
+    {
+      "bbox": [
+        0.6764568300792304,
+        0.48082118251909833,
+        0.6915044036502547,
+        0.4989136557495776
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6766129032258065,
+        0.48093083387201035,
+        0.7605864459535936,
+        0.4983653989850175
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$50,290.00"
+    },
+    {
+      "bbox": [
+        0.6775210455574417,
+        0.47979364322810053,
+        0.7605864459535936,
+        0.4978171422204576
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$50,290.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1435483870967742,
+        0.3891402714932127,
+        0.2685483870967742,
+        0.40982546864899805
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "LRL-YSPP-P7514"
+    },
+    {
+      "bbox": [
+        0.3435483870967742,
+        0.3891402714932127,
+        0.5298387096774193,
+        0.40982546864899805
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "2003 Premiurms"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.3891402714932127,
+        0.7653225806451613,
+        0.40982546864899805
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$11,450.00"
+    },
+    {
+      "bbox": [
+        0.1435483870967742,
+        0.40982546864899805,
+        0.2685483870967742,
+        0.42727860374919197
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "LRL-YSPP-P7228"
+    },
+    {
+      "bbox": [
+        0.3435483870967742,
+        0.40982546864899805,
+        0.5298387096774193,
+        0.42727860374919197
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Miscellaneous Travel 2002"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.40982546864899805,
+        0.7653225806451613,
+        0.42727860374919197
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$2,150.00"
+    },
+    {
+      "bbox": [
+        0.1435483870967742,
+        0.42727860374919197,
+        0.2685483870967742,
+        0.4440853264382676
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "LRL-YSPP-M7327"
+    },
+    {
+      "bbox": [
+        0.3435483870967742,
+        0.42727860374919197,
+        0.5298387096774193,
+        0.4440853264382676
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Painting Parent Ad"
+    },
+    {
+      "bbox": [
+        0.6725806451612903,
+        0.42727860374919197,
+        0.7653225806451613,
+        0.4440853264382676
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$4,150.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 572,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "knhd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1435483870967742,
+          0.3891402714932127,
+          0.7653225806451613,
+          0.5016160310277957
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.1435483870967742,
+            "right": 0.2685483870967742
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3435483870967742,
+            "right": 0.5298387096774193
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6725806451612903,
+            "right": 0.7653225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40982546864899805,
+            "row_type": "data",
+            "top": 0.3891402714932127
+          },
+          {
+            "bottom": 0.42727860374919197,
+            "row_type": "data",
+            "top": 0.40982546864899805
+          },
+          {
+            "bottom": 0.4440853264382676,
+            "row_type": "data",
+            "top": 0.42727860374919197
+          },
+          {
+            "bottom": 0.5016160310277957,
+            "row_type": "footer",
+            "top": 0.4440853264382676
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

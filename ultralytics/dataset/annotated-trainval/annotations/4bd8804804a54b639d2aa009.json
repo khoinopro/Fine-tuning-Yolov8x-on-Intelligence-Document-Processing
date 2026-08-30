@@ -1,0 +1,258 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5030919198246164,
+        0.2058273377351946,
+        0.5526440651424992,
+        0.22233236010075266
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "MAY2500"
+    },
+    {
+      "bbox": [
+        0.5015307968493418,
+        0.23569122027228562,
+        0.572479055915834,
+        0.251231300729799
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "O5-25-2000"
+    },
+    {
+      "bbox": [
+        0.15420500519136446,
+        0.23419073781181496,
+        0.31470409222727436,
+        0.2519492771719526
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MARYLAND ASSOCIATION OF"
+    },
+    {
+      "bbox": [
+        0.15361537901405373,
+        0.23361092150170648,
+        0.3178511331495471,
+        0.3099382713470716
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MARYLAND ASSOCIATION OF\nTOBACCO & CANDY DIST INC\n10 S ROBINSON ST\nBALTIMORE MD 212242255"
+    },
+    {
+      "bbox": [
+        0.5039772885412898,
+        0.1787109252614034,
+        0.55902335161012,
+        0.19252433011252634
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "10029054"
+    },
+    {
+      "bbox": [
+        0.435865167734775,
+        0.43952384916340625,
+        0.4854310622605707,
+        0.4539526623935181
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "3500.0O"
+    },
+    {
+      "bbox": [
+        0.43350488704307044,
+        0.4373040317433891,
+        0.4854310622605707,
+        0.4550625711035267
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "3500.0O"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.055645161290322584,
+        0.4050056882821388,
+        0.25806451612903225,
+        0.42620494464330305
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "MD ASSN OF TOBACCO & CANDY DIS"
+    },
+    {
+      "bbox": [
+        0.43629032258064515,
+        0.4050056882821388,
+        0.4879032258064516,
+        0.4254835039817975
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3500.00"
+    },
+    {
+      "bbox": [
+        0.4879032258064516,
+        0.4050056882821388,
+        0.592741935483871,
+        0.4254835039817975
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "048850099016867"
+    },
+    {
+      "bbox": [
+        0.592741935483871,
+        0.4050056882821388,
+        0.6120967741935484,
+        0.4254835039817975
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NT"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2084914611005693,
+        0.3640500568828214,
+        0.2415353907844331,
+        0.3829185049529676
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM"
+    },
+    {
+      "bbox": [
+        0.414622641509434,
+        0.3651599655928299,
+        0.4578944541906842,
+        0.3806986875329504
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    },
+    {
+      "bbox": [
+        0.5090338691776163,
+        0.3640500568828214,
+        0.5664673660090939,
+        0.3829185049529676
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "G L CODE"
+    },
+    {
+      "bbox": [
+        0.5971510150012531,
+        0.3640500568828214,
+        0.6120967741935484,
+        0.38180859624295904
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "SU"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1147,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tthf0221",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        2347,
+        1664
+      ],
+      [
+        1681,
+        2359
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.055645161290322584,
+          0.3640500568828214,
+          0.6790322580645162,
+          0.46075085324232085
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.055645161290322584,
+            "right": 0.25806451612903225
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.43629032258064515,
+            "right": 0.4879032258064516
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.4879032258064516,
+            "right": 0.592741935483871
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.592741935483871,
+            "right": 0.6120967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3856655290102389,
+            "row_type": "header",
+            "top": 0.3640500568828214
+          },
+          {
+            "bottom": 0.4050056882821388,
+            "row_type": "gap",
+            "top": 0.3856655290102389
+          },
+          {
+            "bottom": 0.4254835039817975,
+            "row_type": "data",
+            "top": 0.4050056882821388
+          },
+          {
+            "bottom": 0.46075085324232085,
+            "row_type": "footer",
+            "top": 0.4254835039817975
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

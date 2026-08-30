@@ -1,0 +1,239 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8649206410454288,
+        0.10287412133178125,
+        0.8865694294386993,
+        0.1172286498897042
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.7257498585172608,
+        0.10287412133178125,
+        0.8102832227195554,
+        0.11563370227215722
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "04/06/2000"
+    },
+    {
+      "bbox": [
+        0.8174994855173123,
+        0.2934703616286473,
+        0.9010019550342131,
+        0.30622994256902325
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "04/0672000"
+    },
+    {
+      "bbox": [
+        0.05979189175284251,
+        0.038278742821127906,
+        0.5236945001800689,
+        0.05582316661414487
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Boulay, Heutmaker, Zibell & Co, P.L.L.P. Agent"
+    },
+    {
+      "bbox": [
+        0.0536065236404795,
+        0.03839877891083922,
+        0.592764444101456,
+        0.14115286415290915
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Boulay, Heutmaker, Zibell & Co. P.L.L.P. Agent\nDepository Escrow Account for Phillip Morris Inc., R.J. Reynolds, Brown &\nWilliamson. and Lorillard Cos.\n515l Edina Industrial Boulevard\n500 Sentinel Building\nMinneapolis, MN 55439"
+    },
+    {
+      "bbox": [
+        0.05051383958429798,
+        0.20096339981092154,
+        0.2154569892473118,
+        0.2173866354468478
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.05051383958429798,
+        0.20128392171004428,
+        0.21958056798888717,
+        0.2655587783215749
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Co.\nJames A. Wilson, Esq.\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.8412100632813705,
+        0.7169289540873748,
+        0.8525499048207027,
+        0.7312834826452977
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.7161314802786013,
+        0.9236816381128774,
+        0.7304860088365243
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$26,968.00"
+    },
+    {
+      "bbox": [
+        0.8419354838709677,
+        0.7145365326610543,
+        0.9236816381128774,
+        0.7304860088365243
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$26,968.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.01935483870967742,
+        0.3587024329382408,
+        0.20483870967741935,
+        0.4104803493449782
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Escrow Account Payment\n-New Market Share is\n10.7873307%"
+    },
+    {
+      "bbox": [
+        0.8491935483870968,
+        0.3587024329382408,
+        0.9314516129032258,
+        0.4104803493449782
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "26,968.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.060822786438236354,
+        0.33135036754538844,
+        0.16700493903380148,
+        0.3465023699120849
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8092523280341616,
+        0.33055289373661495,
+        0.9113109018881514,
+        0.3457048961033114
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT DUE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 802,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rgpx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1703,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.01935483870967742,
+          0.32127261384903305,
+          0.9314516129032258,
+          0.7554585152838428
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.01935483870967742,
+            "right": 0.20483870967741935
+          },
+          {
+            "column_type": "",
+            "left": 0.2991935483870968,
+            "right": 0.36370967741935484
+          },
+          {
+            "column_type": "",
+            "left": 0.5870967741935483,
+            "right": 0.6532258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8491935483870968,
+            "right": 0.9314516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3587024329382408,
+            "row_type": "header",
+            "top": 0.32127261384903305
+          },
+          {
+            "bottom": 0.4104803493449782,
+            "row_type": "data",
+            "top": 0.3587024329382408
+          },
+          {
+            "bottom": 0.6955708047411104,
+            "row_type": "gap-with-text",
+            "top": 0.4104803493449782
+          },
+          {
+            "bottom": 0.7554585152838428,
+            "row_type": "footer",
+            "top": 0.6955708047411104
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

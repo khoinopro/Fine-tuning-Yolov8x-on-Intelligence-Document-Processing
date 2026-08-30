@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.25024602971888754,
+        0.3988583341701252,
+        0.31018149856513966,
+        0.41236895368237525
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "100183"
+    },
+    {
+      "bbox": [
+        0.13531822347762068,
+        0.33270287268561133,
+        0.27125433838664603,
+        0.35133820994388737
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "JaNuary 13, 2000"
+    },
+    {
+      "bbox": [
+        0.24901024685607825,
+        0.4123689394647413,
+        0.29164475562299985,
+        0.4272772092713621
+      ],
+      "fieldtype": "order_id",
+      "page": 1,
+      "text": "TBD"
+    },
+    {
+      "bbox": [
+        0.2467741935483871,
+        0.3829787234042553,
+        0.6704122030740568,
+        0.39932420338394803
+      ],
+      "fieldtype": "order_id",
+      "page": 1,
+      "text": "2000 Marlboro Racing School Participant Guide Book"
+    },
+    {
+      "bbox": [
+        0.12913930916357408,
+        0.637390636858424,
+        0.31370967741935485,
+        0.6555600906852431
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "Tip Nunn's Events, Inc."
+    },
+    {
+      "bbox": [
+        0.1285214177321694,
+        0.6555600906852431,
+        0.3466370930180146,
+        0.6877060474557692
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "2801 Youngfield, Suite 210\nGolden, Colorado 80401"
+    },
+    {
+      "bbox": [
+        0.3793853388824616,
+        0.6387882871527948,
+        0.4726869450245654,
+        0.6560259741167
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 1,
+      "text": "84-1060640"
+    },
+    {
+      "bbox": [
+        0.24839235542467358,
+        0.36671236318196504,
+        0.4010115389816247,
+        0.3829787234042553
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.7019246660756945,
+        0.5763599073375701,
+        0.713664603272383,
+        0.5908022937127341
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7006888832128851,
+        0.5758940239061132,
+        0.7822505521583003,
+        0.5908814589665653
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$3,106.25"
+    },
+    {
+      "bbox": [
+        0.6994531003500758,
+        0.5754281404746563,
+        0.7830645161290323,
+        0.5908814589665653
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$3,106.25"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13306451612903225,
+        0.4790273556231003,
+        0.15,
+        0.4966565349544073
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "I."
+    },
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.4790273556231003,
+        0.42983870967741933,
+        0.4966565349544073
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Prining and General Expenses"
+    },
+    {
+      "bbox": [
+        0.7016129032258065,
+        0.4790273556231003,
+        0.7895161290322581,
+        0.4966565349544073
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "$3,106.25"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 621,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fpkv0076",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        2339,
+        1762
+      ],
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.13306451612903225,
+          0.4790273556231003,
+          0.7895161290322581,
+          0.5957446808510638
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.13306451612903225,
+            "right": 0.15
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.19112903225806452,
+            "right": 0.42983870967741933
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7016129032258065,
+            "right": 0.7895161290322581
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4966565349544073,
+            "row_type": "data",
+            "top": 0.4790273556231003
+          },
+          {
+            "bottom": 0.5106382978723404,
+            "row_type": "gap",
+            "top": 0.4966565349544073
+          },
+          {
+            "bottom": 0.5446808510638298,
+            "row_type": "gap-with-text",
+            "top": 0.5106382978723404
+          },
+          {
+            "bottom": 0.5702127659574469,
+            "row_type": "gap",
+            "top": 0.5446808510638298
+          },
+          {
+            "bottom": 0.5957446808510638,
+            "row_type": "footer",
+            "top": 0.5702127659574469
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8441354721973618,
+        0.22417993920972645,
+        0.8969439472353009,
+        0.24106504559270517
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4759"
+    },
+    {
+      "bbox": [
+        0.796127767617417,
+        0.4892158054711246,
+        0.8617382972100082,
+        0.5030857142857142
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/17/99"
+    },
+    {
+      "bbox": [
+        0.2888463558893342,
+        0.28177021276595743,
+        0.6937113311802016,
+        0.2998613981762918
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1556 Third Avenue, New York NY 10128"
+    },
+    {
+      "bbox": [
+        0.10801733530487567,
+        0.3692109422492401,
+        0.31365033658897234,
+        0.4012158054711246
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.10801733530487567,
+        0.36981398176291796,
+        0.3184511070469668,
+        0.43011793313069907
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company\nPO Box 10529\nGreensboro NC 27404-0529"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.5806451612903226,
+        0.601823708206687,
+        0.692741935483871,
+        0.6188449848024317
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Interim Billing"
+    },
+    {
+      "bbox": [
+        0.7725806451612903,
+        0.601823708206687,
+        0.8379032258064516,
+        0.6188449848024317
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$17,100."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.4480719094128176,
+        0.4895173252279635,
+        0.560089886766022,
+        0.5018796352583587
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 489,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kxkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.056451612903225805,
+          0.46200607902735563,
+          0.8983870967741936,
+          0.6917933130699088
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.5806451612903226,
+            "right": 0.692741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7725806451612903,
+            "right": 0.8379032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5082066869300912,
+            "row_type": "header",
+            "top": 0.46200607902735563
+          },
+          {
+            "bottom": 0.5556231003039513,
+            "row_type": "gap",
+            "top": 0.5082066869300912
+          },
+          {
+            "bottom": 0.5720364741641337,
+            "row_type": "gap-with-text",
+            "top": 0.5556231003039513
+          },
+          {
+            "bottom": 0.601823708206687,
+            "row_type": "gap",
+            "top": 0.5720364741641337
+          },
+          {
+            "bottom": 0.6188449848024317,
+            "row_type": "data",
+            "top": 0.601823708206687
+          },
+          {
+            "bottom": 0.6917933130699088,
+            "row_type": "gap",
+            "top": 0.6188449848024317
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

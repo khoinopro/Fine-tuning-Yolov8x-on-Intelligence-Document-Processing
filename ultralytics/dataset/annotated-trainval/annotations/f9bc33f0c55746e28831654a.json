@@ -1,0 +1,265 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8416949522503816,
+        0.2075615071399897,
+        0.8935802569098799,
+        0.21822847966966796
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "201930"
+    },
+    {
+      "bbox": [
+        0.16751352442806342,
+        0.41433287118083806,
+        0.2076067143922211,
+        0.42588875808798954
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "6/1/00"
+    },
+    {
+      "bbox": [
+        0.3060708720983143,
+        0.41388841399210147,
+        0.40099739539580537,
+        0.42588875808798954
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "143-0-1211-001"
+    },
+    {
+      "bbox": [
+        0.7121732312607136,
+        0.41522336410161564,
+        0.7490235896836528,
+        0.42487972140630437
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "23189"
+    },
+    {
+      "bbox": [
+        0.3323346719337911,
+        0.8524886802309742,
+        0.5219855919539811,
+        0.8656446130175774
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "IIT Research Institute"
+    },
+    {
+      "bbox": [
+        0.3195969235742261,
+        0.8527935667092171,
+        0.5328362664824994,
+        0.8965788333536446
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "IIT Research Institute\nP.O. Box 930826\nAtlanta, GA 31193-0826"
+    },
+    {
+      "bbox": [
+        0.35262071561754277,
+        0.17055304036635682,
+        0.673423266895476,
+        0.18904245941779915
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "IIT RESEARCH INSTITUTE"
+    },
+    {
+      "bbox": [
+        0.6762014609241324,
+        0.3151892894218293,
+        0.8413204211407157,
+        0.3411455892440464
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 930826\nATLANTA, GA 31193-0826"
+    },
+    {
+      "bbox": [
+        0.49284078460789277,
+        0.4150242701291614,
+        0.5678519693919978,
+        0.42604680840982895
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "1120-02-000"
+    },
+    {
+      "bbox": [
+        0.22592467095061688,
+        0.23431784075293824,
+        0.25942023145169524,
+        0.2449848132826165
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "7622"
+    },
+    {
+      "bbox": [
+        0.18629612049863692,
+        0.26134083782812323,
+        0.32499604708056684,
+        0.2735562310030395
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.1867678889563986,
+        0.2598597083563757,
+        0.3562707848353841,
+        0.31325343747255746
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Co.\nVendor Code: IITL574660\nP.O. Box 21688\nGreensboro, NC 27420"
+    },
+    {
+      "bbox": [
+        0.8312560225760565,
+        0.6902321613948607,
+        0.8421066971045748,
+        0.7019658311775069
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8317277910338182,
+        0.6902321613948607,
+        0.8987189120359748,
+        0.7023213969284962
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,500.00"
+    },
+    {
+      "bbox": [
+        0.8312560225760565,
+        0.6895210298928822,
+        0.8977753751204515,
+        0.7023213969284962
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,500.00"
+    },
+    {
+      "bbox": [
+        0.8010121565514569,
+        0.4147279562941657,
+        0.8705856332539659,
+        0.4262838432013171
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET CASH"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.26129032258064516,
+        0.5003039513677812,
+        0.45483870967741935,
+        0.5130699088145897
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Scheduled Billing 06/01/2000"
+    },
+    {
+      "bbox": [
+        0.832258064516129,
+        0.5003039513677812,
+        0.8903225806451613,
+        0.5130699088145897
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "5,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1051,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lsxx0095",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.26129032258064516,
+          0.5003039513677812,
+          0.9016129032258065,
+          0.7063829787234043
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.26129032258064516,
+            "right": 0.45483870967741935
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.832258064516129,
+            "right": 0.8903225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5130699088145897,
+            "row_type": "data",
+            "top": 0.5003039513677812
+          },
+          {
+            "bottom": 0.686322188449848,
+            "row_type": "gap-with-text",
+            "top": 0.5130699088145897
+          },
+          {
+            "bottom": 0.7063829787234043,
+            "row_type": "footer",
+            "top": 0.686322188449848
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

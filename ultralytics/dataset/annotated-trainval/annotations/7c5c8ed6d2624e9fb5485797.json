@@ -1,0 +1,524 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.03337566675133351,
+        0.27295663511522766,
+        0.089001778003556,
+        0.2838923977400365
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "9908203"
+    },
+    {
+      "bbox": [
+        0.24475488950977903,
+        0.27120691309525824,
+        0.29605452544238425,
+        0.28301753673005176
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/30/99"
+    },
+    {
+      "bbox": [
+        0.4524257048514097,
+        0.2698946215802812,
+        0.5222673778680892,
+        0.28214267572006707
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "5673-1599"
+    },
+    {
+      "bbox": [
+        0.11125222250444501,
+        0.06911401978879163,
+        0.44377275421217516,
+        0.08092464342358512
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC."
+    },
+    {
+      "bbox": [
+        0.11310642621285243,
+        0.06743294178721973,
+        0.4421329822251481,
+        0.09448498907834804
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC.\n6565 Penn Avenue\u25c6Pittsburgh, PA 15206-4490"
+    },
+    {
+      "bbox": [
+        0.6842011684023368,
+        0.1504760937173691,
+        0.9493522987045976,
+        0.1614118563421779
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC."
+    },
+    {
+      "bbox": [
+        0.6832236120254553,
+        0.14959913135988245,
+        0.9468800270933875,
+        0.17365991048196375
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MANAGEMENT SCIENCE ASSOCIATES, INC.\nP.O. Box 400155-W\u25c6Pittsburgh, PA 15268-0155"
+    },
+    {
+      "bbox": [
+        0.8193877551020408,
+        0.2362124726958701,
+        0.8788925577851155,
+        0.2453652419652617
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "25-1128415"
+    },
+    {
+      "bbox": [
+        0.09209211751756838,
+        0.1605369953321932,
+        0.3152146304292609,
+        0.18896997815669608
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "MR. ANDREW PASHELUK\nLORILLARD TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.09271018542037085,
+        0.15866574538169348,
+        0.31558042571867456,
+        0.21959011350616073
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "MR. ANDREW PASHELUK\nLORILLARD TOBACCO COMPANY\n714 GREEN VALLEY ROAD\nGREENSBORO, NC 27408"
+    },
+    {
+      "bbox": [
+        0.8517748285496571,
+        0.5537085373521062,
+        0.8629000508001017,
+        0.5679819129816271
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8508064516129032,
+        0.5527241666190359,
+        0.9463392176784353,
+        0.5669975422485568
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$299,145.00"
+    },
+    {
+      "bbox": [
+        0.8503841757683516,
+        0.5542007227186414,
+        0.9463392176784353,
+        0.5669975422485568
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$299,145.00"
+    },
+    {
+      "bbox": [
+        0.8698533147066294,
+        0.26922539549475744,
+        0.9532924815849633,
+        0.2830065857577432
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 10 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04435483870967742,
+        0.3767123287671233,
+        0.5161290322580645,
+        0.3909817351598174
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Additional AWS Geos 1000-5000"
+    },
+    {
+      "bbox": [
+        0.5935483870967742,
+        0.3767123287671233,
+        0.6806451612903226,
+        0.3909817351598174
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$10,833.00"
+    },
+    {
+      "bbox": [
+        0.04435483870967742,
+        0.3972602739726027,
+        0.5161290322580645,
+        0.4098173515981735
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Database Expansion to 120 Weeks"
+    },
+    {
+      "bbox": [
+        0.5935483870967742,
+        0.3972602739726027,
+        0.6806451612903226,
+        0.4098173515981735
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$11,000.00"
+    },
+    {
+      "bbox": [
+        0.04435483870967742,
+        0.4160958904109589,
+        0.5161290322580645,
+        0.4297945205479452
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Ongoing Fixed Expenses"
+    },
+    {
+      "bbox": [
+        0.5935483870967742,
+        0.4160958904109589,
+        0.6806451612903226,
+        0.4297945205479452
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$44,167.00"
+    },
+    {
+      "bbox": [
+        0.5935483870967742,
+        0.4349315068493151,
+        0.6806451612903226,
+        0.4486301369863014
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$68,850.00"
+    },
+    {
+      "bbox": [
+        0.04435483870967742,
+        0.4537671232876712,
+        0.5161290322580645,
+        0.4680365296803653
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Ongoing Variable Store Expenses 200,000 Stores"
+    },
+    {
+      "bbox": [
+        0.5935483870967742,
+        0.4537671232876712,
+        0.6806451612903226,
+        0.4680365296803653
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$169,231 00"
+    },
+    {
+      "bbox": [
+        0.04435483870967742,
+        0.4920091324200913,
+        0.5161290322580645,
+        0.5045662100456622
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Adiustment to Variable Distributor Expenses (Quarteriy) 1,107 Distributors"
+    },
+    {
+      "bbox": [
+        0.5935483870967742,
+        0.4920091324200913,
+        0.6806451612903226,
+        0.5045662100456622
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$125.00"
+    },
+    {
+      "bbox": [
+        0.04435483870967742,
+        0.509703196347032,
+        0.5161290322580645,
+        0.523972602739726
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Adjustment to Variable Store Expenses (Quarterly) 205,797 Stores"
+    },
+    {
+      "bbox": [
+        0.5935483870967742,
+        0.509703196347032,
+        0.6806451612903226,
+        0.523972602739726
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$13,331.00"
+    },
+    {
+      "bbox": [
+        0.04435483870967742,
+        0.5296803652968036,
+        0.5161290322580645,
+        0.5439497716894978
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "Less 6% Discount"
+    },
+    {
+      "bbox": [
+        0.5935483870967742,
+        0.5296803652968036,
+        0.6806451612903226,
+        0.5439497716894978
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "($18.392.00)"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3684441518542901,
+        0.2950913242009132,
+        0.4629580864603906,
+        0.3095870970508213
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8594360324775072,
+        0.2943501504078548,
+        0.9251152073732719,
+        0.3102167249460242
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1167,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xjmf0152",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1656,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.004838709677419355,
+          0.2950913242009132,
+          0.9709677419354839,
+          0.5713470319634704
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04435483870967742,
+            "right": 0.5161290322580645
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5935483870967742,
+            "right": 0.6806451612903226
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3139269406392694,
+            "row_type": "header",
+            "top": 0.2950913242009132
+          },
+          {
+            "bottom": 0.3270547945205479,
+            "row_type": "gap",
+            "top": 0.3139269406392694
+          },
+          {
+            "bottom": 0.3447488584474886,
+            "row_type": "gap-with-text",
+            "top": 0.3270547945205479
+          },
+          {
+            "bottom": 0.3767123287671233,
+            "row_type": "gap",
+            "top": 0.3447488584474886
+          },
+          {
+            "bottom": 0.3909817351598174,
+            "row_type": "data",
+            "top": 0.3767123287671233
+          },
+          {
+            "bottom": 0.3972602739726027,
+            "row_type": "gap",
+            "top": 0.3909817351598174
+          },
+          {
+            "bottom": 0.4098173515981735,
+            "row_type": "data",
+            "top": 0.3972602739726027
+          },
+          {
+            "bottom": 0.4160958904109589,
+            "row_type": "gap",
+            "top": 0.4098173515981735
+          },
+          {
+            "bottom": 0.4297945205479452,
+            "row_type": "data",
+            "top": 0.4160958904109589
+          },
+          {
+            "bottom": 0.4349315068493151,
+            "row_type": "gap",
+            "top": 0.4297945205479452
+          },
+          {
+            "bottom": 0.4486301369863014,
+            "row_type": "data",
+            "top": 0.4349315068493151
+          },
+          {
+            "bottom": 0.4537671232876712,
+            "row_type": "gap",
+            "top": 0.4486301369863014
+          },
+          {
+            "bottom": 0.4680365296803653,
+            "row_type": "data",
+            "top": 0.4537671232876712
+          },
+          {
+            "bottom": 0.4777397260273973,
+            "row_type": "gap",
+            "top": 0.4680365296803653
+          },
+          {
+            "bottom": 0.4920091324200913,
+            "row_type": "subsection-header",
+            "top": 0.4777397260273973
+          },
+          {
+            "bottom": 0.5045662100456622,
+            "row_type": "data",
+            "top": 0.4920091324200913
+          },
+          {
+            "bottom": 0.509703196347032,
+            "row_type": "gap",
+            "top": 0.5045662100456622
+          },
+          {
+            "bottom": 0.523972602739726,
+            "row_type": "data",
+            "top": 0.509703196347032
+          },
+          {
+            "bottom": 0.5296803652968036,
+            "row_type": "gap",
+            "top": 0.523972602739726
+          },
+          {
+            "bottom": 0.5439497716894978,
+            "row_type": "data",
+            "top": 0.5296803652968036
+          },
+          {
+            "bottom": 0.553082191780822,
+            "row_type": "gap",
+            "top": 0.5439497716894978
+          },
+          {
+            "bottom": 0.5689687975646881,
+            "row_type": "footer",
+            "top": 0.553082191780822
+          },
+          {
+            "bottom": 0.5713470319634704,
+            "row_type": "data",
+            "top": 0.5689687975646881
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

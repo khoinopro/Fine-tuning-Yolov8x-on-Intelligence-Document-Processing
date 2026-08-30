@@ -1,0 +1,297 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6327747521295908,
+        0.16883790523690773,
+        0.701572007101961,
+        0.1812069825436409
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "20220509"
+    },
+    {
+      "bbox": [
+        0.6335747202106649,
+        0.18924688279301746,
+        0.7095716879127018,
+        0.20099750623441395
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05/09/2022"
+    },
+    {
+      "bbox": [
+        0.06879725497237017,
+        0.05071321695760598,
+        0.2543898497815548,
+        0.07297755610972569
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Flexpoint Media"
+    },
+    {
+      "bbox": [
+        0.06959722305344425,
+        0.05133167082294264,
+        0.255989785943703,
+        0.10884788029925187
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Flexpoint Media\nPO Box 1054\nAlexandria, VA 22314"
+    },
+    {
+      "bbox": [
+        0.07599696770203682,
+        0.1589426433915212,
+        0.36558541305085085,
+        0.20903740648379052
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Sinclair Broadcast Group\nWEAR"
+    },
+    {
+      "bbox": [
+        0.6335747202106649,
+        0.20903740648379052,
+        0.6423743691024797,
+        0.22078802992518703
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6330645161290323,
+        0.20947630922693267,
+        0.7039719113451832,
+        0.22078802992518703
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,246.25"
+    },
+    {
+      "bbox": [
+        0.6327747521295908,
+        0.20841895261845386,
+        0.7023719751830351,
+        0.22078802992518703
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,246.25"
+    },
+    {
+      "bbox": [
+        0.1503939992419255,
+        0.27134663341645887,
+        0.2695892433219622,
+        0.2849526184538653
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "XXXXXX1456"
+    },
+    {
+      "bbox": [
+        0.15053469763510227,
+        0.2546804857191761,
+        0.25993493335032336,
+        0.269573201390593
+      ],
+      "fieldtype": "bank_num",
+      "page": 0,
+      "text": "XXXXXX025"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07741935483870968,
+        0.3179551122194514,
+        0.11129032258064517,
+        0.3360349127182045
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1944"
+    },
+    {
+      "bbox": [
+        0.1774193548387097,
+        0.3179551122194514,
+        0.24838709677419354,
+        0.3360349127182045
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "05/09/2022"
+    },
+    {
+      "bbox": [
+        0.27741935483870966,
+        0.3179551122194514,
+        0.4120967741935484,
+        0.3360349127182045
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Kay Ivey for Governor"
+    },
+    {
+      "bbox": [
+        0.8604838709677419,
+        0.3179551122194514,
+        0.9282258064516129,
+        0.3360349127182045
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$7,246.25"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07999680810740718,
+        0.3013416458852868,
+        0.14959403116085143,
+        0.31185536159600996
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Estimate #"
+    },
+    {
+      "bbox": [
+        0.178392882079518,
+        0.3013416458852868,
+        0.21279150956570309,
+        0.3117206982543641
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.27741935483870966,
+        0.3007231920199501,
+        0.31998723242962873,
+        0.3117206982543641
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Client"
+    },
+    {
+      "bbox": [
+        0.845566261695294,
+        0.3007231920199501,
+        0.924763101721627,
+        0.3117206982543641
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Net Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 498,
+    "currency": "usd",
+    "document_type": "receipt",
+    "language": "eng",
+    "original_filename": "041ed808-6533-4d52-ab58-3308545fadad",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07741935483870968,
+          0.2986284289276808,
+          0.9282258064516129,
+          0.3360349127182045
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.07741935483870968,
+            "right": 0.11129032258064517
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.1774193548387097,
+            "right": 0.24838709677419354
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.27741935483870966,
+            "right": 0.4120967741935484
+          },
+          {
+            "column_type": "",
+            "left": 0.4435483870967742,
+            "right": 0.5048387096774194
+          },
+          {
+            "column_type": "",
+            "left": 0.6491935483870968,
+            "right": 0.7088709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.7959677419354839,
+            "right": 0.8314516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8604838709677419,
+            "right": 0.9282258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3117206982543641,
+            "row_type": "header",
+            "top": 0.2986284289276808
+          },
+          {
+            "bottom": 0.3179551122194514,
+            "row_type": "gap",
+            "top": 0.3117206982543641
+          },
+          {
+            "bottom": 0.3360349127182045,
+            "row_type": "data",
+            "top": 0.3179551122194514
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

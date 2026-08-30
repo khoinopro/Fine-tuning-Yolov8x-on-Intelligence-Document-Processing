@@ -1,0 +1,245 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8785657480274034,
+        0.2039995789643302,
+        0.9016521472456416,
+        0.2143123538882774
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "145"
+    },
+    {
+      "bbox": [
+        0.795198195294876,
+        0.2175350960520109,
+        0.9020796731570906,
+        0.2288146936250781
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 6, 1999"
+    },
+    {
+      "bbox": [
+        0.28652103425340875,
+        0.7352379843575233,
+        0.452005736614566,
+        0.7496746348217664
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Annapolis Center"
+    },
+    {
+      "bbox": [
+        0.07248503491852344,
+        0.8821824622971406,
+        0.2379697372796807,
+        0.907446600609566
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "111 Forbes Street. Suite 200\nAnnapolis, MD 21401"
+    },
+    {
+      "bbox": [
+        0.5880861323578317,
+        0.7501902294812037,
+        0.6797181576321916,
+        0.763080095967135
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "52-1759134"
+    },
+    {
+      "bbox": [
+        0.13813185899567673,
+        0.2634688709724365,
+        0.40550590289324906,
+        0.30729441702460303
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Thomas J. Borelli. Ph.D.\nDirector, Science and Policy Issues\nPhilip Morris Companies Inc."
+    },
+    {
+      "bbox": [
+        0.13813185899567673,
+        0.2634688709724365,
+        0.40482208180911206,
+        0.33771450193140096
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Thomas J. Borelli, Ph.D.\nDirector, Science and Policy Issues\nPhilip Morris Companies Inc.\n120 Park Avenue\nNew York. NY. 10017-5592"
+    },
+    {
+      "bbox": [
+        0.8164899304936731,
+        0.7000354882153882,
+        0.8262624012356681,
+        0.7132923412273576
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8169785540307729,
+        0.7000354882153882,
+        0.9015104259490286,
+        0.7132923412273576
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$25,000.00"
+    },
+    {
+      "bbox": [
+        0.8174671775678726,
+        0.7000354882153882,
+        0.901021802411929,
+        0.7136605871443568
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$25,000.00"
+    },
+    {
+      "bbox": [
+        0.5682553209178584,
+        0.3908207518534381,
+        0.6304830395743266,
+        0.40525740231768115
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.19112903225806452,
+        0.4486322188449848,
+        0.40483870967741936,
+        0.46382978723404256
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Corporate Strategic Sponsor"
+    },
+    {
+      "bbox": [
+        0.8137096774193548,
+        0.4486322188449848,
+        0.9008064516129032,
+        0.46382978723404256
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$25,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3826599328215607,
+        0.42596487043328535,
+        0.4929920950700436,
+        0.44114646939846675
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8137096774193548,
+        0.4266249399535107,
+        0.8940407483224656,
+        0.4401215805471125
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 90,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zncn0073",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07419354838709677,
+          0.4249240121580547,
+          0.9120967741935484,
+          0.721580547112462
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.19112903225806452,
+            "right": 0.40483870967741936
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8137096774193548,
+            "right": 0.9008064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4401215805471125,
+            "row_type": "header",
+            "top": 0.4249240121580547
+          },
+          {
+            "bottom": 0.4486322188449848,
+            "row_type": "gap",
+            "top": 0.4401215805471125
+          },
+          {
+            "bottom": 0.46382978723404256,
+            "row_type": "data",
+            "top": 0.4486322188449848
+          },
+          {
+            "bottom": 0.6370820668693009,
+            "row_type": "gap",
+            "top": 0.46382978723404256
+          },
+          {
+            "bottom": 0.721580547112462,
+            "row_type": "footer",
+            "top": 0.6370820668693009
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

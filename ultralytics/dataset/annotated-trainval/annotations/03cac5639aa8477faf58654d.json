@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8426050285805652,
+        0.10714497986411588,
+        0.9130890994123996,
+        0.12386702874464263
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "12763"
+    },
+    {
+      "bbox": [
+        0.7096464404205141,
+        0.15346225826575172,
+        0.764912359595475,
+        0.16845915909271397
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1/21/99"
+    },
+    {
+      "bbox": [
+        0.797751528960307,
+        0.1548337859308033,
+        0.8562212695367151,
+        0.16783982394899077
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "3/11/99"
+    },
+    {
+      "bbox": [
+        0.09838709677419355,
+        0.7599242213483824,
+        0.40768627333413276,
+        0.7778849405163557
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Virginia Commonwealth University"
+    },
+    {
+      "bbox": [
+        0.10011941879521924,
+        0.7595113186521614,
+        0.4092881840348563,
+        0.8202061627370363
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Virginia Commonwealth University\nDepartment of Pharmaceutics\nBox 980533\nRichmond, Virginia 23289-0533"
+    },
+    {
+      "bbox": [
+        0.3139744973418076,
+        0.6505083333568757,
+        0.3708423272174921,
+        0.6641337065187864
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "539809"
+    },
+    {
+      "bbox": [
+        0.758504716792581,
+        0.2163544094197838,
+        0.8137706359675421,
+        0.22936044743797124
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "539809"
+    },
+    {
+      "bbox": [
+        0.10492515089738977,
+        0.6503019009093738,
+        0.2907467921813167,
+        0.6639272740712845
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "H. Thomas Karnes, Ph.D."
+    },
+    {
+      "bbox": [
+        0.79454770755886,
+        0.5767386530383852,
+        0.8057610824639245,
+        0.587886685625403
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7951612903225806,
+        0.5746053791430681,
+        0.8762451532957588,
+        0.5913911416094823
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$66,376.00"
+    },
+    {
+      "bbox": [
+        0.7951612903225806,
+        0.5748806476072156,
+        0.8754441979453972,
+        0.5913911416094823
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$66,376.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.32127261384903305,
+        0.6701612903225806,
+        0.3568309419837804
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Evaluation of a colorimetric strip test, radioimmunoassay and enzyme immunoassay\nfor selectivity in the determination of nicotine consumption from cigarette smoke."
+    },
+    {
+      "bbox": [
+        0.7967741935483871,
+        0.32127261384903305,
+        0.8766129032258064,
+        0.3568309419837804
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$66,376.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.34921653275772474,
+        0.2947347112962126,
+        0.44292830875004996,
+        0.3095987547455697
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8081639485150097,
+        0.2919525888958203,
+        0.8766129032258064,
+        0.30774074931440004
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CHARGES"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 847,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qrdh0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1704,
+        2203
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.2919525888958203,
+          0.9145161290322581,
+          0.5920149719276356
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08225806451612903,
+            "right": 0.6701612903225806
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7967741935483871,
+            "right": 0.8766129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3087960074859638,
+            "row_type": "header",
+            "top": 0.2919525888958203
+          },
+          {
+            "bottom": 0.32127261384903305,
+            "row_type": "gap",
+            "top": 0.3087960074859638
+          },
+          {
+            "bottom": 0.3568309419837804,
+            "row_type": "data",
+            "top": 0.32127261384903305
+          },
+          {
+            "bottom": 0.47161572052401746,
+            "row_type": "gap",
+            "top": 0.3568309419837804
+          },
+          {
+            "bottom": 0.5146600124766063,
+            "row_type": "gap-with-text",
+            "top": 0.47161572052401746
+          },
+          {
+            "bottom": 0.5539613225202745,
+            "row_type": "gap",
+            "top": 0.5146600124766063
+          },
+          {
+            "bottom": 0.5920149719276356,
+            "row_type": "footer",
+            "top": 0.5539613225202745
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

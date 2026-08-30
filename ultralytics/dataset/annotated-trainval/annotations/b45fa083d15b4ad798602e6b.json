@@ -1,0 +1,221 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6471068613853848,
+        0.2864773577421967,
+        0.6878733557287511,
+        0.3016517682249854
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3088"
+    },
+    {
+      "bbox": [
+        0.3651468911948174,
+        0.6285328698464506,
+        0.4010486265296412,
+        0.6417342602509563
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3088"
+    },
+    {
+      "bbox": [
+        0.6324504166606507,
+        0.2526986113982155,
+        0.7910543593129804,
+        0.26899537046397165
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 20, 1999"
+    },
+    {
+      "bbox": [
+        0.6050755614812008,
+        0.3049521158261118,
+        0.6783086499723483,
+        0.32010794716868
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "117-2-99"
+    },
+    {
+      "bbox": [
+        0.2247708034447017,
+        0.18099284709412589,
+        0.3745306600755261,
+        0.19343764837875055
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "A&G RESEARCH, INC."
+    },
+    {
+      "bbox": [
+        0.22524781586021506,
+        0.18232621866033571,
+        0.7123747460970314,
+        0.19343764837875055
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "A&C RESEARCH, INC. 276 FIFTH AVENUE NEW YORK, N.Y. 10001-4509"
+    },
+    {
+      "bbox": [
+        0.5410615277717619,
+        0.19565993432243353,
+        0.6973070474850235,
+        0.20943810717326797
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "agr@agresearchny.com"
+    },
+    {
+      "bbox": [
+        0.17139565354102418,
+        0.4220697316017225,
+        0.35117764714294103,
+        0.45407064919075735
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.17087150778708274,
+        0.4219609589487105,
+        0.4088336800765004,
+        0.4884420051197207
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Co.\nP.O. Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.5910651281798062,
+        0.628386183254462,
+        0.6041999093998637,
+        0.644887921260094
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5928164323424805,
+        0.6270660442140116,
+        0.684759900882883,
+        0.6429077126994182
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$14,875.00"
+    },
+    {
+      "bbox": [
+        0.5919407802611434,
+        0.628386183254462,
+        0.6838842488015457,
+        0.6422476431791928
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$14,875.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17580645161290323,
+        0.5592705167173252,
+        0.3580645161290323,
+        0.5738601823708207
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Newport Medium Test"
+    },
+    {
+      "bbox": [
+        0.7580645161290323,
+        0.5592705167173252,
+        0.8508064516129032,
+        0.5738601823708207
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$14,875.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 955,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qjkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.17580645161290323,
+          0.5592705167173252,
+          0.8508064516129032,
+          0.6437689969604863
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17580645161290323,
+            "right": 0.3580645161290323
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7580645161290323,
+            "right": 0.8508064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5738601823708207,
+            "row_type": "data",
+            "top": 0.5592705167173252
+          },
+          {
+            "bottom": 0.5902735562310031,
+            "row_type": "gap",
+            "top": 0.5738601823708207
+          },
+          {
+            "bottom": 0.6437689969604863,
+            "row_type": "footer",
+            "top": 0.5902735562310031
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.20751503433372667,
+        0.2869252183111207,
+        0.2742162953695674,
+        0.2979438518868166
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/11/2018"
+    },
+    {
+      "bbox": [
+        0.5900496168555139,
+        0.0462782610179227,
+        0.922985825786548,
+        0.06038211199481343
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Katz Commnications \u00b7 Katz Media Group Inc"
+    },
+    {
+      "bbox": [
+        0.5911898093518532,
+        0.0462782610179227,
+        0.9246961145310567,
+        0.07713043502987116
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Kat CommnicationsKatz Media Group Inc\n125 W. 55th St., New York, New York 10019"
+    },
+    {
+      "bbox": [
+        0.20865522683006582,
+        0.20935403793822172,
+        0.3032912040262159,
+        0.22081341685694544
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Del Ray Media"
+    },
+    {
+      "bbox": [
+        0.6732836690882725,
+        0.15470161540277017,
+        0.8403218698019591,
+        0.17938335461232896
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "1427 Leslie Ave\nAlexandria, Virginia 22301"
+    },
+    {
+      "bbox": [
+        0.20865522683006582,
+        0.15470161540277017,
+        0.30386130027438546,
+        0.16660173966452171
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Del Ray Media"
+    },
+    {
+      "bbox": [
+        0.898471687115256,
+        0.7215001265365664,
+        0.9087334195823085,
+        0.7351632321704292
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.9001819758597648,
+        0.7228223625656498,
+        0.9668832368956056,
+        0.7342817414843735
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$51,807.50"
+    },
+    {
+      "bbox": [
+        0.898471687115256,
+        0.7228223625656498,
+        0.9674533331437751,
+        0.7338409961413457
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$51,807.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03387096774193549,
+        0.5991271820448878,
+        0.09274193548387097,
+        0.6109725685785536
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "091118-5"
+    },
+    {
+      "bbox": [
+        0.17258064516129032,
+        0.5991271820448878,
+        0.325,
+        0.6109725685785536
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NRCC IE VA10 9.12-9.17"
+    },
+    {
+      "bbox": [
+        0.442741935483871,
+        0.5991271820448878,
+        0.4629032258064516,
+        0.6109725685785536
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "EA"
+    },
+    {
+      "bbox": [
+        0.5403225806451613,
+        0.5991271820448878,
+        0.6024193548387097,
+        0.6109725685785536
+      ],
+      "fieldtype": "line_item_hts_number",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "80140000"
+    },
+    {
+      "bbox": [
+        0.6532258064516129,
+        0.5991271820448878,
+        0.682258064516129,
+        0.6109725685785536
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1.00"
+    },
+    {
+      "bbox": [
+        0.7685483870967742,
+        0.5991271820448878,
+        0.8379032258064516,
+        0.6109725685785536
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$51,807.50"
+    },
+    {
+      "bbox": [
+        0.9,
+        0.5991271820448878,
+        0.9717741935483871,
+        0.6109725685785536
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$51,807.50"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.05187875858343167,
+        0.5769356540234363,
+        0.14651473577958174,
+        0.5879542875991323
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Product Code"
+    },
+    {
+      "bbox": [
+        0.2445712904647493,
+        0.5769356540234363,
+        0.3215342839676424,
+        0.5897172689712435
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Descripfion"
+    },
+    {
+      "bbox": [
+        0.4144599724192838,
+        0.577817144709492,
+        0.49085286967400726,
+        0.58839503294216
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UOM Code"
+    },
+    {
+      "bbox": [
+        0.5256287408123516,
+        0.5769356540234363,
+        0.6162740442713146,
+        0.58839503294216
+      ],
+      "fieldtype": "line_item_hts_number",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CMDTY Code"
+    },
+    {
+      "bbox": [
+        0.6532258064516129,
+        0.5773067331670823,
+        0.682258064516129,
+        0.5891521197007481
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.7530971438320135,
+        0.5764949086804084,
+        0.7878730149703578,
+        0.5879542875991323
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMT"
+    },
+    {
+      "bbox": [
+        0.8773781259329817,
+        0.5769356540234363,
+        0.9343877507499395,
+        0.5888357782851878
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXT AMT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 14,
+    "currency": "usd",
+    "document_type": "receipt",
+    "language": "eng",
+    "original_filename": "d9895c49-6a2b-451a-a1a4-37372d81dd06",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03387096774193549,
+          0.5773067331670823,
+          0.9717741935483871,
+          0.6203241895261845
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.03387096774193549,
+            "right": 0.09274193548387097
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.17258064516129032,
+            "right": 0.325
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.442741935483871,
+            "right": 0.4629032258064516
+          },
+          {
+            "column_type": "line_item_hts_number",
+            "left": 0.5403225806451613,
+            "right": 0.6024193548387097
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6532258064516129,
+            "right": 0.682258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7685483870967742,
+            "right": 0.8379032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9,
+            "right": 0.9717741935483871
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5891521197007481,
+            "row_type": "header",
+            "top": 0.5773067331670823
+          },
+          {
+            "bottom": 0.5991271820448878,
+            "row_type": "gap",
+            "top": 0.5891521197007481
+          },
+          {
+            "bottom": 0.6109725685785536,
+            "row_type": "data",
+            "top": 0.5991271820448878
+          },
+          {
+            "bottom": 0.6203241895261845,
+            "row_type": "gap",
+            "top": 0.6109725685785536
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

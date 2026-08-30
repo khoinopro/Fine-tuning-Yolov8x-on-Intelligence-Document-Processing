@@ -1,0 +1,279 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8524193548387097,
+        0.10223789940337046,
+        0.9044294953688917,
+        0.11297212867638613
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "14-0089"
+    },
+    {
+      "bbox": [
+        0.8362903225806452,
+        0.1153741916774618,
+        0.9022989194080698,
+        0.12610842095047747
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "08/30/2013"
+    },
+    {
+      "bbox": [
+        0.1203775417864367,
+        0.36128563394976043,
+        0.19814356435643565,
+        0.37284557316685424
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 1,
+      "text": "4505348342"
+    },
+    {
+      "bbox": [
+        0.5419354838709678,
+        0.19487820112429732,
+        0.7936395454061534,
+        0.21025577707732987
+      ],
+      "fieldtype": "vendor_name",
+      "page": 1,
+      "text": "Pennington Biomedical Research Center"
+    },
+    {
+      "bbox": [
+        0.5442831641778859,
+        0.1969896764248747,
+        0.7932784308365226,
+        0.2534886394571469
+      ],
+      "fieldtype": "vendor_address",
+      "page": 1,
+      "text": "Pennington Biomedical Research Center\nOffice of Fiscal Operations\n6400 Perkins Road\nBaton Rouge, LA 70808"
+    },
+    {
+      "bbox": [
+        0.8338709677419355,
+        0.12888581180767977,
+        0.9033642073884807,
+        0.14029562602449816
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 1,
+      "text": "72-6000848"
+    },
+    {
+      "bbox": [
+        0.17151136484616203,
+        0.889214568139653,
+        0.29508477057383153,
+        0.9049030570771375
+      ],
+      "fieldtype": "vendor_email",
+      "page": 1,
+      "text": "CyrusJB@pbrc.edu"
+    },
+    {
+      "bbox": [
+        0.1086593740019163,
+        0.19487820112429732,
+        0.23649393165122962,
+        0.20837916378282276
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "Coca Cola Company"
+    },
+    {
+      "bbox": [
+        0.10994810162228631,
+        0.19593014711222725,
+        0.29269238655002733,
+        0.25155543602621827
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 1,
+      "text": "Coca Cola Company\nAitn: Attn.Trudy Strawn\nOne Coca-Cola Plaza,NAT 20\nAtlanta, GA 30313"
+    },
+    {
+      "bbox": [
+        0.822402320877249,
+        0.3842553818714641,
+        0.8341204886617694,
+        0.3958153210885578
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.822402320877249,
+        0.3836548692710286,
+        0.9044294953688917,
+        0.3968662283762786
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$509,621.00"
+    },
+    {
+      "bbox": [
+        0.8234676088576599,
+        0.3836548692710286,
+        0.9033642073884807,
+        0.39513974008204694
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$509,621.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.19919354838709677,
+        0.35977514053716425,
+        0.36774193548387096,
+        0.37289194253591507
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "Amendnent 4, 3rd Quarter"
+    },
+    {
+      "bbox": [
+        0.8193548387096774,
+        0.35977514053716425,
+        0.9064516129032258,
+        0.37289194253591507
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "$509,621.00"
+    },
+    {
+      "bbox": [
+        0.12218416693036502,
+        0.3607542759946664,
+        0.19594168233345122,
+        0.37401851004793635
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "4505348342"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.0901480743815498,
+        0.3451832186277843,
+        0.17359092009009175,
+        0.35729404102424817
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "MILESTONE"
+    },
+    {
+      "bbox": [
+        0.8418787111665393,
+        0.3447845096814491,
+        0.9064516129032258,
+        0.35977514053716425
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "AMOUNT"
+    },
+    {
+      "bbox": [
+        0.09238315060588574,
+        0.3619076876514725,
+        0.1184590398898051,
+        0.37517192170474245
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "PO#"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 917,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nygj0233",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ],
+      [
+        1812,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.08790322580645162,
+          0.3447845096814491,
+          0.9064516129032258,
+          0.3985009369144285
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.19919354838709677,
+            "right": 0.36774193548387096
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8193548387096774,
+            "right": 0.9064516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.35977514053716425,
+            "row_type": "header",
+            "top": 0.3447845096814491
+          },
+          {
+            "bottom": 0.37289194253591507,
+            "row_type": "data",
+            "top": 0.35977514053716425
+          },
+          {
+            "bottom": 0.38226108682073706,
+            "row_type": "gap",
+            "top": 0.37289194253591507
+          },
+          {
+            "bottom": 0.3985009369144285,
+            "row_type": "footer",
+            "top": 0.38226108682073706
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

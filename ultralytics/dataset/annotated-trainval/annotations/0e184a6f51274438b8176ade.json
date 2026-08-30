@@ -1,0 +1,294 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.45598015575199957,
+        0.8075161569911555,
+        0.5084922688953056,
+        0.8197011061768603
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3174387"
+    },
+    {
+      "bbox": [
+        0.7182579621637296,
+        0.807437630274519,
+        0.7722983231265246,
+        0.8206569758913251
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "4383710"
+    },
+    {
+      "bbox": [
+        0.6861073676668769,
+        0.04864719186984658,
+        0.9303150748025452,
+        0.0835462642982148
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P O Box 1390\nAthens, Tennessee 37371-1390"
+    },
+    {
+      "bbox": [
+        0.7564623731424428,
+        0.12818381396935014,
+        0.9171940960599535,
+        0.1453630880064795
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "wyxi@bellsouth.net"
+    },
+    {
+      "bbox": [
+        0.18257493048566215,
+        0.19126260954999647,
+        0.4795226966445471,
+        0.22155623253767087
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "MEDIA FINANCIAL SERVICES aka\nSMART MEDIA GROUP"
+    },
+    {
+      "bbox": [
+        0.18264273895020558,
+        0.19088735070668064,
+        0.4767864758363044,
+        0.23847699492718274
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "MEDIA FINANCIAL SERVICES aka\nSMART MEDIA GROUP\nPHILADELPHIA PA"
+    },
+    {
+      "bbox": [
+        0.6566929939782672,
+        0.8703617154105162,
+        0.6676378772112384,
+        0.8835810610273224
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6554003684686375,
+        0.8699455192388388,
+        0.717573906961669,
+        0.8846386086766668
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$150.00"
+    },
+    {
+      "bbox": [
+        0.6547163132665768,
+        0.8688879715894942,
+        0.7176195390730284,
+        0.8862249301506835
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$150.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3241935483870968,
+        0.3871571072319202,
+        0.3379032258064516,
+        0.4270573566084788
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1\n1\n1"
+    },
+    {
+      "bbox": [
+        0.3241935483870968,
+        0.44139650872817954,
+        0.3379032258064516,
+        0.4837905236907731
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1\n1\n1"
+    },
+    {
+      "bbox": [
+        0.3241935483870968,
+        0.49688279301745636,
+        0.3379032258064516,
+        0.5405236907730673
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "1\n1\n1"
+    },
+    {
+      "bbox": [
+        0.3241935483870968,
+        0.550498753117207,
+        0.3379032258064516,
+        0.5935162094763092
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1\n1\n1"
+    },
+    {
+      "bbox": [
+        0.23548387096774193,
+        0.6059850374064838,
+        0.24758064516129033,
+        0.6471321695760599
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "1\n1\n1"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 236,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "51a2ba88-abee-4b8f-ae6b-7a3ee7323e8e",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06290322580645161,
+          0.3809226932668329,
+          0.9612903225806452,
+          0.7668329177057357
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.0717741935483871,
+            "right": 0.17016129032258065
+          },
+          {
+            "column_type": "",
+            "left": 0.19274193548387097,
+            "right": 0.23548387096774193
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.23548387096774193,
+            "right": 0.24758064516129033
+          },
+          {
+            "column_type": "",
+            "left": 0.27983870967741936,
+            "right": 0.3241935483870968
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.3241935483870968,
+            "right": 0.3379032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3871571072319202,
+            "row_type": "gap",
+            "top": 0.3809226932668329
+          },
+          {
+            "bottom": 0.4270573566084788,
+            "row_type": "data",
+            "top": 0.3871571072319202
+          },
+          {
+            "bottom": 0.44139650872817954,
+            "row_type": "gap",
+            "top": 0.4270573566084788
+          },
+          {
+            "bottom": 0.4837905236907731,
+            "row_type": "data",
+            "top": 0.44139650872817954
+          },
+          {
+            "bottom": 0.49688279301745636,
+            "row_type": "gap",
+            "top": 0.4837905236907731
+          },
+          {
+            "bottom": 0.5405236907730673,
+            "row_type": "data",
+            "top": 0.49688279301745636
+          },
+          {
+            "bottom": 0.550498753117207,
+            "row_type": "gap",
+            "top": 0.5405236907730673
+          },
+          {
+            "bottom": 0.5935162094763092,
+            "row_type": "data",
+            "top": 0.550498753117207
+          },
+          {
+            "bottom": 0.6059850374064838,
+            "row_type": "gap",
+            "top": 0.5935162094763092
+          },
+          {
+            "bottom": 0.6471321695760599,
+            "row_type": "data",
+            "top": 0.6059850374064838
+          },
+          {
+            "bottom": 0.662718204488778,
+            "row_type": "gap",
+            "top": 0.6471321695760599
+          },
+          {
+            "bottom": 0.6889027431421446,
+            "row_type": "data",
+            "top": 0.662718204488778
+          },
+          {
+            "bottom": 0.7100997506234414,
+            "row_type": "gap",
+            "top": 0.6889027431421446
+          },
+          {
+            "bottom": 0.7668329177057357,
+            "row_type": "footer",
+            "top": 0.7100997506234414
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

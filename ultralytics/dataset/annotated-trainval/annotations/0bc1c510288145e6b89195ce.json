@@ -1,0 +1,351 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.436360991020951,
+        0.25841271689279377,
+        0.5326966245427337,
+        0.27565876875932166
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 2, 1999"
+    },
+    {
+      "bbox": [
+        0.16910957765214502,
+        0.864399436172292,
+        0.23386681077485866,
+        0.8785732996810798
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "183-012"
+    },
+    {
+      "bbox": [
+        0.327926504822082,
+        0.10363618975546675,
+        0.654416777519122,
+        0.11910236633000554
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ECONOMISTS INCORPORATED"
+    },
+    {
+      "bbox": [
+        0.32823412038576655,
+        0.10363452654688793,
+        0.655100598603259,
+        0.1794269414841642
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "ECONOMISTS INCORPORATED\nIN AFFILIATION WITH CASE ASSOCIATES, LONDON\nSUITE 400\n1200 NEW HAMPSHIRE AVE., N.W\nWASHINGTON, D.C. 20036-6802"
+    },
+    {
+      "bbox": [
+        0.8464063019620884,
+        0.37148262570738333,
+        0.9211070003325574,
+        0.38360242662131655
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "521203378"
+    },
+    {
+      "bbox": [
+        0.11434153641503163,
+        0.32144998523902374,
+        0.23865355836381777,
+        0.33565212329365196
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "James A. White"
+    },
+    {
+      "bbox": [
+        0.11419812105088128,
+        0.32018428351053435,
+        0.33302086797472563,
+        0.3851492105996283
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "James A. White\nJones, Day, Reavis & Pogue\n77 West Wacker\nChicago, IL 60601-1692"
+    },
+    {
+      "bbox": [
+        0.6660417359494513,
+        0.6666638946523686,
+        0.6797181576321916,
+        0.6821317344354862
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6680391586298637,
+        0.6669233551906663,
+        0.7615875457266379,
+        0.6826473290949235
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 89,918.36"
+    },
+    {
+      "bbox": [
+        0.6656198037911542,
+        0.6674389498501033,
+        0.7607810941137347,
+        0.6831629237543607
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 89,918.36"
+    },
+    {
+      "bbox": [
+        0.11539324908546725,
+        0.7122391361294641,
+        0.8472543232457599,
+        0.7429719042490821
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Payment due & payable 30 days from statement date, 1% discount for payment of current charges within\n15 days. Balances outstanding after 60 days will bear a finance charge of 1% per month."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11693548387096774,
+        0.4765957446808511,
+        0.3540322580645161,
+        0.4917933130699088
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Previous Billing Dated 6/4/99"
+    },
+    {
+      "bbox": [
+        0.42096774193548386,
+        0.4765957446808511,
+        0.5403225806451613,
+        0.4917933130699088
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ 47,978.49"
+    },
+    {
+      "bbox": [
+        0.11693548387096774,
+        0.4917933130699088,
+        0.3540322580645161,
+        0.5069908814589665
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Finance Charge"
+    },
+    {
+      "bbox": [
+        0.42096774193548386,
+        0.4917933130699088,
+        0.5403225806451613,
+        0.5069908814589665
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "244.28"
+    },
+    {
+      "bbox": [
+        0.11693548387096774,
+        0.5069908814589665,
+        0.3540322580645161,
+        0.5221884498480243
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Received on Account"
+    },
+    {
+      "bbox": [
+        0.42096774193548386,
+        0.5069908814589665,
+        0.5403225806451613,
+        0.5221884498480243
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "(0.00)"
+    },
+    {
+      "bbox": [
+        0.11693548387096774,
+        0.5531914893617021,
+        0.3540322580645161,
+        0.5848024316109423
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Consulting services for period:\n5/31/99-6/27/99"
+    },
+    {
+      "bbox": [
+        0.42096774193548386,
+        0.5531914893617021,
+        0.5403225806451613,
+        0.5848024316109423
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$39,329.50"
+    },
+    {
+      "bbox": [
+        0.11693548387096774,
+        0.6006079027355623,
+        0.3540322580645161,
+        0.6182370820668693
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Expenses:"
+    },
+    {
+      "bbox": [
+        0.42096774193548386,
+        0.6006079027355623,
+        0.5403225806451613,
+        0.6182370820668693
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "2,366.09"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 526,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xjvn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11693548387096774,
+          0.4765957446808511,
+          0.7637096774193548,
+          0.6869300911854104
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11693548387096774,
+            "right": 0.3540322580645161
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.42096774193548386,
+            "right": 0.5403225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4917933130699088,
+            "row_type": "data",
+            "top": 0.4765957446808511
+          },
+          {
+            "bottom": 0.5069908814589665,
+            "row_type": "data",
+            "top": 0.4917933130699088
+          },
+          {
+            "bottom": 0.5221884498480243,
+            "row_type": "data",
+            "top": 0.5069908814589665
+          },
+          {
+            "bottom": 0.5379939209726444,
+            "row_type": "gap-with-text",
+            "top": 0.5221884498480243
+          },
+          {
+            "bottom": 0.5531914893617021,
+            "row_type": "gap",
+            "top": 0.5379939209726444
+          },
+          {
+            "bottom": 0.5848024316109423,
+            "row_type": "data",
+            "top": 0.5531914893617021
+          },
+          {
+            "bottom": 0.6006079027355623,
+            "row_type": "gap",
+            "top": 0.5848024316109423
+          },
+          {
+            "bottom": 0.6182370820668693,
+            "row_type": "data",
+            "top": 0.6006079027355623
+          },
+          {
+            "bottom": 0.6303951367781155,
+            "row_type": "gap",
+            "top": 0.6182370820668693
+          },
+          {
+            "bottom": 0.6486322188449848,
+            "row_type": "gap-with-text",
+            "top": 0.6303951367781155
+          },
+          {
+            "bottom": 0.6662613981762918,
+            "row_type": "gap",
+            "top": 0.6486322188449848
+          },
+          {
+            "bottom": 0.6869300911854104,
+            "row_type": "footer",
+            "top": 0.6662613981762918
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21715564637765777,
+        0.23669185803351717,
+        0.31119179681798276,
+        0.25327536401038775
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DPW99-582"
+    },
+    {
+      "bbox": [
+        0.5697668685730385,
+        0.02983592588202016,
+        0.6670669577874818,
+        0.04584544708700659
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 2, 1999"
+    },
+    {
+      "bbox": [
+        0.3414858900314598,
+        0.1346255192237495,
+        0.659582335540217,
+        0.1491796294101008
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL"
+    },
+    {
+      "bbox": [
+        0.3976205568859464,
+        0.1637337395964521,
+        0.5688312907921304,
+        0.18993113793188443
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "45O LEXINGTON AVENUE\nNEW YORK, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7493978025073954,
+        0.18556490487597904,
+        0.8335998027891252,
+        0.19720819302506007
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 0,
+      "text": "135023295"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12741935483870967,
+        0.2917189460476788,
+        0.6282258064516129,
+        0.32810539523212046
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For expenses in connection with tobacco settlement attorney fee\narbitrations through June 30, 1999"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.2917189460476788,
+        0.8129032258064516,
+        0.32810539523212046
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$24,020.50"
+    },
+    {
+      "bbox": [
+        0.12741935483870967,
+        0.3877038895859473,
+        0.6282258064516129,
+        0.4051864187048962
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Lorillard 9.1% share"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.3877038895859473,
+        0.8129032258064516,
+        0.4071518193224592
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$2,185.87"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 965,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hhpx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1728,
+        2222
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12741935483870967,
+          0.2917189460476788,
+          0.8129032258064516,
+          0.4071518193224592
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12741935483870967,
+            "right": 0.6282258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7209677419354839,
+            "right": 0.8129032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.32810539523212046,
+            "row_type": "data",
+            "top": 0.2917189460476788
+          },
+          {
+            "bottom": 0.3877038895859473,
+            "row_type": "gap",
+            "top": 0.32810539523212046
+          },
+          {
+            "bottom": 0.4071518193224592,
+            "row_type": "data",
+            "top": 0.3877038895859473
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

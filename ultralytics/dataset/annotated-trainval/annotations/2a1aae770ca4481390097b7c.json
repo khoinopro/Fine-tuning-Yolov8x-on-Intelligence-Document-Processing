@@ -1,0 +1,210 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7806451612903226,
+        0.20327343244990304,
+        0.8250517287756833,
+        0.21609825468648997
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "03951"
+    },
+    {
+      "bbox": [
+        0.7338238945560637,
+        0.2295643180349063,
+        0.8482588094104989,
+        0.2449541047188106
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 31, 1999"
+    },
+    {
+      "bbox": [
+        0.21606592315173087,
+        0.8985391079508727,
+        0.4737445426141654,
+        0.9126464124111183
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "820 North Orleans Suite 402 Chicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.05281611454820087,
+        0.2056780866192631,
+        0.2648808169008256,
+        0.24030510665804783
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "ATTN: XIN MIAO\nPHILIP MORRIS USA(MEDIA)"
+    },
+    {
+      "bbox": [
+        0.0536163587080221,
+        0.2052901391560839,
+        0.2642500724667688,
+        0.27557336780866193
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "ATTN: XIN MIAO\nPHILIP MORRIS USA(MEDIA)\n120 PARK AVENUE\nNEW YORK, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.578576527550746,
+        0.8542934712346477,
+        0.5889797016284218,
+        0.869683257918552
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7202197438391029,
+        0.43796767937944403,
+        0.7706351259078401,
+        0.45271622495151903
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "364.25"
+    },
+    {
+      "bbox": [
+        0.5774193548387097,
+        0.8549347123464771,
+        0.6361941070578742,
+        0.869683257918552
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$364.25"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05161290322580645,
+        0.4072398190045249,
+        0.125,
+        0.42146089204912734
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "COURIER"
+    },
+    {
+      "bbox": [
+        0.7201612903225807,
+        0.4072398190045249,
+        0.7758064516129032,
+        0.42146089204912734
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "364.25"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7030653443206758,
+        0.31932773109243695,
+        0.7663252101536295,
+        0.3483300952105212
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BILLING\nTO DATE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 81,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nqwl0024",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05161290322580645,
+          0.31932773109243695,
+          0.7758064516129032,
+          0.4550743374272786
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.05161290322580645,
+            "right": 0.125
+          },
+          {
+            "column_type": "",
+            "left": 0.6040322580645161,
+            "right": 0.6556451612903226
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7201612903225807,
+            "right": 0.7758064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3471234647705236,
+            "row_type": "header",
+            "top": 0.31932773109243695
+          },
+          {
+            "bottom": 0.37815126050420167,
+            "row_type": "gap-with-text",
+            "top": 0.3471234647705236
+          },
+          {
+            "bottom": 0.4072398190045249,
+            "row_type": "gap",
+            "top": 0.37815126050420167
+          },
+          {
+            "bottom": 0.42146089204912734,
+            "row_type": "data",
+            "top": 0.4072398190045249
+          },
+          {
+            "bottom": 0.4298642533936652,
+            "row_type": "gap",
+            "top": 0.42146089204912734
+          },
+          {
+            "bottom": 0.4550743374272786,
+            "row_type": "footer",
+            "top": 0.4298642533936652
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

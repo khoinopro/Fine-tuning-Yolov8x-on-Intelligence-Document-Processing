@@ -1,0 +1,267 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6055636661800292,
+        0.10106,
+        0.6655600663960163,
+        0.11470000000000001
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "35630"
+    },
+    {
+      "bbox": [
+        0.7567545947243166,
+        0.09981999999999999,
+        0.8527488350698958,
+        0.11470000000000001
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02/29/00"
+    },
+    {
+      "bbox": [
+        0.8863468191908486,
+        0.10044,
+        0.981541107533548,
+        0.11470000000000001
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "01-15167"
+    },
+    {
+      "bbox": [
+        0.19038857668539888,
+        0.10354,
+        0.5495670259784413,
+        0.11593999999999999
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "645 EAST MISSOURI, SUITE 272 \u2022 PHOENIX, ARIZONA 85012"
+    },
+    {
+      "bbox": [
+        0.7743535387876728,
+        0.23312000000000002,
+        0.8583484990900545,
+        0.24552
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "86-0748475"
+    },
+    {
+      "bbox": [
+        0.13439193648381095,
+        0.17732,
+        0.44557326560406374,
+        0.20894
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Amelia A. Cottrell\nJONES, DAY, REAVIS & POGUE"
+    },
+    {
+      "bbox": [
+        0.13359198448093115,
+        0.17732,
+        0.444773313601184,
+        0.24056
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ms. Amelia A. Cottrell\nJONES, DAY, REAVIS & POGUE\n77 West Wacker\nChicago, IL 60601-1692"
+    },
+    {
+      "bbox": [
+        0.8967461952282862,
+        0.388585,
+        0.9703417794932305,
+        0.40222499999999994
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "234.25"
+    },
+    {
+      "bbox": [
+        0.8967461952282862,
+        0.387965,
+        0.9703417794932305,
+        0.402845
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "234.25"
+    },
+    {
+      "bbox": [
+        0.35597864128152307,
+        0.909385,
+        0.43037417754934704,
+        0.918065
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06612903225806442,
+        0.299375,
+        0.07822580645161291,
+        0.33
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.08870967741935484,
+        0.299375,
+        0.3379032258064516,
+        0.33
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "COPY OF TRANSCRIPT OF\nTOBACCO ARBITRATION"
+    },
+    {
+      "bbox": [
+        0.3596774193548387,
+        0.299375,
+        0.44193548387096776,
+        0.33
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "2/26/00"
+    },
+    {
+      "bbox": [
+        0.6274193548387097,
+        0.299375,
+        0.6524193548387097,
+        0.33
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "93"
+    },
+    {
+      "bbox": [
+        0.6645161290322581,
+        0.299375,
+        0.7,
+        0.33
+      ],
+      "fieldtype": "line_item_units_of_measure",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PGS"
+    },
+    {
+      "bbox": [
+        0.896774193548387,
+        0.299375,
+        0.9774193548387097,
+        0.33
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "209.25"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1143,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nsxx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1712,
+        2209
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06612903225806442,
+          0.299375,
+          0.9774193548387097,
+          0.405
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.06612903225806442,
+            "right": 0.07822580645161291
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.08870967741935484,
+            "right": 0.3379032258064516
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.3596774193548387,
+            "right": 0.44193548387096776
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6274193548387097,
+            "right": 0.6524193548387097
+          },
+          {
+            "column_type": "line_item_units_of_measure",
+            "left": 0.6645161290322581,
+            "right": 0.7
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.896774193548387,
+            "right": 0.9774193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.33,
+            "row_type": "data",
+            "top": 0.299375
+          },
+          {
+            "bottom": 0.341875,
+            "row_type": "gap",
+            "top": 0.33
+          },
+          {
+            "bottom": 0.405,
+            "row_type": "footer",
+            "top": 0.341875
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7203333245169732,
+        0.18670132243806176,
+        0.7338067368153602,
+        0.2006079027355623
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.2570552247185861,
+        0.1937315758358601,
+        0.3223494535492313,
+        0.20388638629934655
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "05-Mar-02"
+    },
+    {
+      "bbox": [
+        0.6757674222992313,
+        0.2070109433650347,
+        0.776299806371812,
+        0.2179468930949432
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "PMH00/01.SC01"
+    },
+    {
+      "bbox": [
+        0.47573907048471514,
+        0.28677394742043666,
+        0.789773218670199,
+        0.2984910364167672
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Hong Kong University of Science & Technology"
+    },
+    {
+      "bbox": [
+        0.47573907048471514,
+        0.2858100997395788,
+        0.7924651068873543,
+        0.3250497714751164
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Hong Kong University of Science & Technology\nOffice of Contract & Grant Administration\nClear Water Bay, Kowloon, Hong Kong"
+    },
+    {
+      "bbox": [
+        0.1658505876218119,
+        0.22896964170520603,
+        0.3264951188718119,
+        0.24303014850080268
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Incorporated"
+    },
+    {
+      "bbox": [
+        0.1658505876218119,
+        0.22970419052043042,
+        0.33012080794133075,
+        0.28845037782047994
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Incorporated\n4201 Cormmerce Road\nRichInond, VA 23234\nU.S.A\nAttn: Dr. Bruce D. Davies"
+    },
+    {
+      "bbox": [
+        0.5275598870169732,
+        0.6730907424145037,
+        0.5565795442750378,
+        0.6840266921444123
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "US$"
+    },
+    {
+      "bbox": [
+        0.5275598870169732,
+        0.6723096031480817,
+        0.6011454464927797,
+        0.6855889706772563
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "US$ 25,462"
+    },
+    {
+      "bbox": [
+        0.532741968670199,
+        0.6730907424145037,
+        0.6021818628234248,
+        0.6840266921444123
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "US$ 25,452"
+    },
+    {
+      "bbox": [
+        0.47781190314600547,
+        0.2493371245793354,
+        0.7524622307669732,
+        0.261835352842088
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "PAYABLE UPON RECEIPT OF INVOICE"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14274193548387096,
+        0.39878419452887537,
+        0.46048387096774196,
+        0.4188449848024316
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Project Title: Reguiation of the G2/M cell cycle DNA\ndamage checkpoint in Iung cancer cells"
+    },
+    {
+      "bbox": [
+        0.5346774193548387,
+        0.39878419452887537,
+        0.6056451612903225,
+        0.4188449848024316
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "US$ 25,462"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1710326692750377,
+        0.36268912603031445,
+        0.2881477146379409,
+        0.375187354293067
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.5192685563718119,
+        0.3591884692879191,
+        0.6056451612903225,
+        0.38652834361269034
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CURRENT\nAMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 278,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jxpk0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07338709677419354,
+          0.3556231003039514,
+          0.932258064516129,
+          0.7015197568389058
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14274193548387096,
+            "right": 0.46048387096774196
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5346774193548387,
+            "right": 0.6056451612903225
+          },
+          {
+            "column_type": "",
+            "left": 0.7217741935483871,
+            "right": 0.8048387096774193
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39209726443769,
+            "row_type": "header",
+            "top": 0.3556231003039514
+          },
+          {
+            "bottom": 0.39878419452887537,
+            "row_type": "gap",
+            "top": 0.39209726443769
+          },
+          {
+            "bottom": 0.4188449848024316,
+            "row_type": "data",
+            "top": 0.39878419452887537
+          },
+          {
+            "bottom": 0.4401215805471125,
+            "row_type": "gap",
+            "top": 0.4188449848024316
+          },
+          {
+            "bottom": 0.451063829787234,
+            "row_type": "gap-with-text",
+            "top": 0.4401215805471125
+          },
+          {
+            "bottom": 0.4735562310030395,
+            "row_type": "gap",
+            "top": 0.451063829787234
+          },
+          {
+            "bottom": 0.48753799392097263,
+            "row_type": "gap-with-text",
+            "top": 0.4735562310030395
+          },
+          {
+            "bottom": 0.6376899696048632,
+            "row_type": "gap",
+            "top": 0.48753799392097263
+          },
+          {
+            "bottom": 0.7015197568389058,
+            "row_type": "footer",
+            "top": 0.6376899696048632
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

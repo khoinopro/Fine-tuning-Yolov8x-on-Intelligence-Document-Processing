@@ -1,0 +1,274 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7065133857348534,
+        0.08201337386018237,
+        0.8017286664850772,
+        0.09708936170212765
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "P0242526"
+    },
+    {
+      "bbox": [
+        0.7089137709638507,
+        0.06331914893617022,
+        0.7881264835207595,
+        0.07718905775075988
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/15/99"
+    },
+    {
+      "bbox": [
+        0.7136564195670094,
+        0.11947258064280944,
+        0.759190327796542,
+        0.13465417960799078
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "9674"
+    },
+    {
+      "bbox": [
+        0.7145320716483466,
+        0.2224434257979524,
+        0.7626929361218907,
+        0.2356448162024579
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "05698"
+    },
+    {
+      "bbox": [
+        0.2640423751896961,
+        0.07658601823708207,
+        0.4080654889295303,
+        0.09528024316109422
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The CPS Group"
+    },
+    {
+      "bbox": [
+        0.2624421183703646,
+        0.07718905775075988,
+        0.46807511965446125,
+        0.13266869300911854
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The CPS Group\n40 West 23rd Street\nNew York, NY 10010"
+    },
+    {
+      "bbox": [
+        0.7089137709638507,
+        0.10131063829787235,
+        0.8265326471847153,
+        0.11638662613981762
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "100070 024"
+    },
+    {
+      "bbox": [
+        0.16162593875248063,
+        0.26292522796352585,
+        0.3416548309272734,
+        0.2773981762917933
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Co. Inc."
+    },
+    {
+      "bbox": [
+        0.817731234678392,
+        0.42710273556231,
+        0.8297331608233783,
+        0.4409726443768997
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8185483870967742,
+        0.4289118541033434,
+        0.8849420210903148,
+        0.44217872340425535
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$48.00"
+    },
+    {
+      "bbox": [
+        0.8185483870967742,
+        0.42710273556231,
+        0.8841418926806489,
+        0.44217872340425535
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$48.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12983870967741937,
+        0.37446808510638296,
+        0.2661290322580645,
+        0.38966565349544074
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "5 Minute Dub 3/4\""
+    },
+    {
+      "bbox": [
+        0.7540322580645161,
+        0.37446808510638296,
+        0.7685483870967742,
+        0.38966565349544074
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.8354838709677419,
+        0.37446808510638296,
+        0.8838709677419355,
+        0.38966565349544074
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "48.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1296208023658508,
+        0.3381544072948328,
+        0.27444404451535076,
+        0.3532303951367781
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Item Description"
+    },
+    {
+      "bbox": [
+        0.7225159539281684,
+        0.337551367781155,
+        0.7985281528464142,
+        0.3526273556231003
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.830533289233044,
+        0.3381544072948328,
+        0.8801412506323202,
+        0.3502151975683891
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 505,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lpmn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.029838709677419355,
+          0.331306990881459,
+          0.9580645161290322,
+          0.4449848024316109
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12983870967741937,
+            "right": 0.2661290322580645
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7540322580645161,
+            "right": 0.7685483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8354838709677419,
+            "right": 0.8838709677419355
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3525835866261398,
+            "row_type": "header",
+            "top": 0.331306990881459
+          },
+          {
+            "bottom": 0.37446808510638296,
+            "row_type": "gap",
+            "top": 0.3525835866261398
+          },
+          {
+            "bottom": 0.38966565349544074,
+            "row_type": "data",
+            "top": 0.37446808510638296
+          },
+          {
+            "bottom": 0.4121580547112462,
+            "row_type": "gap",
+            "top": 0.38966565349544074
+          },
+          {
+            "bottom": 0.4449848024316109,
+            "row_type": "footer",
+            "top": 0.4121580547112462
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

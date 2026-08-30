@@ -1,0 +1,368 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7880868464806685,
+        0.17227814226083146,
+        0.8555120567436303,
+        0.18349932410466116
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2000-145"
+    },
+    {
+      "bbox": [
+        0.6873868571268944,
+        0.17227814226083146,
+        0.7574390236338677,
+        0.18349932410466116
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "8/16/2000"
+    },
+    {
+      "bbox": [
+        0.47372774928062594,
+        0.3889276340046757,
+        0.542904263706262,
+        0.4021290244091812
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "8/16/2000"
+    },
+    {
+      "bbox": [
+        0.07793300851622698,
+        0.1148520940012325,
+        0.31611037463993613,
+        0.1306937624866391
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "I.A. Feingold, M.D., F.R.C.P."
+    },
+    {
+      "bbox": [
+        0.0770573564348898,
+        0.113946419735633,
+        0.3152415197871633,
+        0.18283925458443587
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "I.A. Feingold, M.D., F.R.C.P.\nMedical-Legal Consultations,\n120 Gavilan Ave.,\nCoral Gables, Florida 33143"
+    },
+    {
+      "bbox": [
+        0.12872082923378259,
+        0.7878419452887538,
+        0.2495608164583115,
+        0.8014710841454727
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "I.A Feingold, M.D."
+    },
+    {
+      "bbox": [
+        0.1077051792816906,
+        0.23931187272965943,
+        0.30735385382656444,
+        0.25317333265439024
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Shook Hardy & Bacon - Miami"
+    },
+    {
+      "bbox": [
+        0.10595387511901627,
+        0.23975151663832284,
+        0.3126077663145874,
+        0.2907972953072309
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Shook Hardy & Bacon - Miami\nAttenion: Mr. Kenneth J Reilly,\n100 Biscayne Blvd # 2500,\nMiami, FL 33132-2387"
+    },
+    {
+      "bbox": [
+        0.7898381506433428,
+        0.8072650232355116,
+        0.801221627700726,
+        0.8217865526804679
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7889624985620057,
+        0.8077050830114774,
+        0.8712737942076992,
+        0.8228866819766586
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,100.00"
+    },
+    {
+      "bbox": [
+        0.7898381506433428,
+        0.8083651525317026,
+        0.8730250983703737,
+        0.8235467514968839
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,100.00"
+    },
+    {
+      "bbox": [
+        0.33712602459202806,
+        0.39017442974913197,
+        0.426442536888419,
+        0.40337582015363754
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due on recpt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07903225806451612,
+        0.47537993920972643,
+        0.32983870967741935,
+        0.48753799392097263
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Whole day charge 08/14/2000"
+    },
+    {
+      "bbox": [
+        0.807258064516129,
+        0.47537993920972643,
+        0.8653225806451613,
+        0.48753799392097263
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3,500.00"
+    },
+    {
+      "bbox": [
+        0.07903225806451612,
+        0.48753799392097263,
+        0.32983870967741935,
+        0.5009118541033435
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Whole day charge 08/15/2000"
+    },
+    {
+      "bbox": [
+        0.807258064516129,
+        0.48753799392097263,
+        0.8653225806451613,
+        0.5009118541033435
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "3,500.00"
+    },
+    {
+      "bbox": [
+        0.07903225806451612,
+        0.5148936170212766,
+        0.32983870967741935,
+        0.5288753799392097
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Copy of data CD - handing charge"
+    },
+    {
+      "bbox": [
+        0.807258064516129,
+        0.5148936170212766,
+        0.8653225806451613,
+        0.5288753799392097
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "50.00"
+    },
+    {
+      "bbox": [
+        0.07903225806451612,
+        0.5288753799392097,
+        0.32983870967741935,
+        0.5416413373860183
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Photocopying services"
+    },
+    {
+      "bbox": [
+        0.807258064516129,
+        0.5288753799392097,
+        0.8653225806451613,
+        0.5416413373860183
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "50.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.32311559129063344,
+        0.41408361906923047,
+        0.41856166815638457,
+        0.4266249399535107
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7381746778444501,
+        0.4147436885894557,
+        0.7994703235380517,
+        0.42728500947373593
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1083,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rmcf0076",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07903225806451612,
+          0.41094224924012157,
+          0.8758064516129033,
+          0.8322188449848025
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07903225806451612,
+            "right": 0.32983870967741935
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.807258064516129,
+            "right": 0.8653225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4340425531914894,
+            "row_type": "header",
+            "top": 0.41094224924012157
+          },
+          {
+            "bottom": 0.4480243161094225,
+            "row_type": "gap-with-text",
+            "top": 0.4340425531914894
+          },
+          {
+            "bottom": 0.46200607902735563,
+            "row_type": "gap",
+            "top": 0.4480243161094225
+          },
+          {
+            "bottom": 0.47537993920972643,
+            "row_type": "subsection-header",
+            "top": 0.46200607902735563
+          },
+          {
+            "bottom": 0.48753799392097263,
+            "row_type": "data",
+            "top": 0.47537993920972643
+          },
+          {
+            "bottom": 0.5009118541033435,
+            "row_type": "data",
+            "top": 0.48753799392097263
+          },
+          {
+            "bottom": 0.5148936170212766,
+            "row_type": "gap",
+            "top": 0.5009118541033435
+          },
+          {
+            "bottom": 0.5288753799392097,
+            "row_type": "data",
+            "top": 0.5148936170212766
+          },
+          {
+            "bottom": 0.5416413373860183,
+            "row_type": "data",
+            "top": 0.5288753799392097
+          },
+          {
+            "bottom": 0.5537993920972645,
+            "row_type": "gap",
+            "top": 0.5416413373860183
+          },
+          {
+            "bottom": 0.5787234042553191,
+            "row_type": "gap-with-text",
+            "top": 0.5537993920972645
+          },
+          {
+            "bottom": 0.7872340425531915,
+            "row_type": "gap",
+            "top": 0.5787234042553191
+          },
+          {
+            "bottom": 0.8322188449848025,
+            "row_type": "footer",
+            "top": 0.7872340425531915
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

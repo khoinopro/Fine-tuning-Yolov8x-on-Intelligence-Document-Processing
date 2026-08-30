@@ -1,0 +1,498 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6224999027199503,
+        0.29594164133738604,
+        0.6849099186738783,
+        0.31101762917933135
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/22/99"
+    },
+    {
+      "bbox": [
+        0.15602503988482042,
+        0.9419477203647416,
+        0.5424870617533756,
+        0.956420668693009
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "4051 Glencoe, Suite 7 Marina Del Rey, CA 90292"
+    },
+    {
+      "bbox": [
+        0.11601861940153313,
+        0.2957908814589666,
+        0.30884956613097786,
+        0.3301641337386018
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\nMarlboro Racing"
+    },
+    {
+      "bbox": [
+        0.11441836258220164,
+        0.2957908814589666,
+        0.333653546830616,
+        0.3609191489361702
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\nMarlboro Racing\n120 Park Ave\nNew York, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.7257164675668314,
+        0.7623927051671733,
+        0.7345178800731545,
+        0.7768656534954407
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7585217323631269,
+        0.6942492401215805,
+        0.8001284096657457,
+        0.7075161094224924
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "37.13"
+    },
+    {
+      "bbox": [
+        0.725,
+        0.7346528875379938,
+        0.7985281528464142,
+        0.7485227963525836
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$52,801.13"
+    },
+    {
+      "bbox": [
+        0.725,
+        0.7617896656534955,
+        0.7985281528464142,
+        0.7744534954407294
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$26,894.13"
+    },
+    {
+      "bbox": [
+        0.11441836258220164,
+        0.4233337386018237,
+        0.21603467060975134,
+        0.43599756838905773
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due on receipt"
+    },
+    {
+      "bbox": [
+        0.17580645161290323,
+        0.6930091185410334,
+        0.20967741935483872,
+        0.7075987841945289
+      ],
+      "fieldtype": "tax_detail_rate",
+      "page": 0,
+      "text": "8.25"
+    },
+    {
+      "bbox": [
+        0.7585217323631269,
+        0.6942492401215805,
+        0.8017286664850772,
+        0.7075161094224924
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "37.13"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.7331306990881459,
+        0.8001284096657457,
+        0.7485227963525836
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "$52,801.13"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11129032258064517,
+        0.5452887537993921,
+        0.31129032258064515,
+        0.5580547112462007
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "EXECUTIVE RESTROOMS"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.5452887537993921,
+        0.8120967741935484,
+        0.5580547112462007
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 3,900.00"
+    },
+    {
+      "bbox": [
+        0.11129032258064517,
+        0.5580547112462007,
+        0.31129032258064515,
+        0.5720364741641337
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "ENTERTAINMENT"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.5580547112462007,
+        0.8120967741935484,
+        0.5720364741641337
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$ 6,500.00"
+    },
+    {
+      "bbox": [
+        0.11129032258064517,
+        0.5720364741641337,
+        0.31129032258064515,
+        0.5860182370820669
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "DISC JOCKEY"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.5720364741641337,
+        0.8120967741935484,
+        0.5860182370820669
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$ 3,431.00"
+    },
+    {
+      "bbox": [
+        0.11129032258064517,
+        0.5860182370820669,
+        0.31129032258064515,
+        0.6
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "RENTALS"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.5860182370820669,
+        0.8120967741935484,
+        0.6
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$34,063.00"
+    },
+    {
+      "bbox": [
+        0.11129032258064517,
+        0.6,
+        0.31129032258064515,
+        0.6139817629179332
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "SECURITY GUARDS"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.6,
+        0.8120967741935484,
+        0.6139817629179332
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$ 1,290.00"
+    },
+    {
+      "bbox": [
+        0.11129032258064517,
+        0.6139817629179332,
+        0.31129032258064515,
+        0.6267477203647417
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "VALET PARKING"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.6139817629179332,
+        0.8120967741935484,
+        0.6267477203647417
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$ 950.00"
+    },
+    {
+      "bbox": [
+        0.11129032258064517,
+        0.6267477203647417,
+        0.31129032258064515,
+        0.6395136778115501
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "TAROT CARD READERS"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.6267477203647417,
+        0.8120967741935484,
+        0.6395136778115501
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$ 1300.00"
+    },
+    {
+      "bbox": [
+        0.11129032258064517,
+        0.6395136778115501,
+        0.31129032258064515,
+        0.6522796352583586
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "SIGNAGE"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.6395136778115501,
+        0.8120967741935484,
+        0.6522796352583586
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "$ 450.00T"
+    },
+    {
+      "bbox": [
+        0.11129032258064517,
+        0.6522796352583586,
+        0.31129032258064515,
+        0.6668693009118541
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "NEON SIGNS"
+    },
+    {
+      "bbox": [
+        0.7233870967741935,
+        0.6522796352583586,
+        0.8120967741935484,
+        0.6668693009118541
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "$ 880.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.374460095723569,
+        0.45031975683890574,
+        0.4864780730767734,
+        0.46358662613981766
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7297171096151601,
+        0.4515258358662614,
+        0.8049291801237402,
+        0.46358662613981766
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 177,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "qqlf0052",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11129032258064517,
+          0.4492401215805471,
+          0.8435483870967742,
+          0.7811550151975684
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11129032258064517,
+            "right": 0.31129032258064515
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7233870967741935,
+            "right": 0.8120967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4662613981762918,
+            "row_type": "header",
+            "top": 0.4492401215805471
+          },
+          {
+            "bottom": 0.4905775075987842,
+            "row_type": "gap",
+            "top": 0.4662613981762918
+          },
+          {
+            "bottom": 0.5197568389057751,
+            "row_type": "gap-with-text",
+            "top": 0.4905775075987842
+          },
+          {
+            "bottom": 0.5452887537993921,
+            "row_type": "gap",
+            "top": 0.5197568389057751
+          },
+          {
+            "bottom": 0.5580547112462007,
+            "row_type": "data",
+            "top": 0.5452887537993921
+          },
+          {
+            "bottom": 0.5720364741641337,
+            "row_type": "data",
+            "top": 0.5580547112462007
+          },
+          {
+            "bottom": 0.5860182370820669,
+            "row_type": "data",
+            "top": 0.5720364741641337
+          },
+          {
+            "bottom": 0.6,
+            "row_type": "data",
+            "top": 0.5860182370820669
+          },
+          {
+            "bottom": 0.6139817629179332,
+            "row_type": "data",
+            "top": 0.6
+          },
+          {
+            "bottom": 0.6267477203647417,
+            "row_type": "data",
+            "top": 0.6139817629179332
+          },
+          {
+            "bottom": 0.6395136778115501,
+            "row_type": "data",
+            "top": 0.6267477203647417
+          },
+          {
+            "bottom": 0.6522796352583586,
+            "row_type": "data",
+            "top": 0.6395136778115501
+          },
+          {
+            "bottom": 0.6668693009118541,
+            "row_type": "data",
+            "top": 0.6522796352583586
+          },
+          {
+            "bottom": 0.6924012158054711,
+            "row_type": "gap",
+            "top": 0.6668693009118541
+          },
+          {
+            "bottom": 0.7811550151975684,
+            "row_type": "footer",
+            "top": 0.6924012158054711
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

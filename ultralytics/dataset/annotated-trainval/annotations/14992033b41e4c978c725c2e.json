@@ -1,0 +1,295 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5330645161290323,
+        0.2989496816727531,
+        0.588519049834574,
+        0.3133762078660763
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "577394"
+    },
+    {
+      "bbox": [
+        0.8145161290322581,
+        0.18994926154542222,
+        0.8725806451612903,
+        0.20437578773874543
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "577394"
+    },
+    {
+      "bbox": [
+        0.7775532792356348,
+        0.17495566556488115,
+        0.8709257392473119,
+        0.18834631419060852
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 19, 2000"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.20517726141615225,
+        0.8698950578990902,
+        0.22194357366771159
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "51625"
+    },
+    {
+      "bbox": [
+        0.34012484491315137,
+        0.07213263096661603,
+        0.588519049834574,
+        0.08736063083734609
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "ARMSTRONG TEASDALE LLP"
+    },
+    {
+      "bbox": [
+        0.34324422545755445,
+        0.07079917829347149,
+        0.5910455605769027,
+        0.12823578838509517
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "ARMSTRONG TEASDALE LLP\nATTORNEYS AT LAW\n2345 GRAND BOULEVARD, SUITE 2000\nKANSAS CITY, MISSOURI 64108"
+    },
+    {
+      "bbox": [
+        0.10822154156327544,
+        0.09404388714733543,
+        0.17212378515301902,
+        0.10339010438548299
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "43-1274026"
+    },
+    {
+      "bbox": [
+        0.057718155500413565,
+        0.175522735352099,
+        0.15975560897435898,
+        0.18834631419060852
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Citigroup, Inc."
+    },
+    {
+      "bbox": [
+        0.05874883684863524,
+        0.17495566556488115,
+        0.21335103908188585,
+        0.25005978735093554
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Ciigroup, Inc.\nLegal Department\n388 Greenwich Street\nNew York, NY 10013\nAttn: Linda R. Alpert"
+    },
+    {
+      "bbox": [
+        0.8121769023986766,
+        0.43600168050932353,
+        0.8626802884615384,
+        0.4496267330252399
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "476.00"
+    },
+    {
+      "bbox": [
+        0.8111462210504549,
+        0.5297741007659243,
+        0.8595882444168734,
+        0.542597679604434
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "476.00"
+    },
+    {
+      "bbox": [
+        0.46483728804797353,
+        0.6980835730213617,
+        0.592741935483871,
+        0.7133115728920919
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "UPON RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1588709677419355,
+        0.39561128526645767,
+        0.3532258064516129,
+        0.4250783699059561
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Kramer, et al. v. Compaq et\nal."
+    },
+    {
+      "bbox": [
+        0.43790322580645163,
+        0.39561128526645767,
+        0.49112903225806454,
+        0.4250783699059561
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "476.00"
+    },
+    {
+      "bbox": [
+        0.8137096774193548,
+        0.39561128526645767,
+        0.8620967741935484,
+        0.4250783699059561
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "476.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.1588709677419355,
+        0.36927899686520377,
+        0.28107498590464375,
+        0.3819071303827627
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "MATTER NAME"
+    },
+    {
+      "bbox": [
+        0.449194619625191,
+        0.36927899686520377,
+        0.49112903225806454,
+        0.3832686530921929
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "FEES"
+    },
+    {
+      "bbox": [
+        0.8055732181890594,
+        0.36927899686520377,
+        0.8620967741935484,
+        0.3846301758016231
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 589,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tnmx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1726,
+        2220
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05806451612903226,
+          0.36927899686520377,
+          0.8725806451612903,
+          0.5567398119122257
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.06370967741935483,
+            "right": 0.08629032258064516
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.1588709677419355,
+            "right": 0.3532258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.43790322580645163,
+            "right": 0.49112903225806454
+          },
+          {
+            "column_type": "",
+            "left": 0.6451612903225806,
+            "right": 0.6790322580645162
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8137096774193548,
+            "right": 0.8620967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.386833855799373,
+            "row_type": "header",
+            "top": 0.36927899686520377
+          },
+          {
+            "bottom": 0.39561128526645767,
+            "row_type": "gap",
+            "top": 0.386833855799373
+          },
+          {
+            "bottom": 0.4250783699059561,
+            "row_type": "data",
+            "top": 0.39561128526645767
+          },
+          {
+            "bottom": 0.43448275862068964,
+            "row_type": "gap",
+            "top": 0.4250783699059561
+          },
+          {
+            "bottom": 0.5567398119122257,
+            "row_type": "footer",
+            "top": 0.43448275862068964
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

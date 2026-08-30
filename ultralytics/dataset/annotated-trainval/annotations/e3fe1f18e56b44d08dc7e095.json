@@ -1,0 +1,243 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7016300617707618,
+        0.6124327201750754,
+        0.7700754687977557,
+        0.625040257860557
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "22,523.96"
+    },
+    {
+      "bbox": [
+        0.7094200411805078,
+        0.22038209025847283,
+        0.7814001084683116,
+        0.23542911290149415
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "22,523.96"
+    },
+    {
+      "bbox": [
+        0.6983870967741935,
+        0.613166144200627,
+        0.7709677419354839,
+        0.6272405299372117
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "22,523.96"
+    },
+    {
+      "bbox": [
+        0.710089224433768,
+        0.22111551428402437,
+        0.779512668523219,
+        0.2361625369270457
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "22,523.96"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.21774193548387097,
+        0.1554858934169279,
+        0.36774193548387096,
+        0.16927899686520376
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Brown & Williamson"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.1554858934169279,
+        0.7903225806451613,
+        0.16927899686520376
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$3,139.23"
+    },
+    {
+      "bbox": [
+        0.21774193548387097,
+        0.16927899686520376,
+        0.36774193548387096,
+        0.18181818181818182
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Lorillard Tobacco"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.16927899686520376,
+        0.7903225806451613,
+        0.18181818181818182
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$2,442.68"
+    },
+    {
+      "bbox": [
+        0.21774193548387097,
+        0.18181818181818182,
+        0.36774193548387096,
+        0.19561128526645769
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Philip Morris"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.18181818181818182,
+        0.7903225806451613,
+        0.19561128526645769
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$ 11,547.13"
+    },
+    {
+      "bbox": [
+        0.21774193548387097,
+        0.19561128526645769,
+        0.36774193548387096,
+        0.2090258444844002
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "RJ Reynolds"
+    },
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.19561128526645769,
+        0.7903225806451613,
+        0.20626959247648902
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$5,394.92"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.6967741935483871,
+        0.14043887147335424,
+        0.7903225806451613,
+        0.1554858934169279
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount Due"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1052,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tjyx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1728,
+        2222
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.21774193548387097,
+          0.14043887147335424,
+          0.7903225806451613,
+          0.23824451410658307
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.21774193548387097,
+            "right": 0.36774193548387096
+          },
+          {
+            "column_type": "",
+            "left": 0.5435483870967742,
+            "right": 0.6201612903225806
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6967741935483871,
+            "right": 0.7903225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.1554858934169279,
+            "row_type": "header",
+            "top": 0.14043887147335424
+          },
+          {
+            "bottom": 0.16927899686520376,
+            "row_type": "data",
+            "top": 0.1554858934169279
+          },
+          {
+            "bottom": 0.18181818181818182,
+            "row_type": "data",
+            "top": 0.16927899686520376
+          },
+          {
+            "bottom": 0.19561128526645769,
+            "row_type": "data",
+            "top": 0.18181818181818182
+          },
+          {
+            "bottom": 0.20626959247648902,
+            "row_type": "data",
+            "top": 0.19561128526645769
+          },
+          {
+            "bottom": 0.219435736677116,
+            "row_type": "gap",
+            "top": 0.20626959247648902
+          },
+          {
+            "bottom": 0.23824451410658307,
+            "row_type": "footer",
+            "top": 0.219435736677116
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

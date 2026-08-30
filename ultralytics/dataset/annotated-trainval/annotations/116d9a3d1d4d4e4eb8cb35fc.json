@@ -1,0 +1,123 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.24222142960777673,
+        0.08682848773006428,
+        0.6527820767035837,
+        0.11532142768506334
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "CELEBRITY CATERERS"
+    },
+    {
+      "bbox": [
+        0.1804970498621657,
+        0.11532142768506334,
+        0.7509799535716012,
+        0.1430645534307203
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. BOX 172771, HIALEAH, FLORIDA 33017"
+    },
+    {
+      "bbox": [
+        0.5536489819606326,
+        0.5917533831657753,
+        0.6518468588286501,
+        0.6089991099806432
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$6,000.00"
+    },
+    {
+      "bbox": [
+        0.5536489819606326,
+        0.5917533831657753,
+        0.6499764230787831,
+        0.6089204912734324
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$6,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.18870967741935485,
+        0.5914534391760276,
+        0.33064516129032256,
+        0.6089204912734324
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Food & Labor"
+    },
+    {
+      "bbox": [
+        0.557258064516129,
+        0.5929530675947117,
+        0.6508064516129032,
+        0.6089204912734324
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$6,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 361,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xnlw0007",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1217741935483871,
+          0.5862960568842922,
+          0.7451612903225806,
+          0.6089204912734324
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.18870967741935485,
+            "right": 0.33064516129032256
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.557258064516129,
+            "right": 0.6508064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6089204912734324,
+            "row_type": "data",
+            "top": 0.5862960568842922
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

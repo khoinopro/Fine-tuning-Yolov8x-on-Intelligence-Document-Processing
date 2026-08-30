@@ -1,0 +1,312 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8171220408976473,
+        0.28120141134827215,
+        0.8573450037130282,
+        0.2941108573782328
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "5045D"
+    },
+    {
+      "bbox": [
+        0.7061364583144664,
+        0.2828852521347887,
+        0.7605119450834074,
+        0.2941108573782328
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/10/99"
+    },
+    {
+      "bbox": [
+        0.6458020140913948,
+        0.5144133602808212,
+        0.6994326311785695,
+        0.5250776852620931
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "10/31/99"
+    },
+    {
+      "bbox": [
+        0.06033444422307149,
+        0.2145493802153234,
+        0.27113256416293857,
+        0.2308265078183172
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "California Celebrations, Inc."
+    },
+    {
+      "bbox": [
+        0.058844704859538854,
+        0.2139880999531512,
+        0.27262230352647115,
+        0.2746063682677488
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "California Celebrations, Inc.\n4051 Glencoe Avenue #7\nMarina Del Rey, CA 90292"
+    },
+    {
+      "bbox": [
+        0.08789462244842514,
+        0.35115096402148255,
+        0.19441098694100814,
+        0.3657442508379598
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.0864048830848925,
+        0.35115096402148255,
+        0.2472967343464165,
+        0.40222746787915276
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris USA\nMarlboro Racing\n120 Park Ave\nNew York, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.814142562170582,
+        0.8833849726262711,
+        0.8811808335295502,
+        0.8968556989184039
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$-6,200.00"
+    },
+    {
+      "bbox": [
+        0.8161290322580645,
+        0.8839462528884433,
+        0.878201354802485,
+        0.8974169791805761
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$-6,200.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.056451612903225805,
+        0.6103343465045593,
+        0.24919354838709679,
+        0.6358662613981763
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Liquor Beverage Credit\n10/31/99 Marlboro Racing Event."
+    },
+    {
+      "bbox": [
+        0.6741935483870968,
+        0.6103343465045593,
+        0.7298387096774194,
+        0.6358662613981763
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "6,200.00"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.6103343465045593,
+        0.8790322580645161,
+        0.6358662613981763
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "-6,200.00"
+    },
+    {
+      "bbox": [
+        0.056451612903225805,
+        0.6358662613981763,
+        0.24919354838709679,
+        0.6486322188449848
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Sales Tax"
+    },
+    {
+      "bbox": [
+        0.6741935483870968,
+        0.6358662613981763,
+        0.7298387096774194,
+        0.6486322188449848
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.6358662613981763,
+        0.8790322580645161,
+        0.6486322188449848
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "0.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.20409429280397023,
+        0.5395306520130272,
+        0.30241709079712376,
+        0.5530013783051599
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6487814928184601,
+        0.5395306520130272,
+        0.6919839343609063,
+        0.5524400980429878
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.7850926445816957,
+        0.5384080914886827,
+        0.852130915940664,
+        0.5530013783051599
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 126,
+    "currency": "other",
+    "document_type": "credit_note",
+    "language": "eng",
+    "original_filename": "rylf0052",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ],
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.056451612903225805,
+          0.5349544072948328,
+          0.8943548387096775,
+          0.9094224924012158
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.056451612903225805,
+            "right": 0.24919354838709679
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.6741935483870968,
+            "right": 0.7298387096774194
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8209677419354838,
+            "right": 0.8790322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5531914893617021,
+            "row_type": "header",
+            "top": 0.5349544072948328
+          },
+          {
+            "bottom": 0.5610942249240122,
+            "row_type": "gap",
+            "top": 0.5531914893617021
+          },
+          {
+            "bottom": 0.6,
+            "row_type": "gap-with-text",
+            "top": 0.5610942249240122
+          },
+          {
+            "bottom": 0.6103343465045593,
+            "row_type": "gap",
+            "top": 0.6
+          },
+          {
+            "bottom": 0.6358662613981763,
+            "row_type": "data",
+            "top": 0.6103343465045593
+          },
+          {
+            "bottom": 0.6486322188449848,
+            "row_type": "data",
+            "top": 0.6358662613981763
+          },
+          {
+            "bottom": 0.8680851063829788,
+            "row_type": "gap",
+            "top": 0.6486322188449848
+          },
+          {
+            "bottom": 0.878419452887538,
+            "row_type": "gap-with-text",
+            "top": 0.8680851063829788
+          },
+          {
+            "bottom": 0.9094224924012158,
+            "row_type": "footer",
+            "top": 0.878419452887538
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

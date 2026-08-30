@@ -1,0 +1,264 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6666910649866681,
+        0.4869149192009494,
+        0.804012652271658,
+        0.49825972281037445
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0000000769743"
+    },
+    {
+      "bbox": [
+        0.6704024767801857,
+        0.5251438696741371,
+        0.7512993108958353,
+        0.5375228501652631
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "06/21/01"
+    },
+    {
+      "bbox": [
+        0.3155777489263957,
+        0.4669626613658445,
+        0.611131529012284,
+        0.4836742850288647
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHILIP MORRIS INCORPORATED"
+    },
+    {
+      "bbox": [
+        0.4071540324537711,
+        0.48304886180747064,
+        0.5227924525077009,
+        0.4907872735359073
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "RICHMOND, VIRGINIA 23261"
+    },
+    {
+      "bbox": [
+        0.11925385208254334,
+        0.5253555030980627,
+        0.2934623809949572,
+        0.5382571608362272
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "DR CARLOS ALVAREZ"
+    },
+    {
+      "bbox": [
+        0.6981387567313223,
+        0.712291598048903,
+        0.8019161394886809,
+        0.7260674310032048
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "12,000.00"
+    },
+    {
+      "bbox": [
+        0.6981387567313223,
+        0.712291598048903,
+        0.8019161394886809,
+        0.7268777741181638
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "12,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11935483870967742,
+        0.5629675810473815,
+        0.2032258064516129,
+        0.5766832917705735
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "05/22/01"
+    },
+    {
+      "bbox": [
+        0.26129032258064516,
+        0.5629675810473815,
+        0.3225806451612903,
+        0.5766832917705735
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "052201"
+    },
+    {
+      "bbox": [
+        0.4596774193548387,
+        0.5629675810473815,
+        0.5524193548387096,
+        0.5766832917705735
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12,000.00"
+    },
+    {
+      "bbox": [
+        0.7,
+        0.5629675810473815,
+        0.7911290322580645,
+        0.5766832917705735
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.14921564023247644,
+        0.5417549401009977,
+        0.18125399037728818,
+        0.5494959347438964
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.24666562192294553,
+        0.5396906748628912,
+        0.31140978784058587,
+        0.5510441336724762
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE NO."
+    },
+    {
+      "bbox": [
+        0.4596774193548387,
+        0.5386533665835411,
+        0.5524193548387096,
+        0.550498753117207
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS"
+    },
+    {
+      "bbox": [
+        0.7265734084671047,
+        0.540206741172418,
+        0.7519371023317474,
+        0.550012001053423
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 356,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kkgm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10967741935483871,
+          0.5386533665835411,
+          0.8209677419354838,
+          0.733790523690773
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.11935483870967742,
+            "right": 0.2032258064516129
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.26129032258064516,
+            "right": 0.3225806451612903
+          },
+          {
+            "column_type": "",
+            "left": 0.34274193548387094,
+            "right": 0.4217741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4596774193548387,
+            "right": 0.5524193548387096
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.7,
+            "right": 0.7911290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.550498753117207,
+            "row_type": "header",
+            "top": 0.5386533665835411
+          },
+          {
+            "bottom": 0.5629675810473815,
+            "row_type": "gap",
+            "top": 0.550498753117207
+          },
+          {
+            "bottom": 0.5766832917705735,
+            "row_type": "data",
+            "top": 0.5629675810473815
+          },
+          {
+            "bottom": 0.713216957605985,
+            "row_type": "gap-with-text",
+            "top": 0.5766832917705735
+          },
+          {
+            "bottom": 0.733790523690773,
+            "row_type": "footer",
+            "top": 0.713216957605985
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

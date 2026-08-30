@@ -1,0 +1,243 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8383665489656273,
+        0.17007481296758106,
+        0.880764857262553,
+        0.18058852867830424
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42066"
+    },
+    {
+      "bbox": [
+        0.6487741137510723,
+        0.17007481296758106,
+        0.7087717198316277,
+        0.17935162094763094
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02-29-20"
+    },
+    {
+      "bbox": [
+        0.062397510323777605,
+        0.06060847880299251,
+        0.37358509386159156,
+        0.08843890274314214
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY"
+    },
+    {
+      "bbox": [
+        0.062397510323777605,
+        0.06060847880299251,
+        0.4079837213477766,
+        0.11936159600997505
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY\nP.O.BOX 8439\nHOT SPRINGS VILLAGE AR71910"
+    },
+    {
+      "bbox": [
+        0.9127635805055161,
+        0.2022344139650873,
+        0.9503620803159973,
+        0.21089276807980048
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "10723"
+    },
+    {
+      "bbox": [
+        0.11279549943144412,
+        0.17007481296758106,
+        0.2159913818899994,
+        0.18058852867830424
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "CAMCO RESEARCH"
+    },
+    {
+      "bbox": [
+        0.11199553135037005,
+        0.1706932668329177,
+        0.2503900093761845,
+        0.22635411471321695
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "CAMCO RESEARCH\nP.O. BOX 6025\nSHERWOOD, AR 72124\nATTN: LINDA NAPPER"
+    },
+    {
+      "bbox": [
+        0.8287669319927383,
+        0.575780548628429,
+        0.8423663893709976,
+        0.5912418952618453
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8983641550461826,
+        0.545785536159601,
+        0.9727611865860714,
+        0.5587730673316709
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "974.16"
+    },
+    {
+      "bbox": [
+        0.8999640912083309,
+        0.5760598503740648,
+        0.9727611865860714,
+        0.5878403990024937
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "828.04"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.025806451612903226,
+        0.327930174563591,
+        0.05241935483870968,
+        0.35099750623441395
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "72"
+    },
+    {
+      "bbox": [
+        0.18225806451612903,
+        0.327930174563591,
+        0.2411290322580645,
+        0.35099750623441395
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "13.53"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.327930174563591,
+        0.8435483870967742,
+        0.35099750623441395
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.9,
+        0.327930174563591,
+        0.9758064516129032,
+        0.35099750623441395
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "974.16"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1093,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "5cded17f-5453-40ce-890f-ce3b94f35b3b",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.025806451612903226,
+          0.327930174563591,
+          0.9758064516129032,
+          0.5922693266832918
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.025806451612903226,
+            "right": 0.05241935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.07338709677419354,
+            "right": 0.14838709677419354
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.18225806451612903,
+            "right": 0.2411290322580645
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.8274193548387097,
+            "right": 0.8435483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9,
+            "right": 0.9758064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.35099750623441395,
+            "row_type": "data",
+            "top": 0.327930174563591
+          },
+          {
+            "bottom": 0.5311720698254364,
+            "row_type": "up-merge",
+            "top": 0.35099750623441395
+          },
+          {
+            "bottom": 0.5455112219451371,
+            "row_type": "gap",
+            "top": 0.5311720698254364
+          },
+          {
+            "bottom": 0.5922693266832918,
+            "row_type": "footer",
+            "top": 0.5455112219451371
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

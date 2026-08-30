@@ -1,0 +1,211 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7207213095095335,
+        0.22083558698204558,
+        0.7670997721549347,
+        0.23198889945588627
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "03687"
+    },
+    {
+      "bbox": [
+        0.7216488787624415,
+        0.2342195619506544,
+        0.8431604508933925,
+        0.24983419941403137
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 31, 1999"
+    },
+    {
+      "bbox": [
+        0.3951445017388176,
+        0.1330961955211655,
+        0.5908616141024104,
+        0.15168504964423332
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "E. Morris Commumications, Inc."
+    },
+    {
+      "bbox": [
+        0.7266609806391096,
+        0.25057254211573576,
+        0.7993270813748198,
+        0.26461021969518733
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "A9001-4M"
+    },
+    {
+      "bbox": [
+        0.05194387816284926,
+        0.2037338411888232,
+        0.3478384698405085,
+        0.2349631161155771
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Attn: XIN MIAO\nPHILIP MORRIS USA BENSON & HEDGES"
+    },
+    {
+      "bbox": [
+        0.05008873965703322,
+        0.20565197386149078,
+        0.34757156354799473,
+        0.26544883687740833
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Attn: XIN MIAO\nPHILIP MORRIS USA BENSON & HEDGES\n120 PARK AVENUE\nNEW YORK, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.7995646960067154,
+        0.47959243637514953,
+        0.8088403885357957,
+        0.4952070738385264
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.811584014029036,
+        0.43937930555935917,
+        0.8886275907126806,
+        0.45271509925983816
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "154,552.94"
+    },
+    {
+      "bbox": [
+        0.7986371267538075,
+        0.4788488822102268,
+        0.8867562057800695,
+        0.4944635196736037
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$135,620.94"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.062096774193548386,
+        0.3516483516483517,
+        0.33306451612903226,
+        0.4001292824822237
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "PRINT MAGAZINE ADVERTISEMENT\nMPI MAGAZINE INSERTS\nFEBRUARY 1999"
+    },
+    {
+      "bbox": [
+        0.8080645161290323,
+        0.3552701936149554,
+        0.8886113442858857,
+        0.3723719394081777
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "131,370.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.8264642043410482,
+        0.27537168713639304,
+        0.8849010672742537,
+        0.30619561873005635
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Current\nBilling"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 970,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "flvl0024",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.062096774193548386,
+          0.27537168713639304,
+          0.8919354838709678,
+          0.4970911441499677
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.062096774193548386,
+            "right": 0.33306451612903226
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8080645161290323,
+            "right": 0.8919354838709678
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.30575307045895284,
+            "row_type": "header",
+            "top": 0.27537168713639304
+          },
+          {
+            "bottom": 0.334841628959276,
+            "row_type": "subsection-header",
+            "top": 0.30575307045895284
+          },
+          {
+            "bottom": 0.3516483516483517,
+            "row_type": "down-merge",
+            "top": 0.334841628959276
+          },
+          {
+            "bottom": 0.4001292824822237,
+            "row_type": "data",
+            "top": 0.3516483516483517
+          },
+          {
+            "bottom": 0.4970911441499677,
+            "row_type": "footer",
+            "top": 0.4001292824822237
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

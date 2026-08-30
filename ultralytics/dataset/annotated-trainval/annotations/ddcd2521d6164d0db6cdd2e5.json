@@ -1,0 +1,339 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.315070564516129,
+        0.8334079620431463,
+        0.38822936432637567,
+        0.8429683445770628
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0000684293"
+    },
+    {
+      "bbox": [
+        0.7244172187480652,
+        0.307085684877307,
+        0.7950765432480961,
+        0.31812157667758517
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/09/01"
+    },
+    {
+      "bbox": [
+        0.19899193548387095,
+        0.8319371339610052,
+        0.2584944259962049,
+        0.8451745867002742
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "10/08/01"
+    },
+    {
+      "bbox": [
+        0.10630727199554206,
+        0.2219173894621164,
+        0.47424501578849604,
+        0.2329532812623946
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BROWN & WILLIAMSON TOBACCO CORPORATION"
+    },
+    {
+      "bbox": [
+        0.10439756052256825,
+        0.21988879828008004,
+        0.4760199240986717,
+        0.268939884958954
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BROWN & WILLIAMSON TOBACCO CORPORATION\n401 S. 4TH AVENUE, SUITE 200\nP.O. BOX 35090\nLOUISVILLE, KY 40232-5090"
+    },
+    {
+      "bbox": [
+        0.2597207603244381,
+        0.35338844830021343,
+        0.40231255030648255,
+        0.36442434010049163
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "TOBACCO RESEARCH"
+    },
+    {
+      "bbox": [
+        0.15341348832889604,
+        0.36538398286573326,
+        0.34756748808123333,
+        0.39801183688394715
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "122 E 42ND ST\nSUITE 2518\nNEW YORK NY 10168-2599"
+    },
+    {
+      "bbox": [
+        0.5398117763605969,
+        0.8336896523036263,
+        0.6041053959507151,
+        0.8428062585734214
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "73,931.00"
+    },
+    {
+      "bbox": [
+        0.5404483468515882,
+        0.8336896523036263,
+        0.6041053959507151,
+        0.8428062585734214
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "73,931.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04435483870967744,
+        0.5167173252279635,
+        0.1024193548387097,
+        0.5258358662613982
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "TW292438"
+    },
+    {
+      "bbox": [
+        0.12177419354838712,
+        0.5167173252279635,
+        0.17822580645161293,
+        0.5258358662613982
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "09/28/01"
+    },
+    {
+      "bbox": [
+        0.1838709677419355,
+        0.5167173252279635,
+        0.2435483870967742,
+        0.5258358662613982
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "09/26/01"
+    },
+    {
+      "bbox": [
+        0.4032258064516129,
+        0.5167173252279635,
+        0.46774193548387094,
+        0.5258358662613982
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "73,931.00"
+    },
+    {
+      "bbox": [
+        0.5548387096774193,
+        0.5167173252279635,
+        0.5782258064516129,
+        0.5258358662613982
+      ],
+      "fieldtype": "line_item_discount_amount",
+      "line_item_id": 1,
+      "page": 0,
+      "text": ".00"
+    },
+    {
+      "bbox": [
+        0.6241935483870967,
+        0.5167173252279635,
+        0.6895161290322581,
+        0.5258358662613982
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "73,931.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.05374337987481946,
+        0.4851944050942799,
+        0.1091839191141069,
+        0.5069386183278548
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "VOUCHER\nNUMBER"
+    },
+    {
+      "bbox": [
+        0.11993259508907078,
+        0.4851944050942799,
+        0.18216177178623014,
+        0.5073649754500817
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE INV\nRECEIVED"
+    },
+    {
+      "bbox": [
+        0.1861218103033221,
+        0.4847680479720529,
+        0.24099662975445352,
+        0.5065122612056279
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "INVOICE\nDATE"
+    },
+    {
+      "bbox": [
+        0.38978093403948005,
+        0.4851944050942799,
+        0.43843283582089554,
+        0.5073649754500817
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "GROSS\nAMOUNT"
+    },
+    {
+      "bbox": [
+        0.49274193548387096,
+        0.48562076221650685,
+        0.5572339913336544,
+        0.5069386183278548
+      ],
+      "fieldtype": "line_item_discount_amount",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DISCOUNT\nAMOUNT"
+    },
+    {
+      "bbox": [
+        0.6109773712084738,
+        0.48562076221650685,
+        0.6596292729898893,
+        0.5069386183278548
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET\nAMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 305,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sjpl0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04435483870967744,
+          0.48024316109422494,
+          0.8798387096774194,
+          0.7866261398176292
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.04435483870967744,
+            "right": 0.1024193548387097
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.12177419354838712,
+            "right": 0.17822580645161293
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.1838709677419355,
+            "right": 0.2435483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.2435483870967742,
+            "right": 0.29596774193548386
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4032258064516129,
+            "right": 0.46774193548387094
+          },
+          {
+            "column_type": "line_item_discount_amount",
+            "left": 0.5548387096774193,
+            "right": 0.5782258064516129
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.6241935483870967,
+            "right": 0.6895161290322581
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5094224924012158,
+            "row_type": "header",
+            "top": 0.48024316109422494
+          },
+          {
+            "bottom": 0.5167173252279635,
+            "row_type": "gap",
+            "top": 0.5094224924012158
+          },
+          {
+            "bottom": 0.5258358662613982,
+            "row_type": "data",
+            "top": 0.5167173252279635
+          },
+          {
+            "bottom": 0.7866261398176292,
+            "row_type": "gap",
+            "top": 0.5258358662613982
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

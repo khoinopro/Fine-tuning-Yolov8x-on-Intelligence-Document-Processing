@@ -1,0 +1,297 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7889443723159891,
+        0.09903184392900856,
+        0.8706421651852592,
+        0.11079187539557832
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42507734"
+    },
+    {
+      "bbox": [
+        0.12094477179666432,
+        0.28471655129589957,
+        0.19783681214421253,
+        0.29647658276246935
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "1999-03-09"
+    },
+    {
+      "bbox": [
+        0.41569759312893234,
+        0.13092269326683292,
+        0.611131529012284,
+        0.15906989931097
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHILIP MORRIS\nU.S.A."
+    },
+    {
+      "bbox": [
+        0.16900229701388195,
+        0.1962068407843482,
+        0.40608608808548885,
+        0.20982371932458688
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DR CURTIS D KLAASSEN PHD"
+    },
+    {
+      "bbox": [
+        0.16980325576750224,
+        0.19558789175979188,
+        0.4285129331868571,
+        0.25995859031364743
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DR CURTIS D KLAASSEN PHD\nDEPT OF PHARHACOLOGY\n390 RAINBOW BLVD\nKANSAS CITY, KS 6610-7417\nAttn: DR. KLAASEN"
+    },
+    {
+      "bbox": [
+        0.5911075601717767,
+        0.19451371571072318,
+        0.8153225806451613,
+        0.22282164884026923
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Philip Morris USA\nResearch & Development"
+    },
+    {
+      "bbox": [
+        0.5927094776790173,
+        0.1968257898089045,
+        0.908287226605413,
+        0.24696066079796505
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "Philip Morris USA\nResearch & Development\n4201 Commerce Road, Gate C, Door\nRichmond, VA 23234"
+    },
+    {
+      "bbox": [
+        0.2354818735643663,
+        0.28512918712707463,
+        0.2995585738539898,
+        0.2968892185936444
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22661290322580646,
+        0.3846633416458853,
+        0.43548387096774194,
+        0.39900249376558605
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Quantity UOM Material"
+    },
+    {
+      "bbox": [
+        0.5201612903225806,
+        0.3846633416458853,
+        0.5741935483870968,
+        0.39900249376558605
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Price"
+    },
+    {
+      "bbox": [
+        0.6217741935483871,
+        0.3846633416458853,
+        0.6919354838709677,
+        0.39900249376558605
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Pp. Unit"
+    },
+    {
+      "bbox": [
+        0.7088709677419355,
+        0.3846633416458853,
+        0.8516129032258064,
+        0.39900249376558605
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Extended Price"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.11453710176770199,
+        0.36579887351277535,
+        0.1529831219414761,
+        0.37632100693023246
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "E ITEM"
+    },
+    {
+      "bbox": [
+        0.26671926495555776,
+        0.36596009975062344,
+        0.3259902127234595,
+        0.37632100693023246
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.47336662338959357,
+        0.36641782253733163,
+        0.5502586637371417,
+        0.3769399559547888
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.630354539099171,
+        0.36596009975062344,
+        0.6976350744032757,
+        0.37632100693023246
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT PRICE"
+    },
+    {
+      "bbox": [
+        0.8321961450114851,
+        0.36641782253733163,
+        0.8722440826924998,
+        0.3769399559547888
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 763,
+    "currency": "other",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "jfdm0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11370967741935484,
+          0.36596009975062344,
+          0.9008064516129032,
+          0.8859102244389028
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.12016129032258065,
+            "right": 0.1870967741935484
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.22661290322580646,
+            "right": 0.43548387096774194
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.5201612903225806,
+            "right": 0.5741935483870968
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6217741935483871,
+            "right": 0.6919354838709677
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7088709677419355,
+            "right": 0.8516129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.378428927680798,
+            "row_type": "header",
+            "top": 0.36596009975062344
+          },
+          {
+            "bottom": 0.3846633416458853,
+            "row_type": "gap",
+            "top": 0.378428927680798
+          },
+          {
+            "bottom": 0.39900249376558605,
+            "row_type": "data",
+            "top": 0.3846633416458853
+          },
+          {
+            "bottom": 0.5224438902743143,
+            "row_type": "gap",
+            "top": 0.39900249376558605
+          },
+          {
+            "bottom": 0.7786783042394015,
+            "row_type": "gap-with-text",
+            "top": 0.5224438902743143
+          },
+          {
+            "bottom": 0.807356608478803,
+            "row_type": "gap",
+            "top": 0.7786783042394015
+          },
+          {
+            "bottom": 0.8859102244389028,
+            "row_type": "footer",
+            "top": 0.807356608478803
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

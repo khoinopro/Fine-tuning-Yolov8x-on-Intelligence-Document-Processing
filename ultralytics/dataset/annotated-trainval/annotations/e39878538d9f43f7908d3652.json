@@ -1,0 +1,112 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4603561651806084,
+        0.18984451579500738,
+        0.5828844291816561,
+        0.20473723146642428
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 28, 1999"
+    },
+    {
+      "bbox": [
+        0.4717337896949914,
+        0.12959671148791171,
+        0.5697564008958296,
+        0.14178166067361644
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "DAVID ROE"
+    },
+    {
+      "bbox": [
+        0.4314745029517901,
+        0.12861890548900046,
+        0.6100156876390309,
+        0.18916757417357932
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DAFID ROE\n179 Peninsula Road\nMedicine Lake\nMinneapolis, MN 55441"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17419354838709677,
+        0.25,
+        0.38225806451612904,
+        0.2674563591022444
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "January Consulting Services"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.25,
+        0.6766129032258065,
+        0.2674563591022444
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$2,750.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 80,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jywx0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.17419354838709677,
+          0.25,
+          0.6766129032258065,
+          0.2674563591022444
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17419354838709677,
+            "right": 0.38225806451612904
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5951612903225807,
+            "right": 0.6766129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2674563591022444,
+            "row_type": "data",
+            "top": 0.25
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

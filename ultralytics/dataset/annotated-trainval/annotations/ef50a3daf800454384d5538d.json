@@ -1,0 +1,204 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8404974058199866,
+        0.20138610846383317,
+        0.8915209790209792,
+        0.21816828416915263
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4711"
+    },
+    {
+      "bbox": [
+        0.8015339499210468,
+        0.441790788246318,
+        0.8488467177983307,
+        0.4529789053831976
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "4/2/99"
+    },
+    {
+      "bbox": [
+        0.12960732462733876,
+        0.43976308541191866,
+        0.16908541776095343,
+        0.45183061104862093
+      ],
+      "fieldtype": "vendor_order_id",
+      "page": 0,
+      "text": "1903"
+    },
+    {
+      "bbox": [
+        0.2875874125874126,
+        0.2588650607880432,
+        0.6929928942025717,
+        0.27634649381441767
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1556 Third Avenue, New York NY 10128"
+    },
+    {
+      "bbox": [
+        0.10575795172569367,
+        0.32319673432510104,
+        0.3117076471915182,
+        0.3560618284146849
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.10483025039476654,
+        0.3248246354454697,
+        0.3144907511842996,
+        0.38543063589899396
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Company\nPO Box 10529\nGreensboro NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.762570494022107,
+        0.5700345766598727,
+        0.7755583126550869,
+        0.5861174950441371
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7607150913602527,
+        0.5714330913019826,
+        0.823798781863298,
+        0.5847189804020272
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$14,600"
+    },
+    {
+      "bbox": [
+        0.7607150913602527,
+        0.5721323486230376,
+        0.8219433792014438,
+        0.5854182377230821
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$14,600"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2862903225806452,
+        0.4930091185410334,
+        0.5185483870967742,
+        0.5075987841945289
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Old Gold Smoker Profile Study"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.440217981923892,
+        0.4372373242321437,
+        0.5564176522794371,
+        0.45183061104862093
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 489,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zmgm0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.0516129032258065,
+          0.4206686930091185,
+          0.8959677419354839,
+          0.5896656534954408
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2862903225806452,
+            "right": 0.5185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.45288753799392095,
+            "row_type": "header",
+            "top": 0.4206686930091185
+          },
+          {
+            "bottom": 0.4930091185410334,
+            "row_type": "gap",
+            "top": 0.45288753799392095
+          },
+          {
+            "bottom": 0.5075987841945289,
+            "row_type": "data",
+            "top": 0.4930091185410334
+          },
+          {
+            "bottom": 0.5252279635258359,
+            "row_type": "gap",
+            "top": 0.5075987841945289
+          },
+          {
+            "bottom": 0.555015197568389,
+            "row_type": "gap-with-text",
+            "top": 0.5252279635258359
+          },
+          {
+            "bottom": 0.5689969604863222,
+            "row_type": "gap",
+            "top": 0.555015197568389
+          },
+          {
+            "bottom": 0.5896656534954408,
+            "row_type": "footer",
+            "top": 0.5689969604863222
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

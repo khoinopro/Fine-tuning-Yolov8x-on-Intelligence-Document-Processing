@@ -1,0 +1,264 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7759690386418497,
+        0.23315710723192018,
+        0.8199672831009237,
+        0.24428927680798004
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "04075"
+    },
+    {
+      "bbox": [
+        0.7327707622638497,
+        0.25480299251870325,
+        0.8599656871546272,
+        0.26902743142144636
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 30, 1999"
+    },
+    {
+      "bbox": [
+        0.12865465049205807,
+        0.3596816550716388,
+        0.1986708013497996,
+        0.37118966263591546
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "0044-1119"
+    },
+    {
+      "bbox": [
+        0.3943842639695174,
+        0.17316708229426434,
+        0.5767769864544058,
+        0.19048379052369077
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "E. Morris Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.24959004129511042,
+        0.8384688279301745,
+        0.49198036986055416,
+        0.8514563591022445
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "820 North Orleans Suite 402 Chicago, Il 60610"
+    },
+    {
+      "bbox": [
+        0.09599616972888861,
+        0.2353500379105914,
+        0.29844381632208117,
+        0.2650074812967581
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "ATTN: KAREN MARRYSHOW\nPHILIP MORRIS USA(MEDIA)"
+    },
+    {
+      "bbox": [
+        0.09439623356674047,
+        0.23467309628916339,
+        0.29931901820780293,
+        0.29840399002493767
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "ATTN: KAREN MARRYSHOW\nPHILIP MORRIS USA(MEDIA)\n120 PARK AVENUE\nNEW YORK, NY 10017-5592"
+    },
+    {
+      "bbox": [
+        0.7287709218584795,
+        0.8015162094763093,
+        0.7407704430745905,
+        0.8151221945137157
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7266129032258064,
+        0.800498753117207,
+        0.8079677618848126,
+        0.8168229426433915
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,990.00"
+    },
+    {
+      "bbox": [
+        0.7279709537774054,
+        0.801361596009975,
+        0.8063678257226644,
+        0.8162044887780548
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,990.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09596774193548387,
+        0.41084788029925184,
+        0.19032258064516128,
+        0.4239401496259352
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "AGENCY FEE"
+    },
+    {
+      "bbox": [
+        0.7524193548387097,
+        0.41084788029925184,
+        0.8169354838709677,
+        0.4239401496259352
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "7,990.00"
+    },
+    {
+      "bbox": [
+        0.2686869522075411,
+        0.42534499235015877,
+        0.3850888030085363,
+        0.4375299415358635
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NOVEMBER 1999"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7524193548387097,
+        0.33541147132169574,
+        0.8169354838709677,
+        0.3584788029925187
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CURRENT\nBILLING"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 81,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hffj0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09596774193548387,
+          0.33541147132169574,
+          0.8169354838709677,
+          0.8273067331670823
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.09596774193548387,
+            "right": 0.19032258064516128
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7524193548387097,
+            "right": 0.8169354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3584788029925187,
+            "row_type": "header",
+            "top": 0.33541147132169574
+          },
+          {
+            "bottom": 0.38341645885286785,
+            "row_type": "subsection-header",
+            "top": 0.3584788029925187
+          },
+          {
+            "bottom": 0.41084788029925184,
+            "row_type": "gap",
+            "top": 0.38341645885286785
+          },
+          {
+            "bottom": 0.4239401496259352,
+            "row_type": "data",
+            "top": 0.41084788029925184
+          },
+          {
+            "bottom": 0.4376558603491272,
+            "row_type": "up-merge",
+            "top": 0.4239401496259352
+          },
+          {
+            "bottom": 0.44576059850374067,
+            "row_type": "gap",
+            "top": 0.4376558603491272
+          },
+          {
+            "bottom": 0.463216957605985,
+            "row_type": "gap-with-text",
+            "top": 0.44576059850374067
+          },
+          {
+            "bottom": 0.5243142144638404,
+            "row_type": "gap",
+            "top": 0.463216957605985
+          },
+          {
+            "bottom": 0.6134663341645885,
+            "row_type": "gap-with-text",
+            "top": 0.5243142144638404
+          },
+          {
+            "bottom": 0.7930174563591023,
+            "row_type": "gap",
+            "top": 0.6134663341645885
+          },
+          {
+            "bottom": 0.8273067331670823,
+            "row_type": "footer",
+            "top": 0.7930174563591023
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

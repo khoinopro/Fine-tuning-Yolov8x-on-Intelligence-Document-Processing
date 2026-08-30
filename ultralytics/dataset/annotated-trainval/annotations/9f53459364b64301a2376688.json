@@ -1,0 +1,455 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8474008980468858,
+        0.26464078318250506,
+        0.8847862317842483,
+        0.2800070222060054
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2552"
+    },
+    {
+      "bbox": [
+        0.7341120079336657,
+        0.26464078318250506,
+        0.7907564529902757,
+        0.27915334226025534
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "5/12/99"
+    },
+    {
+      "bbox": [
+        0.4984711164981681,
+        0.4959880484807595,
+        0.5573813393570425,
+        0.5122079674500098
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "5/27/99"
+    },
+    {
+      "bbox": [
+        0.22657778022644004,
+        0.4968417284265095,
+        0.2752920029751247,
+        0.5122079674500098
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "00915"
+    },
+    {
+      "bbox": [
+        0.12008622352001323,
+        0.9296574609217678,
+        0.5290591168287375,
+        0.9501457796197682
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "80 West 40th Street \u2022\u00a0New York, New York 10018"
+    },
+    {
+      "bbox": [
+        0.10193823802802356,
+        0.3350219520432286,
+        0.27189333627172807,
+        0.3472918642995889
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "BOZELL WORLDWIDE"
+    },
+    {
+      "bbox": [
+        0.10335404688952388,
+        0.3483588131914463,
+        0.27466691913106345,
+        0.38890287108202815
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "40 West 23rd Street\nNew York, NY 10010\nATTN: Molly McClimate"
+    },
+    {
+      "bbox": [
+        0.8299419748229739,
+        0.8769931438801508,
+        0.8404578088119591,
+        0.8922398953384287
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8299419748229739,
+        0.8751635337051573,
+        0.8995082612116443,
+        0.8910201552217665
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,180.00"
+    },
+    {
+      "bbox": [
+        0.8299419748229739,
+        0.8753799392097265,
+        0.9011260818253343,
+        0.8910201552217665
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,180.00"
+    },
+    {
+      "bbox": [
+        0.36967201022816676,
+        0.4964342274815318,
+        0.41982444925255696,
+        0.512900719056472
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 15"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.6395136778115501,
+        0.12903225806451613,
+        0.6553191489361702
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4/26/99"
+    },
+    {
+      "bbox": [
+        0.21854838709677418,
+        0.6395136778115501,
+        0.325,
+        0.6553191489361702
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Full Day"
+    },
+    {
+      "bbox": [
+        0.3685483870967742,
+        0.6395136778115501,
+        0.5911290322580646,
+        0.6553191489361702
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Regular Full Day Casting Rate"
+    },
+    {
+      "bbox": [
+        0.839516129032258,
+        0.6395136778115501,
+        0.9161290322580645,
+        0.6553191489361702
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,300.00"
+    },
+    {
+      "bbox": [
+        0.21854838709677418,
+        0.6553191489361702,
+        0.325,
+        0.6699088145896657
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "MESS-RUSH"
+    },
+    {
+      "bbox": [
+        0.3685483870967742,
+        0.6553191489361702,
+        0.5911290322580646,
+        0.6699088145896657
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Rush Messenger Fee"
+    },
+    {
+      "bbox": [
+        0.839516129032258,
+        0.6553191489361702,
+        0.9161290322580645,
+        0.6699088145896657
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "15.00"
+    },
+    {
+      "bbox": [
+        0.839516129032258,
+        0.6699088145896657,
+        0.9161290322580645,
+        0.6820668693009119
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "0.00"
+    },
+    {
+      "bbox": [
+        0.07258064516129033,
+        0.6820668693009119,
+        0.12903225806451613,
+        0.6954407294832827
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "4/27/99"
+    },
+    {
+      "bbox": [
+        0.21854838709677418,
+        0.6820668693009119,
+        0.325,
+        0.6954407294832827
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Half Day"
+    },
+    {
+      "bbox": [
+        0.3685483870967742,
+        0.6820668693009119,
+        0.5911290322580646,
+        0.6954407294832827
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Regular Half Day Casting Rate"
+    },
+    {
+      "bbox": [
+        0.839516129032258,
+        0.6820668693009119,
+        0.9161290322580645,
+        0.6954407294832827
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "850.00"
+    },
+    {
+      "bbox": [
+        0.21854838709677418,
+        0.6954407294832827,
+        0.325,
+        0.7094224924012158
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "MESS-RUSH"
+    },
+    {
+      "bbox": [
+        0.3685483870967742,
+        0.6954407294832827,
+        0.5911290322580646,
+        0.7094224924012158
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Rush Messenger Fee"
+    },
+    {
+      "bbox": [
+        0.839516129032258,
+        0.6954407294832827,
+        0.9161290322580645,
+        0.7094224924012158
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "15.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.12671489310427927,
+        0.5238719059019913,
+        0.16777335008778876,
+        0.537208767050209
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DATE"
+    },
+    {
+      "bbox": [
+        0.2752920029751247,
+        0.52245212679901,
+        0.3160760034158839,
+        0.5369646858767603
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ITEM"
+    },
+    {
+      "bbox": [
+        0.521128894520812,
+        0.52330580674476,
+        0.6219560067215779,
+        0.5369646858767603
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.808882675408391,
+        0.52330580674476,
+        0.876856009476323,
+        0.5386720457682603
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 290,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lrgh0097",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07258064516129033,
+          0.5173252279635259,
+          0.9161290322580645,
+          0.902127659574468
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.07258064516129033,
+            "right": 0.12903225806451613
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.21854838709677418,
+            "right": 0.325
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3685483870967742,
+            "right": 0.5911290322580646
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.839516129032258,
+            "right": 0.9161290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5428571428571428,
+            "row_type": "header",
+            "top": 0.5173252279635259
+          },
+          {
+            "bottom": 0.6395136778115501,
+            "row_type": "gap-with-text",
+            "top": 0.5428571428571428
+          },
+          {
+            "bottom": 0.6553191489361702,
+            "row_type": "data",
+            "top": 0.6395136778115501
+          },
+          {
+            "bottom": 0.6699088145896657,
+            "row_type": "data",
+            "top": 0.6553191489361702
+          },
+          {
+            "bottom": 0.6820668693009119,
+            "row_type": "data",
+            "top": 0.6699088145896657
+          },
+          {
+            "bottom": 0.6954407294832827,
+            "row_type": "data",
+            "top": 0.6820668693009119
+          },
+          {
+            "bottom": 0.7094224924012158,
+            "row_type": "data",
+            "top": 0.6954407294832827
+          },
+          {
+            "bottom": 0.8571428571428571,
+            "row_type": "gap-with-text",
+            "top": 0.7094224924012158
+          },
+          {
+            "bottom": 0.902127659574468,
+            "row_type": "footer",
+            "top": 0.8571428571428571
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

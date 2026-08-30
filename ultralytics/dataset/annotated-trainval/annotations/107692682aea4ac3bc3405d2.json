@@ -1,0 +1,230 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21999122229536974,
+        0.2306832917705736,
+        0.5487781036168133,
+        0.24861845386533665
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WXME-AM \"The Talk of the County\""
+    },
+    {
+      "bbox": [
+        0.2183912861332216,
+        0.2300648379052369,
+        0.5479781355357392,
+        0.2832518703241895
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WXME-AM \"The Talk of the County\"\n74 PLEASANT STREET\nHOULTON, ME 04730"
+    },
+    {
+      "bbox": [
+        0.1903924032956291,
+        0.14224438902743142,
+        0.6583737307239611,
+        0.1768778054862843
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "C/O National Republican Congressional Committee\nNational Media Research, PLNG&PLACEM"
+    },
+    {
+      "bbox": [
+        0.18959243521455502,
+        0.14286284289276807,
+        0.6583737307239611,
+        0.2121296758104738
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "C/O National Republican Congressional Committee\nNational Media Research, PLNG&PLACEM\n815 SLATERAS LANE\nALEXANDRIA, VA 22314"
+    },
+    {
+      "bbox": [
+        0.3607856045644064,
+        0.4251870324189526,
+        0.3727851257805175,
+        0.43879301745635907
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.3599856364833323,
+        0.4251870324189526,
+        0.47758094440122084,
+        0.44126683291770574
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$200.00 USD"
+    },
+    {
+      "bbox": [
+        0.3620902906617192,
+        0.4251870324189526,
+        0.47983222614559023,
+        0.44064837905236903
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$200.00 USD"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15,
+        0.33728179551122195,
+        0.1782258064516129,
+        0.3541147132169576
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20"
+    },
+    {
+      "bbox": [
+        0.1782258064516129,
+        0.33728179551122195,
+        0.5408747386670111,
+        0.3541147132169576
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "(:60) second spots to run on WXME-AM"
+    },
+    {
+      "bbox": [
+        0.4479821254014802,
+        0.38885286783042394,
+        0.5543778801843318,
+        0.4055511221945137
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$10.00 USD"
+    },
+    {
+      "bbox": [
+        0.589576475751591,
+        0.3375211970074813,
+        0.679972868912961,
+        0.3523640897755611
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/4/2016"
+    },
+    {
+      "bbox": [
+        0.1503939992419255,
+        0.35545635910224443,
+        0.25198994553833265,
+        0.3702992518703242
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10/10/2016"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.15359387156622178,
+        0.30226932668329176,
+        0.3599856364833323,
+        0.3164937655860349
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ORDER DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 183,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "7ab4129d-74bc-4948-a185-1e1da48f392b",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15,
+          0.30174563591022446,
+          0.7580645161290323,
+          0.44326683291770574
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.15,
+            "right": 0.1782258064516129
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.1782258064516129,
+            "right": 0.5016129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3160847880299252,
+            "row_type": "header",
+            "top": 0.30174563591022446
+          },
+          {
+            "bottom": 0.33728179551122195,
+            "row_type": "gap",
+            "top": 0.3160847880299252
+          },
+          {
+            "bottom": 0.3541147132169576,
+            "row_type": "data",
+            "top": 0.33728179551122195
+          },
+          {
+            "bottom": 0.40586034912718205,
+            "row_type": "up-merge",
+            "top": 0.3541147132169576
+          },
+          {
+            "bottom": 0.4226932668329177,
+            "row_type": "gap",
+            "top": 0.40586034912718205
+          },
+          {
+            "bottom": 0.44326683291770574,
+            "row_type": "footer",
+            "top": 0.4226932668329177
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

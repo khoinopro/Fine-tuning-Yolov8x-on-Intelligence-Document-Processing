@@ -1,0 +1,242 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.29740361919748226,
+        0.1717189255225014,
+        0.37519669551534224,
+        0.18966565349544073
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "SRA4612"
+    },
+    {
+      "bbox": [
+        0.19000786782061369,
+        0.19039530412917827,
+        0.2629819040125885,
+        0.2059589529680757
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/10/01"
+    },
+    {
+      "bbox": [
+        0.5108182533438237,
+        0.13799768637155702,
+        0.7338709677419355,
+        0.15563648838897406
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Society for Risk Analysis"
+    },
+    {
+      "bbox": [
+        0.5121819920186231,
+        0.1381793687291839,
+        0.8185338377120054,
+        0.18664526671628573
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Society for Risk Analysis\n1513 Dolley Madison Blvd, Suite 402\nMcLean, VA 22101"
+    },
+    {
+      "bbox": [
+        0.13608039574326572,
+        0.24748543652988164,
+        0.41374901652242324,
+        0.28085106382978725
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "To: Betty Smich\nRJ Reynolds Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.13608039574326572,
+        0.24851662584875614,
+        0.41302793481875616,
+        0.33255855533702844
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "To: Betty Smith\nRJ Reynolds Tobacco Company\n611-12/204\nPO Box 1487\nWinston-Salem NC 27102-1487"
+    },
+    {
+      "bbox": [
+        0.7545239968528717,
+        0.5172319297460238,
+        0.7676042486231314,
+        0.5317580019956614
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7540322580645161,
+        0.5179331306990882,
+        0.8378245476003148,
+        0.5327955785849212
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,000.00"
+    },
+    {
+      "bbox": [
+        0.7556451612903226,
+        0.5187882946299136,
+        0.8371361132966167,
+        0.5322767902902913
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12741935483870967,
+        0.3884498480243161,
+        0.14516129032258066,
+        0.4072948328267477
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.31370967741935485,
+        0.3884498480243161,
+        0.6080645161290322,
+        0.4072948328267477
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2002 SRA Sustaining Membership"
+    },
+    {
+      "bbox": [
+        0.7580645161290323,
+        0.3884498480243161,
+        0.8403225806451613,
+        0.4072948328267477
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$2,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.17767269826021892,
+        0.37196997350816263,
+        0.2603258553863449,
+        0.3889999241025122
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.43514620211354665,
+        0.3696048632218845,
+        0.5427736944864158,
+        0.3889999241025122
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Description"
+    },
+    {
+      "bbox": [
+        0.7306758358666735,
+        0.37017734712981,
+        0.7824083874492128,
+        0.3863109845349833
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 272,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xxxx0065",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12741935483870967,
+          0.3696048632218845,
+          0.8475806451612903,
+          0.502127659574468
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.12741935483870967,
+            "right": 0.14516129032258066
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.31370967741935485,
+            "right": 0.6080645161290322
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7580645161290323,
+            "right": 0.8403225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3884498480243161,
+            "row_type": "header",
+            "top": 0.3696048632218845
+          },
+          {
+            "bottom": 0.4072948328267477,
+            "row_type": "data",
+            "top": 0.3884498480243161
+          },
+          {
+            "bottom": 0.502127659574468,
+            "row_type": "gap",
+            "top": 0.4072948328267477
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

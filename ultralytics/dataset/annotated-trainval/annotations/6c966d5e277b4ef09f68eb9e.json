@@ -1,0 +1,273 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8439687041069531,
+        0.1480943885688631,
+        0.9013600272911456,
+        0.16272087381683026
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "201121"
+    },
+    {
+      "bbox": [
+        0.8371081683293666,
+        0.1631225664023008,
+        0.9027079113579237,
+        0.17789420251433752
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/08/01"
+    },
+    {
+      "bbox": [
+        0.3458466264917878,
+        0.1099062089126006,
+        0.621674083434695,
+        0.14179214457888917
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PORTER & HEDGES, L.L.P.\nA REGISTERED LIMITED LIABILITY PARTNERSHIP"
+    },
+    {
+      "bbox": [
+        0.34498702053115976,
+        0.1085912898278475,
+        0.6182225388930238,
+        0.18398627862023903
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PORTER & HEDGES, L.L.P.\nA REGISTERED LIMITED LIABILITY PARTNERSHIP\nBANK LOCKBOX\nP.O. BOX 841184\nDALLAS, TEXAS 75284-1184"
+    },
+    {
+      "bbox": [
+        0.8252045786429465,
+        0.2568420302299354,
+        0.8373355352439491,
+        0.27253857715839125
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.825,
+        0.25547902316844084,
+        0.8912508979150722,
+        0.27253857715839125
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$503.89"
+    },
+    {
+      "bbox": [
+        0.8266129032258065,
+        0.25547902316844084,
+        0.8912508979150722,
+        0.2730617953893398
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$503.89"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.28991859737006886,
+        0.41451612903225804,
+        0.30807764558547274
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "BROWN & WLLIAMSON'S SHARE"
+    },
+    {
+      "bbox": [
+        0.6620967741935484,
+        0.28991859737006886,
+        0.7322580645161291,
+        0.30807764558547274
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$62.68"
+    },
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.32122730118973075,
+        0.41451612903225804,
+        0.3406386975579211
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "LORILLARD'S SHARE 10.24 %"
+    },
+    {
+      "bbox": [
+        0.6620967741935484,
+        0.32122730118973075,
+        0.7322580645161291,
+        0.3406386975579211
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$51.60"
+    },
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.35566687539135877,
+        0.41451612903225804,
+        0.3725735754539762
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "PHILIP MORRIS' SHARE"
+    },
+    {
+      "bbox": [
+        0.6620967741935484,
+        0.35566687539135877,
+        0.7322580645161291,
+        0.3725735754539762
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$267.06"
+    },
+    {
+      "bbox": [
+        0.08225806451612903,
+        0.38509705698184094,
+        0.41451612903225804,
+        0.4045084533500313
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "RJ. REYNOLDS' SHARE"
+    },
+    {
+      "bbox": [
+        0.6620967741935484,
+        0.38509705698184094,
+        0.7322580645161291,
+        0.4045084533500313
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$122.55"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 211,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pyjj0225",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1720,
+        2215
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.2567313713212273,
+          0.8975806451612903,
+          0.4045084533500313
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08225806451612903,
+            "right": 0.41451612903225804
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6620967741935484,
+            "right": 0.7322580645161291
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8225806451612904,
+            "right": 0.8975806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.27301189730745146,
+            "row_type": "footer",
+            "top": 0.2567313713212273
+          },
+          {
+            "bottom": 0.28991859737006886,
+            "row_type": "gap",
+            "top": 0.27301189730745146
+          },
+          {
+            "bottom": 0.30807764558547274,
+            "row_type": "data",
+            "top": 0.28991859737006886
+          },
+          {
+            "bottom": 0.32122730118973075,
+            "row_type": "gap",
+            "top": 0.30807764558547274
+          },
+          {
+            "bottom": 0.3406386975579211,
+            "row_type": "data",
+            "top": 0.32122730118973075
+          },
+          {
+            "bottom": 0.35566687539135877,
+            "row_type": "gap",
+            "top": 0.3406386975579211
+          },
+          {
+            "bottom": 0.3725735754539762,
+            "row_type": "data",
+            "top": 0.35566687539135877
+          },
+          {
+            "bottom": 0.38509705698184094,
+            "row_type": "gap",
+            "top": 0.3725735754539762
+          },
+          {
+            "bottom": 0.4045084533500313,
+            "row_type": "data",
+            "top": 0.38509705698184094
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

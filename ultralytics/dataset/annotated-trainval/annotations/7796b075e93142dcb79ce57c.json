@@ -1,0 +1,224 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2139990051319477,
+        0.12406368124216362,
+        0.3642713885738103,
+        0.13840399002493767
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Burt Broadcasting, Inc"
+    },
+    {
+      "bbox": [
+        0.21353520147934932,
+        0.1237051156894406,
+        0.6550762787529704,
+        0.13733060669291522
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Burt Broadcasting, Inc PO Box 1848 Alamogordo, NM 88310"
+    },
+    {
+      "bbox": [
+        0.14359360659819723,
+        0.20330666839395023,
+        0.3233870967741935,
+        0.21585646273925577
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Medial Financial Solutions"
+    },
+    {
+      "bbox": [
+        0.8633241302698841,
+        0.4281272699512814,
+        0.8739916142796458,
+        0.442469892060202
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8633241302698841,
+        0.42848583550400443,
+        0.9254738197180618,
+        0.442469892060202
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$309.40"
+    },
+    {
+      "bbox": [
+        0.8633241302698841,
+        0.4281272699512814,
+        0.9254738197180618,
+        0.442111326507479
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$309.40"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.7677419354838709,
+        0.31982543640897754,
+        0.7879032258064517,
+        0.3341645885286783
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "26"
+    },
+    {
+      "bbox": [
+        0.8024193548387096,
+        0.31982543640897754,
+        0.8451612903225807,
+        0.3341645885286783
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$14.00"
+    },
+    {
+      "bbox": [
+        0.8629032258064516,
+        0.31982543640897754,
+        0.9258064516129032,
+        0.3341645885286783
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$364.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.7594321120878555,
+        0.29208751237923175,
+        0.7946811896853295,
+        0.30607156893542936
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.8050703886726995,
+        0.29172894682650874,
+        0.8431022881857636,
+        0.30535443782998334
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.8633241302698841,
+        0.2931632090374008,
+        0.9259376233706601,
+        0.30571300338270635
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 32,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "c50284e4-e6fb-4894-a78e-9a527a05c6d7",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07338709677419354,
+          0.286783042394015,
+          0.942741935483871,
+          0.422069825436409
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.7677419354838709,
+            "right": 0.7879032258064517
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.8024193548387096,
+            "right": 0.8451612903225807
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8629032258064516,
+            "right": 0.9258064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.31296758104738154,
+            "row_type": "header",
+            "top": 0.286783042394015
+          },
+          {
+            "bottom": 0.31982543640897754,
+            "row_type": "gap",
+            "top": 0.31296758104738154
+          },
+          {
+            "bottom": 0.3341645885286783,
+            "row_type": "data",
+            "top": 0.31982543640897754
+          },
+          {
+            "bottom": 0.3734413965087282,
+            "row_type": "gap",
+            "top": 0.3341645885286783
+          },
+          {
+            "bottom": 0.38902743142144636,
+            "row_type": "gap-with-text",
+            "top": 0.3734413965087282
+          },
+          {
+            "bottom": 0.422069825436409,
+            "row_type": "gap",
+            "top": 0.38902743142144636
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

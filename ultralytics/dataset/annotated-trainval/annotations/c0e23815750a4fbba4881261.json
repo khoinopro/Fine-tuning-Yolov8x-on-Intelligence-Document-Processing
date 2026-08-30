@@ -1,0 +1,251 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.05369338308222736,
+        0.36985838333732735,
+        0.23611321022056395,
+        0.3876500857632933
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 3, 2001"
+    },
+    {
+      "bbox": [
+        0.3586442639210315,
+        0.07514273223476044,
+        0.5954458508477779,
+        0.09661208430183484
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "OTIS & MEEHAN"
+    },
+    {
+      "bbox": [
+        0.3290440655551882,
+        0.07613496553434092,
+        0.6236692958012563,
+        0.13125581150097765
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "OTIS & MEEHAN\nPO BOX 1575\nMONTPELIER VT 05601-1575"
+    },
+    {
+      "bbox": [
+        0.051628252963680156,
+        0.2415302107545871,
+        0.4522634959618382,
+        0.2893483130857983
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "RJ REYNOLDS TOBACCO CO\nMR DAVID POWERS REGIONAL DIRECTOR\nSTATE GOVERNMENTAL RELATIONS"
+    },
+    {
+      "bbox": [
+        0.053005006376044966,
+        0.24101323484437856,
+        0.4507802478020087,
+        0.32204028100611615
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "RJ REYNOLDS TOBACCO CO\nMR DAVID POWERS REGIONAL DIRECTOR\nSTATE GOVERNMENTAL RELATIONS\n401 NORTH MAIN STREET\nWINSTON-SALEM NC 27102"
+    },
+    {
+      "bbox": [
+        0.8074658763519577,
+        0.7948539663014594,
+        0.8205450337694233,
+        0.8094921608926465
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8184799036508761,
+        0.649447900029001,
+        0.8790570537949275,
+        0.6640860946201881
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "45.00"
+    },
+    {
+      "bbox": [
+        0.8064516129032258,
+        0.6982418819996246,
+        0.8797454305011099,
+        0.7135506003430532
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$45.00"
+    },
+    {
+      "bbox": [
+        0.7709819109242904,
+        0.7626499382008478,
+        0.8804338072072923,
+        0.7782640124314474
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "$1,007.36"
+    },
+    {
+      "bbox": [
+        0.8064516129032258,
+        0.7948539663014594,
+        0.8797454305011099,
+        0.8099801007123527
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$45.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07016129032258064,
+        0.5523156089193825,
+        0.16693548387096774,
+        0.6180674671240709
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "12/30/00"
+    },
+    {
+      "bbox": [
+        0.18951612903225806,
+        0.5523156089193825,
+        0.7370967741935484,
+        0.6180674671240709
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Prepare Lobbyist and Lobbyist Employer\nDisclosure Reports for reporting period\n7/1/00-12/31/00 and Annual Report, forward for\nsignature, submit to Secretary of State"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.5523156089193825,
+        0.8790322580645161,
+        0.6180674671240709
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "45.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.18951612903225806,
+        0.5180334065533626,
+        0.3727179100170674,
+        0.5357347055460263
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Direct Lobbying"
+    },
+    {
+      "bbox": [
+        0.8056151520341484,
+        0.4876848261857124,
+        0.8793503965535413,
+        0.5032806244301993
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1092,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "khjc0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1664,
+        2347
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07016129032258064,
+          0.4888507718696398,
+          0.8903225806451613,
+          0.8216123499142367
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.07016129032258064,
+            "right": 0.16693548387096774
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.18951612903225806,
+            "right": 0.7370967741935484
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8209677419354838,
+            "right": 0.8790322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5357347055460263,
+            "row_type": "header",
+            "top": 0.4888507718696398
+          },
+          {
+            "bottom": 0.5523156089193825,
+            "row_type": "gap",
+            "top": 0.5357347055460263
+          },
+          {
+            "bottom": 0.6180674671240709,
+            "row_type": "data",
+            "top": 0.5523156089193825
+          },
+          {
+            "bottom": 0.6415094339622641,
+            "row_type": "gap",
+            "top": 0.6180674671240709
+          },
+          {
+            "bottom": 0.8216123499142367,
+            "row_type": "footer",
+            "top": 0.6415094339622641
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

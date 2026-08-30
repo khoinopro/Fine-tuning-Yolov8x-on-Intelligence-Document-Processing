@@ -1,0 +1,236 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7283634933123524,
+        0.4420076270246864,
+        0.7772423288749016,
+        0.4595744680851064
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2487"
+    },
+    {
+      "bbox": [
+        0.6519472856018882,
+        0.4595744680851064,
+        0.7779307631785995,
+        0.47624765447026063
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "Sept. 12, 1999"
+    },
+    {
+      "bbox": [
+        0.6547010228166797,
+        0.5089313170319452,
+        0.7001376868607395,
+        0.5252279635258359
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "1258"
+    },
+    {
+      "bbox": [
+        0.1845003933910307,
+        0.27599537274311403,
+        0.7552124311565697,
+        0.29674690452831054
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "270 Bronxville Road \u2022 Suite B72 \u2022 Bronxville, NY 10708"
+    },
+    {
+      "bbox": [
+        0.12445543731293648,
+        0.4423802177971634,
+        0.31186073957513766,
+        0.47416413373860183
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.12445543731293648,
+        0.4423802177971634,
+        0.3304484657749803,
+        0.5244949658708425
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco CO.\n714 Green Valley Road\nP.0. Box 10529\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.6078874901652243,
+        0.7403108964368866,
+        0.6223446105428797,
+        0.7569121218650439
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6078874901652243,
+        0.7413484730261465,
+        0.7241935483870968,
+        0.7574309101596739
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 37,000.00"
+    },
+    {
+      "bbox": [
+        0.6078874901652243,
+        0.7418672613207763,
+        0.7258064516129032,
+        0.7574309101596739
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 37,000.00"
+    },
+    {
+      "bbox": [
+        0.12950790885578578,
+        0.7896519196643164,
+        0.45476889409313054,
+        0.8084744966370185
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due within 5 business of date above."
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.18225806451612903,
+        0.643161094224924,
+        0.3814516129032258,
+        0.6589665653495441
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Estimated cost of study"
+    },
+    {
+      "bbox": [
+        0.6080645161290322,
+        0.643161094224924,
+        0.6193548387096774,
+        0.6589665653495441
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6266129032258064,
+        0.643161094224924,
+        0.7161290322580646,
+        0.6589665653495441
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "74,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 704,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ljkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.18225806451612903,
+          0.643161094224924,
+          0.7862903225806451,
+          0.7604863221884498
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.18225806451612903,
+            "right": 0.3814516129032258
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.6080645161290322,
+            "right": 0.6193548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6266129032258064,
+            "right": 0.7161290322580646
+          },
+          {
+            "column_type": "",
+            "left": 0.7161290322580646,
+            "right": 0.7862903225806451
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6589665653495441,
+            "row_type": "data",
+            "top": 0.643161094224924
+          },
+          {
+            "bottom": 0.6778115501519757,
+            "row_type": "up-merge",
+            "top": 0.6589665653495441
+          },
+          {
+            "bottom": 0.6917933130699088,
+            "row_type": "gap",
+            "top": 0.6778115501519757
+          },
+          {
+            "bottom": 0.7094224924012158,
+            "row_type": "gap-with-text",
+            "top": 0.6917933130699088
+          },
+          {
+            "bottom": 0.723404255319149,
+            "row_type": "gap",
+            "top": 0.7094224924012158
+          },
+          {
+            "bottom": 0.7604863221884498,
+            "row_type": "footer",
+            "top": 0.723404255319149
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

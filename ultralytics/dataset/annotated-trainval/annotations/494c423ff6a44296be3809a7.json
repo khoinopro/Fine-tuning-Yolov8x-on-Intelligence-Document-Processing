@@ -1,0 +1,298 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5855844387300456,
+        0.13892486634419554,
+        0.6354864169870408,
+        0.15391977469450102
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "4007"
+    },
+    {
+      "bbox": [
+        0.4766148127402806,
+        0.172466108706721,
+        0.580492400132393,
+        0.18899070850317026
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "June 27, 2001"
+    },
+    {
+      "bbox": [
+        0.5151147416275742,
+        0.20403433681262728,
+        0.5540137994245997,
+        0.21875520125679349
+      ],
+      "fieldtype": "order_id",
+      "page": 1,
+      "text": "1305"
+    },
+    {
+      "bbox": [
+        0.7944142901228964,
+        0.09357454772301933,
+        0.903537132172745,
+        0.13333182101741053
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "505 Morris Avenue\nSpringfield, New Jersey\n07081"
+    },
+    {
+      "bbox": [
+        0.5913372367894679,
+        0.1582409090909091,
+        0.6808015419863985,
+        0.17120454545454547
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 1,
+      "text": "22-2605669"
+    },
+    {
+      "bbox": [
+        0.8304301287019273,
+        0.22213949659053228,
+        0.9286968453417017,
+        0.23198610548195658
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "staff@stimedinfo.com"
+    },
+    {
+      "bbox": [
+        0.14877458952638203,
+        0.25027982271634613,
+        0.27322481650662556,
+        0.2638686236213235
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 1,
+      "text": "GlaxoSmithKline"
+    },
+    {
+      "bbox": [
+        0.14707754097665143,
+        0.2506958715466486,
+        0.3571752005940845,
+        0.3116486009968891
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 1,
+      "text": "GlaxoSmithKline\nThree Franklin Plaza 3F0720\nPO Box 13619\nPhiladelphia, PA 19101"
+    },
+    {
+      "bbox": [
+        0.6310192190748256,
+        0.6991486009968891,
+        0.6440299246227602,
+        0.7136140987344457
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 1,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6327162676245563,
+        0.6991486009968891,
+        0.7175686951110859,
+        0.7140524471507352
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$13,286.81"
+    },
+    {
+      "bbox": [
+        0.632150584774646,
+        0.6991486009968891,
+        0.7164373294112655,
+        0.713175750318156
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$13,286.81"
+    },
+    {
+      "bbox": [
+        0.19516058321901825,
+        0.776736270680147,
+        0.24776908826066663,
+        0.7894483747525451
+      ],
+      "fieldtype": "payment_terms",
+      "page": 1,
+      "text": "30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14516129032258066,
+        0.52875,
+        0.41935483870967744,
+        0.544375
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "Base Project Price"
+    },
+    {
+      "bbox": [
+        0.6290322580645161,
+        0.52875,
+        0.7209677419354839,
+        0.544375
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 1,
+      "text": "$10,000.00"
+    },
+    {
+      "bbox": [
+        0.14516129032258066,
+        0.575625,
+        0.41935483870967744,
+        0.59
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "Reconciliation of Variable Costs"
+    },
+    {
+      "bbox": [
+        0.6290322580645161,
+        0.575625,
+        0.7209677419354839,
+        0.59
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 1,
+      "text": "$13,286.81"
+    },
+    {
+      "bbox": [
+        0.14516129032258066,
+        0.6375,
+        0.41935483870967744,
+        0.65125
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "Revised price based on reconciliation"
+    },
+    {
+      "bbox": [
+        0.6290322580645161,
+        0.6375,
+        0.7209677419354839,
+        0.65125
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 1,
+      "text": "$23,286.81"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 597,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lthk0228",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1705,
+        2204
+      ],
+      [
+        1712,
+        2210
+      ]
+    ],
+    "page_to_table_grid": {
+      "1": {
+        "bbox": [
+          0.14516129032258066,
+          0.52875,
+          0.7209677419354839,
+          0.715625
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14516129032258066,
+            "right": 0.41935483870967744
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6290322580645161,
+            "right": 0.7209677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.544375,
+            "row_type": "data",
+            "top": 0.52875
+          },
+          {
+            "bottom": 0.575625,
+            "row_type": "gap",
+            "top": 0.544375
+          },
+          {
+            "bottom": 0.59,
+            "row_type": "data",
+            "top": 0.575625
+          },
+          {
+            "bottom": 0.604375,
+            "row_type": "gap-with-text",
+            "top": 0.59
+          },
+          {
+            "bottom": 0.6375,
+            "row_type": "gap",
+            "top": 0.604375
+          },
+          {
+            "bottom": 0.65125,
+            "row_type": "data",
+            "top": 0.6375
+          },
+          {
+            "bottom": 0.698125,
+            "row_type": "gap",
+            "top": 0.65125
+          },
+          {
+            "bottom": 0.715625,
+            "row_type": "footer",
+            "top": 0.698125
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

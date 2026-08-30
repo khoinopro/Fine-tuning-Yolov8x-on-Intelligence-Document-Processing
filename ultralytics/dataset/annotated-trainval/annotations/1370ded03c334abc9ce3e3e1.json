@@ -1,0 +1,205 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.13266129032258064,
+        0.2447400623692417,
+        0.24120234604105575,
+        0.2587252087903413
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "April 17, 2000"
+    },
+    {
+      "bbox": [
+        0.061228287841191074,
+        0.12936260439517064,
+        0.22635912474622155,
+        0.15103958134787487
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "9601 Baltimore Blvd., Suite 203\nCollege Park, Maryland 20740"
+    },
+    {
+      "bbox": [
+        0.1308058876607264,
+        0.2755073844956607,
+        0.29593672456575687,
+        0.3048761919799697
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. William Adams\nThe Tobacco Institute"
+    },
+    {
+      "bbox": [
+        0.13451669298443492,
+        0.27466972093537295,
+        0.3070691405368825,
+        0.33774128606955356
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. William Adams\nThe Tobacco Institute\n1200 19th Street, NW\nWashington, DC 20006"
+    },
+    {
+      "bbox": [
+        0.7328840514324385,
+        0.6812164907076139,
+        0.7449441687344913,
+        0.6952016371287134
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7301009474396571,
+        0.6812164907076139,
+        0.8126663658921723,
+        0.6959008944497684
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,192.50"
+    },
+    {
+      "bbox": [
+        0.7301009474396571,
+        0.6812164907076139,
+        0.8126663658921723,
+        0.6959008944497684
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,192.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13548387096774195,
+        0.5884498480243161,
+        0.26436126694717155,
+        0.6023823653812869
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Professional Fees"
+    },
+    {
+      "bbox": [
+        0.7306451612903225,
+        0.5884498480243161,
+        0.8169354838709677,
+        0.6042553191489362
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$6,975.00"
+    },
+    {
+      "bbox": [
+        0.13548387096774195,
+        0.6474164133738601,
+        0.2854838709677419,
+        0.6656534954407295
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Mileage and Parking"
+    },
+    {
+      "bbox": [
+        0.7306451612903225,
+        0.6474164133738601,
+        0.8169354838709677,
+        0.6656534954407295
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$217.50"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 791,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lpcj0062",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13548387096774195,
+          0.5884498480243161,
+          0.8169354838709677,
+          0.7009118541033434
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.13548387096774195,
+            "right": 0.2854838709677419
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7306451612903225,
+            "right": 0.8169354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6042553191489362,
+            "row_type": "data",
+            "top": 0.5884498480243161
+          },
+          {
+            "bottom": 0.6340425531914894,
+            "row_type": "gap-with-text",
+            "top": 0.6042553191489362
+          },
+          {
+            "bottom": 0.6474164133738601,
+            "row_type": "subsection-header",
+            "top": 0.6340425531914894
+          },
+          {
+            "bottom": 0.6656534954407295,
+            "row_type": "data",
+            "top": 0.6474164133738601
+          },
+          {
+            "bottom": 0.678419452887538,
+            "row_type": "gap-with-text",
+            "top": 0.6656534954407295
+          },
+          {
+            "bottom": 0.7009118541033434,
+            "row_type": "footer",
+            "top": 0.678419452887538
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

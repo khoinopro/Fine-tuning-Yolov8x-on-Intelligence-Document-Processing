@@ -1,0 +1,294 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.646774193548387,
+        0.3209726443768997,
+        0.7289461525537635,
+        0.3369319973798491
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0200-154"
+    },
+    {
+      "bbox": [
+        0.6503067278780069,
+        0.2917933130699088,
+        0.8032258064516129,
+        0.3085678241310353
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 15, 2000"
+    },
+    {
+      "bbox": [
+        0.653236425954745,
+        0.3511569822418811,
+        0.7942164110500287,
+        0.3650184421666119
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "\"Alaska YSP Poll\""
+    },
+    {
+      "bbox": [
+        0.3403078364025607,
+        0.1134566929952553,
+        0.6297920953538965,
+        0.13236614182779785
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "DITTMAN RESEARCH CORPORATION"
+    },
+    {
+      "bbox": [
+        0.3441312412427254,
+        0.1155121635214578,
+        0.6304694718399786,
+        0.16846599868992454
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DITTMAN RESEARCH CORPORATION\nDRC BUILDING\n8115 JEWEL LAKE ROAD\nANCHORAGE, ALASKA 99502"
+    },
+    {
+      "bbox": [
+        0.20582302318894802,
+        0.2913774161014511,
+        0.3984326285542069,
+        0.30684878332807686
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Phillip Morris Companies"
+    },
+    {
+      "bbox": [
+        0.20696272499584306,
+        0.2924107949418316,
+        0.400172974448304,
+        0.3656785116868371
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Phillip Morris Companies\n120 Park Avenue\nNew York, NY 10017\nJon Richter, Manager"
+    },
+    {
+      "bbox": [
+        0.7175491344848133,
+        0.743485147279514,
+        0.7323652579744485,
+        0.7598160349076188
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.717741935483871,
+        0.7452041880824724,
+        0.806445875422625,
+        0.7623100303951368
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$24.500.00"
+    },
+    {
+      "bbox": [
+        0.7164094326779182,
+        0.743485147279514,
+        0.8087252790364151,
+        0.760675555309098
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$24,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.12419354838709677,
+        0.5835866261398176,
+        0.23387096774193547,
+        0.6030395136778115
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Sample size:"
+    },
+    {
+      "bbox": [
+        0.12419354838709677,
+        0.6127659574468085,
+        0.23387096774193547,
+        0.643161094224924
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Number of\nQuestions:"
+    },
+    {
+      "bbox": [
+        0.12419354838709677,
+        0.6534954407294833,
+        0.23387096774193547,
+        0.6759878419452887
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Qualifiers:"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.12419354838709677,
+        0.4312454265950876,
+        0.4982460075580666,
+        0.4464270255602689
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION OF SERVICES PROVIDED"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 248,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ylhp0076",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.12419354838709677,
+          0.4231003039513678,
+          0.864516129032258,
+          0.7884498480243161
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.12419354838709677,
+            "right": 0.23387096774193547
+          },
+          {
+            "column_type": "",
+            "left": 0.25806451612903225,
+            "right": 0.40161290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.451063829787234,
+            "row_type": "header",
+            "top": 0.4231003039513678
+          },
+          {
+            "bottom": 0.4644376899696049,
+            "row_type": "gap",
+            "top": 0.451063829787234
+          },
+          {
+            "bottom": 0.48145896656534953,
+            "row_type": "subsection-header",
+            "top": 0.4644376899696049
+          },
+          {
+            "bottom": 0.5100303951367782,
+            "row_type": "gap",
+            "top": 0.48145896656534953
+          },
+          {
+            "bottom": 0.5288753799392097,
+            "row_type": "gap-with-text",
+            "top": 0.5100303951367782
+          },
+          {
+            "bottom": 0.5398176291793313,
+            "row_type": "gap",
+            "top": 0.5288753799392097
+          },
+          {
+            "bottom": 0.5574468085106383,
+            "row_type": "gap-with-text",
+            "top": 0.5398176291793313
+          },
+          {
+            "bottom": 0.5835866261398176,
+            "row_type": "gap",
+            "top": 0.5574468085106383
+          },
+          {
+            "bottom": 0.6030395136778115,
+            "row_type": "data",
+            "top": 0.5835866261398176
+          },
+          {
+            "bottom": 0.6127659574468085,
+            "row_type": "gap",
+            "top": 0.6030395136778115
+          },
+          {
+            "bottom": 0.643161094224924,
+            "row_type": "data",
+            "top": 0.6127659574468085
+          },
+          {
+            "bottom": 0.6534954407294833,
+            "row_type": "gap",
+            "top": 0.643161094224924
+          },
+          {
+            "bottom": 0.6759878419452887,
+            "row_type": "data",
+            "top": 0.6534954407294833
+          },
+          {
+            "bottom": 0.7021276595744681,
+            "row_type": "gap",
+            "top": 0.6759878419452887
+          },
+          {
+            "bottom": 0.7221884498480243,
+            "row_type": "gap-with-text",
+            "top": 0.7021276595744681
+          },
+          {
+            "bottom": 0.7434650455927052,
+            "row_type": "gap",
+            "top": 0.7221884498480243
+          },
+          {
+            "bottom": 0.7884498480243161,
+            "row_type": "footer",
+            "top": 0.7434650455927052
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7056451612903226,
+        0.22083593262632564,
+        0.7236370768289764,
+        0.2333843659343422
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.6540322580645161,
+        0.2030961280592403,
+        0.7993045767624923,
+        0.21958972282491818
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 10, 2003"
+    },
+    {
+      "bbox": [
+        0.38064516129032255,
+        0.05360418298845315,
+        0.7209677419354839,
+        0.07174713723069884
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE UNIVERSITY OF CHICAGO"
+    },
+    {
+      "bbox": [
+        0.3850866188769414,
+        0.055026783740814295,
+        0.7134020310633213,
+        0.13029939864885537
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE UNIVERSITY OF CHICAGO\nOFFICE OF THE COMPTROLLER\nRestricted Funds Section\n1225 East 60th Street\nChicago, IL 60637-2801"
+    },
+    {
+      "bbox": [
+        0.4422818658085791,
+        0.6458741814227462,
+        0.6437066191527271,
+        0.6623677761884241
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The University of Chicago"
+    },
+    {
+      "bbox": [
+        0.22913397867191446,
+        0.6444482941953058,
+        0.8652479091995221,
+        0.6920562467666443
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Please make check payable to The University of Chicago and mail to: The University of\nChicago, Office of the Comptroller, Restricted Funds Section, 1225 East 60th Street,\nChicago, Illinois 60637-2801"
+    },
+    {
+      "bbox": [
+        0.2270024998005478,
+        0.20212102308172178,
+        0.4007180278169295,
+        0.25077978789769184
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Tapas K. Sengupt\nAttn: Research Center\nPhilip Morris USA, Inc"
+    },
+    {
+      "bbox": [
+        0.2270024998005478,
+        0.20317581688916048,
+        0.4220328165305959,
+        0.281515674010011
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Tapas K. Sengupt\nAttn: Research Center\nPhilip Morris USA, Inc\n615 Maury Street\nRichmond, Virginia 23224"
+    },
+    {
+      "bbox": [
+        0.7168284398848593,
+        0.4725742303308446,
+        0.7264561726474339,
+        0.487476236529817
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$\u0303"
+    },
+    {
+      "bbox": [
+        0.7137096774193549,
+        0.47161572052401746,
+        0.8003703161981756,
+        0.4873107521525534
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$77,407.20"
+    },
+    {
+      "bbox": [
+        0.7159531914518981,
+        0.4725742303308446,
+        0.7982388373268089,
+        0.48656104558749785
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$77,407.20"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2306451612903226,
+        0.3624454148471616,
+        0.5838709677419355,
+        0.4067373674360574
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "To invoice amount upon the Research Agreement\nunder the direction of Dr. Aaron P. Fox for\nthe second quarter."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3352201231137235,
+        0.32751091703056767,
+        0.462131145893115,
+        0.3445524601390624
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7064516129032258,
+        0.32751091703056767,
+        0.7920998051195329,
+        0.3459824529297372
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 189,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rxdj0179",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2306451612903226,
+          0.32751091703056767,
+          0.8024193548387096,
+          0.4897067997504679
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2306451612903226,
+            "right": 0.5838709677419355
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7064516129032258,
+            "right": 0.8024193548387096
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.34747348721147847,
+            "row_type": "header",
+            "top": 0.32751091703056767
+          },
+          {
+            "bottom": 0.3624454148471616,
+            "row_type": "gap",
+            "top": 0.34747348721147847
+          },
+          {
+            "bottom": 0.4067373674360574,
+            "row_type": "data",
+            "top": 0.3624454148471616
+          },
+          {
+            "bottom": 0.44042420461634435,
+            "row_type": "gap",
+            "top": 0.4067373674360574
+          },
+          {
+            "bottom": 0.4897067997504679,
+            "row_type": "footer",
+            "top": 0.44042420461634435
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

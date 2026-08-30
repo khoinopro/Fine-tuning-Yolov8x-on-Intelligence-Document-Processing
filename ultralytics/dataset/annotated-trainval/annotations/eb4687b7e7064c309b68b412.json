@@ -1,0 +1,255 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.11818314412815713,
+        0.05572688482098285,
+        0.15402557308505724,
+        0.06852900700958701
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2722"
+    },
+    {
+      "bbox": [
+        0.8202873523520067,
+        0.05782178696609187,
+        0.9131890239690544,
+        0.07281262062396754
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 7, 2001"
+    },
+    {
+      "bbox": [
+        0.16048387096774194,
+        0.33877038895859474,
+        0.2057599986184983,
+        0.35014304329466744
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "8/15"
+    },
+    {
+      "bbox": [
+        0.4108318367065,
+        0.056461731493099125,
+        0.5870009325136424,
+        0.07174184679126214
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A."
+    },
+    {
+      "bbox": [
+        0.06812789251916834,
+        0.06745875146044052,
+        0.16171772466671272,
+        0.09786700125470514
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "PM USA 12/86\nCOMP A50 (4)"
+    },
+    {
+      "bbox": [
+        0.13487946397734338,
+        0.13759443750264455,
+        0.35371451267527804,
+        0.15432873274780426
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Fairfield City Schools"
+    },
+    {
+      "bbox": [
+        0.13419130344684674,
+        0.13781108003026837,
+        0.35551814668060383,
+        0.18149616464356616
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Fairfield City Schools\n211 Donald Drive\nFairfield, OH 45014"
+    },
+    {
+      "bbox": [
+        0.27741935483870966,
+        0.22208281053952322,
+        0.38548387096774195,
+        0.2371392722710163
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 0,
+      "text": "31-6000798"
+    },
+    {
+      "bbox": [
+        0.22158769081992127,
+        0.2671580712599985,
+        0.23259825930786765,
+        0.2794719703361107
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.26662268434364583,
+        0.31380120190647237,
+        0.2805427441688161
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$30,526.56"
+    },
+    {
+      "bbox": [
+        0.22096774193548388,
+        0.2671580712599985,
+        0.3131130413759757,
+        0.2823086574654956
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$30,526.56"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.5967741935483871,
+        0.5175658720200753,
+        0.6911290322580645,
+        0.5382685069008782
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "GRANT2001"
+    },
+    {
+      "bbox": [
+        0.8774193548387097,
+        0.5175658720200753,
+        0.9637096774193549,
+        0.5382685069008782
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "30,526.56"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.5163247198385882,
+        0.47499638649776926,
+        0.6432262926319372,
+        0.5088843569970156
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "YOUR REFERENCE\nNUMBER"
+    },
+    {
+      "bbox": [
+        0.7924082942363323,
+        0.476502518519958,
+        0.8834674380727813,
+        0.5088843569970156
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "NET AMOUNT\nPAYABLE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 740,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nkpc0178",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1727,
+        2220
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13629032258064516,
+          0.4749058971141782,
+          0.9637096774193549,
+          0.7239648682559598
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.13629032258064516,
+            "right": 0.2
+          },
+          {
+            "column_type": "line_item_order_id",
+            "left": 0.5967741935483871,
+            "right": 0.6911290322580645
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8774193548387097,
+            "right": 0.9637096774193549
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5081555834378921,
+            "row_type": "header",
+            "top": 0.4749058971141782
+          },
+          {
+            "bottom": 0.5175658720200753,
+            "row_type": "gap",
+            "top": 0.5081555834378921
+          },
+          {
+            "bottom": 0.5382685069008782,
+            "row_type": "data",
+            "top": 0.5175658720200753
+          },
+          {
+            "bottom": 0.6148055207026348,
+            "row_type": "gap",
+            "top": 0.5382685069008782
+          },
+          {
+            "bottom": 0.6994981179422836,
+            "row_type": "gap-with-text",
+            "top": 0.6148055207026348
+          },
+          {
+            "bottom": 0.7239648682559598,
+            "row_type": "footer",
+            "top": 0.6994981179422836
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

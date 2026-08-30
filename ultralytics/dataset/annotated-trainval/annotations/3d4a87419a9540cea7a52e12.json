@@ -1,0 +1,247 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7861946535310168,
+        0.1551163345754652,
+        0.8331409603041238,
+        0.16748835010468022
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "51782"
+    },
+    {
+      "bbox": [
+        0.7830672708740807,
+        0.18714259527002536,
+        0.8565797085479738,
+        0.19996058124742433
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "2/10/2003"
+    },
+    {
+      "bbox": [
+        0.782001873226633,
+        0.21969251354701969,
+        0.8331409603041238,
+        0.23336503192291197
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "61655"
+    },
+    {
+      "bbox": [
+        0.32281548717666186,
+        0.3173422602285467,
+        0.46451337428720973,
+        0.33326763541237386
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "Verbal-Teen H.l.P."
+    },
+    {
+      "bbox": [
+        0.15241935483870966,
+        0.041872087526170054,
+        0.4847559295887166,
+        0.059817267894528646
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "DOOT-RUSSELL, INC."
+    },
+    {
+      "bbox": [
+        0.15645161290322582,
+        0.0400227438128782,
+        0.4822063348896435,
+        0.07348978627042091
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DOOT-RUSSELL, INC.\n11 EAST HUBBARD CHICAGO,IL 60611"
+    },
+    {
+      "bbox": [
+        0.7574977273353352,
+        0.05127194390959599,
+        0.9077187956254649,
+        0.06408992988699498
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "dootrussell@aol.com"
+    },
+    {
+      "bbox": [
+        0.09801658356519104,
+        0.17774273888659942,
+        0.23651827773339582,
+        0.19226978966098493
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Weber Shandwick"
+    },
+    {
+      "bbox": [
+        0.09588578827029559,
+        0.17873170524655196,
+        0.27274179774661855,
+        0.23841453917962135
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Weber Shandwick\n676 St. Clair Suite 1000\nChicago, IL 60611\nAttn: Ms. Sara Spritts"
+    },
+    {
+      "bbox": [
+        0.8194634707353179,
+        0.854660617575473,
+        0.8288793697143331,
+        0.8706131397961381
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8160945979449602,
+        0.854377024224766,
+        0.8911290322580645,
+        0.8706131397961381
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$480.00"
+    },
+    {
+      "bbox": [
+        0.8160945979449602,
+        0.8535224918262727,
+        0.8919354838709678,
+        0.8689040749991515
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$480.00"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.8569406214202457,
+        0.17898680477121842,
+        0.8723222045931246
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Net 30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06774193548387097,
+        0.3878474466709761,
+        0.6282258064516129,
+        0.42016806722689076
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Layouts, designs and revisions for camera-ready art for Teen H.I.P. for use\nas sticker art, as quoted"
+    },
+    {
+      "bbox": [
+        0.8032258064516129,
+        0.3878474466709761,
+        0.8540322580645161,
+        0.42016806722689076
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "480.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 483,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yjhd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06774193548387097,
+          0.367808661926309,
+          0.8935483870967742,
+          0.8868778280542986
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06774193548387097,
+            "right": 0.6282258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8032258064516129,
+            "right": 0.8540322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3878474466709761,
+            "row_type": "gap",
+            "top": 0.367808661926309
+          },
+          {
+            "bottom": 0.42016806722689076,
+            "row_type": "data",
+            "top": 0.3878474466709761
+          },
+          {
+            "bottom": 0.5384615384615384,
+            "row_type": "gap",
+            "top": 0.42016806722689076
+          },
+          {
+            "bottom": 0.8118939883645766,
+            "row_type": "gap-with-text",
+            "top": 0.5384615384615384
+          },
+          {
+            "bottom": 0.8390433096315449,
+            "row_type": "gap",
+            "top": 0.8118939883645766
+          },
+          {
+            "bottom": 0.8868778280542986,
+            "row_type": "footer",
+            "top": 0.8390433096315449
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

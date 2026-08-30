@@ -1,0 +1,398 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.776486013986014,
+        0.24963486361662654,
+        0.7968954432664112,
+        0.2622214953956161
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "01"
+    },
+    {
+      "bbox": [
+        0.6382669749605233,
+        0.265857631331138,
+        0.702269907511843,
+        0.2810021936378862
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/12/01"
+    },
+    {
+      "bbox": [
+        0.055444958267538924,
+        0.09160270905820189,
+        0.5779579291676066,
+        0.10577507598784194
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE RESEARCH FOUNDATION OF STATE UNIVERSITY OF NEW YORK"
+    },
+    {
+      "bbox": [
+        0.05691735856413498,
+        0.09240973031357315,
+        0.5788059990410859,
+        0.12167077386356587
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE RESEARCH FOUNDATION OF STATE UNIVERSITY OF NEW YORK\nP.O.B0X 9 ALBANY, NEW YORK 2201-0009"
+    },
+    {
+      "bbox": [
+        0.278457335142438,
+        0.8202464038957576,
+        0.6760033800695113,
+        0.8341078638204884
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Research Foundation of State University of New York"
+    },
+    {
+      "bbox": [
+        0.3571650124069479,
+        0.835258358662614,
+        0.6580645161290323,
+        0.8483389904397532
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P.O. Box 9, Albany, New York 12201-0009"
+    },
+    {
+      "bbox": [
+        0.13709677419354838,
+        0.14894180938470997,
+        0.29315362057297545,
+        0.1641337386018237
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS INC."
+    },
+    {
+      "bbox": [
+        0.14008290096999773,
+        0.1504958480933974,
+        0.33274776418534224,
+        0.2209653134533725
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS INC.\nDBA PHILIP MORRIS USA\n2000 BELLS ROAD\nGATE S, DOOR 100\nRICHMOND, VA. 23234"
+    },
+    {
+      "bbox": [
+        0.7785895556056847,
+        0.7595333106657712,
+        0.8599791337694563,
+        0.7748019240854673
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "145,658.90"
+    },
+    {
+      "bbox": [
+        0.7785895556056847,
+        0.7595333106657712,
+        0.8599791337694563,
+        0.7727041521223024
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "145,658.90"
+    },
+    {
+      "bbox": [
+        0.32013873223550654,
+        0.7889021181500803,
+        0.4035500789533048,
+        0.8055308998426671
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.055645161290322584,
+        0.470516717325228,
+        0.3435483870967742,
+        0.48632218844984804
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SALARIES"
+    },
+    {
+      "bbox": [
+        0.785483870967742,
+        0.470516717325228,
+        0.8709677419354839,
+        0.48632218844984804
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "37,933.65"
+    },
+    {
+      "bbox": [
+        0.055645161290322584,
+        0.48632218844984804,
+        0.3435483870967742,
+        0.5003039513677812
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "FRINGE BENEFITS"
+    },
+    {
+      "bbox": [
+        0.785483870967742,
+        0.48632218844984804,
+        0.8709677419354839,
+        0.5003039513677812
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "11,432.70"
+    },
+    {
+      "bbox": [
+        0.055645161290322584,
+        0.5003039513677812,
+        0.3435483870967742,
+        0.5142857142857142
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "SUPPLIES"
+    },
+    {
+      "bbox": [
+        0.785483870967742,
+        0.5003039513677812,
+        0.8709677419354839,
+        0.5142857142857142
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "5,850.00"
+    },
+    {
+      "bbox": [
+        0.055645161290322584,
+        0.5142857142857142,
+        0.3435483870967742,
+        0.5294832826747721
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "MISCELLANEOUS"
+    },
+    {
+      "bbox": [
+        0.785483870967742,
+        0.5142857142857142,
+        0.8709677419354839,
+        0.5294832826747721
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "900.00"
+    },
+    {
+      "bbox": [
+        0.055645161290322584,
+        0.5294832826747721,
+        0.3435483870967742,
+        0.5440729483282675
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "INDIRECT COSTS"
+    },
+    {
+      "bbox": [
+        0.785483870967742,
+        0.5294832826747721,
+        0.8709677419354839,
+        0.5440729483282675
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "42,092.55"
+    },
+    {
+      "bbox": [
+        0.055645161290322584,
+        0.5562310030395137,
+        0.3435483870967742,
+        0.5720364741641337
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "ACTUAL EQUIPMENT EXPENDITURES"
+    },
+    {
+      "bbox": [
+        0.785483870967742,
+        0.5562310030395137,
+        0.8709677419354839,
+        0.5720364741641337
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "47,450.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3318721121040051,
+        0.29703130424509705,
+        0.442204274352488,
+        0.31023269464960257
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 779,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "shyk0054",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.055645161290322584,
+          0.2966565349544073,
+          0.8709677419354839,
+          0.7775075987841945
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.055645161290322584,
+            "right": 0.3435483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.785483870967742,
+            "right": 0.8709677419354839
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.30942249240121583,
+            "row_type": "header",
+            "top": 0.2966565349544073
+          },
+          {
+            "bottom": 0.34103343465045594,
+            "row_type": "gap",
+            "top": 0.30942249240121583
+          },
+          {
+            "bottom": 0.45775075987841946,
+            "row_type": "gap-with-text",
+            "top": 0.34103343465045594
+          },
+          {
+            "bottom": 0.470516717325228,
+            "row_type": "gap",
+            "top": 0.45775075987841946
+          },
+          {
+            "bottom": 0.48632218844984804,
+            "row_type": "data",
+            "top": 0.470516717325228
+          },
+          {
+            "bottom": 0.5003039513677812,
+            "row_type": "data",
+            "top": 0.48632218844984804
+          },
+          {
+            "bottom": 0.5142857142857142,
+            "row_type": "data",
+            "top": 0.5003039513677812
+          },
+          {
+            "bottom": 0.5294832826747721,
+            "row_type": "data",
+            "top": 0.5142857142857142
+          },
+          {
+            "bottom": 0.5440729483282675,
+            "row_type": "data",
+            "top": 0.5294832826747721
+          },
+          {
+            "bottom": 0.5562310030395137,
+            "row_type": "gap-with-text",
+            "top": 0.5440729483282675
+          },
+          {
+            "bottom": 0.5720364741641337,
+            "row_type": "data",
+            "top": 0.5562310030395137
+          },
+          {
+            "bottom": 0.7463019250253289,
+            "row_type": "gap-with-text",
+            "top": 0.5720364741641337
+          },
+          {
+            "bottom": 0.7598784194528871,
+            "row_type": "gap",
+            "top": 0.7463019250253289
+          },
+          {
+            "bottom": 0.7775075987841945,
+            "row_type": "footer",
+            "top": 0.7598784194528871
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

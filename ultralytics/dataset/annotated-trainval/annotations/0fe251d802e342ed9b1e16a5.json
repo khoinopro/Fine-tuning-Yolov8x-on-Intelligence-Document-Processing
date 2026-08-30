@@ -1,0 +1,265 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6550008637752779,
+        0.24439432120196805,
+        0.7192549258136826,
+        0.2562101749331336
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "362120"
+    },
+    {
+      "bbox": [
+        0.6550008637752779,
+        0.2739339555298818,
+        0.7389456867609356,
+        0.2864883001192452
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "11/08/00"
+    },
+    {
+      "bbox": [
+        0.6539645079359487,
+        0.3027350989995977,
+        0.742054754278923,
+        0.3145509527307632
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "12/08/00"
+    },
+    {
+      "bbox": [
+        0.6518917962572905,
+        0.17202221709857934,
+        0.7379093309216066,
+        0.18531505254614056
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "RJEC3791"
+    },
+    {
+      "bbox": [
+        0.3814516129032258,
+        0.9137931034482759,
+        0.507258064516129,
+        0.9256384776791696
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "DraftWorldwide, Inc."
+    },
+    {
+      "bbox": [
+        0.3842895110475389,
+        0.914561114806202,
+        0.7731454294587963,
+        0.9263397185466552
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "DraftWorldwide. Inc. P.O. Box 10631 Newark, NewJersey 07193-0631"
+    },
+    {
+      "bbox": [
+        0.33891233277989985,
+        0.016993834060651677,
+        0.4736385918926839,
+        0.04357950495577407
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "919 Third Avenue\nNew York, NY 10022"
+    },
+    {
+      "bbox": [
+        0.21048387096774193,
+        0.28826614733385814,
+        0.29953081088539374,
+        0.30082049192322147
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "6750/ECL"
+    },
+    {
+      "bbox": [
+        0.0935483870967742,
+        0.14278344826888287,
+        0.4021300389789754,
+        0.15607628371644408
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "R.J. REYNOLDS TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.09329599885890112,
+        0.1416550895131426,
+        0.4035477566756958,
+        0.1856159180443578
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "R.J. REYNOLDS TOBACCO COMPANY\n401 NORTH MAIN STREET\nWINSTON-SALEM, NC 27102"
+    },
+    {
+      "bbox": [
+        0.8145161290322581,
+        0.895360352493058,
+        0.9275624495188334,
+        0.9071762062242235
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "-43,689.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08790322580645162,
+        0.43275862068965515,
+        0.4346774193548387,
+        0.4459770114942529
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "REVERSING BILLING INVOICE# 361665"
+    },
+    {
+      "bbox": [
+        0.8120967741935484,
+        0.43275862068965515,
+        0.9314516129032258,
+        0.4459770114942529
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "-43,689.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.3430577561372163,
+        0.3894941146275348,
+        0.445656984230798,
+        0.402786950075096
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.8000906812813531,
+        0.3828476969037542,
+        0.8653810991590869,
+        0.4079563860824809
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CLIENT\nBILLING"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1044,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ljlf0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1680,
+        2358
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.049193548387096775,
+          0.38275862068965516,
+          0.9314516129032258,
+          0.9114942528735632
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08790322580645162,
+            "right": 0.4346774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8120967741935484,
+            "right": 0.9314516129032258
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40977011494252874,
+            "row_type": "header",
+            "top": 0.38275862068965516
+          },
+          {
+            "bottom": 0.43275862068965515,
+            "row_type": "gap",
+            "top": 0.40977011494252874
+          },
+          {
+            "bottom": 0.4459770114942529,
+            "row_type": "data",
+            "top": 0.43275862068965515
+          },
+          {
+            "bottom": 0.4672413793103448,
+            "row_type": "gap",
+            "top": 0.4459770114942529
+          },
+          {
+            "bottom": 0.4885057471264368,
+            "row_type": "gap-with-text",
+            "top": 0.4672413793103448
+          },
+          {
+            "bottom": 0.6235632183908046,
+            "row_type": "gap",
+            "top": 0.4885057471264368
+          },
+          {
+            "bottom": 0.8201149425287356,
+            "row_type": "gap-with-text",
+            "top": 0.6235632183908046
+          },
+          {
+            "bottom": 0.8729885057471264,
+            "row_type": "data",
+            "top": 0.8201149425287356
+          },
+          {
+            "bottom": 0.9114942528735632,
+            "row_type": "footer",
+            "top": 0.8729885057471264
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

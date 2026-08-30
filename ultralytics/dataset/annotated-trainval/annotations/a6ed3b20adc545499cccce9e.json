@@ -1,0 +1,206 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3348576047997507,
+        0.37720145721440373,
+        0.43579554308867074,
+        0.3916859931714369
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "PF01/2000"
+    },
+    {
+      "bbox": [
+        0.7842717586099424,
+        0.33817368130945674,
+        0.8643812334424185,
+        0.3490370832772316
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "14-Jan-2000"
+    },
+    {
+      "bbox": [
+        0.0913248013090229,
+        0.18850014308678137,
+        0.3879032258064516,
+        0.2006079027355623
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "INBIFO Institut f\u00fcr biologische Forschung GmbH"
+    },
+    {
+      "bbox": [
+        0.0928148955212265,
+        0.18850014308678137,
+        0.5415400498675393,
+        0.20081215805471125
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "INBIFO Institut f\u00fcr biologische Forschung GmbH \u2022 Fuggerstr.3 \u2022 51148 K\u00f6ln"
+    },
+    {
+      "bbox": [
+        0.8507626227208975,
+        0.8323914153644344,
+        0.8771987494156147,
+        0.8438583396637523
+      ],
+      "fieldtype": "vendor_registration_id",
+      "page": 0,
+      "text": "367"
+    },
+    {
+      "bbox": [
+        0.15941785491662772,
+        0.8179068794074014,
+        0.2507426562256506,
+        0.8293738037067192
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "DE121967434"
+    },
+    {
+      "bbox": [
+        0.09452918030232195,
+        0.20922107570234097,
+        0.33245432055477636,
+        0.22370561165937405
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A. Inc."
+    },
+    {
+      "bbox": [
+        0.0913248013090229,
+        0.20985775075987842,
+        0.4373977325853203,
+        0.32087270703780446
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS U.S.A. Inc.\nAttn. Dr. Gerry Nixon\nResearch Center\n4201 Commerce Road, Gate C, Door 17\nRichmond, VA 23234\nU.S.A."
+    },
+    {
+      "bbox": [
+        0.6929469573009194,
+        0.2082822621633829,
+        0.7642443899018233,
+        0.21974918646270075
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "115529000"
+    },
+    {
+      "bbox": [
+        0.8131111695496337,
+        0.209489306826469,
+        0.8771987494156147,
+        0.22035270879424382
+      ],
+      "fieldtype": "bank_num",
+      "page": 0,
+      "text": "37070060"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.409726443768997,
+        0.6217741935483871,
+        0.4419452887537994
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Subject: Calibration solution for TSNA - no commercial value"
+    },
+    {
+      "bbox": [
+        0.8911290322580645,
+        0.409726443768997,
+        0.9508064516129032,
+        0.4419452887537994
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "10.00"
+    },
+    {
+      "bbox": [
+        0.36449811048776687,
+        0.6499265094066135,
+        0.40295065840735544,
+        0.6668251346898187
+      ],
+      "fieldtype": "line_item_weight",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1 kg"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 36,
+    "currency": "other",
+    "document_type": "proforma",
+    "language": "eng",
+    "original_filename": "znwk0058",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08225806451612903,
+          0.409726443768997,
+          0.9508064516129032,
+          0.7544072948328268
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1217741935483871,
+            "right": 0.6217741935483871
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.8911290322580645,
+            "right": 0.9508064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4419452887537994,
+            "row_type": "data",
+            "top": 0.409726443768997
+          },
+          {
+            "bottom": 0.7544072948328268,
+            "row_type": "up-merge",
+            "top": 0.4419452887537994
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

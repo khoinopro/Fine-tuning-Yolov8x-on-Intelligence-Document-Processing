@@ -1,0 +1,295 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8083497733937617,
+        0.012395124584330163,
+        0.8949586776859504,
+        0.03635903211403515
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "22334"
+    },
+    {
+      "bbox": [
+        0.8207224740069314,
+        0.2322020005464517,
+        0.9135177286057052,
+        0.2487288333255586
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "06/07/99"
+    },
+    {
+      "bbox": [
+        0.7537036790189283,
+        0.22724395071271963,
+        0.801132364702746,
+        0.24211810021391583
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "9465"
+    },
+    {
+      "bbox": [
+        0.09924991006115842,
+        0.232732453620809,
+        0.19293440460486871,
+        0.2476035369192632
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "CONTRACT"
+    },
+    {
+      "bbox": [
+        0.15981404958677686,
+        0.0727180642280703,
+        0.44644828045854446,
+        0.0875922137292665
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "37-11 30TH STREET, LONG ISLAND CITY, N.Y. 11101"
+    },
+    {
+      "bbox": [
+        0.12166488936283659,
+        0.08180782225657908,
+        0.2732304718741669,
+        0.11155612125897146
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS\nPHILIP MORRIS"
+    },
+    {
+      "bbox": [
+        0.12372700613169822,
+        0.08169025791943632,
+        0.4062370034657425,
+        0.15783125304047074
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS\nPHILIP MORRIS\n120 PARK AVE / 12th FLOOR\nATTN:EVETT ROBINSON\nNEW YORK N.Y. 10017-5592"
+    },
+    {
+      "bbox": [
+        0.5815169288189815,
+        0.09585563011881992,
+        0.726896161023727,
+        0.1123824628979268
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "PHILIP MORRIS"
+    },
+    {
+      "bbox": [
+        0.5804858704345508,
+        0.09649319056255566,
+        0.7277553763440859,
+        0.14295710353927454
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "PHILIP MORRIS\n116th STREET\nNYC"
+    },
+    {
+      "bbox": [
+        0.8248467075446547,
+        0.9048440946561019,
+        0.9166109037589976,
+        0.919718244157298
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "1,082.50"
+    },
+    {
+      "bbox": [
+        0.8227845907757931,
+        0.9040177530171466,
+        0.9176419621434285,
+        0.919718244157298
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "1,082.50"
+    },
+    {
+      "bbox": [
+        0.5990449213543055,
+        0.23302834218540708,
+        0.738237803252466,
+        0.25038151660346925
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "UPON RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2524193548387097,
+        0.29282482223658696,
+        0.49435483870967745,
+        0.3270846800258565
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "WAREHOUSE\n116th STREET FESTIVAL"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.29282482223658696,
+        0.8129032258064516,
+        0.3270846800258565
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,000.00"
+    },
+    {
+      "bbox": [
+        0.8306451612903226,
+        0.29282482223658696,
+        0.9298387096774193,
+        0.3270846800258565
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.40417488669688084,
+        0.2559793148028442,
+        0.5103739002932551,
+        0.2722795700357859
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.7650453212476672,
+        0.2607107870904111,
+        0.7990702479338844,
+        0.2871537195369821
+      ],
+      "fieldtype": "line_item_unit_price_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT\nPRICE"
+    },
+    {
+      "bbox": [
+        0.8207224740069314,
+        0.2598844454514557,
+        0.8887723273793655,
+        0.2855010362590714
+      ],
+      "fieldtype": "line_item_amount_net",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "EXTENDED\nPRICE"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 447,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tymm0014",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06290322580645161,
+          0.2559793148028442,
+          0.9298387096774193,
+          0.9327731092436975
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2524193548387097,
+            "right": 0.49435483870967745
+          },
+          {
+            "column_type": "line_item_unit_price_net",
+            "left": 0.7209677419354839,
+            "right": 0.8129032258064516
+          },
+          {
+            "column_type": "line_item_amount_net",
+            "left": 0.8306451612903226,
+            "right": 0.9298387096774193
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2837750484809308,
+            "row_type": "header",
+            "top": 0.2559793148028442
+          },
+          {
+            "bottom": 0.29282482223658696,
+            "row_type": "gap",
+            "top": 0.2837750484809308
+          },
+          {
+            "bottom": 0.3270846800258565,
+            "row_type": "data",
+            "top": 0.29282482223658696
+          },
+          {
+            "bottom": 0.724628312863607,
+            "row_type": "gap",
+            "top": 0.3270846800258565
+          },
+          {
+            "bottom": 0.746606334841629,
+            "row_type": "gap-with-text",
+            "top": 0.724628312863607
+          },
+          {
+            "bottom": 0.7756948933419522,
+            "row_type": "gap",
+            "top": 0.746606334841629
+          },
+          {
+            "bottom": 0.9327731092436975,
+            "row_type": "footer",
+            "top": 0.7756948933419522
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

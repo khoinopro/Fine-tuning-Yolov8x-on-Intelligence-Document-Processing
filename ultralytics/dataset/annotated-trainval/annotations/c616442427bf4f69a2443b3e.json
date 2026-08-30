@@ -1,0 +1,278 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7605276013678554,
+        0.1109048270470979,
+        0.8111382510991695,
+        0.12702755520812978
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "8119"
+    },
+    {
+      "bbox": [
+        0.7502686858817782,
+        0.17735000977135043,
+        0.8008793356130923,
+        0.19005276529216336
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/4/98"
+    },
+    {
+      "bbox": [
+        0.7502686858817782,
+        0.19298417041235102,
+        0.8125061064973131,
+        0.20519835841313272
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "114-2-98"
+    },
+    {
+      "bbox": [
+        0.7502686858817782,
+        0.2066640609732265,
+        0.8138739618954567,
+        0.21887824897400823
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "AS-98-01"
+    },
+    {
+      "bbox": [
+        0.06702491450903761,
+        0.049345319523158106,
+        0.2496336101612115,
+        0.06497948016415869
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Wolf/Altschul/Callahan Inc."
+    },
+    {
+      "bbox": [
+        0.06702491450903761,
+        0.05032245456322064,
+        0.6702491450903761,
+        0.06497948016415869
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Wolf/Atschul/Callahan Inc. Marketing Research 60 Madison Ave. NY, NY 10010-1600"
+    },
+    {
+      "bbox": [
+        0.20791402051783098,
+        0.17735000977135043,
+        0.34059599413776254,
+        0.20568692593316396
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Harvey Gordin\nRJR"
+    },
+    {
+      "bbox": [
+        0.2085979482169028,
+        0.17735000977135043,
+        0.5006350757205666,
+        0.2506351377760407
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Harvey Gordin\nRJR\nBowman Gray Technical Ctr. - Bldg. 611-12\nReynold Blvd & Shore Flair\nWinston Salem, NC 27102"
+    },
+    {
+      "bbox": [
+        0.7830972154372252,
+        0.5296071917138949,
+        0.7954079140205178,
+        0.5447527848348642
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7824132877381534,
+        0.5310728942739887,
+        0.8726917440156325,
+        0.5452413523548955
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$ 35,265.00"
+    },
+    {
+      "bbox": [
+        0.7824132877381534,
+        0.53156146179402,
+        0.8720078163165608,
+        0.5457299198749267
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 35,265.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.23790322580645162,
+        0.4176267281105991,
+        0.3911290322580645,
+        0.4314516129032258
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Estimated Charges"
+    },
+    {
+      "bbox": [
+        0.7879032258064517,
+        0.4176267281105991,
+        0.9233870967741935,
+        0.4314516129032258
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$ 70,265.00 \u00b1 10%"
+    },
+    {
+      "bbox": [
+        0.23790322580645162,
+        0.4435483870967742,
+        0.3911290322580645,
+        0.45852534562211983
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Progress Billing (8/98)"
+    },
+    {
+      "bbox": [
+        0.7879032258064517,
+        0.4435483870967742,
+        0.9233870967741935,
+        0.45852534562211983
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$ 35,000.00"
+    },
+    {
+      "bbox": [
+        0.23790322580645162,
+        0.46889400921658986,
+        0.3911290322580645,
+        0.483294930875576
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Current Billing (Final)"
+    },
+    {
+      "bbox": [
+        0.7879032258064517,
+        0.46889400921658986,
+        0.9233870967741935,
+        0.483294930875576
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$ 35,265.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 220,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "nrmh0186",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1687,
+        2363
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.20887096774193548,
+          0.4176267281105991,
+          0.9233870967741935,
+          0.5495391705069125
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.23790322580645162,
+            "right": 0.3911290322580645
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7879032258064517,
+            "right": 0.9233870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4314516129032258,
+            "row_type": "data",
+            "top": 0.4176267281105991
+          },
+          {
+            "bottom": 0.4435483870967742,
+            "row_type": "gap",
+            "top": 0.4314516129032258
+          },
+          {
+            "bottom": 0.45852534562211983,
+            "row_type": "data",
+            "top": 0.4435483870967742
+          },
+          {
+            "bottom": 0.46889400921658986,
+            "row_type": "gap",
+            "top": 0.45852534562211983
+          },
+          {
+            "bottom": 0.483294930875576,
+            "row_type": "data",
+            "top": 0.46889400921658986
+          },
+          {
+            "bottom": 0.5293778801843319,
+            "row_type": "gap",
+            "top": 0.483294930875576
+          },
+          {
+            "bottom": 0.5495391705069125,
+            "row_type": "footer",
+            "top": 0.5293778801843319
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.45533905557254545,
+        0.10363091215740283,
+        0.5105051366967869,
+        0.11353195496078196
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "XDHHN6"
+    },
+    {
+      "bbox": [
+        0.6506094697107335,
+        0.09306979983379843,
+        0.7460555465764845,
+        0.10363091215740283
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "JAN 20 1999"
+    },
+    {
+      "bbox": [
+        0.22591821026220799,
+        0.10289750437711408,
+        0.3056025496638901,
+        0.11411868622094375
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "496003001"
+    },
+    {
+      "bbox": [
+        0.19264343117139568,
+        0.13130699088145897,
+        0.3388773287547024,
+        0.1431617451108559
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "PHILIP MORRIS USA"
+    },
+    {
+      "bbox": [
+        0.19213858469229853,
+        0.13193795969389085,
+        0.44730352041423643,
+        0.17899275650779597
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "PHILIP MORRIS USA\nBRUCE DAVIES\nATTN BRUCE DAVIES 804-274-2612\nR AND D 8220\nRICHMOND VA 23234"
+    },
+    {
+      "bbox": [
+        0.6672468592561396,
+        0.38078677239195496,
+        0.7101538112416608,
+        0.39068781519533413
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "44.00"
+    },
+    {
+      "bbox": [
+        0.6654955550934653,
+        0.3801267028717297,
+        0.7084025070789864,
+        0.39134788471555937
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "44.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1064516129032258,
+        0.2364741641337386,
+        0.1588709677419355,
+        0.24680851063829787
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMTRAK"
+    },
+    {
+      "bbox": [
+        0.1077051792816906,
+        0.22684389136442537,
+        0.1847625624393612,
+        0.2367449341678045
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "21 JAN 99"
+    },
+    {
+      "bbox": [
+        0.1064516129032258,
+        0.2838905775075988,
+        0.1588709677419355,
+        0.2948328267477204
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "AMTRAK"
+    },
+    {
+      "bbox": [
+        0.1077051792816906,
+        0.22684389136442537,
+        0.1847625624393612,
+        0.2367449341678045
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "21 JAN 99"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 699,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "txmn0082",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1064516129032258,
+          0.2243161094224924,
+          0.7306451612903225,
+          0.3939209726443769
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1064516129032258,
+            "right": 0.1588709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.2508064516129032,
+            "right": 0.3209677419354839
+          },
+          {
+            "column_type": "",
+            "left": 0.40161290322580645,
+            "right": 0.49274193548387096
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2364741641337386,
+            "row_type": "subsection-header",
+            "top": 0.2243161094224924
+          },
+          {
+            "bottom": 0.24680851063829787,
+            "row_type": "data",
+            "top": 0.2364741641337386
+          },
+          {
+            "bottom": 0.27598784194528875,
+            "row_type": "up-merge",
+            "top": 0.24680851063829787
+          },
+          {
+            "bottom": 0.2838905775075988,
+            "row_type": "gap",
+            "top": 0.27598784194528875
+          },
+          {
+            "bottom": 0.2948328267477204,
+            "row_type": "data",
+            "top": 0.2838905775075988
+          },
+          {
+            "bottom": 0.32401215805471123,
+            "row_type": "up-merge",
+            "top": 0.2948328267477204
+          },
+          {
+            "bottom": 0.3689969604863222,
+            "row_type": "gap",
+            "top": 0.32401215805471123
+          },
+          {
+            "bottom": 0.3939209726443769,
+            "row_type": "down-merge",
+            "top": 0.3689969604863222
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

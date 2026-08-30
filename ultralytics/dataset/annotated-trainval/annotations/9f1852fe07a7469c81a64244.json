@@ -1,0 +1,234 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7049164868070544,
+        0.2838590522478736,
+        0.7537245522953976,
+        0.2989258809234508
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2490"
+    },
+    {
+      "bbox": [
+        0.04080674327713935,
+        0.05785662211421628,
+        0.149624725349511,
+        0.07232077764277035
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "Oct 27 99"
+    },
+    {
+      "bbox": [
+        0.5467552353730385,
+        0.28429647630619687,
+        0.5904975791868401,
+        0.29952855407047385
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "1258"
+    },
+    {
+      "bbox": [
+        0.2696445585175679,
+        0.23025030376670716,
+        0.6794026716444035,
+        0.2537253948967193
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "PSYCHOLOGICAL INSIGHTS, INC."
+    },
+    {
+      "bbox": [
+        0.693714635711369,
+        0.5134775212636695,
+        0.7081170156915358,
+        0.5279416767922236
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6945147679324895,
+        0.5122721749696234,
+        0.7849297089190923,
+        0.5285443499392467
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,000.00"
+    },
+    {
+      "bbox": [
+        0.6943611581014603,
+        0.5121360874848115,
+        0.7865299733613331,
+        0.5303523693803159
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.5258064516129032,
+        0.3839611178614824,
+        0.6725806451612903,
+        0.402187120291616
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Incentives credit"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.3839611178614824,
+        0.7903225806451613,
+        0.402187120291616
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$2,250.00"
+    },
+    {
+      "bbox": [
+        0.5258064516129032,
+        0.4289185905224787,
+        0.6725806451612903,
+        0.4507897934386391
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Cancelled group"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.4289185905224787,
+        0.7903225806451613,
+        0.4507897934386391
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,950.00"
+    },
+    {
+      "bbox": [
+        0.5258064516129032,
+        0.4617253948967193,
+        0.6725806451612903,
+        0.479951397326853
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Incentives credit"
+    },
+    {
+      "bbox": [
+        0.6919354838709677,
+        0.4617253948967193,
+        0.7903225806451613,
+        0.479951397326853
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2,800.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 660,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kjkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.13225806451612904,
+          0.3839611178614824,
+          0.7903225806451613,
+          0.5364520048602673
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.5258064516129032,
+            "right": 0.6725806451612903
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6919354838709677,
+            "right": 0.7903225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.402187120291616,
+            "row_type": "data",
+            "top": 0.3839611178614824
+          },
+          {
+            "bottom": 0.4289185905224787,
+            "row_type": "gap",
+            "top": 0.402187120291616
+          },
+          {
+            "bottom": 0.4507897934386391,
+            "row_type": "data",
+            "top": 0.4289185905224787
+          },
+          {
+            "bottom": 0.4617253948967193,
+            "row_type": "gap",
+            "top": 0.4507897934386391
+          },
+          {
+            "bottom": 0.479951397326853,
+            "row_type": "data",
+            "top": 0.4617253948967193
+          },
+          {
+            "bottom": 0.4951397326852977,
+            "row_type": "gap",
+            "top": 0.479951397326853
+          },
+          {
+            "bottom": 0.5364520048602673,
+            "row_type": "footer",
+            "top": 0.4951397326852977
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

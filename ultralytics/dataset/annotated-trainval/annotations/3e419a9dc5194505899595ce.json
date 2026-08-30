@@ -1,0 +1,209 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4959677419354839,
+        0.15460840760591305,
+        0.5553922608941709,
+        0.16831482671991244
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "221786"
+    },
+    {
+      "bbox": [
+        0.22913350664968873,
+        0.0959449337979957,
+        0.748958775466893,
+        0.1288403396715942
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "LORILLARD YOUTH SMOKING PREVENTION PROGRAM\nACTIVITY REPORT"
+    },
+    {
+      "bbox": [
+        0.4991935483870968,
+        0.13267813702351403,
+        0.5519723578098472,
+        0.14802932643119335
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "80048"
+    },
+    {
+      "bbox": [
+        0.7304912988115451,
+        0.5707352919069344,
+        0.7407510080645161,
+        0.5866347380791737
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7290322580645161,
+        0.5712835486714943,
+        0.8194087790039616,
+        0.5882795083728536
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$51,039.55"
+    },
+    {
+      "bbox": [
+        0.7290322580645161,
+        0.5707352919069344,
+        0.8214607208545557,
+        0.5882795083728536
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$51,039.55"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15,
+        0.2275371687136393,
+        0.3717741935483871,
+        0.24434389140271492
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TeenH.I.P. Grat Program"
+    },
+    {
+      "bbox": [
+        0.7266129032258064,
+        0.2275371687136393,
+        0.8266129032258065,
+        0.24434389140271492
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$15,728.50"
+    },
+    {
+      "bbox": [
+        0.15,
+        0.4266321913380737,
+        0.3717741935483871,
+        0.4466709760827408
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Cool News Program"
+    },
+    {
+      "bbox": [
+        0.7266129032258064,
+        0.4266321913380737,
+        0.8266129032258065,
+        0.4466709760827408
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$400.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 853,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mgfd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15,
+          0.19263089851325146,
+          0.8266129032258065,
+          0.502262443438914
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15,
+            "right": 0.3717741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7266129032258064,
+            "right": 0.8266129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2094376212023271,
+            "row_type": "subsection-header",
+            "top": 0.19263089851325146
+          },
+          {
+            "bottom": 0.2275371687136393,
+            "row_type": "gap",
+            "top": 0.2094376212023271
+          },
+          {
+            "bottom": 0.24434389140271492,
+            "row_type": "data",
+            "top": 0.2275371687136393
+          },
+          {
+            "bottom": 0.41047188106011634,
+            "row_type": "up-merge",
+            "top": 0.24434389140271492
+          },
+          {
+            "bottom": 0.4266321913380737,
+            "row_type": "gap",
+            "top": 0.41047188106011634
+          },
+          {
+            "bottom": 0.4466709760827408,
+            "row_type": "data",
+            "top": 0.4266321913380737
+          },
+          {
+            "bottom": 0.46412411118293473,
+            "row_type": "up-merge",
+            "top": 0.4466709760827408
+          },
+          {
+            "bottom": 0.48157724628312865,
+            "row_type": "gap",
+            "top": 0.46412411118293473
+          },
+          {
+            "bottom": 0.502262443438914,
+            "row_type": "footer",
+            "top": 0.48157724628312865
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.274961686975074,
+        0.37876322977445986,
+        0.3330434815271121,
+        0.39227384928670994
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "100143"
+    },
+    {
+      "bbox": [
+        0.1618875550280211,
+        0.3121418990761231,
+        0.31450673858497225,
+        0.3279819357456577
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 14, 1999"
+    },
+    {
+      "bbox": [
+        0.27372590411226466,
+        0.3619914262420114,
+        0.6012083627567348,
+        0.37933130699088147
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "Marlboro Auto Racing - 2000 Presentation"
+    },
+    {
+      "bbox": [
+        0.27434379554366933,
+        0.3960009167383651,
+        0.31450673858497225,
+        0.40904565281915833
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "TBD"
+    },
+    {
+      "bbox": [
+        0.15818020643959313,
+        0.6242837981522462,
+        0.33860450440975404,
+        0.6410556016846947
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Tip Nunn's Events, Inc."
+    },
+    {
+      "bbox": [
+        0.15818020643959313,
+        0.6429191354105223,
+        0.3701169674113917,
+        0.6741333253181345
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "2801 Youngfield, Suite 210\nGolden, Colorado 80401"
+    },
+    {
+      "bbox": [
+        0.4041009961386481,
+        0.625681448446617,
+        0.4980204937121565,
+        0.6401238348217808
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "84-1060640"
+    },
+    {
+      "bbox": [
+        0.2746633588405484,
+        0.3466521298621206,
+        0.4203350187924182,
+        0.3605492086783356
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris USA"
+    },
+    {
+      "bbox": [
+        0.7216971918806436,
+        0.559991884611194,
+        0.7328192376459275,
+        0.573968387554901
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.721079300449239,
+        0.559526001179737,
+        0.7989336208062262,
+        0.5749001544178148
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,500.00"
+    },
+    {
+      "bbox": [
+        0.721079300449239,
+        0.5604577680426509,
+        0.7989336208062262,
+        0.5749001544178148
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,500.00"
+    },
+    {
+      "bbox": [
+        0.15818020643959313,
+        0.5935354916760908,
+        0.4003936475502201,
+        0.6091185410334347
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due Immediately Upon Receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.4595744680851064,
+        0.17419354838709677,
+        0.4765957446808511
+      ],
+      "fieldtype": "line_item_position",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "I."
+    },
+    {
+      "bbox": [
+        0.2129032258064516,
+        0.4595744680851064,
+        0.3532258064516129,
+        0.4765957446808511
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Professional Fees"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.4595744680851064,
+        0.807258064516129,
+        0.4765957446808511
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$2,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 621,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "fmkv0076",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1596774193548387,
+          0.4595744680851064,
+          0.807258064516129,
+          0.5781155015197569
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_position",
+            "left": 0.1596774193548387,
+            "right": 0.17419354838709677
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.2129032258064516,
+            "right": 0.3532258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7209677419354839,
+            "right": 0.807258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4765957446808511,
+            "row_type": "data",
+            "top": 0.4595744680851064
+          },
+          {
+            "bottom": 0.4917933130699088,
+            "row_type": "gap",
+            "top": 0.4765957446808511
+          },
+          {
+            "bottom": 0.5258358662613982,
+            "row_type": "gap-with-text",
+            "top": 0.4917933130699088
+          },
+          {
+            "bottom": 0.5562310030395137,
+            "row_type": "gap",
+            "top": 0.5258358662613982
+          },
+          {
+            "bottom": 0.5781155015197569,
+            "row_type": "footer",
+            "top": 0.5562310030395137
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

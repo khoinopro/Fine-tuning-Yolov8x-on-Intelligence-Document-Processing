@@ -1,0 +1,370 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.38625790492149936,
+        0.9594613466334164,
+        0.46529016298601555,
+        0.9744239401496259
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "Oct/23/2020"
+    },
+    {
+      "bbox": [
+        0.5628902587427933,
+        0.1471221945137157,
+        0.6439743052646278,
+        0.1589426433915212
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "Oct/23/2020"
+    },
+    {
+      "bbox": [
+        0.26369671035569653,
+        0.2855261845386534,
+        0.34238633869970275,
+        0.30056857855361596
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "Oct/26/2020"
+    },
+    {
+      "bbox": [
+        0.18063219422666427,
+        0.9594613466334164,
+        0.22799090310611045,
+        0.9717456359102244
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "016855"
+    },
+    {
+      "bbox": [
+        0.834651485227522,
+        0.14712219451371572,
+        0.8855646657489976,
+        0.15878802992518704
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "016855"
+    },
+    {
+      "bbox": [
+        0.8411160651944063,
+        0.28614463840399007,
+        0.8855646657489976,
+        0.2991770573566085
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "016855"
+    },
+    {
+      "bbox": [
+        0.1467482594210705,
+        0.04049875311720698,
+        0.27438905180840667,
+        0.052568578553615956
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Waterfront Strategies"
+    },
+    {
+      "bbox": [
+        0.14559419075548108,
+        0.038962593516209475,
+        0.30798771121351765,
+        0.07545137157107232
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Waterfront Strategies\n3050 K Street NW. Suite 100\nWashington, DC 20007-3606"
+    },
+    {
+      "bbox": [
+        0.16367077622837994,
+        0.13339650872817954,
+        0.27438905180840667,
+        0.14657356608478803
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Katz Media Group"
+    },
+    {
+      "bbox": [
+        0.1647934247012588,
+        0.1335860349127182,
+        0.31438745586211025,
+        0.19048379052369077
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Katz Media Group\n125 West 55th\n8th Floor\nNew York, NY 10019-5366\nUnited States"
+    },
+    {
+      "bbox": [
+        0.701572007101961,
+        0.14657356608478803,
+        0.711971592155924,
+        0.1589426433915212
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5233741297105353,
+        0.960079800498753,
+        0.5863766034272947,
+        0.9723640897755611
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "$98.600.00"
+    },
+    {
+      "bbox": [
+        0.8967677100165579,
+        0.9588428927680798,
+        0.9615616334510343,
+        0.9729825436408978
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$98,600.00"
+    },
+    {
+      "bbox": [
+        0.7032128393879545,
+        0.14774064837905235,
+        0.7839687194525904,
+        0.1589426433915212
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$98,600.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.3254364089775561,
+        0.20161290322580644,
+        0.33915211970074816
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "00046848OCT2020OCT2020"
+    },
+    {
+      "bbox": [
+        0.2645161290322581,
+        0.3254364089775561,
+        0.34516129032258064,
+        0.33915211970074816
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Oct/23/2020"
+    },
+    {
+      "bbox": [
+        0.36935483870967745,
+        0.3254364089775561,
+        0.4282258064516129,
+        0.33915211970074816
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "00046848"
+    },
+    {
+      "bbox": [
+        0.5290322580645161,
+        0.3254364089775561,
+        0.5862903225806452,
+        0.33915211970074816
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "98,600.00"
+    },
+    {
+      "bbox": [
+        0.9048387096774193,
+        0.3254364089775561,
+        0.9604838709677419,
+        0.33915211970074816
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "98,600.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.04112903225806452,
+        0.3052069825436409,
+        0.13999441418796257,
+        0.31546134663341646
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Invoice Number"
+    },
+    {
+      "bbox": [
+        0.2645161290322581,
+        0.3029925187032419,
+        0.34516129032258064,
+        0.31546134663341646
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Invoice Date"
+    },
+    {
+      "bbox": [
+        0.36935483870967745,
+        0.30335162094763096,
+        0.4439822849961099,
+        0.31546134663341646
+      ],
+      "fieldtype": "line_item_order_id",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Voucher ID"
+    },
+    {
+      "bbox": [
+        0.49998005067129486,
+        0.3052069825436409,
+        0.5862903225806452,
+        0.31546134663341646
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Gross Amount"
+    },
+    {
+      "bbox": [
+        0.8823647934247012,
+        0.30335162094763096,
+        0.9604838709677419,
+        0.31546134663341646
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Paid Amount"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 895,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "8e576e72-4c5f-45b9-9294-40d16e8caed7",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.031451612903225803,
+          0.28615960099750626,
+          0.9701612903225807,
+          0.9856608478802993
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.04112903225806452,
+            "right": 0.20161290322580644
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.2645161290322581,
+            "right": 0.34516129032258064
+          },
+          {
+            "column_type": "line_item_order_id",
+            "left": 0.36935483870967745,
+            "right": 0.4282258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.5290322580645161,
+            "right": 0.5862903225806452
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9048387096774193,
+            "right": 0.9604838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3029925187032419,
+            "row_type": "gap",
+            "top": 0.28615960099750626
+          },
+          {
+            "bottom": 0.31546134663341646,
+            "row_type": "header",
+            "top": 0.3029925187032419
+          },
+          {
+            "bottom": 0.3254364089775561,
+            "row_type": "gap",
+            "top": 0.31546134663341646
+          },
+          {
+            "bottom": 0.33915211970074816,
+            "row_type": "data",
+            "top": 0.3254364089775561
+          },
+          {
+            "bottom": 0.9201995012468828,
+            "row_type": "gap",
+            "top": 0.33915211970074816
+          },
+          {
+            "bottom": 0.9856608478802993,
+            "row_type": "footer",
+            "top": 0.9201995012468828
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

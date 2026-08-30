@@ -1,0 +1,145 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6080975913459667,
+        0.3799148936170213,
+        0.7377183937118176,
+        0.3931817629179331
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "01231001AS124"
+    },
+    {
+      "bbox": [
+        0.1960314603681077,
+        0.37870881458966565,
+        0.3104498229503093,
+        0.3961969604863222
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "April 20, 2000"
+    },
+    {
+      "bbox": [
+        0.13762208646250826,
+        0.24242188449848023,
+        0.5896946379236546,
+        0.2611161094224924
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "THE COUNCIL OF STATE GOVERNMENTS"
+    },
+    {
+      "bbox": [
+        0.13842221487217402,
+        0.24321949961184755,
+        0.5904068295153498,
+        0.30151975683890575
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "THE COUNCIL OF STATE GOVERNMENTS\nP.O. BOX 11910\nLEXINGTON, KY 40578-1910"
+    },
+    {
+      "bbox": [
+        0.30884956613097786,
+        0.4293641337386018,
+        0.6257004163586131,
+        0.48001945288753795
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. David Laufer\nVice President, State Government Affairs\nPhilip Morris Management Corporation"
+    },
+    {
+      "bbox": [
+        0.3104498229503093,
+        0.4270926304826156,
+        0.6264560931899642,
+        0.5116790273556231
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. David Laufer\nVice President, State Government Affairs\nPhilip Morris Management Corporation\n120 Park Avenue\nNew York, NY 10017"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1403225806451613,
+        0.5993920972644377,
+        0.44516129032258067,
+        0.6188449848024317
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "CSG Global Development Fund"
+    },
+    {
+      "bbox": [
+        0.8088709677419355,
+        0.5993920972644377,
+        0.8798387096774194,
+        0.6188449848024317
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$25,000"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1106,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lfgj0074",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1403225806451613,
+          0.5993920972644377,
+          0.8798387096774194,
+          0.6188449848024317
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1403225806451613,
+            "right": 0.44516129032258067
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8088709677419355,
+            "right": 0.8798387096774194
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.6188449848024317,
+            "row_type": "data",
+            "top": 0.5993920972644377
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

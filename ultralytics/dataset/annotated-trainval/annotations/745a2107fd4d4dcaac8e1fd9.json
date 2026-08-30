@@ -1,0 +1,200 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7168061066068656,
+        0.10689854839242686,
+        0.7457262377091599,
+        0.12115168817808378
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "18467"
+    },
+    {
+      "bbox": [
+        0.7174946811569203,
+        0.14342221909317274,
+        0.7457262377091599,
+        0.15856618011543316
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "9/8/20"
+    },
+    {
+      "bbox": [
+        0.046344653071639694,
+        0.16311349595431762,
+        0.12833903927530993,
+        0.18156673994106867
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "StateNets Platinum"
+    },
+    {
+      "bbox": [
+        0.046344653071639694,
+        0.1617954070981211,
+        0.13852467731303295,
+        0.23956264961371496
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "StateNets Platinum\nAttn: Dave Martin\n2601 Northwind Drive\nRichmond VA 23233"
+    },
+    {
+      "bbox": [
+        0.07588300338103643,
+        0.6508063727470248,
+        0.2057498883620048,
+        0.6692596167337758
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Learfield Communications, Inc."
+    },
+    {
+      "bbox": [
+        0.07690156718480873,
+        0.6501473283189265,
+        0.3921470644523359,
+        0.6692596167337758
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Learfield Communications, Inc., 505 Hobbs Road, Jefferson City, MO 65109"
+    },
+    {
+      "bbox": [
+        0.8612903225806452,
+        0.453027139874739,
+        0.8685483870967742,
+        0.4707724425887265
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.33918174665617623,
+        0.45375208874564715,
+        0.389091373041019,
+        0.474182466016693
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$52,234.00"
+    },
+    {
+      "bbox": [
+        0.8596774193548387,
+        0.4509394572025052,
+        0.9112903225806451,
+        0.47220533273239823
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$44,398.90"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.03870967741935479,
+        0.3298538622129436,
+        0.1016129032258064,
+        0.3475991649269311
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Brownfield Iowa"
+    },
+    {
+      "bbox": [
+        0.9258744976290216,
+        0.35061163574827053,
+        0.9401343908818337,
+        0.3657696575945304
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "82"
+    },
+    {
+      "bbox": [
+        0.8825855359686988,
+        0.35061163574827053,
+        0.9100867586705509,
+        0.3657696575945304
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "52,234"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 401,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "afb3e917-bae8-48fe-b1b2-1dbcc6249966",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.03870967741935479,
+          0.29331941544885176,
+          0.9451612903225807,
+          0.477035490605428
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.03870967741935479,
+            "right": 0.1016129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3298538622129436,
+            "row_type": "header",
+            "top": 0.29331941544885176
+          },
+          {
+            "bottom": 0.3475991649269311,
+            "row_type": "data",
+            "top": 0.3298538622129436
+          },
+          {
+            "bottom": 0.3653444676409186,
+            "row_type": "up-merge",
+            "top": 0.3475991649269311
+          },
+          {
+            "bottom": 0.477035490605428,
+            "row_type": "footer",
+            "top": 0.3653444676409186
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

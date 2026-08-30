@@ -1,0 +1,540 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.20161290322580644,
+        0.7434369618149271,
+        0.24903567435504576,
+        0.7575555611546445
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "990929"
+    },
+    {
+      "bbox": [
+        0.6462115408505528,
+        0.2740291780936061,
+        0.774332788107168,
+        0.28750602291788185
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "September 29, 1999"
+    },
+    {
+      "bbox": [
+        0.12411745827984595,
+        0.2567018061766802,
+        0.3275099382997225,
+        0.28622251388699843
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Byron Wampler & Karen Miller\nOpus Event Marketing"
+    },
+    {
+      "bbox": [
+        0.12171518489378441,
+        0.2570454759817709,
+        0.3283106693770836,
+        0.31638497611275834
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Byron Wampler & Karen Miller\nOpus Event Marketing\n1901 E. Franklin St., Studio 105\nRichmond, VA 23223"
+    },
+    {
+      "bbox": [
+        0.5917600107664913,
+        0.7196920447435842,
+        0.6021698621060914,
+        0.7331688895678599
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5911290322580646,
+        0.7203337992590259,
+        0.6654297279390451,
+        0.7338106440833015
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$31,553.93"
+    },
+    {
+      "bbox": [
+        0.5911290322580646,
+        0.7203337992590259,
+        0.6654297279390451,
+        0.7331688895678599
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$31,553.93"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.40982546864899805,
+        0.392741935483871,
+        0.42792501616031026
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "COST OF MENU"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.40982546864899805,
+        0.6685483870967742,
+        0.42792501616031026
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$11,250.00"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.4343891402714932,
+        0.392741935483871,
+        0.4531351001939237
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "BEVERAGES"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.4343891402714932,
+        0.6685483870967742,
+        0.4531351001939237
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$525.00"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.4608920491273432,
+        0.392741935483871,
+        0.4776987718164189
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "DENT RIDER"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.4608920491273432,
+        0.6685483870967742,
+        0.4776987718164189
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$189.00"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.4861021331609567,
+        0.392741935483871,
+        0.5042016806722689
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "SERVICE PERSONNEL (event extended)"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.4861021331609567,
+        0.6685483870967742,
+        0.5042016806722689
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$7,814.50"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.5119586296056884,
+        0.392741935483871,
+        0.5300581771170007
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "EVENT TRAVEL TIME"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.5119586296056884,
+        0.6685483870967742,
+        0.5300581771170007
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$687.00"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.5384615384615384,
+        0.392741935483871,
+        0.5552682611506141
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "EQUIPMENT"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.5384615384615384,
+        0.6685483870967742,
+        0.5552682611506141
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$2,700.00"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.5643180349062702,
+        0.392741935483871,
+        0.5811247575953459
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "DINNER SEATING"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.5643180349062702,
+        0.6685483870967742,
+        0.5811247575953459
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "$1,103.00"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.5895281189398837,
+        0.392741935483871,
+        0.6063348416289592
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "LINENS"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.5895281189398837,
+        0.6685483870967742,
+        0.6063348416289592
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "$1,500.00"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.6160310277957337,
+        0.392741935483871,
+        0.6315449256625727
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "FLOWERS"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.6160310277957337,
+        0.6685483870967742,
+        0.6315449256625727
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "$1,640.00"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.6386554621848739,
+        0.392741935483871,
+        0.6561085972850679
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "SALES TAX"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.6386554621848739,
+        0.6685483870967742,
+        0.6561085972850679
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "$1,370.43"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.665158371040724,
+        0.392741935483871,
+        0.6819650937297996
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "ALCOHOLIC BEVERAGES"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.665158371040724,
+        0.6685483870967742,
+        0.6819650937297996
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 0,
+      "text": "$2,375.00"
+    },
+    {
+      "bbox": [
+        0.1217741935483871,
+        0.6903684550743374,
+        0.392741935483871,
+        0.7078215901745314
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "DELIVERY/PICKUP"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.6903684550743374,
+        0.6685483870967742,
+        0.7078215901745314
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 0,
+      "text": "$400.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 962,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "myxk0009",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1217741935483871,
+          0.40982546864899805,
+          0.6685483870967742,
+          0.7608274078862314
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1217741935483871,
+            "right": 0.392741935483871
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5951612903225807,
+            "right": 0.6685483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.42792501616031026,
+            "row_type": "data",
+            "top": 0.40982546864899805
+          },
+          {
+            "bottom": 0.4343891402714932,
+            "row_type": "gap",
+            "top": 0.42792501616031026
+          },
+          {
+            "bottom": 0.4531351001939237,
+            "row_type": "data",
+            "top": 0.4343891402714932
+          },
+          {
+            "bottom": 0.4608920491273432,
+            "row_type": "gap",
+            "top": 0.4531351001939237
+          },
+          {
+            "bottom": 0.4776987718164189,
+            "row_type": "data",
+            "top": 0.4608920491273432
+          },
+          {
+            "bottom": 0.4861021331609567,
+            "row_type": "gap",
+            "top": 0.4776987718164189
+          },
+          {
+            "bottom": 0.5042016806722689,
+            "row_type": "data",
+            "top": 0.4861021331609567
+          },
+          {
+            "bottom": 0.5119586296056884,
+            "row_type": "gap",
+            "top": 0.5042016806722689
+          },
+          {
+            "bottom": 0.5300581771170007,
+            "row_type": "data",
+            "top": 0.5119586296056884
+          },
+          {
+            "bottom": 0.5384615384615384,
+            "row_type": "gap",
+            "top": 0.5300581771170007
+          },
+          {
+            "bottom": 0.5552682611506141,
+            "row_type": "data",
+            "top": 0.5384615384615384
+          },
+          {
+            "bottom": 0.5643180349062702,
+            "row_type": "gap",
+            "top": 0.5552682611506141
+          },
+          {
+            "bottom": 0.5811247575953459,
+            "row_type": "data",
+            "top": 0.5643180349062702
+          },
+          {
+            "bottom": 0.5895281189398837,
+            "row_type": "gap",
+            "top": 0.5811247575953459
+          },
+          {
+            "bottom": 0.6063348416289592,
+            "row_type": "data",
+            "top": 0.5895281189398837
+          },
+          {
+            "bottom": 0.6160310277957337,
+            "row_type": "gap",
+            "top": 0.6063348416289592
+          },
+          {
+            "bottom": 0.6315449256625727,
+            "row_type": "data",
+            "top": 0.6160310277957337
+          },
+          {
+            "bottom": 0.6386554621848739,
+            "row_type": "gap",
+            "top": 0.6315449256625727
+          },
+          {
+            "bottom": 0.6561085972850679,
+            "row_type": "data",
+            "top": 0.6386554621848739
+          },
+          {
+            "bottom": 0.665158371040724,
+            "row_type": "gap",
+            "top": 0.6561085972850679
+          },
+          {
+            "bottom": 0.6819650937297996,
+            "row_type": "data",
+            "top": 0.665158371040724
+          },
+          {
+            "bottom": 0.6903684550743374,
+            "row_type": "gap",
+            "top": 0.6819650937297996
+          },
+          {
+            "bottom": 0.7078215901745314,
+            "row_type": "data",
+            "top": 0.6903684550743374
+          },
+          {
+            "bottom": 0.7175177763413058,
+            "row_type": "gap",
+            "top": 0.7078215901745314
+          },
+          {
+            "bottom": 0.7608274078862314,
+            "row_type": "footer",
+            "top": 0.7175177763413058
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

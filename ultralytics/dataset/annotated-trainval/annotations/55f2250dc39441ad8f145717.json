@@ -1,0 +1,952 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7144993976709946,
+        0.32957969015706384,
+        0.773949270512649,
+        0.3412021477444666
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "382907"
+    },
+    {
+      "bbox": [
+        0.18825793066523894,
+        0.17719059223651967,
+        0.24770780350689334,
+        0.18964322536587977
+      ],
+      "fieldtype": "document_id",
+      "page": 1,
+      "text": "382907"
+    },
+    {
+      "bbox": [
+        0.6242236648373711,
+        0.17516703935299865,
+        0.7486280283763888,
+        0.1884498480243161
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "June 30, 1999"
+    },
+    {
+      "bbox": [
+        0.11229420425645831,
+        0.19130357644979445,
+        0.23890041493775935,
+        0.20458638512111188
+      ],
+      "fieldtype": "date_issue",
+      "page": 1,
+      "text": "June 30, 1999"
+    },
+    {
+      "bbox": [
+        0.7244077098112702,
+        0.3162968814857464,
+        0.7728483469415072,
+        0.3279193390731492
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "08679"
+    },
+    {
+      "bbox": [
+        0.6231775915509127,
+        0.23189265327303726,
+        0.8112324455669078,
+        0.24375417006449698
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "BSMG Worldwide, Inc."
+    },
+    {
+      "bbox": [
+        0.6231775915509127,
+        0.2312995774334643,
+        0.8120192859602802,
+        0.285862554674179
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "BSMG Worldwide, Inc.\nP.O. Box 198261\nAtlanta, GA 30384\nUSA"
+    },
+    {
+      "bbox": [
+        0.11251817625224812,
+        0.20401808881310698,
+        0.2014311407033253,
+        0.21587960560456668
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard"
+    },
+    {
+      "bbox": [
+        0.11330501664562048,
+        0.20461116465267995,
+        0.3517176558374469,
+        0.2722218103640003
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard\nAttn: Sheldon Johnsc.\n714 Green Valley Road\nPO Box 10529\nGreensboro, NC 27404-0529"
+    },
+    {
+      "bbox": [
+        0.7893622005086335,
+        0.5009590535998821,
+        0.8884453219113907,
+        0.5150720378131569
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 1,
+      "text": "$93,356.05"
+    },
+    {
+      "bbox": [
+        0.7893622005086335,
+        0.5017892291418395,
+        0.8884453219113907,
+        0.5142418622711996
+      ],
+      "fieldtype": "amount_due",
+      "page": 1,
+      "text": "$93,356.05"
+    },
+    {
+      "bbox": [
+        0.3721121670459109,
+        0.8828398029002583,
+        0.4700943648775265,
+        0.8977829626554905
+      ],
+      "fieldtype": "payment_terms",
+      "page": 1,
+      "text": "due upon receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.4534954407294833,
+        0.4435483870967742,
+        0.46930091185410333
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Parents"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.4534954407294833,
+        0.7725806451612903,
+        0.46930091185410333
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "66,868.75"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.4826747720364742,
+        0.4435483870967742,
+        0.496048632218845
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Teens"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.4826747720364742,
+        0.7725806451612903,
+        0.496048632218845
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "15,156.25"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.511854103343465,
+        0.4435483870967742,
+        0.5252279635258359
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Launch"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.511854103343465,
+        0.7725806451612903,
+        0.5252279635258359
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "7,268.75"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.5957446808510638,
+        0.4435483870967742,
+        0.609726443768997
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Burrelle's Press Clipping"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.5957446808510638,
+        0.7725806451612903,
+        0.609726443768997
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "132.50"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.6522796352583586,
+        0.4435483870967742,
+        0.6662613981762918
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "National Photo Service"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.6522796352583586,
+        0.7725806451612903,
+        0.6662613981762918
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "18.79"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.7082066869300911,
+        0.4435483870967742,
+        0.7240121580547112
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "Video Monitoring Services"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.7082066869300911,
+        0.7725806451612903,
+        0.7240121580547112
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "354.25"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.7240121580547112,
+        0.4435483870967742,
+        0.737386018237082
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "Video Replay"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.7240121580547112,
+        0.7725806451612903,
+        0.737386018237082
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 6,
+      "page": 0,
+      "text": "191.32"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.780547112462006,
+        0.4435483870967742,
+        0.7945288753799392
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "Federal Express"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.780547112462006,
+        0.7725806451612903,
+        0.7945288753799392
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 7,
+      "page": 0,
+      "text": "6.50"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.8389057750759878,
+        0.4435483870967742,
+        0.851063829787234
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "United Messenger"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.8389057750759878,
+        0.7725806451612903,
+        0.851063829787234
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 8,
+      "page": 0,
+      "text": "10.50"
+    },
+    {
+      "bbox": [
+        0.1717741935483871,
+        0.8936170212765957,
+        0.4435483870967742,
+        0.9118541033434651
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "Katharine Lauler"
+    },
+    {
+      "bbox": [
+        0.5854838709677419,
+        0.8936170212765957,
+        0.7725806451612903,
+        0.9118541033434651
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 9,
+      "page": 0,
+      "text": "520.61"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.23404255319148937,
+        0.35,
+        0.24680851063829787
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 10,
+      "page": 1,
+      "text": "Stacey Hurst"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.23404255319148937,
+        0.7758064516129032,
+        0.24680851063829787
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 10,
+      "page": 1,
+      "text": "26.23"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.24680851063829787,
+        0.35,
+        0.2620060790273556
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 11,
+      "page": 1,
+      "text": "Mark Masino"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.24680851063829787,
+        0.7758064516129032,
+        0.2620060790273556
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 11,
+      "page": 1,
+      "text": "50.28"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.2620060790273556,
+        0.35,
+        0.27477203647416415
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 12,
+      "page": 1,
+      "text": "Renata Moore"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.2620060790273556,
+        0.7758064516129032,
+        0.27477203647416415
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 12,
+      "page": 1,
+      "text": "11.00"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.27477203647416415,
+        0.35,
+        0.286322188449848
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 13,
+      "page": 1,
+      "text": "Patrick O'Neil"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.27477203647416415,
+        0.7758064516129032,
+        0.286322188449848
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 13,
+      "page": 1,
+      "text": "1,837.62"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.286322188449848,
+        0.35,
+        0.30151975683890575
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "Rebecca Bahr"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.286322188449848,
+        0.7758064516129032,
+        0.30151975683890575
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 14,
+      "page": 1,
+      "text": "241.56"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.3452887537993921,
+        0.35,
+        0.35927051671732524
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 15,
+      "page": 1,
+      "text": "Data Base Usage"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.3452887537993921,
+        0.7758064516129032,
+        0.35927051671732524
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 15,
+      "page": 1,
+      "text": "156.79"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.35927051671732524,
+        0.35,
+        0.37264437689969604
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 16,
+      "page": 1,
+      "text": "Petty Cash"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.35927051671732524,
+        0.7758064516129032,
+        0.37264437689969604
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 16,
+      "page": 1,
+      "text": "5.06"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.4,
+        0.35,
+        0.41641337386018235
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 17,
+      "page": 1,
+      "text": "Telephone"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.4,
+        0.7758064516129032,
+        0.41641337386018235
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 17,
+      "page": 1,
+      "text": "388.05"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.4291793313069909,
+        0.35,
+        0.44559270516717325
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 18,
+      "page": 1,
+      "text": "Photocopy"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.4291793313069909,
+        0.7758064516129032,
+        0.44559270516717325
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 18,
+      "page": 1,
+      "text": "49.00"
+    },
+    {
+      "bbox": [
+        0.17338709677419356,
+        0.45653495440729486,
+        0.35,
+        0.4729483282674772
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 19,
+      "page": 1,
+      "text": "Facsimile"
+    },
+    {
+      "bbox": [
+        0.5741935483870968,
+        0.45653495440729486,
+        0.7758064516129032,
+        0.4729483282674772
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 19,
+      "page": 1,
+      "text": "62.25"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 924,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hrfx0055",
+    "page_count": 2,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ],
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.10887096774193548,
+          0.42857142857142855,
+          0.8903225806451613,
+          0.9118541033434651
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1717741935483871,
+            "right": 0.4435483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5854838709677419,
+            "right": 0.7725806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4419452887537994,
+            "row_type": "subsection-header",
+            "top": 0.42857142857142855
+          },
+          {
+            "bottom": 0.4534954407294833,
+            "row_type": "gap",
+            "top": 0.4419452887537994
+          },
+          {
+            "bottom": 0.46930091185410333,
+            "row_type": "data",
+            "top": 0.4534954407294833
+          },
+          {
+            "bottom": 0.4826747720364742,
+            "row_type": "gap",
+            "top": 0.46930091185410333
+          },
+          {
+            "bottom": 0.496048632218845,
+            "row_type": "data",
+            "top": 0.4826747720364742
+          },
+          {
+            "bottom": 0.511854103343465,
+            "row_type": "gap",
+            "top": 0.496048632218845
+          },
+          {
+            "bottom": 0.5252279635258359,
+            "row_type": "data",
+            "top": 0.511854103343465
+          },
+          {
+            "bottom": 0.5531914893617021,
+            "row_type": "gap",
+            "top": 0.5252279635258359
+          },
+          {
+            "bottom": 0.5708206686930091,
+            "row_type": "subsection-header",
+            "top": 0.5531914893617021
+          },
+          {
+            "bottom": 0.5787234042553191,
+            "row_type": "gap",
+            "top": 0.5708206686930091
+          },
+          {
+            "bottom": 0.5957446808510638,
+            "row_type": "subsection-header",
+            "top": 0.5787234042553191
+          },
+          {
+            "bottom": 0.609726443768997,
+            "row_type": "data",
+            "top": 0.5957446808510638
+          },
+          {
+            "bottom": 0.6231003039513677,
+            "row_type": "gap-with-text",
+            "top": 0.609726443768997
+          },
+          {
+            "bottom": 0.6376899696048632,
+            "row_type": "gap",
+            "top": 0.6231003039513677
+          },
+          {
+            "bottom": 0.6522796352583586,
+            "row_type": "subsection-header",
+            "top": 0.6376899696048632
+          },
+          {
+            "bottom": 0.6662613981762918,
+            "row_type": "data",
+            "top": 0.6522796352583586
+          },
+          {
+            "bottom": 0.6802431610942249,
+            "row_type": "gap-with-text",
+            "top": 0.6662613981762918
+          },
+          {
+            "bottom": 0.6942249240121581,
+            "row_type": "gap",
+            "top": 0.6802431610942249
+          },
+          {
+            "bottom": 0.7082066869300911,
+            "row_type": "subsection-header",
+            "top": 0.6942249240121581
+          },
+          {
+            "bottom": 0.7240121580547112,
+            "row_type": "data",
+            "top": 0.7082066869300911
+          },
+          {
+            "bottom": 0.737386018237082,
+            "row_type": "data",
+            "top": 0.7240121580547112
+          },
+          {
+            "bottom": 0.7531914893617021,
+            "row_type": "gap-with-text",
+            "top": 0.737386018237082
+          },
+          {
+            "bottom": 0.766565349544073,
+            "row_type": "gap",
+            "top": 0.7531914893617021
+          },
+          {
+            "bottom": 0.780547112462006,
+            "row_type": "subsection-header",
+            "top": 0.766565349544073
+          },
+          {
+            "bottom": 0.7945288753799392,
+            "row_type": "data",
+            "top": 0.780547112462006
+          },
+          {
+            "bottom": 0.8079027355623101,
+            "row_type": "gap-with-text",
+            "top": 0.7945288753799392
+          },
+          {
+            "bottom": 0.8218844984802431,
+            "row_type": "gap",
+            "top": 0.8079027355623101
+          },
+          {
+            "bottom": 0.8389057750759878,
+            "row_type": "subsection-header",
+            "top": 0.8218844984802431
+          },
+          {
+            "bottom": 0.851063829787234,
+            "row_type": "data",
+            "top": 0.8389057750759878
+          },
+          {
+            "bottom": 0.8674772036474164,
+            "row_type": "gap-with-text",
+            "top": 0.851063829787234
+          },
+          {
+            "bottom": 0.8808510638297873,
+            "row_type": "gap",
+            "top": 0.8674772036474164
+          },
+          {
+            "bottom": 0.8936170212765957,
+            "row_type": "subsection-header",
+            "top": 0.8808510638297873
+          },
+          {
+            "bottom": 0.9118541033434651,
+            "row_type": "data",
+            "top": 0.8936170212765957
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      },
+      "1": {
+        "bbox": [
+          0.10967741935483871,
+          0.23404255319148937,
+          0.8983870967741936,
+          0.5264437689969604
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17338709677419356,
+            "right": 0.35
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5741935483870968,
+            "right": 0.7758064516129032
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.24680851063829787,
+            "row_type": "data",
+            "top": 0.23404255319148937
+          },
+          {
+            "bottom": 0.2620060790273556,
+            "row_type": "data",
+            "top": 0.24680851063829787
+          },
+          {
+            "bottom": 0.27477203647416415,
+            "row_type": "data",
+            "top": 0.2620060790273556
+          },
+          {
+            "bottom": 0.286322188449848,
+            "row_type": "data",
+            "top": 0.27477203647416415
+          },
+          {
+            "bottom": 0.30151975683890575,
+            "row_type": "data",
+            "top": 0.286322188449848
+          },
+          {
+            "bottom": 0.31793313069908813,
+            "row_type": "gap-with-text",
+            "top": 0.30151975683890575
+          },
+          {
+            "bottom": 0.32948328267477206,
+            "row_type": "gap",
+            "top": 0.31793313069908813
+          },
+          {
+            "bottom": 0.3452887537993921,
+            "row_type": "subsection-header",
+            "top": 0.32948328267477206
+          },
+          {
+            "bottom": 0.35927051671732524,
+            "row_type": "data",
+            "top": 0.3452887537993921
+          },
+          {
+            "bottom": 0.37264437689969604,
+            "row_type": "data",
+            "top": 0.35927051671732524
+          },
+          {
+            "bottom": 0.3884498480243161,
+            "row_type": "gap-with-text",
+            "top": 0.37264437689969604
+          },
+          {
+            "bottom": 0.4,
+            "row_type": "gap",
+            "top": 0.3884498480243161
+          },
+          {
+            "bottom": 0.41641337386018235,
+            "row_type": "data",
+            "top": 0.4
+          },
+          {
+            "bottom": 0.4291793313069909,
+            "row_type": "gap",
+            "top": 0.41641337386018235
+          },
+          {
+            "bottom": 0.44559270516717325,
+            "row_type": "data",
+            "top": 0.4291793313069909
+          },
+          {
+            "bottom": 0.45653495440729486,
+            "row_type": "gap",
+            "top": 0.44559270516717325
+          },
+          {
+            "bottom": 0.4729483282674772,
+            "row_type": "data",
+            "top": 0.45653495440729486
+          },
+          {
+            "bottom": 0.4978723404255319,
+            "row_type": "gap",
+            "top": 0.4729483282674772
+          },
+          {
+            "bottom": 0.5264437689969604,
+            "row_type": "footer",
+            "top": 0.4978723404255319
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

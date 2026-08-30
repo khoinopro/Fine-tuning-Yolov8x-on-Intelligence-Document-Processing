@@ -1,0 +1,254 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8399664851277754,
+        0.17316708229426434,
+        0.880764857262553,
+        0.1812069825436409
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "42117"
+    },
+    {
+      "bbox": [
+        0.646774193548387,
+        0.17193017456359103,
+        0.7087717198316277,
+        0.18329177057356608
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "02-29-20"
+    },
+    {
+      "bbox": [
+        0.06399744648592574,
+        0.06060847880299251,
+        0.37358509386159156,
+        0.09091271820448879
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY"
+    },
+    {
+      "bbox": [
+        0.06399744648592574,
+        0.06060847880299251,
+        0.40878368942885074,
+        0.12245386533665835
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KVRE-FM 92.9\nCADDO BROADCASTING COMPANY\nP.O. BOX 8439\nHOT SPRINGS VILLAGE AR 71910"
+    },
+    {
+      "bbox": [
+        0.9127635805055161,
+        0.20285286783042392,
+        0.9495621122349233,
+        0.2121296758104738
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "19210"
+    },
+    {
+      "bbox": [
+        0.11199553135037005,
+        0.17206982543640897,
+        0.3647854449697767,
+        0.1824438902743142
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "SHANE ETHRIDGE FOR G.C. CIRCUIT JUD"
+    },
+    {
+      "bbox": [
+        0.11199553135037005,
+        0.17316708229426434,
+        0.3647854449697767,
+        0.21398503740648378
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "SHANE ETHRIDGE FOR G.C. CIRCUIT JUD\nP.O. BOX 21444\nHOT SPRINGS, AR 71903"
+    },
+    {
+      "bbox": [
+        0.6639735072914796,
+        0.2022344139650873,
+        0.9087637401001456,
+        0.21336658354114713
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "SHANE ETHRIDGE FOR G.C. CIRCUIT JU"
+    },
+    {
+      "bbox": [
+        0.8303668681548866,
+        0.5477955112219451,
+        0.8423663893709976,
+        0.560783042394015
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.9007640592894048,
+        0.5461346633416458,
+        0.9735611546671455,
+        0.56171072319202
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "837.00"
+    },
+    {
+      "bbox": [
+        0.9007640592894048,
+        0.5461346633416458,
+        0.9727611865860714,
+        0.5610922693266832
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "837.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.029838709677419355,
+        0.3329177057356609,
+        0.0532258064516129,
+        0.35099750623441395
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "62"
+    },
+    {
+      "bbox": [
+        0.1814516129032258,
+        0.3329177057356609,
+        0.2435483870967742,
+        0.35099750623441395
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "13.50"
+    },
+    {
+      "bbox": [
+        0.8274193548387097,
+        0.3329177057356609,
+        0.8435483870967742,
+        0.35099750623441395
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.9,
+        0.3329177057356609,
+        0.9766129032258064,
+        0.35099750623441395
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "837.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 1093,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "47a6e18c-fc47-4bd0-8ba2-966e954ae0a1",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1809,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.029838709677419355,
+          0.3329177057356609,
+          0.9766129032258064,
+          0.564214463840399
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.029838709677419355,
+            "right": 0.0532258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.07338709677419354,
+            "right": 0.14919354838709678
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.1814516129032258,
+            "right": 0.2435483870967742
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.8274193548387097,
+            "right": 0.8435483870967742
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.9,
+            "right": 0.9766129032258064
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.35099750623441395,
+            "row_type": "data",
+            "top": 0.3329177057356609
+          },
+          {
+            "bottom": 0.516209476309227,
+            "row_type": "up-merge",
+            "top": 0.35099750623441395
+          },
+          {
+            "bottom": 0.5311720698254364,
+            "row_type": "gap",
+            "top": 0.516209476309227
+          },
+          {
+            "bottom": 0.564214463840399,
+            "row_type": "footer",
+            "top": 0.5311720698254364
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "pif"
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7,
+        0.31168267223382046,
+        0.7451612903225806,
+        0.3292860125260961
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "2/17/20"
+    },
+    {
+      "bbox": [
+        0.2055416416215855,
+        0.33653444676409183,
+        0.2567271087958325,
+        0.35517327766179535
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "1936899"
+    },
+    {
+      "bbox": [
+        0.6998013090229078,
+        0.33653444676409183,
+        0.7605840512923262,
+        0.35413778705636745
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WLTX-TV"
+    },
+    {
+      "bbox": [
+        0.7006010819475055,
+        0.33653444676409183,
+        0.8821495358311627,
+        0.35517327766179535
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WLTX-TV Columbia, SC"
+    },
+    {
+      "bbox": [
+        0.7006010819475055,
+        0.4421544885177453,
+        0.7941745141254257,
+        0.45665135699373693
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "rimoody@wltx.com"
+    },
+    {
+      "bbox": [
+        0.2039420957723903,
+        0.36345720250521923,
+        0.29031757162893207,
+        0.38416701461377867
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Tulsi Now, Inc."
+    },
+    {
+      "bbox": [
+        0.8677536231884059,
+        0.7947390396659708,
+        0.8773508982835772,
+        0.8123423799582464
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8661540773392106,
+        0.5511482254697286,
+        0.9008064516129032,
+        0.5700375782881002
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$150"
+    },
+    {
+      "bbox": [
+        0.867741935483871,
+        0.7954070981210856,
+        0.9005443130969077,
+        0.8123423799582464
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$150"
+    },
+    {
+      "bbox": [
+        0.867741935483871,
+        0.7926680584551148,
+        0.8997445401723102,
+        0.8113068893528184
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$150"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07661290322580645,
+        0.5208768267223383,
+        0.13790322580645162,
+        0.5469728601252609
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2/20/20"
+    },
+    {
+      "bbox": [
+        0.3895161290322581,
+        0.5208768267223383,
+        0.557258064516129,
+        0.5469728601252609
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "NEWS 19 @ NOON"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.5208768267223383,
+        0.7532258064516129,
+        0.5469728601252609
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$150"
+    },
+    {
+      "bbox": [
+        0.8040322580645162,
+        0.5208768267223383,
+        0.8209677419354838,
+        0.5469728601252609
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8685483870967742,
+        0.5208768267223383,
+        0.9,
+        0.5469728601252609
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$150"
+    },
+    {
+      "bbox": [
+        0.09547762669534064,
+        0.695162998244359,
+        0.12963935590315281,
+        0.713297684854306
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.4458543365190551,
+        0.6945333369989225,
+        0.5054183771890864,
+        0.7160751565762005
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Program"
+    },
+    {
+      "bbox": [
+        0.7261557043780266,
+        0.6945333369989225,
+        0.7532258064516129,
+        0.7160751565762005
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.7822159779498209,
+        0.6968001728251658,
+        0.8452837857180896,
+        0.7138014415219911
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "# of spots"
+    },
+    {
+      "bbox": [
+        0.8522913199145637,
+        0.6956667549120441,
+        0.9179869530065103,
+        0.7172016952613562
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Total Cost"
+    },
+    {
+      "bbox": [
+        0.07661290322580645,
+        0.7160751565762005,
+        0.13790322580645162,
+        0.7421711899791231
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "2/18-2/21"
+    },
+    {
+      "bbox": [
+        0.3895161290322581,
+        0.7160751565762005,
+        0.557258064516129,
+        0.7421711899791231
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "ELLEN"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.7160751565762005,
+        0.7532258064516129,
+        0.7421711899791231
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$40"
+    },
+    {
+      "bbox": [
+        0.8040322580645162,
+        0.7160751565762005,
+        0.8209677419354838,
+        0.7421711899791231
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8685483870967742,
+        0.7160751565762005,
+        0.9,
+        0.7421711899791231
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "$40"
+    },
+    {
+      "bbox": [
+        0.07661290322580645,
+        0.7421711899791231,
+        0.13790322580645162,
+        0.7661795407098121
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "2/22/20"
+    },
+    {
+      "bbox": [
+        0.3895161290322581,
+        0.7421711899791231,
+        0.557258064516129,
+        0.7661795407098121
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "NEWS 19 @ 11A SAT"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.7421711899791231,
+        0.7532258064516129,
+        0.7661795407098121
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$50"
+    },
+    {
+      "bbox": [
+        0.8040322580645162,
+        0.7421711899791231,
+        0.8209677419354838,
+        0.7661795407098121
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8685483870967742,
+        0.7421711899791231,
+        0.9,
+        0.7661795407098121
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "$50"
+    },
+    {
+      "bbox": [
+        0.07661290322580645,
+        0.7661795407098121,
+        0.13790322580645162,
+        0.791231732776618
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "2/22/20"
+    },
+    {
+      "bbox": [
+        0.3895161290322581,
+        0.7661795407098121,
+        0.557258064516129,
+        0.791231732776618
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "CBS SATURDAY MORNING"
+    },
+    {
+      "bbox": [
+        0.7209677419354839,
+        0.7661795407098121,
+        0.7532258064516129,
+        0.791231732776618
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$60"
+    },
+    {
+      "bbox": [
+        0.8040322580645162,
+        0.7661795407098121,
+        0.8209677419354838,
+        0.791231732776618
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.8685483870967742,
+        0.7661795407098121,
+        0.9,
+        0.791231732776618
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "$60"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09547762669534064,
+        0.5004669955212712,
+        0.12525964703035636,
+        0.5208685179574615
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.44673027829361434,
+        0.49958545594199194,
+        0.503666493639968,
+        0.521120396291304
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Program"
+    },
+    {
+      "bbox": [
+        0.7252797626034674,
+        0.5007188738551137,
+        0.7533098993893644,
+        0.5199869783781823
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.7839678614989395,
+        0.4984520380288703,
+        0.8452837857180896,
+        0.5208768267223383
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "# of spots"
+    },
+    {
+      "bbox": [
+        0.8540432034636822,
+        0.49958545594199194,
+        0.917111011231951,
+        0.5188535604650607
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total Cost"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 973,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "d02a6678-f3c4-42ef-9289-c51bb471a165",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        2200,
+        1700
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07661290322580645,
+          0.4613778705636743,
+          0.9209677419354839,
+          0.8402922755741128
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_date",
+            "left": 0.07661290322580645,
+            "right": 0.13790322580645162
+          },
+          {
+            "column_type": "",
+            "left": 0.14919354838709678,
+            "right": 0.19193548387096773
+          },
+          {
+            "column_type": "",
+            "left": 0.22016129032258064,
+            "right": 0.2846774193548387
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3895161290322581,
+            "right": 0.557258064516129
+          },
+          {
+            "column_type": "",
+            "left": 0.6612903225806451,
+            "right": 0.6814516129032258
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7209677419354839,
+            "right": 0.7532258064516129
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.8040322580645162,
+            "right": 0.8209677419354838
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8685483870967742,
+            "right": 0.9
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5208768267223383,
+            "row_type": "header",
+            "top": 0.4613778705636743
+          },
+          {
+            "bottom": 0.5469728601252609,
+            "row_type": "data",
+            "top": 0.5208768267223383
+          },
+          {
+            "bottom": 0.5720250521920668,
+            "row_type": "subsection-header",
+            "top": 0.5469728601252609
+          },
+          {
+            "bottom": 0.5981210855949896,
+            "row_type": "gap-with-text",
+            "top": 0.5720250521920668
+          },
+          {
+            "bottom": 0.6534446764091858,
+            "row_type": "gap",
+            "top": 0.5981210855949896
+          },
+          {
+            "bottom": 0.6826722338204593,
+            "row_type": "gap-with-text",
+            "top": 0.6534446764091858
+          },
+          {
+            "bottom": 0.7160751565762005,
+            "row_type": "data",
+            "top": 0.6826722338204593
+          },
+          {
+            "bottom": 0.7421711899791231,
+            "row_type": "data",
+            "top": 0.7160751565762005
+          },
+          {
+            "bottom": 0.7661795407098121,
+            "row_type": "data",
+            "top": 0.7421711899791231
+          },
+          {
+            "bottom": 0.791231732776618,
+            "row_type": "data",
+            "top": 0.7661795407098121
+          },
+          {
+            "bottom": 0.8402922755741128,
+            "row_type": "footer",
+            "top": 0.791231732776618
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

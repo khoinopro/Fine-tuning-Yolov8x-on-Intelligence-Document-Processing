@@ -1,0 +1,184 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6533393023783701,
+        0.1883747727576443,
+        0.7855090922847991,
+        0.20166261979863997
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "November 18, 2003"
+    },
+    {
+      "bbox": [
+        0.31756084028173787,
+        0.7822900640976233,
+        0.7923724242097313,
+        0.7947149521040608
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "P-221 Franklin Building 3451 Walnut Street Philadelphia, PA 19104-6205"
+    },
+    {
+      "bbox": [
+        0.7279351307725289,
+        0.20244425785987497,
+        0.809539963176877,
+        0.21536523929471033
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "540938 (#6)"
+    },
+    {
+      "bbox": [
+        0.18924310827511412,
+        0.20127180076802245,
+        0.3229148276122979,
+        0.21536523929471033
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Phillip Morris U.S.A."
+    },
+    {
+      "bbox": [
+        0.1897437514186991,
+        0.20135627328079614,
+        0.3754823576887185,
+        0.25598646505447514
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Phillip Morris U.S.A.\n615 Maury Street\nRichmond, VA 23224\nAttn: Tapas Sengupta, Ph.D."
+    },
+    {
+      "bbox": [
+        0.6222994274761028,
+        0.43146420980174127,
+        0.631811647204217,
+        0.44279796168964936
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$\u0303"
+    },
+    {
+      "bbox": [
+        0.6443636136445323,
+        0.43081733692347784,
+        0.7121414912615689,
+        0.4442803787023365
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "89,711.77"
+    },
+    {
+      "bbox": [
+        0.6453290120810108,
+        0.43146420980174127,
+        0.71391712275215,
+        0.4435795997508844
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "89,711.77"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1870967741935484,
+        0.37531486146095716,
+        0.49274193548387096,
+        0.4080604534005038
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Per terms of Agreement:\nFirst payment - July, August, and September"
+    },
+    {
+      "bbox": [
+        0.6209677419354839,
+        0.37531486146095716,
+        0.632258064516129,
+        0.4080604534005038
+      ],
+      "fieldtype": "line_item_currency",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6435483870967742,
+        0.37531486146095716,
+        0.7104838709677419,
+        0.4080604534005038
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "89,711.77"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 348,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "ghxx0179",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1744,
+        2233
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1870967741935484,
+          0.37531486146095716,
+          0.7225806451612903,
+          0.4080604534005038
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1870967741935484,
+            "right": 0.49274193548387096
+          },
+          {
+            "column_type": "line_item_currency",
+            "left": 0.6209677419354839,
+            "right": 0.632258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6435483870967742,
+            "right": 0.7104838709677419
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4080604534005038,
+            "row_type": "data",
+            "top": 0.37531486146095716
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

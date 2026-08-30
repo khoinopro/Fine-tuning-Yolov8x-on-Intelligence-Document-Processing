@@ -1,0 +1,222 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2016015978293639,
+        0.7482205556588089,
+        0.2820219073459954,
+        0.7637922633728319
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99-NCSL"
+    },
+    {
+      "bbox": [
+        0.2621922419857301,
+        0.2608261042098865,
+        0.3459174957290725,
+        0.27717639730961074
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "99-NCSL"
+    },
+    {
+      "bbox": [
+        0.10685986333031858,
+        0.11445205169806962,
+        0.2412609285498945,
+        0.13158093018349498
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 10, 1999"
+    },
+    {
+      "bbox": [
+        0.26329389006130044,
+        0.04282219621356346,
+        0.7303926741031053,
+        0.06306541624179346
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Governmental Consultant Services, Inc."
+    },
+    {
+      "bbox": [
+        0.26512165272348664,
+        0.04075324113338562,
+        0.7280833302889709,
+        0.07863712395581654
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Governmental Consultant Services,Inc.\n530 W. Ionia, Suite B., Lansing, MI 48933"
+    },
+    {
+      "bbox": [
+        0.3390747784276436,
+        0.935005701254276,
+        0.6451074670781155,
+        0.9494674194176377
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Governmental Consultant Services, Inc."
+    },
+    {
+      "bbox": [
+        0.338811054688927,
+        0.9358151897979331,
+        0.6463842107185913,
+        0.9617042578635592
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Governmental Consultant Services, Inc.\n530 W. Ionia, Suite B., Lansing, MI 48933"
+    },
+    {
+      "bbox": [
+        0.10465656717917798,
+        0.1689530286971504,
+        0.25558235353230835,
+        0.20165361489659883
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Michael Shannon\nLorillard Tobacco"
+    },
+    {
+      "bbox": [
+        0.10893215942717276,
+        0.16917626358683424,
+        0.3007499246306904,
+        0.23980429879595536
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Michael Shannon\nLorillard Tobacco\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.37345869761832984,
+        0.8214075819147172,
+        0.6037031454125213,
+        0.8408722165572461
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.5530273339362879,
+        0.8580010950426715,
+        0.5673487589187016,
+        0.8743513881423957
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.5552306300874285,
+        0.8587796804283727,
+        0.6213295146216461,
+        0.8751299735280968
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$188.87"
+    },
+    {
+      "bbox": [
+        0.5541289820118581,
+        0.8580010950426715,
+        0.6235328107727867,
+        0.8751299735280968
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$188.87"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.34838709677419355,
+        0.492018244013683,
+        0.41693548387096774,
+        0.5091220068415051
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Dinner"
+    },
+    {
+      "bbox": [
+        0.5185483870967742,
+        0.492018244013683,
+        0.6040322580645161,
+        0.5091220068415051
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$188.78"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 49,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "xymm0166",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1654,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.34838709677419355,
+          0.492018244013683,
+          0.6040322580645161,
+          0.5091220068415051
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.34838709677419355,
+            "right": 0.41693548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5185483870967742,
+            "right": 0.6040322580645161
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5091220068415051,
+            "row_type": "data",
+            "top": 0.492018244013683
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

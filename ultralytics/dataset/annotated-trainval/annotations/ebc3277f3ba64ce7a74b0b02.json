@@ -1,0 +1,230 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.19084072454715803,
+        0.18238997481712435,
+        0.20509181761399123
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1102193"
+    },
+    {
+      "bbox": [
+        0.6239657033217412,
+        0.19084072454715803,
+        0.7607581844345844,
+        0.20757026858213615
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 7, 2001"
+    },
+    {
+      "bbox": [
+        0.32558210416916494,
+        0.10037726420986884,
+        0.5815680337370588,
+        0.11958525921299187
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "McDERMOTT, WILL & EMERY"
+    },
+    {
+      "bbox": [
+        0.32556486373748605,
+        0.09910356791956348,
+        0.580173282814238,
+        0.1766628819435697
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MCDERMOTT, WILL & EMERY\n227 West Monroe Street\nSuite 4400\nChicago, IL 60606-5096"
+    },
+    {
+      "bbox": [
+        0.10403225806451613,
+        0.2229056839475328,
+        0.16399098612943197,
+        0.23901561524047468
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "041537"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.05403225806451613,
+        0.3603997501561524,
+        0.10080645161290322,
+        0.3810118675827608
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "0017"
+    },
+    {
+      "bbox": [
+        0.10080645161290322,
+        0.3603997501561524,
+        0.27419354838709675,
+        0.3810118675827608
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Attorney Fee Disputes"
+    },
+    {
+      "bbox": [
+        0.3758064516129032,
+        0.3603997501561524,
+        0.43306451612903224,
+        0.3810118675827608
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "124.75"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.3603997501561524,
+        0.8661290322580645,
+        0.3810118675827608
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "72,267.90"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.10080645161290322,
+        0.3004372267332917,
+        0.2183879961626094,
+        0.3150730793254216
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Matter Name"
+    },
+    {
+      "bbox": [
+        0.3647799496342487,
+        0.29958276077451595,
+        0.4207768717272255,
+        0.3144534665833854
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hours"
+    },
+    {
+      "bbox": [
+        0.782258064516129,
+        0.3004372267332917,
+        0.8327542271255546,
+        0.3150730793254216
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 633,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "sgmx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1812,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.05403225806451613,
+          0.3004372267332917,
+          0.8661290322580645,
+          0.3810118675827608
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_code",
+            "left": 0.05403225806451613,
+            "right": 0.10080645161290322
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.10080645161290322,
+            "right": 0.27419354838709675
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.3758064516129032,
+            "right": 0.43306451612903224
+          },
+          {
+            "column_type": "",
+            "left": 0.4693548387096774,
+            "right": 0.5491935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.5862903225806452,
+            "right": 0.6637096774193548
+          },
+          {
+            "column_type": "",
+            "left": 0.7153225806451613,
+            "right": 0.7532258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.782258064516129,
+            "right": 0.8661290322580645
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.34603372891942535,
+            "row_type": "header",
+            "top": 0.3004372267332917
+          },
+          {
+            "bottom": 0.3603997501561524,
+            "row_type": "gap",
+            "top": 0.34603372891942535
+          },
+          {
+            "bottom": 0.3810118675827608,
+            "row_type": "data",
+            "top": 0.3603997501561524
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

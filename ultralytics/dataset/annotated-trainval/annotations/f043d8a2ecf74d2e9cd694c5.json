@@ -1,0 +1,265 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.24516659204976554,
+        0.2366579486816993,
+        0.31396828388981834,
+        0.24980561249734923
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0101498"
+    },
+    {
+      "bbox": [
+        0.6516129032258065,
+        0.1387808958318607,
+        0.6986763354461698,
+        0.15265898541504674
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "2/4/99"
+    },
+    {
+      "bbox": [
+        0.2435483870967742,
+        0.2359275229141632,
+        0.3149373218030585,
+        0.25167173252279634
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "0101498"
+    },
+    {
+      "bbox": [
+        0.13372723202714487,
+        0.026295327631299922,
+        0.3129992459765782,
+        0.05332108103013595
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "640 N. LaSalle Suite 350\nChicago, IL 60610"
+    },
+    {
+      "bbox": [
+        0.1782258064516129,
+        0.12563323201621074,
+        0.36726536911802826,
+        0.14224924012158055
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Atlanta Creative Loafing"
+    },
+    {
+      "bbox": [
+        0.6531315535238814,
+        0.15850239155533563,
+        0.7064286387520913,
+        0.17384133267359395
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "Camel"
+    },
+    {
+      "bbox": [
+        0.7056451612903226,
+        0.5799392097264437,
+        0.7897658992907468,
+        0.6004099809146816
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "3,467.25"
+    },
+    {
+      "bbox": [
+        0.7056451612903226,
+        0.5835866261398176,
+        0.7975806451612903,
+        0.601823708206687
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "3,467.25"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.07016129032258064,
+        0.2844984802431611,
+        0.23225806451612904,
+        0.30516717325227966
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Atlanta Creative Loafing"
+    },
+    {
+      "bbox": [
+        0.25,
+        0.2844984802431611,
+        0.3088709677419355,
+        0.30516717325227966
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "2/20/99"
+    },
+    {
+      "bbox": [
+        0.725,
+        0.2844984802431611,
+        0.7870967741935484,
+        0.30516717325227966
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "3,467.25"
+    },
+    {
+      "bbox": [
+        0.8346774193548387,
+        0.2844984802431611,
+        0.9580645161290322,
+        0.30516717325227966
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "CCP99ATMEDCL"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07016129032258064,
+        0.2668693009118541,
+        0.1841172035156342,
+        0.28252868771887285
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Publication"
+    },
+    {
+      "bbox": [
+        0.25,
+        0.2668693009118541,
+        0.30621598058389693,
+        0.28252868771887285
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Issue"
+    },
+    {
+      "bbox": [
+        0.737437851975777,
+        0.2668693009118541,
+        0.7870967741935484,
+        0.28252868771887285
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    },
+    {
+      "bbox": [
+        0.8346774193548387,
+        0.2668693009118541,
+        0.9580645161290322,
+        0.2844984802431611
+      ],
+      "fieldtype": "line_item_code",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Internal Use Only"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 161,
+    "currency": "other",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "gfxb0089",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.07016129032258064,
+          0.2668693009118541,
+          0.9580645161290322,
+          0.30516717325227966
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.07016129032258064,
+            "right": 0.23225806451612904
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.25,
+            "right": 0.3088709677419355
+          },
+          {
+            "column_type": "",
+            "left": 0.35,
+            "right": 0.4064516129032258
+          },
+          {
+            "column_type": "",
+            "left": 0.4838709677419355,
+            "right": 0.614516129032258
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.725,
+            "right": 0.7870967741935484
+          },
+          {
+            "column_type": "line_item_code",
+            "left": 0.8346774193548387,
+            "right": 0.9580645161290322
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.2844984802431611,
+            "row_type": "header",
+            "top": 0.2668693009118541
+          },
+          {
+            "bottom": 0.30516717325227966,
+            "row_type": "data",
+            "top": 0.2844984802431611
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7768990780822662,
+        0.12179781689136739,
+        0.8327643042147398,
+        0.13582982344567238
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "4553-A"
+    },
+    {
+      "bbox": [
+        0.7120954157685969,
+        0.15435207209735496,
+        0.7709401206281358,
+        0.17006791943817656
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/8/99"
+    },
+    {
+      "bbox": [
+        0.7106056764050642,
+        0.17680328258424297,
+        0.9266178841172955,
+        0.20374473516850855
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "CAMBRIDGE PACKREPRO AIT\n100026-06"
+    },
+    {
+      "bbox": [
+        0.12290349749144193,
+        0.10439812876402918,
+        0.30167222111535746,
+        0.11955269584267858
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Creative Comps Inc."
+    },
+    {
+      "bbox": [
+        0.1214137581279093,
+        0.10608196955054577,
+        0.3031619604788901,
+        0.1470554286891164
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Creative Comps Inc.\n25 West 31st Street\nNew York, NY 10001"
+    },
+    {
+      "bbox": [
+        0.12215862780967561,
+        0.24584075483142356,
+        0.2845402184347322,
+        0.25987276138572857
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Landor Associates"
+    },
+    {
+      "bbox": [
+        0.1214137581279093,
+        0.24584075483142356,
+        0.321783702523048,
+        0.3025300613108158
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Landor Associates\n230 Park Avenue South\nNew York, NY 10003\nAttn: Mary Zehnter"
+    },
+    {
+      "bbox": [
+        0.7113505460868305,
+        0.24696331535576796,
+        0.8298387096774194,
+        0.26261398176291795
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Mary Zehnter"
+    },
+    {
+      "bbox": [
+        0.8223361286700114,
+        0.6645558304118847,
+        0.8364886526235714,
+        0.6785878369661896
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8238258680335441,
+        0.6634332698875404,
+        0.9094858814366702,
+        0.6791491172283619
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,330.00"
+    },
+    {
+      "bbox": [
+        0.8238258680335441,
+        0.6639945501497124,
+        0.9079961420731376,
+        0.6785878369661896
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,330 00"
+    },
+    {
+      "bbox": [
+        0.5564176522794371,
+        0.3530452849063137,
+        0.6256905326837043,
+        0.3670772914606187
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30 Days"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2129032258064516,
+        0.41519756838905775,
+        0.2403225806451613,
+        0.4310030395136778
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "18"
+    },
+    {
+      "bbox": [
+        0.3064516129032258,
+        0.41519756838905775,
+        0.37016129032258066,
+        0.4310030395136778
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SOLIDS"
+    },
+    {
+      "bbox": [
+        0.2129032258064516,
+        0.45288753799392095,
+        0.2403225806451613,
+        0.4674772036474164
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "2"
+    },
+    {
+      "bbox": [
+        0.3064516129032258,
+        0.45288753799392095,
+        0.37016129032258066,
+        0.4674772036474164
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "SOLIDS"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.17727898426038288,
+        0.37921497713009256,
+        0.26666334607234066,
+        0.39380826394656976
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY. SHIPPED"
+    },
+    {
+      "bbox": [
+        0.46330894205864775,
+        0.37921497713009256,
+        0.5512035645070729,
+        0.39268570342222536
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1156,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tpfj0064",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06290322580645161,
+          0.3781155015197568,
+          0.9185483870967742,
+          0.6832826747720365
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.2129032258064516,
+            "right": 0.2403225806451613
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3064516129032258,
+            "right": 0.37016129032258066
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3939209726443769,
+            "row_type": "header",
+            "top": 0.3781155015197568
+          },
+          {
+            "bottom": 0.41519756838905775,
+            "row_type": "gap",
+            "top": 0.3939209726443769
+          },
+          {
+            "bottom": 0.4310030395136778,
+            "row_type": "data",
+            "top": 0.41519756838905775
+          },
+          {
+            "bottom": 0.45288753799392095,
+            "row_type": "gap-with-text",
+            "top": 0.4310030395136778
+          },
+          {
+            "bottom": 0.4674772036474164,
+            "row_type": "data",
+            "top": 0.45288753799392095
+          },
+          {
+            "bottom": 0.4857142857142857,
+            "row_type": "gap",
+            "top": 0.4674772036474164
+          },
+          {
+            "bottom": 0.6644376899696048,
+            "row_type": "gap-with-text",
+            "top": 0.4857142857142857
+          },
+          {
+            "bottom": 0.6832826747720365,
+            "row_type": "footer",
+            "top": 0.6644376899696048
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8322539262140745,
+        0.14812669683257917,
+        0.9042759005979848,
+        0.1622340012928248
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DL-15649"
+    },
+    {
+      "bbox": [
+        0.8410566119721079,
+        0.1782650290885585,
+        0.9042759005979848,
+        0.19301357466063349
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "04/23/99"
+    },
+    {
+      "bbox": [
+        0.18965786587763042,
+        0.077590174531351,
+        0.2856871650561775,
+        0.09169747899159664
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "D.L. Blair Inc."
+    },
+    {
+      "bbox": [
+        0.18946263087153367,
+        0.07785246056751649,
+        0.6690041176105445,
+        0.09297996121525534
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "D.L. Blair Inc, \u00b7 1051 Franklin Avenue \u00b7 Garden City, New York 11530"
+    },
+    {
+      "bbox": [
+        0.1760537151606696,
+        0.20712087912087912,
+        0.4265301371847131,
+        0.2365869424692954
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Steve Sampson\nPHILIP MORRIS INCORPORATED"
+    },
+    {
+      "bbox": [
+        0.17765420348031205,
+        0.20669280023911069,
+        0.4261199243067346,
+        0.26611506140917907
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Steve Sampson\nPHILIP MORRIS INCORPORATED\n120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7826387883051584,
+        0.6300193923723335,
+        0.7946424507024769,
+        0.6441266968325792
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8134782348003359,
+        0.6293442633437616,
+        0.8938727265203087,
+        0.6447679379444086
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "112,587.60"
+    },
+    {
+      "bbox": [
+        0.8125506655474278,
+        0.6286007091788389,
+        0.8938727265203087,
+        0.6441266968325792
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "112,587.60"
+    },
+    {
+      "bbox": [
+        0.7722356142274825,
+        0.29881835811247576,
+        0.8890712615613814,
+        0.31484938590820943
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET 10 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04112903225806443,
+        0.3962508080155139,
+        0.4693548387096774,
+        0.42857142857142855
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Training manual production costs\n(Line item No. 7 per revised budget)"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.3962508080155139,
+        0.9,
+        0.42857142857142855
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1,389.89"
+    },
+    {
+      "bbox": [
+        0.04112903225806443,
+        0.4421460892049127,
+        0.4693548387096774,
+        0.47123464770523593
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Agency expenses (B. Trobiano, B. Conion and M. Malinowitz)\n(Line Item No. 10 per revised budget)"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.4421460892049127,
+        0.9,
+        0.47123464770523593
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "190.25"
+    },
+    {
+      "bbox": [
+        0.04112903225806443,
+        0.4854557207498384,
+        0.4693548387096774,
+        0.5597931480284422
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "Per diem payments to Ford Model Mgmt./Pinkerton\npersonnel: Sr. office personnel/security Individual @ $350.00\nper individual per diem; Jr. Individual @@ $200.00 per\nindiviquai per diem. (Please see attached Appendix A).\nItem No. 5 per revised budget)"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.4854557207498384,
+        0.9,
+        0.5597931480284422
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "68,000.00"
+    },
+    {
+      "bbox": [
+        0.04112903225806443,
+        0.5746606334841629,
+        0.4693548387096774,
+        0.6173238526179703
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "Airfare expenses for Ford Model Mgmt./Pinkerton\npersonnel. (Please see attached Appendix A).\n(Line ltem No. 4 per revised budget)"
+    },
+    {
+      "bbox": [
+        0.8209677419354838,
+        0.5746606334841629,
+        0.9,
+        0.6173238526179703
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "43,007.46"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07606067873845786,
+        0.3417374987367731,
+        0.1938619738577767,
+        0.35660858203522733
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PROMOTION NAME"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 291,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zzbk0030",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04112903225806443,
+          0.3380736910148675,
+          0.9,
+          0.6489980607627667
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04112903225806443,
+            "right": 0.4693548387096774
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8209677419354838,
+            "right": 0.9
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3561732385261797,
+            "row_type": "header",
+            "top": 0.3380736910148675
+          },
+          {
+            "bottom": 0.3962508080155139,
+            "row_type": "gap",
+            "top": 0.3561732385261797
+          },
+          {
+            "bottom": 0.42857142857142855,
+            "row_type": "data",
+            "top": 0.3962508080155139
+          },
+          {
+            "bottom": 0.4421460892049127,
+            "row_type": "gap",
+            "top": 0.42857142857142855
+          },
+          {
+            "bottom": 0.47123464770523593,
+            "row_type": "data",
+            "top": 0.4421460892049127
+          },
+          {
+            "bottom": 0.4854557207498384,
+            "row_type": "gap",
+            "top": 0.47123464770523593
+          },
+          {
+            "bottom": 0.5597931480284422,
+            "row_type": "data",
+            "top": 0.4854557207498384
+          },
+          {
+            "bottom": 0.5746606334841629,
+            "row_type": "gap",
+            "top": 0.5597931480284422
+          },
+          {
+            "bottom": 0.6173238526179703,
+            "row_type": "data",
+            "top": 0.5746606334841629
+          },
+          {
+            "bottom": 0.6315449256625727,
+            "row_type": "gap",
+            "top": 0.6173238526179703
+          },
+          {
+            "bottom": 0.6489980607627667,
+            "row_type": "footer",
+            "top": 0.6315449256625727
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

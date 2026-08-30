@@ -1,0 +1,326 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.15412491420727523,
+        0.2426477858217891,
+        0.22238023335621138,
+        0.2554187219176728
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "7/26/2022"
+    },
+    {
+      "bbox": [
+        0.3181578586135896,
+        0.1558054203697804,
+        0.6825531914893617,
+        0.19667241587660803
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The G Media Group, Inc"
+    },
+    {
+      "bbox": [
+        0.15412491420727523,
+        0.2605270963560262,
+        0.30824982841455045,
+        0.275000823931361
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Judge Robert Watson"
+    },
+    {
+      "bbox": [
+        0.8608977350720658,
+        0.6445065749722609,
+        0.870805765271105,
+        0.660683094027047
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8608977350720658,
+        0.6445065749722609,
+        0.9258503774879889,
+        0.6581289068078702
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,400.00"
+    },
+    {
+      "bbox": [
+        0.8608977350720658,
+        0.6453579707119865,
+        0.9247494852436513,
+        0.6572775110681446
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,400.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.06048387096774194,
+        0.3946384039900249,
+        0.11854838709677419,
+        0.40648379052369077
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "AM Drive"
+    },
+    {
+      "bbox": [
+        0.6056451612903225,
+        0.3946384039900249,
+        0.6185483870967742,
+        0.40648379052369077
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "8"
+    },
+    {
+      "bbox": [
+        0.7548387096774194,
+        0.3946384039900249,
+        0.8024193548387096,
+        0.40648379052369077
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$80.00"
+    },
+    {
+      "bbox": [
+        0.8540322580645161,
+        0.3946384039900249,
+        0.907258064516129,
+        0.40648379052369077
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$640.00"
+    },
+    {
+      "bbox": [
+        0.06048387096774194,
+        0.40648379052369077,
+        0.11854838709677419,
+        0.422069825436409
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Midday"
+    },
+    {
+      "bbox": [
+        0.6056451612903225,
+        0.40648379052369077,
+        0.6185483870967742,
+        0.422069825436409
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "7"
+    },
+    {
+      "bbox": [
+        0.7548387096774194,
+        0.40648379052369077,
+        0.8024193548387096,
+        0.422069825436409
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$80.00"
+    },
+    {
+      "bbox": [
+        0.8540322580645161,
+        0.40648379052369077,
+        0.907258064516129,
+        0.422069825436409
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$560.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.07706245710363761,
+        0.34226108736968147,
+        0.13540974605353465,
+        0.3558834192052907
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Program"
+    },
+    {
+      "bbox": [
+        0.5757666437886066,
+        0.3354499214518769,
+        0.6484255319148936,
+        0.3601403979039186
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "TOTAL #\nOF SPOTS"
+    },
+    {
+      "bbox": [
+        0.7618174330816746,
+        0.34226108736968147,
+        0.7959450926561427,
+        0.35503202346556517
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Rate"
+    },
+    {
+      "bbox": [
+        0.8642004118050788,
+        0.3405582958902304,
+        0.8994289636238846,
+        0.3541806277258396
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Total"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 789,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "a674ab9c-87cc-4966-b907-8f47644a68f7",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.06048387096774194,
+          0.3179551122194514,
+          0.9354838709677419,
+          0.6620947630922693
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.06048387096774194,
+            "right": 0.11854838709677419
+          },
+          {
+            "column_type": "",
+            "left": 0.18548387096774194,
+            "right": 0.23387096774193547
+          },
+          {
+            "column_type": "",
+            "left": 0.275,
+            "right": 0.28951612903225804
+          },
+          {
+            "column_type": "",
+            "left": 0.31209677419354837,
+            "right": 0.3241935483870968
+          },
+          {
+            "column_type": "",
+            "left": 0.5193548387096775,
+            "right": 0.5443548387096774
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6056451612903225,
+            "right": 0.6185483870967742
+          },
+          {
+            "column_type": "",
+            "left": 0.6766129032258065,
+            "right": 0.7
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7548387096774194,
+            "right": 0.8024193548387096
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8540322580645161,
+            "right": 0.907258064516129
+          }
+        ],
+        "missing_columns": true,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.378428927680798,
+            "row_type": "header",
+            "top": 0.3179551122194514
+          },
+          {
+            "bottom": 0.3946384039900249,
+            "row_type": "gap",
+            "top": 0.378428927680798
+          },
+          {
+            "bottom": 0.40648379052369077,
+            "row_type": "data",
+            "top": 0.3946384039900249
+          },
+          {
+            "bottom": 0.422069825436409,
+            "row_type": "data",
+            "top": 0.40648379052369077
+          },
+          {
+            "bottom": 0.6140897755610972,
+            "row_type": "gap",
+            "top": 0.422069825436409
+          },
+          {
+            "bottom": 0.6620947630922693,
+            "row_type": "footer",
+            "top": 0.6140897755610972
+          }
+        ],
+        "table_border_type": "all_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

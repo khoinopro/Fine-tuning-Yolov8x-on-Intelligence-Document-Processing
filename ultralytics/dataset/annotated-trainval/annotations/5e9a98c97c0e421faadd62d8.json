@@ -1,0 +1,248 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.3751348303234482,
+        0.4629440890527305,
+        0.5722690533682278,
+        0.4763887382991796
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "INV2-WTBF-XYVP-CMJ9-J89M"
+    },
+    {
+      "bbox": [
+        0.42499819262301003,
+        0.038541327839820734,
+        0.5314516129032258,
+        0.0515378221113882
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 12, 2020"
+    },
+    {
+      "bbox": [
+        0.375866477234863,
+        0.5281670591610029,
+        0.46074254566035944,
+        0.5385654601899704
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Nina Valedon"
+    },
+    {
+      "bbox": [
+        0.37589039421796633,
+        0.4321646817485453,
+        0.38400647313312386,
+        0.44441661858600323
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.37589039421796633,
+        0.4315670262930595,
+        0.46014302295626835,
+        0.4435201354027746
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$291.00 USD"
+    },
+    {
+      "bbox": [
+        0.37643146968397306,
+        0.4319256049751533,
+        0.46029761847393424,
+        0.44357988635712553
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$291.00 USD"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2508064516129032,
+        0.26683291770573564,
+        0.5314516129032258,
+        0.30860349127182046
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Comite Amigos de Nina Valedon\nPrograma miercoles, 12 de agosto 2020 - 1\nhora"
+    },
+    {
+      "bbox": [
+        0.660483870967742,
+        0.26683291770573564,
+        0.6693548387096774,
+        0.30860349127182046
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.7104838709677419,
+        0.26683291770573564,
+        0.7959677419354839,
+        0.30860349127182046
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$300.00 USD"
+    },
+    {
+      "bbox": [
+        0.8217741935483871,
+        0.26683291770573564,
+        0.907258064516129,
+        0.30860349127182046
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$300.00 USD"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.09298707203247526,
+        0.2401379638380757,
+        0.17994506040916308,
+        0.25119458976456216
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Order details"
+    },
+    {
+      "bbox": [
+        0.6121842381718823,
+        0.23356376294723094,
+        0.6717021502163709,
+        0.2473098384234033
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Quantity"
+    },
+    {
+      "bbox": [
+        0.7617519781797855,
+        0.23326493521948807,
+        0.7957622136337789,
+        0.24432156114597453
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Price"
+    },
+    {
+      "bbox": [
+        0.8483234866081324,
+        0.2329661074917452,
+        0.9074549187042802,
+        0.2446203888737174
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Subtotal"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 999,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "4f334a14-ec99-4edf-9e19-541aa870227b",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08064516129032258,
+          0.23129675810473815,
+          0.9354838709677419,
+          0.3403990024937656
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2508064516129032,
+            "right": 0.5314516129032258
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.660483870967742,
+            "right": 0.6693548387096774
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7104838709677419,
+            "right": 0.7959677419354839
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.8217741935483871,
+            "right": 0.907258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.25374064837905236,
+            "row_type": "header",
+            "top": 0.23129675810473815
+          },
+          {
+            "bottom": 0.26683291770573564,
+            "row_type": "gap",
+            "top": 0.25374064837905236
+          },
+          {
+            "bottom": 0.30860349127182046,
+            "row_type": "data",
+            "top": 0.26683291770573564
+          },
+          {
+            "bottom": 0.3167082294264339,
+            "row_type": "gap",
+            "top": 0.30860349127182046
+          },
+          {
+            "bottom": 0.3403990024937656,
+            "row_type": "footer",
+            "top": 0.3167082294264339
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

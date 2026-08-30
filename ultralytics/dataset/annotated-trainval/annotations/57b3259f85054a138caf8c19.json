@@ -1,0 +1,189 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7428283816370173,
+        0.4212532761815523,
+        0.7970904044770009,
+        0.4353561647147097
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "34569"
+    },
+    {
+      "bbox": [
+        0.7344084125756405,
+        0.35637998892902817,
+        0.8195436553073389,
+        0.3711880218888434
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "3/10/1999"
+    },
+    {
+      "bbox": [
+        0.26850345784612584,
+        0.0992843374253583,
+        0.7577972155239092,
+        0.12401215805471125
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "National Forum for Black Public Administrators"
+    },
+    {
+      "bbox": [
+        0.2666323536102644,
+        0.13172098105162036,
+        0.7531194549342555,
+        0.14934959171806717
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "777 North Capitol Street, N.E. \u2022 Suite 807 \u2022 Washington, D.C. 20002"
+    },
+    {
+      "bbox": [
+        0.3227654806861095,
+        0.16133704697125098,
+        0.45000056872469174,
+        0.1761450799310663
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "nfbpa@erols.com"
+    },
+    {
+      "bbox": [
+        0.15904386004822785,
+        0.3569441173819345,
+        0.4041585149460849,
+        0.40418879396801194
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Ms. Molly Walsh\nManager, Public Programs\nPhilip Morris Companies, Inc."
+    },
+    {
+      "bbox": [
+        0.15810830793029712,
+        0.4027785051146962,
+        0.34334762728058604,
+        0.4359202931676161
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "120 Park Avenue\nNew York, NY 10017"
+    },
+    {
+      "bbox": [
+        0.7194395786887484,
+        0.7860949982304749,
+        0.7306662041039174,
+        0.8016081756169481
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7194395786887484,
+        0.7859539607374233,
+        0.8036392693025161,
+        0.8014671381238965
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$7,500.00"
+    },
+    {
+      "bbox": [
+        0.7203751308066791,
+        0.7866591051640812,
+        0.8055103735383776,
+        0.8014671381238965
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$7,500.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1588709677419355,
+        0.5434650455927051,
+        0.38629032258064516,
+        0.564741641337386
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "General Operating Support"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.5434650455927051,
+        0.8045748214204469,
+        0.5625642149799297
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$7,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 113,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tkmw0061",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1588709677419355,
+          0.5434650455927051,
+          0.8096774193548387,
+          0.564741641337386
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1588709677419355,
+            "right": 0.38629032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7161290322580646,
+            "right": 0.8096774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.564741641337386,
+            "row_type": "data",
+            "top": 0.5434650455927051
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8003859028207151,
+        0.9278911806720387,
+        0.8690169072340789,
+        0.9430960086847484
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0885-99"
+    },
+    {
+      "bbox": [
+        0.6482847579046116,
+        0.15257714320578503,
+        0.792038888770441,
+        0.16844305069730828
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 10, 1999"
+    },
+    {
+      "bbox": [
+        0.11964053472059356,
+        0.04349902920156264,
+        0.48227192290471826,
+        0.0593649366930859
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Marketing Insights & Technologies, Inc."
+    },
+    {
+      "bbox": [
+        0.09645438458094364,
+        0.22066832952357235,
+        0.34964714410592074,
+        0.23719531649390907
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.09830927659211564,
+        0.22066832952357235,
+        0.46650534080975625,
+        0.2722325288710229
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Company\n714 Green Valley Road\nGreensboro, North Carolina 27404-0529"
+    },
+    {
+      "bbox": [
+        0.784619320725753,
+        0.6787964209503968,
+        0.7966761187983711,
+        0.6940012489631066
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.781836982708995,
+        0.6801185597334791,
+        0.851395433127945,
+        0.6959844672250023
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$36,700"
+    },
+    {
+      "bbox": [
+        0.781836982708995,
+        0.6794574802546657,
+        0.851395433127945,
+        0.6953233877461888
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$36,700"
+    },
+    {
+      "bbox": [
+        0.15859326695520543,
+        0.8915318093372979,
+        0.34500991407799075,
+        0.9093809552652615
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Payable upon receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.09509464142895228,
+        0.5571177518743254,
+        0.521860837110104,
+        0.5725381714944999
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Amount due (upon project fieldwork completion)"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.5568965517241379,
+        0.8669354838709677,
+        0.5718390804597702
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$24,800"
+    },
+    {
+      "bbox": [
+        0.5137096774193548,
+        0.5896551724137931,
+        0.6879032258064516,
+        0.6074712643678161
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "RDD List purchase"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.5896551724137931,
+        0.8669354838709677,
+        0.6074712643678161
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "4,600"
+    },
+    {
+      "bbox": [
+        0.5137096774193548,
+        0.6264367816091954,
+        0.6879032258064516,
+        0.6413793103448275
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Pre-Test"
+    },
+    {
+      "bbox": [
+        0.7887096774193548,
+        0.6264367816091954,
+        0.8669354838709677,
+        0.6413793103448275
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "7,300"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 204,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gxmf0152",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1680,
+        2358
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.09516129032258064,
+          0.5568965517241379,
+          0.8669354838709677,
+          0.7005747126436782
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.5137096774193548,
+            "right": 0.6879032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7887096774193548,
+            "right": 0.8669354838709677
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5718390804597702,
+            "row_type": "data",
+            "top": 0.5568965517241379
+          },
+          {
+            "bottom": 0.5896551724137931,
+            "row_type": "gap",
+            "top": 0.5718390804597702
+          },
+          {
+            "bottom": 0.6074712643678161,
+            "row_type": "data",
+            "top": 0.5896551724137931
+          },
+          {
+            "bottom": 0.6264367816091954,
+            "row_type": "gap",
+            "top": 0.6074712643678161
+          },
+          {
+            "bottom": 0.6413793103448275,
+            "row_type": "data",
+            "top": 0.6264367816091954
+          },
+          {
+            "bottom": 0.7005747126436782,
+            "row_type": "footer",
+            "top": 0.6413793103448275
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

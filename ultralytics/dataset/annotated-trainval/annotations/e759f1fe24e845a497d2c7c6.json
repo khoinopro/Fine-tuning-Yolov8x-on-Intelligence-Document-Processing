@@ -1,0 +1,235 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.688501744362423,
+        0.07834990054617463,
+        0.7656139397310142,
+        0.0916693836390243
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "021453"
+    },
+    {
+      "bbox": [
+        0.09583944281524927,
+        0.1237928428629559,
+        0.19278048842147844,
+        0.13632882695034385
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "JUN25/99"
+    },
+    {
+      "bbox": [
+        0.1211356210625124,
+        0.893329415221863,
+        0.21552701409823638,
+        0.9039642892125994
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "JUN25/99"
+    },
+    {
+      "bbox": [
+        0.03775655721428958,
+        0.8843737318612429,
+        0.2013683051428778,
+        0.8955683360620181
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MEZZINA/BROWN INC."
+    },
+    {
+      "bbox": [
+        0.03854315215625395,
+        0.8843737318612429,
+        0.5545494340848782,
+        0.8961280662720569
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "MEZZINA/BROWN INC., 401 PARK AVENUE SOUTH, NEW YORK, N.Y. 1006"
+    },
+    {
+      "bbox": [
+        0.2737350398035995,
+        0.014552985461007795,
+        0.3995902305178981,
+        0.03078516155213187
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "MEZZINA DROWN"
+    },
+    {
+      "bbox": [
+        0.6829937304075235,
+        0.12457634186841765,
+        0.8107796541611891,
+        0.15121530805411704
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "NAN GOLDIN\nNAN GOLDIN"
+    },
+    {
+      "bbox": [
+        0.6851969359894833,
+        0.12457634186841765,
+        0.9165335220952575,
+        0.1825552682725869
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "NAN GOLDIN\nNAN GOLDIN\n554 BOWERY #3R\nNEW YORK, NY 10012"
+    },
+    {
+      "bbox": [
+        0.10134745677014864,
+        0.4293574549930369,
+        0.1178714986348468,
+        0.44346043709134836
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.49461965314996464,
+        0.30791510914646625,
+        0.5926623015471736,
+        0.32280159025023947
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "10000.00"
+    },
+    {
+      "bbox": [
+        0.10134745677014864,
+        0.4293574549930369,
+        0.18837407725755892,
+        0.4442439360968101
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$10,000"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.016935483870967744,
+        0.29202524383247275,
+        0.1782258064516129,
+        0.30522088353413657
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "A ART OTHER"
+    },
+    {
+      "bbox": [
+        0.49435483870967745,
+        0.29202524383247275,
+        0.5983870967741935,
+        0.30522088353413657
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.021238063433037892,
+        0.27882960413080893,
+        0.16518493781251692,
+        0.2904999790101171
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "ORK CATEGORY"
+    },
+    {
+      "bbox": [
+        0.5199392566384462,
+        0.27882960413080893,
+        0.5930925862411321,
+        0.2910597092201559
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 141,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "rfmy0185",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1664,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.016935483870967744,
+          0.27882960413080893,
+          0.5983870967741935,
+          0.32644865174985654
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.016935483870967744,
+            "right": 0.1782258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.49435483870967745,
+            "right": 0.5983870967741935
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.29202524383247275,
+            "row_type": "header",
+            "top": 0.27882960413080893
+          },
+          {
+            "bottom": 0.30522088353413657,
+            "row_type": "data",
+            "top": 0.29202524383247275
+          },
+          {
+            "bottom": 0.32644865174985654,
+            "row_type": "footer",
+            "top": 0.30522088353413657
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7250398966243926,
+        0.3564375384036833,
+        0.7723251090165996,
+        0.36963892880818877
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2485"
+    },
+    {
+      "bbox": [
+        0.6471068613853848,
+        0.37095906784863936,
+        0.764444240284565,
+        0.38746080585427123
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "Sept. 2, 1999"
+    },
+    {
+      "bbox": [
+        0.6523607738734079,
+        0.42112435138576026,
+        0.6926407696149174,
+        0.4356458808307163
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "1257"
+    },
+    {
+      "bbox": [
+        0.2697008143290663,
+        0.8697516179126532,
+        0.4334477535391163,
+        0.9034151634441423
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "2000 N. Ocean Boulevard\nSuite 102\nBoca Raton, FL 33431"
+    },
+    {
+      "bbox": [
+        0.5183860054288214,
+        0.869091548392428,
+        0.647982513466722,
+        0.9047353024845928
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "270 Bronxville Road\nSuite B72\nBronxville, NY 10708"
+    },
+    {
+      "bbox": [
+        0.41155645150568715,
+        0.9324582223340544,
+        0.5788059990410859,
+        0.9443394736981093
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "frengut@psychinsights.com"
+    },
+    {
+      "bbox": [
+        0.11646170009506225,
+        0.3537972628407476,
+        0.30735385382656444,
+        0.38614066933178604
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Co."
+    },
+    {
+      "bbox": [
+        0.11646170009506225,
+        0.355139371280459,
+        0.32311559129063344,
+        0.436305952868907
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Scott Benson\nLorillard Tobacco Co.\n714 Green Valley Road\nP.O. Box 10529\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.6295938197586415,
+        0.6522953927182837,
+        0.7180346799736952,
+        0.6694572002441409
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "52,250.00"
+    },
+    {
+      "bbox": [
+        0.6295938197586415,
+        0.6536155317587342,
+        0.7162833758110209,
+        0.6687971307239156
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "52,250.00"
+    },
+    {
+      "bbox": [
+        0.1234669167457596,
+        0.70312074577563,
+        0.27232777057307783,
+        0.717642275220586
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "Due upon receipt"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.17258064516129032,
+        0.5537993920972645,
+        0.4596774193548387,
+        0.5878419452887538
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Estimated cost of study\n(Excluding Travel & Expenses)"
+    },
+    {
+      "bbox": [
+        0.6008064516129032,
+        0.5537993920972645,
+        0.7766129032258065,
+        0.5878419452887538
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$104,500.00 +/-10%"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 704,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hjkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11612903225806452,
+          0.47112462006079026,
+          0.8096774193548387,
+          0.6984802431610942
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.17258064516129032,
+            "right": 0.4596774193548387
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6008064516129032,
+            "right": 0.7766129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5033434650455927,
+            "row_type": "gap",
+            "top": 0.47112462006079026
+          },
+          {
+            "bottom": 0.5209726443768997,
+            "row_type": "subsection-header",
+            "top": 0.5033434650455927
+          },
+          {
+            "bottom": 0.5537993920972645,
+            "row_type": "gap",
+            "top": 0.5209726443768997
+          },
+          {
+            "bottom": 0.5878419452887538,
+            "row_type": "data",
+            "top": 0.5537993920972645
+          },
+          {
+            "bottom": 0.6048632218844985,
+            "row_type": "gap",
+            "top": 0.5878419452887538
+          },
+          {
+            "bottom": 0.6206686930091185,
+            "row_type": "gap-with-text",
+            "top": 0.6048632218844985
+          },
+          {
+            "bottom": 0.6358662613981763,
+            "row_type": "gap",
+            "top": 0.6206686930091185
+          },
+          {
+            "bottom": 0.6984802431610942,
+            "row_type": "footer",
+            "top": 0.6358662613981763
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7409189073504805,
+        0.42107234042553193,
+        0.7969278960270827,
+        0.4379574468085106
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "#3503"
+    },
+    {
+      "bbox": [
+        0.6000963072493093,
+        0.23970820668693008,
+        0.7241162107474999,
+        0.255990273556231
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 2, 1999"
+    },
+    {
+      "bbox": [
+        0.38646202186855516,
+        0.12362310030395136,
+        0.5456875753920386,
+        0.1386018237082067
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL"
+    },
+    {
+      "bbox": [
+        0.374460095723569,
+        0.124829179331307,
+        0.5544889878983618,
+        0.16462978723404254
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL\n236 East 36th Street\nNew York, New York 10016"
+    },
+    {
+      "bbox": [
+        0.08801412506323203,
+        0.3395112462006079,
+        0.20243248764543367,
+        0.3731306990881459
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc."
+    },
+    {
+      "bbox": [
+        0.08881425347289777,
+        0.33996352583586625,
+        0.2728437876960193,
+        0.4044887537993921
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc.\n714 Green Valley Road\nGreensboro, NC 27408"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08790322580645162,
+        0.5379939209726444,
+        0.5032258064516129,
+        0.5580547112462007
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Maverick Ultra Light Product Test (N=497 Callbacks)"
+    },
+    {
+      "bbox": [
+        0.7645161290322581,
+        0.5379939209726444,
+        0.8379032258064516,
+        0.5580547112462007
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$450.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 148,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "kkkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08790322580645162,
+          0.5379939209726444,
+          0.8379032258064516,
+          0.5580547112462007
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08790322580645162,
+            "right": 0.5032258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7645161290322581,
+            "right": 0.8379032258064516
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5580547112462007,
+            "row_type": "data",
+            "top": 0.5379939209726444
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

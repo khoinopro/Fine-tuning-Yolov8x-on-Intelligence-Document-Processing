@@ -1,0 +1,480 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7252316274557361,
+        0.035317616145750005,
+        0.8512745573611448,
+        0.05109782761512767
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "0-013121-0"
+    },
+    {
+      "bbox": [
+        0.7242620664564637,
+        0.049594950332329794,
+        0.8280050933786077,
+        0.06537516180170745
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "04-05-99"
+    },
+    {
+      "bbox": [
+        0.2314516129032258,
+        0.14634146341463414,
+        0.28602049478535047,
+        0.16261132207039258
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "2132"
+    },
+    {
+      "bbox": [
+        0.7242620664564637,
+        0.146079671959616,
+        0.8037660683967984,
+        0.16261132207039258
+      ],
+      "fieldtype": "order_id",
+      "page": 0,
+      "text": "013121"
+    },
+    {
+      "bbox": [
+        0.06290322580645161,
+        0.0375234521575985,
+        0.4645161290322581,
+        0.06378986866791744
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Direct Network, Inc."
+    },
+    {
+      "bbox": [
+        0.11731688091195731,
+        0.063421421405733,
+        0.34419415474169296,
+        0.09423040570308938
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "1626 Route 130 North, Suite J\nNorth Brunswick, NJ 08902"
+    },
+    {
+      "bbox": [
+        0.0967741935483871,
+        0.1726078799249531,
+        0.4161290322580645,
+        0.20213699453631384
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "MR. ANDREW PASHELUK\nLORILLARD TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.09598653892796508,
+        0.20213699453631384,
+        0.34807239873878243,
+        0.23069166290947343
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "P.O. BOX 10529\nGREENSBORO, NC 27408"
+    },
+    {
+      "bbox": [
+        0.09598653892796508,
+        0.2697664722622181,
+        0.4062460586951249,
+        0.28629812237299473
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "LORILLARD TOBACCO COMPANY"
+    },
+    {
+      "bbox": [
+        0.7262011884550085,
+        0.6890692341628245,
+        0.7397750424448217,
+        0.7056008842736012
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7258064516129032,
+        0.6604127579737336,
+        0.8548387096774194,
+        0.6777976545418405
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$66,384.00"
+    },
+    {
+      "bbox": [
+        0.7266129032258064,
+        0.6883177955214256,
+        0.8483658743633277,
+        0.7048494456322023
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$66,384.00"
+    },
+    {
+      "bbox": [
+        0.7252316274557361,
+        0.20078440501762715,
+        0.8540322580645161,
+        0.2176360225140713
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "ON RECEIPT"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.004838709677419355,
+        0.4090056285178236,
+        0.10403225806451613,
+        0.4252657911194497
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "132.678"
+    },
+    {
+      "bbox": [
+        0.14596774193548387,
+        0.4090056285178236,
+        0.5032258064516129,
+        0.4252657911194497
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "SHAREFORCE LIFESTYLE DATABASE"
+    },
+    {
+      "bbox": [
+        0.004838709677419355,
+        0.4377736085053158,
+        0.10403225806451613,
+        0.45716072545340836
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "132,678"
+    },
+    {
+      "bbox": [
+        0.14596774193548387,
+        0.4377736085053158,
+        0.5032258064516129,
+        0.45716072545340836
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "RENTAL"
+    },
+    {
+      "bbox": [
+        0.5032258064516129,
+        0.4377736085053158,
+        0.6088709677419355,
+        0.45716072545340836
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$500.00/M"
+    },
+    {
+      "bbox": [
+        0.7258064516129032,
+        0.4377736085053158,
+        0.8556451612903225,
+        0.45716072545340836
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$66,339.00"
+    },
+    {
+      "bbox": [
+        0.14596774193548387,
+        0.5778611632270169,
+        0.5032258064516129,
+        0.5934959349593496
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "RUNNING CHARGE"
+    },
+    {
+      "bbox": [
+        0.5032258064516129,
+        0.5778611632270169,
+        0.6088709677419355,
+        0.5934959349593496
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": "5.00/M"
+    },
+    {
+      "bbox": [
+        0.7258064516129032,
+        0.5778611632270169,
+        0.8556451612903225,
+        0.5934959349593496
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 3,
+      "page": 0,
+      "text": ".00"
+    },
+    {
+      "bbox": [
+        0.14596774193548387,
+        0.6060037523452158,
+        0.5032258064516129,
+        0.6210131332082551
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "9TRK/6250 BPI TAPE"
+    },
+    {
+      "bbox": [
+        0.5032258064516129,
+        0.6060037523452158,
+        0.6088709677419355,
+        0.6210131332082551
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "15.00"
+    },
+    {
+      "bbox": [
+        0.7258064516129032,
+        0.6060037523452158,
+        0.8556451612903225,
+        0.6210131332082551
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 4,
+      "page": 0,
+      "text": "15.00"
+    },
+    {
+      "bbox": [
+        0.14596774193548387,
+        0.6316447779862414,
+        0.5032258064516129,
+        0.6504065040650406
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "SHIPPING & HANDLING"
+    },
+    {
+      "bbox": [
+        0.7258064516129032,
+        0.6316447779862414,
+        0.8556451612903225,
+        0.6504065040650406
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 5,
+      "page": 0,
+      "text": "30.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.004838709677419355,
+        0.3814884302689181,
+        0.10403225806451613,
+        0.3989993746091307
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.21815122483628427,
+        0.3820314007008017,
+        0.36261581372786805,
+        0.39856305081157833
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.5187151346107203,
+        0.3814884302689181,
+        0.5933713315546932,
+        0.39856305081157833
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "PRICE"
+    },
+    {
+      "bbox": [
+        0.7727401164200824,
+        0.3814884302689181,
+        0.8556451612903225,
+        0.3993144894529772
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 1006,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "zshx0226",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1714,
+        2210
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.004838709677419355,
+          0.3814884302689181,
+          0.8556451612903225,
+          0.6804252657911195
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.004838709677419355,
+            "right": 0.10403225806451613
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.14596774193548387,
+            "right": 0.5032258064516129
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.5032258064516129,
+            "right": 0.6088709677419355
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7258064516129032,
+            "right": 0.8556451612903225
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3989993746091307,
+            "row_type": "header",
+            "top": 0.3814884302689181
+          },
+          {
+            "bottom": 0.4090056285178236,
+            "row_type": "gap",
+            "top": 0.3989993746091307
+          },
+          {
+            "bottom": 0.4252657911194497,
+            "row_type": "data",
+            "top": 0.4090056285178236
+          },
+          {
+            "bottom": 0.4377736085053158,
+            "row_type": "gap",
+            "top": 0.4252657911194497
+          },
+          {
+            "bottom": 0.45716072545340836,
+            "row_type": "data",
+            "top": 0.4377736085053158
+          },
+          {
+            "bottom": 0.5778611632270169,
+            "row_type": "gap-with-text",
+            "top": 0.45716072545340836
+          },
+          {
+            "bottom": 0.5934959349593496,
+            "row_type": "data",
+            "top": 0.5778611632270169
+          },
+          {
+            "bottom": 0.6060037523452158,
+            "row_type": "gap",
+            "top": 0.5934959349593496
+          },
+          {
+            "bottom": 0.6210131332082551,
+            "row_type": "data",
+            "top": 0.6060037523452158
+          },
+          {
+            "bottom": 0.6316447779862414,
+            "row_type": "gap",
+            "top": 0.6210131332082551
+          },
+          {
+            "bottom": 0.6504065040650406,
+            "row_type": "data",
+            "top": 0.6316447779862414
+          },
+          {
+            "bottom": 0.6804252657911195,
+            "row_type": "footer",
+            "top": 0.6504065040650406
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

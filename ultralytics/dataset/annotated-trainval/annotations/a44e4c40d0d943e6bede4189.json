@@ -1,0 +1,183 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.20483870967741935,
+        0.1681502066611181,
+        0.2628185756935848,
+        0.18392134181607867
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1005229"
+    },
+    {
+      "bbox": [
+        0.7161290322580646,
+        0.09987445160744263,
+        0.8388161727226389,
+        0.1156737998843262
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "December 15, 1999"
+    },
+    {
+      "bbox": [
+        0.5311453251292507,
+        0.24827547292245622,
+        0.7483247469598776,
+        0.2657676085147202
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Washington Research Council"
+    },
+    {
+      "bbox": [
+        0.5295715612029418,
+        0.24870658177591726,
+        0.7474398424275024,
+        0.29623778019156705
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Washington Research Council\nPO Box 34960\nSeattle WA 98124-1960"
+    },
+    {
+      "bbox": [
+        0.12390593945879834,
+        0.19509125235997482,
+        0.4146718773887785,
+        0.23576817339859307
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Mike Phillips\nRegional Director, State Government Relations\nRJR Tobacco"
+    },
+    {
+      "bbox": [
+        0.123355246394537,
+        0.1947465738955407,
+        0.4137247069246468,
+        0.2645974475327594
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Mike Phillips\nRegional Director, State Govermment Relations\nRJR Tobacco\n7534 Holmes Island Road, SE\nLacey WA 98503"
+    },
+    {
+      "bbox": [
+        0.6960760332263161,
+        0.171395958551071,
+        0.7070898945115426,
+        0.1844283701459681
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6966267262905774,
+        0.171395958551071,
+        0.7610578148091525,
+        0.18521821327293156
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,000.00"
+    },
+    {
+      "bbox": [
+        0.6960760332263161,
+        0.171395958551071,
+        0.7599564286806297,
+        0.18521821327293156
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.29758064516129035,
+        0.45806824754193176,
+        0.4637096774193548,
+        0.47657605552342397
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "2000 Membership Renewal"
+    },
+    {
+      "bbox": [
+        0.7661290322580645,
+        0.45806824754193176,
+        0.8346774193548387,
+        0.47657605552342397
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$1,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 109,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jrdc0190",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2372
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1032258064516129,
+          0.45806824754193176,
+          0.8346774193548387,
+          0.47657605552342397
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.1032258064516129,
+            "right": 0.26048387096774195
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.29758064516129035,
+            "right": 0.4637096774193548
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7661290322580645,
+            "right": 0.8346774193548387
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.47657605552342397,
+            "row_type": "data",
+            "top": 0.45806824754193176
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

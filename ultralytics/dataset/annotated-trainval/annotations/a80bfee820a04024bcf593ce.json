@@ -1,0 +1,167 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.16162593875248063,
+        0.2517689969604863,
+        0.30964969454064356,
+        0.268654103343465
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "February 12, 1999"
+    },
+    {
+      "bbox": [
+        0.13362144441417953,
+        0.12332158054711247,
+        0.2984478968053232,
+        0.1625191489361702
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "SUITE 301\n1000 POTOMAC ST.. NW\nWASHINGTON, DC 20007"
+    },
+    {
+      "bbox": [
+        0.15842542511381766,
+        0.7574176291793313,
+        0.3344536752402817,
+        0.7724936170212766
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "The Media Institute"
+    },
+    {
+      "bbox": [
+        0.1608258103428149,
+        0.756892960053888,
+        0.38166125141056073,
+        0.8249580547112463
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "The Media Institute\nSuite 301\n1000 Potomac Street, NW\nWashington, DC 20007"
+    },
+    {
+      "bbox": [
+        0.27764455815401373,
+        0.8400340425531915,
+        0.36805906844624303,
+        0.8551100303951368
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "52-1061431"
+    },
+    {
+      "bbox": [
+        0.7697235300984474,
+        0.1525689969604863,
+        0.8545371415230163,
+        0.16402674772036474
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "tmi@clark.net"
+    },
+    {
+      "bbox": [
+        0.16162593875248063,
+        0.3000121580547112,
+        0.4208675434841822,
+        0.35015197568389056
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. Francis D. Gomez\nDirector of Public Programs\nPhilip Morris Companies, Inc."
+    },
+    {
+      "bbox": [
+        0.1608258103428149,
+        0.30007609179248146,
+        0.4205499667442634,
+        0.382176291793313
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. Francis D. Gomez\nDirector of Public Programs\nPhilip Morris Companies, Inc.\n120 Park Avenue\nNew York, NY 10017"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1596774193548387,
+        0.5617021276595745,
+        0.36532258064516127,
+        0.5793313069908814
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "1999 Operating Support"
+    },
+    {
+      "bbox": [
+        0.7370967741935484,
+        0.5617021276595745,
+        0.8274193548387097,
+        0.5793313069908814
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$25,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 927,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gncn0073",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1596774193548387,
+          0.5617021276595745,
+          0.8274193548387097,
+          0.5793313069908814
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1596774193548387,
+            "right": 0.36532258064516127
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7370967741935484,
+            "right": 0.8274193548387097
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5793313069908814,
+            "row_type": "data",
+            "top": 0.5617021276595745
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

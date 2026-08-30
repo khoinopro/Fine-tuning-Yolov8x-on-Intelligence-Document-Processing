@@ -1,0 +1,241 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.6920396010667446,
+        0.11490149930662888,
+        0.7945639864099661,
+        0.13074998196961218
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2000 - 023"
+    },
+    {
+      "bbox": [
+        0.697646403390202,
+        0.13244803368350325,
+        0.7665299747926789,
+        0.14773049910852284
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "12/1/00"
+    },
+    {
+      "bbox": [
+        0.6928405728272385,
+        0.18282356786227158,
+        0.776141635918606,
+        0.19867205052525486
+      ],
+      "fieldtype": "date_due",
+      "page": 0,
+      "text": "12/31/00"
+    },
+    {
+      "bbox": [
+        0.1890293354765645,
+        0.04075324113338562,
+        0.75,
+        0.06841505131128849
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "John Cummings & Partners, LLC"
+    },
+    {
+      "bbox": [
+        0.07529134548642824,
+        0.9227967933247682,
+        0.338811054688927,
+        0.9375132415118241
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "6 Blair Road Armonk, NY 10504-2522"
+    },
+    {
+      "bbox": [
+        0.6928405728272385,
+        0.2038290983904213,
+        0.8097824498593504,
+        0.21741351210154983
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "13-4108877"
+    },
+    {
+      "bbox": [
+        0.6960444598692143,
+        0.9233628105627318,
+        0.8706563036568881,
+        0.9363812070358968
+      ],
+      "fieldtype": "vendor_email",
+      "page": 0,
+      "text": "dbmscan @dbmscan.com"
+    },
+    {
+      "bbox": [
+        0.052063164432104625,
+        0.20524515393386544,
+        0.3131799583531217,
+        0.22156430230103766
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Lorillard Tobacco Company"
+    },
+    {
+      "bbox": [
+        0.04885927739012896,
+        0.20568307636375655,
+        0.3137733011634056,
+        0.2572233882927501
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Lorillard Tobacco Company\n714 Green Valley Road\nGreensboro, NC 27404"
+    },
+    {
+      "bbox": [
+        0.7729377488766302,
+        0.7778963804060638,
+        0.7865542688050269,
+        0.7931788458310834
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.771774193548387,
+        0.7773303631681,
+        0.8690543601359003,
+        0.7931788458310834
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,000.00"
+    },
+    {
+      "bbox": [
+        0.771774193548387,
+        0.7778963804060638,
+        0.8682533883754063,
+        0.7926128285931197
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,000.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.04677419354838705,
+        0.35119726339794755,
+        0.6790322580645162,
+        0.4087799315849487
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Fee for Direct Mail Tracking Project as described in e-mail proposal\nCummings to Baroody 11/10/00 for 4Q00 Report, this invoice covers\nsecond half of project cost and is Lorillard Job #5655/100"
+    },
+    {
+      "bbox": [
+        0.775,
+        0.35119726339794755,
+        0.8701612903225806,
+        0.4087799315849487
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$5,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 937,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "yxvh0152",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1653,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.04677419354838705,
+          0.33238312428734323,
+          0.9032258064516129,
+          0.7976054732041049
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.04677419354838705,
+            "right": 0.6790322580645162
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.775,
+            "right": 0.8701612903225806
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.35119726339794755,
+            "row_type": "gap",
+            "top": 0.33238312428734323
+          },
+          {
+            "bottom": 0.4087799315849487,
+            "row_type": "data",
+            "top": 0.35119726339794755
+          },
+          {
+            "bottom": 0.5615735461801596,
+            "row_type": "gap",
+            "top": 0.4087799315849487
+          },
+          {
+            "bottom": 0.6807297605473204,
+            "row_type": "gap-with-text",
+            "top": 0.5615735461801596
+          },
+          {
+            "bottom": 0.7075256556442417,
+            "row_type": "gap",
+            "top": 0.6807297605473204
+          },
+          {
+            "bottom": 0.7753705815279361,
+            "row_type": "gap-with-text",
+            "top": 0.7075256556442417
+          },
+          {
+            "bottom": 0.7976054732041049,
+            "row_type": "footer",
+            "top": 0.7753705815279361
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.25601880838794094,
+        0.4449848024316109,
+        0.3057667922589087,
+        0.4548056915613385
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "2800"
+    },
+    {
+      "bbox": [
+        0.21041648983955383,
+        0.41731100677308075,
+        0.3990442620169732,
+        0.4290280957694113
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 30, 2001"
+    },
+    {
+      "bbox": [
+        0.6628685988494538,
+        0.4435667150734196,
+        0.8082268443514233,
+        0.45808824451837565
+      ],
+      "fieldtype": "customer_order_id",
+      "page": 0,
+      "text": "26924 DKU AT"
+    },
+    {
+      "bbox": [
+        0.6135824424605216,
+        0.13827068791989555,
+        0.9265801743153603,
+        0.15076891618264815
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Tobacco and Healtlh Research Institute"
+    },
+    {
+      "bbox": [
+        0.611205126050561,
+        0.13861459672934243,
+        0.9255437579847151,
+        0.18982587950374993
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Tobacco and Health Research Institute\nCooper & University Drives\nLexington, KY 40546-0236"
+    },
+    {
+      "bbox": [
+        0.1420130120169732,
+        0.2863399783470485,
+        0.5037223114121345,
+        0.3113364348725536
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "INBIFO Institut fur Biologische\nForschung Gmbh"
+    },
+    {
+      "bbox": [
+        0.14408584467826352,
+        0.28515003021935353,
+        0.5052512242087639,
+        0.3386763091973249
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "INBIFO Institut fur Biologische\nForschung Gmbh\nFuggerstrasse 3\nD-51149 Koln/Germany"
+    },
+    {
+      "bbox": [
+        0.7203333245169732,
+        0.5617349632413736,
+        0.7348431531460055,
+        0.5750143307705482
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7201612903225807,
+        0.5617021276595745,
+        0.8395212025411667,
+        0.5750143307705482
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$20,000.00"
+    },
+    {
+      "bbox": [
+        0.7185483870967742,
+        0.5625161025077956,
+        0.8384847862105216,
+        0.5762917933130699
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$20,000.00"
+    },
+    {
+      "bbox": [
+        0.7078963285492312,
+        0.4304167944204057,
+        0.7348431531460055,
+        0.44135274415031417
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.16693548387096774,
+        0.5197568389057751,
+        0.24596774193548387,
+        0.5495440729483283
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "500,000"
+    },
+    {
+      "bbox": [
+        0.3024193548387097,
+        0.5197568389057751,
+        0.45725806451612905,
+        0.5495440729483283
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1R4F Research\nCigarettes"
+    },
+    {
+      "bbox": [
+        0.5596774193548387,
+        0.5197568389057751,
+        0.6274193548387097,
+        0.5495440729483283
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$40.00"
+    },
+    {
+      "bbox": [
+        0.7201612903225807,
+        0.5197568389057751,
+        0.8475806451612903,
+        0.5495440729483283
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$20,000.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.16693548387096774,
+        0.49717903532162083,
+        0.26094429351569465,
+        0.5100303951367782
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.3178616788026104,
+        0.495198826760945,
+        0.44658253475917387,
+        0.5097203562059011
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.5709251303090515,
+        0.4838905775075988,
+        0.6274193548387097,
+        0.5103804257261263
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT\nPRICE"
+    },
+    {
+      "bbox": [
+        0.7337964174377642,
+        0.4938786877204944,
+        0.806475540188749,
+        0.5097203562059011
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 360,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rznd0073",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1443548387096774,
+          0.4838905775075988,
+          0.8475806451612903,
+          0.5781155015197569
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.16693548387096774,
+            "right": 0.24596774193548387
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3024193548387097,
+            "right": 0.45725806451612905
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.5596774193548387,
+            "right": 0.6274193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7201612903225807,
+            "right": 0.8475806451612903
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5100303951367782,
+            "row_type": "header",
+            "top": 0.4838905775075988
+          },
+          {
+            "bottom": 0.5197568389057751,
+            "row_type": "gap",
+            "top": 0.5100303951367782
+          },
+          {
+            "bottom": 0.5495440729483283,
+            "row_type": "data",
+            "top": 0.5197568389057751
+          },
+          {
+            "bottom": 0.5604863221884498,
+            "row_type": "gap",
+            "top": 0.5495440729483283
+          },
+          {
+            "bottom": 0.5781155015197569,
+            "row_type": "footer",
+            "top": 0.5604863221884498
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

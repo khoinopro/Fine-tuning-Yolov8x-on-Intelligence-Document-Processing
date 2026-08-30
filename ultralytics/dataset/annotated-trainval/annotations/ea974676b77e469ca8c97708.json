@@ -1,0 +1,340 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.2900101538701867,
+        0.3954073910817684,
+        0.3532258064516129,
+        0.40486322188449847
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "324023/1"
+    },
+    {
+      "bbox": [
+        0.6202593136631236,
+        0.4145538045977344,
+        0.6825706404191582,
+        0.42531212132604934
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "23.08.01."
+    },
+    {
+      "bbox": [
+        0.21704873857689608,
+        0.2542645953150479,
+        0.3147895024603609,
+        0.2636049273878456
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Dr. James Bond"
+    },
+    {
+      "bbox": [
+        0.2165898617511521,
+        0.25459619291358504,
+        0.41987229555572914,
+        0.29335561473083077
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Dr. James Bond\n5505 Frenchmans Cr.\nDurham, NC 27713\nVERSINIGTE STAATEN VON AMERIKA"
+    },
+    {
+      "bbox": [
+        0.5899077868852459,
+        0.5271216951872817,
+        0.6116555393971443,
+        0.5355740838856201
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "EUR"
+    },
+    {
+      "bbox": [
+        0.4383531365679535,
+        0.5563208561451778,
+        0.4978196473426758,
+        0.5660539097978098
+      ],
+      "fieldtype": "amount_total_net",
+      "page": 0,
+      "text": "16.47 EUR"
+    },
+    {
+      "bbox": [
+        0.44379007469592807,
+        0.5663100427886686,
+        0.4988390732416711,
+        0.5762992294321593
+      ],
+      "fieldtype": "amount_total_tax",
+      "page": 0,
+      "text": "2.63 EUR"
+    },
+    {
+      "bbox": [
+        0.4760718948307774,
+        0.5066310559185827,
+        0.5134508444606029,
+        0.5150834446169211
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "19.10"
+    },
+    {
+      "bbox": [
+        0.5487909422924379,
+        0.5068871889094415,
+        0.5834514228582761,
+        0.5148273116260623
+      ],
+      "fieldtype": "amount_paid",
+      "page": 0,
+      "text": "19.10"
+    },
+    {
+      "bbox": [
+        0.5549074976864092,
+        0.5273778281781405,
+        0.6109759221311476,
+        0.5355740838856201
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "0.00 EUR"
+    },
+    {
+      "bbox": [
+        0.4373337106689582,
+        0.5565769891360365,
+        0.4978196473426758,
+        0.5657977768069511
+      ],
+      "fieldtype": "tax_detail_net",
+      "page": 0,
+      "text": "16.47 EUR"
+    },
+    {
+      "bbox": [
+        0.4434502660629297,
+        0.5668223087703861,
+        0.4984992646086727,
+        0.5760430964413006
+      ],
+      "fieldtype": "tax_detail_tax",
+      "page": 0,
+      "text": "2.63 EUR"
+    },
+    {
+      "bbox": [
+        0.5165091221575886,
+        0.5670784417612448,
+        0.549810368191433,
+        0.5760430964413006
+      ],
+      "fieldtype": "tax_detail_gross",
+      "page": 0,
+      "text": "19.10"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.1975806451612903,
+        0.4656534954407295,
+        0.3338709677419355,
+        0.47598784194528876
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Restaurant Valentino"
+    },
+    {
+      "bbox": [
+        0.3903225806451613,
+        0.4656534954407295,
+        0.4306451612903226,
+        0.47598784194528876
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "20.08."
+    },
+    {
+      "bbox": [
+        0.4774193548387097,
+        0.4656534954407295,
+        0.5112903225806451,
+        0.47598784194528876
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "19.10"
+    },
+    {
+      "bbox": [
+        0.1975806451612903,
+        0.47598784194528876,
+        0.3338709677419355,
+        0.4857142857142857
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "American Express"
+    },
+    {
+      "bbox": [
+        0.3903225806451613,
+        0.47598784194528876,
+        0.4306451612903226,
+        0.4857142857142857
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "23.08."
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.19860542791457614,
+        0.4355135946610124,
+        0.2741230606844898,
+        0.44672084104961285
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Desrciption"
+    },
+    {
+      "bbox": [
+        0.3903225806451613,
+        0.4355135946610124,
+        0.41950936944231576,
+        0.44492768162743673
+      ],
+      "fieldtype": "line_item_date",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Date"
+    },
+    {
+      "bbox": [
+        0.4774193548387097,
+        0.43596188451655643,
+        0.5112903225806451,
+        0.4547900584494052
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Debit\nEUR"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 983,
+    "currency": "eur",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "gyxk0008",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.1975806451612903,
+          0.4297872340425532,
+          0.7693548387096775,
+          0.5793313069908814
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.1975806451612903,
+            "right": 0.3338709677419355
+          },
+          {
+            "column_type": "line_item_date",
+            "left": 0.3903225806451613,
+            "right": 0.4306451612903226
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.4774193548387097,
+            "right": 0.5112903225806451
+          },
+          {
+            "column_type": "",
+            "left": 0.55,
+            "right": 0.5830645161290322
+          },
+          {
+            "column_type": "",
+            "left": 0.6338709677419355,
+            "right": 0.6693548387096774
+          },
+          {
+            "column_type": "",
+            "left": 0.7056451612903226,
+            "right": 0.7403225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4613981762917933,
+            "row_type": "header",
+            "top": 0.4297872340425532
+          },
+          {
+            "bottom": 0.4656534954407295,
+            "row_type": "gap",
+            "top": 0.4613981762917933
+          },
+          {
+            "bottom": 0.47598784194528876,
+            "row_type": "data",
+            "top": 0.4656534954407295
+          },
+          {
+            "bottom": 0.4857142857142857,
+            "row_type": "data",
+            "top": 0.47598784194528876
+          },
+          {
+            "bottom": 0.5009118541033435,
+            "row_type": "gap-with-text",
+            "top": 0.4857142857142857
+          },
+          {
+            "bottom": 0.5793313069908814,
+            "row_type": "footer",
+            "top": 0.5009118541033435
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

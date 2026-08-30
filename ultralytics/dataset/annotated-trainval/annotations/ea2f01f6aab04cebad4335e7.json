@@ -1,0 +1,172 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.23346641553480477,
+        0.2795910472506217,
+        0.31492510257498585,
+        0.29165183752417795
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "DPW99-384"
+    },
+    {
+      "bbox": [
+        0.35274520727221276,
+        0.17871898314451506,
+        0.6589425933786077,
+        0.1929726443768997
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL"
+    },
+    {
+      "bbox": [
+        0.35274520727221276,
+        0.17871898314451506,
+        0.658215283672892,
+        0.232444321635811
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "DAVIS POLK & WARDWELL\nCOUNSELLORS AT LAW\n450 LEXINOTON AVENUE\nNEW YORK, N.Y. 10017"
+    },
+    {
+      "bbox": [
+        0.7433105192416525,
+        0.2275103619784471,
+        0.8233145868704018,
+        0.23737828129317493
+      ],
+      "fieldtype": "customer_tax_id",
+      "page": 0,
+      "text": "I35023295"
+    },
+    {
+      "bbox": [
+        0.7259209516500383,
+        0.3454274200038381,
+        0.7401746589755651,
+        0.36308259924847874
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7259209516500383,
+        0.3446598035149407,
+        0.8063525858440819,
+        0.36385021573737614
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$5,263.00"
+    },
+    {
+      "bbox": [
+        0.7259209516500383,
+        0.3438921870260433,
+        0.8083888297477286,
+        0.36461783222627353
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$5,263.00"
+    },
+    {
+      "bbox": [
+        0.34547211021505375,
+        0.9067521414755458,
+        0.4145665322580645,
+        0.9171682785299806
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "O15-33-316"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.15483870967741936,
+        0.3282674772036474,
+        0.6282258064516129,
+        0.3641337386018237
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "For expenses in connection with tobacco settlement attoney fee\narbitrations through April 30, 1999"
+    },
+    {
+      "bbox": [
+        0.7258064516129032,
+        0.3282674772036474,
+        0.8120967741935484,
+        0.3641337386018237
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$5,263.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 560,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "rrpl0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.15483870967741936,
+          0.3282674772036474,
+          0.8120967741935484,
+          0.36656534954407294
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.15483870967741936,
+            "right": 0.6282258064516129
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7258064516129032,
+            "right": 0.8120967741935484
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3641337386018237,
+            "row_type": "data",
+            "top": 0.3282674772036474
+          },
+          {
+            "bottom": 0.36656534954407294,
+            "row_type": "gap-with-text",
+            "top": 0.3641337386018237
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

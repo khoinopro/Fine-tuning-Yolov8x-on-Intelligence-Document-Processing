@@ -1,0 +1,203 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4955086410614128,
+        0.14035976979744794,
+        0.5560708083022521,
+        0.1553667892097537
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "212994"
+    },
+    {
+      "bbox": [
+        0.4955086410614128,
+        0.11829062360288066,
+        0.5439583748540843,
+        0.1332976430151864
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "08846"
+    },
+    {
+      "bbox": [
+        0.7190380946957835,
+        0.3584029341997727,
+        0.7311505281439513,
+        0.37782378285099194
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7168358340688438,
+        0.3584029341997727,
+        0.8093307804003076,
+        0.3751754853076439
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$14,792.30"
+    },
+    {
+      "bbox": [
+        0.7201392250092532,
+        0.3584029341997727,
+        0.8093307804003076,
+        0.3760582511554265
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$14,792.30"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14516129032258066,
+        0.21266968325791855,
+        0.3153225806451613,
+        0.23206205559146736
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Scholarships"
+    },
+    {
+      "bbox": [
+        0.7185483870967742,
+        0.21266968325791855,
+        0.8153225806451613,
+        0.23206205559146736
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$42.00"
+    },
+    {
+      "bbox": [
+        0.14516129032258066,
+        0.3063994828700711,
+        0.3153225806451613,
+        0.32385261797026504
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Total Out-of-Pocket:"
+    },
+    {
+      "bbox": [
+        0.7185483870967742,
+        0.3063994828700711,
+        0.8153225806451613,
+        0.32385261797026504
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$14,750.30"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 853,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "lkjd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14516129032258066,
+          0.18034906270200388,
+          0.8153225806451613,
+          0.38009049773755654
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14516129032258066,
+            "right": 0.3153225806451613
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7185483870967742,
+            "right": 0.8153225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.1971557853910795,
+            "row_type": "subsection-header",
+            "top": 0.18034906270200388
+          },
+          {
+            "bottom": 0.21266968325791855,
+            "row_type": "gap",
+            "top": 0.1971557853910795
+          },
+          {
+            "bottom": 0.23206205559146736,
+            "row_type": "data",
+            "top": 0.21266968325791855
+          },
+          {
+            "bottom": 0.25274725274725274,
+            "row_type": "up-merge",
+            "top": 0.23206205559146736
+          },
+          {
+            "bottom": 0.2682611506140918,
+            "row_type": "gap",
+            "top": 0.25274725274725274
+          },
+          {
+            "bottom": 0.286360698125404,
+            "row_type": "gap-with-text",
+            "top": 0.2682611506140918
+          },
+          {
+            "bottom": 0.3063994828700711,
+            "row_type": "gap",
+            "top": 0.286360698125404
+          },
+          {
+            "bottom": 0.32385261797026504,
+            "row_type": "data",
+            "top": 0.3063994828700711
+          },
+          {
+            "bottom": 0.3587588881706529,
+            "row_type": "gap",
+            "top": 0.32385261797026504
+          },
+          {
+            "bottom": 0.38009049773755654,
+            "row_type": "footer",
+            "top": 0.3587588881706529
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

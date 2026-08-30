@@ -1,0 +1,195 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.22518152600880847,
+        0.24957495172865365,
+        0.29187931496250447,
+        0.2589665653495441
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "1234567"
+    },
+    {
+      "bbox": [
+        0.14930514224497085,
+        0.2385032348312642,
+        0.27535784430424953,
+        0.24911363019126245
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "July 26, 2000"
+    },
+    {
+      "bbox": [
+        0.14869323592429473,
+        0.26895045629908515,
+        0.28392453279371505,
+        0.2790995301216922
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Mr. John Smith"
+    },
+    {
+      "bbox": [
+        0.14930514224497085,
+        0.2693256984894856,
+        0.3298175068444233,
+        0.30124296391647104
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Mr. John Smith\n123 Main Street\nAnywhere, XX 12345"
+    },
+    {
+      "bbox": [
+        0.14428085539442148,
+        0.8683636168873773,
+        0.270939621580364,
+        0.877495547848908
+      ],
+      "fieldtype": "customer_other_name",
+      "page": 0,
+      "text": "MR JOHN SMITH"
+    },
+    {
+      "bbox": [
+        0.7203758368837493,
+        0.8677370379498038,
+        0.7288861838101034,
+        0.8771689622753452
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7198752282410225,
+        0.8669824840037607,
+        0.7684342665855143,
+        0.8775462392483669
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$9.50"
+    },
+    {
+      "bbox": [
+        0.20358204466857124,
+        0.5472397109136182,
+        0.25257491990423203,
+        0.5587152487571542
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$9.50"
+    },
+    {
+      "bbox": [
+        0.7193746195982959,
+        0.8677370379498038,
+        0.7674330493000608,
+        0.8771689622753452
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$9.50"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.25887096774193546,
+        0.38358662613981764,
+        0.2709677419354839,
+        0.39574468085106385
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "4"
+    },
+    {
+      "bbox": [
+        0.28951612903225804,
+        0.38358662613981764,
+        0.317741935483871,
+        0.39574468085106385
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$10"
+    },
+    {
+      "bbox": [
+        0.3241935483870968,
+        0.38358662613981764,
+        0.49112903225806454,
+        0.39574468085106385
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "OFF CARTON COUPON"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 96,
+    "currency": "usd",
+    "document_type": "order",
+    "language": "eng",
+    "original_filename": "qnkj0074",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2245
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.25887096774193546,
+          0.38358662613981764,
+          0.49112903225806454,
+          0.39574468085106385
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.25887096774193546,
+            "right": 0.2709677419354839
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.28951612903225804,
+            "right": 0.317741935483871
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.3241935483870968,
+            "right": 0.49112903225806454
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.39574468085106385,
+            "row_type": "data",
+            "top": 0.38358662613981764
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

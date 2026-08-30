@@ -1,0 +1,292 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.8066446798266731,
+        0.10981791192907658,
+        0.8520789600385171,
+        0.12414198739808657
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "03148"
+    },
+    {
+      "bbox": [
+        0.7524193548387097,
+        0.12533566035383742,
+        0.8535686085700531,
+        0.13846606286709653
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 3, 1999"
+    },
+    {
+      "bbox": [
+        0.19737843042850264,
+        0.04655324527428246,
+        0.42231535869041886,
+        0.06863619495567286
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "A & M FUEL,INC."
+    },
+    {
+      "bbox": [
+        0.19514395763119888,
+        0.04655324527428246,
+        0.42306018295618686,
+        0.11041474840695198
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "A & M FUEL,INC.\nEl Triangulo Shell\n401 SW 8 SI.\nMiami, FI. 33130"
+    },
+    {
+      "bbox": [
+        0.25967741935483873,
+        0.6820348850921318,
+        0.37166730861819935,
+        0.6963589605611419
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "A & M Fuel, Inc."
+    },
+    {
+      "bbox": [
+        0.12066153105440541,
+        0.20807211709931694,
+        0.2264265767934521,
+        0.22299302904620236
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Harry Martinez"
+    },
+    {
+      "bbox": [
+        0.12140635532017334,
+        0.20926579005506782,
+        0.3061227732306211,
+        0.25223801646209776
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Harry Martinez\n37-11 30th Street\nLong Island City, NY 11101"
+    },
+    {
+      "bbox": [
+        0.7910033702455466,
+        0.6448072097846528,
+        0.8021757342320656,
+        0.6585344487757874
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7911290322580645,
+        0.643613536828902,
+        0.8595272026961965,
+        0.6597281217315382
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$1,700.00"
+    },
+    {
+      "bbox": [
+        0.7911290322580645,
+        0.6438267614738203,
+        0.8595272026961965,
+        0.6597281217315382
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$1,700.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.13548387096774195,
+        0.37362637362637363,
+        0.15080645161290324,
+        0.4434389140271493
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "1"
+    },
+    {
+      "bbox": [
+        0.18064516129032257,
+        0.37362637362637363,
+        0.6403225806451613,
+        0.4434389140271493
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Use of property located at 401 SW 8 St.(Shell Gas Station) on March\n14, 1999 from 2:00 AM-10:00 PM. There will be an employee at this\nlocation at all limes."
+    },
+    {
+      "bbox": [
+        0.6782258064516129,
+        0.37362637362637363,
+        0.7524193548387097,
+        0.4434389140271493
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,700.00"
+    },
+    {
+      "bbox": [
+        0.7862903225806451,
+        0.4261215040139957,
+        0.8653225806451613,
+        0.4434389140271493
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$1,700.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.08842498743028106,
+        0.3496161612059847,
+        0.16721955449309941,
+        0.3664613743013266
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QUANTITY"
+    },
+    {
+      "bbox": [
+        0.3650814673397321,
+        0.35100193923723333,
+        0.47101638527974343,
+        0.3692689098172169
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6636253269888549,
+        0.3531255806008476,
+        0.7520503411371288,
+        0.3664613743013266
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "UNIT PRICE"
+    },
+    {
+      "bbox": [
+        0.7774397016351481,
+        0.3531255806008476,
+        0.845728326422924,
+        0.3678651420592718
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 453,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hldl0014",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1692,
+        2112
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08709677419354839,
+          0.35100193923723333,
+          0.8653225806451613,
+          0.6632191338073691
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.13548387096774195,
+            "right": 0.15080645161290324
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.18064516129032257,
+            "right": 0.6403225806451613
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.6782258064516129,
+            "right": 0.7524193548387097
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7862903225806451,
+            "right": 0.8653225806451613
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.3658694246929541,
+            "row_type": "header",
+            "top": 0.35100193923723333
+          },
+          {
+            "bottom": 0.37362637362637363,
+            "row_type": "gap",
+            "top": 0.3658694246929541
+          },
+          {
+            "bottom": 0.4434389140271493,
+            "row_type": "data",
+            "top": 0.37362637362637363
+          },
+          {
+            "bottom": 0.5597931480284422,
+            "row_type": "gap-with-text",
+            "top": 0.4434389140271493
+          },
+          {
+            "bottom": 0.6632191338073691,
+            "row_type": "footer",
+            "top": 0.5597931480284422
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

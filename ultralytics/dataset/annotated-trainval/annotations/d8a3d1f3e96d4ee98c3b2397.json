@@ -1,0 +1,233 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.26814963920779245,
+        0.17502413596651328,
+        0.4042766244178707,
+        0.19088735070668064
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 28, 1999"
+    },
+    {
+      "bbox": [
+        0.70868118933488,
+        0.13959628971347282,
+        0.8851674314665393,
+        0.1591609212263459
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "JOE C. DANIELS"
+    },
+    {
+      "bbox": [
+        0.711539106382756,
+        0.14012691305327715,
+        0.8817471554562358,
+        0.1893010292326639
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "JOE C. DANIELS\n3408 Long Lake Dr. S.E.\nLacey, Washington 98503"
+    },
+    {
+      "bbox": [
+        0.43818463112757045,
+        0.6726101210091527,
+        0.5505396647500244,
+        0.687338809790375
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Joe C. Danicls"
+    },
+    {
+      "bbox": [
+        0.3722371113926518,
+        0.6737825880728687,
+        0.616487184484943,
+        0.7235940437133839
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Joe C. Daniels\n3408 Long Lake Drive S.E.\nLacey, Washington 98503-4050"
+    },
+    {
+      "bbox": [
+        0.28186458434850403,
+        0.31534500339283694,
+        0.6501936945716792,
+        0.33082900954745526
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Tobacco Industry Labor Management Committee"
+    },
+    {
+      "bbox": [
+        0.6848772049507845,
+        0.5725305690341805,
+        0.6966012084592145,
+        0.5865039404420068
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.5725305690341805,
+        0.7625487281941331,
+        0.5876369165021008
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$2,750.00"
+    },
+    {
+      "bbox": [
+        0.6830645161290323,
+        0.5725305690341805,
+        0.7625487281941331,
+        0.587281795511222
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$2,750.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.4395261845386534,
+        0.46774193548387094,
+        0.456359102244389
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Consulting services, January, 1999"
+    },
+    {
+      "bbox": [
+        0.6870967741935484,
+        0.4395261845386534,
+        0.7766129032258065,
+        0.456359102244389
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$2,750.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.2064516129032258,
+        0.38902743142144636,
+        0.33082628609378667,
+        0.40187768969352633
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6870967741935484,
+        0.38902743142144636,
+        0.7766129032258065,
+        0.4014962593516209
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 564,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "jfyc0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.2064516129032258,
+          0.38902743142144636,
+          0.7766129032258065,
+          0.5897755610972568
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.2064516129032258,
+            "right": 0.46774193548387094
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.6870967741935484,
+            "right": 0.7766129032258065
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4014962593516209,
+            "row_type": "header",
+            "top": 0.38902743142144636
+          },
+          {
+            "bottom": 0.4395261845386534,
+            "row_type": "gap",
+            "top": 0.4014962593516209
+          },
+          {
+            "bottom": 0.456359102244389,
+            "row_type": "data",
+            "top": 0.4395261845386534
+          },
+          {
+            "bottom": 0.47256857855361595,
+            "row_type": "gap",
+            "top": 0.456359102244389
+          },
+          {
+            "bottom": 0.48753117206982544,
+            "row_type": "gap-with-text",
+            "top": 0.47256857855361595
+          },
+          {
+            "bottom": 0.5723192019950125,
+            "row_type": "gap",
+            "top": 0.48753117206982544
+          },
+          {
+            "bottom": 0.5897755610972568,
+            "row_type": "footer",
+            "top": 0.5723192019950125
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

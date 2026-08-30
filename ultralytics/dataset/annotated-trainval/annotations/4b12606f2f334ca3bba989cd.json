@@ -1,0 +1,366 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7606693846914928,
+        0.234775578154477,
+        0.8024193548387096,
+        0.2506234413965087
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "7680"
+    },
+    {
+      "bbox": [
+        0.7612903225806451,
+        0.2527538881933334,
+        0.8467741935483871,
+        0.26650200763481174
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "10/23/2020"
+    },
+    {
+      "bbox": [
+        0.07439213357730842,
+        0.2558839303174722,
+        0.1199026316348404,
+        0.269422762746033
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "KLQL"
+    },
+    {
+      "bbox": [
+        0.07439213357730842,
+        0.25520698869604413,
+        0.2284276654643397,
+        0.3053006686817192
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "KLQL\n1140 150th Avenue\nLuverne, MN 56156"
+    },
+    {
+      "bbox": [
+        0.0691409222629778,
+        0.0487397941604916,
+        0.3352022955223955,
+        0.06430945145333655
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Neighborhood Research and Media"
+    },
+    {
+      "bbox": [
+        0.07176652792014311,
+        0.04806285253906357,
+        0.3343270936366737,
+        0.09951041576759469
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Neighborhood Research and Media\nPO BOX 297\nRODANTHE, NC 27968 US"
+    },
+    {
+      "bbox": [
+        0.3427116562324082,
+        0.2543402096673501,
+        0.5575049896794664,
+        0.2860666391476848
+      ],
+      "fieldtype": "customer_delivery_name",
+      "page": 0,
+      "text": "Neighborhood Research and\nMedia"
+    },
+    {
+      "bbox": [
+        0.3413435458282868,
+        0.25381143584267785,
+        0.5581890448815271,
+        0.323080806874742
+      ],
+      "fieldtype": "customer_delivery_address",
+      "page": 0,
+      "text": "Neighborhood Research and\nMedia\nPO BOX 297\nRODANTHE, NC 27968 US"
+    },
+    {
+      "bbox": [
+        0.85643711297999,
+        0.52983137232159,
+        0.8687501066170825,
+        0.5441082655877407
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.8556451612903225,
+        0.5293025984969177,
+        0.9185483870967742,
+        0.5441082655877407
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$374.00"
+    },
+    {
+      "bbox": [
+        0.8564516129032258,
+        0.5287738246722455,
+        0.9193548387096774,
+        0.5451658132370851
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$374.00"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.22822580645161292,
+        0.41458852867830426,
+        0.43548387096774194,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "KLQL 6A-9A 10/27-30, 11/2"
+    },
+    {
+      "bbox": [
+        0.6774193548387096,
+        0.41458852867830426,
+        0.7112903225806452,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "10"
+    },
+    {
+      "bbox": [
+        0.7782258064516129,
+        0.41458852867830426,
+        0.8209677419354838,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "44.00"
+    },
+    {
+      "bbox": [
+        0.864516129032258,
+        0.41458852867830426,
+        0.9185483870967742,
+        0.42830423940149626
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "440.00"
+    },
+    {
+      "bbox": [
+        0.22822580645161292,
+        0.43453865336658354,
+        0.43548387096774194,
+        0.49438902743142144
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Agency Commission"
+    },
+    {
+      "bbox": [
+        0.6774193548387096,
+        0.43453865336658354,
+        0.7112903225806452,
+        0.49438902743142144
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "440"
+    },
+    {
+      "bbox": [
+        0.7782258064516129,
+        0.43453865336658354,
+        0.8209677419354838,
+        0.49438902743142144
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "-0.15"
+    },
+    {
+      "bbox": [
+        0.864516129032258,
+        0.43453865336658354,
+        0.9185483870967742,
+        0.49438902743142144
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "-66.00"
+    }
+  ],
+  "line_item_headers": [
+    {
+      "bbox": [
+        0.22822580645161292,
+        0.39214463840399,
+        0.3338189386056192,
+        0.40451197587426785
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "DESCRIPTION"
+    },
+    {
+      "bbox": [
+        0.6774193548387096,
+        0.39214463840399,
+        0.7100492997390013,
+        0.40504074969894005
+      ],
+      "fieldtype": "line_item_quantity",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "QTY"
+    },
+    {
+      "bbox": [
+        0.7782258064516129,
+        0.39214463840399,
+        0.8229184080790161,
+        0.40504074969894005
+      ],
+      "fieldtype": "line_item_unit_price_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "RATE"
+    },
+    {
+      "bbox": [
+        0.8516487265655651,
+        0.3923501779068062,
+        0.9185483870967742,
+        0.40399002493765584
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "AMOUNT"
+    }
+  ],
+  "metadata": {
+    "cluster_id": 140,
+    "currency": "usd",
+    "document_type": "purchase_order",
+    "language": "eng",
+    "original_filename": "a23ab597-498b-4fca-b908-6ad8b14682e3",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1700,
+        2200
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.02903225806451613,
+          0.39214463840399,
+          0.9717741935483871,
+          0.5461346633416458
+        ],
+        "columns": [
+          {
+            "column_type": "",
+            "left": 0.07338709677419354,
+            "right": 0.19435483870967743
+          },
+          {
+            "column_type": "line_item_description",
+            "left": 0.22822580645161292,
+            "right": 0.43548387096774194
+          },
+          {
+            "column_type": "line_item_quantity",
+            "left": 0.6774193548387096,
+            "right": 0.7112903225806452
+          },
+          {
+            "column_type": "line_item_unit_price_gross",
+            "left": 0.7782258064516129,
+            "right": 0.8209677419354838
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.864516129032258,
+            "right": 0.9185483870967742
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.40399002493765584,
+            "row_type": "header",
+            "top": 0.39214463840399
+          },
+          {
+            "bottom": 0.41458852867830426,
+            "row_type": "gap",
+            "top": 0.40399002493765584
+          },
+          {
+            "bottom": 0.42830423940149626,
+            "row_type": "data",
+            "top": 0.41458852867830426
+          },
+          {
+            "bottom": 0.43453865336658354,
+            "row_type": "gap",
+            "top": 0.42830423940149626
+          },
+          {
+            "bottom": 0.49438902743142144,
+            "row_type": "data",
+            "top": 0.43453865336658354
+          },
+          {
+            "bottom": 0.5261845386533666,
+            "row_type": "gap",
+            "top": 0.49438902743142144
+          },
+          {
+            "bottom": 0.5461346633416458,
+            "row_type": "footer",
+            "top": 0.5261845386533666
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "pif"
+  }
+}

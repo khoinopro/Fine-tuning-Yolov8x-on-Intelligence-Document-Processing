@@ -1,0 +1,218 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.7430887660726371,
+        0.4223514219172057,
+        0.7820522219715769,
+        0.43493805369619526
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "3506"
+    },
+    {
+      "bbox": [
+        0.5928011504624409,
+        0.2394257077962059,
+        0.7301009474396571,
+        0.25620788350152535
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "October 13, 1999"
+    },
+    {
+      "bbox": [
+        0.38499605233476203,
+        0.09020419441609195,
+        0.5427052785923754,
+        0.10209156887402655
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL"
+    },
+    {
+      "bbox": [
+        0.3738636363636364,
+        0.088106422452927,
+        0.5556930972253553,
+        0.1300618617162256
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "WINIFRED E. MEAHL\n236 East 36th Street\nNew York, New York 10016"
+    },
+    {
+      "bbox": [
+        0.08627622377622378,
+        0.3398390580327185,
+        0.19667268215655315,
+        0.37060638015913744
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc."
+    },
+    {
+      "bbox": [
+        0.08442082111436951,
+        0.3419368299958834,
+        0.27181648996165125,
+        0.40417073156977634
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Scott Benson\nLorillard, Inc.\n714 Green Valley Road\nGreensboro, NC 27408"
+    },
+    {
+      "bbox": [
+        0.7059807128355515,
+        0.6069553546757195,
+        0.7161854274757501,
+        0.6181434718125991
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7050530115046244,
+        0.6055568400336095,
+        0.7690644033385969,
+        0.6181434718125991
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$337.47"
+    },
+    {
+      "bbox": [
+        0.7041253101736973,
+        0.6055568400336095,
+        0.7718475073313783,
+        0.619541986454709
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$337.47"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.08629032258064516,
+        0.5367781155015198,
+        0.33225806451612905,
+        0.5537993920972645
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Cigarette Product Test (N=174)"
+    },
+    {
+      "bbox": [
+        0.7064516129032258,
+        0.5367781155015198,
+        0.7782258064516129,
+        0.5537993920972645
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$325.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 497,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hkkn0094",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.08629032258064516,
+          0.4376899696048632,
+          0.7782258064516129,
+          0.6237082066869301
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.08629032258064516,
+            "right": 0.33225806451612905
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7064516129032258,
+            "right": 0.7782258064516129
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4553191489361702,
+            "row_type": "gap",
+            "top": 0.4376899696048632
+          },
+          {
+            "bottom": 0.47112462006079026,
+            "row_type": "gap-with-text",
+            "top": 0.4553191489361702
+          },
+          {
+            "bottom": 0.4869300911854103,
+            "row_type": "gap",
+            "top": 0.47112462006079026
+          },
+          {
+            "bottom": 0.5063829787234042,
+            "row_type": "subsection-header",
+            "top": 0.4869300911854103
+          },
+          {
+            "bottom": 0.5240121580547112,
+            "row_type": "gap",
+            "top": 0.5063829787234042
+          },
+          {
+            "bottom": 0.5367781155015198,
+            "row_type": "down-merge",
+            "top": 0.5240121580547112
+          },
+          {
+            "bottom": 0.5537993920972645,
+            "row_type": "data",
+            "top": 0.5367781155015198
+          },
+          {
+            "bottom": 0.5702127659574469,
+            "row_type": "gap",
+            "top": 0.5537993920972645
+          },
+          {
+            "bottom": 0.6237082066869301,
+            "row_type": "footer",
+            "top": 0.5702127659574469
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "structured_rows"
+      }
+    },
+    "source": "ucsf"
+  }
+}

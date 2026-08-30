@@ -1,0 +1,253 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.4982798793859649,
+        0.13980547496279372,
+        0.5571022124363327,
+        0.15351189407679308
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "205120"
+    },
+    {
+      "bbox": [
+        0.22537161325693267,
+        0.0822385146839963,
+        0.7421189692982456,
+        0.11458566379303484
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "LORILLARD YOUTH SMOKING PREVENTION PROGRAM\nACTIVITY REPORT"
+    },
+    {
+      "bbox": [
+        0.4965699278438031,
+        0.11842346114495467,
+        0.5451325516411998,
+        0.1318557518766741
+      ],
+      "fieldtype": "customer_id",
+      "page": 0,
+      "text": "08846"
+    },
+    {
+      "bbox": [
+        0.7209155701754386,
+        0.4849331082532982,
+        0.7322012503537069,
+        0.5019290679546574
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.7209155701754386,
+        0.4857554934001382,
+        0.8094910600594228,
+        0.5016549395723775
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$50,856.83"
+    },
+    {
+      "bbox": [
+        0.7209155701754386,
+        0.48520723663557813,
+        0.8098330503678551,
+        0.5011066828078174
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$50,856.83"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.14838709677419354,
+        0.21519078008979034,
+        0.378583271434635,
+        0.23141564318034907
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Contest Coordination/Judging"
+    },
+    {
+      "bbox": [
+        0.7169354838709677,
+        0.21396250808015513,
+        0.8112903225806452,
+        0.23141564318034907
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$10,368.50"
+    },
+    {
+      "bbox": [
+        0.14838709677419354,
+        0.32255979314802846,
+        0.3879032258064516,
+        0.3400129282482224
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "Announcement Media Relations"
+    },
+    {
+      "bbox": [
+        0.7169354838709677,
+        0.32255979314802846,
+        0.8112903225806452,
+        0.3400129282482224
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 1,
+      "page": 0,
+      "text": "$16,962.50"
+    },
+    {
+      "bbox": [
+        0.14838709677419354,
+        0.449256625727214,
+        0.3879032258064516,
+        0.4654169360051713
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "Total Out-of-Pocket:"
+    },
+    {
+      "bbox": [
+        0.7169354838709677,
+        0.449256625727214,
+        0.8112903225806452,
+        0.4654169360051713
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 2,
+      "page": 0,
+      "text": "$23,525.83"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 853,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "mxjd0006",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1875,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.14838709677419354,
+          0.1790562378797673,
+          0.8112903225806452,
+          0.5035552682611506
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.14838709677419354,
+            "right": 0.3879032258064516
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7169354838709677,
+            "right": 0.8112903225806452
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.19521654815772463,
+            "row_type": "subsection-header",
+            "top": 0.1790562378797673
+          },
+          {
+            "bottom": 0.21396250808015513,
+            "row_type": "gap",
+            "top": 0.19521654815772463
+          },
+          {
+            "bottom": 0.23141564318034907,
+            "row_type": "data",
+            "top": 0.21396250808015513
+          },
+          {
+            "bottom": 0.3025210084033613,
+            "row_type": "up-merge",
+            "top": 0.23141564318034907
+          },
+          {
+            "bottom": 0.32255979314802846,
+            "row_type": "gap",
+            "top": 0.3025210084033613
+          },
+          {
+            "bottom": 0.3400129282482224,
+            "row_type": "data",
+            "top": 0.32255979314802846
+          },
+          {
+            "bottom": 0.3936651583710407,
+            "row_type": "up-merge",
+            "top": 0.3400129282482224
+          },
+          {
+            "bottom": 0.4130575307045895,
+            "row_type": "gap",
+            "top": 0.3936651583710407
+          },
+          {
+            "bottom": 0.4305106658047835,
+            "row_type": "gap-with-text",
+            "top": 0.4130575307045895
+          },
+          {
+            "bottom": 0.449256625727214,
+            "row_type": "gap",
+            "top": 0.4305106658047835
+          },
+          {
+            "bottom": 0.4654169360051713,
+            "row_type": "data",
+            "top": 0.449256625727214
+          },
+          {
+            "bottom": 0.4841628959276018,
+            "row_type": "gap",
+            "top": 0.4654169360051713
+          },
+          {
+            "bottom": 0.5035552682611506,
+            "row_type": "footer",
+            "top": 0.4841628959276018
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

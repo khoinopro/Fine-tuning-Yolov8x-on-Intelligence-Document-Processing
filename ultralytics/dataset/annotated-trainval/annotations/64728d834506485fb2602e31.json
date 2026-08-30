@@ -1,0 +1,236 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.5478763440860215,
+        0.26243543014849896,
+        0.6066995221027479,
+        0.2761921260837025
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "A-2445"
+    },
+    {
+      "bbox": [
+        0.5485603345280764,
+        0.1751333213289378,
+        0.6682586618876941,
+        0.18941912095395688
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "March 19, 1999"
+    },
+    {
+      "bbox": [
+        0.11354241338112306,
+        0.17407511394930675,
+        0.2927479091995221,
+        0.20264671319934494
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Deparment L 997\nColumbus, Ohio 43260"
+    },
+    {
+      "bbox": [
+        0.2706647892131763,
+        0.7856422115226671,
+        0.3810803891449053,
+        0.7950895685635841
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Battelle Memorial Institute"
+    },
+    {
+      "bbox": [
+        0.27220223594050835,
+        0.7863980000859404,
+        0.49247311827956985,
+        0.79507475132482
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Battelle Memorial Institute - Columbus, Ohio U.S.A."
+    },
+    {
+      "bbox": [
+        0.38870967741935486,
+        0.816936097075166,
+        0.4452777777777777,
+        0.8254017561122143
+      ],
+      "fieldtype": "vendor_tax_id",
+      "page": 0,
+      "text": "31-4378427"
+    },
+    {
+      "bbox": [
+        0.11491039426523297,
+        0.27460481501425593,
+        0.34746714456391875,
+        0.2899488220189061
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Philip Morris Research Center"
+    },
+    {
+      "bbox": [
+        0.11491039426523297,
+        0.2774934219079336,
+        0.34747360117518195,
+        0.3333353245837789
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Philip Morris Research Center\n4201 Commerce Road\nGate C, Door 17\nRichmond, Virginia 23234"
+    },
+    {
+      "bbox": [
+        0.5514064860551697,
+        0.2625161481706183,
+        0.6082976341976556,
+        0.2760634265333205
+      ],
+      "fieldtype": "payment_reference",
+      "page": 0,
+      "text": "A-2445"
+    },
+    {
+      "bbox": [
+        0.6080675029868577,
+        0.19463505926388022,
+        0.8717741935483871,
+        0.2111123722363933
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "NET UPON OFFER ACCEPTANCE"
+    },
+    {
+      "bbox": [
+        0.3221594982078853,
+        0.8016606315061781,
+        0.3885065710872162,
+        0.8100577491075643
+      ],
+      "fieldtype": "account_num",
+      "page": 0,
+      "text": "0183-1600015"
+    },
+    {
+      "bbox": [
+        0.4420288231780167,
+        0.7943848336954785,
+        0.4933281063321386,
+        0.8023220676707871
+      ],
+      "fieldtype": "bank_num",
+      "page": 0,
+      "text": "044000024"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.11612903225806452,
+        0.4441671865252651,
+        0.6975806451612904,
+        0.4741110417966313
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Battelle to Purchase Reference Standards NAT and NAB with Reimbursement\nfrom Client (relating to work under Agreement CP040676)."
+    },
+    {
+      "bbox": [
+        0.7266129032258064,
+        0.4441671865252651,
+        0.8040322580645162,
+        0.4741110417966313
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$2,000.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 319,
+    "currency": "other",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "tkwh0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1702,
+        2202
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.11612903225806452,
+          0.4067373674360574,
+          0.8935483870967742,
+          0.8976918278228322
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.11612903225806452,
+            "right": 0.6975806451612904
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7266129032258064,
+            "right": 0.8040322580645162
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4310667498440424,
+            "row_type": "subsection-header",
+            "top": 0.4067373674360574
+          },
+          {
+            "bottom": 0.4441671865252651,
+            "row_type": "gap",
+            "top": 0.4310667498440424
+          },
+          {
+            "bottom": 0.4741110417966313,
+            "row_type": "data",
+            "top": 0.4441671865252651
+          },
+          {
+            "bottom": 0.7473487211478478,
+            "row_type": "gap",
+            "top": 0.4741110417966313
+          },
+          {
+            "bottom": 0.8321896444167186,
+            "row_type": "gap-with-text",
+            "top": 0.7473487211478478
+          },
+          {
+            "bottom": 0.8976918278228322,
+            "row_type": "gap",
+            "top": 0.8321896444167186
+          }
+        ],
+        "table_border_type": "column_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

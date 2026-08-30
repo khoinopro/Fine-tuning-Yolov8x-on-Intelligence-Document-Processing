@@ -1,0 +1,205 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.699501109708032,
+        0.3605901104603751,
+        0.8057245628133012,
+        0.37601008228927274
+      ],
+      "fieldtype": "document_id",
+      "page": 0,
+      "text": "CTR-01-008"
+    },
+    {
+      "bbox": [
+        0.3210308804959247,
+        0.3611831862999481,
+        0.446925343435503,
+        0.3766031581288457
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "August 3, 2001"
+    },
+    {
+      "bbox": [
+        0.22416690609953369,
+        0.06864722758546324,
+        0.5542877407636452,
+        0.08778924367199623
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Technology Concepts & Design, Inc."
+    },
+    {
+      "bbox": [
+        0.32486689545330777,
+        0.7337039534502523,
+        0.6173346906199212,
+        0.7502056914558841
+      ],
+      "fieldtype": "vendor_name",
+      "page": 0,
+      "text": "Technology Concepts & Design, Inc."
+    },
+    {
+      "bbox": [
+        0.32399124337197055,
+        0.7337039534502523,
+        0.6155833864572469,
+        0.7970706273918786
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "Technology Concepts & Design, Inc.\nAttn: Lisa Cain\n4510 Weybridge Lane, Suite 300\nGreensboro, NC 27407-7876"
+    },
+    {
+      "bbox": [
+        0.32215381834250595,
+        0.26358073457145537,
+        0.5027802327294153,
+        0.28085106382978725
+      ],
+      "fieldtype": "customer_billing_name",
+      "page": 0,
+      "text": "Debevoise & Plimpton"
+    },
+    {
+      "bbox": [
+        0.321052437766976,
+        0.2801842454106021,
+        0.5011281618661203,
+        0.32833442684412784
+      ],
+      "fieldtype": "customer_billing_address",
+      "page": 0,
+      "text": "Attn. Chris Hansen\n875 Third Avenue\nNew York, NY 10022"
+    },
+    {
+      "bbox": [
+        0.44110292049973887,
+        0.6491972738106396,
+        0.4543194874060981,
+        0.6645555213368504
+      ],
+      "fieldtype": "currency_code_amount_due",
+      "page": 0,
+      "text": "$"
+    },
+    {
+      "bbox": [
+        0.44110292049973887,
+        0.650027449352597,
+        0.5292133665421337,
+        0.6653856968788078
+      ],
+      "fieldtype": "amount_total_gross",
+      "page": 0,
+      "text": "$3,500.00"
+    },
+    {
+      "bbox": [
+        0.43945084963644404,
+        0.650027449352597,
+        0.5297640568298987,
+        0.6653856968788078
+      ],
+      "fieldtype": "amount_due",
+      "page": 0,
+      "text": "$ 3,500.00"
+    },
+    {
+      "bbox": [
+        0.7147959935189278,
+        0.650027449352597,
+        0.793544704669318,
+        0.6645555213368504
+      ],
+      "fieldtype": "payment_terms",
+      "page": 0,
+      "text": "10 DAYS"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.3225806451612903,
+        0.5142857142857142,
+        0.7137096774193549,
+        0.5319148936170213
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "Hosting Web Site"
+    },
+    {
+      "bbox": [
+        0.7298387096774194,
+        0.5142857142857142,
+        0.8193548387096774,
+        0.5319148936170213
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$3,500.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 919,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "pgjl0053",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1764,
+        2339
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.3225806451612903,
+          0.5142857142857142,
+          0.8193548387096774,
+          0.5884498480243161
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.3225806451612903,
+            "right": 0.7137096774193549
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.7298387096774194,
+            "right": 0.8193548387096774
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.5319148936170213,
+            "row_type": "data",
+            "top": 0.5142857142857142
+          },
+          {
+            "bottom": 0.5884498480243161,
+            "row_type": "up-merge",
+            "top": 0.5319148936170213
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}

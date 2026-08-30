@@ -1,0 +1,101 @@
+{
+  "field_extractions": [
+    {
+      "bbox": [
+        0.21439144572785124,
+        0.2554214463840399,
+        0.32478704091607313,
+        0.2702643391521197
+      ],
+      "fieldtype": "date_issue",
+      "page": 0,
+      "text": "January 28, 1999"
+    },
+    {
+      "bbox": [
+        0.284010623838797,
+        0.8819731920199501,
+        0.5390201628489845,
+        0.8908634663341646
+      ],
+      "fieldtype": "vendor_address",
+      "page": 0,
+      "text": "98 San Jacinto Boulevard \u2022 Suite 900 \u2022 Austin TX 78701"
+    }
+  ],
+  "line_item_extractions": [
+    {
+      "bbox": [
+        0.21693548387096775,
+        0.4014962593516209,
+        0.36693548387096775,
+        0.4170822942643391
+      ],
+      "fieldtype": "line_item_description",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "January Consulting Fee"
+    },
+    {
+      "bbox": [
+        0.5951612903225807,
+        0.4014962593516209,
+        0.6580645161290323,
+        0.4170822942643391
+      ],
+      "fieldtype": "line_item_amount_gross",
+      "line_item_id": 0,
+      "page": 0,
+      "text": "$6666.00"
+    }
+  ],
+  "line_item_headers": [],
+  "metadata": {
+    "cluster_id": 494,
+    "currency": "usd",
+    "document_type": "tax_invoice",
+    "language": "eng",
+    "original_filename": "hgyc0220",
+    "page_count": 1,
+    "page_sizes_at_200dpi": [
+      [
+        1701,
+        2201
+      ]
+    ],
+    "page_to_table_grid": {
+      "0": {
+        "bbox": [
+          0.21693548387096775,
+          0.4014962593516209,
+          0.6580645161290323,
+          0.4170822942643391
+        ],
+        "columns": [
+          {
+            "column_type": "line_item_description",
+            "left": 0.21693548387096775,
+            "right": 0.36693548387096775
+          },
+          {
+            "column_type": "line_item_amount_gross",
+            "left": 0.5951612903225807,
+            "right": 0.6580645161290323
+          }
+        ],
+        "missing_columns": false,
+        "missing_second_table_on_page": false,
+        "rows": [
+          {
+            "bottom": 0.4170822942643391,
+            "row_type": "data",
+            "top": 0.4014962593516209
+          }
+        ],
+        "table_border_type": "no_borders",
+        "table_structure": "normal"
+      }
+    },
+    "source": "ucsf"
+  }
+}
