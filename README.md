@@ -1,6 +1,12 @@
 # Fine-Tuning YOLOv8x for Intelligence Document Processing
 
-This repository contains the official implementation of **6-Channel Chargrid-Enriched YOLOv8x** fine-tuning for document key information location extraction (KILE) and line item recognition (LIR) on complex invoice templates.
+![Python 3.10](https://img.shields.io/badge/Python-3.10-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch 2.0+](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Ultralytics YOLOv8x](https://img.shields.io/badge/Ultralytics-YOLOv8x-00FFFF?style=flat-square&logo=yolo&logoColor=black)
+![PaddleOCR PP-OCRv4](https://img.shields.io/badge/PaddleOCR-PP--OCRv4-009688?style=flat-square&logo=baidu&logoColor=white)
+![OpenCV & NumPy](https://img.shields.io/badge/OpenCV%20%26%20NumPy-Chargrid_Tensors-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+An end-to-end multimodal deep learning pipeline for **Key Information Localization Extraction (KILE)** and **Line Item Recognition (LIR)** from complex semi-structured invoice documents. This repository integrates a **6-Channel Chargrid-Enriched YOLOv8x** object detector with **PaddleOCR** spatial character encoding for high-resolution field detection across 54 invoice entity categories (24 core business entity types).
 
 ---
 
