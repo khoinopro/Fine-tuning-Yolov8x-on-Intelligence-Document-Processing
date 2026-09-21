@@ -6,6 +6,10 @@ This repository contains the official implementation of **6-Channel Chargrid-Enr
 
 ## 🌟 Architecture & Key Features
 
+<p align="center">
+  <img src="docs/YOLOv8x%20structure.png" alt="YOLOv8x Architecture Diagram" width="100%">
+</p>
+
 * **6-Channel Multi-Modal Feature Stacking:** Combines 3-channel Base-5 encoded Chargrid spatial character maps with 3-channel RGB invoice document images into unified $[1664 \times 1280 \times 6]$ tensors.
 * **2-Stage Transfer Learning Warm Start:** Migrates standard 3-channel COCO weights to 6-channel layer-0 weights for warm-start training on DocILE and target Concentrix invoice datasets.
 * **High-Resolution Field Detection:** Operates at $1664 \times 1280$ resolution to preserve fine-grained OCR character text tokens and tiny field bounding box details.
@@ -21,6 +25,9 @@ This repository contains the official implementation of **6-Channel Chargrid-Enr
 │
 ├── configs/                 # Dataset configuration files
 │   └── concentrix.yaml      # 54-class schema mapping configuration
+│
+├── docs/                    # Architecture diagrams and documentation assets
+│   └── YOLOv8x structure.png
 │
 ├── notebooks/               # Cloud GPU training notebooks
 │   └── colab_finetune.ipynb
