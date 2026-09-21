@@ -27,6 +27,7 @@ This repository contains the official implementation of **6-Channel Chargrid-Enr
 │   └── concentrix.yaml      # 54-class schema mapping configuration
 │
 ├── docs/                    # Architecture diagrams and documentation assets
+│   ├── Bachelor Thesis Report.pdf
 │   └── YOLOv8x structure.png
 │
 ├── notebooks/               # Cloud GPU training notebooks
@@ -75,5 +76,27 @@ python inference_finetuned.py
 
 ---
 
-## 📜 Citation & Research Context
-Developed as part of research on multi-modal document intelligence and key information extraction leveraging YOLOv8 object detectors and PaddleOCR tokenizers.
+## 🏷️ Extracted Invoice Entities (24 Categories)
+
+| Entity Type | Label Fields |
+| :--- | :--- |
+| **Document Metadata** | `document_id`, `date_issue`, `date_due`, `terms`, `purchase_order_id` |
+| **Vendor / Sender** | `sender_name`, `sender_address`, `sender_vat_id`, `vendor_phone` |
+| **Customer / Recipient** | `recipient_name`, `recipient_address`, `recipient_delivery_name`, `recipient_delivery_address` |
+| **Tax & Totals** | `amount_due`, `amount_total_base`, `amount_total_tax`, `tax_amount`, `tax_name` |
+| **Line Items** | `item_description`, `item_amount`, `item_amount_total`, `item_uom` |
+
+---
+
+## 📄 Citation & Thesis Report
+
+This repository accompanies the **Bachelor's Thesis Report** on Invoice Key Information Localization Extraction (KILE) using 6-Channel Chargrid-Enriched YOLOv8x Architecture (YOLOv8x + Chargrid + PaddleOCR).
+
+* 📖 **Read Full Report:** [Bachelor Thesis Report.pdf](docs/Bachelor%20Thesis%20Report.pdf)
+
+---
+
+## 📜 License
+
+This project is developed for Invoice Intelligence Document research and production fine-tuning.
+
